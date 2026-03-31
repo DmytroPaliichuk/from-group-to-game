@@ -1,13 +1,9 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+# macOS files
+.DS_Store
 
 # Temp JSONs
 scripts/temp_jsons/*
+
+# Processed JSONs
+scripts/process_jsons/*
+
