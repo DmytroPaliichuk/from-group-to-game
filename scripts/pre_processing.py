@@ -1,3 +1,4 @@
+import csv
 import html as html_module
 import json
 import os
@@ -12,12 +13,30 @@ from vertexai.generative_models import GenerationConfig, GenerativeModel
 
 INPUT_DIR = Path("temp_jsons")
 OUTPUT_DIR = Path("process_jsons")
+CITY_MAPPING_PATH = Path("city_mapping.csv")
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 load_dotenv()
 
 unfilled_athletes = []
+
+
+def load_city_mapping(path=CITY_MAPPING_PATH):
+    mapping = {}
+    if not path.exists():
+        return mapping
+    with open(path, newline="") as f:
+        for row in csv.DictReader(f):
+            key = (row["city"].strip(), row["state"].strip())
+            try:
+                mapping[key] = {
+                    "latitude": float(row["latitude"]),
+                    "longitude": float(row["longitude"]),
+                }
+            except (ValueError, KeyError):
+                pass
+    return mapping
 
 
 def extract_image_urls(image_list):
@@ -158,15 +177,15 @@ Return only valid JSON. No explanation, no markdown, no extra keys."""
 
     def enrich(self, athlete, missing_fields):
         prompt = self._build_prompt(athlete, missing_fields)
-        print("--------------------------------")
-        print("Prompt:")
-        print(prompt)
-        print("--------------------------------")
+        # print("--------------------------------")
+        # print("Prompt:")
+        # print(prompt)
+        # print("--------------------------------")
         result = self._call_with_retry(prompt)
-        print("--------------------------------")
-        print("Result:")
-        print(result)
-        print("--------------------------------")
+        # print("--------------------------------")
+        # print("Result:")
+        # print(result)
+        # print("--------------------------------")
         if result is None:
             return athlete
 
@@ -195,7 +214,7 @@ Return only valid JSON. No explanation, no markdown, no extra keys."""
         return athlete
 
 
-def process_athlete(athlete):
+def process_athlete(athlete, city_mapping=None):
     bio_raw = athlete.get("bio", {})
     quick_facts = bio_raw.get("quick_facts", {})
     hometown = quick_facts.get("hometown", {})
@@ -217,6 +236,12 @@ def process_athlete(athlete):
         bio['hometown']['country'] = 'United States'
     else:
         bio['hometown']['country'] = None
+
+    city = bio['hometown'].get('city')
+    state = bio['hometown'].get('state')
+    coords = (city_mapping or {}).get((city, state)) if city and state else None
+    bio['hometown']['latitude'] = coords['latitude'] if coords else None
+    bio['hometown']['longitude'] = coords['longitude'] if coords else None
 
     sports = [
         {"title": s.get("title"), "type": s.get("type"), "season": s.get("season")}
@@ -240,13 +265,13 @@ def process_athlete(athlete):
     }
 
 
-def process_file(input_path, output_path):
+def process_file(input_path, output_path, city_mapping=None):
     with open(input_path) as f:
         data = json.load(f)
 
     entries = []
     for a in data.get("entries", []):
-        processed = process_athlete(a)
+        processed = process_athlete(a, city_mapping)
         if not check_missing_fields(processed):
             entries.append(processed)
 
@@ -255,11 +280,13 @@ def process_file(input_path, output_path):
 
 
 def main():
+    city_mapping = load_city_mapping()
+
     # Phase 1: transform raw files → process_jsons/
     files = sorted(INPUT_DIR.glob("*.json"))
     for input_path in files:
         output_path = OUTPUT_DIR / input_path.name
-        process_file(input_path, output_path)
+        process_file(input_path, output_path, city_mapping)
         print(f"Processed {input_path.name}")
     print(f"\nDone. {len(files)} files written to {OUTPUT_DIR}/")
 
@@ -276,32 +303,32 @@ def main():
 
     print(f"\nFound {len(unfilled_athletes)} athletes with missing fields (out of {len(all_athletes)} total)")
 
-    # Phase 3: enrich with Gemini via ADC
-    try:
-        enricher = GeminiEnricher()
-    except Exception as e:
-        if "credentials" in str(e).lower() or "authentication" in str(e).lower():
-            print(
-                "\n[ERROR] Authentication failed.\n"
-                "Run: gcloud auth application-default login",
-                file=sys.stderr,
-            )
-            sys.exit(1)
-        raise
+    # # Phase 3: enrich with Gemini via ADC
+    # try:
+    #     enricher = GeminiEnricher()
+    # except Exception as e:
+    #     if "credentials" in str(e).lower() or "authentication" in str(e).lower():
+    #         print(
+    #             "\n[ERROR] Authentication failed.\n"
+    #             "Run: gcloud auth application-default login",
+    #             file=sys.stderr,
+    #         )
+    #         sys.exit(1)
+    #     raise
 
-    for i, entry in enumerate(unfilled_athletes[:3]):
-        athlete = entry["athlete"]
-        missing = entry["missing_fields"]
-        name = f"{athlete.get('first_name', '')} {athlete.get('last_name', '')}".strip()
-        print(f"  Enriching [{i + 1}/{len(unfilled_athletes)}]: {name} (missing: {missing})")
-        enricher.enrich(athlete, missing)
-        time.sleep(0.1)
+    # for i, entry in enumerate(unfilled_athletes):
+    #     athlete = entry["athlete"]
+    #     missing = entry["missing_fields"]
+    #     name = f"{athlete.get('first_name', '')} {athlete.get('last_name', '')}".strip()
+    #     print(f"  Enriching [{i + 1}/{len(unfilled_athletes)}]: {name} (missing: {missing})")
+    #     enricher.enrich(athlete, missing)
+    #     time.sleep(0.1)
 
-    # Phase 4: write combined output
-    output_path = OUTPUT_DIR / "athletes_updated.json"
-    with open(output_path, "w") as f:
-        json.dump({"entries": all_athletes}, f, indent=2, ensure_ascii=False)
-    print(f"\nWrote {len(all_athletes)} athletes to {output_path}")
+    # # Phase 4: write combined output
+    # output_path = OUTPUT_DIR / "athletes_updated.json"
+    # with open(output_path, "w") as f:
+    #     json.dump({"entries": all_athletes}, f, indent=2, ensure_ascii=False)
+    # print(f"\nWrote {len(all_athletes)} athletes to {output_path}")
 
 
 if __name__ == "__main__":
