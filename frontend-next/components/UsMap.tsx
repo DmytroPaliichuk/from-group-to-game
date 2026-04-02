@@ -24,12 +24,12 @@ export default function UsMap({ cities }: UsMapProps) {
   useEffect(() => {
     if (!svgRef.current) return
 
-    const width = 960
-    const height = 600
+    const width = 1200
+    const height = 750
     const svg = d3.select(svgRef.current)
     svg.selectAll('*').remove()
 
-    const projection = d3.geoAlbersUsa().scale(1300).translate([width / 2, height / 2])
+    const projection = d3.geoAlbersUsa().scale(1600).translate([width / 2, height / 2])
     const path = d3.geoPath().projection(projection)
 
     fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json')
@@ -77,9 +77,9 @@ export default function UsMap({ cities }: UsMapProps) {
   }, [cities, activeCity])
 
   return (
-    <div className="relative">
-      <div className="w-full max-w-[960px] bg-slate-800 rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(0,0,0,0.4)]">
-        <svg ref={svgRef} viewBox="0 0 960 600" className="block w-full h-auto" />
+    <div className="relative w-full">
+      <div className="w-full bg-slate-800 rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(0,0,0,0.4)]">
+        <svg ref={svgRef} viewBox="0 0 1200 750" className="block w-full h-auto" />
       </div>
 
       {/* Tooltip */}
@@ -93,23 +93,6 @@ export default function UsMap({ cities }: UsMapProps) {
         </div>
       )}
 
-      {/* City tag list */}
-      <div className="w-full max-w-[960px] mt-5 flex flex-wrap gap-2">
-        {cities.map(d => (
-          <span
-            key={`${d.city}-${d.state}`}
-            className={`border rounded-full px-3 py-1 text-xs cursor-pointer transition-colors duration-150
-              ${activeCity === d.city
-                ? 'bg-sky-400 border-sky-400 text-slate-900 font-semibold'
-                : 'bg-slate-800 border-slate-700 text-slate-400 hover:bg-sky-400 hover:border-sky-400 hover:text-slate-900 hover:font-semibold'
-              }`}
-            onMouseEnter={() => setActiveCity(d.city)}
-            onMouseLeave={() => setActiveCity(null)}
-          >
-            {d.city}, {d.state}
-          </span>
-        ))}
-      </div>
     </div>
   )
 }
