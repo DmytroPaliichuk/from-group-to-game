@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+.uv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Data files (large scraped datasets)
+data/
+
+# Claude Code
+.claude/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy / type checkers
+.mypy_cache/
+.dmypy.json
