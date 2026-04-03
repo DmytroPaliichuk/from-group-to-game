@@ -17,7 +17,7 @@ export default function MapWithFilter({ cities }: { cities: City[] }) {
   const filtered = selectedState ? cities.filter(c => c.state === selectedState) : cities
 
   return (
-    <div className="w-full">
+    <div className="w-full h-full flex flex-col bg-slate-800 rounded-2xl p-4 overflow-hidden">
       <div className="mb-3 flex items-center gap-2">
         <label htmlFor="state-filter" className="text-sm text-slate-400">
           State

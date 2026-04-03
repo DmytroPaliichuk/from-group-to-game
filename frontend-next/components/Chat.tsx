@@ -32,7 +32,7 @@ export default function Chat() {
   }
 
   return (
-    <aside className="flex flex-col w-96 h-screen border-l border-slate-700 bg-slate-900">
+    <aside className="flex flex-col w-full h-full rounded-2xl overflow-hidden bg-slate-900">
       <div className="px-4 py-3 border-b border-slate-700">
         <h2 className="text-slate-100 font-semibold text-sm tracking-wide">AI Chat</h2>
       </div>

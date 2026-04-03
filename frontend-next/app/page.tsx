@@ -1,5 +1,4 @@
-import Chat from '@/components/Chat'
-import MapWithFilter from '@/components/MapWithFilter'
+import ResizableLayout from '@/components/ResizableLayout'
 
 export default async function Home() {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -18,10 +17,5 @@ export default async function Home() {
     // API unavailable — map renders with no cities
   }
 
-  return (
-    <main className="flex flex-row h-screen overflow-hidden">
-      <MapWithFilter cities={cities} />
-      <Chat />
-    </main>
-  )
+  return <ResizableLayout cities={cities} />
 }
