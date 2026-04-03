@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react'
 import Chat from '@/components/Chat'
-import MapWithFilter from '@/components/MapWithFilter'
+import MapContentSlider from '@/components/MapContentSlider'
 
 const CHAT_MIN = 200
 const CHAT_MAX = 700
@@ -50,7 +50,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
 
   return (
     <main className="flex flex-row h-screen overflow-hidden p-4 bg-slate-950">
-      <MapWithFilter cities={cities} />
+      <MapContentSlider cities={cities} />
 
       <div
         onMouseDown={onSeparatorMouseDown}

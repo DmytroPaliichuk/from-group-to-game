@@ -10,14 +10,22 @@ interface City {
   lng: number
 }
 
-export default function MapWithFilter({ cities }: { cities: City[] }) {
+export default function MapWithFilter({ cities, onContentPage }: { cities: City[]; onContentPage?: () => void }) {
   const [selectedState, setSelectedState] = useState('')
 
   const states = [...new Set(cities.map(c => c.state))].sort()
   const filtered = selectedState ? cities.filter(c => c.state === selectedState) : cities
 
   return (
-    <div className="w-full h-full flex flex-col bg-slate-800 rounded-2xl p-4 overflow-hidden">
+    <div className="relative w-full h-full flex flex-col bg-slate-800 rounded-2xl p-4 overflow-hidden">
+      {onContentPage && (
+        <button
+          onClick={onContentPage}
+          className="absolute top-4 right-4 z-10 bg-slate-700 hover:bg-slate-600 text-slate-100 text-sm px-4 py-2 rounded-xl border border-slate-600 transition-colors"
+        >
+          Content Page &gt;&gt;
+        </button>
+      )}
       <div className="mb-3 flex items-center gap-2">
         <label htmlFor="state-filter" className="text-sm text-slate-400">
           State
