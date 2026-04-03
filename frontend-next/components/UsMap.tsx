@@ -22,6 +22,7 @@ interface UsMapProps {
   cities: City[]
   selectedState?: string
   stateCities?: StateCityEntry[]
+  onStateSelect?: (state: string) => void
 }
 
 const STATE_FIPS: Record<string, number> = {
@@ -34,7 +35,11 @@ const STATE_FIPS: Record<string, number> = {
   WV: 54, WI: 55, WY: 56,
 }
 
-export default function UsMap({ cities, selectedState, stateCities }: UsMapProps) {
+const FIPS_TO_STATE: Record<number, string> = Object.fromEntries(
+  Object.entries(STATE_FIPS).map(([abbr, fips]) => [fips, abbr])
+)
+
+export default function UsMap({ cities, selectedState, stateCities, onStateSelect }: UsMapProps) {
   const svgRef = useRef<SVGSVGElement>(null)
   const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string } | null>(null)
   const [activeCity, setActiveCity] = useState<string | null>(null)
@@ -75,18 +80,32 @@ export default function UsMap({ cities, selectedState, stateCities }: UsMapProps
           .attr('class', 'state')
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           .attr('d', path as any)
-
-        // State borders (only when showing all states)
-        if (!selectedState) {
-          svg.append('path')
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            .datum(topojson.mesh(us, (us.objects as any).states, (a: any, b: any) => a !== b))
-            .attr('fill', 'none')
-            .attr('stroke', '#64748b')
-            .attr('stroke-width', 0.8)
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            .attr('d', path as any)
-        }
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          .style('stroke', (d: any) => FIPS_TO_STATE[Number(d.id)] === selectedState ? '#60a5fa' : null)
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          .style('stroke-width', (d: any) => FIPS_TO_STATE[Number(d.id)] === selectedState ? '2px' : null)
+          .style('cursor', 'pointer')
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          .on('mouseenter', (event: MouseEvent, d: any) => {
+            const abbr = FIPS_TO_STATE[Number(d.id)]
+            if (abbr !== selectedState) {
+              d3.select(event.currentTarget as SVGPathElement).style('stroke', '#facc15').style('stroke-width', '2px')
+            }
+          })
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          .on('mouseleave', (event: MouseEvent, d: any) => {
+            const abbr = FIPS_TO_STATE[Number(d.id)]
+            if (abbr !== selectedState) {
+              d3.select(event.currentTarget as SVGPathElement).style('stroke', null).style('stroke-width', null)
+            }
+          })
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          .on('click', function(_event: MouseEvent, d: any) {
+            const abbr = FIPS_TO_STATE[Number(d.id)]
+            if (abbr && onStateSelect) {
+              onStateSelect(abbr === selectedState ? '' : abbr)
+            }
+          })
 
         // Draw city dots
         svg.append('g')

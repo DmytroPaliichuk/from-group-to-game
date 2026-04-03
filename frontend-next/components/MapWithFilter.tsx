@@ -44,7 +44,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
           ))}
         </select>
       </div>
-      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} />
+      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={setSelectedState} />
     </div>
   )
 }
