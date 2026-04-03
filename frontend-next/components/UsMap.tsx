@@ -12,9 +12,16 @@ interface City {
   lng: number
 }
 
+interface StateCityEntry {
+  city: string
+  lat: number
+  lng: number
+}
+
 interface UsMapProps {
   cities: City[]
   selectedState?: string
+  stateCities?: StateCityEntry[]
 }
 
 const STATE_FIPS: Record<string, number> = {
@@ -27,7 +34,7 @@ const STATE_FIPS: Record<string, number> = {
   WV: 54, WI: 55, WY: 56,
 }
 
-export default function UsMap({ cities, selectedState }: UsMapProps) {
+export default function UsMap({ cities, selectedState, stateCities }: UsMapProps) {
   const svgRef = useRef<SVGSVGElement>(null)
   const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string } | null>(null)
   const [activeCity, setActiveCity] = useState<string | null>(null)
@@ -98,9 +105,36 @@ export default function UsMap({ cities, selectedState }: UsMapProps) {
             setTooltip({ x: event.clientX, y: event.clientY, city: d.city, state: d.state })
           })
           .on('mouseleave', () => setTooltip(null))
+
+        // Draw top state cities (red dots with labels)
+        if (stateCities && stateCities.length > 0) {
+          const validStateCities = stateCities.filter(d => projection([d.lng, d.lat]) !== null)
+          const g = svg.append('g')
+
+          g.selectAll('circle')
+            .data(validStateCities)
+            .join('circle')
+            .attr('cx', d => projection([d.lng, d.lat])![0])
+            .attr('cy', d => projection([d.lng, d.lat])![1])
+            .attr('r', 6)
+            .attr('fill', '#ef4444')
+            .attr('stroke', '#0f172a')
+            .attr('stroke-width', 1)
+
+          g.selectAll('text')
+            .data(validStateCities)
+            .join('text')
+            .attr('x', d => projection([d.lng, d.lat])![0])
+            .attr('y', d => projection([d.lng, d.lat])![1] + 18)
+            .attr('text-anchor', 'middle')
+            .attr('fill', '#f1f5f9')
+            .attr('font-size', '12')
+            .attr('font-weight', '600')
+            .text(d => d.city)
+        }
       })
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [cities, activeCity, selectedState])
+  }, [cities, activeCity, selectedState, stateCities])
 
   return (
     <div className="relative w-full">

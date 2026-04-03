@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import UsMap from './UsMap'
+import topStateCities from '@/public/topStateSities.json'
 
 interface City {
   city: string
@@ -15,6 +16,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
 
   const states = [...new Set(cities.map(c => c.state))].sort()
   const filtered = selectedState ? cities.filter(c => c.state === selectedState) : cities
+  const stateCities = selectedState ? (topStateCities[selectedState as keyof typeof topStateCities] ?? []) : []
 
   return (
     <div className="relative w-full h-full flex flex-col bg-slate-800 rounded-2xl p-4 overflow-hidden">
@@ -42,7 +44,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
           ))}
         </select>
       </div>
-      <UsMap cities={filtered} selectedState={selectedState || undefined} />
+      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} />
     </div>
   )
 }
