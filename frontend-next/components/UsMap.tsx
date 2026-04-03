@@ -14,9 +14,20 @@ interface City {
 
 interface UsMapProps {
   cities: City[]
+  selectedState?: string
 }
 
-export default function UsMap({ cities }: UsMapProps) {
+const STATE_FIPS: Record<string, number> = {
+  AL: 1,  AK: 2,  AZ: 4,  AR: 5,  CA: 6,  CO: 8,  CT: 9,  DE: 10,
+  DC: 11, FL: 12, GA: 13, HI: 15, ID: 16, IL: 17, IN: 18, IA: 19,
+  KS: 20, KY: 21, LA: 22, ME: 23, MD: 24, MA: 25, MI: 26, MN: 27,
+  MS: 28, MO: 29, MT: 30, NE: 31, NV: 32, NH: 33, NJ: 34, NM: 35,
+  NY: 36, NC: 37, ND: 38, OH: 39, OK: 40, OR: 41, PA: 42, RI: 44,
+  SC: 45, SD: 46, TN: 47, TX: 48, UT: 49, VT: 50, VA: 51, WA: 53,
+  WV: 54, WI: 55, WY: 56,
+}
+
+export default function UsMap({ cities, selectedState }: UsMapProps) {
   const svgRef = useRef<SVGSVGElement>(null)
   const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string } | null>(null)
   const [activeCity, setActiveCity] = useState<string | null>(null)
@@ -35,25 +46,40 @@ export default function UsMap({ cities }: UsMapProps) {
     fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json')
       .then(r => r.json())
       .then((us: Topology) => {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const allFeatures = (topojson.feature(us, (us.objects as any).states) as any).features
+
+        let visibleFeatures = allFeatures
+        if (selectedState && STATE_FIPS[selectedState] !== undefined) {
+          const fips = STATE_FIPS[selectedState]
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          const stateFeature = allFeatures.find((f: any) => Number(f.id) === fips)
+          if (stateFeature) {
+            visibleFeatures = [stateFeature]
+            projection.fitExtent([[40, 40], [width - 40, height - 40]], stateFeature)
+          }
+        }
+
         // Draw states
         svg.append('g')
           .selectAll('path')
-          // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          .data((topojson.feature(us, (us.objects as any).states) as any).features)
+          .data(visibleFeatures)
           .join('path')
           .attr('class', 'state')
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           .attr('d', path as any)
 
-        // State borders
-        svg.append('path')
-          // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          .datum(topojson.mesh(us, (us.objects as any).states, (a: any, b: any) => a !== b))
-          .attr('fill', 'none')
-          .attr('stroke', '#64748b')
-          .attr('stroke-width', 0.8)
-          // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          .attr('d', path as any)
+        // State borders (only when showing all states)
+        if (!selectedState) {
+          svg.append('path')
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            .datum(topojson.mesh(us, (us.objects as any).states, (a: any, b: any) => a !== b))
+            .attr('fill', 'none')
+            .attr('stroke', '#64748b')
+            .attr('stroke-width', 0.8)
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            .attr('d', path as any)
+        }
 
         // Draw city dots
         svg.append('g')
@@ -74,7 +100,7 @@ export default function UsMap({ cities }: UsMapProps) {
           .on('mouseleave', () => setTooltip(null))
       })
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [cities, activeCity])
+  }, [cities, activeCity, selectedState])
 
   return (
     <div className="relative w-full">
