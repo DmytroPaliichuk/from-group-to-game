@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
 
 app = FastAPI()
 DATA_DIR = Path(__file__).parent / "data"
@@ -19,14 +19,15 @@ _athletes = _load_athletes()
 
 
 @app.get("/athletes/hometowns")
-def get_hometowns():
+def get_hometowns(state: str | None = Query(default=None)):
     result = []
     for a in _athletes:
         hometown = a.get("bio", {}).get("hometown")
         if hometown:
-            result.append({
-                "first_name": a.get("first_name"),
-                "last_name": a.get("last_name"),
-                "hometown": hometown,
-            })
+            if state is None or hometown.get("state") == state:
+                result.append({
+                    "first_name": a.get("first_name"),
+                    "last_name": a.get("last_name"),
+                    "hometown": hometown,
+                })
     return result
