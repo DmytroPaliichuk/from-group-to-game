@@ -120,10 +120,41 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
           .attr('stroke', '#0f172a')
           .attr('stroke-width', 1)
           .style('cursor', 'pointer')
+          .on('mouseenter', (_event: MouseEvent, d: City) => {
+            const fips = STATE_FIPS[d.state]
+            if (fips !== undefined) {
+              // eslint-disable-next-line @typescript-eslint/no-explicit-any
+              svg.selectAll<SVGPathElement, any>('.state')
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                .filter((pd: any) => Number(pd.id) === fips)
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                .each(function(pd: any) {
+                  if (FIPS_TO_STATE[Number(pd.id)] !== selectedState) {
+                    d3.select(this).style('stroke', '#facc15').style('stroke-width', '2px')
+                  }
+                })
+            }
+          })
           .on('mousemove', (event: MouseEvent, d: City) => {
             setTooltip({ x: event.clientX, y: event.clientY, city: d.city, state: d.state })
           })
-          .on('mouseleave', () => setTooltip(null))
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          .on('mouseleave', (_event: MouseEvent, d: City) => {
+            setTooltip(null)
+            const fips = STATE_FIPS[d.state]
+            if (fips !== undefined) {
+              // eslint-disable-next-line @typescript-eslint/no-explicit-any
+              svg.selectAll<SVGPathElement, any>('.state')
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                .filter((pd: any) => Number(pd.id) === fips)
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                .each(function(pd: any) {
+                  if (FIPS_TO_STATE[Number(pd.id)] !== selectedState) {
+                    d3.select(this).style('stroke', null).style('stroke-width', null)
+                  }
+                })
+            }
+          })
 
         // Draw top state cities (red dots with labels)
         if (stateCities && stateCities.length > 0) {
