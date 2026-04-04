@@ -9,7 +9,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Never run `npm run dev`
 - Use `npm run build` to check if code compiles or not. See results and fix code if needed
 - `npm run lint` - Run ESLint for code quality
-- `npm run start` - Start the production server
 
 ## Environment
 
