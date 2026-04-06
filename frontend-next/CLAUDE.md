@@ -47,3 +47,4 @@ app/page.tsx (Server Component)
 - Styling uses Tailwind CSS v4 (PostCSS) with a dark slate theme.
 - Path alias `@/*` resolves to the repo root.
 - TypeScript strict mode is on.
+- Use context7 tool to see libraries documentations.
