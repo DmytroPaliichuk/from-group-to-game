@@ -9,6 +9,7 @@ interface City {
   state: string
   lat: number
   lng: number
+  athletes: { first_name: string; last_name: string }[]
 }
 
 export default function MapWithFilter({ cities, onContentPage }: { cities: City[]; onContentPage?: () => void }) {
