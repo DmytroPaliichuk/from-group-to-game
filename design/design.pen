@@ -1,0 +1,716 @@
+{
+  "version": "2.7",
+  "children": [
+    {
+      "type": "frame",
+      "id": "1jHor",
+      "x": 0,
+      "y": 0,
+      "name": "Main Page",
+      "width": 1440,
+      "height": 900,
+      "fill": "#020617",
+      "padding": 16,
+      "children": [
+        {
+          "type": "frame",
+          "id": "BEiBX",
+          "name": "Map Panel",
+          "clip": true,
+          "width": "fill_container",
+          "height": "fill_container",
+          "fill": "#1e293b",
+          "cornerRadius": 16,
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 16,
+          "children": [
+            {
+              "type": "frame",
+              "id": "kf3lw",
+              "name": "Map Top Bar",
+              "width": "fill_container",
+              "gap": 8,
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "JgdHf",
+                  "name": "Filter Group",
+                  "gap": 8,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "XzEwQ",
+                      "name": "Filter Label",
+                      "fill": "#94a3b8",
+                      "content": "State",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "jQfyg",
+                      "name": "State Select",
+                      "width": 120,
+                      "height": 30,
+                      "fill": "#334155",
+                      "cornerRadius": 6,
+                      "gap": 4,
+                      "padding": [
+                        6,
+                        8
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "WUZOk",
+                          "name": "Select Text",
+                          "fill": "#f1f5f9",
+                          "content": "All States",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        },
+                        {
+                          "type": "text",
+                          "id": "O8CLW",
+                          "name": "Chevron",
+                          "fill": "#94a3b8",
+                          "content": "▾",
+                          "fontFamily": "Inter",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "HcFGm",
+                  "type": "ref",
+                  "ref": "HVvR0",
+                  "name": "Type Filter"
+                },
+                {
+                  "id": "ycWsN",
+                  "type": "ref",
+                  "ref": "r04g3",
+                  "name": "Season Filter"
+                },
+                {
+                  "type": "frame",
+                  "id": "GRgTK",
+                  "name": "Content Page Button",
+                  "height": 34,
+                  "fill": "#334155",
+                  "cornerRadius": 12,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 1,
+                    "fill": "#475569"
+                  },
+                  "padding": [
+                    6,
+                    16
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "1zEjz",
+                      "name": "Button Text",
+                      "fill": "#f1f5f9",
+                      "content": "Content Page >>",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "K7ucO",
+              "name": "US Map Area",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./images/generated-1775458372760.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 12,
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "X8lez",
+                  "name": "Map Placeholder",
+                  "fill": "#475569",
+                  "content": "US Map",
+                  "fontFamily": "Inter",
+                  "fontSize": 20,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "gVmed",
+          "name": "Separator",
+          "width": 12,
+          "height": "fill_container",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 2,
+              "id": "RW0XV",
+              "x": 5,
+              "y": 0,
+              "name": "Sep Line",
+              "fill": "#334155",
+              "width": 2,
+              "height": 868
+            },
+            {
+              "type": "frame",
+              "id": "XhHhh",
+              "x": 4,
+              "y": 410,
+              "name": "Sep Dots",
+              "width": 4,
+              "layout": "vertical",
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "ellipse",
+                  "id": "AS77S",
+                  "name": "Dot 1",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                },
+                {
+                  "type": "ellipse",
+                  "id": "vGmlj",
+                  "name": "Dot 2",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                },
+                {
+                  "type": "ellipse",
+                  "id": "7LDZO",
+                  "name": "Dot 3",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "rAAr3",
+          "name": "Chat Panel",
+          "clip": true,
+          "width": 384,
+          "height": "fill_container",
+          "fill": "#0f172a",
+          "cornerRadius": 16,
+          "layout": "vertical",
+          "children": [
+            {
+              "type": "frame",
+              "id": "AAEnU",
+              "name": "Chat Header",
+              "width": "fill_container",
+              "height": 48,
+              "stroke": {
+                "align": "outside",
+                "thickness": 1,
+                "fill": "#334155"
+              },
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "6ZXty",
+                  "name": "Chat Title",
+                  "fill": "#f1f5f9",
+                  "content": "AI Chat",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "600",
+                  "letterSpacing": 0.5
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "6xucO",
+              "name": "Messages Area",
+              "width": "fill_container",
+              "height": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 16,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "YA80w",
+                  "name": "Empty State",
+                  "enabled": false,
+                  "fill": "#64748b",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container",
+                  "content": "Send a message to get started.",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "Q8FG8",
+                  "name": "User Message Row",
+                  "width": "fill_container",
+                  "justifyContent": "end",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "izjqO",
+                      "name": "User Bubble",
+                      "fill": "#0284c7",
+                      "cornerRadius": 18,
+                      "padding": [
+                        8,
+                        12
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "O92ML",
+                          "name": "User Text",
+                          "fill": "#ffffff",
+                          "textGrowth": "fixed-width",
+                          "width": 200,
+                          "content": "Show me athletes from Ohio",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "qt2O7",
+                  "name": "AI Message Row",
+                  "width": "fill_container",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "1O3tH",
+                      "name": "AI Bubble",
+                      "fill": "#334155",
+                      "cornerRadius": 18,
+                      "padding": [
+                        8,
+                        12
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "UK93b",
+                          "name": "AI Text",
+                          "fill": "#f1f5f9",
+                          "textGrowth": "fixed-width",
+                          "width": 220,
+                          "content": "Thinking... (AI agents coming soon)",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "kys1z",
+              "name": "Chat Input Bar",
+              "width": "fill_container",
+              "stroke": {
+                "align": "outside",
+                "thickness": 1,
+                "fill": "#334155"
+              },
+              "gap": 8,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "0Hrz6",
+                  "name": "Input Field",
+                  "width": "fill_container",
+                  "height": 40,
+                  "fill": "#1e293b",
+                  "cornerRadius": 12,
+                  "padding": [
+                    8,
+                    12
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "VOs9q",
+                      "name": "Placeholder",
+                      "fill": "#64748b",
+                      "content": "Type a message...",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "6PH3H",
+                  "name": "Send Button",
+                  "height": 40,
+                  "fill": "#0284c7",
+                  "cornerRadius": 12,
+                  "padding": [
+                    8,
+                    16
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "qgwmz",
+                      "name": "Send Text",
+                      "fill": "#ffffff",
+                      "content": "Send",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "HVvR0",
+      "x": 1500,
+      "y": 0,
+      "name": "Component/TypeFilter",
+      "reusable": true,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "OwG9a",
+          "name": "Label",
+          "fill": "#94a3b8",
+          "content": "Type",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "XP0hz",
+          "name": "Toggle Group",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "gap": 2,
+          "padding": 2,
+          "children": [
+            {
+              "type": "frame",
+              "id": "qo7bX",
+              "name": "Olympian Chip",
+              "fill": "#0284c7",
+              "cornerRadius": 6,
+              "padding": [
+                4,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "AxWdu",
+                  "name": "Olympian Label",
+                  "fill": "#ffffff",
+                  "content": "Olympian",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "q3fIZ",
+              "name": "Paralympian Chip",
+              "fill": "#0284c7",
+              "cornerRadius": 6,
+              "padding": [
+                4,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Nlloc",
+                  "name": "Paralympian Label",
+                  "fill": "#ffffff",
+                  "content": "Paralympian",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "JjnN5",
+      "x": 1500,
+      "y": 80,
+      "name": "Filter States",
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "ggUkm",
+          "name": "Section Title",
+          "fill": "#94a3b8",
+          "content": "TypeFilter — States",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600",
+          "letterSpacing": 1
+        },
+        {
+          "id": "QhFAs",
+          "type": "ref",
+          "ref": "HVvR0",
+          "name": "Both Active (default)"
+        },
+        {
+          "id": "p4fMa",
+          "type": "ref",
+          "ref": "HVvR0",
+          "name": "Olympian Only",
+          "descendants": {
+            "q3fIZ": {
+              "fill": "#1e293b"
+            },
+            "Nlloc": {
+              "fill": "#475569"
+            }
+          }
+        },
+        {
+          "id": "sCat4",
+          "type": "ref",
+          "ref": "HVvR0",
+          "name": "Paralympian Only",
+          "descendants": {
+            "qo7bX": {
+              "fill": "#1e293b"
+            },
+            "AxWdu": {
+              "fill": "#475569"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "r04g3",
+      "x": 1500,
+      "y": 380,
+      "name": "Component/SeasonFilter",
+      "reusable": true,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "SNtlb",
+          "name": "Label",
+          "fill": "#94a3b8",
+          "content": "Season",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "DKfPx",
+          "name": "Toggle Group",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "gap": 2,
+          "padding": 2,
+          "children": [
+            {
+              "type": "frame",
+              "id": "1pPek",
+              "name": "Summer Chip",
+              "fill": "#0284c7",
+              "cornerRadius": 6,
+              "padding": [
+                4,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "cKluh",
+                  "name": "Summer Label",
+                  "fill": "#ffffff",
+                  "content": "Summer",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "jyq48",
+              "name": "Winter Chip",
+              "fill": "#0284c7",
+              "cornerRadius": 6,
+              "padding": [
+                4,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "D7J3t",
+                  "name": "Winter Label",
+                  "fill": "#ffffff",
+                  "content": "Winter",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "0yEyj",
+      "x": 1500,
+      "y": 430,
+      "name": "Season Filter States",
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "61TTY",
+          "name": "Section Title",
+          "fill": "#94a3b8",
+          "content": "SeasonFilter — States",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600",
+          "letterSpacing": 1
+        },
+        {
+          "id": "9xQhH",
+          "type": "ref",
+          "ref": "r04g3",
+          "name": "Both Active (default)"
+        },
+        {
+          "id": "Ne3ZS",
+          "type": "ref",
+          "ref": "r04g3",
+          "name": "Summer Only",
+          "descendants": {
+            "jyq48": {
+              "fill": "#1e293b"
+            },
+            "D7J3t": {
+              "fill": "#475569"
+            }
+          }
+        },
+        {
+          "id": "ZZExh",
+          "type": "ref",
+          "ref": "r04g3",
+          "name": "Winter Only",
+          "descendants": {
+            "1pPek": {
+              "fill": "#1e293b"
+            },
+            "cKluh": {
+              "fill": "#475569"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
