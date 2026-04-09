@@ -37,7 +37,10 @@
                 {
                   "type": "frame",
                   "id": "JgdHf",
+                  "x": 0,
+                  "y": 11,
                   "name": "Filter Group",
+                  "enabled": false,
                   "gap": 8,
                   "alignItems": "center",
                   "children": [
@@ -94,10 +97,10 @@
                   "id": "HcFGm",
                   "type": "ref",
                   "ref": "HVvR0",
-                  "name": "GameType",
+                  "name": "GameType Filter",
                   "width": "fit_content",
                   "height": "fit_content",
-                  "x": 284,
+                  "x": 0,
                   "descendants": {
                     "OwG9a": {
                       "y": 17.5
@@ -141,8 +144,28 @@
                   "name": "Season Filter",
                   "width": "fit_content",
                   "height": 40,
-                  "x": 554,
+                  "x": 187,
                   "y": 6
+                },
+                {
+                  "id": "xnm3b",
+                  "type": "ref",
+                  "ref": "ET3MG",
+                  "name": "Medals Filter",
+                  "width": "fit_content",
+                  "height": 52,
+                  "x": 385,
+                  "y": 0
+                },
+                {
+                  "id": "QPqai",
+                  "type": "ref",
+                  "ref": "wXZfd",
+                  "name": "Sport Disciplines Filter",
+                  "width": "fit_content",
+                  "height": "fit_content",
+                  "x": 632,
+                  "y": 11
                 },
                 {
                   "type": "frame",
@@ -481,7 +504,7 @@
       "id": "HVvR0",
       "x": 1500,
       "y": 0,
-      "name": "Component/GameType",
+      "name": "Component/GameTypeFilter",
       "reusable": true,
       "gap": 8,
       "alignItems": "center",
@@ -580,7 +603,7 @@
       "id": "JjnN5",
       "x": 1500,
       "y": 80,
-      "name": "Filter States",
+      "name": "Game Type Filter States",
       "fill": "#1e293b",
       "cornerRadius": 12,
       "layout": "vertical",
@@ -852,6 +875,2256 @@
           "height": 40,
           "x": 24,
           "y": 191
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ET3MG",
+      "x": 1500,
+      "y": 835,
+      "name": "Component/MedalsFilter",
+      "reusable": true,
+      "height": 52,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "UMPrw",
+          "name": "Label",
+          "fill": "#94a3b8",
+          "content": "Medals",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "uclSd",
+          "name": "Toggle Group",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "gap": 2,
+          "padding": 2,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "VAjlu",
+              "name": "Gold Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#FFD700",
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#38bdf8"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "qOSVq",
+                  "name": "Gold Text",
+                  "fill": "#92400e",
+                  "content": "G",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "C2uLr",
+              "name": "Silver Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#94a3b8",
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#38bdf8"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "dFxmX",
+                  "name": "Silver Text",
+                  "fill": "#1e293b",
+                  "content": "S",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "XXvHG",
+              "name": "Bronze Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#cd7f32",
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#38bdf8"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "jCnxB",
+                  "name": "Bronze Text",
+                  "fill": "#ffffff",
+                  "content": "B",
+                  "fontFamily": "Inter",
+                  "fontSize": 18,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IESKo",
+      "x": 1500,
+      "y": 942,
+      "name": "Medal Filter States",
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "zXEpq",
+          "name": "Section Title",
+          "fill": "#94a3b8",
+          "content": "MedalsFilter — States",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600",
+          "letterSpacing": 1
+        },
+        {
+          "id": "HhZ50",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "All Active (default)",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 63
+        },
+        {
+          "id": "Gjh0J",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "Gold Only",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 139,
+          "descendants": {
+            "C2uLr": {
+              "opacity": 0.25,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            },
+            "XXvHG": {
+              "opacity": 0.25,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            }
+          }
+        },
+        {
+          "id": "ycIJV",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "Silver Only",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 215,
+          "descendants": {
+            "VAjlu": {
+              "opacity": 0.25,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            },
+            "XXvHG": {
+              "opacity": 0.25,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            }
+          }
+        },
+        {
+          "id": "KtcCc",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "Bronze Only",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 291,
+          "descendants": {
+            "VAjlu": {
+              "opacity": 0.25,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            },
+            "C2uLr": {
+              "opacity": 0.25,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "wXZfd",
+      "x": 1500,
+      "y": 1350,
+      "name": "Component/SportDisciplinesFilter",
+      "reusable": true,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "2X6Hp",
+          "name": "Label",
+          "fill": "#94a3b8",
+          "content": "Sport",
+          "fontFamily": "Inter",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "R4UsW",
+          "name": "Disciplines Select",
+          "height": 30,
+          "fill": "#334155",
+          "cornerRadius": 6,
+          "gap": 4,
+          "padding": [
+            6,
+            8
+          ],
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "NMjzb",
+              "name": "Select Text",
+              "fill": "#f1f5f9",
+              "content": "All Disciplines",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "GI5dK",
+              "name": "Chevron",
+              "fill": "#94a3b8",
+              "content": "▾",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IxZV0",
+      "x": 1900,
+      "y": 0,
+      "name": "Sport Disciplines — Open State",
+      "width": 340,
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "ZZevp",
+          "name": "Panel Header",
+          "width": "fill_container",
+          "stroke": {
+            "align": "outside",
+            "thickness": 1,
+            "fill": "#334155"
+          },
+          "padding": [
+            12,
+            16
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "tT6bV",
+              "name": "Panel Title",
+              "fill": "#f1f5f9",
+              "content": "Sport Disciplines",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "avGiL",
+              "name": "Close Button",
+              "width": 24,
+              "height": 24,
+              "fill": "#334155",
+              "cornerRadius": 6,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "CYm7c",
+                  "name": "Close X",
+                  "fill": "#94a3b8",
+                  "content": "✕",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "78P9E",
+          "x": 0,
+          "y": 48,
+          "name": "Search Area",
+          "enabled": false,
+          "width": "fill_container(340)",
+          "padding": [
+            8,
+            12
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "Y5iV6",
+              "name": "Search Input",
+              "width": "fill_container",
+              "height": 36,
+              "fill": "#0f172a",
+              "cornerRadius": 8,
+              "gap": 8,
+              "padding": [
+                0,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "QDwtR",
+                  "name": "Search Icon",
+                  "width": 16,
+                  "height": 16,
+                  "iconFontName": "search",
+                  "iconFontFamily": "lucide",
+                  "fill": "#64748b"
+                },
+                {
+                  "type": "text",
+                  "id": "twbgl",
+                  "name": "Search Placeholder",
+                  "fill": "#64748b",
+                  "content": "Search disciplines...",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "EBIEA",
+          "name": "Content Area",
+          "clip": true,
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 2,
+          "padding": [
+            8,
+            12
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "TBpIM",
+              "name": "Summer Header",
+              "width": "fill_container",
+              "gap": 6,
+              "padding": [
+                4,
+                0,
+                8,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "FB6wn",
+                  "name": "Summer Icon",
+                  "fill": "#f59e0b",
+                  "content": "☀",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "tixht",
+                  "name": "Summer Label",
+                  "fill": "#f59e0b",
+                  "content": "SUMMER",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 1
+                },
+                {
+                  "type": "rectangle",
+                  "id": "Y6oEr",
+                  "name": "Summer Divider",
+                  "fill": "#334155",
+                  "width": "fill_container",
+                  "height": 1
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "4q7bi",
+              "name": "S Row 1",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kHGeH",
+                  "name": "Sprint Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "nt1Sa",
+                      "name": "CB",
+                      "fill": "#0284c7",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#0284c7"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "GbMqE",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Sprint (100m)",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "094X4",
+                  "name": "Marathon Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "yy931",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "2WZCb",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Marathon",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "aRb50",
+              "name": "S Row 2",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "fNnjA",
+                  "name": "Hurdles Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "ktESY",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "YLMDZ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Hurdles",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ZS6UF",
+                  "name": "High Jump Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "6pOoY",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "HhzDV",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "High Jump",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "KOfHf",
+              "name": "S Row 3",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "aGA5H",
+                  "name": "Long Jump Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "MNiIF",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "tt8oB",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Long Jump",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "vwmzB",
+                  "name": "Swimming Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "vS9zv",
+                      "name": "CB",
+                      "fill": "#0284c7",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#0284c7"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "QGrMx",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Swimming",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ebXB6",
+              "name": "S Row 4",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "zBSoC",
+                  "name": "Diving Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "DL2EB",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "GXnpd",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Diving",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "VWLw8",
+                  "name": "Water Polo Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "nT51o",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ftToQ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Water Polo",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "05DE7",
+              "name": "S Row 5",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "AxIEV",
+                  "name": "Gymnastics Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "wONFV",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ttoZJ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Gymnastics",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "d4naA",
+                  "name": "Cycling Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "SUSoh",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "BsfkY",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Cycling",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "XZpY9",
+              "name": "S Row 6",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "o0MA0",
+                  "name": "Rowing Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "8LIi4",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "NLT6E",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Rowing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "bS11Q",
+                  "name": "Sailing Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "jw7N4",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "CwdPX",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Sailing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "oWWBE",
+              "name": "S Row 7",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "W7bQr",
+                  "name": "Basketball Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Yz0b7",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "0J8sT",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Basketball",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ax2LZ",
+                  "name": "Volleyball Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "HI4fN",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ueHTO",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Volleyball",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "uooRj",
+              "name": "S Row 8",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "GycL4",
+                  "name": "Tennis Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "2jqE0",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "27S5z",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Tennis",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "QIBZD",
+                  "name": "Boxing Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "dDrnS",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "YboE1",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Boxing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "W1ku8",
+              "name": "S Row 9",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "5a6L8",
+                  "name": "Wrestling Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Q9Q16",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "BMUNZ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Wrestling",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "GgHBL",
+                  "name": "Judo Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "edAFK",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "sV6rx",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Judo",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "JXdSV",
+              "name": "S Row 10",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "WOuUx",
+                  "name": "Archery Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "3fmPO",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "i35RW",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Archery",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tpiQZ",
+                  "name": "Triathlon Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "03AmE",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "Y2PhT",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Triathlon",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "3SvJn",
+              "name": "S Row 11",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "yBVSa",
+                  "name": "Football Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "AbdiH",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "987nN",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Football",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "2Ngfj",
+                  "name": "Beach Volleyball Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Ya3Vo",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "JA1Bj",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Beach Volleyball",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "YWOMs",
+              "name": "S Row 12",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "qWDEo",
+                  "name": "Weightlifting Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "RwebI",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "d0U1t",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Weightlifting",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "epKOq",
+                  "name": "Shooting Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "gumtk",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "dsrEi",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Shooting",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "yeysj",
+              "name": "Winter Header",
+              "width": "fill_container",
+              "gap": 6,
+              "padding": [
+                12,
+                0,
+                8,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "puPeA",
+                  "name": "Winter Icon",
+                  "fill": "#7dd3fc",
+                  "content": "❄",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "Mj71O",
+                  "name": "Winter Label",
+                  "fill": "#7dd3fc",
+                  "content": "WINTER",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 1
+                },
+                {
+                  "type": "rectangle",
+                  "id": "oYT3u",
+                  "name": "Winter Divider",
+                  "fill": "#334155",
+                  "width": "fill_container",
+                  "height": 1
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "03Svd",
+              "name": "W Row 1",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "ZXt3E",
+                  "name": "Alpine Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "dxZmI",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "V3l1M",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Alpine Skiing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "DXTF4",
+                  "name": "CC Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "iEMtF",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "D0yYs",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Cross-Country",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Z3vr9",
+              "name": "W Row 2",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Y4Bc5",
+                  "name": "Biathlon Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "LRekU",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "E1DlV",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Biathlon",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "c61X2",
+                  "name": "Ski Jump Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "EoZB8",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "1Rf9K",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Ski Jumping",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "iYSd9",
+              "name": "W Row 3",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "tSueu",
+                  "name": "Freestyle Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "wUX8K",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "aCaB0",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Freestyle Skiing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "0SMlK",
+                  "name": "Snowboard Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "yOx1O",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "Efqyp",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Snowboard",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "x82Nl",
+              "name": "W Row 4",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kocJF",
+                  "name": "Speed Skating Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "KPbib",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "j8cRQ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Speed Skating",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "v62hR",
+                  "name": "Short Track Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Wj0Md",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "Powr1",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Short Track",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "jUTLm",
+              "name": "W Row 5",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kDC6X",
+                  "name": "Figure Skating Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "i8GF1",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "vfYcf",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Figure Skating",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "8WV4M",
+                  "name": "Ice Hockey Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "KfDWl",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "2VNid",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Ice Hockey",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "dNK6Y",
+              "name": "W Row 6",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "QkDbO",
+                  "name": "Curling Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "FwS5D",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "toHoJ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Curling",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "G1t3i",
+                  "name": "Bobsled Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "3bw78",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ai4OE",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Bobsled",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "PnaOu",
+              "name": "W Row 7",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "3mkLc",
+                  "name": "Luge Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "T2FPO",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "JRbot",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Luge",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "wAfit",
+                  "name": "Skeleton Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Ry1Wn",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "4jRVh",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Skeleton",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "UrJii",
+              "name": "W Row 8",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "DA6I8",
+                  "name": "Nordic Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "R1Dv4",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "PCkOh",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Nordic Combined",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "KFtBO",
+          "name": "Footer",
+          "width": "fill_container",
+          "stroke": {
+            "align": "outside",
+            "thickness": 1,
+            "fill": "#334155"
+          },
+          "gap": 8,
+          "padding": [
+            12,
+            16
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "1VRNO",
+              "name": "Clear Button",
+              "width": "fill_container",
+              "height": 32,
+              "fill": "#334155",
+              "cornerRadius": 8,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "x6pHm",
+                  "name": "Clear Text",
+                  "fill": "#94a3b8",
+                  "content": "Clear All",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "xgVGN",
+              "name": "Apply Button",
+              "width": "fill_container",
+              "height": 32,
+              "fill": "#0284c7",
+              "cornerRadius": 8,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "VXNXP",
+                  "name": "Apply Text",
+                  "fill": "#ffffff",
+                  "content": "Apply",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

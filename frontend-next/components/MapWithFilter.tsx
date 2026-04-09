@@ -15,6 +15,7 @@ interface City {
     last_name: string
     olympic_paralympic: string
     seasons: string[]
+    medals: { gold: number; silver: number; bronze: number }
   }[]
 }
 
@@ -22,6 +23,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
   const [selectedState, setSelectedState] = useState('')
   const [gameFilter, setGameFilter] = useState(new Set(['Olympian', 'Paralympian']))
   const [seasonFilter, setSeasonFilter] = useState(new Set(['Summer', 'Winter']))
+  const [medalFilter, setMedalFilter] = useState(new Set<string>())
 
   function toggleGame(type: string) {
     setGameFilter(prev => {
@@ -39,6 +41,14 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     })
   }
 
+  function toggleMedal(type: string) {
+    setMedalFilter(prev => {
+      const next = new Set(prev)
+      next.has(type) ? next.delete(type) : next.add(type)
+      return next
+    })
+  }
+
   const states = [...new Set(cities.map(c => c.state))].sort()
 
   const filtered = (selectedState ? cities.filter(c => c.state === selectedState) : cities)
@@ -47,7 +57,8 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
       athletes: city.athletes.filter(a => {
         const gameMatch = gameFilter.size === 0 || gameFilter.size === 2 || gameFilter.has(a.olympic_paralympic)
         const seasonMatch = seasonFilter.size === 0 || seasonFilter.size === 2 || a.seasons.some(s => seasonFilter.has(s))
-        return gameMatch && seasonMatch
+        const medalMatch = medalFilter.size === 0 || [...medalFilter].every(m => a.medals[m as keyof typeof a.medals] > 0)
+        return gameMatch && seasonMatch && medalMatch
       })
     }))
     .filter(c => c.athletes.length > 0)
@@ -116,6 +127,28 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
                   className="w-full h-full object-contain"
                   alt={season}
                 />
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* Medal toggle */}
+        <div className="flex items-center gap-2">
+          <span className="text-sm text-slate-400">Medals</span>
+          <div className="flex gap-0.5 p-0.5 bg-slate-950 rounded-lg">
+            {([
+              { key: 'gold',   label: 'G', bg: '#FFD700', text: '#92400e' },
+              { key: 'silver', label: 'S', bg: '#94a3b8', text: '#1e293b' },
+              { key: 'bronze', label: 'B', bg: '#cd7f32', text: '#ffffff' },
+            ] as const).map(({ key, label, bg, text }) => (
+              <button
+                key={key}
+                onClick={() => toggleMedal(key)}
+                style={{ backgroundColor: bg, color: text }}
+                className={`w-12 h-12 rounded-full flex items-center justify-center font-bold text-lg border-2 transition-all
+                  ${medalFilter.has(key) ? 'border-sky-400 opacity-100' : 'border-transparent opacity-40'}`}
+              >
+                {label}
               </button>
             ))}
           </div>
