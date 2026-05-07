@@ -21,16 +21,28 @@ interface City {
 }
 
 const SUMMER_SPORTS = [
-  'Sprint (100m)', 'Marathon', 'Hurdles', 'High Jump', 'Long Jump', 'Swimming',
-  'Diving', 'Water Polo', 'Gymnastics', 'Cycling', 'Rowing', 'Sailing',
-  'Basketball', 'Volleyball', 'Tennis', 'Boxing', 'Wrestling', 'Judo',
-  'Archery', 'Triathlon', 'Football', 'Beach Volleyball', 'Weightlifting', 'Shooting',
+  '3x3 Basketball', 'Archery', 'Artistic Gymnastics', 'Artistic Swimming',
+  'Badminton', 'Baseball', 'Basketball', 'Beach Volleyball', 'Boccia',
+  'Bowling', 'Boxing', 'Breaking', 'Canoe/Kayak', 'Cycling', 'Diving',
+  'Equestrian', 'Fencing', 'Field Hockey', 'Goalball', 'Golf', 'Gymnastics',
+  'Judo', 'Karate', 'Modern Pentathlon', 'Para Archery', 'Para Judo',
+  'Para Powerlifting', 'Para Shooting', 'Para Swimming', 'Para Table Tennis',
+  'Para Taekwondo', 'Para Track and Field', 'Para-Cycling', 'Para-Equestrian',
+  'Para-Rowing', 'Paracanoe', 'Paratriathlon', 'Racquetball', 'Rifle Shooting',
+  'Rugby', 'Sailing', 'Shooting', 'Short Track Speedskating', 'Sitting Volleyball',
+  'Skateboarding', 'Soccer', 'Soccer 7-A-Side', 'Softball', 'Sport Climbing',
+  'Squash', 'Surfing', 'Swimming', 'Table Tennis', 'Taekwondo', 'Team Handball',
+  'Tennis', 'Track and Field', 'Triathlon', 'Volleyball', 'Water Polo',
+  'Waterski/Wakeboard', 'Weightlifting', 'Wheelchair Basketball',
+  'Wheelchair Fencing', 'Wheelchair Rugby', 'Wheelchair Tennis', 'Wrestling',
 ]
 
 const WINTER_SPORTS = [
-  'Alpine Skiing', 'Cross-Country', 'Biathlon', 'Ski Jumping', 'Freestyle Skiing',
-  'Snowboard', 'Speed Skating', 'Short Track', 'Figure Skating', 'Ice Hockey',
-  'Curling', 'Bobsled', 'Luge', 'Skeleton', 'Nordic Combined',
+  'Alpine Skiing', 'Biathlon', 'Bobsled', 'Cross-Country Skiing', 'Curling',
+  'Figure Skating', 'Freestyle Skiing', 'Ice Hockey', 'Luge', 'Nordic Combined',
+  'Para Alpine Skiing', 'Para Biathlon', 'Para Nordic Skiing', 'Para Snowboarding',
+  'Rowing', 'Skeleton', 'Ski Jumping', 'Ski Mountaineering', 'Sled Hockey',
+  'Snowboarding', 'Speedskating', 'Wheelchair Curling',
 ]
 
 function SportCheckbox({ sport, checked, onChange }: { sport: string; checked: boolean; onChange: () => void }) {
