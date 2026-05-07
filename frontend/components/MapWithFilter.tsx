@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import Image from 'next/image'
 import UsMap from './UsMap'
 import topStateCities from '@/public/topStateSities.json'
@@ -20,12 +20,44 @@ interface City {
   }[]
 }
 
+const SUMMER_SPORTS = [
+  'Sprint (100m)', 'Marathon', 'Hurdles', 'High Jump', 'Long Jump', 'Swimming',
+  'Diving', 'Water Polo', 'Gymnastics', 'Cycling', 'Rowing', 'Sailing',
+  'Basketball', 'Volleyball', 'Tennis', 'Boxing', 'Wrestling', 'Judo',
+  'Archery', 'Triathlon', 'Football', 'Beach Volleyball', 'Weightlifting', 'Shooting',
+]
+
+const WINTER_SPORTS = [
+  'Alpine Skiing', 'Cross-Country', 'Biathlon', 'Ski Jumping', 'Freestyle Skiing',
+  'Snowboard', 'Speed Skating', 'Short Track', 'Figure Skating', 'Ice Hockey',
+  'Curling', 'Bobsled', 'Luge', 'Skeleton', 'Nordic Combined',
+]
+
+function SportCheckbox({ sport, checked, onChange }: { sport: string; checked: boolean; onChange: () => void }) {
+  return (
+    <button
+      onClick={onChange}
+      className="flex items-center gap-1.5 py-[3px] w-full text-left"
+    >
+      <span
+        className="flex-shrink-0 w-3.5 h-3.5 rounded-sm border"
+        style={{
+          backgroundColor: checked ? '#0284c7' : '#334155',
+          borderColor: checked ? '#0284c7' : '#475569',
+        }}
+      />
+      <span className="text-[#e2e8f0] text-xs truncate">{sport}</span>
+    </button>
+  )
+}
+
 export default function MapWithFilter({ cities, onContentPage }: { cities: City[]; onContentPage?: () => void }) {
   const [selectedState, setSelectedState] = useState('')
   const [gameFilter, setGameFilter] = useState(new Set(['Olympian', 'Paralympian']))
   const [seasonFilter, setSeasonFilter] = useState(new Set(['Summer', 'Winter']))
   const [medalFilter, setMedalFilter] = useState(new Set<string>())
-  const [sportFilter, setSportFilter] = useState('')
+  const [sportFilter, setSportFilter] = useState(new Set<string>())
+  const [pendingSports, setPendingSports] = useState(new Set<string>())
   const [sportOpen, setSportOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
 
@@ -45,9 +77,35 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     })
   }
 
-  const allSports = useMemo(() =>
-    [...new Set(cities.flatMap(c => c.athletes.flatMap(a => a.sports)))].sort()
-  , [cities])
+  function toggleMedal(type: string) {
+    setMedalFilter(prev => {
+      const next = new Set(prev)
+      next.has(type) ? next.delete(type) : next.add(type)
+      return next
+    })
+  }
+
+  function openSportPanel() {
+    setPendingSports(new Set(sportFilter))
+    setSportOpen(true)
+  }
+
+  function closeSportPanel() {
+    setSportOpen(false)
+  }
+
+  function applyAndClose() {
+    setSportFilter(new Set(pendingSports))
+    setSportOpen(false)
+  }
+
+  function togglePending(sport: string) {
+    setPendingSports(prev => {
+      const next = new Set(prev)
+      next.has(sport) ? next.delete(sport) : next.add(sport)
+      return next
+    })
+  }
 
   useEffect(() => {
     if (!sportOpen) return
@@ -58,22 +116,19 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     return () => document.removeEventListener('mousedown', handler)
   }, [sportOpen])
 
-  function toggleMedal(type: string) {
-    setMedalFilter(prev => {
-      const next = new Set(prev)
-      next.has(type) ? next.delete(type) : next.add(type)
-      return next
-    })
-  }
+  const sportLabel =
+    sportFilter.size === 0 ? 'All Disciplines'
+    : sportFilter.size === 1 ? [...sportFilter][0]
+    : `${sportFilter.size} Disciplines`
 
-  const filtered =(selectedState ? cities.filter(c => c.state === selectedState) : cities)
+  const filtered = (selectedState ? cities.filter(c => c.state === selectedState) : cities)
     .map(city => ({
       ...city,
       athletes: city.athletes.filter(a => {
         const gameMatch = gameFilter.size === 0 || gameFilter.size === 2 || gameFilter.has(a.olympic_paralympic)
         const seasonMatch = seasonFilter.size === 0 || seasonFilter.size === 2 || a.seasons.some(s => seasonFilter.has(s))
         const medalMatch = medalFilter.size === 0 || [...medalFilter].every(m => a.medals[m as keyof typeof a.medals] > 0)
-        const sportMatch = sportFilter === '' || a.sports.includes(sportFilter)
+        const sportMatch = sportFilter.size === 0 || a.sports.some(s => sportFilter.has(s))
         return gameMatch && seasonMatch && medalMatch && sportMatch
       })
     }))
@@ -157,33 +212,96 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
           </div>
         </div>
 
-        {/* Sport Disciplines dropdown */}
+        {/* Sport Disciplines panel */}
         <div ref={dropdownRef} className="relative flex items-center gap-2">
           <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Sport</span>
-          <div
-            onClick={() => setSportOpen(o => !o)}
+          <button
+            onClick={openSportPanel}
             className="flex items-center gap-1 h-[30px] bg-[#1A1A1A] rounded px-2 cursor-pointer"
           >
-            <span className="text-[#f1f5f9] text-sm">{sportFilter || 'All Disciplines'}</span>
+            <span className="text-[#f1f5f9] text-sm">{sportLabel}</span>
             <span className="text-[#71717A] text-xs">▾</span>
-          </div>
+          </button>
+
           {sportOpen && (
-            <div className="absolute top-full mt-1 left-0 bg-[#1A1A1A] border border-[#334155] rounded z-50 max-h-60 overflow-y-auto min-w-[160px]">
-              <button
-                onClick={() => { setSportFilter(''); setSportOpen(false) }}
-                className={`block w-full text-left px-3 py-1.5 text-sm hover:bg-[#334155] ${sportFilter === '' ? 'text-[#06B6D4]' : 'text-[#f1f5f9]'}`}
+            <div
+              className="absolute top-full mt-2 left-0 z-50 flex flex-col rounded-xl overflow-hidden"
+              style={{ width: 340, backgroundColor: '#1e293b' }}
+            >
+              {/* Header */}
+              <div
+                className="flex items-center justify-between px-4 py-3 flex-shrink-0"
+                style={{ borderBottom: '1px solid #334155' }}
               >
-                All Disciplines
-              </button>
-              {allSports.map(sport => (
+                <span className="text-[#f1f5f9] text-sm font-semibold">Sport Disciplines</span>
                 <button
-                  key={sport}
-                  onClick={() => { setSportFilter(sport); setSportOpen(false) }}
-                  className={`block w-full text-left px-3 py-1.5 text-sm hover:bg-[#334155] ${sportFilter === sport ? 'text-[#06B6D4]' : 'text-[#f1f5f9]'}`}
+                  onClick={closeSportPanel}
+                  className="flex items-center justify-center w-6 h-6 rounded-md text-[#94a3b8] text-xs hover:bg-[#475569] transition-colors"
+                  style={{ backgroundColor: '#334155' }}
                 >
-                  {sport}
+                  ✕
                 </button>
-              ))}
+              </div>
+
+              {/* Content area */}
+              <div className="overflow-y-auto flex-1" style={{ maxHeight: 420 }}>
+                <div className="flex flex-col gap-0.5 px-3 py-2">
+                  {/* Summer section */}
+                  <div className="flex items-center gap-1.5 pt-1 pb-2">
+                    <span className="text-[#f59e0b] text-sm font-semibold">☀</span>
+                    <span className="text-[#f59e0b] text-[11px] font-semibold tracking-wide">SUMMER</span>
+                    <div className="flex-1 h-px bg-[#334155]" />
+                  </div>
+                  <div className="grid grid-cols-2 gap-x-4">
+                    {SUMMER_SPORTS.map(sport => (
+                      <SportCheckbox
+                        key={sport}
+                        sport={sport}
+                        checked={pendingSports.has(sport)}
+                        onChange={() => togglePending(sport)}
+                      />
+                    ))}
+                  </div>
+
+                  {/* Winter section */}
+                  <div className="flex items-center gap-1.5 pt-3 pb-2">
+                    <span className="text-[#7dd3fc] text-sm font-semibold">❄</span>
+                    <span className="text-[#7dd3fc] text-[11px] font-semibold tracking-wide">WINTER</span>
+                    <div className="flex-1 h-px bg-[#334155]" />
+                  </div>
+                  <div className="grid grid-cols-2 gap-x-4">
+                    {WINTER_SPORTS.map(sport => (
+                      <SportCheckbox
+                        key={sport}
+                        sport={sport}
+                        checked={pendingSports.has(sport)}
+                        onChange={() => togglePending(sport)}
+                      />
+                    ))}
+                  </div>
+                </div>
+              </div>
+
+              {/* Footer */}
+              <div
+                className="flex items-center gap-2 px-4 py-3 flex-shrink-0"
+                style={{ borderTop: '1px solid #334155' }}
+              >
+                <button
+                  onClick={() => setPendingSports(new Set())}
+                  className="flex-1 h-8 rounded-lg text-[#94a3b8] text-sm flex items-center justify-center hover:opacity-80 transition-opacity"
+                  style={{ backgroundColor: '#334155' }}
+                >
+                  Clear All
+                </button>
+                <button
+                  onClick={applyAndClose}
+                  className="flex-1 h-8 rounded-lg text-white text-sm font-semibold flex items-center justify-center hover:opacity-90 transition-opacity"
+                  style={{ backgroundColor: '#0284c7' }}
+                >
+                  Apply
+                </button>
+              </div>
             </div>
           )}
         </div>
