@@ -15,6 +15,7 @@ interface City {
     olympic_paralympic: string
     seasons: string[]
     medals: { gold: number; silver: number; bronze: number }
+    sports: string[]
   }[]
 }
 

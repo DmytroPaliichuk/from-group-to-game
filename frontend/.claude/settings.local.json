@@ -7,7 +7,9 @@
       "Read(//Users/dmytropaliichuk/Development/from-group-to-game/design/images/**)",
       "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004985438.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)",
       "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004981207.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)",
-      "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004987440.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)"
+      "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004987440.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)",
+      "Bash(curl -s \"http://localhost:8000/athletes/hometowns\")",
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); print\\(json.dumps\\(data[0], indent=2\\)\\)\")"
     ]
   }
 }

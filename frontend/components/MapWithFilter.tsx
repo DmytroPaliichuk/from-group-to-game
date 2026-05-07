@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useMemo, useRef, useEffect } from 'react'
 import Image from 'next/image'
 import UsMap from './UsMap'
 import topStateCities from '@/public/topStateSities.json'
@@ -16,6 +16,7 @@ interface City {
     olympic_paralympic: string
     seasons: string[]
     medals: { gold: number; silver: number; bronze: number }
+    sports: string[]
   }[]
 }
 
@@ -24,6 +25,9 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
   const [gameFilter, setGameFilter] = useState(new Set(['Olympian', 'Paralympian']))
   const [seasonFilter, setSeasonFilter] = useState(new Set(['Summer', 'Winter']))
   const [medalFilter, setMedalFilter] = useState(new Set<string>())
+  const [sportFilter, setSportFilter] = useState('')
+  const [sportOpen, setSportOpen] = useState(false)
+  const dropdownRef = useRef<HTMLDivElement>(null)
 
   function toggleGame(type: string) {
     setGameFilter(prev => {
@@ -41,6 +45,19 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     })
   }
 
+  const allSports = useMemo(() =>
+    [...new Set(cities.flatMap(c => c.athletes.flatMap(a => a.sports)))].sort()
+  , [cities])
+
+  useEffect(() => {
+    if (!sportOpen) return
+    const handler = (e: MouseEvent) => {
+      if (!dropdownRef.current?.contains(e.target as Node)) setSportOpen(false)
+    }
+    document.addEventListener('mousedown', handler)
+    return () => document.removeEventListener('mousedown', handler)
+  }, [sportOpen])
+
   function toggleMedal(type: string) {
     setMedalFilter(prev => {
       const next = new Set(prev)
@@ -56,7 +73,8 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
         const gameMatch = gameFilter.size === 0 || gameFilter.size === 2 || gameFilter.has(a.olympic_paralympic)
         const seasonMatch = seasonFilter.size === 0 || seasonFilter.size === 2 || a.seasons.some(s => seasonFilter.has(s))
         const medalMatch = medalFilter.size === 0 || [...medalFilter].every(m => a.medals[m as keyof typeof a.medals] > 0)
-        return gameMatch && seasonMatch && medalMatch
+        const sportMatch = sportFilter === '' || a.sports.includes(sportFilter)
+        return gameMatch && seasonMatch && medalMatch && sportMatch
       })
     }))
     .filter(c => c.athletes.length > 0)
@@ -140,12 +158,34 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
         </div>
 
         {/* Sport Disciplines dropdown */}
-        <div className="flex items-center gap-2">
+        <div ref={dropdownRef} className="relative flex items-center gap-2">
           <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Sport</span>
-          <div className="flex items-center gap-1 h-[30px] bg-[#1A1A1A] rounded px-2 cursor-pointer">
-            <span className="text-[#f1f5f9] text-sm">All Disciplines</span>
+          <div
+            onClick={() => setSportOpen(o => !o)}
+            className="flex items-center gap-1 h-[30px] bg-[#1A1A1A] rounded px-2 cursor-pointer"
+          >
+            <span className="text-[#f1f5f9] text-sm">{sportFilter || 'All Disciplines'}</span>
             <span className="text-[#71717A] text-xs">▾</span>
           </div>
+          {sportOpen && (
+            <div className="absolute top-full mt-1 left-0 bg-[#1A1A1A] border border-[#334155] rounded z-50 max-h-60 overflow-y-auto min-w-[160px]">
+              <button
+                onClick={() => { setSportFilter(''); setSportOpen(false) }}
+                className={`block w-full text-left px-3 py-1.5 text-sm hover:bg-[#334155] ${sportFilter === '' ? 'text-[#06B6D4]' : 'text-[#f1f5f9]'}`}
+              >
+                All Disciplines
+              </button>
+              {allSports.map(sport => (
+                <button
+                  key={sport}
+                  onClick={() => { setSportFilter(sport); setSportOpen(false) }}
+                  className={`block w-full text-left px-3 py-1.5 text-sm hover:bg-[#334155] ${sportFilter === sport ? 'text-[#06B6D4]' : 'text-[#f1f5f9]'}`}
+                >
+                  {sport}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
 
         {/* Content page button */}

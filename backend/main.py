@@ -32,5 +32,6 @@ def get_hometowns(state: str | None = Query(default=None)):
                     "olympic_paralympic": a.get("olympic_paralympic"),
                     "seasons": list({s.get("season") for s in a.get("sport", []) if s.get("season")}),
                     "medals": a.get("medals", {"gold": 0, "silver": 0, "bronze": 0}),
+                    "sports": list({s.get("title") for s in a.get("sport", []) if s.get("title")}),
                 })
     return result
