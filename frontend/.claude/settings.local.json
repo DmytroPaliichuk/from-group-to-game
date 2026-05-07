@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(python3 -m json.tool)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Read(//Users/dmytropaliichuk/Development/from-group-to-game/design/**)",
+      "Read(//Users/dmytropaliichuk/Development/from-group-to-game/design/images/**)",
+      "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004985438.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)",
+      "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004981207.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)",
+      "Bash(cp /Users/dmytropaliichuk/Development/from-group-to-game/design/images/generated-1778004987440.png /Users/dmytropaliichuk/Development/from-group-to-game/frontend/public/images/)"
     ]
   }
 }
