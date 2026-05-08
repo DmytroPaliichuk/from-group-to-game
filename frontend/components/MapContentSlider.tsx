@@ -9,6 +9,14 @@ interface City {
   state: string
   lat: number
   lng: number
+  athletes: {
+    first_name: string
+    last_name: string
+    olympic_paralympic: string
+    seasons: string[]
+    medals: { gold: number; silver: number; bronze: number }
+    sports: string[]
+  }[]
 }
 
 export default function MapContentSlider({ cities }: { cities: City[] }) {

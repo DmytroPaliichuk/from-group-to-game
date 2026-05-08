@@ -10,6 +10,7 @@ interface City {
   state: string
   lat: number
   lng: number
+  athletes: { first_name: string; last_name: string }[]
 }
 
 interface StateCityEntry {
@@ -41,7 +42,7 @@ const FIPS_TO_STATE: Record<number, string> = Object.fromEntries(
 
 export default function UsMap({ cities, selectedState, stateCities, onStateSelect }: UsMapProps) {
   const svgRef = useRef<SVGSVGElement>(null)
-  const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string } | null>(null)
+  const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string; athletes: { first_name: string; last_name: string }[] } | null>(null)
   const [activeCity, setActiveCity] = useState<string | null>(null)
 
   useEffect(() => {
@@ -136,7 +137,7 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
             }
           })
           .on('mousemove', (event: MouseEvent, d: City) => {
-            setTooltip({ x: event.clientX, y: event.clientY, city: d.city, state: d.state })
+            setTooltip({ x: event.clientX, y: event.clientY, city: d.city, state: d.state, athletes: d.athletes })
           })
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           .on('mouseleave', (_event: MouseEvent, d: City) => {
@@ -166,10 +167,11 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
             .join('circle')
             .attr('cx', d => projection([d.lng, d.lat])![0])
             .attr('cy', d => projection([d.lng, d.lat])![1])
-            .attr('r', 6)
-            .attr('fill', '#ef4444')
-            .attr('stroke', '#0f172a')
-            .attr('stroke-width', 1)
+            .attr('r', 7)
+            .attr('fill', 'transparent')
+            .attr('stroke', '#ef4444')
+            .attr('stroke-width', 2)
+            .style('pointer-events', 'none')
 
           g.selectAll('text')
             .data(validStateCities)
@@ -198,8 +200,12 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
           className="fixed z-10 bg-slate-800 border border-slate-600 rounded-md px-3 py-2 text-sm pointer-events-none whitespace-nowrap"
           style={{ left: tooltip.x + 12, top: tooltip.y - 36 }}
         >
-          <div className="font-semibold text-slate-100">{tooltip.city}</div>
-          <div className="text-slate-400">{tooltip.state}</div>
+          <div className="font-semibold text-slate-100">{tooltip.city}, {tooltip.state}</div>
+          <ul className="mt-1 text-slate-300 space-y-0.5">
+            {tooltip.athletes.map((a, i) => (
+              <li key={i}>{a.first_name} {a.last_name}</li>
+            ))}
+          </ul>
         </div>
       )}
 

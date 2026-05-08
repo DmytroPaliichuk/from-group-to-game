@@ -1,0 +1,4547 @@
+{
+  "version": "2.11",
+  "children": [
+    {
+      "type": "frame",
+      "id": "uurap",
+      "x": 0,
+      "y": 1031,
+      "name": "Content Page",
+      "width": 1440,
+      "height": 900,
+      "fill": [
+        "#020617",
+        {
+          "type": "gradient",
+          "gradientType": "radial",
+          "enabled": true,
+          "opacity": 0.15,
+          "rotation": 0,
+          "size": {
+            "width": 1.4,
+            "height": 1.4
+          },
+          "colors": [
+            {
+              "color": "#A855F7",
+              "position": 0
+            },
+            {
+              "color": "#A855F700",
+              "position": 1
+            }
+          ],
+          "center": {
+            "x": 0.25,
+            "y": 0.35
+          }
+        },
+        {
+          "type": "gradient",
+          "gradientType": "radial",
+          "enabled": true,
+          "opacity": 0.1,
+          "rotation": 0,
+          "size": {
+            "width": 1.2,
+            "height": 1.2
+          },
+          "colors": [
+            {
+              "color": "#EC4899",
+              "position": 0
+            },
+            {
+              "color": "#EC489900",
+              "position": 1
+            }
+          ],
+          "center": {
+            "x": 0.75,
+            "y": 0.65
+          }
+        },
+        {
+          "type": "gradient",
+          "gradientType": "radial",
+          "enabled": true,
+          "opacity": 0.08,
+          "rotation": 0,
+          "size": {
+            "width": 0.8,
+            "height": 0.8
+          },
+          "colors": [
+            {
+              "color": "#06B6D4",
+              "position": 0
+            },
+            {
+              "color": "#06B6D400",
+              "position": 1
+            }
+          ],
+          "center": {
+            "x": 0.55,
+            "y": 0.15
+          }
+        }
+      ],
+      "padding": 16,
+      "children": [
+        {
+          "type": "frame",
+          "id": "oEVBm",
+          "name": "Content Panel",
+          "clip": true,
+          "width": "fill_container",
+          "height": "fill_container",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#1A1A1A"
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 16,
+          "children": [
+            {
+              "type": "frame",
+              "id": "BHd2V",
+              "name": "Content Top Bar",
+              "width": "fill_container",
+              "height": 52,
+              "gap": 8,
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "K95az6",
+                  "name": "Map Page Button",
+                  "height": 48,
+                  "fill": "#0B9FEA",
+                  "cornerRadius": 20,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 0,
+                    "fill": "#00000000"
+                  },
+                  "padding": [
+                    0,
+                    24
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "eqBTT",
+                      "name": "Button Text",
+                      "fill": "#FFFFFF",
+                      "content": "<< Map Page",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "lz3dq",
+          "name": "Separator",
+          "width": 12,
+          "height": "fill_container",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 2,
+              "id": "hNOwR",
+              "x": 5,
+              "y": 0,
+              "name": "Sep Line",
+              "fill": "#334155",
+              "width": 2,
+              "height": 868
+            },
+            {
+              "type": "frame",
+              "id": "s956Lv",
+              "x": 4,
+              "y": 410,
+              "name": "Sep Dots",
+              "width": 4,
+              "layout": "vertical",
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "ellipse",
+                  "id": "svxZo",
+                  "name": "Dot 1",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                },
+                {
+                  "type": "ellipse",
+                  "id": "k7uW3",
+                  "name": "Dot 2",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                },
+                {
+                  "type": "ellipse",
+                  "id": "GtTTz",
+                  "name": "Dot 3",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "Z4HKAP",
+          "name": "Chat Panel",
+          "clip": true,
+          "width": 384,
+          "height": "fill_container",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "effect": {
+            "type": "shadow",
+            "shadowType": "outer",
+            "color": "#A855F710",
+            "blur": 32
+          },
+          "layout": "vertical",
+          "padding": [
+            16,
+            0,
+            0,
+            0
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "C4rvJh",
+              "name": "Chat Header",
+              "width": "fill_container",
+              "height": 52,
+              "stroke": {
+                "align": "outside",
+                "thickness": 1,
+                "fill": "#1A1A1A"
+              },
+              "padding": [
+                0,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "LSWiY",
+                  "name": "Chat Title",
+                  "fill": "#f1f5f9",
+                  "content": "AI Chat",
+                  "fontFamily": "Funnel Sans",
+                  "fontSize": 14,
+                  "fontWeight": "600",
+                  "letterSpacing": 0.5
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "jxuQ2",
+              "name": "Messages Area",
+              "width": "fill_container",
+              "height": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 16,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "JlDNl",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Empty State",
+                  "enabled": false,
+                  "fill": "#71717A",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container(0)",
+                  "content": "Send a message to get started.",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "mYEew",
+                  "name": "User Message Row",
+                  "width": "fill_container",
+                  "justifyContent": "end",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "BK0a6",
+                      "name": "User Bubble",
+                      "fill": "#2563EB",
+                      "cornerRadius": 16,
+                      "padding": [
+                        8,
+                        12
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "B0rqgI",
+                          "name": "User Text",
+                          "fill": "#FFFFFF",
+                          "textGrowth": "fixed-width",
+                          "width": 200,
+                          "content": "Show me athletes from Ohio",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "HshaR",
+                  "name": "AI Message Row",
+                  "width": "fill_container",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "TF3Xx",
+                      "name": "AI Bubble",
+                      "fill": "#334155",
+                      "cornerRadius": 16,
+                      "padding": [
+                        8,
+                        12
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "kNnyW",
+                          "name": "AI Text",
+                          "fill": "#E2E8F0",
+                          "textGrowth": "fixed-width",
+                          "width": 220,
+                          "content": "Thinking... (AI agents coming soon)",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "WNezx",
+              "name": "Chat Input Bar",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#334155"
+              },
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "pSFUY",
+                  "name": "Input Field",
+                  "width": "fill_container",
+                  "height": 48,
+                  "fill": "#1E324D",
+                  "cornerRadius": 20,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 2,
+                    "fill": "#10B4F5"
+                  },
+                  "padding": [
+                    0,
+                    24
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "ecRo7",
+                      "name": "Placeholder",
+                      "fill": "#6F86A5",
+                      "content": "Type a message...",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "vajpD",
+                  "name": "Send Button",
+                  "height": 48,
+                  "fill": "#0B9FEA",
+                  "cornerRadius": 20,
+                  "padding": [
+                    0,
+                    24
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "r8Po24",
+                      "name": "Send Text",
+                      "fill": "#FFFFFF",
+                      "content": "Send",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "1jHor",
+      "x": 0,
+      "y": 0,
+      "name": "Main Page",
+      "width": 1440,
+      "height": 900,
+      "fill": [
+        "#020617",
+        {
+          "type": "gradient",
+          "gradientType": "radial",
+          "enabled": true,
+          "opacity": 0.15,
+          "rotation": 0,
+          "size": {
+            "width": 1.4,
+            "height": 1.4
+          },
+          "colors": [
+            {
+              "color": "#A855F7",
+              "position": 0
+            },
+            {
+              "color": "#A855F700",
+              "position": 1
+            }
+          ],
+          "center": {
+            "x": 0.25,
+            "y": 0.35
+          }
+        },
+        {
+          "type": "gradient",
+          "gradientType": "radial",
+          "enabled": true,
+          "opacity": 0.1,
+          "rotation": 0,
+          "size": {
+            "width": 1.2,
+            "height": 1.2
+          },
+          "colors": [
+            {
+              "color": "#EC4899",
+              "position": 0
+            },
+            {
+              "color": "#EC489900",
+              "position": 1
+            }
+          ],
+          "center": {
+            "x": 0.75,
+            "y": 0.65
+          }
+        },
+        {
+          "type": "gradient",
+          "gradientType": "radial",
+          "enabled": true,
+          "opacity": 0.08,
+          "rotation": 0,
+          "size": {
+            "width": 0.8,
+            "height": 0.8
+          },
+          "colors": [
+            {
+              "color": "#06B6D4",
+              "position": 0
+            },
+            {
+              "color": "#06B6D400",
+              "position": 1
+            }
+          ],
+          "center": {
+            "x": 0.55,
+            "y": 0.15
+          }
+        }
+      ],
+      "padding": 16,
+      "children": [
+        {
+          "type": "frame",
+          "id": "BEiBX",
+          "name": "Map Panel",
+          "clip": true,
+          "width": "fill_container",
+          "height": "fill_container",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "#1A1A1A"
+          },
+          "layout": "vertical",
+          "gap": 12,
+          "padding": 16,
+          "children": [
+            {
+              "type": "frame",
+              "id": "kf3lw",
+              "name": "Map Top Bar",
+              "width": "fill_container",
+              "height": 52,
+              "gap": 8,
+              "padding": [
+                0,
+                16
+              ],
+              "justifyContent": "space_between",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "JgdHf",
+                  "x": 0,
+                  "y": 11,
+                  "name": "Filter Group",
+                  "enabled": false,
+                  "gap": 8,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "XzEwQ",
+                      "name": "Filter Label",
+                      "fill": "#71717A",
+                      "content": "State",
+                      "fontFamily": "Geist",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "frame",
+                      "id": "jQfyg",
+                      "name": "State Select",
+                      "width": 120,
+                      "height": 30,
+                      "fill": "#1A1A1A",
+                      "cornerRadius": 4,
+                      "gap": 4,
+                      "padding": [
+                        6,
+                        8
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "WUZOk",
+                          "name": "Select Text",
+                          "fill": "#f1f5f9",
+                          "content": "All States",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        },
+                        {
+                          "type": "text",
+                          "id": "O8CLW",
+                          "name": "Chevron",
+                          "fill": "#71717A",
+                          "content": "▾",
+                          "fontFamily": "Inter",
+                          "fontSize": 12,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "HcFGm",
+                  "type": "ref",
+                  "ref": "HVvR0",
+                  "name": "GameType Filter",
+                  "width": "fit_content",
+                  "height": "fit_content",
+                  "x": 16,
+                  "descendants": {
+                    "OwG9a": {
+                      "y": 17
+                    },
+                    "XP0hz": {
+                      "width": "fit_content",
+                      "height": "fit_content",
+                      "x": 46
+                    },
+                    "qo7bX": {
+                      "enabled": true,
+                      "x": 2,
+                      "y": 2
+                    },
+                    "BgxNL": {
+                      "enabled": true,
+                      "justifyContent": "start",
+                      "alignItems": "start",
+                      "flipX": false,
+                      "flipY": false,
+                      "width": 48,
+                      "height": 48,
+                      "x": 0,
+                      "y": 0,
+                      "textGrowth": "auto",
+                      "name": "Olympian Img"
+                    },
+                    "q3fIZ": {
+                      "x": 52,
+                      "y": 2
+                    },
+                    "qMN63": {
+                      "enabled": true
+                    }
+                  }
+                },
+                {
+                  "id": "ycWsN",
+                  "type": "ref",
+                  "ref": "r04g3",
+                  "name": "Season Filter",
+                  "width": "fit_content",
+                  "height": 40,
+                  "x": 191.25,
+                  "y": 6
+                },
+                {
+                  "id": "xnm3b",
+                  "type": "ref",
+                  "ref": "ET3MG",
+                  "name": "Medals Filter",
+                  "width": "fit_content",
+                  "height": 52,
+                  "x": 376.5,
+                  "y": 0
+                },
+                {
+                  "id": "QPqai",
+                  "type": "ref",
+                  "ref": "wXZfd",
+                  "name": "Sport Disciplines Filter",
+                  "width": "fit_content",
+                  "height": "fit_content",
+                  "x": 610.75,
+                  "y": 11
+                },
+                {
+                  "type": "frame",
+                  "id": "GRgTK",
+                  "name": "Content Page Button",
+                  "height": 48,
+                  "fill": "#0B9FEA",
+                  "cornerRadius": 20,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 0,
+                    "fill": "#00000000"
+                  },
+                  "padding": [
+                    0,
+                    24
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "1zEjz",
+                      "name": "Button Text",
+                      "fill": "#FFFFFF",
+                      "content": "Content Page >>",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "K7ucO",
+              "name": "US Map Area",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "images/generated-1775458372760.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 8,
+              "effect": [
+                {
+                  "type": "shadow",
+                  "shadowType": "outer",
+                  "color": "#A855F720",
+                  "blur": 40,
+                  "spread": 4
+                },
+                {
+                  "type": "shadow",
+                  "shadowType": "outer",
+                  "color": "#06B6D415",
+                  "offset": {
+                    "x": 0,
+                    "y": 8
+                  },
+                  "blur": 60
+                }
+              ],
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "X8lez",
+                  "name": "Map Placeholder",
+                  "fill": "#71717A",
+                  "content": "US Map",
+                  "fontFamily": "Funnel Sans",
+                  "fontSize": 20,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "gVmed",
+          "name": "Separator",
+          "width": 12,
+          "height": "fill_container",
+          "layout": "none",
+          "children": [
+            {
+              "type": "rectangle",
+              "cornerRadius": 2,
+              "id": "RW0XV",
+              "x": 5,
+              "y": 0,
+              "name": "Sep Line",
+              "fill": "#334155",
+              "width": 2,
+              "height": 868
+            },
+            {
+              "type": "frame",
+              "id": "XhHhh",
+              "x": 4,
+              "y": 410,
+              "name": "Sep Dots",
+              "width": 4,
+              "layout": "vertical",
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "ellipse",
+                  "id": "AS77S",
+                  "name": "Dot 1",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                },
+                {
+                  "type": "ellipse",
+                  "id": "vGmlj",
+                  "name": "Dot 2",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                },
+                {
+                  "type": "ellipse",
+                  "id": "7LDZO",
+                  "name": "Dot 3",
+                  "fill": "#475569",
+                  "width": 4,
+                  "height": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "rAAr3",
+          "name": "Chat Panel",
+          "clip": true,
+          "width": 384,
+          "height": "fill_container",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "effect": {
+            "type": "shadow",
+            "shadowType": "outer",
+            "color": "#A855F710",
+            "blur": 32
+          },
+          "layout": "vertical",
+          "padding": [
+            16,
+            0,
+            0,
+            0
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "AAEnU",
+              "name": "Chat Header",
+              "width": "fill_container",
+              "height": 52,
+              "stroke": {
+                "align": "outside",
+                "thickness": 1,
+                "fill": "#1A1A1A"
+              },
+              "padding": [
+                0,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "6ZXty",
+                  "name": "Chat Title",
+                  "fill": "#f1f5f9",
+                  "content": "AI Chat",
+                  "fontFamily": "Funnel Sans",
+                  "fontSize": 14,
+                  "fontWeight": "600",
+                  "letterSpacing": 0.5
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "6xucO",
+              "name": "Messages Area",
+              "width": "fill_container",
+              "height": "fill_container",
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 16,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "YA80w",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Empty State",
+                  "enabled": false,
+                  "fill": "#71717A",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container(0)",
+                  "content": "Send a message to get started.",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 14,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "Q8FG8",
+                  "name": "User Message Row",
+                  "width": "fill_container",
+                  "justifyContent": "end",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "izjqO",
+                      "name": "User Bubble",
+                      "fill": "#2563EB",
+                      "cornerRadius": 16,
+                      "padding": [
+                        8,
+                        12
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "O92ML",
+                          "name": "User Text",
+                          "fill": "#FFFFFF",
+                          "textGrowth": "fixed-width",
+                          "width": 200,
+                          "content": "Show me athletes from Ohio",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "qt2O7",
+                  "name": "AI Message Row",
+                  "width": "fill_container",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "1O3tH",
+                      "name": "AI Bubble",
+                      "fill": "#334155",
+                      "cornerRadius": 16,
+                      "padding": [
+                        8,
+                        12
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "UK93b",
+                          "name": "AI Text",
+                          "fill": "#E2E8F0",
+                          "textGrowth": "fixed-width",
+                          "width": 220,
+                          "content": "Thinking... (AI agents coming soon)",
+                          "fontFamily": "Inter",
+                          "fontSize": 14,
+                          "fontWeight": "normal"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "kys1z",
+              "name": "Chat Input Bar",
+              "width": "fill_container",
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#334155"
+              },
+              "gap": 12,
+              "padding": [
+                12,
+                16
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "0Hrz6",
+                  "name": "Input Field",
+                  "width": "fill_container",
+                  "height": 48,
+                  "fill": "#1E324D",
+                  "cornerRadius": 20,
+                  "stroke": {
+                    "align": "inside",
+                    "thickness": 2,
+                    "fill": "#10B4F5"
+                  },
+                  "padding": [
+                    0,
+                    24
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "VOs9q",
+                      "name": "Placeholder",
+                      "fill": "#6F86A5",
+                      "content": "Type a message...",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "6PH3H",
+                  "name": "Send Button",
+                  "height": 48,
+                  "fill": "#0B9FEA",
+                  "cornerRadius": 20,
+                  "padding": [
+                    0,
+                    24
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "qgwmz",
+                      "name": "Send Text",
+                      "fill": "#FFFFFF",
+                      "content": "Send",
+                      "fontFamily": "Inter",
+                      "fontSize": 14,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "HVvR0",
+      "x": 1500,
+      "y": 0,
+      "name": "Component/GameTypeFilter",
+      "reusable": true,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "OwG9a",
+          "name": "Label",
+          "fill": "#71717A",
+          "content": "Game",
+          "fontFamily": "Geist",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "XP0hz",
+          "name": "Toggle Group",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "gap": 2,
+          "padding": 2,
+          "children": [
+            {
+              "type": "frame",
+              "id": "qo7bX",
+              "name": "Olympian Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#0f172a",
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06b6d4"
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "BgxNL",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Olympian Img",
+                  "width": 48,
+                  "height": 48,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "images/opympian_games.png",
+                    "mode": "fit"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "q3fIZ",
+              "name": "Paralympian Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#0f172a",
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06b6d4"
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "qMN63",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Paralympian Img",
+                  "width": 48,
+                  "height": 48,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "images/paralympian_games.png",
+                    "mode": "fit"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "JjnN5",
+      "x": 1500,
+      "y": 80,
+      "name": "Game Type Filter States",
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "ggUkm",
+          "name": "Section Title",
+          "fill": "#94a3b8",
+          "content": "GameType — States",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600",
+          "letterSpacing": 1
+        },
+        {
+          "id": "QhFAs",
+          "type": "ref",
+          "ref": "HVvR0",
+          "name": "Both Active (default)",
+          "width": "fit_content",
+          "height": "fit_content",
+          "x": 24,
+          "y": 63,
+          "descendants": {
+            "OwG9a": {
+              "y": 17
+            },
+            "XP0hz": {
+              "width": "fit_content",
+              "height": "fit_content",
+              "x": 46
+            },
+            "qo7bX": {
+              "x": 2,
+              "y": 2
+            },
+            "q3fIZ": {
+              "x": 52,
+              "y": 2
+            }
+          }
+        },
+        {
+          "id": "p4fMa",
+          "type": "ref",
+          "ref": "HVvR0",
+          "name": "Olympian Only",
+          "width": "fit_content",
+          "height": "fit_content",
+          "x": 24,
+          "y": 139,
+          "descendants": {
+            "OwG9a": {
+              "y": 17
+            },
+            "XP0hz": {
+              "width": "fit_content",
+              "height": "fit_content",
+              "x": 46
+            },
+            "qo7bX": {
+              "x": 2,
+              "y": 2
+            },
+            "q3fIZ": {
+              "fill": "#1e293b",
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "x": 52,
+              "y": 2
+            }
+          }
+        },
+        {
+          "id": "sCat4",
+          "type": "ref",
+          "ref": "HVvR0",
+          "name": "Paralympian Only",
+          "width": "fit_content",
+          "height": "fit_content",
+          "x": 24,
+          "y": 215,
+          "descendants": {
+            "OwG9a": {
+              "y": 17
+            },
+            "XP0hz": {
+              "width": "fit_content",
+              "height": "fit_content",
+              "x": 46
+            },
+            "qo7bX": {
+              "fill": "#1e293b",
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "x": 2,
+              "y": 2
+            },
+            "q3fIZ": {
+              "x": 52,
+              "y": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "r04g3",
+      "x": 1500,
+      "y": 458,
+      "name": "Component/SeasonFilter",
+      "reusable": true,
+      "height": 52,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "SNtlb",
+          "name": "Label",
+          "fill": "#71717A",
+          "content": "Season",
+          "fontFamily": "Geist",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "DKfPx",
+          "name": "Toggle Group",
+          "width": 102,
+          "height": 52,
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "gap": 2,
+          "padding": 2,
+          "children": [
+            {
+              "type": "frame",
+              "id": "1pPek",
+              "name": "Summer Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#ffffff",
+              "cornerRadius": 4,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06b6d4"
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "lgPNI",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Summer Img",
+                  "width": 48,
+                  "height": 48,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "images/summer_games_emblem_dark_mode.png",
+                    "mode": "fit"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "jyq48",
+              "name": "Winter Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#ffffff",
+              "cornerRadius": 4,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06b6d4"
+              },
+              "layout": "none",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "10aSc",
+                  "x": 0,
+                  "y": 0,
+                  "name": "Winter Img",
+                  "width": 48,
+                  "height": 48,
+                  "fill": {
+                    "type": "image",
+                    "enabled": true,
+                    "url": "images/winter_games_emblem_dark_mode.png",
+                    "mode": "fit"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "0yEyj",
+      "x": 1500,
+      "y": 540,
+      "name": "Season Filter States",
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "61TTY",
+          "name": "Section Title",
+          "fill": "#94a3b8",
+          "content": "SeasonFilter — States",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600",
+          "letterSpacing": 1
+        },
+        {
+          "id": "9xQhH",
+          "type": "ref",
+          "ref": "r04g3",
+          "name": "Both Active (default)",
+          "width": "fit_content",
+          "height": 40,
+          "x": 24,
+          "y": 63
+        },
+        {
+          "id": "Ne3ZS",
+          "type": "ref",
+          "ref": "r04g3",
+          "name": "Summer Only",
+          "width": "fit_content",
+          "height": 40,
+          "x": 24,
+          "y": 127,
+          "descendants": {
+            "1pPek": {
+              "opacity": 1,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06b6d4"
+              }
+            },
+            "jyq48": {
+              "fill": "#0f172a",
+              "opacity": 0.3,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            }
+          }
+        },
+        {
+          "id": "ZZExh",
+          "type": "ref",
+          "ref": "r04g3",
+          "name": "Winter Only",
+          "width": "fit_content",
+          "height": 40,
+          "x": 24,
+          "y": 191,
+          "descendants": {
+            "1pPek": {
+              "fill": "#0f172a",
+              "opacity": 0.3,
+              "stroke": {
+                "align": "inside",
+                "thickness": 0,
+                "fill": "#00000000"
+              }
+            },
+            "jyq48": {
+              "opacity": 1,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06b6d4"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ET3MG",
+      "x": 1500,
+      "y": 835,
+      "name": "Component/MedalsFilter",
+      "reusable": true,
+      "height": 52,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "UMPrw",
+          "name": "Label",
+          "fill": "#71717A",
+          "content": "Medals",
+          "fontFamily": "Geist",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "uclSd",
+          "name": "Toggle Group",
+          "fill": "#0f172a",
+          "cornerRadius": 8,
+          "gap": 2,
+          "padding": 2,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "VAjlu",
+              "name": "Gold Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "images/generated-1778004985438.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06B6D4"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center"
+            },
+            {
+              "type": "frame",
+              "id": "C2uLr",
+              "name": "Silver Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "images/generated-1778004981207.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06B6D4"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center"
+            },
+            {
+              "type": "frame",
+              "id": "XXvHG",
+              "name": "Bronze Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "images/generated-1778004987440.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06B6D4"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IESKo",
+      "x": 1500,
+      "y": 942,
+      "name": "Medal Filter States",
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "zXEpq",
+          "name": "Section Title",
+          "fill": "#94a3b8",
+          "content": "MedalsFilter — States",
+          "fontFamily": "Inter",
+          "fontSize": 12,
+          "fontWeight": "600",
+          "letterSpacing": 1
+        },
+        {
+          "id": "HhZ50",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "All Active (default)",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 63
+        },
+        {
+          "id": "Gjh0J",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "Gold Only",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 139,
+          "descendants": {
+            "C2uLr": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            },
+            "XXvHG": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            }
+          }
+        },
+        {
+          "id": "ycIJV",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "Silver Only",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 215,
+          "descendants": {
+            "VAjlu": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            },
+            "XXvHG": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            }
+          }
+        },
+        {
+          "id": "KtcCc",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "Bronze Only",
+          "width": "fit_content",
+          "height": 52,
+          "x": 24,
+          "y": 291,
+          "descendants": {
+            "VAjlu": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            },
+            "C2uLr": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "wXZfd",
+      "x": 1851,
+      "y": 0,
+      "name": "Component/SportDisciplinesFilter",
+      "reusable": true,
+      "gap": 8,
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "2X6Hp",
+          "name": "Label",
+          "fill": "#71717A",
+          "content": "Sport",
+          "fontFamily": "Geist",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "R4UsW",
+          "name": "Disciplines Select",
+          "height": 30,
+          "fill": "#1A1A1A",
+          "cornerRadius": 4,
+          "gap": 4,
+          "padding": [
+            6,
+            8
+          ],
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "NMjzb",
+              "name": "Select Text",
+              "fill": "#f1f5f9",
+              "content": "All Disciplines",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "GI5dK",
+              "name": "Chevron",
+              "fill": "#71717A",
+              "content": "▾",
+              "fontFamily": "Inter",
+              "fontSize": 12,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IxZV0",
+      "x": 1851,
+      "y": 80,
+      "name": "Sport Disciplines — Open State",
+      "width": 340,
+      "fill": "#1e293b",
+      "cornerRadius": 12,
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "ZZevp",
+          "name": "Panel Header",
+          "width": "fill_container",
+          "stroke": {
+            "align": "outside",
+            "thickness": 1,
+            "fill": "#334155"
+          },
+          "padding": [
+            12,
+            16
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "tT6bV",
+              "name": "Panel Title",
+              "fill": "#f1f5f9",
+              "content": "Sport Disciplines",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "600"
+            },
+            {
+              "type": "frame",
+              "id": "avGiL",
+              "name": "Close Button",
+              "width": 24,
+              "height": 24,
+              "fill": "#334155",
+              "cornerRadius": 6,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "CYm7c",
+                  "name": "Close X",
+                  "fill": "#94a3b8",
+                  "content": "✕",
+                  "fontFamily": "Inter",
+                  "fontSize": 12,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "78P9E",
+          "x": 0,
+          "y": 48,
+          "name": "Search Area",
+          "enabled": false,
+          "width": "fill_container(340)",
+          "padding": [
+            8,
+            12
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "Y5iV6",
+              "name": "Search Input",
+              "width": "fill_container",
+              "height": 36,
+              "fill": "#0f172a",
+              "cornerRadius": 8,
+              "gap": 8,
+              "padding": [
+                0,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "QDwtR",
+                  "name": "Search Icon",
+                  "width": 16,
+                  "height": 16,
+                  "iconFontName": "search",
+                  "iconFontFamily": "lucide",
+                  "fill": "#64748b"
+                },
+                {
+                  "type": "text",
+                  "id": "twbgl",
+                  "name": "Search Placeholder",
+                  "fill": "#64748b",
+                  "content": "Search disciplines...",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "EBIEA",
+          "name": "Content Area",
+          "clip": true,
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 2,
+          "padding": [
+            8,
+            12
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "TBpIM",
+              "name": "Summer Header",
+              "width": "fill_container",
+              "gap": 6,
+              "padding": [
+                4,
+                0,
+                8,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "FB6wn",
+                  "name": "Summer Icon",
+                  "fill": "#f59e0b",
+                  "content": "☀",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "tixht",
+                  "name": "Summer Label",
+                  "fill": "#f59e0b",
+                  "content": "SUMMER",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 1
+                },
+                {
+                  "type": "rectangle",
+                  "id": "Y6oEr",
+                  "name": "Summer Divider",
+                  "fill": "#334155",
+                  "width": "fill_container",
+                  "height": 1
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "4q7bi",
+              "name": "S Row 1",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kHGeH",
+                  "name": "Sprint Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "nt1Sa",
+                      "name": "CB",
+                      "fill": "#0284c7",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#0284c7"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "GbMqE",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Sprint (100m)",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "094X4",
+                  "name": "Marathon Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "yy931",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "2WZCb",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Marathon",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "aRb50",
+              "name": "S Row 2",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "fNnjA",
+                  "name": "Hurdles Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "ktESY",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "YLMDZ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Hurdles",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ZS6UF",
+                  "name": "High Jump Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "6pOoY",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "HhzDV",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "High Jump",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "KOfHf",
+              "name": "S Row 3",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "aGA5H",
+                  "name": "Long Jump Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "MNiIF",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "tt8oB",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Long Jump",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "vwmzB",
+                  "name": "Swimming Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "vS9zv",
+                      "name": "CB",
+                      "fill": "#0284c7",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#0284c7"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "QGrMx",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Swimming",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "ebXB6",
+              "name": "S Row 4",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "zBSoC",
+                  "name": "Diving Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "DL2EB",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "GXnpd",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Diving",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "VWLw8",
+                  "name": "Water Polo Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "nT51o",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ftToQ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Water Polo",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "05DE7",
+              "name": "S Row 5",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "AxIEV",
+                  "name": "Gymnastics Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "wONFV",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ttoZJ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Gymnastics",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "d4naA",
+                  "name": "Cycling Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "SUSoh",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "BsfkY",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Cycling",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "XZpY9",
+              "name": "S Row 6",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "o0MA0",
+                  "name": "Rowing Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "8LIi4",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "NLT6E",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Rowing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "bS11Q",
+                  "name": "Sailing Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "jw7N4",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "CwdPX",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Sailing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "oWWBE",
+              "name": "S Row 7",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "W7bQr",
+                  "name": "Basketball Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Yz0b7",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "0J8sT",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Basketball",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ax2LZ",
+                  "name": "Volleyball Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "HI4fN",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ueHTO",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Volleyball",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "uooRj",
+              "name": "S Row 8",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "GycL4",
+                  "name": "Tennis Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "2jqE0",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "27S5z",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Tennis",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "QIBZD",
+                  "name": "Boxing Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "dDrnS",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "YboE1",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Boxing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "W1ku8",
+              "name": "S Row 9",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "5a6L8",
+                  "name": "Wrestling Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Q9Q16",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "BMUNZ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Wrestling",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "GgHBL",
+                  "name": "Judo Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "edAFK",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "sV6rx",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Judo",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "JXdSV",
+              "name": "S Row 10",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "WOuUx",
+                  "name": "Archery Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "3fmPO",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "i35RW",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Archery",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tpiQZ",
+                  "name": "Triathlon Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "03AmE",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "Y2PhT",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Triathlon",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "3SvJn",
+              "name": "S Row 11",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "yBVSa",
+                  "name": "Football Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "AbdiH",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "987nN",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Football",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "2Ngfj",
+                  "name": "Beach Volleyball Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Ya3Vo",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "JA1Bj",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Beach Volleyball",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "YWOMs",
+              "name": "S Row 12",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "qWDEo",
+                  "name": "Weightlifting Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "RwebI",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "d0U1t",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Weightlifting",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "epKOq",
+                  "name": "Shooting Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "gumtk",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "dsrEi",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Shooting",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "yeysj",
+              "name": "Winter Header",
+              "width": "fill_container",
+              "gap": 6,
+              "padding": [
+                12,
+                0,
+                8,
+                0
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "puPeA",
+                  "name": "Winter Icon",
+                  "fill": "#7dd3fc",
+                  "content": "❄",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                },
+                {
+                  "type": "text",
+                  "id": "Mj71O",
+                  "name": "Winter Label",
+                  "fill": "#7dd3fc",
+                  "content": "WINTER",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 1
+                },
+                {
+                  "type": "rectangle",
+                  "id": "oYT3u",
+                  "name": "Winter Divider",
+                  "fill": "#334155",
+                  "width": "fill_container",
+                  "height": 1
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "03Svd",
+              "name": "W Row 1",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "ZXt3E",
+                  "name": "Alpine Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "dxZmI",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "V3l1M",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Alpine Skiing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "DXTF4",
+                  "name": "CC Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "iEMtF",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "D0yYs",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Cross-Country",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Z3vr9",
+              "name": "W Row 2",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Y4Bc5",
+                  "name": "Biathlon Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "LRekU",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "E1DlV",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Biathlon",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "c61X2",
+                  "name": "Ski Jump Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "EoZB8",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "1Rf9K",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Ski Jumping",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "iYSd9",
+              "name": "W Row 3",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "tSueu",
+                  "name": "Freestyle Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "wUX8K",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "aCaB0",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Freestyle Skiing",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "0SMlK",
+                  "name": "Snowboard Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "yOx1O",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "Efqyp",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Snowboard",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "x82Nl",
+              "name": "W Row 4",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kocJF",
+                  "name": "Speed Skating Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "KPbib",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "j8cRQ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Speed Skating",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "v62hR",
+                  "name": "Short Track Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Wj0Md",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "Powr1",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Short Track",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "jUTLm",
+              "name": "W Row 5",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "kDC6X",
+                  "name": "Figure Skating Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "i8GF1",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "vfYcf",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Figure Skating",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "8WV4M",
+                  "name": "Ice Hockey Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "KfDWl",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "2VNid",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Ice Hockey",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "dNK6Y",
+              "name": "W Row 6",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "QkDbO",
+                  "name": "Curling Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "FwS5D",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "toHoJ",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Curling",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "G1t3i",
+                  "name": "Bobsled Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "3bw78",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "ai4OE",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Bobsled",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "PnaOu",
+              "name": "W Row 7",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "3mkLc",
+                  "name": "Luge Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "T2FPO",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "JRbot",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Luge",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "wAfit",
+                  "name": "Skeleton Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "Ry1Wn",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "4jRVh",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Skeleton",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "UrJii",
+              "name": "W Row 8",
+              "width": "fill_container",
+              "gap": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "DA6I8",
+                  "name": "Nordic Item",
+                  "width": "fill_container",
+                  "gap": 6,
+                  "padding": [
+                    3,
+                    0
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "rectangle",
+                      "cornerRadius": 2,
+                      "id": "R1Dv4",
+                      "name": "CB",
+                      "fill": "#334155",
+                      "width": 14,
+                      "height": 14,
+                      "stroke": {
+                        "align": "inside",
+                        "thickness": 1,
+                        "fill": "#475569"
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "id": "PCkOh",
+                      "name": "Lbl",
+                      "fill": "#e2e8f0",
+                      "content": "Nordic Combined",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "KFtBO",
+          "name": "Footer",
+          "width": "fill_container",
+          "stroke": {
+            "align": "outside",
+            "thickness": 1,
+            "fill": "#334155"
+          },
+          "gap": 8,
+          "padding": [
+            12,
+            16
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "1VRNO",
+              "name": "Clear Button",
+              "width": "fill_container",
+              "height": 32,
+              "fill": "#334155",
+              "cornerRadius": 8,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "x6pHm",
+                  "name": "Clear Text",
+                  "fill": "#94a3b8",
+                  "content": "Clear All",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "xgVGN",
+              "name": "Apply Button",
+              "width": "fill_container",
+              "height": 32,
+              "fill": "#0284c7",
+              "cornerRadius": 8,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "VXNXP",
+                  "name": "Apply Text",
+                  "fill": "#ffffff",
+                  "content": "Apply",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "BqIY5",
+      "x": 1851,
+      "y": 797,
+      "name": "Athletes Dot Size",
+      "gap": 48,
+      "children": [
+        {
+          "type": "frame",
+          "id": "kOWf0",
+          "name": "Athletes Dot Agent Part",
+          "width": 360,
+          "height": 260,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "Q02Ob",
+              "x": 18,
+              "y": 20,
+              "name": "Athletes Dot Legend",
+              "width": 128,
+              "fill": "#0B1220",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#1E293B"
+              },
+              "layout": "vertical",
+              "gap": 8,
+              "padding": [
+                12,
+                10
+              ],
+              "children": [
+                {
+                  "type": "text",
+                  "id": "yd566",
+                  "name": "legendTitle",
+                  "fill": "#94A3B8",
+                  "content": "Dot Sizes",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 0.2
+                },
+                {
+                  "type": "frame",
+                  "id": "i3fxX",
+                  "name": "row1",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "PSgmW",
+                      "name": "dot1",
+                      "width": 18,
+                      "height": 18,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "DQGO5",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#06B6D4",
+                          "width": 18,
+                          "height": 18,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 6
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "hUws8",
+                          "x": 5,
+                          "y": 5,
+                          "name": "Dot",
+                          "fill": "#06B6D4",
+                          "width": 8,
+                          "height": 8,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#06B6D4",
+                            "blur": 5,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "oEbv5",
+                          "x": 7.5,
+                          "y": 7.5,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 3,
+                          "height": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "szwdq",
+                      "name": "label1",
+                      "fill": "#E2E8F0",
+                      "content": "Size 1",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tfjT5",
+                  "name": "row2",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "uP3rp",
+                      "name": "dot2",
+                      "width": 24,
+                      "height": 24,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "F7H06",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#06B6D4",
+                          "width": 24,
+                          "height": 24,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 8
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "ejVzg",
+                          "x": 7,
+                          "y": 7,
+                          "name": "Dot",
+                          "fill": "#06B6D4",
+                          "width": 10,
+                          "height": 10,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#06B6D4",
+                            "blur": 6,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "fKbWi",
+                          "x": 10,
+                          "y": 10,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 4,
+                          "height": 4
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "r494O",
+                      "name": "label2",
+                      "fill": "#E2E8F0",
+                      "content": "Size 2",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "nznvz",
+                  "name": "row3",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "cYNW9",
+                      "name": "dot3",
+                      "width": 30,
+                      "height": 30,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "jxyqD",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#06B6D4",
+                          "width": 30,
+                          "height": 30,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 10
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "EKpZM",
+                          "x": 9,
+                          "y": 9,
+                          "name": "Dot",
+                          "fill": "#06B6D4",
+                          "width": 12,
+                          "height": 12,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#06B6D4",
+                            "blur": 7,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "tkcRv",
+                          "x": 12.5,
+                          "y": 12.5,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 5,
+                          "height": 5
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "W2Rgj2",
+                      "name": "label3",
+                      "fill": "#E2E8F0",
+                      "content": "Size 3",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "tU4aY",
+                  "name": "row4",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "d6fNkF",
+                      "name": "dot4",
+                      "width": 36,
+                      "height": 36,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "dF7K1",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#06B6D4",
+                          "width": 36,
+                          "height": 36,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 12
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "Z6Ard",
+                          "x": 11,
+                          "y": 11,
+                          "name": "Dot",
+                          "fill": "#06B6D4",
+                          "width": 14,
+                          "height": 14,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#06B6D4",
+                            "blur": 8,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "Gs0Ly",
+                          "x": 15,
+                          "y": 15,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 6,
+                          "height": 6
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "mSWSA",
+                      "name": "label4",
+                      "fill": "#E2E8F0",
+                      "content": "Size 4",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Z7bw6Y",
+                  "name": "row5",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "lsU4k",
+                      "name": "dot5",
+                      "width": 42,
+                      "height": 42,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "VBC6b",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#06B6D4",
+                          "width": 42,
+                          "height": 42,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 14
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "R69EX",
+                          "x": 13,
+                          "y": 13,
+                          "name": "Dot",
+                          "fill": "#06B6D4",
+                          "width": 16,
+                          "height": 16,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#06B6D4",
+                            "blur": 9,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "l9b79",
+                          "x": 17.5,
+                          "y": 17.5,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 7,
+                          "height": 7
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "QI1FK",
+                      "name": "label5",
+                      "fill": "#E2E8F0",
+                      "content": "Size 5+",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "e9rgx",
+      "x": 2021,
+      "y": 797,
+      "name": "Athletes Dot Size - Red",
+      "gap": 48,
+      "children": [
+        {
+          "type": "frame",
+          "id": "SehYd",
+          "name": "Athletes Dot Agent Part",
+          "width": 360,
+          "height": 260,
+          "layout": "none",
+          "children": [
+            {
+              "type": "frame",
+              "id": "XxlZX",
+              "x": 18,
+              "y": 20,
+              "name": "Athletes Dot Legend",
+              "width": 128,
+              "fill": "#0B1220",
+              "cornerRadius": 10,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#1E293B"
+              },
+              "layout": "vertical",
+              "gap": 8,
+              "padding": [
+                12,
+                10
+              ],
+              "children": [
+                {
+                  "type": "text",
+                  "id": "DgdVO",
+                  "name": "legendTitle",
+                  "fill": "#94A3B8",
+                  "content": "Dot Sizes",
+                  "fontFamily": "Inter",
+                  "fontSize": 11,
+                  "fontWeight": "600",
+                  "letterSpacing": 0.2
+                },
+                {
+                  "type": "frame",
+                  "id": "nGA7R",
+                  "name": "row1",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "USbu1",
+                      "name": "dot1",
+                      "width": 18,
+                      "height": 18,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "H03num",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#EF4444",
+                          "width": 18,
+                          "height": 18,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 6
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "B95k3",
+                          "x": 5,
+                          "y": 5,
+                          "name": "Dot",
+                          "fill": "#EF4444",
+                          "width": 8,
+                          "height": 8,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#EF4444",
+                            "blur": 5,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "ohJ32",
+                          "x": 7.5,
+                          "y": 7.5,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 3,
+                          "height": 3
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "vPM4B",
+                      "name": "label1",
+                      "fill": "#E2E8F0",
+                      "content": "Size 1",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "YX2EN",
+                  "name": "row2",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "i4WwI7",
+                      "name": "dot2",
+                      "width": 24,
+                      "height": 24,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "vN0rq",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#EF4444",
+                          "width": 24,
+                          "height": 24,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 8
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "SlZld",
+                          "x": 7,
+                          "y": 7,
+                          "name": "Dot",
+                          "fill": "#EF4444",
+                          "width": 10,
+                          "height": 10,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#EF4444",
+                            "blur": 6,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "E4p08P",
+                          "x": 10,
+                          "y": 10,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 4,
+                          "height": 4
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "vx8EG",
+                      "name": "label2",
+                      "fill": "#E2E8F0",
+                      "content": "Size 2",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "g7n2vn",
+                  "name": "row3",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "uCkS7",
+                      "name": "dot3",
+                      "width": 30,
+                      "height": 30,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "eK7ej",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#EF4444",
+                          "width": 30,
+                          "height": 30,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 10
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "oC3TO",
+                          "x": 9,
+                          "y": 9,
+                          "name": "Dot",
+                          "fill": "#EF4444",
+                          "width": 12,
+                          "height": 12,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#EF4444",
+                            "blur": 7,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "Uh6Hp",
+                          "x": 12.5,
+                          "y": 12.5,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 5,
+                          "height": 5
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "c3wGX",
+                      "name": "label3",
+                      "fill": "#E2E8F0",
+                      "content": "Size 3",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ke6NJ",
+                  "name": "row4",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "nxfF1",
+                      "name": "dot4",
+                      "width": 36,
+                      "height": 36,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "GeKtF",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#EF4444",
+                          "width": 36,
+                          "height": 36,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 12
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "R5fQZ7",
+                          "x": 11,
+                          "y": 11,
+                          "name": "Dot",
+                          "fill": "#EF4444",
+                          "width": 14,
+                          "height": 14,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#EF4444",
+                            "blur": 8,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "xRlQ0",
+                          "x": 15,
+                          "y": 15,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 6,
+                          "height": 6
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "h0eYsZ",
+                      "name": "label4",
+                      "fill": "#E2E8F0",
+                      "content": "Size 4",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ekQWP",
+                  "name": "row5",
+                  "gap": 10,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "OM75N",
+                      "name": "dot5",
+                      "width": 42,
+                      "height": 42,
+                      "layout": "none",
+                      "children": [
+                        {
+                          "type": "ellipse",
+                          "id": "GRWyg",
+                          "x": 0,
+                          "y": 0,
+                          "name": "Glow",
+                          "opacity": 0.3,
+                          "fill": "#EF4444",
+                          "width": 42,
+                          "height": 42,
+                          "effect": {
+                            "type": "blur",
+                            "radius": 14
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "vkNUA",
+                          "x": 13,
+                          "y": 13,
+                          "name": "Dot",
+                          "fill": "#EF4444",
+                          "width": 16,
+                          "height": 16,
+                          "effect": {
+                            "type": "shadow",
+                            "shadowType": "outer",
+                            "color": "#EF4444",
+                            "blur": 9,
+                            "spread": 1
+                          }
+                        },
+                        {
+                          "type": "ellipse",
+                          "id": "UJCJx",
+                          "x": 17.5,
+                          "y": 17.5,
+                          "name": "Core",
+                          "opacity": 0.9,
+                          "fill": "#FFFFFF",
+                          "width": 7,
+                          "height": 7
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "xoi00",
+                      "name": "label5",
+                      "fill": "#E2E8F0",
+                      "content": "Size 5+",
+                      "fontFamily": "Inter",
+                      "fontSize": 12,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themes": {
+    "Theme": [
+      "Default"
+    ]
+  }
+}

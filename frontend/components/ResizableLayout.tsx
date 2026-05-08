@@ -49,18 +49,28 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
   }, [onMouseMove, onMouseUp])
 
   return (
-    <main className="flex flex-row h-screen overflow-hidden p-4 bg-slate-950">
+    <main
+      className="flex flex-row h-screen overflow-hidden p-4"
+      style={{
+        background: `
+          radial-gradient(ellipse 140% 140% at 25% 35%, rgba(168,85,247,0.15) 0%, transparent 100%),
+          radial-gradient(ellipse 120% 120% at 75% 65%, rgba(236,72,153,0.10) 0%, transparent 100%),
+          radial-gradient(ellipse 80% 80% at 55% 15%, rgba(6,182,212,0.08) 0%, transparent 100%),
+          #020617
+        `,
+      }}
+    >
       <MapContentSlider cities={cities} />
 
       <div
         onMouseDown={onSeparatorMouseDown}
-        className="relative flex-shrink-0 flex items-center justify-center w-3 mx-1 cursor-col-resize group"
+        className="relative flex-shrink-0 flex items-center justify-center w-3 cursor-col-resize group"
         aria-hidden="true"
       >
-        <div className="w-0.5 h-full rounded-full bg-slate-700 group-hover:bg-slate-500 transition-colors" />
+        <div className="w-0.5 h-full rounded-full bg-[#334155] group-hover:bg-slate-500 transition-colors" />
         <div className="absolute flex flex-col gap-1">
           {[0, 1, 2].map(i => (
-            <div key={i} className="w-1 h-1 rounded-full bg-slate-600 group-hover:bg-slate-400 transition-colors" />
+            <div key={i} className="w-1 h-1 rounded-full bg-[#475569] group-hover:bg-slate-400 transition-colors" />
           ))}
         </div>
       </div>
