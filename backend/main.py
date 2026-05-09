@@ -5,6 +5,7 @@ from pathlib import Path
 
 import vertexai
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from vertexai import agent_engines
 
@@ -36,6 +37,14 @@ _engine = agent_engines.get(
 )
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
+)
+
 DATA_DIR = Path(__file__).parent / "data"
 
 
