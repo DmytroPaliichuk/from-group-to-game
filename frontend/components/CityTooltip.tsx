@@ -1,5 +1,7 @@
 'use client'
 
+import { useState } from 'react'
+
 interface AthleteData {
   first_name: string
   last_name: string
@@ -36,9 +38,10 @@ function MedalCount({ color, count }: { color: string; count: number }) {
 }
 
 function Avatar({ thumbnail, firstName, lastName }: { thumbnail: string; firstName: string; lastName: string }) {
+  const [imgError, setImgError] = useState(false)
   const initials = `${firstName[0] ?? ''}${lastName[0] ?? ''}`.toUpperCase()
 
-  if (thumbnail) {
+  if (thumbnail && !imgError) {
     return (
       // eslint-disable-next-line @next/next/no-img-element
       <img
@@ -48,6 +51,7 @@ function Avatar({ thumbnail, firstName, lastName }: { thumbnail: string; firstNa
         height={40}
         className="rounded-full object-cover flex-shrink-0"
         style={{ width: 40, height: 40 }}
+        onError={() => setImgError(true)}
       />
     )
   }
