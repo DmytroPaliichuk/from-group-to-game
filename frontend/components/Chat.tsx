@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
+import ReactMarkdown from 'react-markdown'
 
 interface Message {
   role: 'user' | 'assistant' | 'system'
@@ -183,7 +184,7 @@ export default function Chat() {
         <button
           onClick={newSession}
           disabled={isLoading || chatUnavailable}
-          className="border border-[#334155] text-[#94a3b8] hover:border-slate-500 hover:text-[#f1f5f9] text-xs px-2 py-1 rounded disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+          className="bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium px-4 py-1.5 rounded-full transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
         >
           + New Session
         </button>
@@ -208,15 +209,21 @@ export default function Chat() {
               key={i}
               className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
             >
-              <span
+              <div
                 className={`max-w-[75%] px-3 py-2 rounded-2xl text-sm leading-snug ${
                   msg.role === 'user'
                     ? 'bg-[#2563EB] text-white'
                     : 'bg-[#334155] text-[#E2E8F0]'
                 } ${msg.typing ? 'animate-pulse' : ''}`}
               >
-                {msg.text}
-              </span>
+                {msg.role === 'assistant' && !msg.typing ? (
+                  <div className="[&_p]:mb-1 [&_p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-4 [&_ol]:list-decimal [&_ol]:pl-4 [&_li]:mb-0.5 [&_strong]:font-semibold [&_em]:italic [&_code]:bg-[#1e293b] [&_code]:px-1 [&_code]:rounded [&_code]:text-xs [&_pre]:bg-[#1e293b] [&_pre]:p-2 [&_pre]:rounded [&_pre]:overflow-x-auto [&_pre]:text-xs [&_h1]:font-bold [&_h1]:text-base [&_h2]:font-semibold [&_h3]:font-semibold">
+                    <ReactMarkdown>{msg.text}</ReactMarkdown>
+                  </div>
+                ) : (
+                  msg.text
+                )}
+              </div>
             </div>
           )
         })}
