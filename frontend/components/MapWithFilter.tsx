@@ -67,7 +67,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
   const [selectedState, setSelectedState] = useState('')
   const [gameFilter, setGameFilter] = useState(new Set(['Olympian', 'Paralympian']))
   const [seasonFilter, setSeasonFilter] = useState(new Set(['Summer', 'Winter']))
-  const [medalFilter, setMedalFilter] = useState(new Set<string>())
+  const [medalFilter, setMedalFilter] = useState(new Set(['gold', 'silver', 'bronze', 'noMedal']))
   const [sportFilter, setSportFilter] = useState(new Set<string>())
   const [pendingSports, setPendingSports] = useState(new Set<string>())
   const [sportOpen, setSportOpen] = useState(false)
@@ -139,7 +139,12 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
       athletes: city.athletes.filter(a => {
         const gameMatch = gameFilter.size === 0 || gameFilter.size === 2 || gameFilter.has(a.olympic_paralympic)
         const seasonMatch = seasonFilter.size === 0 || seasonFilter.size === 2 || a.seasons.some(s => seasonFilter.has(s))
-        const medalMatch = medalFilter.size === 0 || [...medalFilter].every(m => a.medals[m as keyof typeof a.medals] > 0)
+        const isNoMedal = a.medals.gold === 0 && a.medals.silver === 0 && a.medals.bronze === 0
+        const medalMatch =
+          (medalFilter.has('gold')    || a.medals.gold === 0) &&
+          (medalFilter.has('silver')  || a.medals.silver === 0) &&
+          (medalFilter.has('bronze')  || a.medals.bronze === 0) &&
+          (medalFilter.has('noMedal') || !isNoMedal)
         const sportMatch = sportFilter.size === 0 || a.sports.some(s => sportFilter.has(s))
         return gameMatch && seasonMatch && medalMatch && sportMatch
       })
@@ -221,7 +226,11 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
                 />
               </button>
             ))}
-            <button className="w-12 h-12 rounded-full border-2 border-[#475569] opacity-55 bg-[#1e293b] flex items-center justify-center">
+            <button
+              onClick={() => toggleMedal('noMedal')}
+              className={`w-12 h-12 rounded-full border-2 bg-[#1e293b] flex items-center justify-center transition-all
+                ${medalFilter.has('noMedal') ? 'border-[#06B6D4] opacity-100' : 'border-[#475569] opacity-55'}`}
+            >
               <span className="text-[#E2E8F0] text-xl font-semibold">Ø</span>
             </button>
           </div>
