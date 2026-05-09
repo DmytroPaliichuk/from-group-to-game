@@ -221,6 +221,9 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
                 />
               </button>
             ))}
+            <button className="w-12 h-12 rounded-full border-2 border-[#475569] opacity-55 bg-[#1e293b] flex items-center justify-center">
+              <span className="text-[#E2E8F0] text-xl font-semibold">Ø</span>
+            </button>
           </div>
         </div>
 
