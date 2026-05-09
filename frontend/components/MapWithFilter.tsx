@@ -1,8 +1,9 @@
 'use client'
 
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, useMemo } from 'react'
 import Image from 'next/image'
 import UsMap from './UsMap'
+import AthleteSearch, { AthleteEntry } from './AthleteSearch'
 import topStateCities from '@/public/topStateSities.json'
 
 interface City {
@@ -72,6 +73,36 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
   const [pendingSports, setPendingSports] = useState(new Set<string>())
   const [sportOpen, setSportOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
+  const [selectedAthleteIds, setSelectedAthleteIds] = useState(new Set<number>())
+
+  const allAthletes = useMemo<AthleteEntry[]>(() => {
+    const entries: AthleteEntry[] = []
+    let id = 0
+    for (const city of cities) {
+      for (const a of city.athletes) {
+        entries.push({
+          id: id++,
+          firstName: a.first_name,
+          lastName: a.last_name,
+          fullName: `${a.first_name} ${a.last_name}`,
+          city: city.city,
+          state: city.state,
+        })
+      }
+    }
+    return entries
+  }, [cities])
+
+  // null means no athlete restriction; Set means restrict to these composite keys
+  const selectedAthleteKeys = useMemo<Set<string> | null>(() => {
+    if (selectedAthleteIds.size === 0) return null
+    const keys = new Set<string>()
+    for (const id of selectedAthleteIds) {
+      const e = allAthletes[id]
+      keys.add(`${e.firstName}|${e.lastName}|${e.city}|${e.state}`)
+    }
+    return keys
+  }, [selectedAthleteIds, allAthletes])
 
   function toggleGame(type: string) {
     setGameFilter(prev => {
@@ -119,6 +150,18 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     })
   }
 
+  function handleAthleteSelect(id: number) {
+    setSelectedAthleteIds(prev => new Set([...prev, id]))
+  }
+
+  function handleAthleteRemove(id: number) {
+    setSelectedAthleteIds(prev => {
+      const next = new Set(prev)
+      next.delete(id)
+      return next
+    })
+  }
+
   useEffect(() => {
     if (!sportOpen) return
     const handler = (e: MouseEvent) => {
@@ -146,7 +189,10 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
           (medalFilter.has('bronze')  || a.medals.bronze === 0) &&
           (medalFilter.has('noMedal') || !isNoMedal)
         const sportMatch = sportFilter.size === 0 || a.sports.some(s => sportFilter.has(s))
-        return gameMatch && seasonMatch && medalMatch && sportMatch
+        const athleteMatch =
+          selectedAthleteKeys === null ||
+          selectedAthleteKeys.has(`${a.first_name}|${a.last_name}|${city.city}|${city.state}`)
+        return gameMatch && seasonMatch && medalMatch && sportMatch && athleteMatch
       })
     }))
     .filter(c => c.athletes.length > 0)
@@ -329,6 +375,14 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
             </div>
           )}
         </div>
+
+        {/* Athlete name search */}
+        <AthleteSearch
+          athletes={allAthletes}
+          selectedIds={selectedAthleteIds}
+          onSelect={handleAthleteSelect}
+          onRemove={handleAthleteRemove}
+        />
 
         {/* Content page button */}
         {onContentPage && (
