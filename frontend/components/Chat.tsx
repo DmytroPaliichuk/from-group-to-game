@@ -214,9 +214,15 @@ export default function Chat() {
                   msg.role === 'user'
                     ? 'bg-[#2563EB] text-white'
                     : 'bg-[#334155] text-[#E2E8F0]'
-                } ${msg.typing ? 'animate-pulse' : ''}`}
+                }`}
               >
-                {msg.role === 'assistant' && !msg.typing ? (
+                {msg.typing ? (
+                  <span className="flex gap-1 items-center py-0.5">
+                    <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '0ms' }} />
+                    <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '150ms' }} />
+                    <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '300ms' }} />
+                  </span>
+                ) : msg.role === 'assistant' ? (
                   <div className="[&_p]:mb-1 [&_p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-4 [&_ol]:list-decimal [&_ol]:pl-4 [&_li]:mb-0.5 [&_strong]:font-semibold [&_em]:italic [&_code]:bg-[#1e293b] [&_code]:px-1 [&_code]:rounded [&_code]:text-xs [&_pre]:bg-[#1e293b] [&_pre]:p-2 [&_pre]:rounded [&_pre]:overflow-x-auto [&_pre]:text-xs [&_h1]:font-bold [&_h1]:text-base [&_h2]:font-semibold [&_h3]:font-semibold">
                     <ReactMarkdown>{msg.text}</ReactMarkdown>
                   </div>
