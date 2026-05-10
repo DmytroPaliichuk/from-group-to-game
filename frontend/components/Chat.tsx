@@ -14,6 +14,12 @@ const LS_SESSION_ID = 'fg2g_session_id'
 const LS_MESSAGES   = 'fg2g_chat_messages'
 const API_BASE      = process.env.NEXT_PUBLIC_API_URL ?? ''
 
+const FOLLOWUP_QUESTIONS = [
+  'Who won gold in LA 1984?',
+  'Which sport had the most CA athletes?',
+  'Show me Paralympic winners from California',
+]
+
 // Module-level so the init useEffect has no stale-closure dependency on it.
 async function callCreateSession(uid: string): Promise<string | null> {
   try {
@@ -32,7 +38,7 @@ async function callCreateSession(uid: string): Promise<string | null> {
   }
 }
 
-export default function Chat() {
+export default function Chat({ onApplyPreset }: { onApplyPreset?: () => void }) {
   const userId        = useRef<string>('')
   // Skip the first persistence run so init's setMessages(restored) doesn't
   // race with the effect and briefly overwrite localStorage with [].
@@ -104,8 +110,7 @@ export default function Chat() {
     return () => { cancelled = true }
   }, [])
 
-  async function send() {
-    const text = input.trim()
+  async function sendText(text: string) {
     if (!text || isLoading || !sessionId) return
 
     setMessages(prev => [
@@ -113,7 +118,6 @@ export default function Chat() {
       { role: 'user', text },
       { role: 'assistant', text: '...', typing: true },
     ])
-    setInput('')
     setIsLoading(true)
 
     try {
@@ -154,6 +158,12 @@ export default function Chat() {
     } finally {
       setIsLoading(false)
     }
+  }
+
+  function send() {
+    const text = input.trim()
+    setInput('')
+    sendText(text)
   }
 
   async function newSession() {
@@ -204,32 +214,53 @@ export default function Chat() {
               </p>
             )
           }
+
+          if (msg.role === 'user') {
+            return (
+              <div key={i} className="flex justify-end">
+                <div className="max-w-[75%] px-3 py-2 rounded-2xl text-sm leading-snug bg-[#2563EB] text-white">
+                  {msg.text}
+                </div>
+              </div>
+            )
+          }
+
+          // assistant
           return (
-            <div
-              key={i}
-              className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
-            >
-              <div
-                className={`max-w-[75%] px-3 py-2 rounded-2xl text-sm leading-snug ${
-                  msg.role === 'user'
-                    ? 'bg-[#2563EB] text-white'
-                    : 'bg-[#334155] text-[#E2E8F0]'
-                }`}
-              >
+            <div key={i} className="flex flex-col items-start gap-2">
+              <div className="max-w-[75%] px-3 py-2 rounded-2xl text-sm leading-snug bg-[#334155] text-[#E2E8F0]">
                 {msg.typing ? (
                   <span className="flex gap-1 items-center py-0.5">
                     <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '0ms' }} />
                     <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '150ms' }} />
                     <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '300ms' }} />
                   </span>
-                ) : msg.role === 'assistant' ? (
+                ) : (
                   <div className="[&_p]:mb-1 [&_p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-4 [&_ol]:list-decimal [&_ol]:pl-4 [&_li]:mb-0.5 [&_strong]:font-semibold [&_em]:italic [&_code]:bg-[#1e293b] [&_code]:px-1 [&_code]:rounded [&_code]:text-xs [&_pre]:bg-[#1e293b] [&_pre]:p-2 [&_pre]:rounded [&_pre]:overflow-x-auto [&_pre]:text-xs [&_h1]:font-bold [&_h1]:text-base [&_h2]:font-semibold [&_h3]:font-semibold">
                     <ReactMarkdown>{msg.text}</ReactMarkdown>
                   </div>
-                ) : (
-                  msg.text
                 )}
               </div>
+
+              {!msg.typing && onApplyPreset && (
+                <div className="flex flex-col gap-2 w-full max-w-[75%]">
+                  <button
+                    onClick={onApplyPreset}
+                    className="flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium transition-colors w-fit"
+                  >
+                    ▶ Press to play
+                  </button>
+                  {FOLLOWUP_QUESTIONS.map(q => (
+                    <button
+                      key={q}
+                      onClick={() => sendText(q)}
+                      className="text-left text-sm text-[#94A3B8] px-3 py-1.5 rounded-lg bg-[#1e293b] border-l-2 border-[#0B9FEA] hover:text-[#e2e8f0] hover:bg-[#253347] transition-colors"
+                    >
+                      {q}
+                    </button>
+                  ))}
+                </div>
+              )}
             </div>
           )
         })}

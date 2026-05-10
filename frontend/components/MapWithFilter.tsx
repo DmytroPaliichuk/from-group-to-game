@@ -84,17 +84,51 @@ function SportCheckbox({ sport, checked, onChange }: { sport: string; checked: b
   )
 }
 
-export default function MapWithFilter({ cities, onContentPage, onFilteredChange }: { cities: City[]; onContentPage?: () => void; onFilteredChange?: (athletes: FlatAthlete[]) => void }) {
-  const [selectedState, setSelectedState] = useState('')
-  const [gameFilter, setGameFilter] = useState(new Set(['Olympian', 'Paralympian']))
-  const [seasonFilter, setSeasonFilter] = useState(new Set(['Summer', 'Winter']))
-  const [medalFilter, setMedalFilter] = useState(new Set(['gold', 'silver', 'bronze', 'noMedal']))
-  const [sportFilter, setSportFilter] = useState(new Set<string>())
+export default function MapWithFilter({
+  cities,
+  onContentPage,
+  onFilteredChange,
+  selectedState,
+  onStateSelect,
+  gameFilter,
+  onGameFilter,
+  seasonFilter,
+  onSeasonFilter,
+  medalFilter,
+  onMedalFilter,
+  sportFilter,
+  onSportFilter,
+  selectedAthleteIds,
+  onAthleteSelect,
+  onAthleteRemove,
+  selectedCityKeys,
+  onCitySelect,
+  onCityRemove,
+}: {
+  cities: City[]
+  onContentPage?: () => void
+  onFilteredChange?: (athletes: FlatAthlete[]) => void
+  selectedState: string
+  onStateSelect: (s: string) => void
+  gameFilter: Set<string>
+  onGameFilter: (s: Set<string>) => void
+  seasonFilter: Set<string>
+  onSeasonFilter: (s: Set<string>) => void
+  medalFilter: Set<string>
+  onMedalFilter: (s: Set<string>) => void
+  sportFilter: Set<string>
+  onSportFilter: (s: Set<string>) => void
+  selectedAthleteIds: Set<number>
+  onAthleteSelect: (id: number) => void
+  onAthleteRemove: (id: number) => void
+  selectedCityKeys: Set<string>
+  onCitySelect: (key: string) => void
+  onCityRemove: (key: string) => void
+}) {
+  // Sport panel UI state stays local — only the committed sportFilter is lifted
   const [pendingSports, setPendingSports] = useState(new Set<string>())
   const [sportOpen, setSportOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
-  const [selectedAthleteIds, setSelectedAthleteIds] = useState(new Set<number>())
-  const [selectedCityIds, setSelectedCityIds] = useState(new Set<number>())
 
   const allAthletes = useMemo<AthleteEntry[]>(() => {
     const entries: AthleteEntry[] = []
@@ -117,13 +151,12 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
   const allCities = useMemo<CityEntry[]>(() => {
     const seen = new Set<string>()
     const entries: CityEntry[] = []
-    let id = 0
     for (const c of cities) {
       const key = `${c.city}|${c.state}`
       if (!seen.has(key)) {
         seen.add(key)
         entries.push({
-          id: id++,
+          key,
           city: c.city,
           state: c.state,
           label: `${STATE_NAMES[c.state] ?? c.state} — ${c.city}`,
@@ -132,16 +165,6 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
     }
     return entries
   }, [cities])
-
-  const selectedCityKeys = useMemo<Set<string> | null>(() => {
-    if (selectedCityIds.size === 0) return null
-    const keys = new Set<string>()
-    for (const id of selectedCityIds) {
-      const e = allCities[id]
-      keys.add(`${e.city}|${e.state}`)
-    }
-    return keys
-  }, [selectedCityIds, allCities])
 
   // null means no athlete restriction; Set means restrict to these composite keys
   const selectedAthleteKeys = useMemo<Set<string> | null>(() => {
@@ -155,27 +178,21 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
   }, [selectedAthleteIds, allAthletes])
 
   function toggleGame(type: string) {
-    setGameFilter(prev => {
-      const next = new Set(prev)
-      next.has(type) ? next.delete(type) : next.add(type)
-      return next
-    })
+    const next = new Set(gameFilter)
+    next.has(type) ? next.delete(type) : next.add(type)
+    onGameFilter(next)
   }
 
   function toggleSeason(type: string) {
-    setSeasonFilter(prev => {
-      const next = new Set(prev)
-      next.has(type) ? next.delete(type) : next.add(type)
-      return next
-    })
+    const next = new Set(seasonFilter)
+    next.has(type) ? next.delete(type) : next.add(type)
+    onSeasonFilter(next)
   }
 
   function toggleMedal(type: string) {
-    setMedalFilter(prev => {
-      const next = new Set(prev)
-      next.has(type) ? next.delete(type) : next.add(type)
-      return next
-    })
+    const next = new Set(medalFilter)
+    next.has(type) ? next.delete(type) : next.add(type)
+    onMedalFilter(next)
   }
 
   function openSportPanel() {
@@ -188,7 +205,7 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
   }
 
   function applyAndClose() {
-    setSportFilter(new Set(pendingSports))
+    onSportFilter(new Set(pendingSports))
     setSportOpen(false)
   }
 
@@ -196,30 +213,6 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
     setPendingSports(prev => {
       const next = new Set(prev)
       next.has(sport) ? next.delete(sport) : next.add(sport)
-      return next
-    })
-  }
-
-  function handleAthleteSelect(id: number) {
-    setSelectedAthleteIds(prev => new Set([...prev, id]))
-  }
-
-  function handleCitySelect(id: number) {
-    setSelectedCityIds(prev => new Set([...prev, id]))
-  }
-
-  function handleCityRemove(id: number) {
-    setSelectedCityIds(prev => {
-      const next = new Set(prev)
-      next.delete(id)
-      return next
-    })
-  }
-
-  function handleAthleteRemove(id: number) {
-    setSelectedAthleteIds(prev => {
-      const next = new Set(prev)
-      next.delete(id)
       return next
     })
   }
@@ -240,7 +233,7 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
 
   const filtered = useMemo(() =>
     (selectedState ? cities.filter(c => c.state === selectedState) : cities)
-      .filter(c => selectedCityKeys === null || selectedCityKeys.has(`${c.city}|${c.state}`))
+      .filter(c => selectedCityKeys.size === 0 || selectedCityKeys.has(`${c.city}|${c.state}`))
       .map(city => ({
         ...city,
         athletes: city.athletes.filter(a => {
@@ -482,19 +475,19 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
           className="flex-1 min-w-0"
           athletes={allAthletes}
           selectedIds={selectedAthleteIds}
-          onSelect={handleAthleteSelect}
-          onRemove={handleAthleteRemove}
+          onSelect={onAthleteSelect}
+          onRemove={onAthleteRemove}
         />
         <CitySearch
           className="flex-1 min-w-0"
           cities={allCities}
-          selectedIds={selectedCityIds}
-          onSelect={handleCitySelect}
-          onRemove={handleCityRemove}
+          selectedKeys={selectedCityKeys}
+          onSelect={onCitySelect}
+          onRemove={onCityRemove}
         />
       </div>
 
-      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={setSelectedState} />
+      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={onStateSelect} />
     </div>
   )
 }

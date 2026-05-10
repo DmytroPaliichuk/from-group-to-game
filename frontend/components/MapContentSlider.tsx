@@ -24,8 +24,50 @@ interface City {
   }[]
 }
 
-export default function MapContentSlider({ cities }: { cities: City[] }) {
-  const [showContent, setShowContent] = useState(false)
+interface MapContentSliderProps {
+  cities: City[]
+  showContent: boolean
+  onShowContent: (v: boolean) => void
+  selectedState: string
+  onStateSelect: (s: string) => void
+  gameFilter: Set<string>
+  onGameFilter: (s: Set<string>) => void
+  seasonFilter: Set<string>
+  onSeasonFilter: (s: Set<string>) => void
+  medalFilter: Set<string>
+  onMedalFilter: (s: Set<string>) => void
+  sportFilter: Set<string>
+  onSportFilter: (s: Set<string>) => void
+  selectedAthleteIds: Set<number>
+  onAthleteSelect: (id: number) => void
+  onAthleteRemove: (id: number) => void
+  selectedCityKeys: Set<string>
+  onCitySelect: (key: string) => void
+  onCityRemove: (key: string) => void
+}
+
+export default function MapContentSlider({
+  cities,
+  showContent,
+  onShowContent,
+  selectedState,
+  onStateSelect,
+  gameFilter,
+  onGameFilter,
+  seasonFilter,
+  onSeasonFilter,
+  medalFilter,
+  onMedalFilter,
+  sportFilter,
+  onSportFilter,
+  selectedAthleteIds,
+  onAthleteSelect,
+  onAthleteRemove,
+  selectedCityKeys,
+  onCitySelect,
+  onCityRemove,
+}: MapContentSliderProps) {
+  // filteredAthletes is local to the slider — ContentPage consumes it, ResizableLayout doesn't need it
   const [filteredAthletes, setFilteredAthletes] = useState<FlatAthlete[]>([])
 
   return (
@@ -40,14 +82,30 @@ export default function MapContentSlider({ cities }: { cities: City[] }) {
         <div className="h-full" style={{ width: '50%' }}>
           <MapWithFilter
             cities={cities}
-            onContentPage={() => setShowContent(true)}
+            onContentPage={() => onShowContent(true)}
             onFilteredChange={setFilteredAthletes}
+            selectedState={selectedState}
+            onStateSelect={onStateSelect}
+            gameFilter={gameFilter}
+            onGameFilter={onGameFilter}
+            seasonFilter={seasonFilter}
+            onSeasonFilter={onSeasonFilter}
+            medalFilter={medalFilter}
+            onMedalFilter={onMedalFilter}
+            sportFilter={sportFilter}
+            onSportFilter={onSportFilter}
+            selectedAthleteIds={selectedAthleteIds}
+            onAthleteSelect={onAthleteSelect}
+            onAthleteRemove={onAthleteRemove}
+            selectedCityKeys={selectedCityKeys}
+            onCitySelect={onCitySelect}
+            onCityRemove={onCityRemove}
           />
         </div>
         <div className="h-full" style={{ width: '50%' }}>
           <ContentPage
             athletes={showContent ? filteredAthletes : []}
-            onMapPage={() => setShowContent(false)}
+            onMapPage={() => onShowContent(false)}
           />
         </div>
       </div>
