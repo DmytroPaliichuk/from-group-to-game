@@ -17,14 +17,21 @@ interface AthleteSearchProps {
   onSelect: (id: number) => void
   onRemove: (id: number) => void
   className?: string
+  clearSignal?: number
 }
 
 const RESULT_CAP = 8
 
-export default function AthleteSearch({ athletes, selectedIds, onSelect, onRemove, className }: AthleteSearchProps) {
+export default function AthleteSearch({ athletes, selectedIds, onSelect, onRemove, className, clearSignal }: AthleteSearchProps) {
   const [query, setQuery] = useState('')
   const [isOpen, setIsOpen] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    if (clearSignal === undefined) return
+    setQuery('')
+    setIsOpen(false)
+  }, [clearSignal])
 
   useEffect(() => {
     if (!isOpen) return

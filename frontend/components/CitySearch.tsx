@@ -29,14 +29,21 @@ interface CitySearchProps {
   onSelect: (key: string) => void
   onRemove: (key: string) => void
   className?: string
+  clearSignal?: number
 }
 
 const RESULT_CAP = 8
 
-export default function CitySearch({ cities, selectedKeys, onSelect, onRemove, className }: CitySearchProps) {
+export default function CitySearch({ cities, selectedKeys, onSelect, onRemove, className, clearSignal }: CitySearchProps) {
   const [query, setQuery] = useState('')
   const [isOpen, setIsOpen] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    if (clearSignal === undefined) return
+    setQuery('')
+    setIsOpen(false)
+  }, [clearSignal])
 
   useEffect(() => {
     if (!isOpen) return

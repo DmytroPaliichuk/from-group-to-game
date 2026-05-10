@@ -35,6 +35,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
   const [sportFilter,        setSportFilter]        = useState(new Set<string>())
   const [selectedAthleteIds, setSelectedAthleteIds] = useState(new Set<number>())
   const [selectedCityKeys,   setSelectedCityKeys]   = useState(new Set<string>())
+  const [searchClearSignal,  setSearchClearSignal]  = useState(0)
 
   function handleAthleteSelect(id: number) {
     setSelectedAthleteIds(prev => new Set([...prev, id]))
@@ -50,6 +51,16 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
 
   function handleCitySelect(key: string) {
     setSelectedCityKeys(prev => new Set([...prev, key]))
+  }
+
+  function handleClearAllFilters() {
+    setGameFilter(new Set(['Olympian', 'Paralympian']))
+    setSeasonFilter(new Set(['Summer', 'Winter']))
+    setMedalFilter(new Set(['gold', 'silver', 'bronze', 'noMedal']))
+    setSportFilter(new Set<string>())
+    setSelectedAthleteIds(new Set<number>())
+    setSelectedCityKeys(new Set<string>())
+    setSearchClearSignal(prev => prev + 1)
   }
 
   function handleCityRemove(key: string) {
@@ -136,6 +147,8 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
         selectedCityKeys={selectedCityKeys}
         onCitySelect={handleCitySelect}
         onCityRemove={handleCityRemove}
+        onClearAllFilters={handleClearAllFilters}
+        searchClearSignal={searchClearSignal}
       />
 
       <div

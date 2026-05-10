@@ -104,6 +104,8 @@ export default function MapWithFilter({
   selectedCityKeys,
   onCitySelect,
   onCityRemove,
+  onClearAllFilters,
+  searchClearSignal,
 }: {
   cities: City[]
   onContentPage?: () => void
@@ -124,6 +126,8 @@ export default function MapWithFilter({
   selectedCityKeys: Set<string>
   onCitySelect: (key: string) => void
   onCityRemove: (key: string) => void
+  onClearAllFilters: () => void
+  searchClearSignal: number
 }) {
   // Sport panel UI state stays local — only the committed sportFilter is lifted
   const [pendingSports, setPendingSports] = useState(new Set<string>())
@@ -207,6 +211,12 @@ export default function MapWithFilter({
   function applyAndClose() {
     onSportFilter(new Set(pendingSports))
     setSportOpen(false)
+  }
+
+  function clearAllFilters() {
+    setPendingSports(new Set())
+    setSportOpen(false)
+    onClearAllFilters()
   }
 
   function togglePending(sport: string) {
@@ -458,6 +468,15 @@ export default function MapWithFilter({
           )}
         </div>
 
+        {/* Clear all filters */}
+        <button
+          onClick={clearAllFilters}
+          className="text-sm text-[#94a3b8] hover:text-[#e2e8f0] transition-colors"
+          style={{ fontFamily: "'Geist', sans-serif" }}
+        >
+          Clear All Filters
+        </button>
+
         {/* Content page button — right-aligned */}
         {onContentPage && (
           <button
@@ -477,6 +496,7 @@ export default function MapWithFilter({
           selectedIds={selectedAthleteIds}
           onSelect={onAthleteSelect}
           onRemove={onAthleteRemove}
+          clearSignal={searchClearSignal}
         />
         <CitySearch
           className="flex-1 min-w-0"
@@ -484,6 +504,7 @@ export default function MapWithFilter({
           selectedKeys={selectedCityKeys}
           onSelect={onCitySelect}
           onRemove={onCityRemove}
+          clearSignal={searchClearSignal}
         />
       </div>
 
