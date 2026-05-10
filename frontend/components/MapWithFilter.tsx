@@ -246,7 +246,8 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
 
   return (
     <div className="relative w-full h-full flex flex-col bg-[#0f172a] rounded-lg border border-[#1A1A1A] p-4 gap-3 overflow-hidden">
-      <div className="flex items-center h-[52px] gap-8 flex-shrink-0">
+      {/* Row 1: primary filters + content page button */}
+      <div className="flex items-center gap-8 flex-shrink-0 border-b border-[#334155] pb-2">
         {/* Game toggle */}
         <div className="flex items-center gap-2">
           <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Game</span>
@@ -421,23 +422,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
           )}
         </div>
 
-        {/* Athlete name search */}
-        <AthleteSearch
-          athletes={allAthletes}
-          selectedIds={selectedAthleteIds}
-          onSelect={handleAthleteSelect}
-          onRemove={handleAthleteRemove}
-        />
-
-        {/* City search */}
-        <CitySearch
-          cities={allCities}
-          selectedIds={selectedCityIds}
-          onSelect={handleCitySelect}
-          onRemove={handleCityRemove}
-        />
-
-        {/* Content page button */}
+        {/* Content page button — right-aligned */}
         {onContentPage && (
           <button
             onClick={onContentPage}
@@ -446,6 +431,24 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
             Content Page &gt;&gt;
           </button>
         )}
+      </div>
+
+      {/* Row 2: search inputs, each filling half the width */}
+      <div className="flex gap-4 flex-shrink-0 pt-2">
+        <AthleteSearch
+          className="flex-1 min-w-0"
+          athletes={allAthletes}
+          selectedIds={selectedAthleteIds}
+          onSelect={handleAthleteSelect}
+          onRemove={handleAthleteRemove}
+        />
+        <CitySearch
+          className="flex-1 min-w-0"
+          cities={allCities}
+          selectedIds={selectedCityIds}
+          onSelect={handleCitySelect}
+          onRemove={handleCityRemove}
+        />
       </div>
 
       <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={setSelectedState} />

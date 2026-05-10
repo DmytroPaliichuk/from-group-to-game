@@ -16,11 +16,12 @@ interface AthleteSearchProps {
   selectedIds: Set<number>
   onSelect: (id: number) => void
   onRemove: (id: number) => void
+  className?: string
 }
 
 const RESULT_CAP = 8
 
-export default function AthleteSearch({ athletes, selectedIds, onSelect, onRemove }: AthleteSearchProps) {
+export default function AthleteSearch({ athletes, selectedIds, onSelect, onRemove, className }: AthleteSearchProps) {
   const [query, setQuery] = useState('')
   const [isOpen, setIsOpen] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
@@ -56,10 +57,10 @@ export default function AthleteSearch({ athletes, selectedIds, onSelect, onRemov
   }
 
   return (
-    <div ref={containerRef} className="relative flex items-center gap-2">
+    <div ref={containerRef} className={`relative flex items-center gap-2 ${className ?? ''}`}>
       <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Athlete</span>
 
-      <div className="flex items-center gap-1 flex-wrap bg-[#1A1A1A] rounded px-2 h-[30px] min-w-[160px] max-w-[320px] overflow-hidden">
+      <div className="flex items-center gap-1 flex-wrap bg-[#1A1A1A] rounded px-2 h-[30px] min-w-[160px] flex-1 overflow-hidden">
         {[...selectedIds].map(id => {
           const a = athletes[id]
           if (!a) return null

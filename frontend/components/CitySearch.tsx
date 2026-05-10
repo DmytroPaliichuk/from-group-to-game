@@ -28,11 +28,12 @@ interface CitySearchProps {
   selectedIds: Set<number>
   onSelect: (id: number) => void
   onRemove: (id: number) => void
+  className?: string
 }
 
 const RESULT_CAP = 8
 
-export default function CitySearch({ cities, selectedIds, onSelect, onRemove }: CitySearchProps) {
+export default function CitySearch({ cities, selectedIds, onSelect, onRemove, className }: CitySearchProps) {
   const [query, setQuery] = useState('')
   const [isOpen, setIsOpen] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
@@ -64,10 +65,10 @@ export default function CitySearch({ cities, selectedIds, onSelect, onRemove }: 
   }
 
   return (
-    <div ref={containerRef} className="relative flex items-center gap-2">
+    <div ref={containerRef} className={`relative flex items-center gap-2 ${className ?? ''}`}>
       <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>City</span>
 
-      <div className="flex items-center gap-1 flex-wrap bg-[#1A1A1A] rounded px-2 h-[30px] min-w-[160px] max-w-[320px] overflow-hidden">
+      <div className="flex items-center gap-1 flex-wrap bg-[#1A1A1A] rounded px-2 h-[30px] min-w-[160px] flex-1 overflow-hidden">
         {[...selectedIds].map(id => {
           const c = cities[id]
           if (!c) return null
