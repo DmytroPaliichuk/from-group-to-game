@@ -27,7 +27,7 @@ export default function ContentPage({
         </div>
       ) : (
         <div className="flex-1 overflow-y-auto">
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 gap-4">
             {athletes.map((a, i) => (
               <AthleteCard key={i} athlete={a} />
             ))}

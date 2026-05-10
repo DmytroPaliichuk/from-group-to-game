@@ -17,6 +17,10 @@ interface City {
     medals: { gold: number; silver: number; bronze: number }
     sports: string[]
     thumbnail: string
+    birthday: string | null
+    education: string | null
+    fun_fact: string | null
+    biography: string | null
   }[]
 }
 

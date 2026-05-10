@@ -92,6 +92,10 @@ def get_hometowns(state: str | None = Query(default=None)):
                     "medals": a.get("medals", {"gold": 0, "silver": 0, "bronze": 0}),
                     "sports": list({s.get("title") for s in a.get("sport", []) if s.get("title")}),
                     "thumbnail_image_list": a.get("thumbnail_image_list", [])[:1],
+                    "birthday":  a.get("bio", {}).get("birthday"),
+                    "education": a.get("bio", {}).get("education"),
+                    "fun_fact":  a.get("bio", {}).get("fun_fact"),
+                    "biography": a.get("bio", {}).get("biography"),
                 })
     return result
 

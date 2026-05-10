@@ -11,9 +11,14 @@ export interface FlatAthlete {
   first_name: string
   last_name: string
   city: string
+  state: string
   sports: string[]
   medals: { gold: number; silver: number; bronze: number }
   thumbnail: string
+  birthday: string | null
+  education: string | null
+  fun_fact: string | null
+  biography: string | null
 }
 
 interface City {
@@ -29,6 +34,10 @@ interface City {
     medals: { gold: number; silver: number; bronze: number }
     sports: string[]
     thumbnail: string
+    birthday: string | null
+    education: string | null
+    fun_fact: string | null
+    biography: string | null
   }[]
 }
 
@@ -263,9 +272,14 @@ export default function MapWithFilter({ cities, onContentPage, onFilteredChange 
           first_name: a.first_name,
           last_name: a.last_name,
           city: c.city,
+          state: c.state,
           sports: a.sports,
           medals: a.medals,
           thumbnail: a.thumbnail,
+          birthday: a.birthday,
+          education: a.education,
+          fun_fact: a.fun_fact,
+          biography: a.biography,
         }))
       )
     )
