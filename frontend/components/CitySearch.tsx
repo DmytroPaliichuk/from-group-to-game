@@ -1,0 +1,115 @@
+'use client'
+
+import { useState, useRef, useEffect } from 'react'
+
+export const STATE_NAMES: Record<string, string> = {
+  AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California',
+  CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware', DC: 'District of Columbia',
+  FL: 'Florida', GA: 'Georgia', HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois',
+  IN: 'Indiana', IA: 'Iowa', KS: 'Kansas', KY: 'Kentucky', LA: 'Louisiana',
+  ME: 'Maine', MD: 'Maryland', MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota',
+  MS: 'Mississippi', MO: 'Missouri', MT: 'Montana', NE: 'Nebraska', NV: 'Nevada',
+  NH: 'New Hampshire', NJ: 'New Jersey', NM: 'New Mexico', NY: 'New York',
+  NC: 'North Carolina', ND: 'North Dakota', OH: 'Ohio', OK: 'Oklahoma', OR: 'Oregon',
+  PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina', SD: 'South Dakota',
+  TN: 'Tennessee', TX: 'Texas', UT: 'Utah', VT: 'Vermont', VA: 'Virginia',
+  WA: 'Washington', WV: 'West Virginia', WI: 'Wisconsin', WY: 'Wyoming',
+}
+
+export interface CityEntry {
+  id: number
+  city: string
+  state: string   // abbreviation, e.g. "CA"
+  label: string   // dropdown display: "California — Los Angeles"
+}
+
+interface CitySearchProps {
+  cities: CityEntry[]
+  selectedIds: Set<number>
+  onSelect: (id: number) => void
+  onRemove: (id: number) => void
+}
+
+const RESULT_CAP = 8
+
+export default function CitySearch({ cities, selectedIds, onSelect, onRemove }: CitySearchProps) {
+  const [query, setQuery] = useState('')
+  const [isOpen, setIsOpen] = useState(false)
+  const containerRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    if (!isOpen) return
+    const handler = (e: MouseEvent) => {
+      if (!containerRef.current?.contains(e.target as Node)) setIsOpen(false)
+    }
+    document.addEventListener('mousedown', handler)
+    return () => document.removeEventListener('mousedown', handler)
+  }, [isOpen])
+
+  const matches: CityEntry[] = query.trim().length === 0
+    ? []
+    : cities
+        .filter(c => !selectedIds.has(c.id))
+        .filter(c => c.city.toLowerCase().includes(query.toLowerCase()))
+        .slice(0, RESULT_CAP)
+
+  function handleSelect(id: number) {
+    onSelect(id)
+    setQuery('')
+  }
+
+  function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
+    setQuery(e.target.value)
+    setIsOpen(e.target.value.trim().length > 0)
+  }
+
+  return (
+    <div ref={containerRef} className="relative flex items-center gap-2">
+      <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>City</span>
+
+      <div className="flex items-center gap-1 flex-wrap bg-[#1A1A1A] rounded px-2 h-[30px] min-w-[160px] max-w-[320px] overflow-hidden">
+        {[...selectedIds].map(id => {
+          const c = cities[id]
+          if (!c) return null
+          return (
+            <span key={id} className="flex items-center gap-1 bg-[#334155] text-[#e2e8f0] text-xs rounded px-1.5 py-0.5 flex-shrink-0">
+              {c.city}
+              <button
+                aria-label={`Remove ${c.city}`}
+                onClick={() => onRemove(id)}
+                className="text-[#94a3b8] hover:text-white leading-none"
+              >
+                ×
+              </button>
+            </span>
+          )
+        })}
+        <input
+          aria-label="Search cities by name"
+          placeholder={selectedIds.size === 0 ? 'Search cities…' : ''}
+          value={query}
+          onChange={handleChange}
+          className="bg-transparent text-[#f1f5f9] text-sm outline-none min-w-[80px] flex-1"
+        />
+      </div>
+
+      {isOpen && (
+        <div className="absolute top-full mt-2 left-0 z-50 rounded-xl min-w-[200px] overflow-hidden"
+          style={{ backgroundColor: '#1e293b', border: '1px solid #334155' }}>
+          {matches.length === 0
+            ? <span className="block text-[#94a3b8] text-sm italic px-3 py-2">No results</span>
+            : matches.map(c => (
+                <button
+                  key={c.id}
+                  onClick={() => handleSelect(c.id)}
+                  className="block w-full text-left text-[#e2e8f0] text-sm px-3 py-1.5 hover:bg-[#334155] transition-colors"
+                >
+                  {c.label}
+                </button>
+              ))
+          }
+        </div>
+      )}
+    </div>
+  )
+}

@@ -4,6 +4,7 @@ import { useState, useRef, useEffect, useMemo } from 'react'
 import Image from 'next/image'
 import UsMap from './UsMap'
 import AthleteSearch, { AthleteEntry } from './AthleteSearch'
+import CitySearch, { CityEntry, STATE_NAMES } from './CitySearch'
 import topStateCities from '@/public/topStateSities.json'
 
 interface City {
@@ -75,6 +76,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
   const [sportOpen, setSportOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
   const [selectedAthleteIds, setSelectedAthleteIds] = useState(new Set<number>())
+  const [selectedCityIds, setSelectedCityIds] = useState(new Set<number>())
 
   const allAthletes = useMemo<AthleteEntry[]>(() => {
     const entries: AthleteEntry[] = []
@@ -93,6 +95,35 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     }
     return entries
   }, [cities])
+
+  const allCities = useMemo<CityEntry[]>(() => {
+    const seen = new Set<string>()
+    const entries: CityEntry[] = []
+    let id = 0
+    for (const c of cities) {
+      const key = `${c.city}|${c.state}`
+      if (!seen.has(key)) {
+        seen.add(key)
+        entries.push({
+          id: id++,
+          city: c.city,
+          state: c.state,
+          label: `${STATE_NAMES[c.state] ?? c.state} — ${c.city}`,
+        })
+      }
+    }
+    return entries
+  }, [cities])
+
+  const selectedCityKeys = useMemo<Set<string> | null>(() => {
+    if (selectedCityIds.size === 0) return null
+    const keys = new Set<string>()
+    for (const id of selectedCityIds) {
+      const e = allCities[id]
+      keys.add(`${e.city}|${e.state}`)
+    }
+    return keys
+  }, [selectedCityIds, allCities])
 
   // null means no athlete restriction; Set means restrict to these composite keys
   const selectedAthleteKeys = useMemo<Set<string> | null>(() => {
@@ -155,6 +186,18 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     setSelectedAthleteIds(prev => new Set([...prev, id]))
   }
 
+  function handleCitySelect(id: number) {
+    setSelectedCityIds(prev => new Set([...prev, id]))
+  }
+
+  function handleCityRemove(id: number) {
+    setSelectedCityIds(prev => {
+      const next = new Set(prev)
+      next.delete(id)
+      return next
+    })
+  }
+
   function handleAthleteRemove(id: number) {
     setSelectedAthleteIds(prev => {
       const next = new Set(prev)
@@ -178,6 +221,7 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     : `${sportFilter.size} Disciplines`
 
   const filtered = (selectedState ? cities.filter(c => c.state === selectedState) : cities)
+    .filter(c => selectedCityKeys === null || selectedCityKeys.has(`${c.city}|${c.state}`))
     .map(city => ({
       ...city,
       athletes: city.athletes.filter(a => {
@@ -383,6 +427,14 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
           selectedIds={selectedAthleteIds}
           onSelect={handleAthleteSelect}
           onRemove={handleAthleteRemove}
+        />
+
+        {/* City search */}
+        <CitySearch
+          cities={allCities}
+          selectedIds={selectedCityIds}
+          onSelect={handleCitySelect}
+          onRemove={handleCityRemove}
         />
 
         {/* Content page button */}
