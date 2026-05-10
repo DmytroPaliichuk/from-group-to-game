@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import MapWithFilter from './MapWithFilter'
+import MapWithFilter, { FlatAthlete } from './MapWithFilter'
 import ContentPage from './ContentPage'
 
 interface City {
@@ -22,6 +22,7 @@ interface City {
 
 export default function MapContentSlider({ cities }: { cities: City[] }) {
   const [showContent, setShowContent] = useState(false)
+  const [filteredAthletes, setFilteredAthletes] = useState<FlatAthlete[]>([])
 
   return (
     <div className="flex-1 min-w-0 h-full overflow-hidden">
@@ -33,10 +34,17 @@ export default function MapContentSlider({ cities }: { cities: City[] }) {
         }}
       >
         <div className="h-full" style={{ width: '50%' }}>
-          <MapWithFilter cities={cities} onContentPage={() => setShowContent(true)} />
+          <MapWithFilter
+            cities={cities}
+            onContentPage={() => setShowContent(true)}
+            onFilteredChange={setFilteredAthletes}
+          />
         </div>
         <div className="h-full" style={{ width: '50%' }}>
-          <ContentPage onMapPage={() => setShowContent(false)} />
+          <ContentPage
+            athletes={showContent ? filteredAthletes : []}
+            onMapPage={() => setShowContent(false)}
+          />
         </div>
       </div>
     </div>

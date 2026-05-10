@@ -7,6 +7,15 @@ import AthleteSearch, { AthleteEntry } from './AthleteSearch'
 import CitySearch, { CityEntry, STATE_NAMES } from './CitySearch'
 import topStateCities from '@/public/topStateSities.json'
 
+export interface FlatAthlete {
+  first_name: string
+  last_name: string
+  city: string
+  sports: string[]
+  medals: { gold: number; silver: number; bronze: number }
+  thumbnail: string
+}
+
 interface City {
   city: string
   state: string
@@ -66,7 +75,7 @@ function SportCheckbox({ sport, checked, onChange }: { sport: string; checked: b
   )
 }
 
-export default function MapWithFilter({ cities, onContentPage }: { cities: City[]; onContentPage?: () => void }) {
+export default function MapWithFilter({ cities, onContentPage, onFilteredChange }: { cities: City[]; onContentPage?: () => void; onFilteredChange?: (athletes: FlatAthlete[]) => void }) {
   const [selectedState, setSelectedState] = useState('')
   const [gameFilter, setGameFilter] = useState(new Set(['Olympian', 'Paralympian']))
   const [seasonFilter, setSeasonFilter] = useState(new Set(['Summer', 'Winter']))
@@ -220,27 +229,47 @@ export default function MapWithFilter({ cities, onContentPage }: { cities: City[
     : sportFilter.size === 1 ? [...sportFilter][0]
     : `${sportFilter.size} Disciplines`
 
-  const filtered = (selectedState ? cities.filter(c => c.state === selectedState) : cities)
-    .filter(c => selectedCityKeys === null || selectedCityKeys.has(`${c.city}|${c.state}`))
-    .map(city => ({
-      ...city,
-      athletes: city.athletes.filter(a => {
-        const gameMatch = gameFilter.size === 0 || gameFilter.size === 2 || gameFilter.has(a.olympic_paralympic)
-        const seasonMatch = seasonFilter.size === 0 || seasonFilter.size === 2 || a.seasons.some(s => seasonFilter.has(s))
-        const isNoMedal = a.medals.gold === 0 && a.medals.silver === 0 && a.medals.bronze === 0
-        const medalMatch =
-          (medalFilter.has('gold')    || a.medals.gold === 0) &&
-          (medalFilter.has('silver')  || a.medals.silver === 0) &&
-          (medalFilter.has('bronze')  || a.medals.bronze === 0) &&
-          (medalFilter.has('noMedal') || !isNoMedal)
-        const sportMatch = sportFilter.size === 0 || a.sports.some(s => sportFilter.has(s))
-        const athleteMatch =
-          selectedAthleteKeys === null ||
-          selectedAthleteKeys.has(`${a.first_name}|${a.last_name}|${city.city}|${city.state}`)
-        return gameMatch && seasonMatch && medalMatch && sportMatch && athleteMatch
-      })
-    }))
-    .filter(c => c.athletes.length > 0)
+  const filtered = useMemo(() =>
+    (selectedState ? cities.filter(c => c.state === selectedState) : cities)
+      .filter(c => selectedCityKeys === null || selectedCityKeys.has(`${c.city}|${c.state}`))
+      .map(city => ({
+        ...city,
+        athletes: city.athletes.filter(a => {
+          const gameMatch = gameFilter.size === 0 || gameFilter.size === 2 || gameFilter.has(a.olympic_paralympic)
+          const seasonMatch = seasonFilter.size === 0 || seasonFilter.size === 2 || a.seasons.some(s => seasonFilter.has(s))
+          const isNoMedal = a.medals.gold === 0 && a.medals.silver === 0 && a.medals.bronze === 0
+          const medalMatch =
+            (medalFilter.has('gold')    || a.medals.gold === 0) &&
+            (medalFilter.has('silver')  || a.medals.silver === 0) &&
+            (medalFilter.has('bronze')  || a.medals.bronze === 0) &&
+            (medalFilter.has('noMedal') || !isNoMedal)
+          const sportMatch = sportFilter.size === 0 || a.sports.some(s => sportFilter.has(s))
+          const athleteMatch =
+            selectedAthleteKeys === null ||
+            selectedAthleteKeys.has(`${a.first_name}|${a.last_name}|${city.city}|${city.state}`)
+          return gameMatch && seasonMatch && medalMatch && sportMatch && athleteMatch
+        })
+      }))
+      .filter(c => c.athletes.length > 0),
+    [cities, selectedState, selectedCityKeys, gameFilter, seasonFilter, medalFilter, sportFilter, selectedAthleteKeys]
+  )
+
+  // Push flat athlete list to parent whenever the filtered set changes
+  useEffect(() => {
+    if (!onFilteredChange) return
+    onFilteredChange(
+      filtered.flatMap(c =>
+        c.athletes.map(a => ({
+          first_name: a.first_name,
+          last_name: a.last_name,
+          city: c.city,
+          sports: a.sports,
+          medals: a.medals,
+          thumbnail: a.thumbnail,
+        }))
+      )
+    )
+  }, [filtered]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const stateCities = selectedState ? (topStateCities[selectedState as keyof typeof topStateCities] ?? []) : []
 
