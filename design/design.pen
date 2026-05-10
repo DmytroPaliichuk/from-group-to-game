@@ -667,18 +667,8 @@
                   "name": "Season Filter",
                   "width": "fit_content",
                   "height": 40,
-                  "x": 191.25,
+                  "x": 269.3333333333333,
                   "y": 6
-                },
-                {
-                  "id": "xnm3b",
-                  "type": "ref",
-                  "ref": "ET3MG",
-                  "name": "Medals Filter",
-                  "width": "fit_content",
-                  "height": 52,
-                  "x": 376.5,
-                  "y": 0
                 },
                 {
                   "id": "QPqai",
@@ -687,7 +677,7 @@
                   "name": "Sport Disciplines Filter",
                   "width": "fit_content",
                   "height": "fit_content",
-                  "x": 610.75,
+                  "x": 532.6666666666666,
                   "y": 11
                 },
                 {
@@ -1574,6 +1564,36 @@
               "layout": "vertical",
               "justifyContent": "center",
               "alignItems": "center"
+            },
+            {
+              "type": "frame",
+              "id": "qsVcK",
+              "name": "No Medal Chip",
+              "clip": true,
+              "width": 48,
+              "height": 48,
+              "fill": "#1e293b",
+              "cornerRadius": 24,
+              "stroke": {
+                "align": "inside",
+                "thickness": 2,
+                "fill": "#06B6D4"
+              },
+              "layout": "vertical",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Dplvo",
+                  "name": "No Medal Symbol",
+                  "fill": "#E2E8F0",
+                  "content": "Ø",
+                  "fontFamily": "Inter",
+                  "fontSize": 20,
+                  "fontWeight": "600"
+                }
+              ]
             }
           ]
         }
@@ -1603,24 +1623,20 @@
           "letterSpacing": 1
         },
         {
-          "id": "HhZ50",
+          "id": "jroPE",
           "type": "ref",
           "ref": "ET3MG",
           "name": "All Active (default)",
           "width": "fit_content",
-          "height": 52,
-          "x": 24,
-          "y": 63
+          "height": 52
         },
         {
-          "id": "Gjh0J",
+          "id": "dbTvb",
           "type": "ref",
           "ref": "ET3MG",
           "name": "Gold Only",
           "width": "fit_content",
           "height": 52,
-          "x": 24,
-          "y": 139,
           "descendants": {
             "C2uLr": {
               "opacity": 0.55,
@@ -1639,18 +1655,25 @@
                 "fill": "#475569"
               },
               "fill": "#1e293b"
+            },
+            "qsVcK": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
             }
           }
         },
         {
-          "id": "ycIJV",
+          "id": "JMFd1",
           "type": "ref",
           "ref": "ET3MG",
           "name": "Silver Only",
           "width": "fit_content",
           "height": 52,
-          "x": 24,
-          "y": 215,
           "descendants": {
             "VAjlu": {
               "opacity": 0.55,
@@ -1669,18 +1692,25 @@
                 "fill": "#475569"
               },
               "fill": "#1e293b"
+            },
+            "qsVcK": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
             }
           }
         },
         {
-          "id": "KtcCc",
+          "id": "GxZj3",
           "type": "ref",
           "ref": "ET3MG",
           "name": "Bronze Only",
           "width": "fit_content",
           "height": 52,
-          "x": 24,
-          "y": 291,
           "descendants": {
             "VAjlu": {
               "opacity": 0.55,
@@ -1692,6 +1722,52 @@
               "fill": "#1e293b"
             },
             "C2uLr": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            },
+            "qsVcK": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            }
+          }
+        },
+        {
+          "id": "s5H8z",
+          "type": "ref",
+          "ref": "ET3MG",
+          "name": "No Medal Only",
+          "width": "fit_content",
+          "height": 52,
+          "descendants": {
+            "VAjlu": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            },
+            "C2uLr": {
+              "opacity": 0.55,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#475569"
+              },
+              "fill": "#1e293b"
+            },
+            "XXvHG": {
               "opacity": 0.55,
               "stroke": {
                 "align": "inside",

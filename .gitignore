@@ -1,3 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+.uv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# ADK Agents
+.adk/
+
 # macOS files
 .DS_Store
 
@@ -6,4 +35,3 @@ scripts/temp_jsons/*
 
 # Processed JSONs
 scripts/process_jsons/*
-

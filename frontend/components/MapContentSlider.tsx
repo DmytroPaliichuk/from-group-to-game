@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import MapWithFilter from './MapWithFilter'
+import MapWithFilter, { FlatAthlete } from './MapWithFilter'
 import ContentPage from './ContentPage'
 
 interface City {
@@ -16,11 +16,63 @@ interface City {
     seasons: string[]
     medals: { gold: number; silver: number; bronze: number }
     sports: string[]
+    thumbnail: string
+    birthday: string | null
+    education: string | null
+    fun_fact: string | null
+    biography: string | null
   }[]
 }
 
-export default function MapContentSlider({ cities }: { cities: City[] }) {
-  const [showContent, setShowContent] = useState(false)
+interface MapContentSliderProps {
+  cities: City[]
+  showContent: boolean
+  onShowContent: (v: boolean) => void
+  selectedState: string
+  onStateSelect: (s: string) => void
+  gameFilter: Set<string>
+  onGameFilter: (s: Set<string>) => void
+  seasonFilter: Set<string>
+  onSeasonFilter: (s: Set<string>) => void
+  medalFilter: Set<string>
+  onMedalFilter: (s: Set<string>) => void
+  sportFilter: Set<string>
+  onSportFilter: (s: Set<string>) => void
+  selectedAthleteIds: Set<number>
+  onAthleteSelect: (id: number) => void
+  onAthleteRemove: (id: number) => void
+  selectedCityKeys: Set<string>
+  onCitySelect: (key: string) => void
+  onCityRemove: (key: string) => void
+  onClearAllFilters: () => void
+  searchClearSignal: number
+}
+
+export default function MapContentSlider({
+  cities,
+  showContent,
+  onShowContent,
+  selectedState,
+  onStateSelect,
+  gameFilter,
+  onGameFilter,
+  seasonFilter,
+  onSeasonFilter,
+  medalFilter,
+  onMedalFilter,
+  sportFilter,
+  onSportFilter,
+  selectedAthleteIds,
+  onAthleteSelect,
+  onAthleteRemove,
+  selectedCityKeys,
+  onCitySelect,
+  onCityRemove,
+  onClearAllFilters,
+  searchClearSignal,
+}: MapContentSliderProps) {
+  // filteredAthletes is local to the slider — ContentPage consumes it, ResizableLayout doesn't need it
+  const [filteredAthletes, setFilteredAthletes] = useState<FlatAthlete[]>([])
 
   return (
     <div className="flex-1 min-w-0 h-full overflow-hidden">
@@ -32,10 +84,35 @@ export default function MapContentSlider({ cities }: { cities: City[] }) {
         }}
       >
         <div className="h-full" style={{ width: '50%' }}>
-          <MapWithFilter cities={cities} onContentPage={() => setShowContent(true)} />
+          <MapWithFilter
+            cities={cities}
+            onContentPage={() => onShowContent(true)}
+            onFilteredChange={setFilteredAthletes}
+            selectedState={selectedState}
+            onStateSelect={onStateSelect}
+            gameFilter={gameFilter}
+            onGameFilter={onGameFilter}
+            seasonFilter={seasonFilter}
+            onSeasonFilter={onSeasonFilter}
+            medalFilter={medalFilter}
+            onMedalFilter={onMedalFilter}
+            sportFilter={sportFilter}
+            onSportFilter={onSportFilter}
+            selectedAthleteIds={selectedAthleteIds}
+            onAthleteSelect={onAthleteSelect}
+            onAthleteRemove={onAthleteRemove}
+            selectedCityKeys={selectedCityKeys}
+            onCitySelect={onCitySelect}
+            onCityRemove={onCityRemove}
+            onClearAllFilters={onClearAllFilters}
+            searchClearSignal={searchClearSignal}
+          />
         </div>
         <div className="h-full" style={{ width: '50%' }}>
-          <ContentPage onMapPage={() => setShowContent(false)} />
+          <ContentPage
+            athletes={showContent ? filteredAthletes : []}
+            onMapPage={() => onShowContent(false)}
+          />
         </div>
       </div>
     </div>

@@ -8,12 +8,79 @@ const CHAT_MIN = 200
 const CHAT_MAX = 700
 const CHAT_DEFAULT = 384
 
+const LA_PRESET = {
+  selectedState:      'CA',
+  gameFilter:         new Set(['Olympian', 'Paralympian']),
+  seasonFilter:       new Set(['Summer', 'Winter']),
+  medalFilter:        new Set(['gold']),
+  sportFilter:        new Set<string>(),
+  selectedAthleteIds: new Set<number>(),
+  selectedCityKeys:   new Set(['Los Angeles|CA']),
+  showContent:        false,
+}
+
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function ResizableLayout({ cities }: { cities: any[] }) {
   const [chatWidth, setChatWidth] = useState(CHAT_DEFAULT)
   const isDragging = useRef(false)
   const startX = useRef(0)
   const startWidth = useRef(0)
+
+  // Filter state — owned here so both Chat and MapContentSlider can access it
+  const [showContent,        setShowContent]        = useState(false)
+  const [selectedState,      setSelectedState]      = useState('')
+  const [gameFilter,         setGameFilter]         = useState(new Set(['Olympian', 'Paralympian']))
+  const [seasonFilter,       setSeasonFilter]       = useState(new Set(['Summer', 'Winter']))
+  const [medalFilter,        setMedalFilter]        = useState(new Set(['gold', 'silver', 'bronze', 'noMedal']))
+  const [sportFilter,        setSportFilter]        = useState(new Set<string>())
+  const [selectedAthleteIds, setSelectedAthleteIds] = useState(new Set<number>())
+  const [selectedCityKeys,   setSelectedCityKeys]   = useState(new Set<string>())
+  const [searchClearSignal,  setSearchClearSignal]  = useState(0)
+
+  function handleAthleteSelect(id: number) {
+    setSelectedAthleteIds(prev => new Set([...prev, id]))
+  }
+
+  function handleAthleteRemove(id: number) {
+    setSelectedAthleteIds(prev => {
+      const next = new Set(prev)
+      next.delete(id)
+      return next
+    })
+  }
+
+  function handleCitySelect(key: string) {
+    setSelectedCityKeys(prev => new Set([...prev, key]))
+  }
+
+  function handleClearAllFilters() {
+    setGameFilter(new Set(['Olympian', 'Paralympian']))
+    setSeasonFilter(new Set(['Summer', 'Winter']))
+    setMedalFilter(new Set(['gold', 'silver', 'bronze', 'noMedal']))
+    setSportFilter(new Set<string>())
+    setSelectedAthleteIds(new Set<number>())
+    setSelectedCityKeys(new Set<string>())
+    setSearchClearSignal(prev => prev + 1)
+  }
+
+  function handleCityRemove(key: string) {
+    setSelectedCityKeys(prev => {
+      const next = new Set(prev)
+      next.delete(key)
+      return next
+    })
+  }
+
+  function applyPreset() {
+    setSelectedState(LA_PRESET.selectedState)
+    setGameFilter(new Set(LA_PRESET.gameFilter))
+    setSeasonFilter(new Set(LA_PRESET.seasonFilter))
+    setMedalFilter(new Set(LA_PRESET.medalFilter))
+    setSportFilter(new Set(LA_PRESET.sportFilter))
+    setSelectedAthleteIds(new Set(LA_PRESET.selectedAthleteIds))
+    setSelectedCityKeys(new Set(LA_PRESET.selectedCityKeys))
+    setShowContent(LA_PRESET.showContent)
+  }
 
   const onMouseMove = useCallback((e: MouseEvent) => {
     if (!isDragging.current) return
@@ -60,7 +127,29 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
         `,
       }}
     >
-      <MapContentSlider cities={cities} />
+      <MapContentSlider
+        cities={cities}
+        showContent={showContent}
+        onShowContent={setShowContent}
+        selectedState={selectedState}
+        onStateSelect={setSelectedState}
+        gameFilter={gameFilter}
+        onGameFilter={setGameFilter}
+        seasonFilter={seasonFilter}
+        onSeasonFilter={setSeasonFilter}
+        medalFilter={medalFilter}
+        onMedalFilter={setMedalFilter}
+        sportFilter={sportFilter}
+        onSportFilter={setSportFilter}
+        selectedAthleteIds={selectedAthleteIds}
+        onAthleteSelect={handleAthleteSelect}
+        onAthleteRemove={handleAthleteRemove}
+        selectedCityKeys={selectedCityKeys}
+        onCitySelect={handleCitySelect}
+        onCityRemove={handleCityRemove}
+        onClearAllFilters={handleClearAllFilters}
+        searchClearSignal={searchClearSignal}
+      />
 
       <div
         onMouseDown={onSeparatorMouseDown}
@@ -76,7 +165,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
       </div>
 
       <div style={{ width: chatWidth }} className="flex-shrink-0 h-full">
-        <Chat />
+        <Chat onApplyPreset={applyPreset} />
       </div>
     </main>
   )

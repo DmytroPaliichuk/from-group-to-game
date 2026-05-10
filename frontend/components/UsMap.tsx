@@ -4,13 +4,24 @@ import { useEffect, useRef, useState } from 'react'
 import * as d3 from 'd3'
 import * as topojson from 'topojson-client'
 import type { Topology } from 'topojson-specification'
+import CityTooltip from './CityTooltip'
+
+interface AthleteData {
+  first_name: string
+  last_name: string
+  olympic_paralympic: string
+  seasons: string[]
+  medals: { gold: number; silver: number; bronze: number }
+  sports: string[]
+  thumbnail: string
+}
 
 interface City {
   city: string
   state: string
   lat: number
   lng: number
-  athletes: { first_name: string; last_name: string }[]
+  athletes: AthleteData[]
 }
 
 interface StateCityEntry {
@@ -42,7 +53,7 @@ const FIPS_TO_STATE: Record<number, string> = Object.fromEntries(
 
 export default function UsMap({ cities, selectedState, stateCities, onStateSelect }: UsMapProps) {
   const svgRef = useRef<SVGSVGElement>(null)
-  const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string; athletes: { first_name: string; last_name: string }[] } | null>(null)
+  const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string; athletes: AthleteData[] } | null>(null)
   const [activeCity, setActiveCity] = useState<string | null>(null)
 
   useEffect(() => {
@@ -194,19 +205,8 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
         <svg ref={svgRef} viewBox="0 0 1200 750" className="block w-full h-auto" />
       </div>
 
-      {/* Tooltip */}
       {tooltip && (
-        <div
-          className="fixed z-10 bg-slate-800 border border-slate-600 rounded-md px-3 py-2 text-sm pointer-events-none whitespace-nowrap"
-          style={{ left: tooltip.x + 12, top: tooltip.y - 36 }}
-        >
-          <div className="font-semibold text-slate-100">{tooltip.city}, {tooltip.state}</div>
-          <ul className="mt-1 text-slate-300 space-y-0.5">
-            {tooltip.athletes.map((a, i) => (
-              <li key={i}>{a.first_name} {a.last_name}</li>
-            ))}
-          </ul>
-        </div>
+        <CityTooltip x={tooltip.x} y={tooltip.y} city={tooltip.city} athletes={tooltip.athletes} />
       )}
 
     </div>
