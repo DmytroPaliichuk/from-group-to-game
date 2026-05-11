@@ -75,6 +75,16 @@ export default function MapContentSlider({
 }: MapContentSliderProps) {
   // filteredAthletes is local to the slider — ContentPage consumes it, ResizableLayout doesn't need it
   const [filteredAthletes, setFilteredAthletes] = useState<FlatAthlete[]>([])
+  const [clickedCity, setClickedCity] = useState<{ city: string; state: string } | null>(null)
+
+  function handleCityDotClick(city: string, state: string) {
+    setClickedCity({ city, state })
+    onShowContent(true)
+  }
+
+  const contentAthletes = clickedCity
+    ? filteredAthletes.filter(a => a.city === clickedCity.city && a.state === clickedCity.state)
+    : filteredAthletes
 
   return (
     <div className="flex-1 min-w-0 h-full overflow-hidden">
@@ -109,12 +119,13 @@ export default function MapContentSlider({
             onCityRemove={onCityRemove}
             onClearAllFilters={onClearAllFilters}
             searchClearSignal={searchClearSignal}
+            onCityDotClick={handleCityDotClick}
           />
         </div>
         <div className="h-full" style={{ width: '50%' }}>
           <ContentPage
-            athletes={showContent ? filteredAthletes : []}
-            onMapPage={() => onShowContent(false)}
+            athletes={showContent ? contentAthletes : []}
+            onMapPage={() => { onShowContent(false); setClickedCity(null) }}
           />
         </div>
       </div>
