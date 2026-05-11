@@ -44,6 +44,7 @@ def deploy(env_vars: dict[str, str]) -> None:
         "--region", REGION,
         "--allow-unauthenticated",
         "--service-account", env_vars["SERVICE_ACCOUNT"],
+        "--memory", "2Gi",
         "--set-env-vars", env_str,
     ]
     result = subprocess.run(cmd)
