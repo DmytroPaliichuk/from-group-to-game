@@ -8,6 +8,7 @@ SERVICE_NAME="${SERVICE_NAME:-from-group-to-game-frontend}"
 REPO_NAME="${REPO_NAME:-from-group-to-game}"
 IMAGE_NAME="${IMAGE_NAME:-frontend}"
 API_URL="${API_URL:-https://from-group-to-game-backend-656681019973.us-central1.run.app}"
+GEMINI_API_KEY="${GEMINI_API_KEY:-}"
 
 IMAGE="${REGION}-docker.pkg.dev/${PROJECT_ID}/${REPO_NAME}/${IMAGE_NAME}:latest"
 
@@ -43,7 +44,7 @@ echo "Building image: $IMAGE"
 gcloud builds submit . \
   --project="$PROJECT_ID" \
   --config=cloudbuild.yaml \
-  --substitutions="_IMAGE=${IMAGE},_NEXT_PUBLIC_API_URL=${API_URL}"
+  --substitutions="_IMAGE=${IMAGE},_NEXT_PUBLIC_API_URL=${API_URL},_NEXT_PUBLIC_GEMINI_API_KEY=${GEMINI_API_KEY}"
 
 # --- Deploy ---
 echo "Deploying to Cloud Run..."
