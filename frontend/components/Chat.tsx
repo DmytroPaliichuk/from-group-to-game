@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
 import { Sparkles, Mic, ArrowRight } from 'lucide-react'
+import { useVoiceRecorder } from '@/hooks/useVoiceRecorder'
 
 interface Message {
   role: 'user' | 'assistant' | 'system'
@@ -53,6 +54,11 @@ export default function Chat({
   const [isLoading,       setIsLoading]       = useState(false)
   const [chatUnavailable, setChatUnavailable] = useState(false)
   const bottomRef = useRef<HTMLDivElement>(null)
+
+  const { micState, error: voiceError, handleMicClick } = useVoiceRecorder({
+    onTranscript: text => setInput(text),
+    disabled: isLoading || chatUnavailable,
+  })
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
@@ -418,9 +424,22 @@ export default function Chat({
           />
           <button
             type="button"
-            style={{ width: 34, height: 34, borderRadius: '50%', border: 'none', background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+            onClick={handleMicClick}
+            disabled={micState === 'processing' || isLoading || chatUnavailable}
+            aria-label={
+              micState === 'recording' ? 'Stop recording' :
+              micState === 'processing' ? 'Processing...' :
+              'Start recording'
+            }
+            style={{
+              width: 34, height: 34, borderRadius: '50%',
+              border: 'none', background: 'transparent',
+              cursor: micState === 'processing' ? 'default' : 'pointer',
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              animation: micState === 'recording' ? 'pulse 1s infinite' : 'none',
+            }}
           >
-            <Mic size={14} color="#454745" />
+            <Mic size={14} color={micState === 'recording' ? '#ef4444' : '#454745'} />
           </button>
           <button
             type="submit"
@@ -442,6 +461,11 @@ export default function Chat({
             <ArrowRight size={14} strokeWidth={2.4} />
           </button>
         </form>
+        {voiceError && (
+          <p style={{ color: '#ef4444', fontSize: 12, marginTop: 6, paddingLeft: 4, fontFamily: 'Inter' }}>
+            {voiceError}
+          </p>
+        )}
       </div>
     </aside>
   )
