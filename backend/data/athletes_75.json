@@ -1,0 +1,1113 @@
+{
+  "entries": [
+    {
+      "first_name": "Keldon",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1999-10-11T00:00:00",
+        "hometown": {
+          "city": "Sterling",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 39.0068,
+          "longitude": -77.4286
+        },
+        "education": "Oak Hill Academy (Mouth of Wilson, Virginia) '18 University of Kentucky",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>Named to the 2018 USA Junior National Select Team for the 21st annual Nike Hoop Summit on March 13, 2018.</li>\r\n                            <li>Participated in the 2017 USA Men&#39;s Junior National Team October Minicamp.</li>\r\n                            <li>Named to the 2017-18 Naismith Trophy High School Boy’s Preseason Watch List.</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Men)</li></ul></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335534/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keldon%20Johnson/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keldon Johnson"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1967-09-13T00:00:00",
+        "hometown": {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7767,
+          "longitude": -96.797
+        },
+        "education": "Skyline High School (Dallas, Texas) Baylor University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ruby and Paul Johnson</li><li>One of five children</li><li>His dream as a child was to become an architect</li><li>Graduated from Skyline High School where he competed in the 200-meter and won the district title his senior year</li><li>Broke the school record at Baylor University during his first 200 race</li><li>Graduated from Baylor with a bachelor’s degree in accounting and marketing</li><li>Author of “Slaying the Dragon: How to Turn Your Small Steps to Great Feats”</li><li>Named Sportsman of the Year by the United States Olympic Committee in 1996, and was given the James E. Sullivan Award for the nation’s most outstanding athlete</li><li>Owns and operates the Michael Johnson Performance Center</li><li>Father to one son, Sebastian.</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 4-time Olympic medalist (4 gold)</li><ul><li>Olympic Games Sydney 2000, 0th (4 x 400m Relay - Men), gold (400m - Men)</li><li>Olympic Games Atlanta 1996, gold (200m - Men, 400m - Men)</li><li>Olympic Games Barcelona 1992, gold (4 x 400m Relay - Men), 11th (200m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 1999 – 0th (4 x 400m Relay - Men), gold (400m - Men)</li><li>Years of participation: 4 x 400m Relay - Men 1993, 1995, 1999; 400m - Men 1993, 1995, 1997, 1999; 200m - Men 1995</li><li>Medals: 7 (7 gold)</li><ul><li>0th – 1999 (4 x 400m Relay - Men)</li><li>Gold – 1999 (400m - Men);  1997 (400m - Men);  1995 (200m - Men, 4 x 400m Relay - Men, 400m - Men);  1993 (4 x 400m Relay - Men, 400m - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240403/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Michael%20Johnson/JohnsonMichael_Cover.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992, 1996, 2000",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240405/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Michael%20Johnson/JohnsonMichael_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Johnson"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2009"
+        },
+        {
+          "title": "Olympian"
+        }
+      ]
+    },
+    {
+      "first_name": "Kathryn",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1991-10-25T00:00:00",
+        "hometown": {
+          "city": "Hopkins",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.925,
+          "longitude": -93.3908
+        },
+        "education": "Hopkins High School (Hopkins, Minn.) '10 University of Wisconsin, Milwaukee; DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Daniel and Jennifer Johnson</li><li>Has one brother, Nick</li><li>Founded Youngbloodz, a Minneapolis-based rugby sevens club in 2012.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, silver</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2013 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2013</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2013 (Team - Women)</li></ul></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329454/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kathryn%20Johnson/johnson_kathryn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kathryn Johnson"
+        }
+      ]
+    },
+    {
+      "first_name": "Felisha",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1989-07-24T00:00:00",
+        "hometown": {
+          "city": "Indianapolis ",
+          "state": "IN",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Lawrence North High School (Indianapolis, Ind.) ‘09 Indiana State University ‘13, Recreation Sport Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ronald and Loesker Johnson</li><li>Has one sister, Whitnee</li><li>In 2016, became the first athlete from Indiana State University to make the U.S. Olympic Team in track and field</li><li>Hobbies include watching movies, playing cards, and lifting weights.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2013 NCAA Indoor Championships, 1st</li>\r\n                            <li>2011 NCAA Indoor Championships, 1st</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 14th (Shot Put - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012014/TeamUSA%20Assets/Athlete%20Profiles/Felisha%20Johnson%20865918/Johnson_Felisha_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Felisha Johnson 865918"
+        }
+      ]
+    },
+    {
+      "first_name": "Keane",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1991-09-11T00:00:00",
+        "hometown": {
+          "city": "Los Altos",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3861,
+          "longitude": -122.1136
+        },
+        "education": " Boston College",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" style=\"float: right;width: 50;height: 50;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50;width: 50;\" width=\"50\" height=\"50\"/></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Eight - Men, Four - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Annie Lin-Johnson and James Johnson</li><li>Coached by Luke McGee, Bryan Volpenhein, Hilary Gehman</li><li><p>Los Altos High School (Los Altos, Calif.) ‘09 Boston College ’09, Economics</p></li><li>Member of the 2013 World University Games Team (men’s eight)</li><li>Affiliated with the USRowing Training Center (Princeton, N.J.) and the California Rowing Club (Oakland, Calif.)</li><li>Began rowing with Boston College (Chestnut Hill, Mass.) in 2009</li><li>Enjoys woodworking, glassblowing, kendo and cycling.</li></ul><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USRowing</p>&nbsp;<br /><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329431/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keane%20Johnson/Rowing_Johnson_Keane.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keane Johnson"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Liz",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1974-05-02T00:00:00",
+        "hometown": {
+          "city": "Cheektowaga",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.9006,
+          "longitude": -78.7503
+        },
+        "education": "Morehead State University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br></td><td><img alt=\"\" style=\"float: right;width: 50px;height: 50px;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"><br></td><td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px;width: 50px;\" width=\"50\" height=\"50\"></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Doubles - Women, Singles - Women)</li><li>Pan American Games, Guadalajara, 2011 (Doubles - Women, Singles - Women)</li><li>Pan American Games, Mar del Plata, 1995 (All Events - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Conrad and Karen Johnson</li><li>Inducted to the USBC Hall of Fame in April 2015</li><li>Named U.S. Female Bowler of the Decade in 2010</li><li>Hobbies include working out and listening to music.</li></ul><br>Education:&nbsp;<p>Niagara Wheatfield High School (Sanborn, N.Y.) ‘92 Morehead State University</p><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>U.S. Bowling Congress</p>&nbsp;<br><p>&nbsp;</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – gold (Team of Five - Women), silver (All Events - Women, Masters - Women), bronze (Trios - Women), 6th (Singles - Women), 19th (Doubles - Women)</li><li>Years of participation: All Events - Women 2009, 2011, 2013, 2015; Doubles - Women 2009, 2011, 2013, 2015; Masters - Women 2009, 2011, 2013, 2015; Singles - Women 1995, 2009, 2011, 2013, 2015; Team of Five - Women 2009, 2011, 2013, 2015; Trios - Women 2009, 2011, 2013, 2015</li><li>Medals: 12 (3 gold, 6 silver, 3 bronze)</li><ul><li>Gold – 2015 (Team of Five - Women);  2011 (Doubles - Women, Team of Five - Women)</li><li>Silver – 2015 (All Events - Women, Masters - Women);  2013 (Team of Five - Women);  2009 (Team of Five - Women, Trios - Women);  1995 (Singles - Women)</li><li>Bronze – 2015 (Trios - Women);  2013 (Masters - Women);  2011 (Trios - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bowling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329437/TeamUSA%20Assets/Migration/Athlete%20Profiles/Liz%20Johnson/Liz-Johnson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Liz Johnson"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Stefanie",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1984-01-11T00:00:00",
+        "hometown": {
+          "city": "McKinney",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 33.1939,
+          "longitude": -96.6189
+        },
+        "education": "Miami Palmetto (Miami, Fla.) ‘02  University of Central Florida ’06, Criminal Justice; University of Central Florida ’08, Interpersonal Communication (MA)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Nancy Nation</li><li>Married to Christopher Johnson</li><li>Mother to two children, Kenzie and Levi</li><li>Has one sibling, Keith</li><li>Hobbies include baking, crafting, interior design, scrapbooking and traveling.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – bronze (Team of Five - Women), 6th (Trios - Women), 7th (Doubles - Women), 13th (All Events - Women, Masters - Women), 52th (Singles - Women)</li><li>Years of participation: All Events - Women 2007, 2009, 2013, 2015, 2017, 2019; Doubles - Women 2007, 2009, 2011, 2013, 2015, 2017, 2019; Masters - Women 2009, 2019; Singles - Women 2007, 2009, 2011, 2013, 2015, 2017, 2019; Team of Five - Women 2005, 2007, 2009, 2011, 2013, 2015, 2017, 2019; Trios - Women 2007, 2009, 2011, 2013, 2015, 2017, 2019</li><li>Medals: 11 (5 gold, 5 silver, 1 bronze)</li><ul><li>Gold – 2015 (Team of Five - Women);  2013 (Doubles - Women);  2011 (Team of Five - Women, Trios - Women);  2009 (Singles - Women)</li><li>Silver – 2013 (Team of Five - Women);  2009 (Team of Five - Women, Trios - Women);  2007 (Team of Five - Women);  2005 (Team of Five - Women)</li><li>Bronze – 2019 (Team of Five - Women)</li></ul></ul><h5>More</h5>U.S. Bowling Congress<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Doubles - Women, Singles - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bowling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012024/TeamUSA%20Assets/Athlete%20Profiles/Stefanie%20Johnson%20817123/johnson_stefanie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stefanie Johnson 817123"
+        }
+      ]
+    },
+    {
+      "first_name": "Breezy",
+      "last_name": "Johnson",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1996-01-19T00:00:00",
+        "hometown": {
+          "city": "Jackson Hole",
+          "state": "WY",
+          "country": "United States",
+          "latitude": 43.5833,
+          "longitude": -110.6667
+        },
+        "education": "Western Washington University",
+        "fun_fact": "She has a long-haired orange cat named Apricot",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Specialty: </strong>Downhill, Super-G, Team Combined</li><li>Daughter of Greg Johnson and Heather Noble</li><li>Has one brother, Finn</li><li>Began skiing at age three</li><li><span>Hobbies include cooking, knitting, baking and slacklining</span></li><li><span>Has a long-haired orange cat, Apricot</span></li></ul><h5>Biographical Information</h5><p>Breezy Johnson was taught to ski on the western slope of Teton Pass by her dad at the age of three. Her biggest ski rival at the time was her brother, Finn.</p><p>Johnson made her first Olympic team at the age of 22, now competing against rivals around the world, and finished seventh in the women's downhill at the Olympic Winter Games PyeongChang 2018. Following that season, two concurrent knee injuries caused her to miss 22 months of racing. Johnson would finally return to the FIS World Cup tour with the best results of her career and rise to the No. 2-ranked downhill skier in the world just a month before the Olympic Winter Games Beijing 2022. However, just weeks before the start of the Games, a knee injury suffered in a training crash would cause Johnson to withdraw from the 2022 U.S. Olympic Team.</p><p>Johnson won her first world title in women's downhill at the 2025 FIS Alpine SKi World Championships—the first top-level race victory of her career—just two months after serving a 14-month suspension for failing to provide her whereabouts for out-of-competition drug testing. Three days later, Johnson would win a second gold medal in the team combined event with Mikaela Shiffrin.</p><p>An openly LGBTQ skier, Johnson publicly came out in 2022, posting, \"To those LGBTQ people out there who feel a little different and want to see people like them at the top, I am here to represent that we are out there, we are normal, and we can do whatever we want.\"</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026,  (Super G - Women), gold (Downhill - Women), 4th (Team Alpine Combined - Women)</li><li>Olympic Games Pyeongchang 2018, 7th (Downhill - Women), 14th (Super G - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Downhill - Women, Team Alpine Combined - Women), 19th (Super G - Women)</li><li>Years of participation: Downhill - Women 2017, 2021, 2023, 2025; Super G - Women 2017, 2021, 2023, 2025; Team Alpine Combined - Women 2025; Super Combined - Women 2017, 2021, 2023</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2025 (Downhill - Women, Team Alpine Combined - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742500027/TeamUSA%20Assets/Athlete%20Profiles/Breezy%20Johnson%20990513/johnson_b_bio_990513.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770572808/Johnson_B_main_990513.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770849141/Johnson_B_featured_.990513_png.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003437/TeamUSA%20Assets/Athlete%20Profiles/Breezy%20Johnson%20990513/Johnson_Breezy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Breezy Johnson 990513"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Alpine Skiing"
+        }
+      ]
+    },
+    {
+      "first_name": "Teagan",
+      "last_name": "Johnson-Moore",
+      "bio": {
+        "height": "5' 5\"",
+        "birthday": "1998-09-24T00:00:00",
+        "hometown": {
+          "city": "Lyons",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.2278,
+          "longitude": -105.2936
+        },
+        "education": "Lyons Middle Senior High School",
+        "fun_fact": null,
+        "biography": "<em><br>\n</em><br>\n<br>\n<h5>Career Highlights</h5>\n<ul>\n    <li>2014 U.S. Nationals and Junior/U23 Team Trials-&nbsp;3rd Junior and 6th Place Overall in K1W<br>\n    </li>\n    <li>2014 ECA Cups: 24th Overall in Jr. K1W</li>\n    <li>2014 U.S. Age Group Nationals: 2nd in K1W</li>\n    <li>2014 Junior/ U23 World Championships: 32nd in Jr. K1W</li>\n    <li>2014 U.S. Open and Junior/U23 Team Trials: 6th in K1W</li>\n    <li>2013 U.S. Nationals and Junior/U23 Team Trials: 3rd in Jr. K1W</li>\n    <li>2013 ECA Cup #4: 8th in Jr. K1W</li>\n</ul>\n<strong>Recent Results</strong>\n\n<div>\n<ul>\n    <li>2014 Lyons Outdoor Games: 2nd in K1W</li>\n    <li>2014 Golden Games: 1st in K1W</li>\n    <li>2013 Junior/U23 World Championships: 60th in Jr. K1W</li>\n    <li>2013 FibARK Festival: 3rd in K1W</li>\n    <li>2013 U.S. Age Group National Championships: 2nd in Jr. K1W</li>\n    <li>2013 U.S. Junior National Team Trials: 4th in K1W</li>\n    <li>2013 U14 Rocky Mountain Cup Champion: 1st in K1W</li>\n    <li>2013 Rocky Mountain Cup #3: 1st in K1W</li>\n    <li>2013 FibArk Run Off (Rocky Mountain Cup) #2: 1st K1W</li>\n    <li>2013 Rocky Mountain Cup #1: 1st in K1W</li>\n</ul>\n<p><br>\n</p>\n<p><strong>Role Model: </strong>My role model is my mom. She is hardworking, dedicated, loving, and an inspiration in her job and our community. She taught me to be a leader and to always follow my dreams.<br>\n<strong></strong><strong>Favorite Quote: <em>\"</em></strong><em>When that nervous energy waves through my body, I&rsquo;m going to remember to let it happen and embrace it.\" </em>&ndash; John Orozco<br>\n<strong>How you got into the sport:</strong> I&rsquo;ve been on moving water with my mom since I was three years old. When I was six I was put in a small yellow Jackson Kayak playboat and found out I enjoyed paddling. I continued to paddle growing up and was given the opportunity to try slalom kayaking in late 2012 with two-time Olympian Scott Shipley who became my next door neighbor when I moved to Lyons. Soon after that, I began to work with Alexander Dawson School&rsquo;s canoe and kayak team and their coach Jordi Domenjo-Cadefau. I have paddled slalom kayak ever since and plan on canoeing this year.<br>\n<strong>Fun Facts:&nbsp;</strong>I was a victim of the 100-year flood in the front range of Colorado. My town was split into six islands while 27,000 CFS of water came flowing out of the mountains. I was displaced for three months and came home in December of 2013. I also play seven instruments for my school band and volunteer at my local hospital.<br>\n<br>\n<br>\n<br>\n</p>\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329776/TeamUSA%20Assets/Migration/Athlete%20Profiles/Teagan%20Johnson-Moore/Teagan-Johonson-Moore.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Teagan Johnson-Moore"
+        }
+      ]
+    },
+    {
+      "first_name": "Abby",
+      "last_name": "Johnston",
+      "bio": {
+        "height": "5’5”",
+        "birthday": "1989-11-16T00:00:00",
+        "hometown": {
+          "city": "Upper Arlington",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.0195,
+          "longitude": -83.0505
+        },
+        "education": "Duke University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of David and Elaine Johnston</li><li>Has two sisters, Adrienne and Leah</li><li>Engaged to Sam McGrath, an assistant football coach at Duke</li><li>Abby began diving in 2002</li><li>Was also a gymnast for nine years, but had to quit because of a back injury</li><li>Abby made her second Olympic Team while balancing the rigors of medical school (She began med school at Duke in the fall of 2014 and will begin her third year after the Rio Olympic Games)</li><li>While an undergraduate at Duke, she was enrolled in a pre-med program called CAPE and interned in the brain tumor clinic at Duke Hospital</li><li>She earend a degree in psychology from Duke in 2013</li><li>Hobbies include going to the beach, watching TV, playing tennis and soccer, and spending time with family and friends</li></ul><h5>Career Highlights</h5><ul><li>Seven-time senior national champion (6 in synchronized 3-meter, 1 in individual 3-meter)</li><li>Won the 2011 NCAA Championships on 3-meter to become Duke's first NCAA champion (in 2009, she became the first Duke diver to qualify for NCAAs)</li><li>Four-time World Cup team member (2010, 2012, 2014, 2016)</li><li>Finalist on 3-meter at 2010 World Cup</li><li>Medaled in synchronized 3-meter in 11 international competitions with six different partners, dating back to 2008.</li><li>2009 World University Games team member</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, 12th (3m Springboard - Women)</li><li>Olympic Games London 2012, silver (3m Springboard Synchro - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 9th (3m Springboard Synchro - Mixed, 3m Springboard Synchro - Women), 21th (3m Springboard - Women)</li><li>Years of participation: 3m Springboard - Women 2015; 3m Springboard Synchro - Mixed 2015; 3m Springboard Synchro - Women 2015; 1m Springboard - Women 2011</li><li>Top finish: 6th – 2011 (1m Springboard - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329538/TeamUSA%20Assets/Migration/Athlete%20Profiles/Abby%20Johnston/Johnston-Abby-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Abby Johnston"
+        }
+      ]
+    },
+    {
+      "first_name": "Wadeline",
+      "last_name": "Jonathas",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1998-02-19T00:00:00",
+        "hometown": {
+          "city": "Columbia",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 34.00071,
+          "longitude": -81.034814
+        },
+        "education": "University of South Carolina ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mikerlange Jonathas</li><li>Has three brothers: Mardoche, Roderlin and Midrack, and three sisters: Jokerberde, Theresa and Michaela</li><li>Transferred from NCAA Division III UMass Boston to South Carolina between her sophomore and junior year</li><li>Her goal is to become the CEO of a company.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (4 x 400m Relay - Women), 11th (400m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – bronze (4 x 400m Relay - Mixed)</li><li>Years of participation: 4 x 400m Relay - Mixed 2022; 4 x 400m Relay - Women 2019; 400m - Women 2019</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2019 (4 x 400m Relay - Women)</li><li>Bronze – 2022 (4 x 400m Relay - Mixed)</li></ul></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662183/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/jonathas_w_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335555/TeamUSA%20Assets/Migration/Athlete%20Profiles/Wadeline%20Jonathas/Jonathas_Wadeline_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Wadeline Jonathas"
+        }
+      ]
+    },
+    {
+      "first_name": "Briauna",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'7",
+        "birthday": "1992-07-01T00:00:00",
+        "hometown": {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.2271,
+          "longitude": -80.8431
+        },
+        "education": " UNC Charlotte",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began bobsledding in 2016 and immediately made her first national team</li><li>Was named USABS&#39; &quot;Rookie of the Year&quot; following the 2016-2017 season</li><li>Favorite song is “Heal the World” by Michael Jackson</li><li>Favorite movie is “House Party.”</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017-2018 World Cup with pilot Brittany Reinbolt - 9th in Lake Placid (11/17)</li>\r\n                            <li>2017-2018 North American Cup with pilot Elana Meyers Taylor - GOLD in Park City (11/17)</li>\r\n                            <li>2016-2017 World Cup with pilot Elana Meyers Taylor - GOLD in St. Moritz (1/17)</li>\r\n                            <li>2016-2017 World Cup with pilot Brittany Reinbolt - 7th in Whistler (12/16)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2017 Team Event - 12th in Koenigssee (2/17)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698666/TeamUSA%20Assets/Migration/Athlete%20Profiles/Briauna%20Jones%201045377/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698667/TeamUSA%20Assets/Migration/Athlete%20Profiles/Briauna%20Jones%201045377/JonesB.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Briauna Jones 1045377"
+        }
+      ]
+    },
+    {
+      "first_name": "Mary",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1986-08-25T00:00:00",
+        "hometown": {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 34.7304,
+          "longitude": -86.5861
+        },
+        "education": " University of Tennessee",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br></td><td><br></td><td style=\"text-align: justify;\"><br></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Lightweight Single Sculls - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Elysa and Clyde Wayne Jones</li><li>Married to Chris Nabel</li><li><p>Grissom High School (Huntsville, Ala.) University of Tennessee ’08, Physics</p></li><li>The most influential people in her rowing career are her parents.</li></ul><br><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USRowing</p>&nbsp;<br><p>&nbsp;</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Lightweight Double Sculls - Women)</li><li>Years of participation: Lightweight Double Sculls - Women 2018, 2023; Lightweight Single Sculls - Women 2016, 2017, 2022; Lightweight Quadruple Sculls - Women 2014</li><li>Medals: 3 (2 silver, 1 bronze)</li><ul><li>Silver – 2023 (Lightweight Double Sculls - Women);  2018 (Lightweight Double Sculls - Women)</li><li>Bronze – 2017 (Lightweight Single Sculls - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329304/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mary%20Jones/Rowing_Jones_Mary.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mary Jones"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Cody",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1995-09-21T00:00:00",
+        "hometown": {
+          "city": "Simi Valley",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2694,
+          "longitude": -118.7815
+        },
+        "education": "Simi Valley High School (Simi Valley, Calif.) ‘13 California Lutheran University ’17, Marketing Communications, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Son of Christopher and Candice and brother to Cassidy and Caleb, Jones enjoys volunteering with the youth at Discovery Church, watching a lot of television, and playing hour long games of Monopoly with his friends. Jones was introduced to the Paralympic movement when Cathy Sellers, the Director of U.S. Paralympic Track and Field, emailed his high school baseball coach. She read an article about how Jones played baseball with cerebral palsy and thought that he would make an excellent thrower. Due to cerebral palsy on the left side of his body, Jones learned to catch and throw the baseball with his right hand. His style of play was similar to that of pro-baseball player, Jim Abbott. In the next few months, Jones graduated high school and made California Lutheran University’s Track and Field team and fell in love with the javelin. He didn’t know which end of the javelin was up the first time he held one, but with the help of his coaches and teammates, he eventually broke and rebroke the America’s record for his F38 classification.<h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 8th (Javelin Throw F38 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 6th (Javelin Throw F38 - Men)</li><li>Years of participation: Javelin Throw F38 - Men 2015, 2023</li><li>Top finish: 5th – 2015 (Javelin Throw F38 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690227556/NGB%20Para%20Track%20and%20Field/Athlete%20Profiles/Jones_230709_103612_7005.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "F38",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690227556/NGB%20Para%20Track%20and%20Field/Athlete%20Profiles/Jones_230709_102956_6297.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cody Jones"
+        }
+      ]
+    },
+    {
+      "first_name": "Jasmine",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1996-07-09T00:00:00",
+        "hometown": {
+          "city": "Greensburg",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.29563,
+          "longitude": -79.54504
+        },
+        "education": "Eastern Michigan",
+        "fun_fact": "An email from five-time Olympic medalist Elana Meyers Taylor encouraged her to try out for bobsled",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> 2-woman bobsled</li></ul><ul><li>Daughter of Christine Vincent</li><li>Part of the Air Force World Class Athlete Program (WCAP) and is a Senior Airman in the U.S. Air Force&nbsp;</li><li>Competed in track and field, specializing in sprints, at Eastern Michigan University</li></ul><h5>Biographical Information</h5><p>Jasmine Jones grew up in Greensburg, Pennsylvania, where she was a standout basketball player and a two-time state champion in the 4x100-meter relay at Hempfield Area High School.</p><p>Jones went to Eastern Michigan, where she competed in track and field, specializing in sprints (100m, 200m, 400m, 4x100m). Her college strength coach nominated her for an All-American award, and as a result, five-time Olympic medalist Elana Meyers Taylor reached out to her via email, encouraging her to try out for the U.S. bobsled team.</p><p>Five years later, Jones was competing at the 2023 IBSF World Championships in 2-woman bobsled. Then just three years later, Jones would win her first IBSF World Cup race in St. Moritz as the push athlete for three-time Olympic gold medalist Kaillie Armbruster Humphries.&nbsp;</p><p>Off the ice, Jones is a Senior Airman in the U.S. Air Force and trains in Lake Placid, New York, as part of the Air Force World Class Athlete Program (WCAP).</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 5th (2-Man Competition - Women)</li><li>Years of participation: 2-Man Competition - Women 2023, 2024, 2025</li><li>Top finish: 5th – 2025 (2-Man Competition - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Milan 2026, bronze (2-Man Competition - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771714754/Jones_J_bio_1124923.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770242794/Jones_J_main_1124923.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771714755/Jones_J_featured_1124923.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770158410/Jones-J_thumbnail_1124923.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Bobsled"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Jasmine Jones 1174930"
+        }
+      ]
+    },
+    {
+      "first_name": "Malik",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2002-12-06T00:00:00",
+        "hometown": {
+          "city": "Aurora",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7294,
+          "longitude": -104.8319
+        },
+        "education": "Colorado Early College (Aurora, Colo.)",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Skated with the U.S. Development Sled Hockey Team for three seasons</li><li><span>Enjoys the outdoors, cooking and playing video games</span></li></ul><h5>Biographical Information</h5><p><span>Malik Jones was introduced to sled hockey at the age of seven when his grandmother discovered a local program. Jones, who was born without shinbones and had both his legs amputated at 10 months old, tried a variety of sports growing up, including wheelchair tennis, fencing, cycling and archery, but he was drawn to the team amaraderie of sled hockey.</span></p><p><span>Jones </span><span>became the second Black athlete to represent the U.S. in sled hockey at the Paralympics when he was part of the gold medal team at the Paralympic Winter Games Beijing 2022.</span></p><p><span>When he is not on the ice, he enjoys cooking, and his favorite meal is Fettuccine Alfredo with chicken and broccoli.</span></p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 gold)</li><ul><li>Paralympic Games Milan 2026, gold (Team - Mixed)</li><li>Paralympic Games Beijing 2022, gold (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Men)</li><li>Years of participation: Team - Men 2023, 2024, 2025</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2025 (Team - Men);  2023 (Team - Men)</li><li>Silver – 2024 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662018/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Jones_m_bio_1234081.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "Eligible",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662568/TeamUSA%20Assets/Athlete%20Profiles/Malik%20Jones%201234081/jones_m_hero_1234081.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684929559/TeamUSA%20Assets/Migration/Pages/Jones_Malik_031322_1440x810_UpdatedY.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010026/TeamUSA%20Assets/Athlete%20Profiles/Malik%20Jones%201234081/Jones_Malik_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Malik Jones 1234081"
+        },
+        {
+          "title": "Sled Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Kehri",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1993-11-30T00:00:00",
+        "hometown": {
+          "city": "Killeen",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 31.1177,
+          "longitude": -97.7278
+        },
+        "education": " Baylor University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began bobsledding in 2015</li><li>Ran track and field at Baylor University</li><li>Holds a bachelor&#39;s degree in education and a master&#39;s degree in health and human performance from Baylor</li><li>Recruited to bobsled by Elana Meyers Taylor, who emailed her track coach</li><li>Graduated high school at the age of 16</li><li>Favorite color is pink</li><li>Has a blanket, which she takes when she travels.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017-2018 Women&#39;s Bobsled World Cup for pilot Elana Meyers Taylor- BRONZE in Whistler (11/17); SILVER in Igls (12/17)</li>\r\n                            <li>2017-2018 North American Cup for pilot Brittany Reinbolt- BRONZE in Park City (11/17)</li>\r\n                            <li>2016-2017 Women&#39;s Bobsled World Cup for pilot Elana Meyers Taylor- DSQ in Whistler (12/16); SILVER in Altenberg (1/17); GOLD in Winterberg (1/17); GOLD in Koenigssee (1/17)</li>\r\n                            <li>2015-2016 Women&#39;s Bobsled World Cup for pilot Katie Eberling - 9th in St. Moritz (2/16)</li>\r\n                            <li>2015-2016 Women&#39;s Bobsled World Cup for pilot Elana Meyers Taylor - SILVER in Winterberg (12/15)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (2-Man Competition - Women)</li><li>Years of participation: 2-Man Competition - Women 2016, 2017</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2017 (2-Man Competition - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698682/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kehri%20Jones%20845018/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698683/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kehri%20Jones%20845018/JonesK.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kehri Jones 845018"
+        }
+      ]
+    },
+    {
+      "first_name": "Allison",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1984-05-12T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "Middle Park High School (Granby, Colo.) ‘02 University of Denver ‘07, Mechanical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Jones is a Paralympian in both cycling and alpine skiing. She was born without her right femur and is missing her right leg above the knee. Her first Paralympic Games experience came at the 2002 Paralympic Winter Games in Salt Lake City in alpine skiing. She went on to compete in track cycling at the Athens 2004 Paralympic Games, and since then has competed in the 2006, 2008, 2010 and 2012, 2014 Games in either cycling or alpine skiing.</li><li>Married Sara Jarrell in 2014</li><li>Has one sister, Haley</li><li>Has one dog, Rammer, two cats, Miles and Davis, and three chickens, Hedwig, RuPaul and Beetle Juice</li><li>She started skiing and riding a bike when she was 5 years old</li><li>Hobbies include mountain biking, kayaking, hiking, rock climbing, camping and building Lego sets</li><li>Awarded Denver University’s highest honor for undergraduates, the “Pioneer Award”</li><li>Collects Coca-Cola bottles from around the world and is a self-proclaimed fan of packing and unpacking her bags for all of her skiing and cycling trips.</li></ul><h5>Paralympic Experience</h5><ul><li>8-time Paralympian; 8-time Paralympic medalist (2 gold, 3 silver, 3 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, 4th (C1-3 - Road Race - Women), 5th (C1-3 - Time Trial - Women), 6th (C1-3 - 3km Pursuit - Women, C1-3 - 500m Time Trial - Women)</li><li>Paralympic Games Sochi 2014,  (Slalom - Standing - Women), bronze (Downhill - Standing - Women), 4th (Giant Slalom - Standing - Women, Super Combined - Standing - Women, Super-G - Standing - Women)</li><li>Paralympic Games London 2012, gold (C1-3 - Time Trial - Women), bronze (C1-3 - 3km Pursuit - Women, C1-3 - Road Race - Women), 4th (C1-3 - 500m Time Trial - Women)</li><li>Paralympic Games Vancouver 2010, 5th (Slalom - Standing - Women, Super Combined - Standing - Women), 6th (Downhill - Standing - Women), 9th (Giant Slalom - Standing - Women, Super-G - Standing - Women)</li><li>Paralympic Games Beijing 2008, silver (LC3/LC4/CP3 - Time Trial - Women), 6th (LC3/LC4/CP3 - 500m Time Trial - Women), 8th (LC3/LC4/CP3 - 3km Pursuit - Women)</li><li>Paralympic Games Turin 2006, gold (Slalom - Standing - Women), 4th (Super-G - Standing - Women), 5th (Giant Slalom - Standing - Women), 7th (Downhill - Standing - Women)</li><li>Paralympic Games Athens 2004, 4th (LC1-4/CP3-4 - 1000m Time Trial - Women), 6th (LC1-4/CP3-4 - Time Trial - Women)</li><li>Paralympic Games Salt Lake City 2002, silver (Giant Slalom LW2 - Women, Super-G LW2 - Women), 5th (Downhill LW2 - Women, Slalom LW2 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – bronze (C2 - Time Trial - Women), 4th (C2 - Road Race - Women)</li><li>Years of participation: C2 - Road Race - Women 2010, 2011, 2013, 2014, 2015, 2017, 2022, 2023, 2024, 2025; C2 - Time Trial - Women 2010, 2011, 2013, 2014, 2015, 2017, 2022, 2023, 2024, 2025; C2 - 3km Pursuit - Women 2011, 2012, 2014, 2015, 2016; C2 - 500m Time Trial - Women 2011, 2012, 2014, 2015, 2016; C2 - Scratch Race - Women 2016; C1-3 - Scratch Race - Women 2015; Downhill - Standing - Women 2009, 2013; Giant Slalom - Standing - Women 2009, 2013; Slalom - Standing - Women 2009, 2013; Super Combined - Standing - Women 2009, 2013; Super-G - Standing - Women 2009, 2013; LC3/LC4/CP3 - Road Race - Women 2009; LC3/LC4/CP3 - Time Trial - Women 2006, 2007, 2009; LC3/LC4 - Road Race - Women 2006, 2007; LC3/LC4/CP3 - 500m Time Trial - Women 2006, 2007; LC3/LC4/CP3 - 3km Pursuit - Women 2006; Downhill LW2 - Women 2004; Giant Slalom LW2 - Women 2004; Slalom LW2 - Women 2004; Super-G LW2 - Women 2004</li><li>Medals: 32 (13 gold, 7 silver, 12 bronze)</li><ul><li>Gold – 2017 (C2 - Road Race - Women);  2014 (C2 - Road Race - Women, C2 - Time Trial - Women);  2013 (C2 - Road Race - Women, C2 - Time Trial - Women);  2011 (C2 - Road Race - Women, C2 - Time Trial - Women, C2 - 3km Pursuit - Women);  2010 (C2 - Road Race - Women, C2 - Time Trial - Women);  2004 (Downhill LW2 - Women, Giant Slalom LW2 - Women, Slalom LW2 - Women)</li><li>Silver – 2015 (C2 - Time Trial - Women);  2014 (C2 - 500m Time Trial - Women);  2009 (LC3/LC4/CP3 - Road Race - Women, LC3/LC4/CP3 - Time Trial - Women, Slalom - Standing - Women, Super Combined - Standing - Women);  2004 (Super-G LW2 - Women)</li><li>Bronze – 2025 (C2 - Time Trial - Women);  2017 (C2 - Time Trial - Women);  2015 (C2 - Road Race - Women, C2 - 3km Pursuit - Women, C2 - 500m Time Trial - Women);  2014 (C2 - 3km Pursuit - Women);  2012 (C2 - 3km Pursuit - Women, C2 - 500m Time Trial - Women);  2011 (C2 - 500m Time Trial - Women);  2007 (LC3/LC4/CP3 - Time Trial - Women);  2006 (LC3/LC4/CP3 - Time Trial - Women, LC3/LC4/CP3 - 3km Pursuit - Women)</li></ul></ul><h5>More</h5><p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 2,
+        "silver": 3
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "WC2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012019/TeamUSA%20Assets/Athlete%20Profiles/Allison%20Jones%20866268/Jones_allison_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allison Jones 866268"
+        }
+      ]
+    },
+    {
+      "first_name": "Lolo",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5’9”",
+        "birthday": "1982-08-05T00:00:00",
+        "hometown": {
+          "city": "Baton Rouge",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 30.4515,
+          "longitude": -91.1871
+        },
+        "education": "Louisiana State University '05",
+        "fun_fact": "",
+        "biography": "<span style=\"font-size: 18px;\">a.</span><strong><br>\n</strong><span style=\"font-size: 18px;\">5</span><strong><br>\n</strong><strong><br>\n</strong>\n<div><h5>Olympic Experience</h5><ul>\n    <li>2012 Olympic Games, 4th place in 100m hurdles<br>\n    </li>\n    <li>2008 Olympic Games, 7th place in 100m hurdles<br>\n    </li>\n</ul>\n<p><h5>Career Highlights</h5></p>\n<ul>\n    <li>11-time NCAA All-American</li>\n    <li><span style=\"font-size: 18px;\">F<span style=\"font-size: 18px;\">our</span></span>-time U.S. Indoor champion (2007, 2008, 2009, 2012)</li>\n    <li>2010, World Indoor champion</li>\n    <li>2010, U.S. Outdoor champion</li>\n    <li>2010, U.S. Indoor silver medalist</li>\n    <li>2008, World Indoor champion <br>\n    </li>\n    <li>2007, U.S. Outdoor bronze medalist<br>\n    </li>\n</ul>\n<p><h5>Career Highlights</h5></p>\n<ul>\n    <li>2013, World Championship team event gold medalist (w/ driver Elana Meyers, John Daly, Noelle Pikus-Pace, Steven Holcomb, Curt Tomasevicz)&nbsp;</li>\n    <li>2013, World Cup in Igls, Austria team event bronze medalist (w/ driver Elana Meyers, Matt Antoine, Katie Uhlaender, Steven Holcomb, Nic Taylor)</li>\n    <li>2012, World Cup in Lake Placid silver medalist (w/ Jazmine Fenlator)<br>\n    </li>\n</ul>\n<p><strong>Fun Facts: </strong><span style=\"font-size: 18px;\">Donated her Olympic Trials prize money to<span style=\"font-size: 18px;\"> Iowa flood victims ... <span style=\"font-size: 18px;\">O</span>f French, African-American, Native American and Norwegian descent ... Most followed U.S. Track and Field athlete on Twitter</span></span><br>\n\n</p>\n<p><strong>Learn more:</strong>&nbsp;<br>\nUSA Track &amp; Field</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329333/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lolo%20Jones/Lolo-Jones-web.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lolo Jones"
+        },
+        {
+          "title": "Bobsled"
+        }
+      ]
+    },
+    {
+      "first_name": "Shilese",
+      "last_name": "Jones",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2002-07-26T00:00:00",
+        "hometown": {
+          "city": "Auburn",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.3076,
+          "longitude": -122.2287
+        },
+        "education": "University of Florida",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\"><strong>Specialty:</strong></span><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\"> Uneven bars</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 12pt;\">Shilese Jones is an American artistic gymnast and a member of the U.S. national gymnastics team. Jones was introduced to gymnastics at the age of four by her parents, who noticed her natural talent for flipping around the house. She first rose to prominence when she became a junior elite gymnast at the age of 12 in 2014. Notably, she made history when she stood on the first all-Black medal podium alongside </span><span style=\"font-size: 12pt;\">Konnor McClain</span><span style=\"font-size: 12pt;\"> and </span><span style=\"font-size: 12pt;\">Jordan Chiles</span><span style=\"font-size: 12pt;\"> at the U.S. Championships in 2022.</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 12pt;\">Though Shilese Jones was set to make her Olympic debut at the Paris 2024 Olympic Games, she withdrew on opening night after suffering an injury during warm-up.</span></p><h5>World Championship Highlights</h5><p><span style=\"font-size: 12pt;\">Jones has been a standout performer at the world championships. In 2022, she won silver medals in the uneven bars and all-around events and helped the U.S. team secure gold in Liverpool.&nbsp;</span></p><p><span style=\"font-size: 12pt;\">In 2023, she continued her strong performances by winning bronze medals in the all-around and uneven bars events and again contributed to the U.S. team's gold medal in Antwerp.</span></p><h5>U.S. Championship Highlights</h5><p><span style=\"font-size: 12pt;\">Jones showcased her talents at the Xfinity U.S. Gymnastics Championships in California in 2023 and the OOFOS U.S. Gymnastics Championships in Tampa in 2022. She also earned medals at the U.S. Classic in 2022 and at the Winter Cup in Indianapolis in 2021.</span></p><h5>Early Career&nbsp;</h5><p><span style=\"font-size: 12pt;\">In 2014, Shilese Jones qualified as a junior elite gymnast at the age of 12. She made her debut at the American Classic and competed in the U.S. Classic, showcasing her skills in the all-around, vault, uneven bars and floor exercise events. Jones also competed in the National Championships, marking the beginning of her competitive gymnastics journey.</span></p><p><span style=\"font-size: 12pt;\">In 2015, Jones continued to build on her early successes. She competed in the U.S. Classic, where she participated in the all-around, vault and floor exercise events. Her performances at the National Championships further established her as a promising young gymnast. The next year, Jones competed again in the U.S. Classic, demonstrating her growing skills and consistency across multiple events. This year was critical in her development as she continued to gain experience on the national stage.</span></p><p><span style=\"font-size: 12pt;\">By 2017, she had solidified her reputation as a talented junior gymnast. Competing in the U.S. Classic, she showcased her abilities in various events, continuing to build her competitive résumé. In 2018, Jones transitioned to senior-level competition. She made her senior debut at the American Classic and participated in the U.S. Classic, competing in multiple gymnastics events. Her breakthrough came at the Pan American Championships in Lima, where she contributed to the U.S. team's gold medal victory.</span></p><p><span style=\"font-size: 12pt;\">At the City of Jesolo Trophy in 2019, Jones played a pivotal role in leading her team to a gold medal. Additionally, she was a member of the U.S. team for the Pan American Games.In 2021, Jones excelled at the Winter Cup in Indianapolis, in all-around, uneven bars and floor exercise events, earning several medals. At the U.S. Classic, Jones recorded the third-highest single vault score.</span></p><p><span style=\"font-size: 12pt;\">In 2022, Jones competed at the City of Jesolo Trophy with the U.S. team where they secured a gold medal. At the World Challenge Cup in Paris, she won gold on the uneven bars and silver on the floor exercise, finishing fifth on the balance beam. Her most notable accomplishments came at the world championships in Liverpool, where she and the U.S. team won the gold medal, and Jones won individual silver medals in the all-around and uneven bars.&nbsp;</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (Team - Women), bronze (Individual All-Around - Women, Uneven Bars - Women), 5th (Floor Exercise - Women), 7th (Beam - Women)</li><li>Years of participation: Beam - Women 2022, 2023; Floor Exercise - Women 2022, 2023; Individual All-Around - Women 2022, 2023; Team - Women 2022, 2023; Uneven Bars - Women 2022, 2023</li><li>Medals: 6 (2 gold, 2 silver, 2 bronze)</li><ul><li>Gold – 2023 (Team - Women);  2022 (Team - Women)</li><li>Silver – 2022 (Individual All-Around - Women, Uneven Bars - Women)</li><li>Bronze – 2023 (Individual All-Around - Women, Uneven Bars - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1688751813/TeamUSA%20Assets/Athlete%20Voices/Black%20Excellence%20All-Around/Shilese%20Jones/Shilese-21.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684930018/TeamUSA%20Assets/Migration/Jones_Shilese_110322_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1688751848/TeamUSA%20Assets/Athlete%20Voices/Black%20Excellence%20All-Around/Shilese%20Jones/Shilese_23.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shilese Jones 1125682"
+        },
+        {
+          "title": "Artistic Gymnastics"
+        }
+      ]
+    }
+  ]
+}

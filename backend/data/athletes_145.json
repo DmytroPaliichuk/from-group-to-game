@@ -1,0 +1,770 @@
+{
+  "entries": [
+    {
+      "first_name": "Liz",
+      "last_name": "Stephen",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1987-01-12T00:00:00",
+        "hometown": {
+          "city": "East Montpelier",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 44.2906,
+          "longitude": -72.4637
+        },
+        "education": "Burke Mountain Academy (East Burke, Vt.) '05 Westminster College; University of Utah",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mark and Susan Stephen</li><li>Has one brother, Andy</li><li>Switched from alpine skiing to cross-country skiing in high school</li><li>Hobbies include writing, reading, sledding, running, board games, listening to podcasts and yoga.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 FIS World Cup Standings, 7th (distance), 10th (overall)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>Three-time Olympian (2010, 2014, 2018)</li><li>PyeongChang 2018, 30th (10K freestyle)</li><li>Sochi 2014, 8th (4x5K relay), 12th (7.5/7.5K skiathlon), 24th (30K mass start)</li><li>Vancouver 2010, 49th (10K freestyle), 57th (15K pursuit)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 4th (4x5K relay), 20th (7.5/7.5K skiathlon), 25th (30K mass start)</li><li>Years of Participation: 2009, 2011, 2013, 2015, 2017 </li><li>Top finish: 4th – 2013 (4x5K relay), 2015 (4x5K relay), 2017 (4x5K relay)</li></ul><h5>More</h5><p>Personal website<br>\nU.S. Ski and Snowboard Association&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361807/TeamUSA%20Assets/Migration/Athlete%20Profiles/Liz%20Stephen/stephen_liz_021514_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cross-Country Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361809/TeamUSA%20Assets/Migration/Athlete%20Profiles/Liz%20Stephen/stephen_liz_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Liz Stephen"
+        }
+      ]
+    },
+    {
+      "first_name": "Sloane",
+      "last_name": "Stephens",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1993-03-20T00:00:00",
+        "hometown": {
+          "city": "Coral Springs",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.27147,
+          "longitude": -80.2706
+        },
+        "education": "Homeschooled ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of John Stephens and Sybil Smith</li><li>Sybil swam at Boston University and qualified for the U.S. Olympic Team Trials in three events</li><li>John played professional American football for the New England Patriots, Green Bay Packers and Kansas City Chiefs before he was killed in a car accident on Sept. 1, 2009</li><li>Stepdaughter of Sheldon Farrell and has one stepbrother, Shawn Farrell</li><li>Started playing tennis at age 9 when her mother introduced her to the sport</li><li>Favorite court surface is clay</li><li>Is a self-described foodie and dog lover</li><li>Began cooking at age 18 when her grandmother gave her handwritten recipes as a birthday present</li><li>Favorite TV shows are “Nashville” and “Scandal.”</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 Auckland Open, 1st (singles)</li>\r\n                            <li>2016 Acapulco Open, 1st (singles)</li>\r\n                            <li>2016 Charleston Open, 1st (singles)</li>\r\n                            <li>2015 French Open, fourth round (singles)</li>\r\n                            <li>2014 French Open, fourth round (singles)</li>\r\n                            <li>2013 Australian Open, semifinals (singles)</li>\r\n                            <li>2013 French Open, fourth round (singles)</li>\r\n                            <li>2013 Wimbledon, quarterfinals (singles)</li>\r\n                            <li>2013 US Open, fourth round (singles)</li>\r\n                            <li>2012 French Open, fourth round (singles)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 33th (Singles - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nWTA Tennis",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662847/TeamUSA%20Assets/Athlete%20Profiles/Sloane%20Stephens%20915269/Stephens_S_Bio_915269.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662725/TeamUSA%20Assets/Athlete%20Profiles/Sloane%20Stephens%20915269/Stephens_S_Hero_915269.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719135/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sloane%20Stephens%20915269/Stephens_Sloane_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sloane Stephens 915269"
+        }
+      ]
+    },
+    {
+      "first_name": "Laurie",
+      "last_name": "Stephens",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1984-03-05T00:00:00",
+        "hometown": {
+          "city": "Wenham",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.59,
+          "longitude": -70.84
+        },
+        "education": "University of New Hampshire ",
+        "fun_fact": "Former U.S. record holder in Para swimming (100-meter and 200-meter backstroke)",
+        "biography": "<h5><span style=\"font-size: 11pt;\">Quick Facts</span></h5><ul><li><span style=\"font-size: 11pt;\"><strong>Specialty:&nbsp;</strong></span><span style=\"font-size: 11pt;\">Para Alpine Skiing (Sitting) — LW12-1 Classification</span></li><li><span style=\"font-size: 11pt;\">Born with spina bifida in Wenham, Massachusetts</span></li><li><span style=\"font-size: 11pt;\">Discovered skiing at age 12 at Loon Mountain, New Hampshire</span></li><li><span style=\"font-size: 11pt;\">Began training with New England Disabled Ski Team under coach Chris Devlin-Young at age 15</span></li><li><span style=\"font-size: 11pt;\">2006 USOC Paralympic Sportswoman of the Year</span></li><li><span style=\"font-size: 11pt;\">Former U.S. record holder in Para Swimming (100-meter and 200-meter backstroke)</span></li><li><span style=\"font-size: 11pt;\">Parents: John and Donna Stephens</span></li><li><span style=\"font-size: 11pt;\">Hobbies include reading and knitting</span></li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Born with spina bifida, a congenital neural tube defect that affects the development of the spinal cord and its protective covering, Laurie Stephens grew up navigating the world with paralysis affecting her lower extremities. She discovered skiing at age 12, when a group of athletes with disabilities took a trip to Loon Mountain in Lincoln, New Hampshire. On those trails, she found the sport that would define the next quarter century of her life.</span></p><p><span style=\"font-size: 11pt;\">By age 15, Stephens had joined the New England Disabled Ski Team under coach Chris Devlin-Young, beginning the formal development that would take her to the international stage. Her trajectory on the world cup circuit was immediate and striking. In her very first world cup season in 2004, she won the overall world cup title and the giant slalom world cup championship.</span></p><p><span style=\"font-size: 11pt;\">At the Paralympic Winter Games Turin 2006, Stephens won gold in downhill and gold in super-G in the women's sitting division and silver in giant slalom. Those results earned her the U.S. Olympic Committee's Paralympic Sportswoman of the Year award that same year and a nomination for the 2006 ESPY Award for Best Female Athlete with a Disability.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">At the Paralympic Winter Games Vancouver 2010, she earned silver in downhill. At the Paralympic Winter Games Sochi 2014, she claimed bronze in both downhill and super-G. At the Paralympic Winter Games PyeongChang 2018, she added another bronze in downhill. She made her fifth Paralympic appearance at the Paralympic Winter Games Beijing 2022, competing in downhill at age 38, remaining competitive at the Games level well into what for most athletes would be considered a post-peak career phase.</span></p><p><span style=\"font-size: 11pt;\">At the world championship level, her record is equally sustained. Stephens accumulated medals across multiple world championship appearances, including gold in downhill at the 2013 IPC Alpine Skiing World Championships in La Molina, Spain, and gold in giant slalom at the 2021 World Championships in Lillehammer, Norway, after the event was rescheduled to 2022 due to COVID-19. She has also won six world championship silver medals and five bronze medals across disciplines and years. At the 2025 FIS Para Alpine Skiing World Championships in Maribor, Slovenia, she placed ninth in Slalom in the women's sitting division.</span></p><p><span style=\"font-size: 11pt;\">Before skiing became her primary competitive arena, Stephens set two U.S. records in Para swimming, in the 100-meter and 200-meter backstroke, demonstrating an athletic range that extends well beyond the mountain. Off the snow, she enjoys reading and knitting.</span></p><h5>Paralympic Experience</h5><ul><li>6-time Paralympian; 7-time Paralympic medalist (2 gold, 2 silver, 3 bronze)</li><ul><li>Paralympic Games Milan 2026,  (Giant Slalom - Sitting - Women), 12th (Slalom - Sitting - Women)</li><li>Paralympic Games Beijing 2022,  (Downhill - Sitting - Women)</li><li>Paralympic Games Pyeongchang 2018, bronze (Downhill - Sitting - Women), 4th (Super Combined - Sitting - Women), 5th (Slalom - Sitting - Women, Super-G - Sitting - Women), 7th (Giant Slalom - Sitting - Women)</li><li>Paralympic Games Sochi 2014,  (Super Combined - Sitting - Women), bronze (Downhill - Sitting - Women, Super-G - Sitting - Women), 4th (Slalom - Sitting - Women), 6th (Giant Slalom - Sitting - Women)</li><li>Paralympic Games Vancouver 2010, silver (Downhill - Sitting - Women), 4th (Super-G - Sitting - Women), 5th (Giant Slalom - Sitting - Women, Slalom - Sitting - Women, Super Combined - Sitting - Women)</li><li>Paralympic Games Turin 2006, gold (Downhill - Sitting - Women, Super-G - Sitting - Women), silver (Giant Slalom - Sitting - Women), 7th (Slalom - Sitting - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 –  (Giant Slalom - Sitting - Women), 9th (Slalom - Sitting - Women)</li><li>Years of participation: Giant Slalom - Sitting - Women 2011, 2013, 2015, 2017, 2019, 2022, 2023, 2025; Slalom - Sitting - Women 2013, 2015, 2017, 2022, 2023, 2025; Downhill - Sitting - Women 2011, 2013, 2015, 2017, 2019, 2022, 2023; Super Combined - Sitting - Women 2011, 2013, 2015, 2017, 2019, 2022, 2023; Super-G - Sitting - Women 2011, 2013, 2015, 2017, 2022, 2023; Downhill LW10-12 - Women 2004; Giant Slalom LW10-12 - Women 2004; Slalom LW10-12 - Women 2004; Super-G LW10-12 - Women 2004</li><li>Medals: 12 (2 gold, 6 silver, 4 bronze)</li><ul><li>Gold – 2022 (Giant Slalom - Sitting - Women);  2013 (Downhill - Sitting - Women)</li><li>Silver – 2023 (Giant Slalom - Sitting - Women, Super Combined - Sitting - Women, Super-G - Sitting - Women);  2011 (Downhill - Sitting - Women, Super-G - Sitting - Women);  2004 (Giant Slalom LW10-12 - Women)</li><li>Bronze – 2022 (Slalom - Sitting - Women);  2015 (Super Combined - Sitting - Women);  2013 (Super-G - Sitting - Women);  2011 (Super Combined - Sitting - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662010/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Stephens_L_bio_827471.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 2,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2006, 2010, 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "LW12-1, Sitting",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662193/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Stephens_L_hero_827471.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773250839/Stephens_L_featured_827471.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011722/TeamUSA%20Assets/Athlete%20Profiles/Laurie%20Stephens%20827471/Stephens_Laurie_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Laurie Stephens 827471"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Alpine Skiing"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Richelle",
+      "last_name": "Stephens",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1996-07-22T00:00:00",
+        "hometown": {
+          "city": "Fallbrook",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.3742,
+          "longitude": -117.2475
+        },
+        "education": "Fallbrook Union High School (Fallbrook, Calif.) ‘15 Lindenwood University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Rick and Jodie Stephens</li><li>Has one older sister, Devin, and a twin brother, Rickey</li><li>Began playing rugby in 2010</li><li>Represented the U.S. delegation as flag bearer at the Closing Ceremony of the Nanjing 2014 Youth Olympic Games</li><li>Enjoys surfing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, silver</li>\r\n                            <li>2015 NACRA Sevens Championship, 1st</li>\r\n                            <li>2015-16 HSBC Women’s Sevens World Series, 6th </li>\r\n                            <li>2014-15 HSBC Women’s Sevens World Series, 5th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719023/TeamUSA%20Assets/Migration/Athlete%20Profiles/Richelle%20Stephens%20818153/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719025/TeamUSA%20Assets/Migration/Athlete%20Profiles/Richelle%20Stephens%20818153/stephens_richelle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Richelle Stephens 818153"
+        }
+      ]
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Stertz",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2000-05-04T00:00:00",
+        "hometown": {
+          "city": "Grand Rapids",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 47.22855,
+          "longitude": -93.53522
+        },
+        "education": "Grand Rapids High School (Grand Rapids, Minn.) '18 College of Saint Scholastica",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Emma is the daughter of Craig and Theresa Stertz</li><li>Has one brother, Sam</li><li>She is a junior Secondary Social Studies Education and History double major at the College of Saint Scholastica in Duluth, MN</li><li>She is also on the Nordic Ski and cross country running teams at the College of Saint Scholastica</li><li>Emma's hobbies include mountain biking, reading, and sharing what she loves with others</li><li>Started skiing before she could walk and has loved it ever since</li><li>She started her biathlon career at Mt. Itasca and has trained with multiple clubs including Kouvolan Hiihtoseura (Kouvola, Finland, 2018-19 season) and the Crosscut Elite Team (Bozeman, MT, summer 2021)</li><li>Favorite part of biathlon is the opportunities it offers and the people she’s met through it</li></ul><p></p><h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Salt Lake City, 2022 (4 x 6km Relay - Women, 12.5km Individual - Women, 10km Pursuit - Women, 7.5km Sprint - Women)</li><li>World Youth/Junior Championships, Lenzerheide, 2020 (4 x 6km Relay - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2022 IBU Junior World Championships (Soldier Hollow, Utah): 17th in individual / 43rd in sprint / 37th in pursuit</li><li>2020 IBU Youth/Junior World Championships (Lenzerheide, Switzerland) - 69th in junior individual; 15th in junior relay; 52nd in junior sprint; 55th in junior pursuit</li><li>2019 Youth World Championships (Osrblie, Slovakia) - 56th in individual / 19th in relay / 62nd in sprint</li><li>2018 Youth World Championships (Otepaa, EST) - 60th in individual / 18th in relay / 52nd in sprint / 48th in pursuit</li></ul><h5>More</h5><p><strong>Emma in the media:<br>\n</strong>12/31/00: Scholastica's Stertz Named to U.S. Biathlon IBU Cup Roster</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134407/NGB%20Biathlon/Migration/Athlete%20Profiles/Emma%20Stertz%201044362/EmmaStertz_83928581_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134410/NGB%20Biathlon/Migration/Athlete%20Profiles/Emma%20Stertz%201044362/Emma-Stertz-2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emma Stertz 1044362"
+        }
+      ]
+    },
+    {
+      "first_name": "Darian",
+      "last_name": "Stevens",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1996-10-29T00:00:00",
+        "hometown": {
+          "city": "Missoula",
+          "state": "MT",
+          "country": "United States",
+          "latitude": 46.8721,
+          "longitude": -113.994
+        },
+        "education": "Winter Sports School (Park City, Utah) Westminster College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Christina and Tom Stevens</li><li>Has one brother, Thomas</li><li>Began skiing at age 4</li><li>Hobbies include hiking, biking, rock climbing, camping and playing volleyball and basketball.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022, 11th (Big Air - Women), 18th (Slopestyle - Women)</li><li>Olympic Games Pyeongchang 2018, 17th (Slopestyle - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2021 – 19th (Slopestyle - Women), 20th (Big Air - Women)</li><li>Years of participation: Big Air - Women 2021; Slopestyle - Women 2017, 2021</li><li>Top finish: 11th – 2017 (Slopestyle - Women)</li></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009398/TeamUSA%20Assets/Athlete%20Profiles/Darian%20Stevens%20932771/stevens_darian_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009399/TeamUSA%20Assets/Athlete%20Profiles/Darian%20Stevens%20932771/stevens_darian_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Darian Stevens 932771"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        }
+      ]
+    },
+    {
+      "first_name": "Evelyn",
+      "last_name": "Stevens",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1983-05-09T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "Acton Boxborough Regional High School (Acton, Mass.) ‘01 Dartmouth College ‘05, Government",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Edward and Harriet Stevens</li><li>Has four siblings, Angela, Mike, Drew and Mary</li><li>Previously served as an investment banker on Wall Street until she left to pursue professional cycling in 2009</li><li>Introduced to cycling by her sister, Angela</li><li>Hobbies include practicing yoga and reading.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Individual time trial - Women), 12th (Road race - Women)</li><li>Olympic Games London 2012, 24th (Road race - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (Team time trial - Women)</li><li>Years of participation: Team time trial - Women 2012, 2013, 2014, 2015, 2016; Individual time trial - Women 2010, 2011, 2012, 2013, 2014, 2015; Road race - Women 2009, 2010, 2011, 2012, 2013, 2014, 2015</li><li>Medals: 7 (4 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2016 (Team time trial - Women);  2014 (Team time trial - Women);  2013 (Team time trial - Women);  2012 (Team time trial - Women)</li><li>Silver – 2015 (Team time trial - Women);  2012 (Individual time trial - Women)</li><li>Bronze – 2014 (Individual time trial - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Cycling",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009455/TeamUSA%20Assets/Athlete%20Profiles/Evelyn%20Stevens%20838443/Stevens_Evelyn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Evelyn Stevens 838443"
+        }
+      ]
+    },
+    {
+      "first_name": "Travis",
+      "last_name": "Stevens",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1986-02-28T00:00:00",
+        "hometown": {
+          "city": "Tacoma",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.2529,
+          "longitude": -122.4443
+        },
+        "education": "North Shore Community College",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2016: Grand Prix Havana - 2nd Place</li>\r\n                            <li>2015: Pan American Senior Championships – 3rd Place</li>\r\n                            <li>2015: Pan American Games Toronto - 1st Place</li>\r\n                            <li>2015: Pan American Senior Championships - 3rd Place</li>\r\n                            <li>2015: Grand Prix Dusseldorf - 7th Place</li>\r\n                            <li>2014: Grand Prix Zagreb – 2nd Place, Pan American Open Miami – 1st Place, Grand Slam Tyumen – 5th Place, Grand Prix Havana – 2nd Place, Pan American Championships Guayaquil -3rd Place, Grand Prix Tbilisi – 2nd Place, Grand Prix Dusseldorf – 1st Place</li>\r\n                            <li>2013: Grand Slam Tokyo – 5th Place, Grand Prix Abu Dhabi – 7th Place, Grand Prix Tashkent – 1st Place, Pan American Championships San Jose – 3rd Place, Pan American Open Montevideo -1st Place</li>\r\n                            <li>2012: Olympic Games London – 5th Place, Grand Slam Rio de Janeiro – 2nd Place, Grand Prix Abu Dhabi – 3rd Place, World Cup Tashkent – 1st Place, Grand Slam Moscow – 2nd Place, Pan American Championships Guadalajara – 2nd Place, Grand Prix Dusseldorf – 1st Place, World Cup Budapest – 5th Place, Masters Baku – 5th Place</li>\r\n                            <li>Olympic Experience: 2012 Olympic Games</li>\r\n                            <li>Olympic Experience: 2008 Olympic Games</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, silver (81kg - Men)</li><li>Olympic Games London 2012, 5th (81kg - Men)</li><li>Olympic Games Beijing 2008, 9th (81kg - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 17th (81kg - Men)</li><li>Years of participation: 81kg - Men 2007, 2009, 2010, 2011, 2013, 2014, 2015; Team - Men 2012</li><li>Top finish: 9th – 2010 (81kg - Men), 2012 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361734/TeamUSA%20Assets/Migration/Athlete%20Profiles/Travis%20Stevens/STEVENS-TJUDO120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Travis Stevens"
+        }
+      ]
+    },
+    {
+      "first_name": "Deajah",
+      "last_name": "Stevens",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-05-19T00:00:00",
+        "hometown": {
+          "city": "Bayside",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7698,
+          "longitude": -73.7749
+        },
+        "education": "Benjamin North Cardozo High School (New York City, N.Y.) ‘14 University of Oregon ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Sean Stevens and Lakia Perkins</li><li>In 2016, became the first active female student-athlete from the University of Oregon to qualify for the Olympic Games in track and field</li><li>Prior to transferring to the University of Oregon, attended College of the Sequoias, where she won the California Junior College championships in the 200- and 400-meter events</li><li>Three-time high school state champion</li><li>As a high school senior, ranked in the top 10 nationally in the 200, 300 and 400 indoor events.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 U.S. Olympic Team Trials, 2nd </li>\r\n                            <li>2016 NCAA Outdoor Championships, 2nd</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 7th (200m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 5th (200m - Women), 23th (100m - Women)</li><li>Years of participation: 100m - Women 2017; 200m - Women 2017</li><li>Top finish: 5th – 2017 (200m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009393/TeamUSA%20Assets/Athlete%20Profiles/Deajah%20Stevens%201032752/Stevens_Deajah_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Deajah Stevens 1032752"
+        }
+      ]
+    },
+    {
+      "first_name": "Robyn",
+      "last_name": "Stevens",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1983-04-24T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "San Jose State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Enjoys reading and wearing sparkles</li><li>Owns at least 53 different wigs</li><li>Loves to dance</li><li>Retired from competition in 2004, but made a comeback after qualifying for the 2016 U.S. Olympic Trials</li><li>Hobbies include photography, collaborating on creative projects, commercial modeling, goat yoga, and designing and creating outfits for themed events.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 37th (20km Walk - Women)</li><li>Years of participation: 20km Walk - Women 2016, 2018, 2022; 20km Walk Team - Women 2016, 2018</li><li>Top finish:  – 2016 (20km Walk - Women)</li></ul><h5>More</h5>Personal Website<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 33th (20km Walk - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662066/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/stevens_r_bio_914825.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662214/TeamUSA%20Assets/Athlete%20Profiles/Robyn%20Stevens%20914825/stevens_r_hero_914825.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009247/TeamUSA%20Assets/Athlete%20Profiles/Robyn%20Stevens%20914825/Stevens_Robyn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Robyn Stevens 914825"
+        }
+      ]
+    },
+    {
+      "first_name": "Colby",
+      "last_name": "Stevenson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1997-10-03T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": " Westminster College",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Slopestyle and Big Air</li><li>Son of Carol Lomax and Bobby Stevenson</li><li>Started skiing at 14 months old</li><li>At 2023 <span>King of Corbet, he became the first skier ever to take off switch into Corbet’s Couloir, one of the steepest ski slopes in North America</span></li><li>Hobbies include surfing, mountain biking, snowmobiling and dirt bike riding</li></ul><h5>Biographical Information</h5><p>Born in New Hampshire, Colby Stevenson started skiing at 14 months old before moving to Park City, Utah, at age four. He originally was part of a Nordic combined youth team before switching over to freestyle skiing. Stevenson made his FIS World Cup debut in halfpipe at age 14 and has competed in multiple disciplines in his freestyle skiing career.</p><p><span>In 2016, Stevenson shattered his skull and suffered a traumatic brain injury in a car crash when he fell asleep while driving an injured teammate home from an event in Mt. Hood, Oregon, to Park City. Stevenson was placed in a three-day medically induced coma to avoid permanent brain damage. Stevenson returned to skiing just five months after the crash and three months later, he recorded his first-ever FIS World Cup win in slopestyle in Seiser Alm, Italy.</span></p><p><span>Stevenson made his Olympic debut at the Olympic Winter Games Beijing 2022, winning silver in the big air competition. Stevenson also won a silver medal at the 2021 FIS World Championships in slopestyle and is a five-time X Games champion in three different events.</span><span></span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Beijing 2022, silver (Big Air - Men), 7th (Slopestyle - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – silver (Slopestyle - Men), 17th (Big Air - Men)</li><li>Years of participation: Big Air - Men 2021; Slopestyle - Men 2015, 2021</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2021 (Slopestyle - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662042/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Stevenson_c_bio_1023700.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662577/TeamUSA%20Assets/Athlete%20Profiles/Colby%20Stevenson%201023700/stevenson_c_hero_1023700.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009356/TeamUSA%20Assets/Athlete%20Profiles/Colby%20Stevenson%201023700/stevenson_colby_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Colby Stevenson 1023700"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Stevenson",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1995-03-16T00:00:00",
+        "hometown": {
+          "city": "Reno",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 39.5296,
+          "longitude": -119.8138
+        },
+        "education": "University of the Pacific, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Marshall and Paige</li><li>Has a younger sister Lizzy</li><li>Majored in business at the University of the Pacific</li><li>Considers playing guitar as a hidden talent</li><li>Favorite karaoke song is &quot;Sweet Caroline&quot;, and the song that would be included in his life&#39;s soundtrack is &quot;Everything&#39;s Gonna Be Alright&quot; by Bob Marley</li><li>One superstition he has is that he has to end every practice with a made shot</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 FINA World Cup, 6th</li>\r\n                            <li>Three-time All-American</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 6th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662094/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/stevenson_b_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361614/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Stevenson/stevenson_Ben_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Stevenson"
+        }
+      ]
+    },
+    {
+      "first_name": "Trevor",
+      "last_name": "Stewart",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-05-20T00:00:00",
+        "hometown": {
+          "city": "Lorton",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.7001,
+          "longitude": -77.2308
+        },
+        "education": "North Carolina Agricultural and Technical State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>He has been asthmatic since he was a child<h5>Career Highlights</h5><ul>\r\n                            <li>2021 U.S. Olympic Team Trials, fourth (400-meter)</li>\r\n                            <li>2021 NCAA Championships, 4th </li>\r\n                            <li>2019 NCAA Championships, 2nd</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, gold (4 x 400m Relay - Men), bronze (4 x 400m Relay - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662065/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/stewart_t_bio_1188434psd.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662860/TeamUSA%20Assets/Athlete%20Profiles/Trevor%20Stewart%201188434/stewart_t_hero_1188434.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009243/TeamUSA%20Assets/Athlete%20Profiles/Trevor%20Stewart%201188434/Stewart_Trevor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Trevor Stewart 1188434"
+        }
+      ]
+    },
+    {
+      "first_name": "Kendyl",
+      "last_name": "Stewart",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1994-08-17T00:00:00",
+        "hometown": {
+          "city": "Carlsbad",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.1581,
+          "longitude": -117.3506
+        },
+        "education": "University of Southern California ‘16, Human Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jason and Shelly Stewart</li><li>Has one sibling, Cooper</li><li>Fluent in Spanish</li><li>Started “Pretty Inspired,” a blog focused on beauty, fashion and personal style for athletes, by athletes</li><li>Began swimming at age 7</li><li>Has two Wheaten terriers.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (4 x 100m Medley Relay (SC) - Women, 4 x 50m Medley Relay (SC) - Mixed, 4 x 50m Medley Relay (SC) - Women), silver (100m Butterfly (SC) - Women), 9th (50m Butterfly (SC) - Women)</li><li>Years of participation: 100m Butterfly (SC) - Women 2018; 4 x 100m Medley Relay (SC) - Women 2018; 4 x 50m Medley Relay (SC) - Mixed 2018; 4 x 50m Medley Relay (SC) - Women 2018; 50m Butterfly (SC) - Women 2018; 100m Butterfly - Women 2015; 4 x 100m Medley Relay - Mixed 2015; 4 x 100m Medley Relay - Women 2015; 50m Butterfly - Women 2015</li><li>Medals: 5 (3 gold, 2 silver)</li><ul><li>Gold – 2018 (4 x 100m Medley Relay (SC) - Women, 4 x 50m Medley Relay (SC) - Mixed, 4 x 50m Medley Relay (SC) - Women)</li><li>Silver – 2018 (100m Butterfly (SC) - Women);  2015 (4 x 100m Medley Relay - Mixed)</li></ul></ul><h5>More</h5>USA Swimming<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (100m Butterfly - Women, 4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women)</li><li>World Junior Championships, Lima, 2011 (4 x 100m Medley Relay - Women, 50m Butterfly - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662906/TeamUSA%20Assets/Athlete%20Profiles/Kendyl%20Stewart%20861435/Stewart_K_Bio_861435.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662776/TeamUSA%20Assets/Athlete%20Profiles/Kendyl%20Stewart%20861435/Stewart_K_Hero_861435.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009221/TeamUSA%20Assets/Athlete%20Profiles/Kendyl%20Stewart%20861435/Stewart_Kendyl.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendyl Stewart 861435"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "entries": [
+    {
+      "first_name": "Kamryn",
+      "last_name": "Lute",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2004-08-28T00:00:00",
+        "hometown": {
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7128,
+          "longitude": -74.006
+        },
+        "education": "University of Utah ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts&nbsp;</h5><ul><li><span style=\"font-size: 11pt;\">Started speedskating after watching the Winter Olympic Games Vancouver 2010</span></li><li><span style=\"color: rgb(55, 65, 81);font-size: 11pt;\">Diagnosed with Hashimoto’s at the age of 17 and Lupus/Mixed Connective Tissue Disease at age 18</span></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Kamyrn Lute started speedskating after watching the sport and thinking \"it was cool\" at the Vancouver Games with her parents.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Ten years later, she competed for the United States at the world junior short track championships, and Lute made her first national team in 2022.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Lute was selected to represent the U.S. for the 2025-26 ISU Short Track World Tour season and was part of a women’s relay team that finished second in Gdansk, Poland helping the U.S. short track team secure a spot in women’s relay for the Winter Olympic Games Milano Cortina 2026.</span></p><p><span style=\"font-size: 11pt;\">Off the ice, her hobbies include travel, art and baking.&nbsp;</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 7th (3000m Relay - Women)</li><li>Years of participation: 3000m Relay - Women 2021</li><li>Top finish: 7th – 2021 (3000m Relay - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Milan 2026, 8th (3000m Relay - Women), 23th (1500m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769554601/TeamUSA%20Assets/Athlete%20Profiles/Kamryn%20Lute%201178416/lute_k_bio_1178416.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        },
+        {
+          "title": "Short Track Speedskating",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026 ",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769554583/TeamUSA%20Assets/Athlete%20Profiles/Kamryn%20Lute%201178416/lute_k_hero_1178416.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769554583/TeamUSA%20Assets/Athlete%20Profiles/Kamryn%20Lute%201178416/lute_k_hero_1178416.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kamryn Lute 1178416"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Short Track Speedskating"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Jacklyn",
+      "last_name": "Luu",
+      "bio": {
+        "height": "5'5",
+        "birthday": "1999-04-30T00:00:00",
+        "hometown": {
+          "city": "Milipitas",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4323,
+          "longitude": -121.8957
+        },
+        "education": " Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her favorite food is Korean barbecue</li><li>She is a 2nd generation Vietnamese-American</li><li>Plays the piano and ukulele</li><li>Wants to work at the intersection of health and technology</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Team - Open)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 11th (Team Technical Routine - Women), 12th (Team Free Routine - Women)</li><li>Years of participation: Team Free Routine - Women 2017; Team Technical Routine - Women 2017</li><li>Top finish: 11th – 2017 (Team Technical Routine - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685222944/NGB%20Artistic%20Swimming/Athlete%20Profiles/SNT%2023/23_Jacklyn_Luu.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011496/TeamUSA%20Assets/Athlete%20Profiles/Jacklyn%20Luu%20829788/Jacklyn-Luu-2018.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jacklyn Luu 829788"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Artistic Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Adrienne",
+      "last_name": "Lyle",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1985-01-02T00:00:00",
+        "hometown": {
+          "city": "Wellington",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.6567,
+          "longitude": -80.2667
+        },
+        "education": "Washington State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Hobbies include camping, hiking, listening to music and going to concerts</li><li>Had the opportunity to ride with her future coach and Olympian, Debbie McDonald, as a working student in 2005.</li></ul><h5>Career Highlights</h5><ul><li>2012 USEF National Grand Prix Championship, 4th (with Wizard)</li><li>2008 USEF Young Adult Brentina Cup champion (with Wizard)</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024,  (Team - Open), 20th (Individual - Open)</li><li>Olympic Games Tokyo 2020, silver (Team - Open), 19th (Individual - Open)</li><li>Olympic Games London 2012, 37th (Individual - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662083/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lyle_a_bio_907445.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330127/TeamUSA%20Assets/Migration/Athlete%20Profiles/Adrienne%20%20Lyle%20907445/lylehead.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adrienne Lyle 907445"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Equestrian"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Lyles",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1997-07-18T00:00:00",
+        "hometown": {
+          "city": "Alexandria",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.8048,
+          "longitude": -77.0469
+        },
+        "education": "TC Williams High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"color: rgb(65, 65, 65);font-size: 13pt;\"><strong>Specialty: </strong></span><span style=\"color: rgb(65, 65, 65);font-size: 13pt;\">100-meter, 200-meter and 4x100-meter relay</span></p></li></ul><h5><span>Biographical Information</span></h5><p><span style=\"font-size: 12pt;\">Noah Lyles is an American sprinter known for his exceptional performances in the 100-meter and 200-meter relays. Born to two former college track and field athletes, Lyles followed in his parents’ athletic footsteps at the age of 12, as did his younger brother, Josephus Lyles, who is also a professional sprinter.</span></p><p><span style=\"font-size: 12pt;\">An advocate for mental health, Lyles often speaks openly about his struggles on social media to combat the stigmatization of mental illness. A sufferer of asthma, Lyles stands as a testament of “mind over body,” refusing to let a respiratory condition define his limits.&nbsp;</span></p><p><span style=\"font-size: 12pt;\">When Lyles isn’t setting records on the track, he’s spinning records in the studio under the name “Nojo18.” With a passion for rap, he’s released several singles. He also </span><span style=\"font-size: 12pt;\">stars in the 2023 documentary series </span><span style=\"font-size: 12pt;\"><em>‘Untitled: The Noah Lyles Project.’</em></span><span style=\"font-size: 12pt;\"> The documentary gives an all-access look at his life and quest to break Usain Bolt's world record in the 200m.</span></p><p><span style=\"font-size: 12pt;\">Lyles, alongside his brother, is a co-founder of the Lyles Brothers Sports Foundation Inc., a nonprofit that provides financial support and athletic empowerment to youths.&nbsp;</span></p><h5><span>Olympic Highlights</span></h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Lyles had a standout Olympic experience at the Tokyo 2020 Olympic Games. Entering as a strong contender, there were high expectations of Lyles going into the games from both fans and competitors. He participated in both the 200m race and the <wbr><wbr></span><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">4x100m relay with the U.S. team.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">During the 200m final, he faced tough competition from athletes like Andre De Grasse from Canada and Kenny Bednarek from the United States. Lyles ultimately secured the bronze medal with a time of 19.74 seconds.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Noah Lyles entered the Paris 2024 Olympic Games with ambitious plans to win gold medals in both the 100m and 200m individual events. He accomplished part of that feat by securing gold in the 100m sprint in a photo finish with a time of 9.79 seconds. Days later, he won the bronze medal in the 200m event behind fellow American </span><span style=\"font-size: 12pt;\">Kenny Bednarek</span><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\"> and Letsile Tebogo of Botswana. It was later revealed that Lyles had raced after being diagnosed with COVID-19, hindering his performance in the event.</span></p><h5><span>World Championship Highlights</span></h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Lyles first participated in the 2019 World Athletic Championships in Doha, Qatar. He entered the competition as one of the top favorites in the 200m race and won the gold medal. His time of 19.83 seconds earned him the victory and marked a major milestone in his career.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Lyles went on to participate in the 2022 World Athletic Championships in Eugene, Oregon. He once again excelled in the 200m event and won the gold medal with a time of 19.31 seconds, setting a new championship record.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">In 2023, Lyles won the 100m, 200m and 4x100m events, making him the first man since Usain Bolt in 2015 to complete the sprint treble at the world championships.&nbsp;</span></p><h5><span>U.S. Championship Highlights</span></h5><p><span style=\"font-size: 12pt;\">Lyles started his senior career in 2017 by adding the national title in the 300m event at the USATF Indoor Championships. He succeeded the indoor world record by 1/100th of a second.</span></p><p><span style=\"font-size: 12pt;\">In 2019, he opened the season in May by running 100m races, finishing with a world leading time of 9.86 in Shanghai. Then at Pietro Mennea Golden Gala meet, he equalled Mennea's long-standing 1979 world record time with a time of 19.72. Lyles later ran the U.S. national championships at the end of July, taking the 200m title.</span></p><p><span style=\"font-size: 12pt;\">He also participated in the U.S. championships in 2023 and won both the 100m event and the 200m event.</span></p><h5><span>Early Career</span></h5><p><span style=\"color: rgb(65, 65, 65);font-size: 12pt;\">Lyles began his career as a U.S. athlete in the Summer Youth Olympic Games Nanjing 2014, where he earned a gold medal. In 2015, he cleared an impressive 2.03m high jump as a junior in high school.&nbsp;</span></p><p><span style=\"color: rgb(65, 65, 65);font-size: 12pt;\">In 2016, Lyles won the 200m event at the New Balance Nationals Indoor in March, and the 100m and 200m events at the Arcadia Invitational in April. Lyles also won the 100m event in the USA Junior Championships. He went on to become a double gold medalist at the 2016 U20 World Championships for both the 100m and the 4 x 100m relay.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 3-time Olympic medalist (1 gold, 2 bronze)</li><ul><li>Olympic Games Paris 2024, gold (100m - Men), bronze (200m - Men)</li><li>Olympic Games Tokyo 2020, bronze (200m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (100m - Men, 200m - Men, 4 x 100m Relay - Men)</li><li>Years of participation: 100m - Men 2023; 200m - Men 2023; 4 x 100m Relay - Men 2023</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2023 (100m - Men, 200m - Men, 4 x 100m Relay - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1722802040/Lyles_Noah_100mParisGOLD.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662427/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lyles_n_hero_996866.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1675149225/lyles_n_avatar_123_pqlpul.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Lyles 996866"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Ian",
+      "last_name": "Lynch",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1984-04-20T00:00:00",
+        "hometown": {
+          "city": "Brooklyn Park",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0833,
+          "longitude": -93.35
+        },
+        "education": "Champlin Park High School (Brooklyn Park, Minn.) ‘02 University of Wisconsin-Whitewater ’08, Elementary Education",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>After being injured in a car accident at age 8, was introduced to wheelchair basketball by his therapist Susan Hagel, a women&#39;s wheelchair basketball legend</li><li>Son of Bradford and Kathleen Lynch</li><li>Has two brothers, Ryan and Sean</li><li>Coaches the Cincinnati Dragons Prep Wheelchair Basketball Team, part of the Greater Cincinnati Adapted Sports Club</li><li>Enjoys fishing, coaching, family, and listening to local music</li><li>Works with a company called Skool Aid who helps develop and run after school pro-grams. He teaches wheelchair basketball. Also started working in web design and recently started a job with Dick’s Sporting Goods.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (1 gold, 1 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Men)</li><li>Paralympic Games London 2012, bronze (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – silver (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2018 (Team - Men);  2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695859/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ian%20Lynch%20828892/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "1.0",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695861/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ian%20Lynch%20828892/Lynch_Ian_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ian Lynch 828892"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelley",
+      "last_name": "Lynch",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2000-10-05T00:00:00",
+        "hometown": {
+          "city": "Newnan",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.3796,
+          "longitude": -84.7994
+        },
+        "education": "East Coweta",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Jan and Steve Lynch</li><li>Dream job is to be an anesthesiologist</li><li>Favorite TV show is The Office</li><li>Three words she&#39;d use to describe her are dedicated, humorous, hard-working</li><li>What does it mean to represent USA Softball: Getting the opportunity to represent USA on the junior team is the biggest accomplishment of my life so far. It has always been my dream, and I am so blessed to get the opportunity to do it this summer along with the other amazing athletes who made the team</li><li>When she started playing softball: I enjoy the competitiveness, the opportunities, and the friendships that softball has allowed me to make</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 USA Softball International Cup Bronze Medalist; Hit .143 (1-for-7) with 1 walk and 2 runs scored</li>\r\n                            <li>Georgia Gatorade Player of the Year</li>\r\n                            <li>Extra Inning Softball&#39;s National Player of the Year</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2019 WBSC U-19 Women's Softball World Cup Gold Medalist; Hit .333 (5-for-15) with 3 RBI and 4 runs scored</li></ul><h5>More</h5><p><strong>CAREER&nbsp;HONORS</strong></p>\n<p><strong>2019:&nbsp;</strong>Gatorade National Player of the Year...Georgia Gatorade Player of the Year</p>\n<p><strong>2018:</strong> Led East Coweta High School to State Championship...Georgia Gatorade Softball Player of the Year...Region 2-AAAAAAA Player and Pitcher of the Year.</p>\n<p><strong>2017:</strong>&nbsp;Led East Coweta High School to State Championship</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321550/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelley%20Lynch/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321551/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelley%20Lynch/Kelley-Lynch.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelley Lynch"
+        }
+      ]
+    },
+    {
+      "first_name": "Jaiden",
+      "last_name": "Lynch",
+      "bio": {
+        "height": "5' 7\"",
+        "birthday": "2005-11-11T00:00:00",
+        "hometown": {
+          "city": "Newport Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6189,
+          "longitude": -117.9289
+        },
+        "education": "Dwight Global Online",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Chelsea and Casey Lynch</li><li>Has two siblings, Storie and Evver</li><li>Favorite dive is 305C on 10-meter</li><li>Working on building a stronger tower list for 2022</li><li>Her favorite diver is Krysta Palmer</li><li>Enjoys travel, skiing, tennis, and baking</li><li>Volunteers at a dog shelter</li><li>Would like to start a nonprofit and give back to children in need</li><li>Her favorite TV show is Great British Baking Show</li><li>If she could meet anyone, she would like to meet Michelle Obama</li></ul><h5>Career Highlights</h5><ul><li>2021 Junior Pan American Championships silver medalist (platform)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362570/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jaiden%20Lynch/Jaiden-Lynch_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jaiden Lynch"
+        }
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Lyons",
+      "bio": {
+        "height": "6'3",
+        "birthday": "1990-06-08T00:00:00",
+        "hometown": {
+          "city": "Mechanicsburg",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.2167,
+          "longitude": -76.9
+        },
+        "education": "Pennsylvania State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Following graduation from Penn State University in 2012, Brandon Lyons began his career with the professional services firm of Ernst &amp; Young (EY) in the greater Washington, D.C. area. During his first year as a consultant for the Big 4 firm, Lyons was recognized as the Supply Chain Rookie of the Year.</li><li>His professional career was off to a great start, but that would quickly change. On May 24, 2014, Lyons dove into shallow water breaking his T5/T6 vertebrae and leaving him paralyzed from the chest down.</li><li>Lyons quickly took on this new challenge and returned to work at EY just four months after his accident, and even completed a marathon just five months after the date of his injury. He relocated to San Diego in 2016 to be closer to an advanced rehabilitation gym, which is where he found his passion for handcycling.</li><li>He was introduced to former Ironman world champion David Bailey, and the two would ride the coast of southern California together as Bailey pushed Lyons to go faster.</li><li>In March 2017, Lyons would be invited to a tryout at the Colorado Springs Olympic Training Center to earn a spot in the residence program.</li><li>Lyons was awarded a spot as the first handcyclist in the residence program and would relocate to Colorado Springs, Colorado exactly three years after the date of his injury on May 24, 2017.&nbsp;Lyons made his first national team in 2019 and continues to work for EY.&nbsp;</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Team Relay - Mixed), 14th (H3 - Road Race - Men), 21th (H3 - Time Trial - Men)</li><li>Years of participation: H3 - Road Race - Men 2019, 2023; H3 - Time Trial - Men 2019, 2023; Team Relay - Mixed 2023; Team Relay - Open 2019</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2019 (Team Relay - Open)</li><li>Bronze – 2023 (Team Relay - Mixed)</li></ul></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (H1-5 - Time Trial - Men, H3-5 - Road Race - Men)</li><li>ParaPan American Games, Lima, 2019 (H1-5 - Time Trial - Open, H3-5 - Road Race - Men)</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 7th (H3 - Road Race - Men), 10th (H3 - Time Trial - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684410933/LyonsMH3ParacyclingRR071022-056.avif"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "MH3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321538/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brandon%20Lyons/Lyons_Brandon_headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brandon Lyons"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para-Cycling"
+        }
+      ]
+    },
+    {
+      "first_name": "Lea",
+      "last_name": "Ma",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2001-02-01T00:00:00",
+        "hometown": {
+          "city": "Dix Hills",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7998,
+          "longitude": -73.3601
+        },
+        "education": "IMG Academy (Bradenton, Fla.) ‘20 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Daughter of Karen Ma.<h5>Career Highlights</h5><ul>\r\n                            <li>2018 US Open Junior Tennis Championships, advanced to round of 16; advanced to round of 16 in doubles with partner Tyra Black</li>\r\n                            <li>2018 Wimbledon Juniors, advanced to round of 16</li>\r\n                            <li>2018 USTA G18-16 National Championships, advanced to round of 32</li>\r\n                            <li>2018 COPA Barranquilla Capital de Vida, runner-up</li>\r\n                            <li>Ranked No. 4 nationally, as of Aug. 21, 2018</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006618/TeamUSA%20Assets/Athlete%20Profiles/Lea%20Ma%201112740/ma_leah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lea Ma 1112740"
+        }
+      ]
+    },
+    {
+      "first_name": "Micah",
+      "last_name": "Ma'a",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1997-04-16T00:00:00",
+        "hometown": {
+          "city": "Kaneohe",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.4,
+          "longitude": -157.8
+        },
+        "education": "Punahou UCLA (2019)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><ul><li>Son of Pono and Lisa Strand-Ma’a</li><li>Has three sisters - Misty, Mehana and Maluhia</li><li>Pono was a two-time men's volleyball All-American at the University of Hawai’i (1984, 1986) and played for the USA National Team in 1986. He also played pro beach volleyball</li><li>Lisa Strand played pro beach volleyball and was a two-time national champion in college at Hawaii in 1982 and 1983</li><li>Micah Lists the NFL’s Tom Brady as the famous athlete he most admires</li><li>Hobbies included bodyboarding and basketball</li><li>Majored in political science</li></ul></li></ul><h5>World Championships Experience</h5><ul><li>2017 FIVB U21 World Championship</li><li>2015 FIVB U19 World Championship (7th)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347138/TeamUSA%20Assets/Migration/Athlete%20Profiles/Micah%20Ma%27a/2019MicahMaa.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Micah Ma'a"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Heather",
+      "last_name": "MaClean",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1995-08-31T00:00:00",
+        "hometown": {
+          "city": "Peabody",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.52926,
+          "longitude": -70.93061
+        },
+        "education": "University of Massachusetts '17",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Robert MacLean and Michele Maurice</li><li>Sister of Michael, Corey, Shannon, William, Alissabeth and Matthew</li><li>Her teammates call her Henry Houdini because when she’s got free time at altitude camps she learns magic card tricks</li><li>Hobbies includes fishing, photography, golfing and hiking.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 New Balance Indoor Grand Prix, 1st (1,500-meter)</li>\r\n                            <li>2020 NYRR Wanamaker Mile, 6th </li>\r\n                            <li>2019 USA Outdoor Championships, 7th (1,500-meter)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 22th (1500m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 7th (1500m (Indoor) - Women)</li><li>Years of participation: 1500m (Indoor) - Women 2022</li><li>Top finish: 7th – 2022 (1500m (Indoor) - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662162/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/maclean_h_hero_1139431.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006639/TeamUSA%20Assets/Athlete%20Profiles/Heather%20MaClean%201139431/Maclean_Heather_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Heather MaClean 1139431"
+        }
+      ]
+    },
+    {
+      "first_name": "Ian",
+      "last_name": "MacDiarmid",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1998-12-28T00:00:00",
+        "hometown": {
+          "city": "Delray Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.4615,
+          "longitude": -80.0728
+        },
+        "education": "US Performance Academic High School (Elkins, New Hampshire), '18 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Blake and Dorothy MacDiarmid</li><li>Began sailing at age 4</li><li>Started racing at age 6</li><li>Hobbies include watching films, go-karting and listening to music.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2025 – 16th (49er - Men)</li><li>Years of participation: 49er - Men 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; 29er - Open 2014, 2015, 2017; 470 - Men 2017</li><li>Top finish: 5th – 2023 (49er - Men)</li></ul><h5>More</h5>US Sailing<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (49er - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006649/TeamUSA%20Assets/Athlete%20Profiles/Ian%20MacDiarmid%201144744/Macdiarmid_Ian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ian MacDiarmid 1144744"
+        }
+      ]
+    },
+    {
+      "first_name": "Kiera",
+      "last_name": "MacKenzie",
+      "bio": {
+        "height": "5’6”",
+        "birthday": "1999-02-04T00:00:00",
+        "hometown": {
+          "city": "Dixon",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.4457,
+          "longitude": -121.823
+        },
+        "education": "Vacaville Christian High School Woodland Community College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I am Christian</li><li>I Co Own a horse business</li><li>I love going hiking</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 US Open Bronze 18-34</li>\r\n                            <li>2022 US Sr. Team Member</li>\r\n                            <li>2021 USANKF Silver 18-34</li>\r\n                            <li>2020 Senior Team Pool</li>\r\n                            <li>2019 Junior Pan American Championship participant</li>\r\n                            <li>2019 USANKF Bronze 18-34</li>\r\n                            <li>2019 USANKF Silver 18-20</li>\r\n                            <li>2018 US Open Gold 18-20</li>\r\n                            <li>2018 US Open Bronze 18-34 </li>\r\n                            <li>2014 National Champion</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2019 Jr Pan American Championship Participant</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365542/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kiera%20MacKenzie/KieraMackenzie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kiera MacKenzie"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "MacKinnon",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2000-04-13T00:00:00",
+        "hometown": {
+          "city": "Plymouth",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.3703,
+          "longitude": -83.4702
+        },
+        "education": "TPH Center of Excellence (Canton, Michigan) ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5></p>\n<ul>\n    <li>2015 Michigan State Tier 1 national champions with Major Bantam AAA</li>\n    <li>2015 USA Hockey Tier 1 14U national champions with Major Bantam AAA</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Daniel and Julie MacKinnon</li><li>Has one sibling, Maggie</li><li>Father, Daniel, is the director of player personnel for the Pittsburgh Penguins</li><li>Mother, Julie, was a lightweight rower at Queen&rsquo;s University in Canada</li><li>Attended the 2015 USA Hockey 15s Festival in Buffalo, New York</li><li>Hobbies include golf, tennis, weightlifting, jet skiing and watching MMA fighting.</li></ul><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720016/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20MacKinnon%20914580/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720019/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20MacKinnon%20914580/IceHockey_MacKinnon_Will_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will MacKinnon 914580"
+        }
+      ]
+    },
+    {
+      "first_name": "Catarina",
+      "last_name": "Macario",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1999-10-04T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": " Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Two-time NCAA Champion (2017, 2019)</li><li>Three-time Pac-12 Champion (2017-19)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006635/TeamUSA%20Assets/Athlete%20Profiles/Catarina%20Macario%20820048/Macario_Catarina_150x250.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006635/TeamUSA%20Assets/Athlete%20Profiles/Catarina%20Macario%20820048/Macario_Catarina_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Catarina Macario 820048"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Soccer"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyle",
+      "last_name": "Mack",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1997-07-06T00:00:00",
+        "hometown": {
+          "city": "West Bloomfield",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.5667,
+          "longitude": -83.3833
+        },
+        "education": "Brother Rice High School (Birmingham, Mich.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started snowboarding at age 3</li><li>Hobbies include skating and watching baseball.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Pyeongchang 2018, silver (Big Air - Men), 23th (Slopestyle - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – bronze (Big Air - Men, Slopestyle - Men)</li><li>Years of participation: Big Air - Men 2015; Slopestyle - Men 2015</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2015 (Big Air - Men, Slopestyle - Men)</li></ul></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006717/TeamUSA%20Assets/Athlete%20Profiles/Kyle%20Mack%20932766/mack_kyle_1200x300_2.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006719/TeamUSA%20Assets/Athlete%20Profiles/Kyle%20Mack%20932766/mack_kyle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kyle Mack 932766"
+        }
+      ]
+    },
+    {
+      "first_name": "Katherine",
+      "last_name": "Mackey",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1987-11-12T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "Fort Collins High School (Fort Collins, Colo.) ‘06; University of Washington ’10, Public Health",
+        "fun_fact": null,
+        "biography": "<strong></strong><p></p><div></div><div><ul></ul><p></p><h5>Career Highlights</h5><ul><li>2014 U.S. Outdoor Championships, 3rd (1,500-meter)</li><li>2014 World Relay Championships, silver (4x1,500-meter) – American Record</li><li>2014 U.S. Indoor Championships, 5th (1,500-meter)</li><li>2013 London Diamond League, 3rd (1,500-meter)</li><li>2013 U.S. Outdoor Championships, 8th (5,000-meter), 9th (1,500-meter)</li><li>2012 U.S. Olympic Team Trials, 9th (1,500-meter)<br /></li></ul><p></p><h5>Quick Facts</h5><ul><li>Daughter of Kevin and Karen Follett</li><li>Has two sisters, Kizzy and Krystle</li><li>Hobbies include cooking, hiking, reading, and playing piano and cello</li><li>Speaks Spanish.</li></ul><br /><p></p><h5>More</h5>Personal Website&nbsp;<br /></div><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 8th (3000m (Indoor) - Women)</li><li>Years of participation: 3000m (Indoor) - Women 2018</li><li>Top finish: 8th – 2018 (3000m (Indoor) - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Katherine Mackey"
+        }
+      ]
+    },
+    {
+      "first_name": "Lauren",
+      "last_name": "Macuga",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2002-07-04T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": "Park City Winter Sports School",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Downhill and Super-G</li><li>Daughter of Dan and Amy Macuga</li><li>Has two sisters, Alli, a mogul skier on Team USA, and Sam, a ski jumper on the team</li><li>Owns 26+ bucket hats</li></ul><h5>Biographical Information</h5><p>Lauren Macuga started ski racing at age seven in Park City, Utah, and is one of three Macuga siblings currently on the U.S. ski team joining her sister, Alli, a mogul skier, and Sam, a ski jumper. Her parents, Dan and Amy, have a spreadsheet to track where in the world they are competing at any time.</p><p>In January 2025, Lauren Macuga won her first FIS World Cup event in super-G to b<span>ecome the youngest American since Lindsey Vonn</span><span><strong> </strong></span><span>in 2007 to win a world cup speed race. At the 2025 FIS World Championships, Macuga won bronze by tying for third in the super-G. In her world championships debut, Macuga finished in the top five in all three of her events.</span></p><p><span>Off the slopes, she enjoys reading and mountain biking. She also enjoys competing with her siblings in card games and Mario Kart since they all have settled in different Olympic sports.</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – bronze (Super G - Women), 4th (Team Alpine Combined - Women), 5th (Downhill - Women)</li><li>Years of participation: Downhill - Women 2025; Super G - Women 2025; Team Alpine Combined - Women 2025</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2025 (Super G - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>World Cup, 2024 (Super G - Women, Downhill - Women, Overall - Women)</li><li>Junior World Championships, St. Anton am Arlberg, 2023 (Team Alpine Combined - Women, Super G - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1748368591/TeamUSA%20Assets/2025/2025%20Universal%20Promo%20Shoot/Day%204%20Photos/Macuga_Lauren_Universal_2025.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747759499/TeamUSA%20Assets/Athlete%20Profiles/Lauren%20Macuga%201181230/macuga_l_hero_1181230_01.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747759499/TeamUSA%20Assets/Athlete%20Profiles/Lauren%20Macuga%201181230/macuga_l_hero_1181230_01.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742498937/TeamUSA%20Assets/Athlete%20Profiles/Lauren%20Macuga%201181230/macuga_l_hero_1181230.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Kamran",
+      "last_name": "Madani",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1996-09-09T00:00:00",
+        "hometown": {
+          "city": "Broomfield",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.92,
+          "longitude": -105.086
+        },
+        "education": "Broomfield High School University of Colorado ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I started Karate at the age of 5 as having a dojo is my family’s business. I was a little bit of a wild child so after a short time I was taken out of class and then joined back again at the age of 6! Really though I have been doing karate my whole life as my mom was training while still pregnant with me</li><li>Three things you may not know about me are that I like cars and racing a lot, I am Iranian, and unlike many people, I really enjoy public speaking!</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (-84kg Kumite - Men)</li><li>World Junior, Cadet & U21 Championships, Jakarta, 2015 (-84kg Kumite (U21) - Men)</li><li>World Junior & Cadet Championships, Guadalajara, 2013 (-76kg Kumite - Men)</li><li>World Junior & Cadet Championships, Malacca, 2011 (-70kg Kumite (Cadet) - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – 33th (Team Kumite - Men), 64th (-84kg Kumite - Men)</li><li>Years of participation: -84kg Kumite - Men 2018, 2021; Team Kumite - Men 2016, 2018, 2021</li><li>Top finish: 19th – 2016 (Team Kumite - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010560/TeamUSA%20Assets/Athlete%20Profiles/Kamran%20Madani%20823266/KamranMadani.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kamran Madani 823266"
+        }
+      ]
+    }
+  ]
+}

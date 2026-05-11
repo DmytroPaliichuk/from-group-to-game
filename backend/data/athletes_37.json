@@ -1,0 +1,706 @@
+{
+  "entries": [
+    {
+      "first_name": "Maya",
+      "last_name": "DiRado",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1993-04-05T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "Maria Carillo High School (Santa Rosa, Calif.) '10 Stanford University '14, Management Science and Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ruben and Marit DiRado</li><li>Has one sibling, Sarah</li><li>Married to Rob Andrews, who also swam at Stanford University</li><li>Began swimming at age 6</li><li>Will start as business analyst with McKinsey &amp; Company in the fall of 2016</li><li>Interests include hiking, cooking, baking practicing yoga, Pilates, volunteering and reading.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 4-time Olympic medalist (2 gold, 1 silver, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (200m Backstroke - Women, 4 x 200m Freestyle Relay - Women), silver (400m Individual Medley - Women), bronze (200m Individual Medley - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – silver (400m Individual Medley - Women), 4th (200m Individual Medley - Women)</li><li>Years of participation: 200m Individual Medley - Women 2015; 400m Individual Medley - Women 2013, 2015; 200m Butterfly - Women 2013; 4 x 200m Freestyle Relay - Women 2013; 100m Individual Medley (SC) - Women 2012; 200m Individual Medley (SC) - Women 2012; 400m Individual Medley (SC) - Women 2012</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2013 (4 x 200m Freestyle Relay - Women)</li><li>Silver – 2015 (400m Individual Medley - Women)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927164/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maya%20DiRado/dirado_maya_081116_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927165/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maya%20DiRado/DiRado_Maya_150x25.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maya DiRado"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "DiSanto",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1989-12-10T00:00:00",
+        "hometown": {
+          "city": "Boston",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3601,
+          "longitude": -71.0589
+        },
+        "education": "Belmont Hill School (Belmont, Mass.) ‘08 Harvard University ‘12, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Joseph and Virginia DiSanto</li><li>Has one sister, Katherine</li><li>Interests include weightlifting, running and watching movies.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 4th (Eight - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (Eight - Men)</li><li>Years of participation: Eight - Men 2018, 2019; Pair - Men 2013, 2015</li><li>Top finish: 4th – 2018 (Eight - Men)</li></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716116/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20DiSanto%20868047/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716117/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20DiSanto%20868047/disanto_mike_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael DiSanto 868047"
+        }
+      ]
+    },
+    {
+      "first_name": "Alexander",
+      "last_name": "Diaz",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-07-06T00:00:00",
+        "hometown": {
+          "city": "Boston",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3601,
+          "longitude": -71.0589
+        },
+        "education": "Madison Park High School (Boston, Mass.) '09",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>B-Boy name is &quot;B-boy El Nino&quot;</li><li>Father of two boys, married</li><li>Signed Red Bull athlete</li><li>Dance studio owner, Event promoter</li><li>Loves basketball, football and music</li><li>President of Floor Lords Crew</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 Freestyle Session Champion</li>\r\n                            <li>2021: B-boy City Champion</li>\r\n                            <li>2018: BIS Champion</li>\r\n                            <li>2016: Outbreak Undisputed Champion, Freestyle Session Champion</li>\r\n                            <li>2014: Freestyle Session Champion</li>\r\n                            <li>2013: Freestyle Session Champion</li>\r\n                            <li>2012: Break Free Champion</li>\r\n                            <li>2011: B-boy of the Year, BC One National Champion, World B-boy Classic Champion, Break Free Champion</li>\r\n                            <li>2009: Spy Award Winner</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Breaking",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367224/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alexander%20Diaz/diaz_alexander_2023_BioHeadshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alexander Diaz"
+        }
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Dickson",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1984-11-03T00:00:00",
+        "hometown": {
+          "city": "Prattville",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 32.4635,
+          "longitude": -86.4583
+        },
+        "education": "Marbury High School (Deatsville, AL) Tusculum College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Was signed as an undrafted free agent by the St. Louis Cardinals in 2006</li><li>In 2019, he was selected to play with the U.S. National Baseball Team at the 2019 WBSC Premier 12, where he tied for the tournament lead with three saves, along with Japan’s Yasuaki Yamasaki</li><li>Named the best reliever at the 2019 WBSC Premier 12</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Premier12 All-World Team, Relief Pitcher</li>\r\n                            <li>2012 PCL Mid-Season All-Star</li>\r\n                            <li>2010 PCL Mid-Season All-Star</li>\r\n                            <li>2010 MiLB.com St. Louis Cardinals Organizational All-Star</li>\r\n                            <li>2007 MID Mid-Season All-Star</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005698/TeamUSA%20Assets/Athlete%20Profiles/Brandon%20Dickson%201202827/Dickson_Brandon_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brandon Dickson 1202827"
+        }
+      ]
+    },
+    {
+      "first_name": "Mick",
+      "last_name": "Dierdorff",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1991-04-30T00:00:00",
+        "hometown": {
+          "city": "Steamboat Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.4844,
+          "longitude": -106.8317
+        },
+        "education": "Steamboat Springs High School (Steamboat Springs, Colo.) University of Utah, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mary and Skip Dierdorff</li><li>Has one sister, Molly</li><li>Started snowboarding at age 10</li><li>Frames houses part time</li><li>Hobbies include camping, fishing, hiking, hunting, mountain biking, and playing golf.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022, 15th (Snowboardcross - Men)</li><li>Olympic Games Pyeongchang 2018, 5th (Snowboardcross - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2023 – 17th (Snowboardcross - Men)</li><li>Years of participation: Snowboardcross - Men 2019, 2021, 2023; Snowboard Cross Team - Mixed 2019</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2019 (Snowboard Cross Team - Mixed, Snowboardcross - Men)</li></ul></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927281/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mick%20Dierdorff/dierdorff_mick_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927282/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mick%20Dierdorff/dierdorff_mick_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mick Dierdorff"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Snowboarding"
+        }
+      ]
+    },
+    {
+      "first_name": "AJ",
+      "last_name": "Digby",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-09-30T00:00:00",
+        "hometown": {
+          "city": "Tontogany",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.4556,
+          "longitude": -83.7
+        },
+        "education": "Otsego High School (Tontogany, Ohio) ‘16 University of Mount Union (Alliance, Ohio) ‘20",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Gordon and Robin Digby</li><li>Has a younger brother Keegan and a younger sister Ashlynn</li><li>Born with bilateral fibular hemimelia, a rare condition in which the fibulas in his legs were never formed</li><li>Had both his legs amputated below the knee when he was 10 months old and was fitted for prostheses just after his first birthday</li><li>Member of the national championship-winning 4x400m relay team at the 2017 NCAA Division III Outdoor Track and Field Championships</li><li>Former member of the U.S. national development sled hockey team</li><li>Played quarterback and linebacker for his Otsego High School junior varsity football team and special teams on the varsity squad</li><li>Enjoys football, sled hockey, auto racing and choir</li><li>First learned about Paralympic track and field after watching the Beijing 2008 Paralympic Games online</li><li>Considers U.S. teammate Jerome Singleton, the first Paralympian he ever met, a mentor after being taken under his wing</li><li>Favorite film franchise is Star Wars</li><li>Aspires to be a college football coach.</li></ul><h5>Paralympic Experience </h5><ul><li>One-time Paralympian (2016)</li><li>Rio 2016 Paralympic Games, 4th (400m), 5th (200m), 6th (4x100m relay)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (400m), 4th (200m)</li><li>Years of Participation: 2015, 2017</li><li>Medals: 1 (1 bronze)</li><li>Bronze – 2017 (400m)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T62",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927188/TeamUSA%20Assets/Migration/Athlete%20Profiles/AJ%20Digby/Digby_Austin250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "AJ Digby"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessie",
+      "last_name": "Diggins",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1991-08-26T00:00:00",
+        "hometown": {
+          "city": "Afton",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9008,
+          "longitude": -92.7755
+        },
+        "education": "Stillwater Area High School ‘10",
+        "fun_fact": "Made history as part of the first U.S. team to win an Olympic gold medal in cross-country skiing at the Olympic Winter Games PyeongChang 2018",
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Specialty</strong></span><span style=\"font-size: 11pt;\">: Cross-Country Skiing</span></p></li><li><p><span style=\"font-size: 11pt;\">Daughter of Deb and Clay Diggins. She has a younger sister, Mackenzie</span></p></li><li><p><span style=\"font-size: 11pt;\">Began skiing at age 3</span></p></li><li><p><span style=\"font-size: 11pt;\">Enjoys dancing, hiking, canoeing, camping, swimming, reading, gardening and cooking</span></p></li><li><p><span style=\"font-size: 11pt;\">Made history as part of the first U.S. team to win an Olympic gold medal in cross-country skiing at the Olympic Winter Games PyeongChang 2018</span></p></li><li><span style=\"font-size: 11pt;\">Advocate for eating disorder awareness and serves as an ambassador for The Emily Program, an eating disorder recovery center</span></li></ul><h5><strong>Biographical Information</strong></h5><p><span style=\"font-size: 11pt;\">Jessie Diggins is an American cross-country skier and Olympic champion. She was born in Afton, Minnesota, and began skiing at the age of three. She emerged as a top competitor in the U.S. junior ranks before making her world cup debut in 2011.</span></p><p><span style=\"font-size: 11pt;\">Diggins made history at the Olympic Winter Games PyeongChang 2018, teaming up with Kikkan Randall to win gold in the team sprint—the first Olympic gold medal in U.S. cross-country skiing history. She continued her success at the Olympic Winter Games Beijing 2022, earning a silver in the individual sprint and a bronze in the 30-kilometer freestyle.</span></p><p><span style=\"font-size: 11pt;\">Beyond the Olympics, Diggins has excelled on the world cup circuit, winning the overall title in 2021 and multiple world championship medals. Off the snow, she is an advocate for eating disorder recovery and serves as a spokesperson for The Emily Program, an eating disorder treatment center. Diggins is also an ambassador for Fast and Female, a non-profit that supports young women in sports, and Protect Our Winters (POW), an organization dedicated to finding solutions to climate change through the outdoor sports community.</span></p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 4-time Olympic medalist (1 gold, 1 silver, 2 bronze)</li><ul><li>Olympic Games Milan 2026, bronze (10km Freestyle - Women), 5th (4 x 7.5km Relay - Women, 50km Classic Style - Women, Team Sprint Freestyle - Women), 8th (2 x 10km Skiathlon - Women), 17th (Sprint Classic Style - Women)</li><li>Olympic Games Beijing 2022, silver (30km Freestyle - Women), bronze (Sprint Freestyle - Women), 5th (Team Sprint Classic Style - Women), 6th (2 x 7.5km Skiathlon - Women, 4 x 5km Relay - Women), 8th (10km Classic Style - Women)</li><li>Olympic Games Pyeongchang 2018, gold (Team Sprint Freestyle - Women), 5th (10km Freestyle - Women, 2 x 7.5km Skiathlon - Women, 4 x 5km Relay - Women), 6th (Sprint Classic Style - Women), 7th (30km Classic Style - Women)</li><li>Olympic Games Sochi 2014, 8th (2 x 7.5km Skiathlon - Women, 4 x 5km Relay - Women), 13th (Sprint Freestyle - Women), 38th (30km Freestyle - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – silver (Team Sprint Classic Style - Women), 6th (4 x 7.5km Relay - Women), 13th (2 x 10km Skiathlon - Women), 22th (50km Freestyle - Women), 23th (Sprint Freestyle - Women)</li><li>Years of participation: 2 x 10km Skiathlon - Women 2025; 4 x 7.5km Relay - Women 2025; 50km Freestyle - Women 2025; Sprint Freestyle - Women 2011, 2017, 2019, 2025; Team Sprint Classic Style - Women 2017, 2019, 2025; 10km Freestyle - Women 2013, 2015, 2021, 2023; 4 x 5km Relay - Women 2011, 2013, 2015, 2017, 2019, 2021, 2023; Sprint Classic Style - Women 2021, 2023; Team Sprint Freestyle - Women 2013, 2015, 2023; 2 x 7.5km Skiathlon - Women 2011, 2017, 2021; 10km Classic Style - Women 2019; 30km Freestyle - Women 2017, 2019; 30km Classic Style - Women 2013, 2015</li><li>Medals: 7 (2 gold, 3 silver, 2 bronze)</li><ul><li>Gold – 2023 (10km Freestyle - Women);  2013 (Team Sprint Freestyle - Women)</li><li>Silver – 2025 (Team Sprint Classic Style - Women);  2017 (Sprint Freestyle - Women);  2015 (10km Freestyle - Women)</li><li>Bronze – 2023 (Team Sprint Freestyle - Women);  2017 (Team Sprint Classic Style - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686058392/TeamUSA%20Assets/Migration/Diggins_Jessie_022823_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cross-Country Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684898671/TeamUSA%20Assets/Migration/Pages/diggins_jessie_020522_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770909683/Diggins_J_featured_881331.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005650/TeamUSA%20Assets/Athlete%20Profiles/Jessie%20Diggins%20881331/Diggins_Jessie_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessie Diggins 881331"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Cross-Country Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Skylar",
+      "last_name": "Diggins-Smith",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1990-08-02T00:00:00",
+        "hometown": {
+          "city": "South Bend",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 41.6834,
+          "longitude": -86.25
+        },
+        "education": "University of Notre Dame ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Born in her hometown of South Bend, Indiana</li><li>Married former Notre Dame football player Daniel Smith in April 2017, and had their first child in 2019</li><li>Daughter of Renee Scott and Tige Diggins and stepdaughter to Maurice Scott; has three brothers, Destyn Diggins, Maurice Scott, Jr. and Tige Diggins, Jr.; and one sister, Haneefah Davis.</li></ul><h5>Career Highlights</h5><ul><li>All-WNBA second team: 2020</li><li>All-WNBA first team: 2014</li><li>WNBA All-Star Games: 2014, 2017</li><li>WNBA All-Rookie Team: 2013</li><li>WNBA Most Improved Player: 2014</li><li>2012 FIBA 3x3 World Championship (Gold)</li><li>2011 World University Games (Gold)</li><li>2009 FIBA U19 World Championship (Gold)</li><li>2008 FIBA Americas U18 Championship (Gold)</li></ul><h5>World Championships Experience</h5><p>FIBA 3x3 World Cup Experience 2014 (gold)</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661985/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Diggins-Smith_S_bio_1194916.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662301/TeamUSA%20Assets/Athlete%20Profiles/Skylar%20Diggins-Smith%201194916/digginssmith_s_hero_1194916.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005702/TeamUSA%20Assets/Athlete%20Profiles/Skylar%20Diggins-Smith%201194916/Diggins_Smith_Skylar.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Skylar Diggins-Smith 1194916"
+        }
+      ]
+    },
+    {
+      "first_name": "Faith",
+      "last_name": "Dillon",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2002-06-23T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Brendan and Doison Dillon</li><li>Started and fell in love with taekwondo in 2007</li><li>Enjoys being around family and friends on her off time</li><li>Favorite Athlete is Sydney McLaughlin-Levrone</li><li>Favorite quote:<span> \"There are no steps backwards, just steps in different directions.\" - Brendan Dillon</span></li><li>Her favorite film is Disney's \"Hercules\" and her favorite TV show is \"Game of Thrones\"</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 17th (Lightweight 57-62kg - Women)</li><li>Years of participation: Lightweight 57-62kg - Women 2022, 2023</li><li>Top finish: 17th – 2022 (Lightweight 57-62kg - Women), 2023 (Lightweight 57-62kg - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 11th (Featherweight 49-57kg - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707764928/TeamUSA%20Assets/Migration/Athlete%20Profiles/Faith%20Dillon%201113720/Dillon_Faith_Avatar.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707764928/TeamUSA%20Assets/Migration/Athlete%20Profiles/Faith%20Dillon%201113720/Dillon_Faith_Avatar.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Faith Dillon 1113720"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Taekwondo"
+        }
+      ]
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Dincoff",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1993-12-24T00:00:00",
+        "hometown": {
+          "city": "Auburn",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 41.362,
+          "longitude": -85.0572
+        },
+        "education": "Auburn University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of John Dincoff and Linda Beck</li><li>Addicted to eating dark chocolate</li><li>Hobbies include eating, training, sleeping, and laughing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014 Outdoor All-American (shot put)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 27th (Discus Throw - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 24th (Discus Throw - Women)</li><li>Years of participation: Discus Throw - Women 2022</li><li>Top finish: 24th – 2022 (Discus Throw - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662700/TeamUSA%20Assets/Athlete%20Profiles/Rachel%20Dincoff%201140291/Dincoff_R_Bio_1140291.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005707/TeamUSA%20Assets/Athlete%20Profiles/Rachel%20Dincoff%201140291/Dincoff_Rachel.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rachel Dincoff 1140291"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Ding",
+      "bio": {
+        "height": "5'6",
+        "birthday": "2004-09-28T00:00:00",
+        "hometown": {
+          "city": "Cupertino",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.323,
+          "longitude": -122.0322
+        },
+        "education": "Laurel Springs School Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She collects pins or keychains from places she travels</li><li>She grew up in Cupertino, which is where Apple was founded</li><li>She has the same birthday as her grandma</li><li>Her brother got to name her, and he chose Emily after the character in Clifford the Big Red Dog</li><li>She was terrified of Alvin and the Chipmunks when she was little</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 FINA World Series Super Final: 1st (Highlight)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Virtual Australia: 1st (Tech Team), 1st (Highlight)</li>\r\n                            <li>2021 Junior Pan American Games: 2nd (Team), 2nd (Highlight)</li>\r\n                            <li>2021 U.S. junior national team member</li>\r\n                            <li>2021 U.S. senior national team member</li>\r\n                            <li>2019 U.S. National Championship: 2nd (Team), 2nd (Combo), 3rd (Duet)</li>\r\n                            <li>2019 U.S. 13-15 national team member</li>\r\n                            <li>2018 UANA Pan American Championship: 2nd (Team), 1st (Combo)</li>\r\n                            <li>2018 Comen Cup: 7th (Team), 7th (Combo)</li>\r\n                            <li>2018 U.S. 13-15 Championship: 1st (Team), 1st (Combo)</li>\r\n                            <li>2017 U.S. Junior Olympic Championship: 1st (Team), 1st (Combo), 2nd (Duet)</li>\r\n                            <li>2016 U.S. 12U national team member</li>\r\n                            <li>2016 U.S. Junior Olympics: 1st (Team), 2nd (Combo)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2019 FINA Youth World Championships: 12th (Duet), 8th. (Team)</li><li>2022 FINA World Championships: 5th (Highlight)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366148/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Ding/Emily.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Ding"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Dinsmore",
+      "bio": {
+        "height": "5' 5\"",
+        "birthday": "1997-05-25T00:00:00",
+        "hometown": {
+          "city": "New Albany",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.0895,
+          "longitude": -82.8235
+        },
+        "education": " University of Miami",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>David is the son of Allan (a project manager in construction) and Stephanie (a teacher) Dinsmore and has a younger brother, Matthew</li><li>He has been diving since age nine and his favorite dive in 5255B</li><li>He trains five hours a day, five days a week</li><li>He had wrist surgery in August, 2014 and wasn't able to get back on 10-meter until February, 2015</li><li>His favorite diver is Dmitri Sautin</li><li>He likes to listen to electronic dance music in between dives during competition</li><li>His favorite food is Skyline Chili. David's favorite movies anything featuring Will Farrell</li><li>When he is not diving, David enjoys fishing and is an avid car enthusiast</li><li>Majoring in sports administration at the University of Miami</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Tokyo, 2021 (10m Platform Synchro - Men)</li><li>World Cup Final, Wuhan, 2018 (10m Platform - Men, Team Event - Mixed)</li><li>World Cup, Rio de Janeiro, 2016 (10m Platform - Men)</li><li>World Cup, Shanghai, 2014 (10m Platform - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 12th (10m Platform - Men)</li><li>Years of participation: 10m Platform - Men 2015, 2017, 2019; Team Event - Mixed 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Team Event - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716122/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Dinsmore%20809693/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716124/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Dinsmore%20809693/David-Dinsmore-150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Dinsmore 809693"
+        }
+      ]
+    },
+    {
+      "first_name": "Tori",
+      "last_name": "Dixon",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1992-08-04T00:00:00",
+        "hometown": {
+          "city": "Burnsville",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.7667,
+          "longitude": -93.2833
+        },
+        "education": "Burnsville (Minnesota) Senior High School University of Minnesota",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of David and Pamela Dixon</li><li>Father David Dixon played 11 seasons in the National Football League and is the second player from New Zealand to compete in the NFL</li><li>Majored in sport management at University of Minnesota with a focus on communications.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2014, 2018</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2014 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>Most Notable</strong></p>\n<ul>\n    <li>Second Best Blocker award at 2019 NORCECA Women's Continental Championship</li>\n    <li>Best Blocker at 2018 FIVB Volleyball Nations League as Team USA won gold</li>\n    <li>Best Blocker at 2016 NORCECA Olympic Qualification Tournament with the U.S. winning gold</li>\n    <li>Best Blocker at 2015 FIVB World Cup</li>\n    <li>Member of 2014 FIVB World Championship gold-medal team, starting six of the 13 matches and converting 52.2 percent of attacks into points along with a 0.24 ace average</li>\n    <li>Helped U.S. win the 2015 FIVB World Grand Prix title, starting eight of 14 matches with a 2.61 points per set average and 42.9 kill percent</li>\n    <li>Selected Best Blocker at 2014 Pan American Cup, averaging 0.74 blocks per set</li>\n</ul>\n<p><strong>MAJOR INTERNATIONAL COMPETITION:</strong><br>\n<strong>2019 - </strong>FIVB Volleyball Nations League (Gold), Tokyo Qualification Tournament (1st); FIVB World Cup (Silver); NORCECA Women's Continental Championship (Silver)<br>\n<strong>2018 - </strong>FIVB Volleyball Nations League (Gold); FIVB World Championship (5th Place)<br>\n<strong>2017 - </strong>FIVB World Grand Prix (5th Place); USA Volleyball Cup vs. Brazil; FIVB World Grand Champions Cup (Bronze)<br>\n<strong>2016 - </strong>NORCECA Olympic Qualification Tournament (Gold)<br>\n<strong>2015</strong> - USA Volleyball Cup vs. China... FIVB World Grand Prix (Gold)...FIVB World Cup (Bronze)...NORCECA Championship (Gold)<br>\n<strong>2014</strong> &ndash; Montreux Volley Masters (Silver)&hellip;Pan American Cup (Silver)&hellip;USA Volleyball Cup vs Brazil...FIVB World Grand Prix (5th Preliminary Round)...FIVB World Championship (Gold).</p>\n<p><strong>Did You Know</strong></p>\n<ul>\n    <li>Had heart surgery in 2013 prior to her senior season at the University of Minnesota to enable her to continue playing volleyball</li>\n    <li>After successful 2015 FIVB World Cup and 2016 NORCECA Olympic Qualification Tournament and being a prime candidate for spot on 2016 Olympic Games roster, she suffered ACL tear in January 2016 while competing in Japan V-League and missed rest of season. Returned to action in summer of 2017.</li>\n    <li>Father David Dixon played 11 seasons in the National Football League (New England Patriots in 1992, Dallas Cowboys in 1993, Minnesota Vikings 1994-2004) and is the second player from New Zealand to compete in the NFL</li>\n    <li>Mother is Pamela Dixon and siblings are brothers Tahi and Kai, and sister Zealin</li>\n    <li>Majored in sport management at the University of Minnesota with a focus on communications</li>\n    <li>Selected AVCA All-America First-Team in 2013 as a senior at the University of Minnesota after being a Second-Team selection 2012</li>\n    <li>Competed in the NCAA Division I Sweet 16 in all four years while playing at University of Minnesota</li>\n    <li>Leading scorer on the U.S. Girls' Youth National Team that captured gold at the 2008 NORCECA Girls' Youth Continental Championship</li>\n    <li>Claimed all-tournament honors in final three seasons competing in the USA Volleyball Girls' Junior National Championships</li>\n</ul>\n<p><strong>Tori Dixon's Favorites</strong><br>\n<strong>Food:</strong> Pizza ... <strong>Athlete:</strong> Lebron James</p>\n<p><strong>Hobbies and Interests:</strong> Exploring, any outdoor activity- tanning, pool, hiking, beach, dogs!</p>\n<p><strong>Path to the Podium</strong></p>\n<ul>\n    <li>Started playing indoor club volleyball in 2005 with Northern Lights</li>\n    <li>Selected all-tournament in her last three seasons competing in USA Volleyball Girls&rsquo; Junior National Championships (2006-2009)</li>\n    <li>Led U.S. Girls&rsquo; Youth National Team in scoring and the gold medal at 2008 NORCECA U18 Continental Championship</li>\n    <li>Selected AVCA First-Team All-America as a senior at University of Minnesota in 2013 after being a second-team team pick in 2012</li>\n    <li>Made U.S. Women&rsquo;s National Team debut at the 2014 Montreux Volley Masters</li>\n    <li>Helped U.S. win gold at 2014 FIVB World Championship</li>\n    <li>Alternate for 2016 U.S. Olympic Team roster after suffering ACL tear in early 2016</li>\n</ul>\n<p><strong>Related Links</strong></p>\n<ul>\n    <li>TeamUSA: One Step at a Time as Tori Dixon Worked her Way Back (Aug. 1, 2017)</li>\n    <li>KARE TV: Road to Rio on Tori Dixon (April 13, 2016)</li>\n    <li>St. Paul Pioneer Press: Tori Dixon is a World Champion Now (Oct. 16, 2014)</li>\n    <li>Dixon, Wittman in Fourth NCAA Sweet 16 Together as Teammates at University of Minnesota (Dec. 13, 2013)</li>\n    <li>Minneapolis Star-Tribune Article on Dixon Opting for Heart Surgery to Continue Playing Volleyball (Nov. 6, 2013)</li>\n    <li>St. Paul Pioneer Press: Tori Dixon No Longer in Father's Shadow</li>\n    <li>MaxPreps: Blocking Skills in Tori Dixon's Genes (Oct. 4, 2009)</li>\n</ul><h5>Career Highlights</h5><ul><li>World Cup, 2019 (Team - Women)</li><li>World Cup, 2015 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927184/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tori%20Dixon/pToriDixon20.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tori Dixon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "entries": [
+    {
+      "first_name": "Joe",
+      "last_name": "Berenyi",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1968-11-11T00:00:00",
+        "hometown": {
+          "city": "Aurora",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.7598,
+          "longitude": -88.3006
+        },
+        "education": "Aurora Central Catholic (Aurora, Ill.) ‘87 Waubonsee Community College ‘89, Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Fell in love with cycling in the early 90’s and found success in a handful of amateur races</li><li>He was a member of the Illinois-based ABC Cycle Club, and was an able-bodied cyclist before a construction accident in 1994 cost him his right arm and severely injured a kneecap</li><li>Only had three years of experience riding at the national level when he went on to win three medals at the London Games</li><li>Son of Joe and Dolores Berenyi</li><li>Has one brother, Dan, and one sister, Lori</li><li>Married Jill Berenyi on Oct. 7,1995</li><li>Has three daughters, Sydney, Gwen and Tatum</li><li>Hobbies include reading and woodwork</li><li>Was named the USOPC’s Men’s Paralympic Athlete of the Year in 2015</li><li>Was nominated for an ESPY in 2015 in the Best Male Athlete with a Disability category.</li></ul><h5>Paralympic Experience</h5><ul><li>Three-time Paralympian (2012, 2016, 2020); Four-time Paralympic Medalist (1 gold, 2 silvers, 1 bronze)</li><li>Paralympic Games Tokyo 2020, 6th (track team sprint), 7th (track individual pursuit), 11th (track time trial), 14th (road time trial), DNF (road race)</li><li>Paralympic Games Rio 2016, silver (track pursuit), 4th (track team sprint), 5th (track time trial), 6th (road time trial), 10th (road race)</li><li>Paralympic Games London 2012, gold (track individual pursuit), silver (track time trial), bronze (track team sprint)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 - Track - 4th (scratch), 6th (time trial), 9th (individual pursuit); 2020 – Track – bronze (team sprint), 4th (scratch, time trial, omnium), 6th (individual pursuit); 2019 – Road – 11th (time trial), 14th (road race)</li><li>Years of Participation: Road – 2013, 2014, 2015, 2019; Track – 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2023</li><li>Medals: 16 (9 golds, 4 silvers, 3 bronzes)</li><li>Gold – 2019 (track time trial); 2018 (track time trial); 2017 (time trial, team sprint, scratch race); 2016 (time trial, pursuit); 2015 (time trial, pursuit)</li><li>Silver – 2019 (scratch); 2017 (pursuit); 2015 (scratch); 2014 (pursuit)</li><li>Bronze – 2020 (team sprint); 2019 (team sprint); 2018 (pursuit)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "MC3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924235/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joe%20Berenyi/Berenyi_Joe_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joe Berenyi"
+        }
+      ]
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Berg",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1975-01-06T00:00:00",
+        "hometown": {
+          "city": "Santa Fe Springs",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9317,
+          "longitude": -118.0709
+        },
+        "education": "Santa Fe Springs High School Fresno State",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite actresses are Meryl Streep, Judi Dench, Katharine Hepburn and Audrey Hepburn</li><li>I love to go to the movies</li><li>I have a twin sister named Randi</li><li>We also have two brothers named Greg and Geoff</li><li>I’m deathly afraid of snakes</li><li>I don’t like chocolate or cookies</li><li>I love to make people laugh and some consider me the biggest practical jokester on the team</li><li>Once pranked sitting President George W. Bush at the 2008 Beijing Olympic Games</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2007 Pan American Games Gold Medalist; Had a .600 batting average with one RBI and three runs scored</li>\r\n                            <li>2003 Pan American Games Gold Medalist; Had a .471 batting average with three RBI and five runs scored</li>\r\n                            <li>1999 Pan American Games Gold Medalist; Had a .385 batting average with six RBI and six runs scored</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 4-time Olympic medalist (3 gold, 1 silver)</li><ul><li>Olympic Games Beijing 2008, silver (Team - Women)</li><li>Olympic Games Athens 2004, gold (Team - Women)</li><li>Olympic Games Sydney 2000, gold (Team - Women)</li><li>Olympic Games Atlanta 1996, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2006 – gold (Team - Women)</li><li>Years of participation: Team - Women 1994, 1998, 2002, 2006</li><li>Medals: 4 (4 gold)</li><ul><li>Gold – 2006 (Team - Women);  2002 (Team - Women);  1998 (Team - Women);  1994 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>1998:</strong>&nbsp;NFCA First Team All-American...NCAA WCWS Champion...First Team All-WAC</p>\n<p><strong>1997:</strong>&nbsp;NFCA First Team All-American...First Team All-WAC</p>\n<p><strong>1995: </strong>NFCA First Team All-American...First Team All-WAC</p>\n<p><strong>1994:</strong>&nbsp;NFCA Third Team All-American...First Team All-WAC</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715105/TeamUSA%20Assets/Migration/Athlete%20Profiles/Laura%20Berg%20912426/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000, 2004, 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715107/TeamUSA%20Assets/Migration/Athlete%20Profiles/Laura%20Berg%20912426/Berg_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Laura Berg 912426"
+        }
+      ]
+    },
+    {
+      "first_name": "Boris",
+      "last_name": "Berian",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1992-12-19T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "Widefield High School (Colorado Springs, Colo.) ‘11 Adams State University ‘15, Education and Coaching",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Larry and Silvia Berian</li><li>Has one brother, Curtis, and one sister, Leslie</li><li>Favorite food is bacon.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 8th (800m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (800m (Indoor) - Men)</li><li>Years of participation: 800m (Indoor) - Men 2016</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2016 (800m (Indoor) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715131/TeamUSA%20Assets/Migration/Athlete%20Profiles/Boris%20Berian%20996849/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715133/TeamUSA%20Assets/Migration/Athlete%20Profiles/Boris%20Berian%20996849/Berian_Borin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Boris Berian 996849"
+        }
+      ]
+    },
+    {
+      "first_name": "Omar",
+      "last_name": "Bermejo",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1982-01-06T00:00:00",
+        "hometown": {
+          "city": "Grand Rapids",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.96336,
+          "longitude": -85.66809
+        },
+        "education": "Union HS (Grand Rapids, Mich.) ‘00 University of Phoenix ‘13, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Bermejo joined the United States Marine Corps at age 17 and had risen to the rank of sergeant within ten years of service</li><li>Bermejo was injured in a motorcycle accident in June 2008, shortly after returning from his fourth deployment in Iraq. The crash left Bermejo with a nearly-severed arm that would be amputated at the shoulder shortly thereafter</li><li>Bermejo went through a depression after the amputation as he looked for a reason to stay motivated in everyday life. It wasn’t until a visit to the nearby VA Medical Center that Bermejo met other veterans in his condition that convinced him not to give up on himself.</li><li>At a rehabilitation camp in Lake Placid, N.Y., four months after his amputation, Bermejo put on cross-country skis for the first time and fell in love with the sport.</li><li>Bermejo is a resident athlete at the Wood River Ability Program (Paralympic Sport Club Ketchum) in Sun Valley, Idaho; he also spent time training last summer with the Maine Winter Sports Center in Caribou, Maine.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014: Paralympic Winter Games, 9th 4x2.5km open relay (with Augusto Perez, Bryan Price and Kevin Burton),&#160;17th 12.5km biathlon, 17th 15km biathlon, 18th 7.5km biathlon, 29th 10km,&#160;30th 1km sprint</li>\r\n                            <li>2014: U.S. Paralympics Nordic Skiing National Championships, 1st 7.5km biathlon, 1km, 10km and 15km</li>\r\n                            <li>2013: World Cup Canmore, 9th 15km biathlon, 12th 7.5km and 12.5km biathlons, 13th 20km</li>\r\n                            <li>2013: World Cup Cable, Wis., 5th 15km biathlon, 6th 7.5km biathlon, 7th 12.5km biathlon and 20km, 12th 15km and cross-country sprint</li>\r\n                            <li>2013: U.S. Paralympics Nordic Skiing National Championships, 1st 15km, 10km, cross-country sprint, distance and sprint biathlon</li>\r\n                            <li>2012: Named to U.S. Paralympics Nordic Skiing Development Team</li>\r\n                            <li>2014: Paralympic Winter Games, 9th 4x2.5km open relay (with Augusto Perez, Bryan Price and Kevin Burton),&#160;17th 12.5km biathlon, 17th 15km biathlon, 18th 7.5km biathlon, 29th 10km,&#160;30th 1km sprint</li>\r\n                            <li>U.S. Paralympics Nordic Skiing National Championships, 1st 7.5km biathlon, 1km, 10km and 15km</li>\r\n                            <li>2013: World Cup Canmore, 9th 15km biathlon, 12th 7.5km and 12.5km biathlons, 13th 20km</li>\r\n                            <li>World Cup Cable, Wis., 5th 15km biathlon, 6th 7.5km biathlon, 7th 12.5km biathlon and 20km, 12th 15km and cross-country sprint</li>\r\n                            <li>U.S. Paralympics Nordic Skiing National Championships, 1st 15km, 10km, cross-country sprint, distance and sprint biathlon</li>\r\n                            <li>2012: Named to U.S. Paralympics Nordic Skiing Development Team</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Sochi 2014, 9th (4 x 2.5km Relay Open - Open), 17th (12.5km Middle - Standing - Men, 15km Individual - Standing - Men), 18th (7.5km Sprint - Standing - Men), 29th (10km Freestyle - Standing - Men), 30th (1km Sprint Freestyle - Standing - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 14th (PTS4 - Men)</li><li>Years of participation: PTS4 - Men 2018, 2021; 10km Classic Style - Standing - Men 2015; 12.5km Middle - Standing - Men 2015; 15km Individual - Standing - Men 2015; 1km Sprint Classic Style - Standing - Men 2015; 4 x 2.5km Relay Mixed - Mixed 2015; 7.5km Sprint - Standing - Men 2015</li><li>Top finish: 7th – 2015 (4 x 2.5km Relay Mixed - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005035/TeamUSA%20Assets/Athlete%20Profiles/Omar%20Bermejo%20920240/Nordic_Bermejo_Omar_2014-USOC_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Omar Bermejo 920240"
+        }
+      ]
+    },
+    {
+      "first_name": "Madelynn",
+      "last_name": "Bernau",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1998-01-06T00:00:00",
+        "hometown": {
+          "city": "Waterford",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 42.7667,
+          "longitude": -88.2167
+        },
+        "education": "Waterford Union High School (Waterford, Wis.) ‘16 Martin Methodist College ‘20, Biology/Pre-veterinary Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began shooting in USA Shooting sanctioned competitions in the summer of 2016 at the Junior Olympic Championships</li><li>Started clay target shooting when she was just 12 years old at a local 4-H club</li><li>Has two younger sisters that also compete in the clay target disciplines</li><li>Enjoys traveling and exploring, as well as many things outdoors, such as hunting and snowmobiling</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 World Cup Lonato Gold Medalist </li>\r\n                            <li>2018 Junior World Championships Bronze Medalist (Team)</li>\r\n                            <li>2018 Junior Grand Prix Gold Medalist</li>\r\n                            <li>2018 Junior Grand Prix Gold Medalist (Mixed Team)</li>\r\n                            <li>2018 USA Shooting Spring Selection Junior Bronze Medalist</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Trap - Team - Mixed), 7th (Trap - Women)</li></ul></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005013/TeamUSA%20Assets/Athlete%20Profiles/Madelynn%20Bernau%201147734/bernau_madelynn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Madelynn Bernau 1147734"
+        }
+      ]
+    },
+    {
+      "first_name": "Gwen",
+      "last_name": "Berry",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1989-06-29T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": "Southern Illinois University ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Michael Berry and Laura Hayes</li><li>Has two brothers, Davon and Michale, and one sister, Quincy</li><li>Has one son, Derrick</li><li>Received the 2020 Toyota Humanitarian of the Year award at USATF’s Annual Meeting and is a human rights activist</li><li>Philanthropically involved with St. Jude’s Children’s Research Hospital, as well as Athletes for Hope</li><li>Enjoys reading, working and listening to music.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 11th (Hammer Throw - Women)</li><li>Olympic Games Rio de Janeiro 2016, 14th (Hammer Throw - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 14th (Hammer Throw - Women)</li><li>Years of participation: Hammer Throw - Women 2017</li><li>Top finish: 14th – 2017 (Hammer Throw - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662124/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Berry_G_Bio_865229.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662393/TeamUSA%20Assets/Athlete%20Profiles/Gwen%20Berry%20865229/Berry_G_Hero_865229.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004990/TeamUSA%20Assets/Athlete%20Profiles/Gwen%20Berry%20865229/Berry_Gwendolyn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gwen Berry 865229"
+        }
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Berry",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2007-08-20T00:00:00",
+        "hometown": {
+          "city": "Missoula",
+          "state": "MT",
+          "country": "United States",
+          "latitude": 46.8721,
+          "longitude": -113.994
+        },
+        "education": "Boston College",
+        "fun_fact": "Enjoys mountain biking, gravel cycling, skiing and outdoor activities in Montana's mountains",
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\">&nbsp;Para Nordic Skiing</span></li><li><span style=\"font-size: 11pt;\">Son of Cooper Berry, a captain with Missoula Rural Fire Fighters, and Kate Berry, a neonatal nurse practitioner</span></li><li><span style=\"font-size: 11pt;\">Enjoys mountain biking, gravel cycling, skiing and outdoor activities in Montana's mountains</span></li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Berry's Paralympic journey began following a life-altering diagnosis at age 10. In July 2018, what appeared to be a simple broken leg was revealed to be osteosarcoma, a rare and aggressive bone cancer. He underwent treatment at Dana-Farber/Boston Children's Cancer and Blood Disorders Center, including rotationplasty surgery that resulted in the amputation of part of his right leg above the knee. The specialized procedure allowed Berry to remain active by preserving function. Cancer returned to his lungs in 2020 and again in 2021, requiring additional surgeries and chemotherapy. He has been cancer-free since 2021.</span></p><p><span style=\"font-size: 11pt;\">During his recovery, Berry found inspiration from Paralympic Nordic skier Dan Cnossen, a former Navy SEAL and Paralympic medalist who lost both legs while serving in Afghanistan. Cnossen visited Berry after he returned home from the hospital and shared one of his Paralympic gold medals, planting the seed for Berry's Paralympic aspirations. The two developed a close friendship, and Berry would eventually join Cnossen as a teammate on the U.S. Paralympic team.</span></p><p><span style=\"font-size: 11pt;\">Berry initially focused on adaptive cycling under the mentorship of Paralympic gold medalist Meg Fisher, a fellow Missoulian and multi-time para-cycling world champion. The pair were featured in the 2022 documentary film \"High Road,\" which chronicled Berry's training for a gravel bike race and highlighted Fisher's advocacy for creating para-cycling categories at off-road events. Berry organized a charity bike race at Marshall Mountain in September 2024 to raise funds for the Children’s Oncology Group, an organization devoted exclusively to childhood and adolescent cancer research.</span></p><p><span style=\"font-size: 11pt;\">Berry's transition to Nordic skiing accelerated rapidly. He began cross-country skiing with a prosthetic leg in 2019 and joined a club ski team the following season. BethAnn Chamberlain, U.S. Paralympics Nordic Skiing development coach, introduced him to biathlon and invited him to join the development team. He trained at camps in Park City, Utah, Canmore, British Columbia, and multiple locations across Europe, including an underground ski tunnel in Oberhof, Germany.</span></p><p><span style=\"font-size: 11pt;\">The 2024-25 season marked Berry's breakthrough on the international stage. He won a classic cross-country skiing sprint race at a continental cup event in West Yellowstone, Montana, in January 2025, defeating Paralympic veteran Dani Aravich. Berry made his world cup debut at the Paralympic test event in Val di Fiemme, Italy, in early 2025, competing in both biathlon and cross-country disciplines. He finished seventh in the cross-country 10km classic and gained valuable experience racing against the world's top para Nordic athletes.</span></p><p><span style=\"font-size: 11pt;\">Berry graduated from Hellgate High School in 2024 and took a gap year to train full-time. Throughout his journey, he received tremendous support from the Missoula community through the \"Jack's Army\" movement, with hundreds of signs planted in yards across the city. His father's colleagues at Missoula Rural Fire Fighters Local 2457 covered shifts and donated sick leave during Berry's treatment, exemplifying the community support that sustained the Berry family. Berry continues to pursue his goal of becoming a Paralympian in both Nordic skiing and cycling, following in the footsteps of multi-sport Paralympic champion Oksana Masters, who has excelled in both winter and summer Paralympic sports.</span></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771260913/TeamUSA%20Assets/Milano%20Cortina%202026/Winter%20Paralympics/Jack_Berry_1.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771260914/TeamUSA%20Assets/Milano%20Cortina%202026/Winter%20Paralympics/Jack_Berry_2.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773081859/Berry_J_featured_1468781.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1772488100/Berry_J_thumbnail_1468781.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Para Nordic Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026"
+        }
+      ]
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Bertko",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1983-11-08T00:00:00",
+        "hometown": {
+          "city": "Oakland",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.8044,
+          "longitude": -122.2712
+        },
+        "education": "Bishop O’Dowd High School (Oakland, Calif.) ‘02 Princeton University ‘06, Ecology and Evolutionary Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of John and Christine Bertko</li><li>Has one sister, Liz</li><li>Transitioned from heavyweight to lightweight competition in 2013</li><li>Underwent emergency abdominal surgery in 2014 and went on to win a bronze medal at the world championships eight weeks later.</li></ul><h5>Olympic Experience </h5><ul><li>Olympian (2016)</li><li>Rio 2016 Olympic Games, 10th</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – bronze (lightweight single sculls)</li><li>Years of Participation: 2009 (quadruple sculls); 2010 (double sculls); 2011 (quadruple sculls); 2013 (lightweight double sculls); 2014-15 (lightweight single sculls)</li><li>Medals: 4 (2 silvers, 2 bronzes)</li><li>Silver – 2009 (quadruple sculls); 2013 (lightweight double sculls)</li><li>Bronze – 2014 (lightweight single sculls); 2015 (lightweight single sculls)</li></ul><h5>More</h5>US Rowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924239/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kate%20Bertko/Bertko_Kate_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kate Bertko"
+        }
+      ]
+    },
+    {
+      "first_name": "Justin",
+      "last_name": "Best",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1997-08-17T00:00:00",
+        "hometown": {
+          "city": "Kennett Square",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.8473,
+          "longitude": -75.7105
+        },
+        "education": "Drexel University ‘19, Business and Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jeanne and Glenn Best, and grew up the youngest of two children with older brother Garren</li><li>His parents watched \"The Social Network\" and thought since the actors who portrayed the Winklevoss twins had big upper bodies, he would be perfect for the sport and signed him up for a summer camp the next day</li><li>Hobbies include reading, video games, exercising, and watching movies.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Four - Men)</li><li>Olympic Games Tokyo 2020, 4th (Eight - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Four - Men)</li><li>Years of participation: Four - Men 2023; Pair - Men 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Four - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712597556/TeamUSA%20Assets/Athlete%20Profiles/Justin%20Best%201188025/Best_hero_1188025.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712597677/TeamUSA%20Assets/Athlete%20Profiles/Justin%20Best%201188025/Best_bio_118025.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712597677/TeamUSA%20Assets/Athlete%20Profiles/Justin%20Best%201188025/Best_bio_118025.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005065/TeamUSA%20Assets/Athlete%20Profiles/Justin%20Best%201188025/Best_Justin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Justin Best 1188025"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Akshay",
+      "last_name": "Bhatia",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2002-01-31T00:00:00",
+        "hometown": {
+          "city": "Wake Forest",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.9793,
+          "longitude": -78.5108
+        },
+        "education": "Homeschooled, class of ‘20 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sonny Bhatia and Renu Bhatia</li><li>Has one sister, Rhea, who plays on the golf team at Queens University in Charlotte, North Carolina</li><li>Bhatia got his start in golf after watching his older sister play the sport</li><li>Also enjoys bowling.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 American Junior Golf Association (AJGA), 3 victories</li>\r\n                            <li>2018 AJGA Polo Golf Junior Classic, winner by 10 strokes; victory was marked by a course-record 7-under 64 in the second round</li>\r\n                            <li>2018 Boy’s Junior PGA Championship; became the first-ever player to win back-to-back Boy’s Junior PGA Championship titles; holed out a 40-foot chip for eagle to win by one stroke</li>\r\n                            <li>2018 Junior Invitational at Sage Valley</li>\r\n                            <li>2018 Junior Ryder Cup </li>\r\n                            <li>2017 Boy’s Junior PGA Championship, winner by three strokes; shot a course-record 61 en route to a 22-under par performance that shattered 3-time PGA TOUR winner Pat Perez’s previous record by five strokes; shot the lowest 18-hole round in the championship’s history</li>\r\n                            <li>2017 Junior Presidents Cup, owned an undefeated 3-0-0 record that helped lead the United States Team to a 14-10 victory over the International Team</li>\r\n                            <li>2017 First Team AJGA Rolex Junior All-American </li>\r\n                    </ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 10th (Individual - Men)</li><li>Years of participation: Individual - Men 2023</li><li>Top finish: 10th – 2023 (Individual - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700581/TeamUSA%20Assets/Migration/Athlete%20Profiles/Akshay%20Bhatia%201110914/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700583/TeamUSA%20Assets/Migration/Athlete%20Profiles/Akshay%20Bhatia%201110914/bhatia_akshay.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Akshay Bhatia 1110914"
+        }
+      ]
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Bianchi",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1986-10-05T00:00:00",
+        "hometown": {
+          "city": "Lancaster",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.0379,
+          "longitude": -76.3055
+        },
+        "education": "Lampeter-Strasburg High School",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<br>\n\n<div>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>MiLB Mid-Season All-Star (2011)</li>\n    <li>Topps Class A-Short Season/Rookie League All-Star team (2005</li>\n    <li>Gatorade Pennsylvania Player of the Year (2005)</li>\n    <li>National High School Baseball Coaches All-District II Team (2005)</li>\n    <li>USSSA World Series Most Valuable Player (2004)</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Married to Nicole Bianchi</li><li>Drafted by the Kansas City Royals in the second round (50th overall) of the 2005 MLB draft.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924438/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jeff%20Bianchi/Baseball_Men_Bianchi_Jeff.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jeff Bianchi"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Bickner",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1996-09-23T00:00:00",
+        "hometown": {
+          "city": "Wauconda",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.27,
+          "longitude": -88.14
+        },
+        "education": "DeVry University",
+        "fun_fact": "Named the 2016 USSA Ski Jumping Athlete of the Year",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Specialty:</strong> Men's Ski Jumping</li><li>Son of Maureen and Tom Bickner</li><li>Has two sisters, Brandalyn and Kailey</li><li>Father is a member of the USA Nordic Sport Board of Directors</li><li>Named the 2016 USSA Ski Jumping Athlete of the Year</li><li>Began skiing at age 9</li><li>Enjoys hiking, skiing and traveling<span></span></li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Kevin Bickner discovered ski jumping at age 9 at Norge Ski Club in Fox River Grove, a historic jumping facility that has produced multiple Olympians. What began as childhood curiosity transformed into a lifelong passion, nurtured by a family deeply invested in the sport. Bickner's father, Tom, serves on the USA Nordic Sport Board of Directors, while his sisters embraced the family tradition—one becoming a member of the USA Women's Development Team and the other serving with the Peace Corps.</span></p><p><span style=\"font-size: 11pt;\">By age 11, Bickner was tackling Norge's 70-meter hill, and at 16, he earned a spot on the U.S. developmental team, prompting a move to Park City, Utah, that was initially intended to be temporary. The move became permanent as Bickner fell in love with the mountain community, eventually bringing his entire family to Park City. His early career showed promise, accumulating 10 podium finishes on junior national teams. In March 2017, at Vikersund, Norway, Bickner shattered the U.S. ski flying distance record with a jump of 244.5 meters. That same year, he competed at his first Nordic World Championships. He made his Olympic debut at the Olympic Winter Games PyeongChang 2018, where his 18th-place finish in the normal hill marked the best result by an American man at the Olympics in 16 years.</span></p><p><span style=\"font-size: 11pt;\">Despite early success, Bickner's career trajectory faltered. His world cup rankings declined from 39th in 2018 to 51st in 2019 and 54th in 2020. The constant travel between the United States and Europe, combined with diminishing results, took a toll. At the Olympic Winter Games Beijing 2022, his second Games, Bickner struggled through competitions, finishing 39th and 43rd in individual events. Burned out and questioning whether he had reached his ceiling, Bickner made the difficult decision to retire at age 25, stepping away from the sport that had defined his life since childhood. He was close friends with fellow Norge Ski Club jumper Patrick Gasienica, who competed alongside him at Beijing 2022 before tragically passing away in a motorcycle accident in June 2023—a loss that Bickner carries with him.</span></p><p><span style=\"font-size: 11pt;\">Retirement proved short-lived. Shortly after Bickner stepped away, Team USA entered a groundbreaking partnership with Norway's ski jumping program, the sport's longtime powerhouse. The collaboration provided American athletes access to Norwegian coaching expertise, cutting-edge technology including force plates and AI-driven training analysis, and the opportunity to train full-time in Norway alongside the world's best. As Bickner watched his former teammates thrive under the new system, achieving career-best results, curiosity turned to determination. Encouraged by coaches, sponsors, and friends in the ski jumping community, he realized he would regret not discovering what he could accomplish with access to such resources. In 2024, Bickner returned to competition.</span></p><p><span style=\"font-size: 11pt;\">Bickner describes the first year back as challenging, essentially relearning ski jumping through Norway's analytical approach that scrutinizes every movement and position. The investment paid dividends in his second season back. During the 2024-25 campaign, Bickner achieved personal bests across every major metric: 28th in the world cup, 29th in world rankings, and 19th in the Grand Prix. His performances helped the U.S. men's team secure eighth place in the Nations Cup—America's highest finish in nearly 40 years. The transformation reignited his love for the sport, making competitions enjoyable again and providing the motivation to continue pushing his limits.</span></p><p><span style=\"font-size: 11pt;\">Named to the U.S. roster for the Olympic Winter Games Milano Cortina 2026, Bickner returned to the Olympic stage with something to prove. Based primarily in Lillehammer, Norway, while maintaining deep connections to Park City's ski jumping community, the DeVry University graduate remains committed to inspiring the next generation of American jumpers. He regularly mentors young athletes at Norge Ski Club when home, remembering how he once looked up to Olympians as a junior jumper. Bickner's goals extend beyond personal achievement—he dreams of helping establish ski jumping as a popular sport in the United States and creating a pathway for future American jumpers to reach the podium, breaking a medal drought that has lasted since 1924.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Milan 2026, 8th (Super Team - Large Hill - Men), 20th (Individual - Large Hill - Men), 33th (Individual - Normal Hill - Men)</li><li>Olympic Games Beijing 2022, 10th (Team - Large Hill - Men), 39th (Individual - Large Hill - Men), 43th (Individual - Normal Hill - Men)</li><li>Olympic Games Pyeongchang 2018, 9th (Team - Large Hill - Men), 18th (Individual - Normal Hill - Men), 20th (Individual - Large Hill - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 6th (Team - Large Hill - Mixed), 8th (Team - Large Hill - Men), 32th (Individual - Large Hill - Men, Individual - Normal Hill - Men)</li><li>Years of participation: Individual - Large Hill - Men 2017, 2019, 2025; Individual - Normal Hill - Men 2017, 2019, 2025; Team - Large Hill - Men 2017, 2019, 2025; Team - Large Hill - Mixed 2025; Individual - Ski Flying - Men 2018, 2024; Team - Ski Flying - Men 2024; Team - Normal Hill - Mixed 2017, 2019</li><li>Top finish: 6th – 2025 (Team - Large Hill - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697130322/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Bickner%20829778/bickner_k_bio_1063507.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ski Jumping",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697130192/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Bickner%20829778/bickner_k_hero_1063507.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697130322/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Bickner%20829778/bickner_k_bio_1063507.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005098/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Bickner%20829778/Bickner_Kevin_Headshot_2022_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kevin Bickner 829778"
+        },
+        {
+          "title": "Ski Jumping"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Tommy",
+      "last_name": "Biesemeyer",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1989-01-30T00:00:00",
+        "hometown": {
+          "city": "Keene",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 44.2056,
+          "longitude": -73.7876
+        },
+        "education": "University of Vermont",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started skiing at age 3 and had his first race at age 7</li><li>Nicknamed “BZ”</li><li>Also speaks German</li><li>Hobbies include golfing, hiking, mountain biking and playing tennis and hockey.</li></ul><h5>Olympic Experience </h5><ul><li>Olympian (2018)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 –  (Super G - Men), 29th (Downhill - Men)</li><li>Years of participation: Downhill - Men 2017; Super G - Men 2013, 2017; Giant Slalom - Men 2013; Super Combined - Men 2013</li><li>Top finish:  – 2013 (Giant Slalom - Men), 2013 (Super Combined - Men), 2017 (Super G - Men)</li></ul><h5>More</h5>U.S. Ski &amp; Snowboard<h5>Career Highlights</h5><ul><li>World Cup, 2019 (Super G - Men, Downhill - Men, Overall - Men)</li><li>World Cup, 2018 (Super G - Men, Downhill - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924468/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tommy%20Biesemeyer/Biesemeyer_Tommy_121317_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924470/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tommy%20Biesemeyer/biesemeyer_tommy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tommy Biesemeyer"
+        }
+      ]
+    },
+    {
+      "first_name": "Natalie",
+      "last_name": "Bieule",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1982-07-12T00:00:00",
+        "hometown": {
+          "city": "Pembroke Pines",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.00703,
+          "longitude": -80.34283
+        },
+        "education": " Barry University (Miami Shores, Fla.) '11, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Bieule and her husband, Matthew, have two children—Ava and Valentina—and currently live in Pembroke Pines, Florida</li><li>In her spare time, she is an avid crossfitter and became the first female adaptive athlete to compete in an all-women able-bodied crossfit competition without any modifications where she placed 12th out of 60 athletes</li><li>Bieule also enjoys restoring furniture and speaks fluent Spanish</li><li>She is the daughter of Rene and Vivian Rovirosa.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 U.S. Paralympics Track and Field National Championships, silver (discus)</li>\r\n                            <li>2014 U.S. Paralympics Track and Field National Championships, gold (discus)</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 6th (Discus Throw F44 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – bronze (Discus Throw F44 - Women)</li><li>Years of participation: Discus Throw F44 - Women 2015</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2015 (Discus Throw F44 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715228/TeamUSA%20Assets/Migration/Athlete%20Profiles/Natalie%20Bieule%20833172/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "F44",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715229/TeamUSA%20Assets/Migration/Athlete%20Profiles/Natalie%20Bieule%20833172/Bieule_Natalie250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Natalie Bieule 833172"
+        }
+      ]
+    },
+    {
+      "first_name": "Bill",
+      "last_name": "Bigham",
+      "bio": {
+        "height": "6’3",
+        "birthday": "1977-11-14T00:00:00",
+        "hometown": {
+          "city": "Manhattan Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8842,
+          "longitude": -118.4106
+        },
+        "education": "Shorewood High School University of North Carolina – Chapel Hill",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has served as captain of the U.S. men’s beach handball national team since 2016</li><li>One of a handful of athletes, and the only American athlete, to compete in the IHF World Championships for both Beach Handball and Indoor Handball</li><li>Has served on the Board of Directors for USA Team Handball since 2019</li><li>Played on the football team for the University of North Carolina - Chapel Hill from 1997 to 2000</li><li>Competed for the Maruoubra Bluebottles Beach Handball Club in Sydney Australia in 2017.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 ANOC World Beach Games - 11th (Doha, Qatar)</li>\r\n                            <li>2019 North American &amp; Caribbean Handball Confederation (NORCA) Championships - 1st (Trinidad &amp; Tobago)</li>\r\n                            <li>2018 Pan American Beach Handball Championships – 3rd (Oceanside, California)</li>\r\n                            <li>2017 Beach Games Seynois – 2nd (La Seyne, France)</li>\r\n                            <li>2017 Prague Open Championship – 2nd (Prague, Czech Republic)</li>\r\n                            <li>2016 Pan American Beach Handball Championships – 1st (Vargas, Venezuela)</li>\r\n                            <li>2007 Pan American Games Qualifiers (Indoor) - Lake Placid, NY</li>\r\n                            <li>2007 Pan American Games Qualifiers (Indoor) - Montreal, Canada</li>\r\n                            <li>2007 Pan American Games Qualifiers (Indoor) - Santiago, Chile</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2018 IHF Beach Handball World Championships - 12th (Kazan, Russia)</li><li>2016 IHF Beach Handball World Championships – 11th (Budapest, Hungary)</li><li>2001 IHF Men's World Championships (Indoor) - 24th (Besancon, France)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715186/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bill%20Bigham%20934828/Bill_hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715188/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bill%20Bigham%20934828/Bill_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bill Bigham 934828"
+        }
+      ]
+    }
+  ]
+}

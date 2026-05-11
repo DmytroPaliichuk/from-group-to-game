@@ -1,0 +1,887 @@
+{
+  "entries": [
+    {
+      "first_name": "Mary Lou",
+      "last_name": "Retton",
+      "bio": {
+        "height": "4'9\"",
+        "birthday": "1968-01-24T00:00:00",
+        "hometown": {
+          "city": "Fairmont",
+          "state": "WV",
+          "country": "United States",
+          "latitude": 39.48,
+          "longitude": -80.14
+        },
+        "education": "University of Texas at Austin",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts<span style=\"font-size: 11pt;\"></span></h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Specialty: </strong></span><span style=\"font-size: 11pt;\">Floor exercise and vault&nbsp;</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Mary Lou Retton, a legendary gymnast, was inspired by Nadia Comaneci to pursue gymnastics. At the young age of four, she began studying dance and acrobatics, setting the stage for her future success.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">She was elected to the National Italian American Sports Hall of Fame, International Gymnastics Hall of Fame and Houston Sports Hall of Fame. She received the Golden Plate Award from the American Academy of Achievement, highlighting her impact beyond sports.</span></p><p><span style=\"font-size: 11pt;\">After retiring from competitive gymnastics, Retton made cameo appearances in several TV shows and films. She became a prominent spokesperson for various brands including Wheaties, Revco and Australian Dream.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Mary Lou Retton has four daughters, two of which followed in her footsteps, becoming gymnasts themselves.&nbsp;</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Just six weeks before her Olympic debut at the Los Angeles 1984 Olympic Games, Retton underwent knee surgery but made a remarkable recovery. She scored a perfect 10 and won five medals, including gold in the team competition, vault, floor exercise and uneven bars.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Retton also became the first American woman to win an individual Olympic medal in gymnastics. Her performance made her a household name and earned her the distinction of being the first gymnast to be inducted into the U.S. Olympic Hall of Fame.</span></p><p><span style=\"font-size: 11pt;\">Sports Illustrated named her \"Sportswoman of the Year\" for her back-to-back perfect 10s and overall excellence.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">In 1983, Retton won the American Cup, Japan's Chunichi Cup and the American Classic. In 1984, she repeated her American Classic win.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 5-time Olympic medalist (1 gold, 2 silver, 2 bronze)</li><ul><li>Olympic Games Los Angeles 1984, gold (Individual All-Around - Women), silver (Team - Women, Vault - Women), bronze (Floor Exercise - Women, Uneven Bars - Women), 4th (Beam - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240379/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Mary%20Lou%20Retton/Retton_Cover.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Artistic Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1984",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240380/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Mary%20Lou%20Retton/Retton_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mary Lou Retton"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 1985"
+        },
+        {
+          "title": "Olympian"
+        },
+        {
+          "title": "Artistic Gymnastics"
+        }
+      ]
+    },
+    {
+      "first_name": "Heimana",
+      "last_name": "Reynolds",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1998-08-01T00:00:00",
+        "hometown": {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        },
+        "education": "Mid-Pacific Institute (Honolulu, Hawaii) '17 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Taught himself how to solve a Rubik&#39;s Cube in the 4th grade</li><li>Can surf any size wave in the world</li><li>Besides surfing, he is also interested in photography.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 13th (Park - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 13th (Park - Men), 59th (Park - Men)</li><li>Years of participation: Park - Men 2018, 2019, 2023, 2023</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2019 (Park - Men)</li><li>Silver – 2018 (Park - Men)</li></ul></ul><h5>More</h5><p>USA Skateboarding</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Skateboarding",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008953/TeamUSA%20Assets/Athlete%20Profiles/Heimana%20Reynolds%201150428/reynolds_heimana_150x250_tokyo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Heimana Reynolds 1150428"
+        }
+      ]
+    },
+    {
+      "first_name": "Kourtney",
+      "last_name": "Rhoads",
+      "bio": {
+        "height": "5’10",
+        "birthday": "1991-08-20T00:00:00",
+        "hometown": {
+          "city": "Slippery Rock",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 41.0606,
+          "longitude": -80.0506
+        },
+        "education": "Slippery Rock Area High School Kentucky Wesleyan College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Melinda and Posey</li><li>Sister of Karly and Jence</li><li>Mother is a 1984 Olympian in Team Handball</li><li>Father is a former professional basketball player</li><li>Played basketball at Kentucky Wesleyan College with twin sister Karly</li><li>Older sister Jence is a teammate in Team Handball</li><li>Currently works as a health coach and personal trainer.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Greece International Beach Handball Tournament - 3rd</li>\r\n                            <li>2019 German Beach Open Tournament</li>\r\n                            <li>2019 NORCA Beach Handball Championships - 1st</li>\r\n                            <li>2019 So. Cal Beach Handball Tournament - 2nd</li>\r\n                            <li>2019 ANOC World Beach Games - 10th (Doha, Qatar)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718625/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kourtney%20Rhoads%201148397/Kourtney_hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718627/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kourtney%20Rhoads%201148397/Kourtney_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kourtney Rhoads 1148397"
+        }
+      ]
+    },
+    {
+      "first_name": "Jence",
+      "last_name": "Rhoads",
+      "bio": {
+        "height": "5'10",
+        "birthday": "1988-12-31T00:00:00",
+        "hometown": {
+          "city": "Slippery Rock",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 41.0606,
+          "longitude": -80.0506
+        },
+        "education": "Slippery Rock Area High School Vanderbilt University (B.A. ’11) & Auburn University (M.Ed. ’15) (Ph.D. ’19)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Melinda and Posey</li><li>Sister of Karly and Kourtney</li><li>Was a basketball and soccer player at Slippery Rock Area High School</li><li>Holds the school records for points and goals scored, respectively, and is the all-time leading scorer in Butler County, male or female</li><li>First learned about handball through her mother, Melinda Rhoads, a member of the 1984 U.S. Women&#39;s Olympic Handball Team</li><li>Attneded the tryout for the USATH Residency Program after Melinda learned about the program at the 30th Olympic reunion in Colorado Springs</li><li>Joined the Residency Program and has been an athlete with USA Team Handball ever since, competing at the national and international levels</li><li>Was an accomplished basketball player before handball</li><li>Played NCAA Division I collegiate basketball at Vanderbilt University, where she was a four-year scholarship athlete and starting point guard</li><li>Also played professional basketball in Europe for three years after college, playing in Iceland and Romania and achieving team and personal accolades.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718637/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jence%20Rhoads%20913031/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718638/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jence%20Rhoads%20913031/WNT_JRhoads_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jence Rhoads 913031"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Rhoads",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1995-06-08T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": "Park City High School (Park City, Utah) ‘13 DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Avid follower of the Utah Jazz and the nearby University Utes in football</li><li>Enjoys basketball, volleyball and hanging out with friends.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 FIS Junior World Championships, 10th (team normal hill)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018,  (Individual - Large Hill - Men), 9th (Team - Large Hill - Men), 46th (Individual - Normal Hill - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 –  (Individual - Ski Flying - Men)</li><li>Years of participation: Individual - Ski Flying - Men 2018; Individual - Large Hill - Men 2015, 2017; Individual - Normal Hill - Men 2015, 2017; Team - Large Hill - Men 2017; Team - Normal Hill - Mixed 2015</li><li>Top finish:  – 2015 (Individual - Large Hill - Men), 2015 (Individual - Normal Hill - Men), 2017 (Individual - Normal Hill - Men), 2018 (Individual - Ski Flying - Men)</li></ul><h5>More</h5><p>USA Nordic&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718633/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Rhoads%20842245/rhoads_william_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ski Jumping",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718634/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Rhoads%20842245/Rhoads_William_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Rhoads 842245"
+        }
+      ]
+    },
+    {
+      "first_name": "Kim",
+      "last_name": "Rhode",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1979-07-16T00:00:00",
+        "hometown": {
+          "city": "El Monte",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0689,
+          "longitude": -118.0278
+        },
+        "education": "Arroyo High School (El Monte, Calif.) '97 California State Polytechnic University-Pomona, Food marketing and Agribusiness Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Richard and Sharon Rhode; Her father, Richard, is her coach</li><li>Married to Mike Harryman</li><li>Has one son, Carter, with whom she was pregnant while competing at the London 2012 Olympic Games</li><li>Began shooting at age 10</li><li>Won the world championships at age 13 in skeet</li><li>Became the first American individual athlete to win a medal in five consecutive Olympic Games in 2012</li><li>Has a rich family history; her father’s side has relatives who fought in the infamous battle, Custer’s last stand, and her mother’s side had relations to Samuel Morse, the inventor of Morse code</li><li>Member of Safari Club International and an honorary lifetime member of the NRA</li><li>Hobbies include collecting and restoring antique cars and first-edition children’s books.</li></ul><h5>Olympic Experience </h5><ul><li>Six-time Olympian (1996, 2000, 2004, 2008, 2012, 2016); Six-time Olympic medalist (3 golds, 1 silver, 2 bronze)</li><li>Rio 2016, bronze (skeet)</li><li>London 2012, gold (skeet), 9th (trap)</li><li>Beijing 2008, silver (silver)</li><li>Athens 2004, gold (double trap), 5th (skeet)</li><li>Sydney 2000, bronze (double trap), 7th (skeet)</li><li>Atlanta 1996, gold (double trap)</li><li>In 2012, became the first American athlete, male or female, to win an Olympic medal at five consecutive Games in an individual sport</li><li>Only woman to win three individual Olympic gold medals in shooting (as of 2012)</li><li>First Olympic shooter, male or female, to compete in all three shotgun events – trap, double trap and skeet</li><li>In 2016, became the first American to qualify for the Olympic Games in five different continents</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (skeet team)</li><li>Years of Participation: 1995, 1997-99, 2001-03, 2007, 2009-11, 2014-15, 2017-19</li><li>Medals: 5 (2 gold, 2 silvers, 1 bronze) </li><li>Gold –  2019 (skeet team), 2010 (skeet)</li><li>Silver – 1998 (double trap), 2018 (skeet)</li><li>Bronze – 2011 (skeet)</li></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328474/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kim%20Rhode/rhode_kim_080416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000, 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328475/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kim%20Rhode/Rhode_Kim_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kim Rhode"
+        }
+      ]
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "Rhodes",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1989-09-19T00:00:00",
+        "hometown": {
+          "city": "Glennville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 31.93576,
+          "longitude": -81.92456
+        },
+        "education": " Paine College ’12, Counseling; Georgia Southern University ’14, M.Ed.",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Charlie Anderson and Naomi Brown</li><li>Has two sisters, Ciarra and Zoie, and one brother, Tobias</li><li>Serves as a guide runner for David Brown in the 400-meters</li><li>Hobbies include shopping, playing video games and spending time with family</li><li>Currently trains at the Olympic Training Center in Chula Vista, California.</li></ul><h5>Paralympic Experience </h5><ul><li>One-time Paralympian (2016)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 — 9th (100m)</li><li>Years of Participation: 2015 </li><li>Top Finish: 9th – 2015 (100m)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718617/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mason%20Rhodes%20832825/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Guide Runner",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718621/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mason%20Rhodes%20832825/Rhodes_Mason250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mason Rhodes 832825"
+        }
+      ]
+    },
+    {
+      "first_name": "Tiffany",
+      "last_name": "Rice-Mitchell",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1994-09-23T00:00:00",
+        "hometown": {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.2271,
+          "longitude": -80.8431
+        },
+        "education": "University of South Carolina",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" style=\"float: right;width: 50;height: 50;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50;width: 50;\" width=\"50\" height=\"50\"/></td></tr></tbody></table><div><p><strong ><br bold=\"[object Object]\"/></strong></p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2014 USA Basketball 3x3 National Tournament, 1st</li><li>2014 <em>Associated Press</em> All-America third team selection</li><li>2014 Wade Trophy and Dawn Staley Award finalist</li><li>2014 SEC Player of the Year</li><li>2012 Gatorade North Carolina Girls Basketball Player of the Year</li><li>2012 <em>Parade Magazine</em> All-American</li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Daughter of Cheryl Mitchell</li><li>Has one brother, Tory Mitchell</li><li>Began playing basketball at age 8 with an all-boys team</li><li>Hobbies include shopping.</li><li><p>Providence Day High School (Charlotte, N.C.) '12 University of South Carolina '16, Retail</p></li></ul><br /><br /><h5>More</h5><p>USA Basketball</p><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324469/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tiffany%20Rice-Mitchell/Basketball_Women_-Mitchell_Tiffany.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tiffany Rice-Mitchell"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Fred",
+      "last_name": "Richard",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2004-04-23T00:00:00",
+        "hometown": {
+          "city": "Stoughton",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.1284,
+          "longitude": -71.1006
+        },
+        "education": "University of Michigan",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son to <span>Carl and Ann-Marie Richard</span></li><li>Has three siblings, <span>Carlton Richard, Alexandra Richard and Kevin Hyacinthe</span></li><li>Favorite event is the high bar</li><li>Got into gymnastics because he'd run on the floor and tumbled when picking up his sister from gymnastics</li><li>His favorite thing about gymnastics is overcoming challenges and getting better<span></span></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Individual All-Around - Men, Team - Men), 8th (Floor Exercise - Men), 12th (Parallel Bars - Men), 15th (Pommel Horse - Men), 45th (Rings - Men), 108th (Horizontal Bar - Men)</li><li>Years of participation: Floor Exercise - Men 2023; Horizontal Bar - Men 2023; Individual All-Around - Men 2023; Parallel Bars - Men 2023; Pommel Horse - Men 2023; Rings - Men 2023; Team - Men 2023</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2023 (Individual All-Around - Men, Team - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>2023 U.S. Championships high bar champion and third-place finisher in the all-around</li><li>2023 NCAA all-around, parallel bars and high bar champion, and team and floor exercise silver medalist for the University of Michigan</li><li>2023 Winter Cup all-around silver medalist</li><li>2022 U.S. high bar silver medalist and floor exercise bronze medalist</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men), 11th (Horizontal Bar - Men), 15th (Individual All-Around - Men), 23th (Parallel Bars - Men), 26th (Floor Exercise - Men), 29th (Pommel Horse - Men), 31th (Rings - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712520918/Richard_Fred_GettyLAShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694038116/TeamUSA%20Assets/Athlete%20Profiles/Fred%20Richard%20865439/richard_f_hero_865439.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694038116/TeamUSA%20Assets/Athlete%20Profiles/Fred%20Richard%20865439/richard_f_hero_865439.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1692917406/TeamUSA%20Assets/National%20Events/Gymnastics%202023/7.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gymnastics"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Fred Richard 865493"
+        }
+      ]
+    },
+    {
+      "first_name": "Alexander",
+      "last_name": "Richards",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1995-08-12T00:00:00",
+        "hometown": {
+          "city": "Watertown",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3722,
+          "longitude": -71.1828
+        },
+        "education": "Belmont Hill School (Belmont, Mass.) ‘14 Harvard University ‘18, Human Evolutionary Biology with Secondary in Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Thankful for his coaches, family, friends and dogs for supporting him in the sport</li><li>Lists his dad as his most influential person in his sports career</li><li>Runs Third String Clothing, a clothing embroidery business, and is aspiring to become a physician</li><li>Is an avid cinephile, bookworm, and anime appreciator</li><li>Loves hiking in the redwood forests and cooking.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 4th (Eight - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (Eight - Men)</li><li>Years of participation: Eight - Men 2019; Four - Men 2017, 2018</li><li>Top finish: 5th – 2019 (Eight - Men)</li></ul><h5>More</h5>US Rowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012416/TeamUSA%20Assets/Athlete%20Profiles/Alexander%20Richards%201005042/Richards_Alexander_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alexander Richards 1005042"
+        }
+      ]
+    },
+    {
+      "first_name": "Sanya",
+      "last_name": "Richards-Ross",
+      "bio": {
+        "height": "5’8”",
+        "birthday": "1985-02-26T00:00:00",
+        "hometown": {
+          "city": "Austin",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 30.2672,
+          "longitude": -97.7431
+        },
+        "education": " University of Texas",
+        "fun_fact": null,
+        "biography": "<strong>&nbsp;</strong><br>\n<strong><br>\n</strong>\n\n<div><h5>Olympic Experience</h5><ul><li>3-time Olympian; 5-time Olympic medalist (4 gold, 1 bronze)</li><ul><li>Olympic Games London 2012, gold (4 x 400m Relay - Women, 400m - Women), 5th (200m - Women)</li><li>Olympic Games Beijing 2008, gold (4 x 400m Relay - Women), bronze (400m - Women)</li><li>Olympic Games Athens 2004, gold (4 x 400m Relay - Women), 6th (400m - Women)</li></ul></ul><h5>Career Highlights</h5>\n<ul>\n    <li>Two-time Florida High School Female Athlete of the Year</li>\n    <li>2003 NCAA 400m champion</li>\n    <li>2005 Visa champion and Humanitarian Athlete of the Year<br>\n    </li>\n    <li>2009 World Outdoor champion<br>\n    </li>\n    <li>2012 World Indoor champion<br>\n    </li>\n    <li>Four-time World Outdoor 4x400m gold medalist<br>\n    </li>\n    <li>Six-time USA Outdoor 400m champion<br>\n    </li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Named Visa Humanitarian of the Year in 2005, her namesake charity, the Sanya Richards Fast Track Program benefits children in need in her native Jamaica&nbsp;... Created in 2007, the program combines literacy, numeracy and promotes an active and healthy lifestyle through sports ...&nbsp;She married her college sweetheart, Aaron Ross, a two-time Superbowl Champion cornerback with the New York Giants, who recently signed with the Jacksonville Jaguars on February 26, 2010, on her 25th birthday ...&nbsp;The wedding was featured on the television show Platinum Weddings</p>\n<p><strong>Learn more:</strong>&nbsp;<br>\nUSA Track &amp; Field</p>\n<br class=\"Apple-interchange-newline\">\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – silver (4 x 400m Relay - Women)</li><li>Years of participation: 4 x 400m Relay - Women 2003, 2007, 2009, 2015; 4 x 400m Relay (Indoor) - Women 2012; 400m (Indoor) - Women 2006, 2012; 400m - Women 2003, 2005, 2009; 200m - Women 2007</li><li>Medals: 8 (5 gold, 3 silver)</li><ul><li>Gold – 2012 (400m (Indoor) - Women);  2009 (4 x 400m Relay - Women, 400m - Women);  2007 (4 x 400m Relay - Women);  2003 (4 x 400m Relay - Women)</li><li>Silver – 2015 (4 x 400m Relay - Women);  2012 (4 x 400m Relay (Indoor) - Women);  2005 (400m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 4,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004138/TeamUSA%20Assets/Athlete%20Profiles/Sanya%20Richards-Ross%20934356/Richards-Ross_S120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sanya Richards-Ross 934356"
+        }
+      ]
+    },
+    {
+      "first_name": "Sha'Carri",
+      "last_name": "Richardson",
+      "bio": {
+        "height": "5'1''",
+        "birthday": "2000-03-25T00:00:00",
+        "hometown": {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7767,
+          "longitude": -96.797
+        },
+        "education": "Louisiana State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 12pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 12pt;\"> 100-meter and 200-meter</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Sha'Carri Richardson is an American track and field sprinter, specializing in the 100-meter and 200-meter events. She was raised by her grandmother and aunt, who supported her early interest in track and field. Richardson graduated from Carter High School, where she earned two Texas state titles. Her rise to fame began during her freshman year at Louisiana State University.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">An advocate for the LGBTQ+ community, Richardson takes to social media to show her support for important social issues.</span></p><h5>Olympic Highlights</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">She delivered a remarkable performance in the 2020 U.S. Olympic trials, securing her spot on the U.S. Olympic team, but ultimately did not compete in the Tokyo 2020 Olympic Games.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">After a strong performance in the qualifying events, Sha’Carri made her Olympic debut at the Paris 2024 Olympic Games where she won a silver medal in the 100m event. Most notably, she ran anchor in the 4x100m relay final, achieving an impressive come-from-behind win, passing two athletes to win the gold.</span></p><h5>World Championship Highlights</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">At the 2023 World Athletics Championships in Budapest, Hungary, Richardson claimed her first gold in the 100m sprint with a time of 10.65 seconds and secured a bronze in the 200m sprint with a time of 21.92 seconds. She was also a crucial member of Team USA's gold-winning 4x100m relay team.</span></p><h5>U.S. Championship Highlights</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">In July 2023, Richardson triumphed at the USA Outdoor Track and Field Championships, becoming the national champion in the 100m sprint with a time of 10.82 seconds.&nbsp;</span></p><h5>Early Career</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Richardson won the 100m event at the AAU Junior Olympics in 2016 and the USATF Junior Olympics in 2017. The same year, she had her international debut at the Pan American U20 Athletics Championships and won gold in the 4x100m relay.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">At Louisiana State University, Richardson was a finalist in the NCAA Division I Indoor Championships in 2019. There, she broke two world records in the 100m and 200m events. She also surpassed Allyson Felix's 2004 Olympic record in the 200m event and claimed second place in the 4x100m relay.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Richardson went pro after the NCAA Championships and trained under former Olympic sprinter Dennis Mitchell.&nbsp;</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (100m - Women, 4 x 100m Relay - Women), bronze (200m - Women)</li><li>Years of participation: 100m - Women 2023; 200m - Women 2023; 4 x 100m Relay - Women 2023</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2023 (100m - Women, 4 x 100m Relay - Women)</li><li>Bronze – 2023 (200m - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Paris 2024, gold (4 x 100m Relay - Women), silver (100m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1692911395/TeamUSA%20Assets/Athlete%20Profiles/Sha%27Carri%20Richardson%201154903/richardson_s_bio_1154903.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1692911476/TeamUSA%20Assets/Athlete%20Profiles/Sha%27Carri%20Richardson%201154903/richardson_s_hero_1154903.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1692911476/TeamUSA%20Assets/Athlete%20Profiles/Sha%27Carri%20Richardson%201154903/richardson_s_hero_1154903.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1716478119/TeamUSA%20Assets/Richardson_Shacarri_MS24.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sha'Carri Richardson 1154903"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Top Athletes"
+        }
+      ]
+    },
+    {
+      "first_name": "Joshua",
+      "last_name": "Richmond",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1985-12-19T00:00:00",
+        "hometown": {
+          "city": "Hillsgrove",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 41.4684,
+          "longitude": -76.6005
+        },
+        "education": "Sullivan County High School (Laporte, Pa.) ‘04 Troy State Online '14, General Education",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Michael and Sandra Richmond</li><li>Has one brother, Justin</li><li>Has two sons, Tristan and Beaux</li><li>Married to wife, Scharri</li><li>Member of the U.S. Army Marksmanship Unit</li><li>Deployed to Afghanistan in 2011</li><li>Earned the Army Commendation Medal, Afghanistan Campaign Medal, National Defense Service Medal, Global War on Terrorism Service Medal, Army Service Ribbon, U.S. International Distinguished Badge and the Grenade Marksmanship Badge.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2007 Pan American Games, gold</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 7th (Double Trap - Men)</li><li>Olympic Games London 2012, 16th (Double Trap - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – gold (Double Trap - Men), silver (Double Trap - Team - Men)</li><li>Years of participation: Double Trap - Men 2006, 2007, 2009, 2010, 2011, 2014; Double Trap - Team - Men 2006, 2009, 2010, 2014</li><li>Medals: 7 (5 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2014 (Double Trap - Men);  2010 (Double Trap - Men, Double Trap - Team - Men);  2009 (Double Trap - Team - Men);  2006 (Double Trap - Team - Men)</li><li>Silver – 2014 (Double Trap - Team - Men)</li><li>Bronze – 2007 (Double Trap - Men)</li></ul></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696813/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joshua%20Richmond%20849794/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696814/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joshua%20Richmond%20849794/Richmond_Josh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joshua Richmond 849794"
+        }
+      ]
+    },
+    {
+      "first_name": "Penny",
+      "last_name": "Ricker",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1971-03-10T00:00:00",
+        "hometown": {
+          "city": "Green Bay",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 44.51916,
+          "longitude": -88.01983
+        },
+        "education": "University of Wisconsin–Oshkosh",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Three-time Paralympian (2004, 2014, 2018)</li><li>Bronze medalist in sitting volleyball at Paralympic Games Athens 2004&nbsp;</li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"color: rgb(0, 36, 76);font-size: 11pt;\">Penny&nbsp;</span><span style=\"color: rgb(31, 31, 31);font-size: 11pt;\">Ricker grew up playing volleyball including playing for her high school varsity team in Green Bay, Wisconsin. A train incident in her senior year of college caused her right leg to be amputated above the knee.</span></p><p><span style=\"color: rgb(31, 31, 31);font-size: 11pt;\">Greeley would make her Paralympic debut at age 32 in sitting volleyball, winning a bronze medal at the Paralympic Games Athens 2004. Seven years later, after trying wheelchair basketball, Ricker made her first U.S. team for the wheelchair curling world championships in 2011.</span></p><p><span style=\"color: rgb(31, 31, 31);font-size: 11pt;\">Ten years after her Paralympic debut, she made Team USA in wheelchair curling and competed in her first Winter Paralympics.</span></p><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Athens 2004, bronze (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 7th (Team - Mixed)</li><li>Years of participation: Team - Mixed 2011, 2012, 2013, 2015, 2016, 2017</li><li>Top finish: 4th – 2013 (Team - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Curling",
+          "type": "Paralympic",
+          "season": "Winter"
+        },
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005946/TeamUSA%20Assets/Athlete%20Profiles/Penny%20Greely%20814229/Greely_Penny.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Penny Greely 814229"
+        },
+        {
+          "title": "Wheelchair Curling"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Keilani",
+      "last_name": "Ricketts",
+      "bio": {
+        "height": "6' 2\"",
+        "birthday": "1991-09-01T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Archbishop Mitty High School Oklahoma - 2013",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 10</li><li>Parents are Jeff and Carol Ricketts</li><li>Married to Sean Tumanuvao</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>Pan American Games, Guadalajara, 2011 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (Team - Women)</li><li>Years of participation: Team - Women 2012, 2018</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2018 (Team - Women)</li><li>Silver – 2012 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>AT OKLAHOMA</strong></p>\n<p><strong>2013:&nbsp;</strong>USA Softball Collegiate Player of the Year...First Team All-American...Big 12 Pitcher of the Year...First Team All-Big 12...Finalist for Honda Cup...NCAA National Champion\n<br>\n<strong>2012:</strong>&nbsp;&nbsp;USA Softball Collegiate Player of the Year...NFCA First Team All-American...First Team All-Big 12...Big 12 Pitcher of the Year...Honda Softball Player of the Year...NCAA WCWS All-Tournament Team\n<br>\n<strong>2011:</strong>&nbsp;NFCA First Team All-American...First Team All-Big 12\n<br>\n<strong>2010:</strong>&nbsp;NFCA Second Team All-American...First Team All-Big 12...Big 12 Championship Most Outstanding Player</p>\n<p><strong>Click here to view Keilani Rickett's full collegiate bio &raquo;</strong></p>\n<p><strong>View Keilani Ricketts' website&nbsp;&raquo;</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698049/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keilani%20Ricketts%20851757/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698050/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keilani%20Ricketts%20851757/RickettsKeilani-Ricketts.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keilani Ricketts 851757"
+        }
+      ]
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "Rider",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1997-03-06T00:00:00",
+        "hometown": {
+          "city": "Germantown",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 35.0976,
+          "longitude": -89.782
+        },
+        "education": "Queens University of Charlotte",
+        "fun_fact": null,
+        "biography": "<p><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team Relay - Mixed, Olympic Distance - Men)</li><li>Under 23 World Championships, Lausanne, 2019 (Team Relay - Mixed, Olympic Distance - Men)</li><li>Under 23 World Championships, Gold Coast, 2018 (Olympic Distance - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 37th (Individual Ranking - Men)</li><li>Years of participation: Individual Ranking - Men 2021, 2022, 2023, 2024, 2025; Olympic Distance - Men 2021, 2022, 2023; Super Sprint Distance - Men 2022, 2023; Team Relay - Mixed 2022, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2022 (Team Relay - Mixed)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Team Relay - Mixed), 29th (Olympic Distance - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680795831/Seth-Rider-Weekend-Notebook.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928828/NGB%20Triathlon/Elite%20Athlete%20Profiles/Seth_Rider.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683142459/NGB%20Triathlon/Migration/Athlete%20Profiles/Seth%20Rider%20850374/020921-seth-rider.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Seth Rider 850374"
+        },
+        {
+          "title": "Triathlon"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    }
+  ]
+}

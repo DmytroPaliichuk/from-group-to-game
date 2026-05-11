@@ -1,0 +1,719 @@
+{
+  "entries": [
+    {
+      "first_name": "Nikita",
+      "last_name": "Rubocki",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1999-10-11T00:00:00",
+        "hometown": {
+          "city": "Boise",
+          "state": "ID",
+          "country": "United States",
+          "latitude": 43.615,
+          "longitude": -116.2023
+        },
+        "education": "Bishop Kelly High School (Boise, Idaho) ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Cup, 2024 (Halfpipe - Women, Overall Park & Pipe - Women)</li><li>World Cup, 2023 (Halfpipe - Women, Overall Park & Pipe - Women)</li><li>World Cup, 2022 (Halfpipe - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of John and Melanie Rubocki</li><li>Has three siblings, Anika, Ben and Jack</li><li>Speaks Spanish</li><li>Hobbies include swimming, writing and reading</li><li>Ranked 22nd overall in the Association of Freeskiing Professionals heading into the 2016 Winter Youth Olympic Games.</li></ul><br>\n\n</p><p><strong><br>\n</strong></p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720126/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nikita%20Rubocki%20908744/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720129/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nikita%20Rubocki%20908744/FreestyleSkiing_Robocki_Nikita_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nikita Rubocki 908744"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Rudnitsky",
+      "bio": {
+        "height": "6'",
+        "birthday": "1995-12-16T00:00:00",
+        "hometown": {
+          "city": "Herndon",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9696,
+          "longitude": -77.3869
+        },
+        "education": "Herndon High School (Class 2014) ",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><div><ul><li>Top K1 and C2 with&nbsp;Elliot Bertrand&nbsp;junior in 2012 and 2013 US Junior National Team</li><li>2013 U.S. National Championships: 5th in K1</li><li>2012 Maryland Championship at ASCI:&nbsp;1st K1<br /></li><li>2011 Vajda Cup: Overall 15th place in K1 Under-16 category</li><li>2011 Junior Pre-World Championships in Wausau, WI: 1st&nbsp;in C2 with Liam Malakoff</li><li>2011 Junior Pre-World in Wausau, WI: 15th in K1</li><li>2011 U.S. Open: 3rd in K1 Junior category&nbsp;</li><li>2010 Age Group Nationals:&nbsp;3rd in K1&nbsp;Under-16 category&nbsp;</li><li>2010 USA Junior Olympics: 2nd in K1 Under-16 category</li></ul><p style=\"color: #222222;\"><strong style=\"line-height: 2em;\">Recent Results:</strong></p><ul><li>2015 ICF Canoe Slalom Junior &amp; U23 World Championships: 48th in U23 K1</li><li>2015 U.S. National Team Trials: 8th in K1 and 4th in C2 with&nbsp;with&nbsp;Elliot Bertrand<br /></li><li><span style=\"color: #222222;\">2014 U.S. National Championships: 5th in K1 and 1st in C2 with </span>Elliot Bertrand</li><li>2014 U.S Junior and Under-23 National Team Trials: 3rd in K1 and 1st in&nbsp;C2 with&nbsp;Elliot Bertrand</li><li>2014 U.S. National Team Trials: 7th in K1 and 7th in C2 with&nbsp;Elliot Bertrand</li></ul><h5>Quick Facts</h5><br />Michael is a member of the U.S. Under-23 National Team and a member of the Potomac Whitewater Racing Club in Washington DC. Michael started competing in the men's kayak category (K1) at age 13 and in double canoe (C2) at 15. His first C2 partner was former Junior National Team member Liam Malakoff; back then Michael was a bowman. The next year (2012), because Liam decided to retire from competitive Canoe Slalom racing, Michael started racing C2 as a \"sternman\" with Elliot Bertrand.<br /><br />The main training ground for Michael is the Feeder Canal on the Potomac River (40 minutes from his hometown) and the Dickerson Whitewater Course at NRG's Dickerson Generating Station (1 hour away). His coach during his first four years of racing was two-time Olympic medalist Dana Chladek. Currently, he trains with National Team Coach Silvan Poberaj.<div><br />During his free time, Michael enjoys playing guitar and piano, watching youtube videos, and messing around on the Internet.</div></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720171/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20Rudnitsky%20808899/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720173/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20Rudnitsky%20808899/Michael-Rudnitsky.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Rudnitsky 808899"
+        }
+      ]
+    },
+    {
+      "first_name": "Martha",
+      "last_name": "Ruether",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-07-03T00:00:00",
+        "hometown": {
+          "city": "Allegany",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.0795,
+          "longitude": -78.4842
+        },
+        "education": "Allegany-Limestone High School (Allegany, N.Y.) ‘12 DeVry University ’17, Business Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Ruether got her start in swimming when she attended a swim camp for people with a visual impairment in 2004 when she was at school in Allegany, New York</li><li>She is a sprinter and has been in a hurry her whole life, as she was born 16 weeks premature weighing 1lb. 8 oz. and legally blind</li><li>Ruether made her senior international debut in Cincinnati, Ohio in 2008</li><li>Daughter of Mike and Maureen Ruether</li><li>Has one sister, Courtney Harrigan</li><li>Enjoys knitting, spending time with friends and she is a Whovian</li><li>Her favorite movie is The Imitation Game</li><li>Favorite book is “All The Bright Places</li><li>Enjoys hockey and can water ski</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 13th (100m Butterfly S13 - Women), 15th (100m Breaststroke SB13 - Women, 50m Freestyle S13 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 8th (100m Breaststroke SB13 - Women), 10th (100m Freestyle S13 - Women, 200m Individual Medley SM13 - Women), 12th (50m Freestyle S13 - Women), 14th (100m Butterfly S13 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 4th (50m Freestyle S13 - Women), 5th (100m Breaststroke SB13 - Women), 8th (100m Butterfly S13 - Women), 12th (100m Freestyle S13 - Women)</li><li>Years of participation: 100m Breaststroke SB13 - Women 2013, 2015, 2019; 100m Butterfly S13 - Women 2019; 100m Freestyle S13 - Women 2013, 2015, 2019; 50m Freestyle S13 - Women 2013, 2015, 2019; 100m Backstroke S13 - Women 2013, 2015; 400m Freestyle S13 - Women 2015</li><li>Top finish: 4th – 2019 (50m Freestyle S13 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S13, SB13, SM13",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010432/TeamUSA%20Assets/Athlete%20Profiles/Martha%20Ruether%20838329/Ruether_Martha_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Martha Ruether 838329"
+        }
+      ]
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Ruggeri III",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1988-11-12T00:00:00",
+        "hometown": {
+          "city": "Manlius",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.0106,
+          "longitude": -75.9747
+        },
+        "education": " University of Illinois ",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-f-Logo__blue_100_100x100.jpg?h=50&la=en&w=50&hash=C19357865BB1BF4A1FAD45443CFC1A477E15D161\" style=\"width: 50px; height: 50px;\"/></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"/></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Men, Horizontal Bar - Men, Vault - Men, Floor Exercise - Men, Parallel Bars - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Paul and Kathryn Ruggeri</li><li>Has two siblings, Morgan and Chris</li><li>Hobbies include wakeboarding, snowboarding, jet skiing, water skiing, painting, drawing and photography</li><li>Favorite food is his grandma’s gnocchi</li><li>Speaks Spanish.</li><li><p>Fayetteville-Manlius High School (Manlius, N.Y.) ‘07 University of Illinois ’12, Molecular and Cellular Biology</p></li></ul><br /><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USA Gymnastics</p>&nbsp;<br /><p>&nbsp;</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 5th (Team - Men), 9th (Vault - Men), 12th (Floor Exercise - Men), 53th (Parallel Bars - Men), 194th (Pommel Horse - Men), 220th (Horizontal Bar - Men)</li><li>Years of participation: Floor Exercise - Men 2015; Horizontal Bar - Men 2015; Parallel Bars - Men 2015; Pommel Horse - Men 2015; Team - Men 2015; Vault - Men 2015</li><li>Top finish: 5th – 2015 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365374/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paul%20Ruggeri%20III/Gymnastics_Artistic_Men_Ruggeri_Paul.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paul Ruggeri III"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Henrik",
+      "last_name": "Rummel",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1987-09-26T00:00:00",
+        "hometown": {
+          "city": "Pittsford",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.09034,
+          "longitude": -77.52222
+        },
+        "education": "Pittsford Mendon High School (Pittsford, N.Y.) ‘05 Harvard University '09, Applied Math",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Geoff and Nina Rummel</li><li>Has one brother, Svelnd</li><li>Married to Abra Amwake</li><li>Mother, Nina, is currently in Denmark, working as a Danish military doctor, and has served in Iraq and Afghanistan</li><li>Enjoys playing Scrabble, basketball and pool</li><li>Speaks five languages: Danish, English, French, German and Swedish.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, 7th (Four - Men)</li><li>Olympic Games London 2012, bronze (Four - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 7th (Four - Men)</li><li>Years of participation: Four - Men 2010, 2013, 2014, 2015; Eight - Men 2011; Coxed Pair - Men 2009</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2009 (Coxed Pair - Men)</li><li>Silver – 2014 (Four - Men)</li><li>Bronze – 2013 (Four - Men)</li></ul></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720166/TeamUSA%20Assets/Migration/Athlete%20Profiles/Henrik%20Rummel%20873359/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720168/TeamUSA%20Assets/Migration/Athlete%20Profiles/Henrik%20Rummel%20873359/rummel_henrik_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Henrik Rummel 873359"
+        }
+      ]
+    },
+    {
+      "first_name": "Cierra",
+      "last_name": "Runge",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1996-03-07T00:00:00",
+        "hometown": {
+          "city": "Cochranville",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.8498,
+          "longitude": -75.9288
+        },
+        "education": "21 Century Cyber School (West Grove, Pa.) ‘14 University of Wisconsin ’19, Undeclared",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Scott and Diane Runge</li><li>Has two siblings, Maddie and Taylor.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 200m Freestyle Relay - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (4 x 200m Freestyle Relay - Women)</li><li>Years of participation: 4 x 200m Freestyle Relay - Women 2015, 2017; 400m Freestyle - Women 2015</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2017 (4 x 200m Freestyle Relay - Women);  2015 (4 x 200m Freestyle Relay - Women)</li></ul></ul><h5>More</h5>USA Swimming<strong></strong>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700560/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cierra%20Runge%20873281/runge_cierra_080215_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700562/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cierra%20Runge%20873281/Runge_Cierra_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cierra Runge 873281"
+        }
+      ]
+    },
+    {
+      "first_name": "Marla",
+      "last_name": "Runyan",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1969-01-04T00:00:00",
+        "hometown": {
+          "city": "Santa Maria",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.953,
+          "longitude": -120.4358
+        },
+        "education": "San Diego State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> 100-meter, 200-meter, 400-meter, women's long jump</li><li>Marla Runyan is legally blind, suffering from Stargardt's Disease since age nine</li><li>She is the only U.S. athlete in the Games to have become a Paralympian-turned-Olympian</li><li>Overtime, Runyan transitioned from short-distance to middle-distance, to then long-distance running</li><li>Inducted into the USOPC Hall of Fame, Class of 2025</li></ul><h5>Biographical Information</h5><p>Marla Runyan made history as the first visually impaired athlete to compete in the Olympic Games and remains the only U.S. athlete to have competed in both the Olympic and Paralympic Games. At the Paralympic Games Barcelona 1992, she achieved remarkable success, winning gold in the 100-, 200-, and 400-meter races as well as the long jump, while also competing in cycling. She added a fifth gold medal at the Paralympic Games Atlanta 1996 with a victory in the pentathlon, along with a silver in the shot put.</p><p>In 2000, Runyan became the first blind athlete to qualify for the U.S. Olympic team, competing in the 1,500-meter event in Sydney. In Paralympic sport, Runyan held the women’s 400-meter world T13 record for an astounding 29 years, until it was broken in 2024. Over the course of her career, she earned six Paralympic medals—five of them gold—and claimed three national titles in outdoor track and field and three in road 5K events.</p><p>In 2001, she co-authored her autobiography, \"No Finish Line: My Life as I See It,\" offering an inspiring account of her journey. Since 2013, she has continued to make an impact as a teacher and ambassador for the Perkins School for the Blind in Watertown, Massachusetts.</p><h5>Olympic/Paralympic Experience</h5><ul><li>2-time Paralympian; 6-time Paralympic medalist (5 gold, 1 silver)</li><ul><li>Paralympic Games Atlanta 1996, gold (Pentathlon P10-12 - Women), silver (Shot Put F12 - Women)</li><li>Paralympic Games Barcelona 1992, gold (100m B3 - Women, 200m B3 - Women, 400m B3 - Women, Long Jump B3 - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Athens 2004, 18th (5000m - Women)</li><li>Olympic Games Sydney 2000, 8th (1500m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2003 –  (Half Marathon - Women)</li><li>Years of participation: Half Marathon - Women 2003; 5000m - Women 2001; 1500m - Women 1999</li><li>Top finish:  – 2003 (Half Marathon - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745886851/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marla%20Runyan/runyan_m_bio_912628.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 5,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        },
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "1992, 1996; 2000, 2004",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745886794/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marla%20Runyan/runyan_m_hero_912628.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746460495/TeamUSA%20Assets/Hall%20of%20Fame%20Headshots/2025%20Hall%20of%20Fame%20Assets/HOF-Inductee-DEP-Card-MarlaRunyan.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365378/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marla%20Runyan/RunyanM_track_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marla Runyan"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Para Track and Field"
+        },
+        {
+          "title": "Hall of Fame, Class of 2025"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        }
+      ]
+    },
+    {
+      "first_name": "Galen",
+      "last_name": "Rupp",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1986-05-08T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "University of Oregon ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Gregory and Jamie Rupp</li><li>Has one brother, Colin</li><li>Married to Even Keara Rupp and has four children</li><li>Seven-time NCAA All-American (twice outdoors, four indoors and once in cross-country) in 2007</li><li>Won the inaugural Bowerman Award, given to the men’s and women’s national track and field athlete of the year</li><li>Won five NCAA titles as a senior at the University of Oregon.</li></ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, 8th (Marathon - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Marathon - Men), 5th (10000m - Men)</li><li>Olympic Games London 2012, silver (10000m - Men), 7th (5000m - Men)</li><li>Olympic Games Beijing 2008, 13th (10000m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 5th (10000m - Men, 5000m - Men)</li><li>Years of participation: 10000m - Men 2007, 2009, 2015; 5000m - Men 2015; 1500m (Indoor) - Men 2012; 3000m (Indoor) - Men 2010</li><li>Top finish: 5th – 2010 (3000m (Indoor) - Men), 2015 (10000m - Men), 2015 (5000m - Men)</li></ul><h5>More</h5>USA Track &amp; Field<br>\n<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662072/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/rupp_g_bio_912826.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010437/TeamUSA%20Assets/Athlete%20Profiles/Galen%20Rupp%20912826/Rupp_Galen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Galen Rupp 912826"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Rusher",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1999-06-10T00:00:00",
+        "hometown": {
+          "city": "West Bend",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.4222,
+          "longitude": -88.1833
+        },
+        "education": "Yale University '23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>P<span>arents rowed in the 1988 and 1992 Olympics and met while on the national team</span></li><li>L<span>ists his father as his personal hero because he has always been a pillar of strength and taught Nick to never give up in the face of adversity</span></li><li>Wants to become a cancer researcher after his rowing career ends</li><li>Hobbies include playing classical guitar and birdwatching</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 4th (Eight - Men)</li><li>Years of participation: Eight - Men 2022</li><li>Top finish: 4th – 2022 (Eight - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Championships Under 23, Racice, 2021 (Eight - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Eight - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717008580/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Rusher%201249188/Rusher_N_bio_1249188.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717008503/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Rusher%201249188/Rusher_N_thumbnail_1249188.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717008503/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Rusher%201249188/Rusher_N_thumbnail_1249188.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717008503/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Rusher%201249188/Rusher_N_thumbnail_1249188.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rowing"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Nick Rusher 1249188"
+        }
+      ]
+    },
+    {
+      "first_name": "Alie",
+      "last_name": "Rusher",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1996-05-24T00:00:00",
+        "hometown": {
+          "city": "West Bend",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.4222,
+          "longitude": -88.1833
+        },
+        "education": "St. Paul's School Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Enjoys sailing, hiking and reading</li><li>Was first-team Pac-12 All-Academic in 2017 and 2018</li><li>Won the Stanford Award of Excellence</li><li>Is an avid nature photographer and volunteers at the Cedar Lakes Conservation Foundation.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 World Rowing Under 23 Championships, bronze (eight)</li>\r\n                            <li>2017 World Rowing Under 23 Championships, 10th (four)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>One-time Olympian (2020)</li><li>Olympic Games Tokyo 2020, 10th (quad sculls)</li></ul><h5>More</h5>US Rowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687363271/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alie%20Rusher/Rusher_Alie_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alie Rusher"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyle",
+      "last_name": "Russell",
+      "bio": {
+        "height": "6'9\"",
+        "birthday": "1993-08-25T00:00:00",
+        "hometown": {
+          "city": "Loomis",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.8207,
+          "longitude": -121.1072
+        },
+        "education": "Del Oro High School/2011 UC Irvine (2016; Anthropology)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born: Kyle Elton Russell (1993) in Sacramento, Calif</li><li>Parents are Craig Russell, Lisa Russell-Artale and Christopher Artale</li><li>Has three older sisters: Jamie Russell (1991), who was a middle hitter at the University of Alaska, Anchorage, Meghann Palazzo (1989) and Kate Jongsma (1991)</li><li>“I admire my parents for always being there for me and supporting me in everything I do. I admire my sister Jamie for being a great friend, mentor and the reason I started playing volleyball.”</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championships, 2013 (Team - Men)</li></ul><h5>More</h5><p>Kyle wanted to quit volleyball the first two weeks he started playing.</p>\n<p>&ldquo;Growing up, I was forced to go to my sister&rsquo;s volleyball tournaments, and one day her coach approached me asking if I&rsquo;d like to try out for a boy&rsquo;s club team.&nbsp; I did, and for first two weeks of practice I didn&rsquo;t like it and wanted to quit.&nbsp; Then, one day everything just clicked, and I found I excelled at playing and really fell in love with the sport.&nbsp; I always thought I would play basketball in college; however, after playing both basketball and volleyball in high school, I decided my true love was volleyball and that that&rsquo;s what I wanted to do in college.&nbsp; I owe my love for volleyball to my sister.&rdquo;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 6th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365352/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kyle%20Russell/2020KyleRussell.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kyle Russell"
+        }
+      ]
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Russell",
+      "bio": {
+        "height": "6'9",
+        "birthday": "1993-06-04T00:00:00",
+        "hometown": {
+          "city": "Ellicott City",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.2737,
+          "longitude": -76.7972
+        },
+        "education": "Pennsylvania State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Stewart and Marian Russell</li><li>Born in 1993</li><li>Is the second-oldest of five brothers. The other brothers are Peter (1992), Samuel (1995), Tim (1999) and Paul (2002)</li><li>Peter also plays volleyball professionally</li><li>Aaron married Kendall Pierce in 2017. She was part of Penn State's women's volleyball team from 2012-15</li><li>Trained with the girls volleyball team at his high school because it did not have a boys' volleyball team</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2018, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715365061/Russell_Aaron_VB.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717606480/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Russell/Russell_A_hero.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365400/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Russell/2020AaronRussell2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aaron Russell"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Francesca",
+      "last_name": "Russo",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1995-11-27T00:00:00",
+        "hometown": {
+          "city": "Wayne",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.9228,
+          "longitude": -74.2689
+        },
+        "education": "Wayne Valley High School University of Notre Dame",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team Sabre - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2012 – bronze (Individual Sabre - Women)</li><li>Years of participation: Individual Sabre - Women 2011, 2012</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2012 (Individual Sabre - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010274/TeamUSA%20Assets/Athlete%20Profiles/Francesca%20Russo%201101631/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Francesca Russo 1101631"
+        }
+      ]
+    }
+  ]
+}

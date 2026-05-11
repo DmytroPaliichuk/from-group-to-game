@@ -1,0 +1,1055 @@
+{
+  "entries": [
+    {
+      "first_name": "Emily",
+      "last_name": "Infeld",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1990-03-21T00:00:00",
+        "hometown": {
+          "city": "University Heights",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.5034,
+          "longitude": -81.5204
+        },
+        "education": "Beaumont High School (Cleveland Heights, Ohio) ‘08 Georgetown University ’12",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Michael and Susan Infeld</li><li>Has two sisters, Maggie and Lucy</li><li>2012 NCAA 3,000-meter indoor champion</li><li>Hobbies include baking and reading.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 11th (10000m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 6th (10000m - Women)</li><li>Years of participation: 10000m - Women 2015, 2017; Individual Cross Country Long Distance - Women 2013; Team Cross Country Long Distance - Women 2013</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2015 (10000m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695813/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Infeld%20861087/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695815/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Infeld%20861087/infeld_emily_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Infeld 861087"
+        }
+      ]
+    },
+    {
+      "first_name": "Rene",
+      "last_name": "Ingram",
+      "bio": {
+        "height": "6'5",
+        "birthday": "1999-03-05T00:00:00",
+        "hometown": {
+          "city": "Fort Sill",
+          "state": "OK",
+          "country": "United States",
+          "latitude": 34.6767,
+          "longitude": -98.3906
+        },
+        "education": "Hans-Carossa Gymnasium (Germany) Högskolan Kristianstad (Sweden)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has been playing handball since 2006 and started at his hometown club ETSV 09 Landshut in Germany</li><li>Discovered the sport due to his mother who used to be a goalkeeper in the German Regionalliga (third-highest division at the time)</li><li>Started trying out for various youth teams of renowned German handball teams in 2014 and decided at 15 years old to play for two of the top handball academies</li><li>Graduated high school at 17 years old in 2016</li><li>Currently playing at the Division 1 and Champions League club IFK Kristianstad in Sweden</li><li>Is the youngest of 3 brothers.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li><li>World Junior Championship, 2019 (Team - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 20th (Team - Men)</li><li>Years of participation: Team - Men 2023</li><li>Top finish: 20th – 2023 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719709/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rene%20Ingram%201147303/Rene_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719710/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rene%20Ingram%201147303/Rene_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rene Ingram 1147303"
+        }
+      ]
+    },
+    {
+      "first_name": "Sabrina",
+      "last_name": "Ionescu",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1997-12-06T00:00:00",
+        "hometown": {
+          "city": "Walnut Creek",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.9068,
+          "longitude": -122.0657
+        },
+        "education": "University of Oregon",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Liliana Blaj and Dan Ionescu</li><li>Has two brothers, Andrei and twin Edward</li><li>Is ambidextrous</li><li>Of Romanian descent</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Sydney, 2022 (Team - Women)</li><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>3x3 World Cup, Manila, 2018 (Team - Women)</li><li>World Championship U-17, Bratislava, 2014 (Team - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718206961/Ionescu_Sabrina_USA.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718207092/Ionescu_Atkins_2023.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012177/TeamUSA%20Assets/Athlete%20Profiles/Sabrina%20Ionescu%201155915/Ionescu_Sabrina.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sabrina Ionescu 1155915"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Iosefo",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1990-01-13T00:00:00",
+        "hometown": {
+          "city": "Wahiawa",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.5022,
+          "longitude": -158.0236
+        },
+        "education": "Leilehua High School (Wahiawa, Hawaii) ‘08 University of Montana ’15, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sifoua and Lolesio Iosefo</li><li>The youngest of a family of eight and grew up where everything was a competition, especially in sports</li><li>Received a football scholarship and was the only one in his family to graduate</li><li>Hobbies include hiking, camping, snowboarding, road trips, traveling, going to the beach, cooking and spending time with family and friends.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, 9th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2018</li><li>Top finish: 6th – 2018 (Team - Men)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012364/TeamUSA%20Assets/Athlete%20Profiles/Martin%20Iosefo%20875280/iosefo_martin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Martin Iosefo 875280"
+        }
+      ]
+    },
+    {
+      "first_name": "Kristian",
+      "last_name": "Ipsen",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1992-10-20T00:00:00",
+        "hometown": {
+          "city": "Clayton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.9466,
+          "longitude": -121.933
+        },
+        "education": "De La Salle Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kent and Yvette Ipsen</li><li>Has a younger sister, Lauren</li><li>Kristian has a degree in science technology and society with a focus in innovation, organizations and technology from Stanford</li><li>His family owns a popular pizza restaurant, Skipolini’s Pizza, in the Bay Area</li><li>Kristian has been diving since 1998 and was featured in Sports Illustrated's Faces in the Crowd</li><li>At age 8, he became the youngest diver to final on all three boards at the Junior National Championships and later became the youngest diver to win a junior national title</li><li>Dove for coach Phil Tonne at Diablo Divers before starting his collegiate career at Stanford the fall of 2011</li></ul><h5>Career Highlights</h5><ul><li>14-time senior national champion</li><li>National team member 2006, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016</li><li>2016 World Cup bronze medalist (3-meter)</li><li>2010 World Cup silver medalist (synchronized 3-meter)</li><li>Three-time World Cup team member (2010, 2012, 2016)</li><li>2011 Pan American Games, sixth (3-meter individual), second (3-meter synchro)</li><li>Three-time NCAA champion while competing for Stanford University</li><li>Five-time Junior World Championships medalist (two gold, one silver, two bronze)</li><li>16-time junior national champion</li><li>Five-time Junior Pan American Championships medalist (three gold, two silver)</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (3m Springboard - Men)</li><li>Olympic Games London 2012, bronze (3m Springboard Synchro - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 6th (1m Springboard - Men), 7th (3m Springboard Synchro - Men)</li><li>Years of participation: 1m Springboard - Men 2013, 2015; 3m Springboard Synchro - Men 2009, 2011, 2015; 3m Springboard - Men 2011, 2013</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2009 (3m Springboard Synchro - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695801/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kristian%20Ipsen%20845063/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695802/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kristian%20Ipsen%20845063/Ipsen-Kristian-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kristian Ipsen 845063"
+        }
+      ]
+    },
+    {
+      "first_name": "Lynna",
+      "last_name": "Irby",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1998-12-06T00:00:00",
+        "hometown": {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.7684,
+          "longitude": -86.1581
+        },
+        "education": "University of Georgia",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Billie Young, Jr. and Nakela Young</li><li>Has three siblings, Billie III, Janay and William</li><li>Two-time NCAA First Team Indoor All-American (2018, 2019)</li><li>2018 Bowerman Award semifinalist</li><li>2018 NCAA champion in the 400-meter.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Pan Am Games, gold (4x400-meter relay)</li>\r\n                            <li>2019 Pan Am Games, bronze (4x100-meter relay)</li>\r\n                            <li>2019 NCAA Division I Indoor Championships, 5th (400-meter)</li>\r\n                            <li>2018 NCAA Division I Outdoor Championships, gold (400-meter), bronze (200-meter)</li>\r\n                            <li>2018 NCAA Division I Indoor Championships, bronze (400-meter, 200-meter)</li>\r\n                            <li>2016 IAAF World Under-20 Championships, gold (4x400-meter relay, 4x100-meter mixed relay), silver (400-meter)</li>\r\n                            <li>2015 IAAF World Youth Championships, gold (4x400-meter relay), silver (400-meter)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, gold (4 x 400m Relay - Women), bronze (4 x 400m Relay - Mixed)</li></ul></ul><h5>More</h5>USA Track and Field<h5>World Championships Experience</h5><ul><li>Most recent: 2023 –  (4 x 400m Relay - Women), 9th (400m - Women)</li><li>Years of participation: 4 x 400m Relay - Women 2023; 400m - Women 2023</li><li>Top finish:  – 2023 (4 x 400m Relay - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662562/TeamUSA%20Assets/Athlete%20Profiles/Lynna%20Irby%20996829/Irby_L_Bio_996829.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662806/TeamUSA%20Assets/Athlete%20Profiles/Lynna%20Irby%20996829/Irby_L_Hero_996829.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012836/TeamUSA%20Assets/Athlete%20Profiles/Lynna%20Irby%20996829/irby_lynna_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lynna Irby 996829"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Irr",
+      "bio": {
+        "height": "6'4''",
+        "birthday": "1988-07-17T00:00:00",
+        "hometown": {
+          "city": "Newfane",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.2706,
+          "longitude": -78.6947
+        },
+        "education": "Canisius College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Irr started karate at age 8.<h5>Career Highlights</h5><ul>\r\n                            <li>K1 Premier League Salzburg Silver Medalist (2020)</li>\r\n                            <li>K1 Series A Montreal Bronze Medalist (2019)</li>\r\n                            <li>Senior Pan American Bronze Medalist (2019, 2017)</li>\r\n                            <li>K1 Series A Shanghai Bronze Medalist (2018)</li>\r\n                            <li>Senior Pan American Champion (2018)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 9th (+75kg Kumite - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 7th (+84kg Kumite - Men), 33th (Team Kumite - Men)</li><li>Years of participation: +84kg Kumite - Men 2016, 2018, 2021; Team Kumite - Men 2018, 2021</li><li>Top finish: 7th – 2018 (+84kg Kumite - Men), 2021 (+84kg Kumite - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686925661/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brian%20Irr/Brian-Irr-headshot-2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Irr"
+        }
+      ]
+    },
+    {
+      "first_name": "Birk",
+      "last_name": "Irving",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1999-07-26T00:00:00",
+        "hometown": {
+          "city": "Winter Park",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.8933,
+          "longitude": -105.7639
+        },
+        "education": "University of Utah",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Brendan and Stephanie Irving</li><li>Has one sibling, Svea</li><li>Hails from an avid skiing family in which his father works for ski patrol, his mother is a former alpine racing coach and his sister also competes in halfpipe and slopestyle</li><li>Began freestyle skiing and completed his first 360 at age 5</li><li>Signed with his first sponsor at age 7</li><li>Is a member of the U.S. Freeskiing Rookie Team and competes in both halfpipe and superpipe</li><li>Hobbies include mountain biking and fishing</li></ul><h5><span style='font-size: 11pt;'>Biographical Information</span></h5><p><span style='font-size: 11pt;'>At just five years old, Birk Irving was already sliding rails and completing his first 360, displaying the natural talent and fearlessness that would define his career. By age seven, he had landed his first sponsor, signaling the start of a professional trajectory that would take him to the sport's highest levels. Irving initially competed in both halfpipe and slopestyle before focusing on the halfpipe, where he has become a consistent podium threat and one of America's top competitors.</span></p><p><span style='font-size: 11pt;'>Irving's international breakthrough came at the Youth Olympic Winter Games Lillehammer 2016, where he won gold in the halfpipe. His progression continued through the world cup circuit, where he earned his first bronze medal at the 2021 World Championships. Irving also captured his first X Games medal with a bronze in the superpipe, marking his arrival among the sport's elite.</span></p><p><span style='font-size: 11pt;'>The 2022 Olympic Winter Games Beijing 2022 marked Irving's first appearance on the Olympic stage, where he finished fifth in the men's halfpipe. Following Beijing 2022, Irving enjoyed a career-defining season in 2022-2023, capturing the FIS Halfpipe Ski World Cup Crystal Globe.&nbsp;</span></p><p><span style='font-size: 11pt;'>Irving’s runs are characterized by technical difficulty and amplitude, featuring combinations that include switch left double 1080s, right side double 1260s, double 1440s, and his signature double flat spin 720—a unique pretzel flip that sets him apart from competitors. Irving's home-turf performances have been particularly memorable, including his dramatic comeback victory at the 2022 U.S. Grand Prix at Copper Mountain.</span></p><p><span style='font-size: 11pt;'>Beyond competitive skiing, Irving enjoys surfing and dreams of being barreled for 30 seconds straight. His favorite food is Mexican, and when not in the halfpipe, he loves skiing and snowmobiling in the backcountry with his sister Svea and friends. With his father's support from Winter Park and a tight-knit skiing family behind him, Irving continues to push the boundaries of what's possible in the halfpipe while representing the passion and dedication that defines Colorado's freestyle skiing community.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 5th (Halfpipe - Men)</li><li>Olympic Games Beijing 2022, 5th (Halfpipe - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – bronze (Halfpipe - Men)</li><li>Years of participation: Halfpipe - Men 2017, 2019, 2021</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2021 (Halfpipe - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662009/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/irving_b_bio_905200.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662842/TeamUSA%20Assets/Athlete%20Profiles/Birk%20Irving%20905200/irving_b_hero_905200.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004843/TeamUSA%20Assets/Athlete%20Profiles/Birk%20Irving%20905200/irving_birk_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Birk Irving 905200"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyrie",
+      "last_name": "Irving",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1992-03-23T00:00:00",
+        "hometown": {
+          "city": "West Orange",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.78,
+          "longitude": -74.23
+        },
+        "education": "St. Patrick High School (Elizabeth, N.J.) ‘10 Duke University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Dederick and the late Elizabeth Irving</li><li>Has two sisters, Londen and Asia</li><li>His mother passed away when he was 5 years old</li><li>His father played professionally in Australia, where he was born</li><li>Holds dual citizenship in Australia and the United States</li><li>Enjoys reading, journaling, singing, dancing and playing the baritone saxophone.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – gold </li><li>Years of Participation: 2014*</li><li>Medals: 1 (gold)</li><li>Named MVP of the 2014 FIBA Basketball World Cup and selected to the five-member 2014 FIBA Basketball World Cup All-Tournament Team.</li></ul><h5>More</h5>USA Basketball<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698595/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kyrie%20Irving%20922987/irving_kyrie_081016_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698596/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kyrie%20Irving%20922987/Irving_Kyrie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kyrie Irving 922987"
+        }
+      ]
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Irving",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1995-05-21T00:00:00",
+        "hometown": {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7701,
+          "longitude": -118.1937
+        },
+        "education": "University of California, Los Angeles",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Michael and Kelly Irving</li><li>Has three siblings: Aaron, Quincy and Savannah</li><li>Also swam in high school</li><li>Played on UCLA’s men’s water polo squad for four years</li><li>Lists Lebron James as the athlete he most admires</li><li>Enjoys surfing, golf, and basketball.</li></ul><p></p><h5>World Championship</h5><ul><li>Most recent: 2019 – 9th</li><li>Years of Participation: 2017, 2019</li><li>Top Finish: 9th – 2019</li></ul><p></p><h5>More</h5><p>USA Water Polo</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2017, 2019, 2022, 2023</li><li>Top finish: 6th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662024/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Irving_m_bio_1070438.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662793/TeamUSA%20Assets/Athlete%20Profiles/Max%20Irving%201070438/Irving_m_hero_1070438.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335601/TeamUSA%20Assets/Migration/Athlete%20Profiles/Max%20Irving/irving_max_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Max Irving"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Water Polo"
+        }
+      ]
+    },
+    {
+      "first_name": "Deedra",
+      "last_name": "Irwin",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1992-05-27T00:00:00",
+        "hometown": {
+          "city": "Pulaski",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 44.6647,
+          "longitude": -88.2309
+        },
+        "education": "Michigan Tech",
+        "fun_fact": "Huge Green Bay Packers fan",
+        "biography": "<h5>Quick Facts</h5><ul><li><span>Three-sport athlete at Michigan Technological University (cross-country skiing, cross-country, track and field)</span></li><li><span>Started biathlon at age 25 after attending a US Biathlon talent ID camp</span></li><li><span>Seventh-place finish in Beijing was the best finish ever for an American in an individual biathlon event at the Olympics</span></li><li><span>Avid Green Bay Packers fan was sent a personalized jersey from the team (#22) when she was named a part of the U.S. Olympic Team for the Olympic Winter Games Beijing 2022</span></li></ul><h5>Biographical Information</h5><p><span>Deedra Irwin grew up right outside Green Bay, in Pulaski, Wisconsin, with dreams of becoming an Olympian in track and field. In high school, Irwin picked up skiing as a way to stay in shape between the cross-country season (fall) and the track and field season (spring). Irwin attended Michigan Tech, where she was a three-sport athlete (cross-country skiing, cross-country and track and field).&nbsp;</span></p><p><span>In 2015, Irwin qualified for the FIS U-23 World Championships in cross-country skiing, where she would meet future U.S. biathlon teammate Joanne Reid, who was also competing.&nbsp;Two years later, Reid convinced Irwin to attend a US Biathlon talent ID camp. Irwin instantly fell in love with biathlon, describing the sport as “ the coolest I’d ever done.”</span></p><p><span>Irwin made her first FIS World Championship team for Team USA in 2021. She made her Olympic debut at the Olympic Winter Games Beijing 2022, where Irwin finished seventh in the women’s 15-kilometer individual event, the best finish ever for an American in an individual biathlon event at the Olympics.&nbsp;The seventh-place finish was also Irwin’s best individual result to date.&nbsp;</span></p><p><span>Off the snow, Irwin joined the Vermont Army National Guard in 2019 and, since 2022, has been a member of the U.S. Army World Class Athlete Program (WCAP), which offers all Army members the chance to compete in an Olympic sport.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 14th (4 x 6km Relay - Mixed), 18th (4 x 6km Relay - Women), 34th (15km Individual - Women), 35th (10km Pursuit - Women), 47th (7.5km Sprint - Women)</li><li>Olympic Games Beijing 2022, 7th (15km Individual - Women), 11th (4 x 6km Relay - Women), 23th (12.5km Mass Start - Women), 37th (7.5km Sprint - Women), 47th (10km Pursuit - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2025 – 16th (Single Mixed Relay - Mixed), 19th (4 x 6km Relay - Mixed, 4 x 6km Relay - Women), 29th (15km Individual - Women), 63th (7.5km Sprint - Women)</li><li>Years of participation: 15km Individual - Women 2023, 2024, 2025; 4 x 6km Relay - Mixed 2023, 2024, 2025; 4 x 6km Relay - Women 2021, 2023, 2024, 2025; 7.5km Sprint - Women 2021, 2023, 2024, 2025; Single Mixed Relay - Mixed 2023, 2024, 2025; 10km Pursuit - Women 2021, 2023, 2024</li><li>Top finish: 7th – 2024 (Single Mixed Relay - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763841837/TeamUSA%20Assets/Athlete%20Profiles/Deedra%20Irwin%201088940/irwin_d_1088940_bio1.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763841813/TeamUSA%20Assets/Athlete%20Profiles/Deedra%20Irwin%201088940/irwin_d_1088940_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763841813/TeamUSA%20Assets/Athlete%20Profiles/Deedra%20Irwin%201088940/irwin_d_1088940_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763841799/TeamUSA%20Assets/Athlete%20Profiles/Deedra%20Irwin%201088940/irwin_d_1088940_bio2.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Deedra Irwin"
+        },
+        {
+          "title": "Biathlon"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Morris",
+      "last_name": "Isby",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1984-04-01T00:00:00",
+        "hometown": {
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.5816,
+          "longitude": -121.4944
+        },
+        "education": "Luther Burbank High School (Sacramento, Calif.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>B-boy name is \"The Fresh Prince\"</li><li>Breaking has always been something that Isby's wanted to do</li><li>He's always wanted to help others achieve new heights <span style=\"font-size: 11pt;\">– </span>on and off the floor</li><li>Outside of breaking, Isby loves horror movies, sneakers, theme parks and spending time with his family</li><li>He notes that he's just an average guy doing crazy things</li></ul><h5>Career Highlights</h5><ul><li>Recognized by the city of Sacramento and California in 2022</li><li>Elite athlete representative <span style=\"font-size: 11pt;\">–</span> Breaking for Gold</li><li>2015: Change the Game 1 vs. 1 Canada; Arka 2 vs. 2 Mexico; Urban Street Jam 1 vs. 1 Los Angeles; Sactown Underground, Crew Sacramento; R16 North American qualifier, Crew Las Vegas; We are Hiphop 2 vs. 2 Stockton</li><li>2016: Breakbeat Cowboy 1 vs. 1 Las Vegas; B1 Saiyo Tag Team 2 vs. 2 Japan; Warsaw Challenge, Crew Poland; Massive Monkees Anniversary 3 vs. 3 Seattle; Raw Styles 3, 3 vs 3 Arizona</li><li>2017: McDonald's Royale 3 vs. 3 New York</li><li>2018: Floor Gangz Anniversary / Radikal Force Qualifier, 7tosmoke San Francisco; Radikal Force Anniversary, 7tosmoke Singapore; Hiphop al Parque, crew Colombia; That Damn Jam 1 vs. 1 Reno</li><li>2019: Cypher Adikts 1 vs. 1 Los Angeles; Foundation Anniversary Crew Japan; KP International Vol. 3 vs. 3 Sacramento; Mad Fest 2 vs. 2 Stockton</li><li>2020: Break Bred 7 to Smoke 1 vs. 1 Sacramento; Florida Open (online Battle) 2020 1 vs. 1; Uptown Takeout 2 vs. 2</li><li>2021: Texas Open 1 vs 1 Texas; Red Bull BC one USA Finals 1 vs 1; Bboy city Texas Crew vs Crew; Mad fest Stockton 4 vs 4; Break a sweat Vol.2 Fremont 3 vs 3; Freestyle session 24 California Crew vs Crew</li><li>2022: Full Force Anniversary Legacy Battle (R4C vs. Full Force); Red Bull Battle Royale 8-1; Super Break 5 vs. 5 Japan; Undisputed 5 vs. 5 LA</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694035056/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morris%20Isby/isby_m_hero_1251448.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Breaking",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694035056/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morris%20Isby/isby_m_hero_1251448.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694035056/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morris%20Isby/isby_m_hero_1251448.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694035056/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morris%20Isby/isby_m_hero_1251448.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Morris Isby"
+        }
+      ]
+    },
+    {
+      "first_name": "Haley",
+      "last_name": "Ishimatsu",
+      "bio": {
+        "height": "4' 11\"",
+        "birthday": "1992-09-10T00:00:00",
+        "hometown": {
+          "city": "Seal Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7417,
+          "longitude": -118.075
+        },
+        "education": "Duke University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Personal: Daughter of Carol and Mark Ishimatsu</li><li>Personal: Has one sister, Tory, who is also a diver</li><li>Personal: Started diving in 2004</li><li>Personal: Trains six hours a day six days a week</li><li>Personal: one of only three female divers to perform a back 3 1/2 pike (degree of difficulty is 3.6) and was the only female to do that dive at the 2008 World Cup</li><li>Personal: Loves to read</li><li>Personal: Listens to alternative, punk and emo music</li><li>Personal: Enjoys collecting rocks from all the places she&#39;s been</li><li>Personal: Also collects pins and key chains</li><li>Personal: Favorite TV shows are Heroes, Law and Order Criminal Intent and MythBusters</li><li>Personal: Was a gymnast before becoming a diver</li><li>Personal: Moved to Indianapolis in September, 2006 with her dad and sister in order to train at USA Diving&#39;s Training Center</li><li>Personal: Her mom still lives and works in California but makes frequent trips to Indy.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>National2005 Speedo Junior National Championships - bronze medalist on 1-meter, platform2006 Speedo U.S. Open - silver medalist on 10-meter2006 Kaiser Permanente National Championships - silver medalist on 10-meter2007 Speedo USA Diving Spring National Championships - gold medalist on 10-meter, synchronized 10-meter2007 Kaiser Permanente National Diving Championships - bronze medalist on 10-meter2008 Speedo USA Diving Spring National Championships - silver medalist on 10-meter, synchronized 10-meter</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 5th (10m Platform Synchro - Women), 14th (10m Platform - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2009 – silver (10m Platform Synchro - Women), 17th (10m Platform - Women)</li><li>Years of participation: 10m Platform - Women 2007, 2009; 10m Platform Synchro - Women 2007, 2009</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2009 (10m Platform Synchro - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718571/TeamUSA%20Assets/Migration/Athlete%20Profiles/Haley%20Ishimatsu%20908274/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718573/TeamUSA%20Assets/Migration/Athlete%20Profiles/Haley%20Ishimatsu%20908274/ISHIMATSU-HALEY.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Haley Ishimatsu 908274"
+        }
+      ]
+    },
+    {
+      "first_name": "Carlin",
+      "last_name": "Isles",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1989-11-21T00:00:00",
+        "hometown": {
+          "city": "Massillon",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.7939,
+          "longitude": -81.5378
+        },
+        "education": "Ashland University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Starlett and Charles Isles</li><li><p>Is one of 11 children in his family</p></li><li><p>Discovered rugby while training as a track and field athlete at Ashland University and began competing in June 2012 after he fell short of making the 2012 U.S. Olympic Team in track and field</p></li><li><p>Internationally known as the “fastest man in rugby”</p></li><li><p>Made his debut for the U.S. national rugby sevens team in October 2012, scoring a try in his first minute of play as a substitute</p></li><li><p>Had a brief stint with the Detroit Lions in 2013, but ultimately resisted overtures from the NFL to focus solely on his rugby career.</p></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, 9th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2013, 2018</li><li>Top finish: 6th – 2018 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690225762/charles_isles_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690225762/charles_isles_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012360/TeamUSA%20Assets/Athlete%20Profiles/Carlin%20Isles%20815352/isles_carlin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Carlin Isles 815352"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Itkin",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1999-10-09T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "University of Notre Dame, Finance",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Michael Itkin and Tatyana Itkina</li><li><p>Coached by his father Michael Itkin, a former elite fencer from Ukraine</p></li><li>His mother, Tatyana Itkina, was a former member of Ukraine’s rhythmic gymnastics team and U.S. coach</li><li>His older sister, Julia, was a former U.S. National Team member in rhythmic gymnastics</li><li><p>Hobbies include athletics, economics and music</p></li><li>He speaks Russian and English</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Individual Foil - Men), 4th (Team Foil - Men)</li><li>Olympic Games Tokyo 2020, bronze (Team Foil - Men), 12th (Individual Foil - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – silver (Team Foil - Men), 17th (Individual Foil - Men)</li><li>Years of participation: Individual Foil - Men 2019, 2022, 2023, 2025; Team Foil - Men 2022, 2023, 2025</li><li>Medals: 4 (3 silver, 1 bronze)</li><ul><li>Silver – 2025 (Team Foil - Men);  2023 (Individual Foil - Men);  2022 (Team Foil - Men)</li><li>Bronze – 2022 (Individual Foil - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662054/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/N_Itkin_bio_993316.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662562/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Itkin%20993316/N_Itkin_hero_993316.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012562/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Itkin%20993316/itkin_nick.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Itkin 993316"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Fencing"
+        }
+      ]
+    },
+    {
+      "first_name": "Jayson",
+      "last_name": "Jablonsky",
+      "bio": {
+        "height": "6'5 (198cm)\"",
+        "birthday": "1985-07-23T00:00:00",
+        "hometown": {
+          "city": "Yorba Linda",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8889,
+          "longitude": -117.7561
+        },
+        "education": "Esperanza High School UC Irvine ('07, criminology)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born Jayson Michael Jablonsky in 1985, in Orange, Calif</li><li>Parents are Paul and Betty Jablonsky</li><li>Has two older siblings, Matt and Heather</li><li>Married Tammara Koehler in July of 2009</li><li>Attended Esperanza High School (1999-2003) where he also played soccer</li><li>Played for the Balboa Bay Volleyball Club</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2015 (Team - Men)</li><li>Junior World Championships, Visakhapatnam, 2005 (Team - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2010</li><li>Top finish: 6th – 2010 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687363302/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jayson%20Jablonsky/2017-Jayson-Jablonsky.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jayson Jablonsky"
+        }
+      ]
+    },
+    {
+      "first_name": "Bershawn",
+      "last_name": "Jackson",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1983-05-08T00:00:00",
+        "hometown": {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.7796,
+          "longitude": -78.6382
+        },
+        "education": "Miami Central (Miami, Fla.) '02 St. Augustine College '06",
+        "fun_fact": null,
+        "biography": "<div><strong>Event</strong>: 400mH<br>\n<strong>\nHeight</strong>: 5-8<br>\n<strong>\nWeight</strong>: 158<br>\n<strong>\nPR</strong>:&nbsp; 47.30 (2005)<br>\n<strong>\nBorn</strong>: 1983, in Miami, Fla.<br>\n<strong>\nCurrent Residence</strong>: Raleigh, N.C. <br>\n<strong>\nHigh School</strong>: Miami Central (Miami, Fla.) &lsquo;02 <br>\n<strong>\nCollege</strong>: St. Augustine College &lsquo;06<br>\n<strong>\nCoach</strong>: George Williams<br>\n<strong>\nAgent</strong>: Peter Stubbs<br>\n<strong>\nClub</strong>: Nike</div>\n<p><strong>Career Highlights</strong>: 2008 Bronze medalist at the Olympic Games in the 400m Hurdles; 2005 World Outdoor champion; 2003 USA Outdoor champion; 2005 USA Indoor 400m champion; 2002 U.S. junior champion; 2002 World Junior bronze medalist; 2002 World Junior 4x400 champion</p>\n<p>Jackson's 2007 season was highlighted by wins at the Kansas Relays, Osaka GP, and at the Athens GP. In ending the 2007 season ranked #5 in the world, Jackson has been ranked in world's the top ten in the men's 400m hurdles by Track &amp; Field News each year since 2003. &nbsp;The dominant force in the men's 400m hurdles throughout the 2005 season, Jackson was motivated by his failure to make the 2004 Olympic team. His determination paid off. &nbsp;Jackson used his tremendous finishing speed in capturing the gold medal at the World Outdoor Championships in Helsinki in a personal best time of 47.30 seconds. Jackson's victory was the first for an American in this event at a World Outdoor Championships since Derrick Adkins mined gold at Gothenburg in 1995 (47.98). With fellow American James Carter finishing second, it marked the first time Americans had finished 1-2 in the men's 400m hurdles since Rome in 1987 when National Track &amp; Field Hall of Famer Edwin Moses won the gold and Danny Harris brought home the silver medal. Jackson and Carter's career best performances in Helsinki are even more impressive considering that the race was held during a torrential downpour in Helsinki. Their times were the second and third fastest in the world during the 2005 season. Jackson's 2005 season got off to a tremendous start with his performance at the USA Indoor Championships, where he won the 400m national title in 46.05 seconds. Jackson's only loss during the 2005 outdoor season came when he was the runner-up at the USA Outdoor Championships. His 12 worldwide wins in 2005 made him an easy choice for the coveted 400m hurdles world #1 ranking that year from Track &amp; Field News. The newest phenom over the intermediate hurdles, Jackson has improved his personal best by more than 2 seconds since 2002. For the second season in a row, Jackson posted the second fastest time by an American with his monster (then) personal best of 47.86, which bettered his previous PR of 48.23 in winning at Madrid in 2003. The 2002 U.S. junior champion and World Junior bronze medalist, Jackson planned to be part of the University of South Carolina track powerhouse, but he instead competed on the circuit....In 2004 joined the St. Augustine's College roster... raised in Miami, he now lives and trains in Raleigh, N.C., where he is coached by 2004 Olympic Team Head Coach George Williams...daughter Shawnte was born May 2, 2005.</p>\n<p><strong>Competition Results</strong>:<br>\n2008: 1st at Kansas Relays (48.32)...1st at adidas Track Classic (48.94) ... 3rd at Olympic Games in Beijing&nbsp; at 400mH (48.06)<br>\n2007: 5th in 400m at USA Outdoor Championships (45.55)...45.06 in 400m semifinal at USA Outdoors... 3rd in semi's at World Outdoors (48.95)...1st in 600m at Millrose Games (1:11.48)...8th in 400m at Prefontaine Classic (46.38)...1st at Osaka GP (48.13)...1st at Athens (48.15)...ranked #5 in world, #3 in U.S. by T&amp;FN...best of 48.13.<br>\n2006: USA Outdoor runner-up (47.48)...1st at Nike Prefontaine Classic (48.22)...1st at Rome (47.86)...1st at Athens (48.00)...1st at Lausanne (47.77)...ranked #2 in world (#1 U.S.) by T&amp;FN...best of 47.48.<br>\n2005: World Outdoor champion (47.30PR)...2nd at USA Outdoor Champs (47.80)...USA Indoor 400m champ (46.05)...1st at Nike Prefontaine Classic (47.91)...1st in 400mH at adidas Track Classic (47.62)...ranked #1 in world by T&amp;FN...best of 47.30PR.<br>\n2004: 4th at Olympic Trials (48.11)...1st at Texas Relays 400mH (48.74)...1st in Monaco (47.86PR)...2nd at Zurich (48.08)...2nd at Nike Prefontaine Classic (48.79)...ranked #3 in world (#1 U.S.) by T&amp;FN...best of 47.86PR.</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Beijing 2008, bronze (400m Hurdles - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 34th (400m Hurdles - Men)</li><li>Years of participation: 400m Hurdles - Men 2003, 2005, 2007, 2009, 2015; 4 x 400m Relay (Indoor) - Men 2010; 400m (Indoor) - Men 2010; 4 x 400m Relay - Men 2007, 2009</li><li>Medals: 5 (4 gold, 1 bronze)</li><ul><li>Gold – 2010 (4 x 400m Relay (Indoor) - Men);  2009 (4 x 400m Relay - Men);  2007 (4 x 400m Relay - Men);  2005 (400m Hurdles - Men)</li><li>Bronze – 2009 (400m Hurdles - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719746/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bershawn%20Jackson%20915828/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719748/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bershawn%20Jackson%20915828/Jackson_B120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bershawn Jackson 915828"
+        }
+      ]
+    },
+    {
+      "first_name": "Edwin",
+      "last_name": "Jackson",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1983-09-09T00:00:00",
+        "hometown": {
+          "city": "Columbus",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 32.460989,
+          "longitude": -84.912006
+        },
+        "education": "Shaw High School (Columbus, Ga.) ‘01 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Edwin Jackson Sr., who was in the United States Army when he was born</li><li>Led his high school team to the 2001 GHSA AAAA State Championship title during his senior year</li><li>Drafted by the Los Angeles Dodgers in the 6th round of the 2001 MLB June Amateur Draft</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 World Series Champion</li>\r\n                            <li>2009 MLB All-Star</li>\r\n                            <li>2003 Futures Game Selection</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010287/TeamUSA%20Assets/Athlete%20Profiles/Edwin%20Jackson%201220745/Jackson_Edwin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Edwin Jackson 1220745"
+        }
+      ]
+    },
+    {
+      "first_name": "Jazmyn",
+      "last_name": "Jackson",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1996-08-15T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Archbishop Mitty High School California - 2018",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 10</li><li>Parents are Diffric and Diana Jackson</li><li>Dream job is to be a general manager of a sports franchise</li><li>Best advice she&#39;s ever received: &quot;All you can control is your attitude and effort, let everything else be.&quot;</li><li>Favorite sport besides softball is football</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>Junior World Championship, Oklahoma City, 2015 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (Team - Women)</li><li>Years of participation: Team - Women 2016</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2016 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2018:&nbsp;</strong>All-Pac-12 First Team.</p>\n<p><strong>2017:&nbsp;</strong>NFCA All-Pacific First Team...All-Pac-12 Second Team.</p>\n<p><strong>2016:</strong>&nbsp;All-Pac-12 First Team...NFCA All-Pacific First Team...Pac-12 All-Academic Honorable Mention.</p>\n<p><strong>2015:</strong>&nbsp;All-Pac-12 Freshman Team...NFCA All-Pacific First Team...NFCA Division I Freshman of the Year Top 10 Finalist...Pac-12 All-Defensive Honorable Mention.</p>\n<p><strong>Click here to view Jazmyn Jackson's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719777/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jazmyn%20Jackson%201039013/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719779/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jazmyn%20Jackson%201039013/JacksonJazmyn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jazmyn Jackson 1039013"
+        }
+      ]
+    }
+  ]
+}

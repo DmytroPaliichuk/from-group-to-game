@@ -1,0 +1,1060 @@
+{
+  "entries": [
+    {
+      "first_name": "Jack",
+      "last_name": "Ryan",
+      "bio": {
+        "height": "5' 10\"",
+        "birthday": "2003-06-20T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 27th (1m Springboard - Men)</li><li>Years of participation: 1m Springboard - Men 2023, 2024; 3m Springboard Synchro - Mixed 2023; Team Event - Mixed 2023</li><li>Top finish: 5th – 2023 (Team Event - Mixed)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (3m Springboard - Men, 3m Springboard Synchro - Men, 1m Springboard - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923993/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jack%20Ryan/Jack-Ryan-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jack Ryan"
+        }
+      ]
+    },
+    {
+      "first_name": "Sean",
+      "last_name": "Ryan",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1992-08-13T00:00:00",
+        "hometown": {
+          "city": "Chattanooga",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 35.0456,
+          "longitude": -85.3097
+        },
+        "education": "McCallie School (Chattanooga, Tenn.) '10 University of Michigan '14, Mechanical Engineering; '16, Master of Manufacturing Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Eugene and Margaret Ryan</li><li>Has two sisters, Elizabeth and Marykate, and one brother, Brendan</li><li>Played soccer before committing to swimming</li><li>Started swimming to help manage his asthma</li><li>Nicknames include “Bones” and “Skeletor”</li><li>Enjoys silence before a race instead of pump-up music to help maintain focus and relax</li><li>Favorite open-water swimmer is Jimmy Welborn, who hails from his hometown and inspired him to try open water swimming.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 14th (10km Freestyle - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 4th (10km Freestyle - Men), 5th (5km - Team Time Trial - Mixed)</li><li>Years of participation: 10km Freestyle - Men 2011, 2013, 2015; 5km - Team Time Trial - Mixed 2011, 2013, 2015; 5km Freestyle - Men 2011, 2013; 1500m Freestyle (SC) - Men 2010; 25km Freestyle - Men 2009</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2011 (5km - Team Time Trial - Mixed)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321365/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sean%20Ryan/Ryan_Sean_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sean Ryan"
+        }
+      ]
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Ryan",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1996-06-05T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "Sir Francis Drake High School (San Anselmo, Calif.) California State University, Stanislaus (Turlock, Calif.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kurtis Ray, who was an ultra-marathon runner</li><li>Drafted by the San Francisco Giants in the 39th round of the 2014 MLB June Amateur Draft and the Tampa Bay Rays in the 7th round of the 2018 MLB June Amateur Draft</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Baseball America High Class A All-Star</li>\r\n                            <li>2019 Rays’ Minor League Pitcher of the Year</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012885/TeamUSA%20Assets/Athlete%20Profiles/Joe%20Ryan%201220023/Ryan_Joe_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joe Ryan 1220023"
+        }
+      ]
+    },
+    {
+      "first_name": "Courtney",
+      "last_name": "Ryan",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1990-09-21T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "University of Arizona",
+        "fun_fact": null,
+        "biography": "<h4>Quick Facts</h4><ul><li>Daughter of Kevin and Patti Ryan</li><li>Has a brother, Christopher, and a sister, Caitlin</li><li>Was an All-American defender on the Metropolitan State University of Denver Women’s Soccer Team where she incurred an injury her junior year that left her paralyzed from the waist down.</li><li>Recruited by the University of Arizona where she transferred, playing basketball and studying special education with an emphasis on disability studies</li><li>Became an assistant coach with the University of Arizona's wheelchair basketball team after graduating. Coaches alongside her Team USA teammate, Josie Aslakson</li><li>Hobbies include handcycling, watching movies, hiking, spending time with her dog, traveling with her spouse and kayaking</li><li>Co-founder of the Team PossAbilities Shield Maidens women’s wheelchair basketball team in Los Angeles, California.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Women)</li><li>Paralympic Games Tokyo 2020, bronze (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2014, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712070672/TeamUSA%20Assets/Athlete%20Profiles/Courtney%20Ryan%201143944/20231124_Courtney_Ryan_WHEELCHAIR_BASKETBALL_REIS_0173.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "2.0",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662483/TeamUSA%20Assets/Athlete%20Profiles/Courtney%20Ryan%201143944/ryan_c_hero_1143944.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712070672/TeamUSA%20Assets/Athlete%20Profiles/Courtney%20Ryan%201143944/20231124_Courtney_Ryan_WHEELCHAIR_BASKETBALL_REIS_0173.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013278/TeamUSA%20Assets/Athlete%20Profiles/Courtney%20Ryan%201143944/Ryan_Courtney_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Courtney Ryan 1143944"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryder",
+      "last_name": "Ryan",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1995-05-11T00:00:00",
+        "hometown": {
+          "city": "Huntersville",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.4107,
+          "longitude": -80.8406
+        },
+        "education": "North Mecklenburg High School (Huntersville, N.C.) University of North Carolina at Chapel Hill (Chapel Hill, N.C.)",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sean Ryan, who played AAA baseball</li><li>Uncle Jason Ryan pitched part of two seasons for the Minnesota Twins</li><li>Married to Brynn Ryan and they have one son, Ronan</li><li>Drafted by the Cleveland Indians in the 40th round of the 2014 MLB June Amateur Draft but instead attended the University of North Carolina</li><li>Again drafted by the Cleveland Indians in the 30th round of the 2016 MLB June Amateur Draft</li></ul><h5>Career Highlights</h5><ul><li>2018 FSL Mid-Season All-Star</li><li>2017 MID Mid-Season All-Star</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012890/TeamUSA%20Assets/Athlete%20Profiles/Ryder%20Ryan%201229004/Ryan_Ryder_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryder Ryan 1229004"
+        }
+      ]
+    },
+    {
+      "first_name": "Jon",
+      "last_name": "Rydberg",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1977-10-07T00:00:00",
+        "hometown": {
+          "city": "Pine City",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.82024,
+          "longitude": -92.97271
+        },
+        "education": "Pine City High School (Pine City, Minn.) ‘96 University of Texas at Arlington ‘01, Graphic Design",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Paul Rydberg, Joe and Danea Nilsson</li><li>Has two brothers, Paul and Gunnar</li><li>Married Sarah Rydberg on June 4, 2010</li><li>Has two sons, Atticus and Elias</li><li>Hobbies include boating, hockey, and spending time with friends and family</li><li>Member of the 1997 National Intercollegiate Basketball Championship Team - University of Texas at Arlington</li><li>Fan of Thai food</li><li>Cheers for the Minnesota Wild</li><li>Coaches both boy’s and girl’s tennis at East Ridge High School in Woodbury, Minnesota.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 Parapan American Games, doubles (gold)</li>\r\n                            <li>2007 Parapan American Games, singles (gold), doubles (gold)</li>\r\n                            <li>2010-12 U.S. World Cup team member</li>\r\n                            <li>2006-08 U.S. World Cup team member</li>\r\n                            <li>2000-04 U.S. World Cup team member</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 17th (Doubles - Men, Singles - Men)</li><li>Paralympic Games London 2012, 17th (Doubles - Men, Singles - Men)</li><li>Paralympic Games Beijing 2008, 9th (Doubles - Men, Singles - Men)</li><li>Paralympic Games Athens 2004, 9th (Doubles - Men, Singles - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695755/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jon%20Rydberg%20914954/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695757/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jon%20Rydberg%20914954/Rydberg_Jon_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jon Rydberg 914954"
+        }
+      ]
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "Ryu",
+      "bio": {
+        "height": "5'3",
+        "birthday": "2007-07-24T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "Palo Verde High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Before artistic swimming she was a figure skater</li><li>She loves watermelon</li><li>Her Korean name translates to &#39;Sun&#39; in English</li><li>She could eat sushi everyday</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 13-15 national team athlete</li>\r\n                            <li>2021 National Elite Camp</li>\r\n                            <li>2021 UANA Open: 3rd (Duet)</li>\r\n                            <li>2019 UANA Open: 3rd (Team)</li>\r\n                            <li>2019 12U national team athlete</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA Youth World Championships: 1st (Mixed Duet), 3rd (Combo)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010944/TeamUSA%20Assets/Athlete%20Profiles/Jennifer%20Ryu%201183865/Jennifer-Ryu.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jennifer Ryu 1183865"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Rzepka",
+      "bio": {
+        "height": "5' 6\"",
+        "birthday": "2002-08-08T00:00:00",
+        "hometown": {
+          "city": "Solon",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.3939,
+          "longitude": -81.4476
+        },
+        "education": "New Albany High School (2021) Purdue University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Jordan is the son of Michelle and Jeff, a real estate developer</li><li>He has an older sister, Nicole, and a twin sister, Jaclyn</li><li>Jordan started diving at age 10</li><li>He trains between 24 to 26 hours weekly</li><li>Jordan enjoys hanging with his friends in Cleveland, going to concerts, listening to music and buying lots of sneakers</li><li>In his spare time, Jordan volunteers for Jerseys of Hope, a nonprofit that acquires sports jerseys for terminally ill children and families</li><li>Jordan also snowboards. He loves all sports, but diving is full-time and has no time to compete in other sports</li><li>Despite breaking his left foot/ankle in the summer 2016, Jordan competed in the 2016 AT&amp;T National Diving Championships and missed qualifying for the Junior Worlds team by 2 points</li><li>In between dives, Jordan likes to get away from distractions by listening to music or talking to his friends and coach</li><li>Jordan likes to listen to rap music during competition</li><li>His favorite dive is a 5156B on 3-meter</li><li>Jordan considers mentally training his body and mind to push forward to harder dives as his hardest part of training</li><li>Before competitions, Jordan usually eats light. He has a really big meal, like steak and baked potato, after competition</li><li>Outside of competition, his favorite meal is sushi</li><li>His favorite diver is David Boudia, who he met at his very first meet</li><li>Jordan would describe himself as outgoing, goofy and adventurous</li><li>His favorite t.v. show is Breaking Bad</li><li>If Jordan could meet anyone, it would be LeBron James because he is from Cleveland</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (10m Platform Synchro - Men, 10m Platform - Men)</li><li>World Junior Championships, Kyiv, 2018 (10m Platform Synchro - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (1m Springboard - Men)</li><li>Years of participation: 1m Springboard - Men 2022</li><li>Top finish: 6th – 2022 (1m Springboard - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010253/TeamUSA%20Assets/Athlete%20Profiles/Jordan%20Rzepka%201224521/Jordan-Rzepka-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jordan Rzepka 1224521"
+        }
+      ]
+    },
+    {
+      "first_name": "Bethany",
+      "last_name": "Sachtleben",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1992-02-09T00:00:00",
+        "hometown": {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.8462,
+          "longitude": -77.3064
+        },
+        "education": "Home School (Fairfax, Va.) ‘12 College George Mason University ‘15, Computer Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Douglas and Robin Sachtleben</li><li>2015 NCAA A-10 champion in 3,000m and 50,000m</li><li>2014 NCAA A-10 champion in 5,000m.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Marathon - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008996/TeamUSA%20Assets/Athlete%20Profiles/Bethany%20Sachtleben%201138825/Sachtleben_B.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bethany Sachtleben 1138825"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Saeta",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1994-04-19T00:00:00",
+        "hometown": {
+          "city": "South Pasadena",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1147,
+          "longitude": -118.1559
+        },
+        "education": "Pasadena Polytechnic UC Irvine (2017; Business Economics and Masters in philosophy, political science and economics)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Father David was a setter for Stanford; brother Andrew was a swimmer at Stanford; brother Matt played baseball at Davidson College</li><li>Also played water polo in high school</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2019 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349389/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20Saeta/2020MichaelSaeta.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Saeta"
+        }
+      ]
+    },
+    {
+      "first_name": "Oliver",
+      "last_name": "Sah",
+      "bio": {
+        "height": "5'9",
+        "birthday": "2002-12-31T00:00:00",
+        "hometown": {
+          "city": "Broadview Heights",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.3117,
+          "longitude": -81.6493
+        },
+        "education": "High school student",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Oliver began curling in 2006</li><li>Belongs to the Mayfield Curling Club</li></ul><h5>More</h5>Teammates: Andrew McDonald, Samuel Strouse, John Burnett",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Oliver Sah"
+        }
+      ]
+    },
+    {
+      "first_name": "Brianna",
+      "last_name": "Salinaro",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1998-05-10T00:00:00",
+        "hometown": {
+          "city": "Massapequa",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.6667,
+          "longitude": -73.4667
+        },
+        "education": "Sacred Heart University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite Taekwondo Athlete: Steven Lopez</li><li>Favorite Non-Taekwondo Athlete: Ronda Rousey</li><li>Favorite Food/Drink: Power Bars and iced tea</li><li>Favorite TV Show: \"Grey's Anatomy\"</li><li>Favorite Movie: \"Eddie the Eagle\"</li><li>Favorite Quote: \"Once we accept our limits, we go beyond them.\" -Albert Einstein</li><li>Proudest Taekwondo Moments: Being the first female para Taekwondo athlete to represent the United States. Being the first Taekwondo athlete in history to fight on a world stage with Cerebral Palsy.</li></ul><h5>Career Highlights</h5><ul><li>2023 <span>Parapan American Games, gold (200m, 100m)</span></li></ul><ul><li>2019 Para National Team Member</li><li>2019 African Para Taekwondo Championships (K44 -58kg Sparring): Quarterfinals</li><li>2019 U.S. Open Para Taekwondo Championships (K44 -58kg Sparring): Silver</li><li>2019 Mexico Para Taekwondo Open (K44 -58kg Sparring): Bronze</li><li>2019 Pan Am Open Taekwondo Championship (K44 -58kg Sparring): Bronze</li><li>2019 Oceania Para Taekwondo Championships (K44 -58kg Sparring): Bronze</li><li>2019 5th Asian Para Open Taekwondo Championships (K44 -58kg Sparring): Quarterfinals</li><li>2018 Para National Team Member</li><li>2018 U.S Open Para Taekwondo (K44 -58kg. Sparring): Bronze</li><li>2018 African Para Taekwondo Championships (K44 -58kg Sparring): Bronze</li><li>2018 4th Asian Para Taekwondo Championships (K44 -58kg Sparring): Quarter finals</li><li>2018 European Para Taekwondo Open (K44 -58kg Sparring): Quarter finals</li><li>2018 Pan American Para Taekwondo Open (K44 -58kg Sparring): Silver</li><li>2017 Para National Team Member</li><li>2017 - U.S. Open - Para Sparring(k44) - Black Belt - -58kg - Gold</li><li>2017 - U.S. Open - Para Sparring(k42) - Black Belt - -58kg - Gold</li><li>2017 Asian Para Open (K44 -58kg Sparring): Bronze</li><li>2017 USAT National Championship (K44 -58kg Sparring): Gold</li><li>2017 Pan-Am Para Taekwondo Open International Championships (K44 -58kg Sparring): Silver</li><li>2017 London World Para-Taekwondo Championships (K44 -58kg Sparring): Bronze</li><li>2017 IWAS World Games: Bronze</li><li>2016 - USAT National Championships - Para Poomsae (P31) - Black Belt- Gold</li><li>2016 - USAT National Championships - Para Sparring (k42) - Black Belt - -58kg - Gold</li><li>2016 - USAT New York State Championships - Sparring - Black Belt - +52kg - Gold</li><li>2016 - AAU New York State Championships - Sparring - Black Belt - +52kg - Bronze</li><li>2016 - Canada Open - Para Poomsae (P31) - Black Belt - Gold</li><li>2016 - Canada Open - Para Sparring (k42) - Black Belt - -58kg - Gold</li><li>2016 - U.S. Open - Para Poomsae (P31) - Black Belt - Gold</li><li>2016 - U.S. Open - Para Sparring (k42) - Black Belt - -58kg - Gold</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 9th (K44 -58kg W - Women)</li><li>Years of participation: K44 -58kg W - Women 2017, 2019</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (K44 -58kg W - Women)</li></ul></ul><h5>More</h5><p>POPSUGER article (March 2, 2020):&nbsp;https://www.popsugar.com/fitness/brianna-salinaro-qualified-2020-paralympics-taekwondo-47105841</p><p>TeamUSA.org&nbsp;article (March 10, 2020):&nbsp;https://www.teamusa.org/News/2020/March/10/Para-Taekwondo-Athletes-Evan-Medell-And-Brianna-Salinaro-Prep-For-Tokyo-And-College-Graduation</p><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 9th (K44 -58kg W - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718796/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brianna%20Salinaro%201074271/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Taekwondo",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "K44",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662198/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/salinaro_b_hero_1074271.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718798/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brianna%20Salinaro%201074271/Brianna-Salinaro-2019_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brianna Salinaro 1074271"
+        }
+      ]
+    },
+    {
+      "first_name": "Riley",
+      "last_name": "Salmon",
+      "bio": {
+        "height": "6'6 (197cm)\"",
+        "birthday": "1976-07-02T00:00:00",
+        "hometown": {
+          "city": "League City",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.5094,
+          "longitude": -95.0788
+        },
+        "education": "Clear Creek High School (League City, Texas) Pierce College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born Riley  Salmon in 1976 in Amarillo, Texas</li><li>Parents are Mike and Jennalee Clepper</li><li>Married to  Millie</li><li>Has one sister: Sari</li><li>Has one daughter, Isabel Maria (2005) and a son, Lincoln  Riley (2008)</li><li>Attended Clear Creek High School in League  City, Texas</li><li>Tried Little League baseball, tennis and basketball before  taking up volleyball</li><li>Was working as a warehouse supervisor for General  Electric in 1999 when a scout called him and asked him to try out for a  professional volleyball team in Italy</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2012: FIVB World League (Silver Medal)</li>\r\n                            <li>2012: NORCECA Olympic Qualifier (Gold Medal).</li>\r\n                            <li>2012: – Finished season with five points on five  kills in 12 sets (.42 digs per set)</li>\r\n                            <li>2012: Played in eight World League pool play sets  and started one. Finished with two points on two kills</li>\r\n                            <li>2012: . Played in four sets of  the NORCECA Olympic Qualifier and finished with three points on three kills.</li>\r\n                            <li>2011: FIVB World Cup</li>\r\n                            <li>2011: Finished the season with 47 digs in 34 sets played (1.38 digs per set)</li>\r\n                            <li>2011: Played  in16 sets of the FIVB World Cup, both as an outside hitter (in the back row)  and as a libero. Finished with 17 digs</li>\r\n                            <li>2011: Made the move from outside hitter to  libero for 2011 and made his debut at the position at the London Volleyball  International Invitational, a 2012 Olympic test event</li>\r\n                            <li>2011: Led the team in  receptions with 101 and added 30 digs (1.67 per set).</li>\r\n                            <li>2010: - FIVB World  Championship</li>\r\n                            <li>2010: FIVB World League.</li>\r\n                            <li>2010: Finished  the 2010 season with 46 points (2.0 points per set) on 41 kills and five blocks  (0.17 blocks per set). He played in 23 sets</li>\r\n                            <li>2010: Played in four sets and started  two at the FIVB World Championship in Italy where the U.S. Men finished sixth.  He scored three points</li>\r\n                            <li>2010: Riley played in 19 sets in the FIVB World League and  tallied 41 kills (2.16 per set). He finished the League with a .247 hitting  percentage and a total of 45 points (2.37 per set). He also tallied four stuff  blocks and 14 digs (0.29 per set).</li>\r\n                            <li>2009: NORCECA Continental  Championship (Silver Medal)</li>\r\n                            <li>2009: Brazil Tour</li>\r\n                            <li>2009: During the winter of 2009-10,  Riley played for Vivo/Minas in the Brazilian men&#39;s league</li>\r\n                            <li>2009: Riley helped the  U.S. Men win the silver medal at the NORCECA Continental Championship in Puerto  Rico</li>\r\n                            <li>2009: Riley joined a group of veterans and younger players for the Tour of  Brazil where they played five exhibition matches.</li>\r\n                            <li>2008: Olympic Games (Gold  Medal)</li>\r\n                            <li>2008: FIVB World League (Gold Medal)</li>\r\n                            <li>2008: Four Nations&#39; Tournament (Gold  Medal)</li>\r\n                            <li>2008: NORCECA Continental Olympic Qualifying Championship (Gold Medal).</li>\r\n                            <li>2008: – Helped the U.S.  Men win the gold medal at the 2008 Olympic Games in Beijing. He finished 14th  among all scorers with 83 points on 771 kills, eight blocks and four aces</li>\r\n                            <li>2008: Helped the U.S. Men win their first FIVB World League title. Was the team&#39;s  third-leading scorer, eighth overall, in the final round with 39 points on 36  kills, two blocks and one ace</li>\r\n                            <li>2008: Riley helped the U.S. Men win the NORCECA  Olympic Qualifier in Caguas, Puerto Rico and qualify for the 2008 Olympic  Games. Finished the tournament with 39 points on 33 kills, five blocks and one  ace. He was credited with 72 receptions.</li>\r\n                            <li>2007: NORCECA Continental Championship (Gold Medal)</li>\r\n                            <li>2007: Americas&#39; Cup (Gold Medal)</li>\r\n                            <li>2007: FIVB World League (Bronze Medal).</li>\r\n                            <li>2007: – Played in 123 sets for  the U.S. Men in 2007 and was the team&#39;s third-leading scorer with 330 points on  284 kills, 30 blocks and 11 aces. He leads all starters with a hitting percentage  of 0.633. Was third on the team in digs with 207 (1.68 digs per set)</li>\r\n                            <li>2007: Named  the MVP of the United States&#39; World Cup match against Bulgaria as he scored 23  points on 20 kills, one block and two aces. Salmon converted 57 percent of his  spike attempts to points. Had five digs and 18 &quot;excellent&quot; serve  receptions in 30 attempts as Team USA defeated Bulgaria and went on to finish fourth  at the World Cup. Was the United States&#39; second-leading receiver and seventh  overall at the World Cup with a 61.70 efficiency percentage</li>\r\n                            <li>2007: Was the United  States&#39; fourth-leading scorer and 22nd overall at the NORCECA Continental  Championship. Finished the tournament with 37 kills and four blocks. Was the  team&#39;s leading scorer in its final NORCECA match against Puerto Rico with 16  points on 16 kills</li>\r\n                            <li>2007: The United States&#39; third leading scorer, and 13th  overall, in the World League final round, finishing with 36 points on 31 kills,  three blocks and two aces</li>\r\n                            <li>2007: The United States&#39; third-leading hitter and eighth  overall in World League pool play with 93 kills in 184 attempts for a success  rate of 50.54 percent. The team&#39;s third-leading receiver and sixth overall with  129 &quot;excellents&quot; in 222 attempts.</li>\r\n                            <li>2006: –  FIVB World Championships</li>\r\n                            <li>2006: Pan American Cup (Gold Medal).</li>\r\n                            <li>2006: – Tied Jim Polster for  the third greatest number of kills at the World Championships with 82. He was  also third in digs with 63</li>\r\n                            <li>2006: For the season, Riley was fourth on the team in  kills with 132, even though he did not play in the World League. He was also  fourth in digs with 98</li>\r\n                            <li>2006: On the roster for the World League, but never got to  play due to a shoulder injured due to overuse</li>\r\n                            <li>2006: Helped the U.S. to a gold  medal at the inaugural Pan American Cup in Mexico.</li>\r\n                            <li>2005: –  Pacific Northwest Tour vs. Netherlands</li>\r\n                            <li>2005: USOC International Sports  Invitational (Silver Medal)</li>\r\n                            <li>2005: Argentina Tour</li>\r\n                            <li>2005: America&#39;s Cup (Gold Medal)</li>\r\n                            <li>2005: FIVB World Championship Qualifying Tournament (Gold Medal)</li>\r\n                            <li>2005: NORCECA  Continental Championships (Gold Medal)</li>\r\n                            <li>2005: World Grand Champions Cup (Silver  Medal).</li>\r\n                            <li>2005: – Led the team  in scoring 12 times during the year. Led the United States in total points  (381), points per set (3.66) and kills (322) during the year</li>\r\n                            <li>2005: Finished second  on the team in kills per set (3.10), service aces (23) and digs (154)</li>\r\n                            <li>2005: Capped  the 2005 season as a member of the USA squad that captured the silver medal at  the FIVB World Grand Champions Cup in November in Japan</li>\r\n                            <li>2005: Scored a  team-high-tying 16 points on 15 kills and one ace as the USA Men stunned the  world&#39;s best team when it defeated 2004 Olympic gold medalist Brazil in five  sets to win the America&#39;s Cup tournament in Brazil on Aug. 7</li>\r\n                            <li>2005: Named  &quot;Best Server&quot; of the America&#39;s Cup</li>\r\n                            <li>2005: Helped Team USA win its  second-straight NORCECA Continental Championship with a four-set victory over  Cuba on Sept. 15</li>\r\n                            <li>2005: The USA Men qualified for the FIVB World Grand Champions  Cup with the gold-medal win</li>\r\n                            <li>2005: Also captured Most Valuable Player and  &quot;Best Spiker&quot; honors and earned a gold medal in August at the FIVB  World Championship Qualifying Tournament as the USA Men qualified for the 2006  World Championships.</li>\r\n                            <li>2004: – NORCECA Olympic Qualifying Tournament (Gold Medal)</li>\r\n                            <li>2004: Houston Series</li>\r\n                            <li>2004: USA Global Challenge (First Place)</li>\r\n                            <li>2004: Serbia and Montenegro  Tour (Second Place)</li>\r\n                            <li>2004: Olympic Games (Fourth Place).</li>\r\n                            <li>2004: – Made his first-ever Olympic appearance in  Athens, Greece</li>\r\n                            <li>2004: Team USA qualified for the 2004 Olympic Games in Athens,  Greece, by winning the NORCECA Olympic Qualifying Tournament in Caguas, Puerto  Rico on Jan. 10</li>\r\n                            <li>2004: The men posted a perfect record of 6-0 en route to the gold  medal, which included a come-from-behind, 3-2 win over Cuba in the championship  match</li>\r\n                            <li>2004: Scored 10 points on nine kills and one service ace in the championship  match.</li>\r\n                            <li>2003: –  Colorado/Nebraska Tour</li>\r\n                            <li>2003: Canada Tour</li>\r\n                            <li>2003: Pan American Games (Fourth Place)</li>\r\n                            <li>2003: NORCECA Zone Championships (Gold Medal)</li>\r\n                            <li>2003: World Cup (Fourth Place).</li>\r\n                            <li>2003: – Member of the team that played in the NORCECA Zone  Championships in Mexico as Team USA captured the gold medal and a berth in the  2003 World Cup, the first Olympic qualifier</li>\r\n                            <li>2003: Emerged as a force on the left  side during the World Cup</li>\r\n                            <li>2003: Finished third on the team in scoring and 24th  overall with 103 points on 83 kills, 13 blocks and seven aces.</li>\r\n                            <li>2002: – Bulgaria Tour</li>\r\n                            <li>2002: Greece Tour</li>\r\n                            <li>2002: Florida Tour</li>\r\n                            <li>2002: –  Rejoined the team in late July</li>\r\n                            <li>2002: Played in just 36 of a possible 141 sets  during the year</li>\r\n                            <li>2002: Still had 86 total points, 71 kills, nine blocks, six blocks  and 20 digs</li>\r\n                            <li>2002: Posted a hitting percentage of .318 and averaged 2.39 points per  set.</li>\r\n                            <li>2001: – Japan Tour</li>\r\n                            <li>2001: World Championship Qualifier</li>\r\n                            <li>2001: Jeep America&#39;s Cup.</li>\r\n                            <li>2001: – Finished third on the team in kills (167) and fourth in  service aces (12)</li>\r\n                            <li>2001: Also had 88 digs and 14 blocks</li>\r\n                            <li>2001: Played professionally  for P.A.O.K. in Greece.</li>\r\n                            <li>2000: – France Tour.</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Beijing 2008, gold (Team - Men)</li><li>Olympic Games Athens 2004, 4th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2010 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2002, 2006, 2010</li><li>Top finish: 6th – 2010 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349384/TeamUSA%20Assets/Migration/Athlete%20Profiles/Riley%20Salmon/RileySalmon150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Riley Salmon"
+        }
+      ]
+    },
+    {
+      "first_name": "Regina",
+      "last_name": "Salmons",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-04-21T00:00:00",
+        "hometown": {
+          "city": "Methuen",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.739,
+          "longitude": -71.1806
+        },
+        "education": "University of Pennsylvania ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Loves to write poetry</li><li>In college, was the editor in chief of the feminist literary and arts magazine \"The F-word\" and chaired the poetry workshop group \"The Body Electric\" named after Walt Whitman's poem</li><li>Admires her parents for their sheer love and determination and wants to grow up to be as kind, strong and persistent as they are</li><li>Was a 2017 and 2018 Scholar Athlete Award (CRCA) winner and was a 2018 All-Ivy First-Team selection</li><li>Thankful for her high school coach, Brian Brunelle, and her home rowing club, Amoskeag, for instilling her love of the sport and their support.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 5th (Eight - Women)</li><li>Olympic Games Tokyo 2020, 4th (Eight - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Eight - Women)</li><li>Years of participation: Eight - Women 2022, 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Eight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662031/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/salmons_r_bio_1047751.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712935772/TeamUSA%20Assets/Athlete%20Profiles/Regina%20Salmons%201047751/Salmons_r_hero_1047751.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712935772/TeamUSA%20Assets/Athlete%20Profiles/Regina%20Salmons%201047751/Salmons_r_hero_1047751.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009034/TeamUSA%20Assets/Athlete%20Profiles/Regina%20Salmons%201047751/Salmons_Regina_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Regina Salmons 1047751"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Sambor",
+      "bio": {
+        "height": "5'8 1/2\"",
+        "birthday": "1984-10-02T00:00:00",
+        "hometown": {
+          "city": "White Bear Lake",
+          "state": "MN",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "University of North Dakota",
+        "fun_fact": null,
+        "biography": "<table border=\"0\" bordercolor=\"#111111\" cellpadding=\"2\" cellspacing=\"5\" height=\"104\" width=\"100%\" id=\"table3\" style=\"width: undefined; height: 104px;\"><tbody><tr><td><strong>Position</strong></td><td>Lead</td></tr><tr><td><strong>Teammates</strong></td><td>Cassie Potter, Jackie Lemke, Sophie Bader</td></tr><tr><td><strong>Occupation</strong></td><td>Physical therapist</td></tr><tr><td><strong>Education</strong><br /></td><td>University of North Dakota, doctorate in physical therapy<br /></td></tr><tr><td><strong>Family</strong></td><td>Married; one son</td></tr><tr><td><strong>Year started curling</strong></td><td>2002</td></tr></tbody></table><strong>CURLING HIGHLIGHTS</strong><table border=\"0\" width=\"100%\" id=\"table7\"><tbody><tr><td><ul><li><strong>Olympic Team Trials</strong><strong>:</strong> 2014 (3rd)</li><li><strong>U.S. </strong><strong>National Championships:</strong>&nbsp;2017, 2015 (8th), 2014 (3rd), 2013 (6th), 2012 (silver), 2011 (bronze)</li><li><strong>World University Games:</strong> 2007 (7th)<strong>&nbsp;</strong></li><li><strong>U.S. Mixed National Championship:</strong> 2008 (7th)</li><li><strong>World Junior Curling Championships: </strong>2005 (10th)</li><li><strong>U.S. Junior Women's National Championship</strong>: 2006 (6th), 2005 (champion)</li><li><strong>North Dakota State Junior Championship: </strong>2006 (champion),<strong> </strong>2005 (champion), 2004 (runner-up), 2003 (3rd)</li><li><strong>North Dakota Mixed Championship</strong>: 2010 (runner-up), 2008 (champion)</li><li><strong>North Dakota College Tournament</strong>: 2004 (runner-up)</li><li><strong>North Dakota State Women's Championship:</strong> 2005, 2004</li></ul><div><br /></div></td></tr></tbody></table>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349513/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephanie%20Sambor/Bohan-Steph.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephanie Sambor"
+        }
+      ]
+    },
+    {
+      "first_name": "Ethan",
+      "last_name": "Sampson",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-07-07T00:00:00",
+        "hometown": {
+          "city": "Edmore",
+          "state": "ND",
+          "country": "United States",
+          "latitude": 48.4075,
+          "longitude": -98.2098
+        },
+        "education": "Edmore Public School (Edmore, N.D.) ‘19 North Dakota State University ‘23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Owen and Valerie Sampson</li><li>Has one older sister, Lauren</li><li>Played baseball until 2020</li><li>Won the North Dakota Class B Babe Ruth State Championship in 2016</li><li>Made first worlds appearance in 2022 at the Junior Men’s World Curling Championship.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championship, Füssen, 2023 (Team - Men)</li><li>World Junior Championship, Jönköping, 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366125/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ethan%20Sampson/Ethan-Sampson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ethan Sampson"
+        }
+      ]
+    },
+    {
+      "first_name": "Joshua",
+      "last_name": "Samuels",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1991-07-08T00:00:00",
+        "hometown": {
+          "city": "Villa Park",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8125,
+          "longitude": -117.8189
+        },
+        "education": "Villa Park High School (Villa Park, Calif.) ‘09 University of California Los Angeles ’13, Political Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Elizabeth Kugler and Martin Samuels</li><li>Has one brother, Albert, and one sister, Angela</li><li>Scored more than 100 goals while competing at the University of California, Los Angeles</li><li>Competed in the Italian League for Lazio.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FINA World League Super Final, silver</li>\r\n                            <li>2015 Pan American Games, gold</li>\r\n                            <li>2015 FINA World League Super Final, 4th</li>\r\n                            <li>2014 FINA World League Super Final, 5th</li>\r\n                            <li>2014 FINA World Cup, 4th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2015</li><li>Top finish: 7th – 2015 (Team - Men)</li></ul><h5>More</h5>USA Water Polo",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349476/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joshua%20Samuels/Samuels_Josh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joshua Samuels"
+        }
+      ]
+    },
+    {
+      "first_name": "Katie Lou",
+      "last_name": "Samuelson",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1997-06-13T00:00:00",
+        "hometown": {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6902,
+          "longitude": -118.0074
+        },
+        "education": "University of Connecticut ’19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Karen and Jon Samuelson</li><li>Has two older sisters, Bonnie and Karlie</li><li>Both sisters played basketball at Stanford</li><li>Father played basketball collegiately at Cal State Fullerton and professionally in Europe</li><li>Mother was on the All-England Netball Team</li><li>Wears No. 33 after Larry Bird</li><li>Superstitious about sitting in the same seat on a bus or in a car.</li></ul><h5>Career Highlights</h5><ul><li>World Championship U-17, Bratislava, 2014 (Team - Women)</li><li>3x3 U18 World Cup, Jakarta, 2013 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662038/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_Samuelson_bio_1194948.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662947/TeamUSA%20Assets/Athlete%20Profiles/Katie%20Lou%20Samuelson%201194948/K_Samuelson_hero_1194948.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009040/TeamUSA%20Assets/Athlete%20Profiles/Katie%20Lou%20Samuelson%201194948/samuelson_katielou_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Katie Lou Samuelson 1194948"
+        }
+      ]
+    },
+    {
+      "first_name": "Mattias",
+      "last_name": "Samuelsson",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "2000-03-14T00:00:00",
+        "hometown": {
+          "city": "Voorhees",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 39.8554,
+          "longitude": -74.9607
+        },
+        "education": "Northwood School (Lack Placid, New York) ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Junior Championship, 2020 (Team - Men)</li><li>World Junior Championship, 2019 (Team - Men)</li><li>World Championship Under 18, 2018 (Team - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Kjell and Vicki Samuelsson</li><li>Has three siblings, Alexandra, Gabriella and Lukas</li><li>Father played in the NHL and was a member of the Sweden National Team</li><li>Spends the summer in Sweden</li><li>Speaks Swedish</li><li>Committed to play ice hockey at the University of Michigan</li><li>Participated in the 2015 USA Hockey U15 Select Camp</li><li>Hobbies include soccer, table tennis, kayaking, music, hockey and spending time with family and friends.</li></ul><br>\n\n</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718717/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mattias%20Samuelsson%20914280/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718719/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mattias%20Samuelsson%20914280/IceHockey_Samuelsson_Mattias_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mattias Samuelsson 914280"
+        }
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Samuelsson",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "2000-06-21T00:00:00",
+        "hometown": {
+          "city": "Rye",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.9862,
+          "longitude": -73.6826
+        },
+        "education": "Rye High School (Rye, New York) ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\"></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Championship Under 18, 2018 (Team - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Ulf and Jeanette Samuelsson</li><li>Has three siblings, Philip, Henrik and Victoria</li><li>Father, Ulf is a two-time Stanley Cup champion with the Pittsburgh Penguins</li><li>Philip plays professionally for the Arizona Coyotes and was a member of Team USA at the 2009 IIHF World U18 Championships</li><li>Henrik was drafted 27th overall by the Arizona Coyotes in the 2012 NHL Entry Draft</li><li>Victoria plays ice hockey at Penn State University</li><li>Committed to play ice hockey Boston College</li><li>Participated in the 2015 USA Hockey U15 Select Camp</li><li>Speaks Swedish.</li></ul><br>\n\n</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718756/TeamUSA%20Assets/Migration/Athlete%20Profiles/Adam%20Samuelsson%20913046/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718758/TeamUSA%20Assets/Migration/Athlete%20Profiles/Adam%20Samuelsson%20913046/IceHockey_Samuelsson_Adam_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adam Samuelsson 913046"
+        }
+      ]
+    }
+  ]
+}

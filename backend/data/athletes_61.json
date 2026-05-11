@@ -1,0 +1,1156 @@
+{
+  "entries": [
+    {
+      "first_name": "Saige",
+      "last_name": "Harper",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2002-04-22T00:00:00",
+        "hometown": {
+          "city": "Easthampton",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.2709,
+          "longitude": -72.6904
+        },
+        "education": "Sacred Heart University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Grew up around water and a family member suggested rowing would be a great sport for her</li><li>Was a competitive swimmer for 15 years before switching to rowing</li><li>Studying exercise science at Sacred Heart University</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (PR3 Coxed Four - Mixed)</li><li>Years of participation: PR3 Coxed Four - Mixed 2022, 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (PR3 Coxed Four - Mixed)</li></ul></ul><h5>Career Highlights</h5><ul><li><span>2023 Para Rowing Regatta to Paris</span><span>, gold (PR3 mixed four with coxswain)</span></li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 7th (PR3 Double Sculls - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707936994/TeamUSA%20Assets/Athlete%20Profiles/Saige%20Harper%201247405/Harper_Saige_bio_1247405.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "PR3",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707936750/TeamUSA%20Assets/Athlete%20Profiles/Saige%20Harper%201247405/Harper_Saige_hero_1247405.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707936750/TeamUSA%20Assets/Athlete%20Profiles/Saige%20Harper%201247405/Harper_Saige_hero_1247405.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707936803/TeamUSA%20Assets/Athlete%20Profiles/Saige%20Harper%201247405/Harper_Saige_thumbnail_1247405.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Saige Harper 1247405"
+        },
+        {
+          "title": "Para-Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Dawn",
+      "last_name": "Harper-Nelson",
+      "bio": {
+        "height": "5’6”",
+        "birthday": "1984-05-13T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.15
+        },
+        "education": "East St. Louis High School '02 UCLA",
+        "fun_fact": null,
+        "biography": "<div>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&amp;la=en&amp;w=50&amp;hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\"></td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p><span><br>\n</span><strong>&nbsp;</strong>East St. Louis, Ill.<br>\n<strong>&nbsp;</strong>East St. Louis Senior High School (East St. Louis, Ill.) '02<br>\n\n</p>\n<div><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games London 2012, silver (100m Hurdles - Women)</li><li>Olympic Games Beijing 2008, gold (100m Hurdles - Women)</li></ul></ul><h5>Career Highlights</h5></div>\n<div>\n<ul>\n    <li>2011 World Outdoor, bronze</li>\n    <li>2009 Outdoor Visa</li>\n    <li>Two-time USA Outdoor champion</li>\n    <li>Two-time NCAA All-American</li>\n    <li>2003 Pan American Junior Champion</li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>A 2002 graduate of East St. Louis High School, she won six state titles there ... She won her first national outdoor title and the women's Visa Championship Series in 2009 ...&nbsp;Since graduating from UCLA in 2006, Harper has been training under Bob Kersee in Los Angeles<br>\n</p>\n<p><strong>Learn more:</strong>&nbsp;<br>\nUSA&nbsp;Track &amp; Field</p>\n<br class=\"Apple-interchange-newline\">\n</div>\n<p><br>\n</p>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – silver (100m Hurdles - Women)</li><li>Years of participation: 100m Hurdles - Women 2009, 2015, 2017</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2017 (100m Hurdles - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928187/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dawn%20Harper-Nelson/Harper_D120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dawn Harper-Nelson"
+        }
+      ]
+    },
+    {
+      "first_name": "Brendan",
+      "last_name": "Harrington",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1991-03-16T00:00:00",
+        "hometown": {
+          "city": "Garden City",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7262,
+          "longitude": -73.6346
+        },
+        "education": "Yale University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><br /></td><td><br /></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Eight - Men, Pair - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Michele and Kevin Harrington</li><li>Coached by Jeremy Ivey and Cameron Kiosiglous</li><li>Affiliated with the U.S. Olympic Training Center in Oklahoma City, the Riverside Boat Club in Cambridge, Mass., and Yale University Boat Club</li><li>Began rowing with his high school team in 2005</li><li>Hopes to attend law school and work as a federal prosecutor after his rowing career</li><li>Speaks French and German.</li><li><p>Chaminade High School (Mineola, N.Y.) ‘09 Yale University ’14, History and Political</p></li></ul><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USRowing</p>&nbsp;<br /><p>&nbsp;</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 16th (Lightweight Quadruple Sculls - Men)</li><li>Years of participation: Lightweight Quadruple Sculls - Men 2017</li><li>Top finish: 16th – 2017 (Lightweight Quadruple Sculls - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927947/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brendan%20Harrington/Rowing_Harrington_Brendan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brendan Harrington"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Patrick",
+      "last_name": "Harris",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1985-03-13T00:00:00",
+        "hometown": {
+          "city": "Moorpark",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2833,
+          "longitude": -118.7667
+        },
+        "education": "Moorpark High School California University of Pennsylvania",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Dave and Elaine Harris</li><li>Has a brother Sean</li><li>Began playing field hockey in 1990</li><li>Game Day Mantra: &quot;Routine, focus on the next moment, have fun.&quot;</li><li>Favorite Sports Quote: &quot;First I went left, he did too. Then I went right, and he did too. Then I went left again, and he went to buy a hot dog.&quot; - Zlatan Ibrahimovic</li><li>Best Words of Advice: “There is a fine line between passion and obsession. Be passionate about what you do in life, but don’t obsess so much that you forget to enjoy what you are doing.”</li></ul><h5>Career Highlights</h5><ul><li>Indoor World Cup, Pretoria, 2023 (Team - Men)</li><li>Pan American Games, Santiago, 2023 (Team - Men)</li><li>Pan American Games, Lima, 2019 (Team - Men)</li><li>Pan American Games, Toronto, 2015 (Team - Men)</li><li>Indoor World Cup, Poznan, 2011 (Team - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Gold - 2023 Rohrmax Cup (Indoor) (Vienna, Austria)</li><li>Gold - 2012 World League Round 1 (Chula Vista, Calif.), Top Goal Scorer of the Tournament Award</li><li>Gold - 2008 Indoor Pan American Cup (San Juan, Argentina), Top Scorer of the Tournament Award</li><li>Silver - 2021 Indoor Pan American Cup (Spring City, Pa.), Top Scorer of the Tournament Award</li><li>Silver - 2019 3 Nations Invitational (Benalmadena, Spain), Player of the Tournament Award</li><li>Silver - 2010 Indoor Pan American Cup (Barquisimeto, Venezuela)</li><li>Silver - 2002 Indoor Pan American Cup (Rockville, Md.)</li><li>Bronze - 2019 Pan American Games (Lima, Peru)</li><li>Bronze - 2017 Pan American Cup (Lancaster, Pa.)</li><li>Bronze - 2017 World League Round 2 (Tacarigua, Trinidad & Tobago)</li><li>Silver - 2005 Indoor Pan American Cup (Kitchener, Canada)</li><li>Silver - 2009 Pan American Cup (Santiago, Chile)</li><li>4th - 2023 FIH Indoor Hockey World Cup (Pretoria, South Africa)</li><li>4th - 2022 Pan American Cup (Santiago, Chile)</li><li>4th - 2019 Hockey Series Final (Bhubaneswar, India)</li><li>5th - 2015 Pan American Games (Toronto, Canada)</li><li>5th - 2013 World League Round 2 (Rio de Janeiro, Brazil)</li><li>7th - 2015 World League Round 2 (Chula Vista, Calif.)</li><li>7th - 2011 Champions Challenge II (Lille, France), Champions Challenge II Player of the Tournament Award</li><li>11th - 2011 FIH Indoor Hockey World Cup (Poznan, Poland)</li><li>Canceled - 2022 FIH Indoor Hockey World Cup (Liège, Belgium)</li></ul><h5>More</h5>Representing the red, white and blue since 2000, Harris has committed his countless minutes and hours to the U.S. Men&rsquo;s National Team &ndash; a sheer passion that was instilled in him by his father. A hockey enthusiast himself, Harris&rsquo; father signed Harris up for a local field hockey league at the age of five. Never putting down the stick since, Harris went on to achieve accolades such as the MVP of the 2007 USA Field Hockey National Championship in Chula Vista, Calif. and was named the top goal scorer of the International Hockey Federation's World League Round 1 tournament in Chula Vista, Cali. Harris was also a key contributor in Team USA's second place finish at the 2009 Pan American Cup in Santiago, Chile. A natural when it comes to the sport, Harris would like to believe that he didn&rsquo;t choose the sport, but rather, the sport chose him.<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011540/TeamUSA%20Assets/Athlete%20Profiles/Patrick%20Harris%20822002/Harris_1200x514.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011541/TeamUSA%20Assets/Athlete%20Profiles/Patrick%20Harris%20822002/Harris_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Patrick Harris 822002"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Harris",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2004-03-13T00:00:00",
+        "hometown": {
+          "city": "Chester Springs",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.0765,
+          "longitude": -75.7005
+        },
+        "education": "Malvern Prep (2022) University of Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Gwendolyn Niebler and James Harris</li><li>Has an older sister, Gabriella</li><li>Enjoys snowboarding and basketball</li><li>His favorite dive is 5337D on 3-meter and his favorite diver is Xie Siyi</li><li>His first junior nationals was in 2014 and his first senior nationals was in 2017</li><li>Between dives, Nick likes to talk to people and listen to music (particularly pop, hip hop and rap)</li><li>Nick's typical pre-competition meal is a banana and a waffle</li><li>Outside of competition, Nick enjoys shrimp tacos</li><li>He describes himself as motivated, adventurous and enthusiastic</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Montreal, 2022 (3m Springboard - Men, 3m Springboard Synchro - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367649/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Harris/HARRIS_Nicholas.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Harris"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyasha",
+      "last_name": "Harris",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1998-05-01T00:00:00",
+        "hometown": {
+          "city": "Noblesville",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 40.0456,
+          "longitude": -86.0136
+        },
+        "education": "Heritage Christian High School (Indianapolis, Ind.) ‘16 University of South Carolina ‘20, Sports Management ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Full name is Tyasha but prefers “Ty”</li><li>Daughter of Shannon Greer-Harris and Bruce Harris</li><li>Has one brother, Bruce Harris III, and two sisters, Talia and Tamara.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>World Championship U-19, 2017 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006080/TeamUSA%20Assets/Athlete%20Profiles/Tyasha%20Harris%201155905/harris_tyasha.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyasha Harris 1155905"
+        }
+      ]
+    },
+    {
+      "first_name": "James",
+      "last_name": "Harris",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1991-09-18T00:00:00",
+        "hometown": {
+          "city": "Lanett",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 32.8646,
+          "longitude": -85.1977
+        },
+        "education": " Florida State University",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (4 x 400m Relay - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928035/TeamUSA%20Assets/Migration/Athlete%20Profiles/James%20Harris/Athletics_Harris_James.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "James Harris"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Keni",
+      "last_name": "Harrison",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1992-09-18T00:00:00",
+        "hometown": {
+          "city": "Clayton",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.6507,
+          "longitude": -78.4575
+        },
+        "education": "University of Kentucky",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Gary and Karon Harrison</li><li>Adopted at three months old</li><li>Grew up in large family with 10 siblings, eight of which were also adopted</li><li>Transferred from Clemson to the University of Kentucky</li><li>Named the 2011 Gatorade North Carolina Girls Track and Field Athlete of the Year</li><li>Her first sports were soccer and gymnastics.</li></ul><p></p><h5>World Championships Experience</h5><p>Most recent: 2019 – silver (100-meter hurdles)</p><p>Years of Participation: Outdoor – 2015, 2017, 2019; Indoor – 2016, 2018</p><p>Medals: 2 (1 gold, 1 silver)</p><h5>More</h5><p>USA Track and Field</p><p></p><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662001/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/harrison_k_bio_1222623.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662673/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/harrison_k_hero_1222623.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928049/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keni%20Harrison/harrison_keni_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keni Harrison"
+        }
+      ]
+    },
+    {
+      "first_name": "Marck",
+      "last_name": "Harrison",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1979-11-27T00:00:00",
+        "hometown": {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 39.961176,
+          "longitude": -82.998794
+        },
+        "education": "Columbus State Community College",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul><li>ParaPan American Games, Toronto, 2015 (Team - BC1-2 - Mixed, Individual - BC2 - Mixed)</li></ul><h5>Quick Facts</h5>\nMarck Harrison&rsquo;s began playing boccia in 2008. He has his eyes set on competing on the U.S. Team in Rio. He&rsquo;s come a long way since then, as he&rsquo;s currently ranked fourth in the BC2 class. He also competes with his club team, the Columbus Jack Attack, in Columbus, Ohio, where he was born and raised.\t\t\t\t          <br>\nMarck says competing on the boccia national team allows him to fulfill his dreams, as well as create avenues for his independence.                                                                    <br>\n<strong><br>\nConnect</strong><br>\nFacebook: Marck Harrison<br>\nTwitter: @marckharrison<br>\nInstagram: @marckharrison <h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 16th (Team - BC1-2 - Mixed), 30th (Individual - BC2 - Mixed)</li><li>Years of participation: Individual - BC2 - Mixed 2014; Team - BC1-2 - Mixed 2014</li><li>Top finish: 16th – 2014 (Team - BC1-2 - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Boccia",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "BC2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927987/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marck%20Harrison/harrison_mark_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marck Harrison"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Kayla",
+      "last_name": "Harrison",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1990-07-02T00:00:00",
+        "hometown": {
+          "city": "Middletown",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 39.5156,
+          "longitude": -84.398
+        },
+        "education": "Middletown High School '08 Harvard University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2016: Grand Slam, Paris - Silver</li>\r\n                            <li>2016: Grand Prix, Havana - Bronze</li>\r\n                            <li>2015: IJF Prestige Ranking - 1st</li>\r\n                            <li>2015: Grand Slam, Tokyo - Gold</li>\r\n                            <li>2015: Grand Prix, Jeju - Silver</li>\r\n                            <li>2015: Grand Prix, Qingdao - Bronze</li>\r\n                            <li>2015: Pan American Games, Toronto - Gold</li>\r\n                            <li>2015: Grand Prix, Budapest - Gold</li>\r\n                            <li>2015: World Masters, Morocco - Gold</li>\r\n                            <li>2015: Grand Slam, Baku - Bronze</li>\r\n                            <li>2015: Pan American Senior Championships - Silver</li>\r\n                            <li>2015: Grand Prix, Tbilisi - Gold</li>\r\n                            <li>2015: Grand Prix, D&#252;sseldorf - Gold</li>\r\n                            <li>2014 Miami World Cup, gold</li>\r\n                            <li>2014 Cuba Grand Prix, gold</li>\r\n                            <li>2014 El Salvador World Cup, silver</li>\r\n                            <li>2014 Russia Grand Slam, silver</li>\r\n                            <li>2014 World Championships, bronze</li>\r\n                            <li>2013 US Senior National Championships, gold</li>\r\n                            <li>2013 World Cup Argentina, gold</li>\r\n                            <li>2013 Word Cup Uruguay, silver</li>\r\n                            <li>2013 Pan Am Championships, bronze</li>\r\n                            <li>2012 Olympic Games, gold</li>\r\n                            <li>2012 Brazil Grand Slam, gold</li>\r\n                            <li>2012 German Grand Prix, gold</li>\r\n                            <li>2012 Hungary World Cup, gold</li>\r\n                            <li>2012 Czech Open, gold</li>\r\n                            <li>2012 Paris Grand Slam, silver</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (78kg - Women)</li><li>Olympic Games London 2012, gold (78kg - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 9th (78kg - Women)</li><li>Years of participation: 78kg - Women 2009, 2010, 2011, 2014, 2015</li><li>Medals: 3 (1 gold, 2 bronze)</li><ul><li>Gold – 2010 (78kg - Women)</li><li>Bronze – 2014 (78kg - Women);  2011 (78kg - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928131/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kayla%20Harrison/Harrison_K120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kayla Harrison 801927"
+        }
+      ]
+    },
+    {
+      "first_name": "Nevin",
+      "last_name": "Harrison",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2002-06-02T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "Roosevelt High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Daughter of Mark Harrison and Laura Worthen and has one brother, Finley</p></li><li>Fluent in Spanish</li><li>Enjoys hiking and being in nature, is passionate about paddling</li><li>Is a fan of music and plans to pursue a career in medicine</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Paris 2024, silver (C1 200m - Women)</li><li>Olympic Games Tokyo 2020, gold (C1 200m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (C1 200m - Women)</li><li>Years of participation: C1 200m - Women 2019, 2022, 2023; C2 200m - Women 2022; C2 500m - Women 2019</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2022 (C1 200m - Women);  2019 (C1 200m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662002/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Harrison_N_bio_1144428.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1675180427/NevinHarrison_main_gm6rup.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1675180399/NevinHarrison_ava_hidqqz.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nevin Harrison 1144428"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Canoe/Kayak"
+        }
+      ]
+    },
+    {
+      "first_name": "JuVaughn",
+      "last_name": "Harrison",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1999-04-30T00:00:00",
+        "hometown": {
+          "city": "Huntsville",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 34.7304,
+          "longitude": -86.5861
+        },
+        "education": "Louisiana State University, Biomedical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Mother is Georgia Harrison</li><li>Mother ran track at Alabama A&amp;M and is a member of the Alabama A&amp;M Athletics Hall of Fame as part of its 2014 induction class</li><li>Has one brother, Ky-Mani Harrison</li></ul><h5>Career Highlights</h5><ul><li>2021 NCAA Champion - Indoor High Jump - 2.30m (7' 6.50\")</li><li>2021 NCAA Champion - Indoor Long Jump - 8.45m (27' 8.75\")</li><li>2021 SEC Champion - Indoor High Jump - 2.20m (7' 2.50\")</li><li>2021 SEC Champion - Indoor Long Jump - 8.33m (27' 8.75\")</li><li>2020 SEC Champion – Indoor High Jump – 2.26m (7’ 5”)</li><li>2019 NCAA Champion - Outdoor High Jump - 2.27m (7' 5.25\")</li><li>2019 NCAA Champion - Outdoor Long Jump - 8.20m (26' 11\")</li><li>2019 SEC Champion – Outdoor High Jump – 2.24m (7’ 4.25”)</li><li>2019 SEC Champion – Indoor High Jump – 2.28m (7’ 5.75”)</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 19th (High Jump - Men)</li><li>Olympic Games Tokyo 2020, 5th (Long Jump - Men), 7th (High Jump - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (High Jump - Men)</li><li>Years of participation: High Jump - Men 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (High Jump - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662626/TeamUSA%20Assets/Athlete%20Profiles/JuVaughn%20Harrison%201139726/Harrison_J_Bio_1139726.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662560/TeamUSA%20Assets/Athlete%20Profiles/JuVaughn%20Harrison%201139726/Harrison_J_Hero_1139726.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006011/TeamUSA%20Assets/Athlete%20Profiles/JuVaughn%20Harrison%201139726/Harrison_JuVaughn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "JuVaughn Harrison 1139726"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Conor",
+      "last_name": "Harrity",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1994-09-03T00:00:00",
+        "hometown": {
+          "city": "Weston",
+          "state": "MA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Boston College High School (Boston, Mass.) Harvard University (Cambridge, Mass.) ‘18, Economics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>He was team captain at Harvard University his senior year and graduated with a degree in Economics.<h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 4th (Eight - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (Eight - Men)</li><li>Years of participation: Eight - Men 2018, 2019</li><li>Top finish: 4th – 2018 (Eight - Men)</li></ul><h5>More</h5>US Rowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928081/TeamUSA%20Assets/Migration/Athlete%20Profiles/Conor%20Harrity/Harrity_Conor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Conor Harrity"
+        }
+      ]
+    },
+    {
+      "first_name": "Rebecca",
+      "last_name": "Hart",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1984-10-26T00:00:00",
+        "hometown": {
+          "city": "Erie",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 42.1292,
+          "longitude": -80.0851
+        },
+        "education": "Pennsylvania State University ’09, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Sue Dobson and Terry Hart</li><li>Has one sister, Katie, and one brother, Jordan</li><li>Got involved with the Paralympic movement in 1998 at a regional competition in Atlanta, Georgia where she decided to aim for international competition</li><li>Purchased her first horse and began to train for national and international competition</li><li>Born with a rare genetic disease called hereditary spastic paraplegia, a progressive impairment that causes muscle wasting and paralysis from the middle of the back down</li><li>Enjoys kayaking, sailing, camping and rock climbing</li><li>Works with the Hereditary Spastic Paraplegia Foundation to work toward bringing awareness about HSP and works with children dealing with HSP</li></ul><h5>Paralympic Experience</h5><ul><li>5-time Paralympian; 4-time Paralympic medalist (3 gold, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, gold (Individual Championship Test - Grade III - Open, Individual Freestyle - Grade III - Open, Team - Open)</li><li>Paralympic Games Tokyo 2020, bronze (Team - Open), 11th (Individual Championship Test - Grade III - Open)</li><li>Paralympic Games Rio de Janeiro 2016, 7th (Individual Freestyle - Grade II (<2017) - Open), 9th (Individual Championship Test - Grade II (<2017) - ), 12th (Team - Open)</li><li>Paralympic Games London 2012, 5th (Individual Freestyle - Grade II (<2017) - Open), 7th (Team - Open), 11th (Individual Championship Test - Grade II (<2017) - )</li><li>Paralympic Games Beijing 2008, 4th (Individual Freestyle - Grade II (<2017) - Open), 10th (Team - Open), 12th (Individual Championship Test - Grade II (<2017) - )</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – silver (grade III freestyle), bronze (grade III individual championship)</li><li>Years of Participation: 2010, 2014, 2018</li><li>Medals: 2 (1 silver, 1 bronze)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661993/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/hart_r_bio_918175.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Equestrian",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "ll",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662342/TeamUSA%20Assets/Athlete%20Profiles/Rebecca%20Hart%20918175/hart_r_hero_918175.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006039/TeamUSA%20Assets/Athlete%20Profiles/Rebecca%20Hart%20918175/Hart_Rebecca_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rebecca Hart 918175"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para-Equestrian"
+        }
+      ]
+    },
+    {
+      "first_name": "Jaquvis",
+      "last_name": "Hart",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-03-13T00:00:00",
+        "hometown": {
+          "city": "Bossier City",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 32.5185,
+          "longitude": -93.7324
+        },
+        "education": "Airline High School (Bossier City, La.) ‘13 Louisiana Tech University ’17, Kinesiology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Derryon Thompson and Shenika Hart-Thompson</li><li>Born without the lower half of his left arm</li><li>Has one brother, Trayvon</li><li>Nicknamed “JQ”</li><li>Was a high school state champion in track and a two-time city champion in wrestling</li><li>Runs sprints for the Louisiana Tech University track &amp; field team.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 U.S. Paralympic Team Trials – Track &amp; Field, gold (400m)</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016,  (4 x 100m Relay T42-47 - Men, 400m T47 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (400m T47 - Men)</li><li>Years of participation: 400m T47 - Men 2015</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2015 (400m T47 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716704/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jaquvis%20Hart%20908569/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T47",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716705/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jaquvis%20Hart%20908569/Hart_Jaquvis250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jaquvis Hart 908569"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Hart",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2001-02-13T00:00:00",
+        "hometown": {
+          "city": "Lafayette",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 40.4168,
+          "longitude": -86.8753
+        },
+        "education": "Laurel Springs High School, '19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sean and Dawn Hart</li><li>Started diving at age eight in 2009</li><li>His favorite dive is 5152D and his favorite diver is David Boudia</li><li>Nick trains 6-7 hours a day, six days a week</li><li>His goal for the 2016 season is to compete successfully at Junior Worlds</li><li>Pre-competition meal consists of waffles, eggs and bacon</li><li>Favorite meal outside of competition is peanut butter toast, a strawberry-banana smoothie and eggs</li><li>Outside of diving, Nick enjoys walking dogs at this local animal shelter</li><li>His grandfather played football for the Nebraska Cornhuskers</li><li>Has set a goal of going to law school one day</li><li>He is a National Honors Society candidate</li><li>Nick's favorite movie is The Hunger Games</li><li>If he could meet anyone, it would be Elvis Presley</li><li>He can play three different instruments and is a former gymnast.</li></ul><h5>Career Highlights</h5><ul><li>2016 Junior Nationals Championships, 2nd, 3m</li><li>2016 Junior Nationals Championships, 4th, 1m</li><li>2016 Junior Nationals Championships, 4th, tower</li><li>Competed in his first Junior Nationals in 2010.</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927928/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Hart/Hart_Nick_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Hart"
+        }
+      ]
+    },
+    {
+      "first_name": "Annie",
+      "last_name": "Hart",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1992-08-20T00:00:00",
+        "hometown": {
+          "city": "Stillwater",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0569,
+          "longitude": -92.8205
+        },
+        "education": "St. Paul Academy (St. Paul, Minn.) ‘10 Dartmouth College ’14",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Kyle and Holly Hart</li><li>Has one brother and one sister, Henry and Valora</li><li>Hobbies include running, crossfit and cooking.</li></ul><h5>Career Highlights</h5><ul><li>Under 23 World Championship, Almaty, 2015 (Sprint Classic Style - Women, 2 x 7.5km Skiathlon - Women)</li><li>Under 23 World Championship, Liberec, 2013 (2 x 7.5km Skiathlon - Women, Sprint Classic Style - Women)</li><li>Junior World Championships, Hinterzarten, 2010 (5km Classic Style - Women)</li></ul><h5>Olympic Experience </h5><ul><li>Olympian (2018)</li></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Cross-Country Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927965/TeamUSA%20Assets/Migration/Athlete%20Profiles/Annie%20Hart/hart_annie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Annie Hart"
+        }
+      ]
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Hartfield",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1990-03-29T00:00:00",
+        "hometown": {
+          "city": "Manchester",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.7793,
+          "longitude": -72.5234
+        },
+        "education": "Manchester High School (Manchester, Conn.) '08 Ohio State University, Sociology and Criminal Justice ‘13",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Marsha McIntosh and the late Tyrell Hartfield</li><li>Has two brothers, Allen and Mason, and four sisters, Alyssa, Courtney, Marissa and Natasha</li><li>Placed third at the 2014 and 2015 USA Track &amp; Field Outdoor Championships</li><li>Transferred to Ohio State from Rend Lake College</li><li>Placed third at the 2013 NCAA Outdoor Track and Field Championships</li><li>2013 First-Team All-American</li><li>2011 Big Ten Field Athlete of the Year</li><li>Five-time Big Ten champion.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 25th (Long Jump - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 12th (Long Jump - Men)</li><li>Years of participation: Long Jump - Men 2015</li><li>Top finish: 12th – 2015 (Long Jump - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929594/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mike%20Hartfield/hartfield_mike_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mike Hartfield"
+        }
+      ]
+    },
+    {
+      "first_name": "Zach",
+      "last_name": "Harting",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1997-08-27T00:00:00",
+        "hometown": {
+          "city": "Madison",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 34.7023,
+          "longitude": -86.7486
+        },
+        "education": "University of Louisville '19, Mechanical Engineering",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Scott and Lori Harting</li><li>University of Louisville Swim and Dive 2019 Donut Hole Toss Champion</li><li>He enjoys disc golfing, guitar, drums, concerts, learning Russian, and playing board/card games.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 9th (200m Butterfly - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 11th (200m Butterfly (SC) - Men)</li><li>Years of participation: 200m Butterfly (SC) - Men 2018, 2021, 2022; 4 x 200m Freestyle Relay (SC) - Men 2018, 2021</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2021 (4 x 200m Freestyle Relay (SC) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662302/TeamUSA%20Assets/Athlete%20Profiles/Zach%20Harting%20840795/Harting_Z_Bio_840795.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662388/TeamUSA%20Assets/Athlete%20Profiles/Zach%20Harting%20840795/Harting_Z_Hero_840795.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005986/TeamUSA%20Assets/Athlete%20Profiles/Zach%20Harting%20840795/harting_zach150x25053.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zach Harting 840795"
+        }
+      ]
+    },
+    {
+      "first_name": "Elizabeth",
+      "last_name": "Hartnett",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1991-05-17T00:00:00",
+        "hometown": {
+          "city": "Fullerton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8704,
+          "longitude": -117.9243
+        },
+        "education": "Rosary High School Chapman University, (BFA '12), University of California Irvine, (MBA '19)",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul><h5>More</h5><p><strong>Individual Team Handball Career:&nbsp;</strong></p>\n<p>2015: Women's Select \"Big Four\" Handball Challenge, 1st place (LATHC)</p>\n<p><strong>Other:&nbsp;</strong></p>\n<p>2009-2012: Played Div. III basketball (forward) at Chapman University&nbsp;</p>\n<p><strong>Personal:</strong> </p>\n<p>\"Liz\" was in London for the 2012 Summer Olympic Games, filming a short documentary on Fauja Singh, at the time, a 101 year old marathon runner carrying the Olympic Torch in the relay. During her down time, she witnessed Michael Phelps win gold medals in swimming and Team USA win gold in gymnastics and beach volleyball. As a result, she caught the Olympic spirit.</p>\n<p>Liz was a three-year varsity basketball player at Chapman University, and led her team in field goal percentage, and was second in field goals made and all rebounding categories in her senior year. While in high school, Liz competed in hurdles for Track and Field, and played basketball, earning first-team All-Trinity League as a senior, along with being First Team All-CIF (California Interscholastic Federation) Southern Section. She also played soccer for 10 years.</p>\n<p>Liz completed her Master in Business Administration in June of 2019 at University of California, Irvine, and enjoys working in the family business, a women-owned trucking company in the Southern California Construction Industry.&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928231/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elizabeth%20Hartnett/WNT_Hartnett_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elizabeth Hartnett"
+        }
+      ]
+    },
+    {
+      "first_name": "Caroline",
+      "last_name": "Harvey",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2002-10-14T00:00:00",
+        "hometown": {
+          "city": "Salem",
+          "state": "NH",
+          "country": "United States",
+          "latitude": 42.7876,
+          "longitude": -71.209
+        },
+        "education": " University of Wisconsin",
+        "fun_fact": "Took boxing lessons as a teenager to improve her quickness for hockey",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Defenseman</li><li>Daughter of David and Martha Harvey</li><li>Has two siblings, Nolan and Grace</li><li>Took boxing lessons as a teenager to improve her quickness for hockey</li></ul><h5>Biographical Information</h5><p>Caroline Harvey started to play ice hockey at age three and told her<span>&nbsp;aunt at age three that she would make the 2022 U.S. Olympic Team in women’s ice hockey.</span></p><p><span>Harvey did make her Olympic debut at the Olympic Winter Games Beijing 2022 where she won a silver medal as the youngest member of the team. She was named best defender at the 2023 and 2025 IIHF Women's World Championships in helping Team USA winning gold both times. Harvey is also a two-time NCAA champion for the Wisconsin Badgers coached by Mark Johnson, a member of the “Miracle on Ice” team that won gold in Lake Placid in 1980.&nbsp;</span></p><p><span>When Harvey is not on the ice, she enjoys showing off her dance moves on TikTok and those close to her, call her \"KK\"&nbsp;</span><span>because her baby sister, Grace, could not pronounce Caroline when she was younger.</span><span></span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li><li>Olympic Games Beijing 2022, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2021, 2022, 2023, 2024, 2025</li><li>Medals: 5 (2 gold, 3 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women)</li><li>Silver – 2024 (Team - Women);  2022 (Team - Women);  2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661994/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Harvey_c_bio_1124180.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697141809/TeamUSA%20Assets/Athlete%20Profiles/Caroline%20Harvey%201124180/harvey_c_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662149/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Harvey_c_hero_1124180.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006084/TeamUSA%20Assets/Athlete%20Profiles/Caroline%20Harvey%201124180/harvey_caroline_beijing_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Caroline Harvey 1124180"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    }
+  ]
+}

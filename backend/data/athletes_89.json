@@ -1,0 +1,1287 @@
+{
+  "entries": [
+    {
+      "first_name": "Marion",
+      "last_name": "Lepert",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1995-09-18T00:00:00",
+        "hometown": {
+          "city": "Belmont",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.5205,
+          "longitude": -122.275
+        },
+        "education": "Castilleja School (Palo Alto, Calif.) Stanford University ’18, Mechanical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Arnaud and Elizabeth Lepert</li><li>Began sailing at age 8</li><li>Hobbies include windsurfing, kitesurfing, paddle boarding and running</li><li>Speaks French and Spanish.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, bronze </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 16th (RS:X - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 40th (RS:X - Women)</li><li>Years of participation: RS:X - Women 2013, 2014, 2015</li><li>Top finish: 26th – 2013 (RS:X - Women)</li></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006560/TeamUSA%20Assets/Athlete%20Profiles/Marion%20Lepert%20848007/lepert_Marion_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marion Lepert 848007"
+        }
+      ]
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Leroux",
+      "bio": {
+        "height": "5’7”",
+        "birthday": "1990-05-07T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": " UCLA",
+        "fun_fact": null,
+        "biography": "<div style=\"padding: 0px; background-image: none; margin: 0px; word-wrap: break-word; width: 100%; height: 100%; font-family: tahoma,arial,sans-serif; text-align: left;\"><strong style=\"font-weight: bold;\"><br>\n</strong>\n<div><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, gold (Team - Women)</li></ul></ul></div>\n<div><h5>Career Highlights</h5>\n<div>\n<ul>\n    <li>Two-time FIFA U-20 Women's World Cup team member (2008, 2010)</li>\n    <li>2008 FIFA U-20 Women&rsquo;s World Cup, Golden Ball winner</li>\n    <li>2008 FIFA U-20 Women&rsquo;s World Cup, Golden Shoe winner</li>\n</ul>\n<p><strong style=\"font-weight: bold;\">Fun Facts:&nbsp;</strong>Mother, Sandi, is Canadian and played third base for the Canadian National Softball Team...Father, Ray, played professional baseball...Has 13 tattoos....Hobbies include shopping, listening to music, running and practicing yoga.</p>\n<p><strong style=\"font-weight: bold;\">Learn more:</strong><strong>&nbsp;</strong><br>\nUS&nbsp;Soccer&nbsp;Bio</p>\n</div>\n</div>\n<div style=\"font-weight: bold;\"><br>\n</div>\n</div>\n<p></p>\n<div id=\"myEventWatcherDiv\" style=\"display: none;\"></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – gold (Team - Women)</li><li>Years of participation: Team - Women 2015</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2015 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717984/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sydney%20Leroux%20855419/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717986/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sydney%20Leroux%20855419/Leroux_S_SOC120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sydney Leroux 855419"
+        }
+      ]
+    },
+    {
+      "first_name": "Cory",
+      "last_name": "Leslie",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1989-10-24T00:00:00",
+        "hometown": {
+          "city": "Huron",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.3934,
+          "longitude": -82.5685
+        },
+        "education": "The Ohio State University",
+        "fun_fact": "",
+        "biography": "<p>&nbsp;</p><div><strong></strong><br /><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (3000m Steeplechase - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Debbie and Paul Leslie</li><li>Trains at Furman University, where he is also an assistant coach</li><li>Hobbies include playing video games and fantasy football, and watching soccer and football.</li><li><p>Sandusky Perkins High School (Sandusky, Ohio) ‘08 The Ohio State University ’12, Education Sport and Leisure Studies</p></li></ul></div><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 6th (Team Cross Country Relay - Mixed)</li><li>Years of participation: Team Cross Country Relay - Mixed 2017</li><li>Top finish: 6th – 2017 (Team Cross Country Relay - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346741/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cory%20Leslie/Athletics_Leslie_Cory.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cory Leslie"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Breanna",
+      "last_name": "Leslie",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1991-08-11T00:00:00",
+        "hometown": {
+          "city": "Mesa",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4152,
+          "longitude": -111.8315
+        },
+        "education": "Azusa Pacific University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><br /></td><td><br /></td></tr></tbody></table><div></div><div><ul></ul><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2014 Thorpe Cup, 7 (heptathlon)</li><li>2014 U.S. Outdoor National Championships, 8th (heptathlon)<br /></li><li>2014 U.S. Indoor National Championships, 5th (pentathlon)</li><li>2014 Mt. Sac Relays, 5th (heptathlon)</li><li>2013 U.S. Outdoor National Championships, 13th (heptathlon)</li><li>2013 U.S. Indoor National Championships, 8th (heptathlon)</li><li>2013 Pan American CE Cup, 5th (heptathlon)</li><li>2013 Mt. Sac Relays, 3rd (heptathlon)</li><li>2012 NAIA national champion (pentathlon, heptathlon)<br /></li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Daughter of Lynton and Rae Leslie</li><li>Hobbies include playing volleyball, watersports, horseback riding and fishing</li><li>Trains in Azusa, California with two-time Olympic medalist Bryan Clay</li><li><p>Valley Christian High School (Chandler, Ariz.) Azusa Pacific University ’13, Exercise Science</p></li></ul><br /><p>&nbsp;</p><p><strong ><br bold=\"[object Object]\"/></strong></p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346926/TeamUSA%20Assets/Migration/Athlete%20Profiles/Breanna%20Leslie/Athletics_Leslie_Breanna.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Breanna Leslie"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Lisa",
+      "last_name": "Leslie",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1972-07-07T00:00:00",
+        "hometown": {
+          "city": "Inglewood",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9616,
+          "longitude": -118.3532
+        },
+        "education": "Morningside High School University of Southern California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Christine Leslie-Espinoza</li><li>Has two sisters and four half brothers</li><li>Married Michael Lockwood in 2005, and has two children, Lauren Jolie and Michael Joseph</li><li>Graduate of Morningside High School in California, where in 1998, she dedicated the Lisa Leslie Sports Complex, which includes a 42,000 square foot court with 12 hoops</li><li>Established the Lisa Leslie Basketball &amp; Leadership Academy in 2012</li><li>Is a three-time ESPY Award Winner for Best WNBA Player and two-time Women’s Sports Foundation Sportswoman of the Year</li><li>After retiring from basketball in 2009, became the first WNBA player turned owner as co-owner of the Los Angeles Sparks</li><li>Has worked with foster children in Los Angeles and was presented with the 1999 Young Heroes Award from the Big Sisters Guild of Los Angeles</li><li>Served as a color commentator for USC basketball and has also been a guest correspondent on national networks, including ABC, Turner, Fox Sports and NBC, including supporting NBC’s coverage of the Olympic Games in 2012.</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 4-time Olympic medalist (4 gold)</li><ul><li>Olympic Games Beijing 2008, gold (Team - Women)</li><li>Olympic Games Athens 2004, gold (Team - Women)</li><li>Olympic Games Sydney 2000, gold (Team - Women)</li><li>Olympic Games Atlanta 1996, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2002 – gold (Team - Women)</li><li>Years of participation: Team - Women 1994, 1998, 2002</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2002 (Team - Women);  1998 (Team - Women)</li><li>Bronze – 1994 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240353/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Lisa%20Leslie/Leslie_coverphoto.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000, 2004, 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240354/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Lisa%20Leslie/Leslie_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lisa Leslie"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2019"
+        },
+        {
+          "title": "Olympian"
+        }
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Lesperance",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1987-05-23T00:00:00",
+        "hometown": {
+          "city": "Coleman",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 45.0744,
+          "longitude": -88.0209
+        },
+        "education": "University of Wisconsin at Whitewater ’11, Human Resources",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Tony and Brenda Lesperance</li><li>Has a sister named Heather</li><li>Loves to compete and has made great friends off the court</li><li>Has transverse myelitis</li><li>Started playing wheelchair basketball at the age of 9</li><li>Hobbies include watching movies, biking and fishing</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 gold)</li><ul><li>Paralympic Games Tokyo 2020, gold (Team - Men)</li><li>Paralympic Games Beijing 2008, 4th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – bronze (Team - Men)</li><li>Years of participation: Team - Men 2010</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2010 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662020/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lesperance_m_bio_805892.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "1.0",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662457/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Lesperance%20805892/lesperance_m_hero_805892.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006578/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Lesperance%20805892/Lesperance_Matt_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matt Lesperance 805892"
+        }
+      ]
+    },
+    {
+      "first_name": "Julie",
+      "last_name": "Letai",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "2000-06-23T00:00:00",
+        "hometown": {
+          "city": "Medfield",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.1667,
+          "longitude": -71.3333
+        },
+        "education": " University of Utah",
+        "fun_fact": "Started ice skating at age 2",
+        "biography": "<h5>Quick Facts</h5><ul><li>Started skating at age 2</li><li>&nbsp;Calls short track speedskating a combination of two sports: &nbsp;“demolition derby and NASCAR.”</li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"font-size: 11pt;\">Julie Letai started skating around two years old, following her two older siblings who were already ice skating at her local rink. She started in figure skating lessons at first before switching to speedskating around age 7.</span></p><p><span style=\"font-size: 11pt;\">She made her first U.S. national team in 2019 and has competed at four world championships for Team USA, including winning a silver medal on the women’s relay team at the 2024 world championships. Letai made her Olympic debut at the&nbsp;Olympic Winter&nbsp;Games Beijing 2022, competing in the women’s 1500m and the women’s relay.</span></p><p><span style=\"font-size: 11pt;\">Off the ice, she hopes to pursue a career in healthcare after her speedskating career ends.</span><span></span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 8th (2000m Relay - Mixed, 3000m Relay - Women), 16th (500m - Women), 28th (1000m - Women)</li><li>Olympic Games Beijing 2022, 8th (3000m Relay - Women), 21th (1500m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 7th (2000m Relay - Mixed), 16th (1000m - Women), 25th (500m - Women)</li><li>Years of participation: 1000m - Women 2024, 2025; 2000m Relay - Mixed 2023, 2025; 500m - Women 2024, 2025; 1500m - Women 2024; 3000m Relay - Women 2021, 2023, 2024</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2024 (3000m Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765550440/TeamUSA%20Assets/Athlete%20Profiles/Julie%20Letai%20845062/j_letai_845062_bio2.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765550440/TeamUSA%20Assets/Athlete%20Profiles/Julie%20Letai%20845062/j_letai_845062_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765550440/TeamUSA%20Assets/Athlete%20Profiles/Julie%20Letai%20845062/j_letai_845062_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765550457/TeamUSA%20Assets/Athlete%20Profiles/Julie%20Letai%20845062/j_letai_845062_bio1.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Julie Letai 845062"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Short Track Speedskating"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Ahalya",
+      "last_name": "Lettenberger",
+      "bio": {
+        "height": "4'9\"",
+        "birthday": "2001-03-19T00:00:00",
+        "hometown": {
+          "city": "Glen Ellyn",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.87,
+          "longitude": -88.06
+        },
+        "education": "Rice University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with arthrogryposis amyoplasia, a muscular skeletal disorder that affects her lower limbs</li><li>Always participated in a variety of sports and began swimming at age 11 to combat chronic hip pain due to her bilateral hip dysplasia</li><li><p>At age 12, she competed in her first Para swimming event, the GTAC Disability Open and less than a year later she was named to the U.S. emerging team roster</p></li><li><p>Swims at the NCAA Division I level at Rice University in Houston</p></li><li><p>Hobbies include cooking, baking, movies, reading, spending time with friends and family</p></li><li><p>Daughter to Tom and Anna</p></li><li><p>Has two siblings Alex and Charlie</p></li><li><p>Has a black lab named Rocky</p></li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Paris 2024, 5th (400m Freestyle S7 - Women), 6th (100m Breaststroke SB6 - Women)</li><li>Paralympic Games Tokyo 2020, silver (200m Individual Medley SM7 - Women), 4th (400m Freestyle S7 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (400m Freestyle S7 - Women), 4th (200m Individual Medley SM7 - Women)</li><li>Years of participation: 200m Individual Medley SM7 - Women 2019, 2022, 2023; 400m Freestyle S7 - Women 2019, 2022, 2023; 100m Breaststroke SB6 - Women 2019, 2022; 100m Freestyle S7 - Women 2019, 2022; 50m Butterfly S7 - Women 2022; 100m Backstroke S7 - Women 2019; PTHC - Women 2017, 2018</li><li>Medals: 3 (2 silver, 1 bronze)</li><ul><li>Silver – 2023 (400m Freestyle S7 - Women);  2019 (400m Freestyle S7 - Women)</li><li>Bronze – 2022 (400m Freestyle S7 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687826904/NGB%20Para%20Swimming/Athlete%20Profiles/2023%20National%20Team%20Headshots/LETTENBERGER_Ahalya-Kusumoto210620-100.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S7",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662534/TeamUSA%20Assets/Athlete%20Profiles/Ahalya%20Lettenberger%20799949/lettenberger_a_hero_799949.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010659/TeamUSA%20Assets/Athlete%20Profiles/Ahalya%20Lettenberger%20799949/Lettenberger-Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ahalya Lettenberger 799949"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Matai",
+      "last_name": "Leuta",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1990-07-20T00:00:00",
+        "hometown": {
+          "city": "Marina",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.6841,
+          "longitude": -121.8033
+        },
+        "education": "University of Southern California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born in the U.S. but was raised in Fiji, where he fell in love with rugby</li><li>Burst onto the national rugby scene in early 2015 when he attended a recruitment camp at the Olympic Training Site in Chula Vista, Calif.</li><li>Wants to become a graphic designer and own his own clothing line</li><li>Hobbies include hanging out at local coffee shops, creating new designs for apparel and finding new places to eat</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 8th (Team - Men)</li><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2018</li><li>Top finish: 6th – 2018 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472608/TeamUSA%20Assets/Athlete%20Profiles/Matai%20Leuta%20849469/leuta_m_bio_849469.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472592/TeamUSA%20Assets/Athlete%20Profiles/Matai%20Leuta%20849469/leuta_m_hero_849469.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472592/TeamUSA%20Assets/Athlete%20Profiles/Matai%20Leuta%20849469/leuta_m_hero_849469.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472592/TeamUSA%20Assets/Athlete%20Profiles/Matai%20Leuta%20849469/leuta_m_hero_849469.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matai Leuta 849469"
+        },
+        {
+          "title": "Rugby"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Jackson",
+      "last_name": "Leverett III",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2000-01-18T00:00:00",
+        "hometown": {
+          "city": "Bainbridge",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 30.9035,
+          "longitude": -84.5755
+        },
+        "education": "Home-school Studies (Bainbridge, Ga.) ‘20 Ohio State University ‘24",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Dr. Jack and Ashley Leverett</li><li>Has one brother, Henry, who is a member of the 2020 U.S. Olympic Team and they compete together on the Ohio State pistol team</li><li>Has one sister, Abbie</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 25th (25m Rapid Fire Pistol - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346957/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jackson%20Leverett%20III/Leverett_Jackson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jackson Leverett III"
+        }
+      ]
+    },
+    {
+      "first_name": "Chloe",
+      "last_name": "Levins",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1998-04-24T00:00:00",
+        "hometown": {
+          "city": "Rutland ",
+          "state": "VT",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Middlebury College",
+        "fun_fact": "During the off-season is an assistant golf coach at her alma mater, Middlebury College, where she was a two-time conference champion in women's golf",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of James and Mary Anne Levins</li><li>Has three siblings, Augie, Jimmy and Keely</li><li>Won two state championships in golf in high school and was the Vermont State Amateur Champion in 2019</li><li>Assistant golf coach at Middlebury College, her alma mater, where she was a two-time conference champion and conference player of the year</li><li>Hobbies: golf, cycling and reading</li></ul><h5>Biographical Information</h5><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Chloe Levins grew up in Vermont hiking, biking and skiing around the Green Mountains. Levins excelled at golf and was a two-time high school state champion. She attended Middlebury College, where she continued to play golf as a two-time captain, two-time conference champion, and conference player of the year, all while pursuing her Olympic dreams in biathlon.</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">At age 17, Levins competed at the Youth Winter Olympic Games Lillehammer 2016, finishing just off the podium in fourth place in the 7.5-kilometer pursuit. The fourth-place finish marked the best for an American at the Youth Winter Olympics or Winter Olympics in the sport.&nbsp;</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Levins has represented the United States at four world championships in biathlon, including the mixed relay and team relay, as well as multiple individual events.&nbsp;</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">During her off-season, Levins is an assistant coach for the Middlebury College golf team and enjoys exploring gravel and mountain biking trails around Vermont. Levins graduated from Middlebury with a degree in Neuroscience and Buddhism.</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 19th (4 x 6km Relay - Mixed, 4 x 6km Relay - Women), 41th (15km Individual - Women), 48th (10km Pursuit - Women), 52th (7.5km Sprint - Women)</li><li>Years of participation: 10km Pursuit - Women 2025; 15km Individual - Women 2021, 2023, 2024, 2025; 4 x 6km Relay - Mixed 2024, 2025; 4 x 6km Relay - Women 2023, 2024, 2025; 7.5km Sprint - Women 2023, 2024, 2025</li><li>Top finish: 11th – 2024 (4 x 6km Relay - Mixed)</li></ul><h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Lenzerheide, 2020 (4 x 6km Relay - Women, 10km Pursuit - Women, 12.5km Individual - Women, 7.5km Sprint - Women)</li><li>World Youth/Junior Championships, Brezno, 2019 (10km Pursuit - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763842289/TeamUSA%20Assets/Athlete%20Profiles/Chloe%20Levins%20834476/levins_c_834476_bio2.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763842259/TeamUSA%20Assets/Athlete%20Profiles/Chloe%20Levins%20834476/levins_c_834476_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763842273/TeamUSA%20Assets/Athlete%20Profiles/Chloe%20Levins%20834476/levins_c_834476_bio1.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chloe Levins 834476"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Biathlon"
+        }
+      ]
+    },
+    {
+      "first_name": "Isabeau",
+      "last_name": "Levito",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "2007-03-03T00:00:00",
+        "hometown": {
+          "city": "Mount Laurel",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 39.9576,
+          "longitude": -74.9143
+        },
+        "education": "International Virtual Learning Academy",
+        "fun_fact": "Named after Michelle Pfeiffer’s character in the 1985 movie, Ladyhawke",
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong>Specialty</strong></span><span>: Women's Singles&nbsp;</span></li><li><span>Daughter of Chiara Garberi, who moved to the U.S. from Italy in 1997</span></li><li><span>Named after&nbsp;</span><span>Michelle Pfeiffer’</span><span>s character in the 1985 movie,&nbsp;</span><span><em>Ladyhawke</em></span></li><li><span>Enjoys reading, brings up to 10 books on trips</span></li><li>Her favorite food is pasta</li></ul><h5>Biographical Information</h5><p><span>Isabeau Levito became interested in figure skating at three after watching the Olympic Winter Games Vancouver 2010. Her mother, Chiara Garberi, put Levito into ice skating at first as a reward for finishing her meals and also to strengthen her balance. Levito immediately took to the sport, and less than eight years later became the 2018 U.S. juvenile champion.&nbsp;</span></p><p><span>At age 14, Levito finished third at the U.S. Championships and, three months later, became world junior champion. She was the first U.S. female figure skater to win that title in 14 years. Her early success on the national and international stages established her as a promising talent in the sport.</span></p><p><span>In subsequent years, Levito won the 2023 U.S. Championships and a silver medal at the 2024 ISU World Figure Skating Championships.&nbsp;</span></p><p><span>Outside of skating, she enjoys watching Gilmore Girls, listening to music from artists like Nicki Minaj and Lana Del Rey, and indulging in Italian cuisine.</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 4th (Singles - Women)</li><li>Years of participation: Singles - Women 2023, 2024, 2025</li><li>Medals: 1 (1 silver)<ul><li>Silver – 2024 (Singles - Women)</li></ul></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747361646/TeamUSA%20Assets/Athlete%20Profiles/Isabeau%20Levito%201169776/Levito_Isabeau-_1232013_bio2.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1729181542/TeamUSA%20Assets/News/Levito_I_Worlds_2024.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684930481/TeamUSA%20Assets/Migration/Pages/Levito_Isabeau_102222_1440x810_Updated.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742602318/TeamUSA%20Assets/Athlete%20Profiles/Isabeau%20Levito%201169776/Levito_I_thumbnail_1169776.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Figure Skating"
+        },
+        {
+          "title": "Isabeau Levito"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Levy",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1995-12-27T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Northeastern University; University of Saint Augustines (San Marcos, Calif.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>B<span>orn in Cape Town</span></li><li>Family member Louis Babrow played with the Springboks</li><li>Started playing rugby at Northeastern University</li><li>Recently earned a doctorate in Physical Therapy through the University of Saint Augustines in San Marcos</li></ul><h5>Career Highlights</h5><ul><li>Earned her first cap in 2018</li><li>2023-2024 World Rugby Sevens Series, 5th overall</li><li>2022-2023 World Rugby Sevens Series, 3rd overall</li><li>2021-2022 World Rugby Sevens Series, 6th overall</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721755275/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Levy%201196827/Levy_S_bio_1196827.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721755279/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Levy%201196827/Levy_S_thumbnail_1196827.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721755279/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Levy%201196827/Levy_S_thumbnail_1196827.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rugby"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sarah Levy"
+        }
+      ]
+    },
+    {
+      "first_name": "Chloe",
+      "last_name": "Lewis",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1998-03-02T00:00:00",
+        "hometown": {
+          "city": "Novi",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.4806,
+          "longitude": -83.4805
+        },
+        "education": "Laurel Springs Online School ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\"></td>\n        </tr>\n    </tbody>\n</table>\n\n<div><div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Junior Championships, Sofia, 2018 (Ice Dance - Mixed)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Scott and Laura Rose-Lewis</li><li>Has two siblings, Zachary and Elliott</li><li>Began skating at age 5 and pursuing ice dance at age 8</li><li>Began skating with her partner, Logan Bye at age 10</li><li>Hobbies include drawing, listening to classic rock and folk rock, and outdoor activities.</li></ul><br>\n<br>\n\n</p><p><strong><br>\n</strong></p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006597/TeamUSA%20Assets/Athlete%20Profiles/Chloe%20Lewis%20819754/FigureSkating_Lewis_Chole_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chloe Lewis 819754"
+        }
+      ]
+    },
+    {
+      "first_name": "Cheyenne",
+      "last_name": "Lewis",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1996-09-08T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "University of California, Berkeley",
+        "fun_fact": "",
+        "biography": "<p><strong>Nicknames: </strong>\"Chopstix\" \"Di Geh Bing\"<br /><strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>WTF World&nbsp;Ranking&nbsp;as of&nbsp;12/1/15: </strong>10th (World -57kg)</p><p><strong>Awards:</strong><strong ><br bold=\"[object Object]\"/></strong>2014 California State Championships Best Female Athlete<br />2013 Chris Canning Award of Excellence<br />2013 Jr. Pan Am Games Best Female Athlete<br />2013 UC Davis Open Best Female Athlete<br />2012 USAT Junior Female Athlete of the Year<br /><span style=\"font-family: verdana;\">2011 USAT Junior Female Athlete of the Year<br />2011 USAT Junior Olympics - Best Female Athlete<br />2011 Jr. Pan Am Championships - Best Female Athlete<br />2011 Costa Rican Open - Best Female Athlete<br />2010 USAT Female Athlete of the Year<br />2010 USAT Jr. Olympics - Outstanding Junior Female Athlete</span><br /><br /><span style=\"font-family: verdana;\">Runs<strong></strong></span><span style=\"font-family: verdana;\">track &amp; field... Maintains a 4.7 GPA... enjoys dancing, singing and reading... favorite food is chicken parmesan... listens to soul and pop music... favorite quote: \"Dare to be great\" and \"A child amongst them shall lead.\"</span></p><p class=\"p1\"><strong>MAJOR COMPETITION RESULTS:</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2016 &nbsp;</strong>Olympic Trials (-67kg): 2nd<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -lost to Paige McPherson, 5-3</p><p class=\"p1\"><strong>2015&nbsp;&nbsp;Pan American Games (-57kg): GOLD</strong><strong ><br bold=\"[object Object]\"/></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Yamicel Nunez (CUB), 8-6, in quarterfinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Doris Patino (COL), 8-2, in semifinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Paulina Armeria (MEX), 11-0, in gold medal contest<br /><strong>2015 WTF World Taekwondo Championships (-57kg): Round of 16</strong><strong ><br bold=\"[object Object]\"/></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Bat-el Gatterer (ISR), 13-2, in Round of 32<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -lost to Kimia Alizadeh Zenoorin (IRI), 5-4 (OT), in Round of 16<br /><strong>2015</strong> <strong>Pan Am Games Team Member (-57kg)</strong><br /><strong>2015 </strong>US Open: GOLD</p><p class=\"p1\"><strong>2014</strong> Grand Prix Series #1: Round of 16<br /><strong>2014 </strong>Korea Open: Quarterfinals<br /><strong>2014</strong> Grand Prix Series #2: Round of 16<br /><strong>2014 </strong>Mexico Open: GOLD<br /><strong>2014 </strong>Pan Am Open: GOLD<br /><strong>2014&nbsp; </strong>U.S. Open (Sr. Feather): GOLD<br /><strong>2014</strong>&nbsp; California State Championships (Sr. Light): GOLD</p><p><strong>2013&nbsp;&nbsp;U.S. National Team Member (Bantam)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2013</strong>&nbsp; U.S. National Team Trials (Bantam): GOLD<br /><strong>2013&nbsp; WTF World Taekwondo Championships: Round of 16</strong><strong ><br bold=\"[object Object]\"/></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Sabina Mikayilova (AZE), 3-2, in Round of 32<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to&nbsp;Kim Yu-Jin&nbsp;(KOR), 8-7, in&nbsp;Round of 16.<br /><strong>2013&nbsp; WTF Grand Prix Final (women’s -57kg): Quarterfinal</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2013U.S. Junior National Team Member (Welter)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2013</strong>&nbsp; USAT National Championships (Welter): GOLD<br /><strong>2013</strong>&nbsp; U.S. Open (Sr. Bantam): GOLD<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. Open (Jr. Welter): GOLD<br /><strong>2013</strong>&nbsp; Canada Open: Round of 16<br /><strong>2013</strong>&nbsp; Jr. Pan Am Games: GOLD<br /><strong>2013</strong>&nbsp; Argentina Open (Sr. Feather): BRONZE<br /><strong>2013</strong>&nbsp; California State Qualifier: GOLD<br /><strong>2013</strong>&nbsp; UC Davis Open (Sr. Feather): GOLD<br /><strong>2013</strong>&nbsp; UC Davis Open (Jr. Bantam): GOLD<br /><br /><strong>2012</strong>&nbsp; Korean Open (Sr. Feather): GOLD<br /><strong>2012</strong>&nbsp; Korean Open (Jr. Welter): GOLD<br /><strong>2012&nbsp; </strong>USAT National Championships (Sr. Bantam): GOLD<br /><strong>2012&nbsp; </strong>USAT National Championships (Jr. Welter): SILVER<br /><strong>2012&nbsp; </strong>World Junior Championships (Jr. Feather -49kg): SILVER<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Damla Sezgin (TUR), 3-1, in Round of 32<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Rana Samir (EGY), SUP, in Round of 16<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Zhi Han Gao (TPE), 7-0, in Quarterfinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Irene Pasiouli (CYP), 20-0, in Semifinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Anastasia Pankina (RUS), 1-0, in Finals<br /><strong>2012&nbsp; </strong>U.S. Open (Sr. Fly): SILVER<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Vanessa Gallegos Ricardez (MEX), 13-1, in round of 32<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Andrea Santos Sanchez (MEX), 6-0, in round of 16<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Haley Kong (USA), 11-0, in quarterfinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Melanie Phan (CAN), 7-4, in semifinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -lost to Jannet Alegria Pena (MEX), 8-7, in finals<strong ><br bold=\"[object Object]\"/></strong><strong>2012&nbsp; </strong>U.S. Open (Jr. Feather): GOLD<br /><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -</strong>def. Josiane Da Silva (BRA), 23-0, in round of 32<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Diana Gomez Rico (MEX), 12-2, in round of 16<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Andrea Eikrem (NOR), 14-0, in quarterfinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Sabrina Ibarra Ruiz (MEX), 8-1, in semifinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Karolina Czarnecki (USA), 5-0, in finals<strong ><br bold=\"[object Object]\"/></strong><strong>2012&nbsp; Junior World Championships Team Member (Jr. Feather)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2012&nbsp; </strong>Junior World Championships Open Team Trial (Jr. Feather): 1st<strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>Jr. Pan Am Championships (Jr. Feather): GOLD<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Rosa Desire Aranda Magallanes (PER), 5-0, in quarterfinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Ruxandra Rodgers (CAN), 9-1, in semifinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Laura Garcia (COL), 14-4, in finals<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; USAT Junior National Team Member (Jr. Feather)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT Junior National Team Trials (Jr. Feather): 1st<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT National Championships (Sr. Fly): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT Junior Olympics (Jr. Feather): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT San Diego National Qualifier (Sr. Fly): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT San Diego National Qualifier (Jr. Feather): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>U.S. Open (Jr. Feather): GOLD<br /><strong>2011&nbsp; </strong>Costa Rican Open (Sr. Fly): GOLD<br /><strong>2011&nbsp; </strong>Costa Rican Open (Jr. Feather): GOLD<br /><strong>2011&nbsp; </strong>AAU Jr. National Team Trials: 1st<br /><strong>2011&nbsp; </strong>AAU National Qualifier: GOLD<br /><strong>2011&nbsp; </strong>Berkeley Open: GOLD<br /><strong>2011&nbsp; </strong>Stanford Open: GOLD<strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>2010&nbsp; USAT Junior National Team Member (Jr. Feather)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2010&nbsp; </strong>USAT Junior Olympics (Jr. Feather): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2010&nbsp; </strong>USAT Fresno National Qualifier (Sr. Fin): GOLD<br /><strong>2010&nbsp; </strong>California State Championships (Sr. Fin): GOLD<br /><strong>2010&nbsp; </strong>Junior World Championships (Jr. Fly): GOLD<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def.&nbsp;Narmina Mammadova&nbsp;(AZE), 17-1, in Rd. of 16<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def.&nbsp;Linda Marina Torres&nbsp;(MEX), 14-0, in&nbsp;Quarterfinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def.&nbsp;Maryam Shirjahani&nbsp;(IRI), 16-5, in&nbsp;Semifinals<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def.&nbsp;Mi Hui Choi&nbsp;(KOR), 13-12, in&nbsp;Finals<br /><strong>2010&nbsp; </strong>U.S. Open (Jr. Fly): GOLD<br /><strong>2010&nbsp; U.S. Junior World Team Member (Jr. Fly)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2010&nbsp; </strong>U.S. Junior World Team Trials (Fly): 1st<br /><strong>2010&nbsp; </strong>AAU Jr. National Team Trials: 1st<br /><strong>2010&nbsp; </strong>AAU Jr. National Championships: GOLD<br /><strong>2010&nbsp; </strong>AAU National Qualifier: GOLD<br /><strong>2010&nbsp; </strong>Berkeley Open: GOLD<br /><strong>2010&nbsp; </strong>Stanford Open: GOLD</p><p><strong>2009&nbsp; </strong>Junior World Team Open Qualifier (Jr. Fly): 1st<br /><strong>2009&nbsp; </strong>USAT Junior Olympics: BRONZE<br /><strong>2009&nbsp; </strong>California State Championships: GOLD<br /><strong>2009&nbsp; </strong>AAU National Qualifier: GOLD<br /><strong>2009&nbsp; </strong>USAT San Jose National Qualifier: SILVER<br /><strong>2009&nbsp; </strong>Jimmy Kim International: GOLD<br /><strong>2009&nbsp; </strong>Stanford Open: GOLD<br /><strong>2009&nbsp; </strong>Berkeley Open: GOLD</p><p><strong>2008&nbsp; </strong>U.S. Open: GOLD<br /><strong>2008&nbsp; </strong>California State Championship: GOLD<br /><strong>2008&nbsp; </strong>USAT Des Moines National Qualifier: BRONZE<br /><strong>2008&nbsp; </strong>AAU National Qualifier: GOLD<br /><strong>2008&nbsp; </strong>AAU National Championship: GOLD<br /><strong>2008&nbsp; </strong>USAT Junior Olympics: BRONZE<br /><strong>2008&nbsp; </strong>Jimmy Kim International: GOLD<br /><strong>2008&nbsp; </strong>Stanford Open: GOLD<strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>2007&nbsp; </strong>California State Championship: GOLD<br /><strong>2007&nbsp; </strong>AAU National Qualifier: GOLD<br /><strong>2007&nbsp; </strong>USAT Portland National Qualifier: GOLD<br /><strong>2007&nbsp; </strong>USAT Junior Olympics: GOLD<br /><strong>2007 </strong>Stanford Open: GOLD<strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>2006&nbsp; </strong>USAT Portland National Qualifier: GOLD<br /><strong>2006&nbsp; </strong>AAU National Qualifier: GOLD<br /><strong>2006&nbsp; </strong>AAU National Championship: GOLD<br /><strong>2006&nbsp; </strong>USAT Junior Olympics: SILVER<br /><strong>2006</strong>&nbsp; Stanford Open: GOLD</p><p><em>last updated 2/4/16</em></p><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 9th (Featherweight 53-57kg - Women)</li><li>Years of participation: Featherweight 53-57kg - Women 2015; Bantamweight 49-53kg - Women 2013</li><li>Top finish: 9th – 2013 (Bantamweight 49-53kg - Women), 2015 (Featherweight 53-57kg - Women)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Featherweight 49-57kg - Women)</li><li>World Junior Championships, Sharm El Sheikh, 2012 (Featherweight 46-49kg - Women)</li><li>World Junior Championships, Tijuana, 2010 (Flyweight 42-44kg - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718013/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cheyenne%20Lewis%20849657/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718015/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cheyenne%20Lewis%20849657/taekwondo_lewis_cheyenne_18992954793_o_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cheyenne Lewis 849657"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Stacy",
+      "last_name": "Lewis",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1985-02-16T00:00:00",
+        "hometown": {
+          "city": "Humble",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.9947,
+          "longitude": -95.2677
+        },
+        "education": "The Woodlands High School (The Woodlands, Texas) '03 University of Arkansas '08, Finance and Accounting",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daugher of Dale and Carol Lewis</li><li>Married Gerrod Chadwell on August 6, 2016, with the couple honeymooning in Rio during the 2016 Olympic Games</li><li>From the age of 11, wore a back brace 18 hours per day for 7-1/2 years to correct curvature in her spine from scoliosis, removing it only to play golf. Had back surgery during her senior year of high school and redshirted for one season before joining the University of Arkansas women’s golf team</li><li>Hobbies include working out, watching any sports especially SEC football, traveling and having spare time to herself.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Ranked number one in the Rolex Women&#39;s World Golf Rankings for four weeks in 2013; reclaimed title of World No. 1 in June 2014 with a victory at the ShopRite LPGA Classic and held the top spot for 21 weeks.</li>\r\n                            <li>2014 Rolex Player of the Year</li>\r\n                            <li>2012 Rolex Player of the Year</li>\r\n                            <li>2014 Walmart NW Arkansas Championship Presented by P&amp;G</li>\r\n                            <li>2014 ShopRite LPGA Classic, 1st</li>\r\n                            <li>2014 North Texas LPGA Shootout, 1st</li>\r\n                            <li>2013 RICOH Women’s British Open, 1st</li>\r\n                            <li>2013 RR Donnelley LPGA Founders Cup, 1st</li>\r\n                            <li>2013 HSBC Women’s Champions, 1st</li>\r\n                            <li>2012 Mizuno Classic, 1st</li>\r\n                            <li>2012 Navistar LPGA Classic, 1st</li>\r\n                            <li>2012 ShopRite LPGA Classic, 1st</li>\r\n                            <li>2012 Mobile Bay LPGA Classic, 1st</li>\r\n                            <li>2011 Kraft Nabisco Championship, 1st</li>\r\n                            <li>Three-time Solheim Cup team member representing the United States (2011, 2013, 2015)</li>\r\n                            <li>2007 NCAA Women&#39;s Champion (Individual)</li>\r\n                            <li>Four-time first-team All-American (2005, 2006, 2007, 2008)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 4th (Individual - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 39th (Individual - Women)</li><li>Years of participation: Individual - Women 2022, 2023</li><li>Top finish: 33th – 2022 (Individual - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718001/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stacy%20Lewis%20911833/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718003/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stacy%20Lewis%20911833/Stacy-white_background2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stacy Lewis 911833"
+        }
+      ]
+    },
+    {
+      "first_name": "Danell",
+      "last_name": "Leyva",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1991-10-30T00:00:00",
+        "hometown": {
+          "city": "Homestead",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 25.4684,
+          "longitude": -80.4778
+        },
+        "education": "Homeschooled ‘10 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Yin Alvarez and Maria Gonzalez</li><li>Sister, Dayanis Mesa, is a Spanish television host</li><li>Mother and stepfather were both members of the Cuban national gymnastics team</li><li>Born in Cuba and moved to the United States at age 2</li><li>Became the youngest member of the U.S. national senior team at age 17</li><li>Spanish is his first language and can also speak conversational Italian, Romanian and Japanese; he is also currently studying Portuguese</li><li>Enjoys playing the piano, painting, drawing, football, music, cartoons and comics.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 3-time Olympic medalist (2 silver, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, silver (Horizontal Bar - Men, Parallel Bars - Men), 5th (Team - Men), 22th (Pommel Horse - Men)</li><li>Olympic Games London 2012, bronze (Individual All-Around - Men), 5th (Horizontal Bar - Men, Team - Men), 10th (Pommel Horse - Men), 12th (Parallel Bars - Men), 19th (Floor Exercise - Men), 31th (Rings - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – silver (Horizontal Bar - Men), 5th (Team - Men), 6th (Parallel Bars - Men), 17th (Individual All-Around - Men), 30th (Pommel Horse - Men), 46th (Rings - Men), 47th (Floor Exercise - Men)</li><li>Years of participation: Floor Exercise - Men 2010, 2011, 2015; Horizontal Bar - Men 2009, 2010, 2011, 2014, 2015; Individual All-Around - Men 2009, 2010, 2011, 2014, 2015; Parallel Bars - Men 2009, 2010, 2011, 2014, 2015; Pommel Horse - Men 2010, 2011, 2014, 2015; Rings - Men 2010, 2011, 2015; Team - Men 2010, 2011, 2014, 2015</li><li>Medals: 5 (1 gold, 2 silver, 2 bronze)</li><ul><li>Gold – 2011 (Parallel Bars - Men)</li><li>Silver – 2015 (Horizontal Bar - Men);  2014 (Parallel Bars - Men)</li><li>Bronze – 2014 (Team - Men);  2011 (Team - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718050/TeamUSA%20Assets/Migration/Athlete%20Profiles/Danell%20Leyva%20798233/leyva_danell_081616_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718051/TeamUSA%20Assets/Migration/Athlete%20Profiles/Danell%20Leyva%20798233/Leyva_Danell_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Danell Leyva 798233"
+        }
+      ]
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Li",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2003-03-03T00:00:00",
+        "hometown": {
+          "city": "New Canaan",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.1462,
+          "longitude": -73.5004
+        },
+        "education": "New Canaan High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Olivia is a member of the 2019 Junior National Team</li><li>She swims for the New Canaan Y Aquianas</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 UANA Pan American Artistic Swimming Championships</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686322306/TeamUSA%20Assets/Migration/Athlete%20Profiles/Olivia%20Li/IMG_0967.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olivia Li"
+        }
+      ]
+    },
+    {
+      "first_name": "Viola",
+      "last_name": "Li",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "2007-03-27T00:00:00",
+        "hometown": {
+          "city": "New Canaan",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.1462,
+          "longitude": -73.5004
+        },
+        "education": "New Canaan High School",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2022 U.S. 13-15 national team athlete</li>\r\n                            <li>2022 U.S. 13-15 Championship: 34d (Duet, Team, Combo)</li>\r\n                            <li>2021 Junior Olympic Championship: 3rd (Team)</li>\r\n                            <li>2021 U.S. 13-15 Championship: 2nd (Combo)</li>\r\n                            <li>2019 UANA Pan American Games: 2nd (Duet), 3rd (Team)</li>\r\n                            <li>2019 12U national team athlete</li>\r\n                            <li>2018 UANA Pan American Games: 1st (Team)</li>\r\n                            <li>2018 12U national team athlete</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2019 UANA Pan American Artistic Swimming Championships - Windsor, Canada</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923754/TeamUSA%20Assets/Migration/Athlete%20Profiles/Viola%20Li/Viola-Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Viola Li"
+        }
+      ]
+    },
+    {
+      "first_name": "Lucy",
+      "last_name": "Li",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2002-10-01T00:00:00",
+        "hometown": {
+          "city": "Redwood Shores",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.5205,
+          "longitude": -122.2458
+        },
+        "education": "Homeschooled, class of ‘20",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Warren Li and Amy Zeng</li><li>Has one brother, Luke, who works for a financial firm on Wall Street</li><li>Li started playing golf at age 7 while her brother was hitting balls on the range</li><li>Prior to golf, Li took diving lessons at Stanford University and was even diving from the 10-meter platform at age 4</li><li>She also participated in gymnastics and music</li><li>Li calls herself a “history buff and bookworm and huge NBA fan” on her Twitter profile.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 U.S. Women’s Open, youngest player in the field and one of seven amateurs to make the cut (finished T55)</li>\r\n                            <li>2017 ANA Inspiration, youngest player in the field and only amateur to make the cut (finished T70)</li>\r\n                            <li>2017 First Team AJGA (American Junior Golf Association) Rolex Junior All-American </li>\r\n                            <li>2016 Junior PGA Championship (won)</li>\r\n                            <li>2014 U.S. Women’s Open, youngest qualifier in the event’s history at 11 years old, surpassing Lexi Thompson’s record of 12 years, 4 months, 8 days</li>\r\n                            <li>2013 U.S. Women’s Amateur, youngest qualifier at the age of 10 years, 10 months, 4 days</li>\r\n                            <li>2013 U.S. Women’s Amateur Public Links, youngest match play qualifier at the age of 10 years, 8 months, 16 days</li>\r\n                            <li>Member of four victorious U.S. national teams: 2018 Junior Ryder Cup, 2018 Curtis Cup, 2017 Junior Solheim Cup, 2016 Junior Ryder Cup</li>\r\n                    </ul><h5>World Championships Experience</h5><ul><li>Most recent: 2026 – 55th (Individual - Women)</li><li>Years of participation: Individual - Women 2025, 2026</li><li>Top finish: 39th – 2025 (Individual - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686322337/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lucy%20%20Li%201110724/li_lucy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lucy Li 1110724"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Licon",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1994-08-25T00:00:00",
+        "hometown": {
+          "city": "El Paso",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 31.7619,
+          "longitude": -106.485
+        },
+        "education": "Vista Ridge High School (Cedar Park, Texas)  University of Texas at Austin ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Son of Robert Licon.<h5>Career Highlights</h5><ul><li>World Cup, 2022 (Overall Ranking - Men)</li><li>Pan American Games, Lima, 2019 (200m Breaststroke - Men, 200m Individual Medley - Men)</li></ul><h5>More</h5>USA Swimming<h5>World Championships Experience</h5><ul><li>Most recent: 2021 – gold (4 x 50m Medley Relay (SC) - Men), silver (4 x 100m Medley Relay (SC) - Men), bronze (200m Breaststroke (SC) - Men)</li><li>Years of participation: 200m Breaststroke (SC) - Men 2021; 4 x 100m Medley Relay (SC) - Men 2021; 4 x 50m Medley Relay (SC) - Men 2021</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2021 (4 x 50m Medley Relay (SC) - Men)</li><li>Silver – 2021 (4 x 100m Medley Relay (SC) - Men)</li><li>Bronze – 2021 (200m Breaststroke (SC) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696430/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Licon%20814699/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696432/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Licon%20814699/Licon_Will.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Licon 814699"
+        }
+      ]
+    },
+    {
+      "first_name": "Ted",
+      "last_name": "Ligety",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1984-08-31T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": "The Winter Sports School (Park City, Utah) '02",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bill Ligety and Cydni Sharp</li><li>Has one brother, Charly</li><li>Has one son, Jax, with his wife Mia</li><li>Began skiing at 2 and racing at 11</li><li>Founded Shred Optics, which produces helmets, goggles, sunglasses, protection and gloves for skiers and cyclists</li><li>Hobbies include playing tennis and badminton, water skiing and watching formula one racing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 FIS World Cup Standings, 3rd (giant slalom)</li>\r\n                            <li>2014 FIS World Cup Standings, 1st (giant slalom, combined)</li>\r\n                            <li>2013 FIS World Cup Standings, 1st (giant slalom), 3rd (overall) </li>\r\n                            <li>2012 FIS World Cup Standings, 2nd (giant slalom)</li>\r\n                            <li>2011 FIS World Cup Standings, 1st (giant slalom)</li>\r\n                            <li>2010 FIS World Cup Standings, 1st (giant slalom)</li>\r\n                            <li>2009 FIS World Cup Standings, 1st (giant slalom), 3rd (giant slalom)</li>\r\n                            <li>In 2013, became the first skier to earn three gold medals at a single world championship since Jean Claude Killy in 1968</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Pyeongchang 2018,  (Super G - Men), 5th (Super Combined - Men), 15th (Giant Slalom - Men)</li><li>Olympic Games Sochi 2014,  (Slalom - Men), gold (Giant Slalom - Men), 12th (Super Combined - Men), 14th (Super G - Men)</li><li>Olympic Games Vancouver 2010,  (Slalom - Men), 5th (Super Combined - Men), 9th (Giant Slalom - Men), 19th (Super G - Men)</li><li>Olympic Games Turin 2006,  (Giant Slalom - Men, Slalom - Men), gold (Combination - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 –  (Super Combined - Men), 11th (Giant Slalom - Men)</li><li>Years of participation: Giant Slalom - Men 2007, 2009, 2011, 2013, 2015, 2019; Super Combined - Men 2007, 2009, 2011, 2013, 2015, 2019; Slalom - Men 2005, 2007, 2009, 2011, 2013, 2015; Super G - Men 2007, 2009, 2011, 2013, 2015; Team - Mixed 2005, 2007, 2011, 2015; Combination - Men 2005</li><li>Medals: 7 (5 gold, 2 bronze)</li><ul><li>Gold – 2015 (Giant Slalom - Men);  2013 (Giant Slalom - Men, Super Combined - Men, Super G - Men);  2011 (Giant Slalom - Men)</li><li>Bronze – 2015 (Super Combined - Men);  2009 (Giant Slalom - Men)</li></ul></ul><h5>More</h5><p>Personal Website<br>\nU.S. Ski &amp; Snowboard</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686918829/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ted%20Ligety/ligety_ted_120416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686918831/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ted%20Ligety/ligety_ted_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ted Ligety"
+        }
+      ]
+    },
+    {
+      "first_name": "KC",
+      "last_name": "Lightfoot",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1999-11-11T00:00:00",
+        "hometown": {
+          "city": "Lee's Summit",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.91,
+          "longitude": -94.383
+        },
+        "education": "Baylor University (Waco, Texas) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Anthony and Kim Lightfoot</li><li>He has three siblings: Carli DiMarco, Chuck DiMarco, and Tanner Lightfoot</li><li>Lightfoot plans to major in exercise science/kinesiology.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 U.S. Olympic Team Trials, silver</li>\r\n                            <li>2021 NCAA Indoor National Champion (pole vault)</li>\r\n                            <li>2021 Indoor All-American (pole vault)</li>\r\n                            <li>2021 Big 12 Men&#39;s Performer of the Year</li>\r\n                            <li>2021 Big 12 Indoor Champion (pole vault)</li>\r\n                            <li>2021 USTFCCCA NCAA Division I South Central Region Men&#39;s Indoor Field Athlete of the Year</li>\r\n                            <li>2021 The Bowerman Men&#39;s Watch List</li>\r\n                            <li>2021 All-Big 12 Indoors (pole vault)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 4th (Pole Vault - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 10th (Pole Vault - Men)</li><li>Years of participation: Pole Vault - Men 2019, 2022</li><li>Top finish: 10th – 2022 (Pole Vault - Men)</li></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662035/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lightfoot_K_bio_1139794.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662150/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lightfoot_k_hero_1139794.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012670/TeamUSA%20Assets/Athlete%20Profiles/KC%20Lightfoot%201139794/lightfoot_KC_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "KC Lightfoot 1139794"
+        }
+      ]
+    }
+  ]
+}

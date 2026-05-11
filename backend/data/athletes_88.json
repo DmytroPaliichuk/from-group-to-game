@@ -1,0 +1,878 @@
+{
+  "entries": [
+    {
+      "first_name": "Spencer",
+      "last_name": "Lee",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1998-10-14T00:00:00",
+        "hometown": {
+          "city": "Murrysville",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.4356,
+          "longitude": -79.6895
+        },
+        "education": "University of Iowa",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born in Denver, CO but moved to Saegertown, PA and Murrysville, PA.</li></ul><ul><li>Three-time NCAA Champion</li><li>Three-time PIAA State Champion</li><li>Attended University of Iowa</li><li>Father Larry and Mother Cathy were judoka's. Cathy was an Olympic alternate judoka for France</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 9th (57kg - Men)</li><li>Years of participation: 57kg - Men 2025; 50kg (Cadets) - Men 2013, 2014</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2014 (50kg (Cadets) - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>Junior World Championships, Mâcon, 2016 (50kg - Men)</li><li>Junior World Championships, Recife, 2015 (50kg - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (57kg - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715661272/Lee_Spencer_TrialsBout24.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715661059/Lee_Spencer_Trials24.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wrestling"
+        },
+        {
+          "title": "Spencer Lee 850845"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Lee",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1997-08-01T00:00:00",
+        "hometown": {
+          "city": "Kailua",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.4022,
+          "longitude": -157.7394
+        },
+        "education": "Iolani School (Honolulu, Hawaii) ‘15 Loyola Marymount University ‘19, Electrical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite Training Lift?: Snatch</li><li>Favorite Food: Korean</li><li>Favorite Book: 1984</li><li>Hobbies/Interested Outside of Weightlifting: Basketball, hiking, swimming</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (K2 1000m - Men)</li><li>World Junior & Under 23 Championships, Plovdiv, 2018 (K4 500m - Men, K1 1000m - Men)</li><li>World Junior & Under 23 Championships, Pitesti, 2017 (K4 500m - Men, K1 1000m - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 10th (K2 500m - Men), 11th (K2 200m - Men), 31th (K2 1000m - Men)</li><li>Years of participation: K2 1000m - Men 2019; K2 200m - Men 2019; K2 500m - Men 2019</li><li>Top finish: 10th – 2019 (K2 500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346850/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Lee/lee_alexander.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Lee"
+        }
+      ]
+    },
+    {
+      "first_name": "Suni",
+      "last_name": "Lee",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "2003-03-09T00:00:00",
+        "hometown": {
+          "city": "Saint Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": " Auburn University ‘25",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\"><strong>Specialty</strong></span><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">: Uneven bars</span></li></ul><h5>Biographical Information</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Sunisa Lee is one of the most decorated female artistic gymnasts. She currently holds six total Olympic medals as of the Paris 2024 Olympic Games. Lee’s passion for gymnastics began at the age of six after watching the sport on TV. Her father built a balance beam in their backyard to nurture her early interest. She trained at Midwest Gymnastics Center and by age 11, she qualified for elite status.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">In 2021, Lee collaborated with GK Elite to create her own exclusive line of leotards. The following year, she introduced her collection in partnership with British fashion brand PrettyLittleThing. She was also named Sports Illustrated's Female Athlete of the Year in 2021 and received an Asia Game Changer Award the same year. Lee is also active in the charity scene, making generous donations to her former elementary school and partnering with organizations like the American Kidney Fund.</span></p><h5>Olympic Highlights</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Lee's performance at the Tokyo 2020 Olympic Games earned her the gold medal in the women’s all-around. She also earned a team silver medal and a bronze medal in the women’s uneven bars.&nbsp;</span></p><p><span style=\"font-size: 12pt;\">At the Paris 2024 Olympic Games, Lee earned team gold, bronze in women’s all-around and bronze in women’s uneven bars.</span></p><h5>World Championship Highlights</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">In the 2019 World Athletic Championships, Lee was a standout performer alongside </span><span style=\"font-size: 12pt;\">Simone Biles</span><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">. She secured a silver medal in the all-around final as the only first-year senior on the team. Lee also contributed to the U.S. team’s gold medal in the team event and won a bronze medal on the uneven bars.</span></p><h5>U.S. Championship Highlights</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">In the 2018 U.S. Championships, Lee won a gold medal on the uneven bars and a bronze in the all-around. Despite recovering from a hairline fracture in her left tibia, Lee won three medals at the 2019 championships.</span></p><h5><span>Early Career&nbsp;</span></h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Competing in the Hopes Division in 2015, Sunisa Lee became a junior elite gymnast in 2016 and debuted as a junior elite at the U.S. Classic. Lee made her international debut at the 2016 Gymnix International Junior Cup and secured a gymnastics scholarship to Auburn University in 2017. Her early success included winning silver on the uneven bars at the 2017 Gymnix International Junior Cup and gold with the U.S. team. In the 2018 Pacific Rim Gymnastics Championships, she won silver medals in the balance beam, vault and floor exercise, as well as gold as part of the team.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Her senior debut was at the 2019 City of Jesolo Trophy in Italy, where she won the all-around title and contributed to the U.S. team’s gold medal. Lee's performance at the 2019 U.S. championships earned her a spot on the world championships team, where she played a crucial role in securing the team gold.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Lee committed to Auburn University in 2020. Her NCAA debut was where she earned multiple titles and All-American honors. Her performance in the 2021 Winter Cup and the subsequent U.S. Classic and U.S. championships helped secure her spot on the Olympic team. She also won the Super 16 all-around title in the 2022-23 season.</span></p><h5>Olympic Experience<span></span></h5><ul><li>2-time Olympian; 6-time Olympic medalist (2 gold, 1 silver, 3 bronze)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women), bronze (Individual All-Around - Women, Uneven Bars - Women), 6th (Beam - Women), 24th (Floor Exercise - Women)</li><li>Olympic Games Tokyo 2020, gold (Individual All-Around - Women), silver (Team - Women), bronze (Uneven Bars - Women), 5th (Beam - Women), 18th (Floor Exercise - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women), silver (Floor Exercise - Women), bronze (Uneven Bars - Women), 8th (Individual All-Around - Women), 12th (Beam - Women)</li><li>Years of participation: Beam - Women 2019; Floor Exercise - Women 2019; Individual All-Around - Women 2019; Team - Women 2019; Uneven Bars - Women 2019</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2019 (Team - Women)</li><li>Silver – 2019 (Floor Exercise - Women)</li><li>Bronze – 2019 (Uneven Bars - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662033/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Lee_S_bio_1074875.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662710/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lee_s_hero_1074875.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006564/TeamUSA%20Assets/Athlete%20Profiles/Sunisa%20Lee%201074875/Lee_Sunisa.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Suni Lee 1074875"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Gymnastics"
+        },
+        {
+          "title": "Top Athletes"
+        }
+      ]
+    },
+    {
+      "first_name": "BeeJay",
+      "last_name": "Lee",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1993-03-05T00:00:00",
+        "hometown": {
+          "city": "West Covina",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0117,
+          "longitude": -117.92
+        },
+        "education": "University of Southern California",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<strong>\n\n</strong><div>\n<p><strong><br>\n</strong></p>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2015 USATF Outdoor Championships, 4th (200-meter), 6th (100-meter)</li>\n    <li>2015 NCAA Outdoor Championships, 4th (4x100-meter)</li>\n    <li>2015 Pac-12 Championships, 1st (4x100-meter), 2nd (100-meter, 200-meter)</li>\n    <li>2014 NCAA Outdoor Championships, 4th (4x100-meter)</li>\n    <li>2014 Pac-12 Championships, 1st (4x100-meter), 3rd (100-meter), 5th (200-meter)</li>\n    <li>2014 Mt. SAC Relays, 2nd (4x100-meter), 7th (100-meter)</li>\n    <li>2013 Pac-12 Championships, 1st (100-meter), 2nd (4x100-meter)</li>\n    <li>2013 Mt. SAC Relays, 4th (100-meter)</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Karen and Bernard Lee</li><li>Has four siblings, Caeron, Eric, Damon and Andrea</li><li>Aspires to a career in coaching or marketing</li><li>Hobbies include relaxing, listening to music, eating home-cooked meals and hanging out with friends.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346712/TeamUSA%20Assets/Migration/Athlete%20Profiles/BeeJay%20Lee/Athletics_Lee_Bernard.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "BeeJay Lee"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Jen",
+      "last_name": "Lee",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1986-07-26T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "University of Texas, Austin '18",
+        "fun_fact": "Introduced to sled hockey by “Operation Comfort,” an organization dedicated to assisting injured U.S. service personnel at the Brooke Army Medical Center",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of George and May Chai Lee</li><li>Has two sisters, Angela and Janice</li><li><span style=\"font-size: 11pt;\">U.S. Army Veteran, served a combat tour in Iraq (2006-2007)</span></li><li>Fluent in Mandarin Chinese</li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Jen Lee was born in Taipei, Taiwan, and moved to the United States at age six. In high school, he competed in track and field and basketball. He enlisted in the U.S. Army after high school. Lee had his left leg amputated above the knee when it was injured in a motorcycle accident in 2009. He was introduced to sled hockey by “Operation Comfort,” an organization dedicated to assisting injured U.S. service personnel at the Brooke Army Medical Center in San Antonio, Texas.</span></p><p><span style=\"font-size: 11pt;\">Lee was named to his first Paralympic team for U.S. sled hockey at the Paralympic Winter Games Sochi 2014 and was a backup goalie to USOPC Hall of Famer Steve Cash for 2014 and 2018 Paralympic gold-medal winning teams.&nbsp;For the Paralympic Winter Games Beijing 2022, Lee was named the starting goalie and did not allow a goal in the four games he played for the United States as the sled hockey team won an unprecedented fourth straight gold medal.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">When he is not on the ice, he enjoys CrossFit workouts. In July 2024, his first daughter, LeiAna LilliAni, was born.&nbsp;</span></p><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 4-time Paralympic medalist (4 gold)</li><ul><li>Paralympic Games Milan 2026, gold (Team - Mixed)</li><li>Paralympic Games Beijing 2022, gold (Team - Mixed)</li><li>Paralympic Games Pyeongchang 2018, gold (Team - Mixed)</li><li>Paralympic Games Sochi 2014, gold (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Men)</li><li>Years of participation: Team - Men 2012, 2013, 2019, 2021, 2023, 2024, 2025</li><li>Medals: 7 (5 gold, 2 silver)</li><ul><li>Gold – 2025 (Team - Men);  2023 (Team - Men);  2021 (Team - Men);  2019 (Team - Men);  2012 (Team - Men)</li><li>Silver – 2024 (Team - Men);  2013 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697146335/TeamUSA%20Assets/Athlete%20Profiles/Jen%20Lee%20823343/lee_j_bio_866079.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "Eligible",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747959261/TeamUSA%20Assets/Athlete%20Profiles/Jen%20Lee%20823343/lee_j_hero_823343.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773513063/Lee_J_featured_823343.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010009/TeamUSA%20Assets/Athlete%20Profiles/Jen%20Lee%20823343/Lee_Jen_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jen Lee 823343"
+        },
+        {
+          "title": "Sled Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Lee",
+      "bio": {
+        "height": "5’6”",
+        "birthday": "1986-08-07T00:00:00",
+        "hometown": {
+          "city": "Diamond Bar",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0289,
+          "longitude": -117.8106
+        },
+        "education": "University of California--Irvine",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2016: Austrian Open Gold (Women’s Doubles)...Peru International Silver (Women’s Singles)...Tahiti International Silver (Women’s Doubles)</li>\r\n                            <li>2015: XVII Pan Am Games Toronto Gold (Women’s Doubles)…YONEX Brazil Open Bronze (Women’s Doubles)…Bahrain International Challenge Bronze (Women’s Doubles)…Chile International Challenge Gold (Women’s Doubles)…Babolat Bulgarian International Silver (Women’s Doubles)…Sydney International Bronze (Women’s Doubles)…Guatemala International Challenge Silver (Women’s Doubles)… Austrian Open Bronze (Mixed Doubles)</li>\r\n                            <li>2014: XIX Pan American Badminton Championships Silver (Team Event)… K&amp;D Graphics &amp; YONEX Grand Prix Badminton Championships Silver (Women’s Doubles, Mixed Doubles)...Huawei Guatemala International Gold (Women’s Doubles, Mixed Doubles)…YONEX USA International Challenge Silver (Women’s Doubles)…29th Brazil International Badminton Cup Silver (Mixed Doubles).</li>\r\n                            <li>2013: Pan American Badminton Championships Gold (Women’s Doubles), Silver (Mixed Doubles)…Carlton Irish Open Bronze (Women’s Doubles)….XIII Italian International Gold (Mixed Doubles)…XIX Peru International Gold (Women’s Doubles, Mixed Doubles)…Ottawa Canadian International Challenge Gold (Women’s Doubles)...Bulgarian International Silver (Women’s Doubles).</li>\r\n                            <li>2012: Swedish International Stockholm Silver (Women’s Doubles)…Austrian International Challenge Silver (Women’s Doubles)…36th Yonex Polish International Silver (Women’s Doubles)…Air Tahiti Nui International Challenge Gold (Women’s Doubles)…YONEX CPBC New York City Championships Gold (Women’s Doubles) </li>\r\n                            <li>2011: Pan American Games Silver (Mixed Doubles) Bronze (Women’s Doubles)… Guatemala International Gold (Women’s Doubles)…Brazil International Badminton Cup Gold (Women’s Doubles, Mixed Doubles)…Norwegian International Gold (Women’s Doubles)…U.S. Adult National Championships Gold (Mixed Doubles), Silver (Women’s Doubles)</li>\r\n                            <li>2010: Uber Cup Final (USA Team Member)…Brazil International Badminton Cup Gold (Women’s Doubles, Mixed Doubles)…U.S. Adult National Championships Gold (Women’s Singles, Mixed Doubles).</li>\r\n                            <li>2009: U.S. Adult National Championships Gold (Mixed Doubles), Silver (Women’s Singles)…U.S. Open Badminton Championships Gold (Mixed Doubles).</li>\r\n                            <li>2008: Olympic Team (Singles, Women’s Doubles)</li>\r\n                            <li>2007: Irish International Championships Gold (Mixed Doubles), Silver (Women’s Doubles…U.S. Open Silver (Mixed Doubles)…Pan American Games Gold (Mixed Doubles, Women’s Doubles, Women’s Singles)…Pan American Badminton Championships Gold (Mixed Doubles), Silver (Women’s Doubles, Team Event)…U.S. Adult National Championships Silver (Women’s Doubles), Gold (Mixed Doubles).</li>\r\n                            <li>2006: Canadian International Gold (Women’s Singles, Women’s Doubles, Mixed Doubles)…U.S. Open Bronze (Mixed Doubles, Women’s Singles)...U.S. Adult National Championships Gold (Mixed Doubles, Women’s Singles), Silver (Women’s Doubles) Champion…U.S. Intercollegiate Community College Badminton Championships Gold (Women’s Singles, Women’s Doubles, Team Event).</li>\r\n                            <li>2005: U.S. Adult National Championships Gold (Women’s Doubles, Women’s Singles) Champion…U.S. Intercollegiate Badminton Championships Gold (Women’s Singles, Mixed Doubles).</li>\r\n                            <li>2004: Pan American Junior Gold (Team Member)…U.S. Adult National Championships Gold (Mixed Doubles), Bronze (Women’s Singles).</li>\r\n                            <li>2002: Pan American Junior Gold (Girl’s Doubles, Mixed Doubles), Silver (Girl’s Singles)…U.S. Junior Nationals Gold (U19 Girl’s Singles, U19 Girls Doubles), Silver </li>\r\n                            <li>2001: US Junior Nationals Gold (U16 Girl’s Singles, U16 Mixed Doubles), Silver (U19 Girls Singles)</li>\r\n                            <li>2000: U.S. Adult National Championships Bronze (Women’s Doubles)…US Junior Nationals Gold (U14 Singles, Mixed Doubles), Bronze (U18 Girl’s Singles)</li>\r\n                            <li>1999: Canadian Junior Open Gold (U14 Girl’s Singles), Silver (Girl’s Doubles)…US Junior Nationals Gold (U14 Girl’s Singles, Girl’s Doubles, Mixed Doubles). </li>\r\n                            <li>1998: US Junior Nationals Gold (U12 Girl’s Singles, U12 Mixed Doubles, U14 Girl’s Doubles)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 13th (Doubles - Women)</li><li>Olympic Games Beijing 2008, 9th (Doubles - Women), 33th (Singles - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 33th (Doubles - Women)</li><li>Years of participation: Doubles - Women 2005, 2007, 2011, 2013, 2014, 2015, 2017; Doubles - Mixed 2003, 2007, 2015; Singles - Women 2003, 2005, 2007</li><li>Top finish: 17th – 2005 (Doubles - Women), 2007 (Doubles - Mixed), 2007 (Doubles - Women), 2007 (Singles - Women), 2013 (Doubles - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717996/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eva%20Lee%20881470/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Badminton",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717997/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eva%20Lee%20881470/Lee_Eva_150x250.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717997/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eva%20Lee%20881470/Lee_Eva_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eva Lee 881470"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Lee",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1999-08-05T00:00:00",
+        "hometown": {
+          "city": "Fullerton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8704,
+          "longitude": -117.9243
+        },
+        "education": " Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started taekwondo in 2004</li><li>Favorite book is \"Mastery\" by Paul Green</li></ul><h5>Biographical Information</h5><p>Alex Lee is a multi-time medalist at the Pan American Games. He announced his retirement from competition in 2023, and now coaches at Stanford University.</p><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Individual Poomsae - Men, Team Poomsae (Mixed) - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715644963/NGB%20Taekwondo/Governance/Alex_Lee.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683892694/NGB%20Taekwondo/Migration/Athlete%20Profiles/Alex%20Lee/Alex-Lee-2019.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Lee 1046295"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Taekwondo"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Leggio",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1984-07-31T00:00:00",
+        "hometown": {
+          "city": "Williamsville",
+          "state": "NY",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": " Clarkson University ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mark and Marge Leggio</li><li>Has one sister, Rachael</li><li>Has one child, Leo, with wife Kristen</li><li>Hobbies include playing golf and cheering for the Buffalo Bills</li></ul><h5>Career Highlights</h5><ul><li>Helped EHC München to back-to-back DEL championships in 2016 and 2017</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2014 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2014</li><li>Top finish: 6th – 2014 (Team - Men)</li></ul><h5>More</h5><p>USA Hockey</p><p>Personal site</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718037/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Leggio%201086698/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718038/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Leggio%201086698/Leggio_David_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Leggio 1086698"
+        }
+      ]
+    },
+    {
+      "first_name": "Emery",
+      "last_name": "Lehman",
+      "bio": {
+        "height": "6’0”",
+        "birthday": "1996-06-13T00:00:00",
+        "hometown": {
+          "city": "Oak Park",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8858,
+          "longitude": -87.7903
+        },
+        "education": "Marquette University",
+        "fun_fact": "Youngest male U.S. speedskater to make his Olympic debut in history",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Team Pursuit, Long Distances, 1,500m</li><li><span style=\"font-size: 11pt;\">At age 17, became the youngest male U.S. speedskater to make his Olympic debut in history</span></li><li>Played club hockey at Marquette University&nbsp;</li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Emery Lehman grew up in a suburb outside Chicago and began speed skating at nine years old as a way to become a better skater for hockey. Lehman stayed active in many sports throughout high school, including being a standout in both lacrosse and hockey while excelling in speedskating as a junior world champion in the 5,000m.</span></p><p><span style=\"font-size: 11pt;\">At age 17, Lehman competed in his first Olympic Winter Games Sochi 2014. Lehman became the youngest male U.S. speedskater to make his Olympic debut in history, besting a record previously set by American speedskating legend Eric Heiden at the Olympic Winter Games Innsbruck 1976 by two days.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Lehman would make the U.S. speedskating team for the next two Winter Olympics, winning bronze in team pursuit at the Olympic Winter Games Beijing 2022.</span></p><p><span style=\"font-size: 11pt;\">He won his first world title in team pursuit at the 2025 ISU World Speedskating Championships, and Lehman and his teammates would set the world record later that year in that event at an ISU World Cup stop in Salt Lake City.</span></p><p><span style=\"font-size: 11pt;\">Off the ice, Lehman graduated from Marquette University with a degree in civil engineering and received his master's degree in structural engineering from Johns Hopkins University.</span></p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Milan 2026, silver (Team Pursuit 8 Laps - Men), 25th (1500m - Men)</li><li>Olympic Games Beijing 2022, bronze (Team Pursuit 8 Laps - Men), 11th (1500m - Men), 16th (5000m - Men)</li><li>Olympic Games Pyeongchang 2018, 8th (Team Pursuit 8 Laps - Men), 21th (5000m - Men)</li><li>Olympic Games Sochi 2014, 10th (10000m - Men), 16th (5000m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team Pursuit 8 Laps - Men), 19th (1500m - Men)</li><li>Years of participation: 1500m - Men 2020, 2023, 2024, 2025; Team Pursuit 8 Laps - Men 2020, 2023, 2024, 2025; Big Combination - Men 2022; 5000m - Men 2013</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2025 (Team Pursuit 8 Laps - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767037494/TeamUSA%20Assets/Athlete%20Profiles/Emery%20Lehman%20873985/lehman_e_873985_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767037498/TeamUSA%20Assets/Athlete%20Profiles/Emery%20Lehman%20873985/lehman_e_873985_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767037498/TeamUSA%20Assets/Athlete%20Profiles/Emery%20Lehman%20873985/lehman_e_873985_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767037492/TeamUSA%20Assets/Athlete%20Profiles/Emery%20Lehman%20873985/lehman_e_873985_bio_new.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emery Lehman 873985"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Long Track Speedskating"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Evy",
+      "last_name": "Leibfarth",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2004-01-26T00:00:00",
+        "hometown": {
+          "city": "Bryson City",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.4289,
+          "longitude": -83.4497
+        },
+        "education": "Davidson College '25 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Lee Leibfarth and Jean Folger</li></ul><ul><li>She plans on majoring in Biology at Davidson College while continuing to train full time</li><li>Hobbies include drawing, hiking, snowboarding and cooking</li><li>Before Evy goes to the starting gate, you mat find her drawing in the team tent</li><li>Evy made her World Cup debut at age 15</li><li>Evy first tried kayaking at 4 years old</li></ul><h5>Career Highlights</h5><ul><li>2021 U.S. Olympic Team Trials: 1st in K1 and 1st in C1</li><li>2021 World Cup (Prague): 15th in C1</li><li>2021 World Cup (Markkleeberg, Germany): 11th in K1</li><li>2020 World Cup #1: 3rd in WK1 and 3rd in WC1</li><li>2020 Australian Open: 2nd in WK1 (U18) and 2nd in WC1 (U18)</li><li>2020 Oceania Championships: 1st in WK1 (U18) and 1st in WC1 (U18)</li><li>2019 U.S. National Champion in WK1 and WC1</li><li>2019 Pan-American Championships: 1st in WK1 and 2nd in Extreme</li><li>2019 Junior/U23 World Championships: 3rd in WK1 and 1st in Extreme</li><li>2019 World Cup #3: 3rd in WC1</li><li>2019 World Cup #2: 2nd in Extreme</li><li>2019 Oceania Championships, 1st in WK1 (U18) and 3rd in WC1 (U18)</li><li>2018 U.S. National Champion in WK1 and Vice-Champion in WC1</li><li>2018 Australian Open: 3rd in WC1 (U18)</li><li>2017 U.S. National Champion in WC1 and Vice-Champion in WK1</li><li>2016 U.S. National Champion in WC1</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (C1 - Women), 10th (CSLX - Women), 15th (K1 - Women)</li><li>Olympic Games Tokyo 2020, 12th (K1 - Women), 18th (C1 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 7th (C1 - Women), 10th (K1 Team - Women), 12th (K1 - Women), 22th (CSLX - Women)</li><li>Years of participation: C1 - Women 2023; CSLX - Women 2023; K1 - Women 2023; K1 Team - Women 2023</li><li>Top finish: 7th – 2023 (C1 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1714429178/Leibfarth_Evy_MS24.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662544/TeamUSA%20Assets/Athlete%20Profiles/Evy%20Leibfarth%201145298/E_Leibfarth_hero_1145298.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006569/TeamUSA%20Assets/Athlete%20Profiles/Evy%20Leibfarth%201145298/Leibfarth_Evy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Evy Leibfarth 1145298"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Canoe/Kayak"
+        }
+      ]
+    },
+    {
+      "first_name": "Tahl",
+      "last_name": "Leibovitz",
+      "bio": {
+        "height": "5'4",
+        "birthday": "1975-06-01T00:00:00",
+        "hometown": {
+          "city": "Ozone Park",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.67622,
+          "longitude": -73.84375
+        },
+        "education": "New York University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Tahl&nbsp;Leibovitz, USA Table Tennis Hall of Fame Inductee and Champion of Peace for Peace &amp; Sport, has played table tennis for over 25 years beginning at the South Queens Boys and Girls Club in Queens</li><li>He&nbsp;has represented the U.S. internationally for more than 20 years and is training for Paris 2024</li><li>He&nbsp;graduated from New York University, and is a licensed clinical social worker and works in New York City assisting marginalized groups and individuals</li><li>Leibovitz&nbsp;was inducted into the USATT Hall of Fame and wrote Ping Pong for Fighters Gold Medal Edition, a best selling table tennis instructional book on Amazon</li></ul><h5>Paralympic Experience</h5><ul><li>7-time Paralympian; 3-time Paralympic medalist (1 gold, 2 bronze)</li><ul><li>Paralympic Games Paris 2024, 9th (Singles Class 9 - Men), 17th (Doubles MS18 - Men)</li><li>Paralympic Games Tokyo 2020, 5th (Singles Class 9 - Men), 9th (Team Class 9-10 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 5th (Singles Class 9 - Men)</li><li>Paralympic Games London 2012, 9th (Singles Class 9 - Men)</li><li>Paralympic Games Beijing 2008, 9th (Team Class 9-10 - Men), 11th (Singles Class 9-10 - Men)</li><li>Paralympic Games Athens 2004, bronze (Singles Class 9 - Men), 4th (Team Class 9 - Men)</li><li>Paralympic Games Atlanta 1996, gold (Singles Class 7 - Men), bronze (Team Class 6-8 - Men), 17th (Open 6-10 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 5th (Doubles Class 18 - Men), 9th (Singles Class 9 - Men)</li><li>Years of participation: Doubles Class 18 - Men 2022; Singles Class 9 - Men 2006, 2010, 2014, 2022; Open Standing - Men 2006, 2010; Team Class 9 - Men 2010; Open 6-10 - Men 1998; Singles Class 10 - Men 1998</li><li>Top finish: 4th – 2006 (Open Standing - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662016/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Leibovitz_T_bio_799995.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Table Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 1996, 2004, 2008, 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "9",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662923/TeamUSA%20Assets/Athlete%20Profiles/Tahl%20Leibovitz%20799995/leibovitz_t_hero_799995.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010225/TeamUSA%20Assets/Athlete%20Profiles/Tahl%20Leibovitz%20799995/TahlLeibovitz150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tahl Leibovitz 799995"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Table Tennis"
+        }
+      ]
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Lemkin",
+      "bio": {
+        "height": "5' 3\"",
+        "birthday": "2007-01-31T00:00:00",
+        "hometown": {
+          "city": "Woodside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4241,
+          "longitude": -122.2575
+        },
+        "education": "Stanford Online School (2024) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mallun Yen and Jason Lemkin</li><li>She has one older brother</li><li>Started competing in diving during the 2018 season</li><li>Competed in both diving and gymnastics in 2018, and was the Level 7 Northern California State All Around Champion for gymnastics. She was also a member of the Northern California State Gymnastics team</li><li>Anna trains two to three hours a day, six days a week</li><li>Her favorite dive is 5235D on 7-meter and her favorite diver is Guo Jingjing</li><li>When she&#39;s not diving, Anna enjoys cooking, guitar, art and reading</li><li>Her grandma&#39;s homemade dumplings are her favorite meal</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Rio de Janeiro, 2024 (Team Event - Mixed, 10m Platform Synchro - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Junior World Championships: gold, 3-meter; bronze, platform</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011389/TeamUSA%20Assets/Athlete%20Profiles/Anna%20Lemkin%201265512/Anna-Lemkin-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anna Lemkin 1265512"
+        }
+      ]
+    },
+    {
+      "first_name": "Daria",
+      "last_name": "Lenz",
+      "bio": {
+        "height": "5' 3\"",
+        "birthday": "2000-01-28T00:00:00",
+        "hometown": {
+          "city": "Altadena",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1894,
+          "longitude": -118.1337
+        },
+        "education": "Polytechnic School Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daria is the daughter of Maria, a pediatrician, and Heinz Lenz, an oncologist</li><li>She is the fourth daughter in a diving family that includes older sisters Felicitas, Cosima, and Annika</li><li>She began diving at age seven and now trains at least three hours a day, six days a week</li><li>Her favorite dive is a 405B on 3-meter</li><li>Daria says she learned one of her most valuable lessons at the 2013 Junior National Championships, where she balked on her very first dive (103B on 3-meter) and did not make the finals</li><li>She says she was really upset with herself and that motivated her to work hard even when there are bumps in the road</li><li>When she competes, she likes to listen to girly pop music</li><li>She previously also competed in gymnastics</li><li>When she is not diving, Daria enjoys hiking, travelling, surfing and reading</li><li>She would like to be a human rights lawyer</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006583/TeamUSA%20Assets/Athlete%20Profiles/Daria%20Lenz%20855367/Lenz-Daria-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Daria Lenz 855367"
+        }
+      ]
+    },
+    {
+      "first_name": "Kawhi",
+      "last_name": "Leonard",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1991-06-29T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "San Diego State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Son of the late Mark Leonard and Kim Robertson</p></li><li><p>Attended Martin Luther King High School (Riverside, Calif.) and was named the Los Angeles Times Player of the Year his senior season (2008-09), averaged 22.6 ppg, 13.1 rpg, 3.9 apg and 3.0 bpg</p></li><li><p>Named 2009 CalHiSports.com Mr. Basketball State Player of the Year</p></li><li><p>Played two seasons at San Diego State, leading the Aztecs to a record 34 wins and the NCAA Sweet 16 in as a sophomore</p></li></ul><h5>Career Highlights</h5><ul><li><p>Drafted by Indiana with the 15th pick of the first round of the 2011 NBA Draft. Traded on draft night to San Antonio in exchange for guard George Hill. Became an early entry candidate after two seasons at San Diego State</p></li><li><p>Has played in 11 NBA seasons and been on three different teams (San Antonio Spurs, Toronto Raptors and L.A. Clippers)</p></li><li><p>Two-time NBA champion and NBA Finals MVP in 2014 with San Antonio and 2019 with Toronto</p></li><li><p>Five-time NBA All-Star (2016-17, 2019-21), three-time All-NBA First Team (2016, 2017, 2021), two-time All-NBA Second Team (2019, 2020), two-time NBA Defensive Player of the Year (2015, 2016), NBA All-Rookie First Team (2012), NBA 75th Anniversary Team, among others</p></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713896262/TeamUSA%20Assets/Athlete%20Profiles/Kawhi%20Leonard%20997424/Leonard_k_bio_997424.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713896075/TeamUSA%20Assets/Athlete%20Profiles/Kawhi%20Leonard%20997424/Leonard_k_hero_997424.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713896075/TeamUSA%20Assets/Athlete%20Profiles/Kawhi%20Leonard%20997424/Leonard_k_hero_997424.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713895891/TeamUSA%20Assets/Athlete%20Profiles/Kawhi%20Leonard%20997424/Leonard_k_thumbnail_997424.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kawhi Leonard 997424"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Lars Hammernes",
+      "last_name": "Leopold",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1999-12-25T00:00:00",
+        "hometown": {
+          "city": "Truckee",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 39.3272,
+          "longitude": -120.1831
+        },
+        "education": "NTG Geilo NTNU University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Obertilliach, 2021 (4 x 7.5km Relay - Men, 15km Individual - Men, 10km Sprint - Men)</li><li>World Youth/Junior Championships, Lenzerheide, 2020 (4 x 7.5km Relay - Men, 10km Sprint - Men)</li></ul><h5> World Championship Experience</h5><ul><li>2021 IBU Youth/Junior World Championships (Obertilliach, Austria) - 58th in junior individual / 65th in junior sprint / 8th in junior relay</li><li>2020 IBU Youth/Junior World Championships (Lenzerheide, Switzerland) - 46th in junior individual; 14th in junior relay; 32nd in junior sprint; 45th in junior pursuit</li><li>2019 Junior World Championships (Brezno-Osrblie, SVK) - t-32nd in individual / 19th in relay / 54th in sprint / 45th in pursuit</li></ul><h5>More</h5><p>Lars went to his first years of school on skis, competed on weekends and vacations would be centered around skiing.&nbsp; Lars's great grandfather raced in the 1936 Olympics in Garmisch.&nbsp; Mother's uncle was Sarajevo in '84 and grandfather ski jumped in the 1976 Olympics in Innsbruck and was a three-time All American skier at University of Denver.&nbsp; Skiing is a family tradition and Lars wants to follow in this legacy.&nbsp; &nbsp;Outside of the sport of Biathlon, Lars enjoys travel, friends and fly fishing.&nbsp; His favorite athlete is Aksel Lund Svindal&nbsp;who's able to comeback to the top of the World Cup rankings time and time again after injuries.&nbsp; </p>\n<p>&nbsp;</p>\n<p><strong>Skis:</strong>&nbsp; Rossignol</p>\n<p><strong>Boots:</strong>&nbsp; Rossignol</p>\n<p><strong>Poles:</strong>&nbsp; Swix</p>\n<p></p>\n<p></p>\n<p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006592/TeamUSA%20Assets/Athlete%20Profiles/Lars%20Hammernes%20Leopold%201141878/Leopold_DSC_6919-1_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006593/TeamUSA%20Assets/Athlete%20Profiles/Lars%20Hammernes%20Leopold%201141878/Lars_Leopold_2021_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lars Hammernes Leopold 1141878"
+        }
+      ]
+    }
+  ]
+}

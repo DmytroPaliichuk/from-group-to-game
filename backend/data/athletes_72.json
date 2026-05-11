@@ -1,0 +1,1272 @@
+{
+  "entries": [
+    {
+      "first_name": "Desmond",
+      "last_name": "Jackson",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1999-09-15T00:00:00",
+        "hometown": {
+          "city": "Durham",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.994,
+          "longitude": -78.8986
+        },
+        "education": "Hillside High School (Durham, North Carolina) ‘17 Campbell University '21",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Andre and Deborah Jackson</li><li>Played basketball, soccer, baseball, and rode horses before finding his passion of track and field</li><li>First competed with the Carolina Cruisers, his track and field club in Charlotte, North Carolina</li><li>Competed in his first international meet with Team USA at the Parapan American Games in Toronto</li><li>Hobbies include playing gaming systems, watching sports, bike riding, reading and socializing</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 7th (100m T63 - Men)</li><li>Paralympic Games Rio de Janeiro 2016,  (200m T42 - Men), 7th (Long Jump T42 - Men), 9th (100m T42 - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (100m T63 - Men), 7th (Long Jump T63 - Men)</li><li>Years of participation: 100m T63 - Men 2019; Long Jump T63 - Men 2019; 100m T42 - Men 2015, 2017; 200m T42 - Men 2015, 2017; Long Jump T42 - Men 2015, 2017</li><li>Top finish: 5th – 2017 (100m T42 - Men), 2019 (100m T63 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721849586/TeamUSA%20Assets/Athlete%20Profiles/Desmond%20Jackson%20820771/Jackson_D_bio.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T42",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010305/TeamUSA%20Assets/Athlete%20Profiles/Desmond%20Jackson%20820771/Jackson_Desmond250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Desmond Jackson 820771"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Renae",
+      "last_name": "Jackson",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1992-08-16T00:00:00",
+        "hometown": {
+          "city": "Vacaville",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.3568,
+          "longitude": -121.9877
+        },
+        "education": "Vanden High School (Fairfield, Calif.) ‘10  California State University, Long Beach ‘17, Kinesiology (M.S.)  ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of William and Cynthia Jackson</li><li>Has two siblings, Rebekah and Ryan</li><li>Works as an Ocean Lifeguard for the LA County Fire Department</li><li>Three-time national surfski champion. Hobbies include surfing, paddleboarding and piano</li><li>Speaks Spanish.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (K4 500m - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 24th (K4 500m - Women)</li><li>Years of participation: K4 500m - Women 2019</li><li>Top finish: 24th – 2019 (K4 500m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328856/TeamUSA%20Assets/Migration/Athlete%20Profiles/Renae%20%20Jackson%201144434/jackson_renae.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Renae Jackson 1144434"
+        }
+      ]
+    },
+    {
+      "first_name": "Erin",
+      "last_name": "Jackson",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1992-09-19T00:00:00",
+        "hometown": {
+          "city": "Ocala",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 29.1872,
+          "longitude": -82.1401
+        },
+        "education": " University of Florida",
+        "fun_fact": "First Black woman to win gold in an individual event at the Winter Olympics",
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong></strong></span><strong>Specialty:</strong> 500-meter, 1,000-meter, Team Sprint</li><li><p>Daughter of Rita and Tracy Jackson</p></li><li><p>One brother, Corey Farmer</p></li><li><p>First Black woman to win gold in an individual event at the Winter Olympics</p></li><li><p>Works with Edge Outdoors, an organization that helps women of color get into sports like skiing and snowboarding</p><ul><li>Wants to start something similar in speedskating</li></ul></li><li><p>Hobbies: Pickleball and kickball with friends</p></li><li><p>When she is not skating, Jackson is working on multiple associate degrees from Salt Lake City Community, in Kinesiology and Business, respectively after previously completing one in Computer Science</p></li></ul><h5>Biographical Information</h5><p><span></span><span>Erin Jackson grew up in Ocala, Florida, where she began inline skating a</span><span>fter her mom, Rita, had a chance encounter with famed inline skating coach Renee Hildebrand. Jackson would join Hildebrand's team, including future Team USA teammates Brittany Bowe and Joey Mantia. At 17, Jackson would be a junior inline champion in the 500-meter track event and competed in inline speedskating world championships and roller derby for Team USA ahead of the 2018 world cup before taking up long track speedskating.</span></p><p><span>Just months after transitioning to the ice full-time, Erin Jackson made her Olympic debut at the Olympic Winter Games Pyeongchang 2018 in the 500m, finishing 24th. Less than four years later, Jackson was the top-ranked skater in the 500m discipline heading the U.S. Olympic Speedskating Trials. She finished third in the 500m at the 2022 U.S. Olympic Trials - Speedskating in Milwaukee after slipping during the race, so she missed out on the two available qualification berths. However, her teammate and long-time friend, Brittany Bowe, who won the event at the U.S. Trials, ceded her place to Jackson, claiming she had a greater chance of winning gold in the event at the Olympic Winter Games Beijing 2022.</span></p><p><span>At the Beijing Games, Jackson made history as the first Black woman to win gold in an&nbsp;</span><span>individual</span><span>&nbsp;event at the Winter Olympics. Later that year</span><span>, she returned to inline skating and became world champion for the first time ever at the 2022 ISU World Championships in the one lap sprint event. Jackson would also win gold the following year at the PanAm Games in the 500m, her signature event.</span><span></span><span></span><span></span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, 5th (500m - Women), 6th (1000m - Women)</li><li>Olympic Games Beijing 2022, gold (500m - Women)</li><li>Olympic Games Pyeongchang 2018, 24th (500m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 5th (500m - Women), 11th (1000m - Women)</li><li>Years of participation: 1000m - Women 2023, 2024, 2025; 500m - Women 2019, 2020, 2023, 2024, 2025; Sprint Combination - Women 2024; Team Sprint - Women 2023, 2024; Road - 100m Sprint - Women 2015, 2016, 2017, 2018, 2019, 2022, 2023; Road - 15000m - Women 2023; Road - Marathon - Women 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2023; Road - One Lap Sprint - Women 2018, 2019, 2022, 2023; Track - 1000m - Women 2012, 2013, 2014, 2015, 2017, 2018, 2023; Track - 200m Dual Time Trial - Women 2019, 2022, 2023; Track - 3000m Relay - Women 2010, 2012, 2015, 2023; Track - 500m Sprint - Women 2010, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2022, 2023; Track - 300m Time Trial - Women 2010, 2012, 2013, 2014, 2015, 2016, 2017; Road - 500m Sprint - Women 2010, 2012, 2013, 2014, 2015, 2016; Road - 200m Time Trial - Women 2010, 2012, 2013, 2014; Road - 10000m Points - Women 2013; Road - 5000m Relay - Women 2010, 2012, 2013</li><li>Medals: 13 (1 gold, 5 silver, 7 bronze)</li><ul><li>Gold – 2022 (Road - One Lap Sprint - Women)</li><li>Silver – 2024 (Team Sprint - Women);  2023 (Team Sprint - Women);  2022 (Track - 500m Sprint - Women);  2015 (Road - 100m Sprint - Women);  2010 (Track - 500m Sprint - Women)</li><li>Bronze – 2023 (Track - 500m Sprint - Women);  2022 (Road - 100m Sprint - Women);  2018 (Road - One Lap Sprint - Women);  2016 (Track - 500m Sprint - Women);  2013 (Track - 500m Sprint - Women);  2012 (Road - 500m Sprint - Women);  2010 (Road - 500m Sprint - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686760984/NGB%20Speedskating/Galleries/GettyImages-1370495061_4.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662932/TeamUSA%20Assets/Athlete%20Profiles/Edwin%20Jackson%201220745/jackson_e_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767482590/TeamUSA%20Assets/Qualification%20Cards/Jackson_Erin_QualCard.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685549768/NGB%20Speedskating/Athlete%20Profiles/2023-24/Long%20Track/C59T6877.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Erin Jackson"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Long Track Speedskating"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Lindsey",
+      "last_name": "Jacobellis",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1985-08-19T00:00:00",
+        "hometown": {
+          "city": "Roxbury",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.579,
+          "longitude": -73.3037
+        },
+        "education": "Stratton Mountain School, ‘03",
+        "fun_fact": null,
+        "biography": "<h5><span style=\"font-size: 11pt;\"><strong></strong></span>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\"> Snowboard Cross</span></p></li><li><p><span style=\"font-size: 11pt;\">Daughter of Ben and Anita Jacobellis and has an older brother, Ben</span></p></li><li><p><span style=\"font-size: 11pt;\">Started skiing in early childhood and switched to snowboarding at eight</span></p></li><li><p><span style=\"font-size: 11pt;\">Enjoys surfing, sewing, gardening and cooking</span></p></li><li><p><span style=\"font-size: 11pt;\">Involved in events like the Super Girl Snow Pro Competition, mentoring the next generation of snowboarders</span></p></li><li><p><span style=\"font-size: 11pt;\">Advocate for women's participation in snowboarding</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Lindsey Jacobellis is an American snowboarder and one of the most accomplished female snowboard cross athletes in the world. Jacobellis competed in her first X Games at age 15 and joined the U.S. Snowboarding Team by age 17. Her rapid progression in the sport made her a top competitor from a young age, setting the foundation for her long and successful career. Jacobellis is a multi-time gold medalist at the FIS Snowboarding World Championships and an Olympic gold medalist, achieving her first at the Olympic Winter Games Beijing 2022. She is also one of the most decorated athletes in X Games history.</span></p><p><span style=\"font-size: 11pt;\">Born in Danbury, Connecticut, she grew up spending much of her childhood in southern Vermont at her family’s weekend home. Initially a skier, Jacobellis transitioned to snowboarding at the age of eight after a fire destroyed her ski equipment. She was introduced to the sport by her older brother, Ben, who was also a professional snowboarder. She had a competitive spirit from the start, pushing herself to keep up with her brother and father on the mountain.</span></p><p><span style=\"font-size: 11pt;\">Jacobellis attended the college preparatory academy, Stratton Mountain School in Vermont, which focused on training winter athletes and graduated in 2003. As the only girl racing in snowboard cross, she accredits the male-dominated discipline for fueling her competitiveness and approach to the sport. Outside of competition, Jacobellis enjoys surfing, sewing, gardening and cooking. She is passionate about mentoring young athletes and promoting women's participation in snowboarding. She has been involved in events like the Super Girl Snow Pro Competition, where she has both competed and encouraged the next generation of snowboarders.</span></p><h5>Olympic Experience</h5><ul><li>5-time Olympian; 3-time Olympic medalist (2 gold, 1 silver)</li><ul><li>Olympic Games Beijing 2022, gold (Snowboard Cross Team - Mixed, Snowboardcross - Women)</li><li>Olympic Games Pyeongchang 2018, 4th (Snowboardcross - Women)</li><li>Olympic Games Sochi 2014, 7th (Snowboardcross - Women)</li><li>Olympic Games Vancouver 2010, 5th (Snowboardcross - Women)</li><li>Olympic Games Turin 2006, silver (Snowboardcross - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Snowboardcross - Women), 4th (Snowboard Cross Team - Mixed)</li><li>Years of participation: Snowboard Cross Team - Mixed 2019, 2023; Snowboardcross - Women 2005, 2007, 2011, 2015, 2017, 2019, 2021, 2023; Snowboard Cross Team - Women 2017; Halfpipe - Women 2005</li><li>Medals: 8 (6 gold, 2 bronze)</li><ul><li>Gold – 2019 (Snowboard Cross Team - Mixed);  2017 (Snowboardcross - Women);  2015 (Snowboardcross - Women);  2011 (Snowboardcross - Women);  2007 (Snowboardcross - Women);  2005 (Snowboardcross - Women)</li><li>Bronze – 2023 (Snowboardcross - Women);  2017 (Snowboard Cross Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662003/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Jacobellis_L_bio_816940.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662324/TeamUSA%20Assets/Athlete%20Profiles/Lindsey%20Jacobellis%20816940/jacobellis_l_hero_816940.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010312/TeamUSA%20Assets/Athlete%20Profiles/Lindsey%20Jacobellis%20816940/jacobellis_lindsey_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lindsey Jacobellis 816940"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Snowboarding"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    },
+    {
+      "first_name": "Joel",
+      "last_name": "Jacobson",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1951-09-15T00:00:00",
+        "hometown": {
+          "city": "Langdon",
+          "state": "ND",
+          "country": "United States",
+          "latitude": 48.7758,
+          "longitude": -98.3709
+        },
+        "education": "North Dakota State",
+        "fun_fact": null,
+        "biography": "<table border=\"0\" bordercolor=\"#111111\" cellpadding=\"2\" cellspacing=\"5\" height=\"104\" width=\"100%\" id=\"table3\" style=\"width: undefined; height: 104px;\"><tbody><tr><td><strong>Position</strong></td><td>Lead/Alternate/Coach</td></tr><tr><td><strong>Delivers</strong></td><td>Right-handed</td></tr><tr><td><strong>Occupation</strong></td><td>Farmer</td></tr><tr><td><strong>Family</strong></td><td>Married to Lisa; three children, Zach, Zane &amp; Jennifer</td></tr><tr><td><strong>Year started curling</strong></td><td>1978</td></tr></tbody></table><table border=\"0\" width=\"100%\" id=\"table4\"><tbody><tr><td><strong>CURLING HIGHLIGHTS</strong><ul><li><strong>U.S. National Championships:</strong> 2007 (silver), 2006 (silver), 2005 (5th), 2004 (quarterfinalist), 2003 (semifinalist), 2000, 1999, 1998, 1997 (champion), 1995, 1994</li><li><strong>World Championship</strong><strong>s</strong>: 1997 (6th)</li><li><strong>U.S. Mixed National Championship</strong>: 1999, 1998, 1997, 1996, 1994, 1991, 1988, 1986 (champion)</li><li><strong>U.S. Olympic Team Trials</strong>: 2005 (5th), 1998</li><li><strong>Karuizawa International Championship</strong>: 2007 (champion)</li><li>Four-time North Dakota State men's champion</li><li>Eight-time North Dakota mixed champion</li><li><strong>Ann Brown Sportsmanship Award winner at U.S. Nationals</strong>: 2007</li></ul><p><strong>About Joel Jacobson:</strong></p><table border=\"0\" width=\"100%\" id=\"table5\"><tbody><tr><td valign=\"top\"><p><strong>Curls out of: </strong>Langdon Curling Club</p></td></tr></tbody></table></td></tr></tbody></table><h5>World Championships Experience</h5><ul><li>Most recent: 1997 – 6th (Team - Men)</li><li>Years of participation: Team - Men 1997</li><li>Top finish: 6th – 1997 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687363342/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joel%20Jacobson/joel_jacobson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joel Jacobson"
+        }
+      ]
+    },
+    {
+      "first_name": "Connor",
+      "last_name": "Jaeger",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1991-04-30T00:00:00",
+        "hometown": {
+          "city": "Fair Haven",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.37,
+          "longitude": -74.04
+        },
+        "education": "Rumson-Fair Haven Regional High School (Fair Haven, N.J.), ‘10 University of Michigan ‘14, Mechanical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Eric and Bernadette Jaeger</li><li>Has one sister, Dana</li><li>Enjoys surfing and lifeguarding.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, silver (1500m Freestyle - Men), 5th (400m Freestyle - Men)</li><li>Olympic Games London 2012, 6th (1500m Freestyle - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – silver (1500m Freestyle - Men), 4th (400m Freestyle - Men, 800m Freestyle - Men)</li><li>Years of participation: 1500m Freestyle - Men 2013, 2015; 400m Freestyle - Men 2013, 2015; 800m Freestyle - Men 2013, 2015</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2015 (1500m Freestyle - Men)</li><li>Bronze – 2013 (400m Freestyle - Men)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719727/TeamUSA%20Assets/Migration/Athlete%20Profiles/Connor%20Jaeger%20803590/jaeger_connor_070216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719728/TeamUSA%20Assets/Migration/Athlete%20Profiles/Connor%20Jaeger%20803590/Jaeger_connor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Connor Jaeger 803590"
+        }
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Jaeschke",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1993-09-04T00:00:00",
+        "hometown": {
+          "city": "Wheaton",
+          "state": "IL",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Loyola University of Chicago ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Danielle Jaeschke</li><li>Has a twin sister named Jaime and a brother named Joseph</li><li>Played for his high school golf team and still has a 5 handicap</li><li>Majored in finance while at Loyola of Chicago until 2015</li><li>Enjoys relaxing, playing golf, and hanging out with friends</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li><li>Olympic Games Tokyo 2020, 10th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697145096/TeamUSA%20Assets/Athlete%20Profiles/Thomas%20Jaeschke%20856919/jaeschke_t_bio_1146109.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697145217/TeamUSA%20Assets/Athlete%20Profiles/Thomas%20Jaeschke%20856919/jaeschke_t_hero_1146109.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010291/TeamUSA%20Assets/Athlete%20Profiles/Thomas%20Jaeschke%20856919/2017-Thomas-Jaeschke.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Thomas Jaeschke 856919"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Jaffe",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2003-07-18T00:00:00",
+        "hometown": {
+          "city": "Carlsbad",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.1581,
+          "longitude": -117.3506
+        },
+        "education": "University of California, Berkeley '25",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with spastic, quadriplegic cerebral palsy, which primarily affects his legs and right arm</li><li>Began swimming competitively at age 10 for North Coast Aquatics (NCA) in Carlsbad, California</li><li>After watching the Paralympic Games Rio 2016, Jaffe's medical team told him he'd be eligible for Para swimming, and he decided to try it</li><li>Broke onto the international scene by winning four medals, including a gold, at his first world championships in 2023</li><li>Proudest accomplishment is representing Team USA at the 2022 Duel in the Pool meet, which marked the first time Team USA Para athletes competed alongside able-bodied counterparts and was Jaffe's international debut</li><li>Outside of the pool, enjoys reading, going to the beach and open water swimming</li><li>Plans to go to medical school and specialize in physical medicine and rehabilitation in hopes of working with kids with cerebral palsy and other neurological conditions</li><li>Son of Kathy Keeler and Syrus Jaffe</li><li>Has one younger brother, Bode</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (100m Freestyle S8 - Men), silver (50m Freestyle S8 - Men), bronze (100m Butterfly S8 - Men, 400m Freestyle S8 - Men), 5th (4 x 100m Freestyle Relay 34 Points - Mixed, 4 x 100m Medley Relay 34 Points - Mixed)</li><li>Years of participation: 100m Butterfly S8 - Men 2023; 100m Freestyle S8 - Men 2023; 4 x 100m Freestyle Relay 34 Points - Mixed 2023; 4 x 100m Medley Relay 34 Points - Mixed 2023; 400m Freestyle S8 - Men 2023; 50m Freestyle S8 - Men 2023</li><li>Medals: 4 (1 gold, 1 silver, 2 bronze)</li><ul><li>Gold – 2023 (100m Freestyle S8 - Men)</li><li>Silver – 2023 (50m Freestyle S8 - Men)</li><li>Bronze – 2023 (100m Butterfly S8 - Men, 400m Freestyle S8 - Men)</li></ul></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 2-time Paralympic medalist (1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, silver (100m Freestyle S8 - Men), bronze (4 x 100m Freestyle Relay 34 Points - Mixed), 4th (400m Freestyle S8 - Men), 6th (100m Butterfly S8 - Men, 200m Individual Medley SM8 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712608539/Jaffe_Noah_GettyLAShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S8/SM8/SB8",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694023235/NGB%20Para%20Swimming/Athlete%20Profiles/Jaffe_20230802_WC-Para-Swimming_104916_009548.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694023235/NGB%20Para%20Swimming/Athlete%20Profiles/Jaffe_20230803_WC-Para-Swimming_195608_018805.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Evan",
+      "last_name": "Jager",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1989-03-08T00:00:00",
+        "hometown": {
+          "city": "Algonquinn",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.1667,
+          "longitude": -88.284
+        },
+        "education": "Harry D. Jacobs High School (Algonquin, Ill.) ‘07 Portland State University ‘13",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Joel and Cathy Jager</li><li>Has one sister, Mallory</li><li>Made his steeplechase debut early in 2012 and won the event at the U.S. Olympic Team Trials with only a handful of career races</li><li>Ended the 2015 season ranked No. 2 in the world in the 3,000-meter steeplechase</li><li>Collected his first national outdoor championship title with a time of 8:20.67 in 2013</li><li>Set the American record in the 3,000-meter steeplechase at 8:06.81 in just his fifth career event start</li><li>Left the University of Wisconsin a year early to sign with Nike and follow his coach, Jerry Schumacher to Portland, Oregon, where he enrolled at Portland State University.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, silver (3000m Steeplechase - Men)</li><li>Olympic Games London 2012, 6th (3000m Steeplechase - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (3000m Steeplechase - Men)</li><li>Years of participation: 3000m Steeplechase - Men 2015, 2017; 5000m - Men 2009</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (3000m Steeplechase - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719742/TeamUSA%20Assets/Migration/Athlete%20Profiles/Evan%20Jager%20862212/jager_evan_080617_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719743/TeamUSA%20Assets/Migration/Athlete%20Profiles/Evan%20Jager%20862212/jager_evan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Evan Jager 862212"
+        }
+      ]
+    },
+    {
+      "first_name": "Reggie",
+      "last_name": "Jagers III",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1994-08-13T00:00:00",
+        "hometown": {
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.4993,
+          "longitude": -81.6944
+        },
+        "education": "Kent State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sanders Williams and Phyllis Young</li><li>Has one brother, Phillip</li><li>2018 national champion in discus</li><li>Five-time All-American at Kent State University</li><li>Hobbies include four wheeling, reselling shoes online, car auctions, hunting, cooking, creating training programs for youth and high school athletes, and public speaking.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Pan American Games, bronze (discus throw)</li>\r\n                            <li>2019 Doha Diamond League, 4th (discus throw)</li>\r\n                            <li>2019 Kingston Grand Prix, 2nd (discus throw)</li>\r\n                            <li>2018 Kingston Grand Prix, 1st (discus throw)</li>\r\n                            <li>2018 North American, Central American and Caribbean Championships, 3rd (discus throw)</li>\r\n                            <li>2017 World University Games, 1st (discus throw)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 19th (Discus Throw - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662327/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Jagers_R_Bio_Unknown.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662908/TeamUSA%20Assets/Athlete%20Profiles/Reggie%20Jagers%20III/Jagers_R_Hero_Unknown.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687363310/TeamUSA%20Assets/Migration/Athlete%20Profiles/Reggie%20Jagers%20III/JagersIII_Reggie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Reggie Jagers III"
+        }
+      ]
+    },
+    {
+      "first_name": "Ellora",
+      "last_name": "Jaggi",
+      "bio": {
+        "height": "5'3''",
+        "birthday": "1998-04-18T00:00:00",
+        "hometown": {
+          "city": "Oak Park",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8858,
+          "longitude": -87.7903
+        },
+        "education": "Oak Park and River Forest High School University of Cincinnati",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>B.S. Industrial Design, University of Cincinnati Class of 2021<h5>Career Highlights</h5><ul><li>World Junior, Cadet & U21 Championships, Jakarta, 2015 (-53kg Kumite (Junior) - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 35th (-61kg Kumite - Women)</li><li>Years of participation: -61kg Kumite - Women 2023</li><li>Top finish: 35th – 2023 (-61kg Kumite - Women)</li></ul><h5>More</h5>&nbsp;",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010545/TeamUSA%20Assets/Athlete%20Profiles/Ellora%20Jaggi%20877326/ElloraJaggi.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ellora Jaggi 877326"
+        }
+      ]
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "Jahn",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1982-12-25T00:00:00",
+        "hometown": {
+          "city": "Lakeland",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.0395,
+          "longitude": -81.9498
+        },
+        "education": "George Jenkins High School (Lakeland, Fla.) ’01 St. Andrews University ’05, Emergency Medical Services; Henley Putman University, Intelligence Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Lori and Roger</li><li>Has one sister, Hannah</li><li>Served in the U.S. Army, was deployed three times to Afghanistan and Iraq and sustained an injury in 2010</li><li>Was introduced to Paralympic sport through the military rehab program and started training with the U.S. Paralympics National Soccer Team in 2014</li><li>Officially retired from the military in 2014</li><li>Was a three-sport athlete at St. Andrews University, playing soccer, basketball and boxing</li><li>After his athletic career, he became a firefighter EMT/paramedic in Florida, but a year later, he developed a strong desire to serve in a greater capacity and joined the U.S. Army</li><li>He represented Team SOCOM (United States Special Operations Command) at the 2013 Warrior Games where he was his team’s “ultimate champion,” competing in two team sports and five individual events</li><li>Has been to 88 countries</li><li>Proficient in four languages: English, Spanish, Dari and Pashto.</li><li>Pursuing his master’s degree in intelligence management with the intent of eventually earning his doctorate degree</li><li>He has climbed three of the world’s tallest mountains since his 2010 injury (Mt. Kilimanjaro, Mt. Blanc, and Elbrus) and plans to attempt Mt. Everest and Denali this year</li><li>He raced cars in the Eurocup Formula Renault 2.0 and has fought in two Muay Thai matches in Thailand</li><li>He has run with bulls in Spain, wrestled with tigers in Thailand and dove with tiger sharks in the Bahamas.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 7th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2015, 2017, 2019</li><li>Top finish: 5th – 2017 (Team - Men)</li></ul><h5>More</h5><p>U.S. Soccer</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "FT6",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328877/TeamUSA%20Assets/Migration/Athlete%20Profiles/Seth%20Jahn/Jahn_Seth_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Seth Jahn"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Jallen",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1996-02-13T00:00:00",
+        "hometown": {
+          "city": "Harding",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 41.3756,
+          "longitude": -75.8902
+        },
+        "education": "Wyoming Area Secondary Center (Exeter, Pa.)‘14 King's College '19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>When Jallen was nine years old, she was invited to the Camelback Adaptive Ski Camp in Tannersville, Pennsylvania, and was instantly hooked on the sport. While instructors initially wanted to put her in a bi-ski tethered to an instructor, Jallen insisted on learning to ski standing up. Jallen quickly developed as a ski-racer through the Pennsylvania Center Adapted Sports, a chapter of Disabled Sports USA. She was first named to the U.S. Paralympics Alpine National B Team in 2011 at only 15 years old. Jallen was born with a rare birth defect called CHILDS, Congenital Hemidysplasia with Ichthyosiform Erythroderma and Limb Defects Syndrome. CHILDS is a chromosomal disorder that affects the entire left side of the body, leaving Jallen with only one leg and one fully developed arm. After the Paralympic Games Sochi 2014, Jallen received the Team USA ‘Best Paralympic Moment’ award from the United States Olympic Committee</li><li>Daughter of Mike and Deb Jallen</li><li>Has one sister, Sarah</li><li>Loves strawberry pop-tarts</li><li>Has a donkey named Bella and horse named Honey</li><li>Hobbies include hiking, horseback riding, kayaking and rock climbing.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 bronze)</li><ul><li>Paralympic Games Pyeongchang 2018,  (Slalom - Standing - Women), 5th (Super Combined - Standing - Women), 8th (Downhill - Standing - Women), 10th (Giant Slalom - Standing - Women, Super-G - Standing - Women)</li><li>Paralympic Games Sochi 2014,  (Giant Slalom - Standing - Women, Slalom - Standing - Women), bronze (Super Combined - Standing - Women, Super-G - Standing - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 –  (Giant Slalom - Standing - Women, Slalom - Standing - Women, Super Combined - Standing - Women), 4th (Downhill - Standing - Women), 5th (Super-G - Standing - Women)</li><li>Years of participation: Downhill - Standing - Women 2015, 2017; Giant Slalom - Standing - Women 2015, 2017; Slalom - Standing - Women 2015, 2017; Super Combined - Standing - Women 2015, 2017; Super-G - Standing - Women 2015, 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2015 (Giant Slalom - Standing - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "LW9-1",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010321/TeamUSA%20Assets/Athlete%20Profiles/Stephanie%20Jallen%20849595/Jallen_Stephanie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephanie Jallen 849595"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Jalli",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2006-02-12T00:00:00",
+        "hometown": {
+          "city": "Canton",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.8136,
+          "longitude": -81.3752
+        },
+        "education": "Jackson 2024 ",
+        "fun_fact": null,
+        "biography": "<p style=\"color: #212121; background-color: #ffffff;\"><strong>Coach/es:</strong>&nbsp;Samson Dubina, Chance Friend<br>\n<br>\n<strong>Equipment<br>\n</strong><em>Blade:&nbsp;</em>Nittaku Acoustic Carbon blade<br>\n<em>FH Rubber:&nbsp;</em>Nittaku FastArc C-1 rubber<br>\n<em>BH Rubber:&nbsp;</em>Nittaku FastArc C-1 rubber<br>\n<br>\n</p>\n<p style=\"color: #212121; background-color: #ffffff;\"><strong>Fun Facts:&nbsp;</strong>I used to do horse back riding, dance, tennis, softball, table tennis, and many other sports. Now I'm focused on table tennis (making the 2024 Olympic Team) and most of my time is spent on daily TT training, fitness training, school, and family time. I enjoy training and enjoy daily challenges of making progress!</p>\n<p style=\"color: #212121; background-color: #ffffff;\"><h5>Career Highlights</h5><ul><li>World Junior Championships, Tunis, 2022 (Doubles - Women, Team - Women, Doubles - Mixed, Singles - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 65th (Singles - Women)</li><li>Years of participation: Singles - Women 2023</li><li>Top finish: 65th – 2023 (Singles - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004117/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Jalli%201200603/Desktop-Image-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Table Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004119/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Jalli%201200603/SarahJalli150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Jalli 1200603"
+        }
+      ]
+    },
+    {
+      "first_name": "LeBron",
+      "last_name": "James",
+      "bio": {
+        "height": "6’9”",
+        "birthday": "1984-12-30T00:00:00",
+        "hometown": {
+          "city": "Akron",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.0814,
+          "longitude": -81.519
+        },
+        "education": "St. Vincent-St. Mary High School (Ohio) ",
+        "fun_fact": null,
+        "biography": "<div><h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Basketball</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Position:</strong></span><span style=\"font-size: 11pt;\"> Small forward / power forward</span></p></li></ul><p></p><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">LeBron James is widely regarded as one of the greatest basketball players of all time. Known for his extraordinary athleticism, basketball IQ, and versatility, LeBron has dominated the NBA since his debut in 2003. Over his illustrious career, he has earned numerous accolades, including multiple NBA championships, MVP awards, and All-Star selections. LeBron's impact extends beyond the court, as he is also a philanthropist, activist, and entrepreneur, making significant contributions to his community and society at large.</span></p><p><p></p><p><span style=\"font-size: 11pt;\">LeBron James was raised by his mother, Gloria. Off the court, LeBron is a dedicated philanthropist and businessman. He established the LeBron James Family Foundation, which has donated millions of dollars to various causes, including education initiatives in his hometown. LeBron opened the \"I PROMISE School\" in Akron to provide educational opportunities for at-risk children, as well as housing complex “I Promise Village”, a medical center “I Promise Health Quarters” and a retail plaza “House Three-Thirty.” Additionally, he is an active advocate for social justice and equality, using his platform to speak out on important issues. As an entrepreneur, James has investments in media, sports, and entertainment, making him one of the most influential figures in sports today.</span></p><p><p></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">LeBron James has been a cornerstone of Team USA basketball, contributing to multiple gold medal victories. His combination of size, skill, and leadership made him an invaluable asset in international competitions.</span></p><p><p></p><p><span style=\"font-size: 11pt;\">His Olympic journey began at the Athens 2004 Olympic Games, where he earned a bronze medal in his first Olympic appearance as a key young player on the roster. During this tournament, he averaged 5.8 points, 2.6 rebounds and 1.0 assists per game.</span></p><p><p></p><p><span style=\"font-size: 11pt;\">At the Beijing 2008 Olympic Games, he proved instrumental in leading Team USA to a gold medal, averaging 15.5 points, 5.3 rebounds and 3.8 assists per game.</span></p><p><p></p><p><span style=\"font-size: 11pt;\">During the London 2012 Olympic Games, he helped guide Team USA to a gold medal, with his all-around play in the final game against Spain being a particular highlight. Throughout the tournament, he maintained impressive averages of 13.3 points, 5.6 rebounds and 5.6 assists per game.</span></p><p><p></p><p><span style=\"font-size: 11pt;\">At the Paris 2024 Olympic Games, he played a pivotal role in securing the USA Men's National Team's fifth consecutive gold medal. His outstanding performance included averages of 14.2 points, a team-high 6.8 rebounds and a team-best 8.5 assists per game, earning him the FIBA Men's Olympics MVP honor. He particularly shined during the USA Basketball Showcase, leading the team in scoring with 23 points, 6 rebounds, and 6 assists against South Sudan, and delivering a clutch performance against Germany with 20 points, 6 rebounds and 4 assists, including the team's final 11 points.</span></p><p><p></p><h5>NBA Highlights</h5><p><span style=\"font-size: 11pt;\">LeBron was selected first overall by the Cleveland Cavaliers in the 2003 NBA Draft, making an immediate impact and winning Rookie of the Year. During his first stint with the Cavaliers (2003-2010) and his return (2014-2018), he led the franchise to its first NBA championship in 2016, orchestrating a historic comeback from a 3-1 deficit in the Finals, while also earning two MVP awards during his time there. His tenure with the Miami Heat (2010-2014) was marked by the formation of the iconic \"Big Three\" with Dwyane Wade and Chris Bosh, resulting in two NBA championships in 2012 and 2013, with LeBron claiming Finals MVP honors in both years. Since joining the Los Angeles Lakers in 2018, he has continued his championship success, securing his fourth NBA title in 2020 along with another Finals MVP award. He remains a dominant force in the league, renowned for his unprecedented longevity and ability to perform at an elite level well into his late 30s.</span></p><p><p></p><h5>Early Career&nbsp;</h5><p><span style=\"font-size: 11pt;\">LeBron attended St. Vincent-St. Mary High School in Akron, Ohio, where he gained national attention as a basketball prodigy. He led his team to three state championships and was named to the USA Today All-USA First Team in his sophomore, junior, and senior years. His dominance in high school led to him being dubbed \"The Chosen One\" by Sports Illustrated, and he chose to enter the NBA directly after graduation.</span></p><p><span style=\"font-size: 11pt;\"></span></p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 4-time Olympic medalist (3 gold, 1 bronze)</li><ul><li>Olympic Games Paris 2024, gold (Team - Men)</li><li>Olympic Games London 2012, gold (Team - Men)</li><li>Olympic Games Beijing 2008, gold (Team - Men)</li><li>Olympic Games Athens 2004, bronze (Team - Men)</li></ul></ul></div><h5>World Championships Experience</h5><ul><li>Most recent: 2006 – bronze (Team - Men)</li><li>Years of participation: Team - Men 2006</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2006 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713806428/TeamUSA%20Assets/Migration/Athlete%20Profiles/LeBron%20James%20908893/James_l_bio_908893.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713806224/TeamUSA%20Assets/Migration/Athlete%20Profiles/LeBron%20James%20908893/James_l_hero_908893.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713806010/TeamUSA%20Assets/Migration/Athlete%20Profiles/LeBron%20James%20908893/James_l_thumbnail_908893.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713806010/TeamUSA%20Assets/Migration/Athlete%20Profiles/LeBron%20James%20908893/James_l_thumbnail_908893.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "LeBron James 908893"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Josiah",
+      "last_name": "Jamison",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1982-08-18T00:00:00",
+        "hometown": {
+          "city": "Vance",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 33.3668,
+          "longitude": -80.3709
+        },
+        "education": "Ashford University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Since he was born, Josiah Jamison had retinitis pigmentosa - a hereditary eye disease that affects peripheral and night vision.</li><li>He was introduced to racing at the South Carolina School for the Deaf and Blind in Spartanburg by Jack Todd, a staff member at the school, and Ryal Mitchell, a teammate from the 2008 U.S. Paralympic Team.</li><li>Since 2008, Jamison has been competing in the Paralympic Games.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 gold)</li><ul><li>Paralympic Games London 2012,  (100m T12 - Men, 4 x 100m Relay T11-13 - Men), 12th (200m T12 - Men)</li><li>Paralympic Games Beijing 2008,  (4 x 100m Relay T11-13 - Men), gold (100m T12 - Men), 4th (200m T12 - Men), 9th (400m T12 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (Shot Put F12 - Men), 18th (100m T12 - Men)</li><li>Years of participation: 100m T12 - Men 2006, 2011, 2013, 2017, 2019; Shot Put F12 - Men 2019; 200m T12 - Men 2006, 2011, 2013, 2017; 4 x 100m Relay T11-13 - Men 2006, 2013, 2017; 400m T12 - Men 2011; 4 x 400m Relay T11-13 - Men 2006</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2006 (100m T12 - Men)</li><li>Silver – 2013 (4 x 100m Relay T11-13 - Men)</li><li>Bronze – 2011 (100m T12 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010327/TeamUSA%20Assets/Athlete%20Profiles/Josiah%20Jamison%20821823/Jamison_Josiah_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josiah Jamison 821823"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Tessa",
+      "last_name": "Janecke",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2004-05-12T00:00:00",
+        "hometown": {
+          "city": "Warren",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.505,
+          "longitude": -89.9954
+        },
+        "education": "Penn State",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Forward</li><li>Daughter of Andrew and Kari Janecke</li><li>Two older brothers, Cade and Beau</li><li>Three-time First Team All-State softball player in high school</li></ul><h5>Biographical Information</h5><p>Tessa Janecke started playing hockey at age 3 in Orangeville, Illinois, because her older brother Cade played hockey. &nbsp;Janecke competed in youth hockey alongside her brother until high school, when she balanced honing her hockey skills at the North American Hockey Academy (NAHA) from October to March with spending the spring in Orangeville, Illinois, where she was a three-time First Team All-State softball player.</p><p>Janecke continued her career by playing college hockey at Penn State University, where she set numerous school records, including most career goals, assists, and points.&nbsp;</p><p>Janecke was named to the U.S. women's hockey team before the 2023 IIHF World Championships, and at the 2025 IIHF World Championship,s she scored the golden goal as the United States defeated Canada, 4-3, in overtime in the gold medal game. Janecke said after the game: \"I just happened to be in the right spot at the right time this time. I saw the turnover at the blue line and just tried to get open on the back door and hope for the best.\"</p><p>Janecke values her time on the U.S. women's hockey team, saying her teammates “bring out the best in me, they teach me how to be a good person on and off the ice, and a role model for the next generation. It’s always&nbsp;cool&nbsp;to be around those people, take in different perspectives and see the way they carry themselves.”</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2023, 2024, 2025</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women)</li><li>Silver – 2024 (Team - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770165325/Janecke_T_main_1359100.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770165287/Janecke_T_thumbnail_1359100.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Tessa Janecke"
+        }
+      ]
+    },
+    {
+      "first_name": "Travis",
+      "last_name": "Jankowski",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1991-06-15T00:00:00",
+        "hometown": {
+          "city": "Lancaster",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.0379,
+          "longitude": -76.3055
+        },
+        "education": "Stony Brook University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-f-Logo__blue_100_100x100.jpg?h=50&la=en&w=50&hash=C19357865BB1BF4A1FAD45443CFC1A477E15D161\" style=\"width: 50;height: 50;\"/></td><td><img alt=\"\" style=\"float: right;width: 50;height: 50;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50;width: 50;\" width=\"50\" height=\"50\"/></td></tr></tbody></table><div><div></div><div></div><div><br /><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2012 American East Tournament, 1st</li><li>2010 American East Tournament, 1st</li><li>2012 AMBCA/Rawlings National Co-Player of the Year</li><li>2011 Cape Cod Summer League Most Valuable Player</li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Son of Paul and Kelly Jankowski</li><li>Has two siblings, Tyler and Mandy</li><li>Selected by the San Diego Padres in the first round (44th overall) of the 2012 MLB Draft.</li></ul><br />Education:&nbsp;<p>Lancaster Catholic High School (Lancaster, Pa.) '09 Stony Brook University</p><p><br /></p></div></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328909/TeamUSA%20Assets/Migration/Athlete%20Profiles/Travis%20Jankowski/Baseball_Men_Jankowski_Travis.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Travis Jankowski"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Ian",
+      "last_name": "Jansing",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1985-12-26T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": "Lafayette HS (Wildwood, Mo.) ‘04 ",
+        "fun_fact": null,
+        "biography": "<p><strong>Sport</strong>: Alpine Skiing<br>\n<strong>Height</strong>: 6-1<br>\n<strong>Weight</strong>: 162<br>\n<strong>Classification</strong>: LW9-2, Standing<br>\n<strong>Date of Birth</strong>: Dec. 26, 1985<br>\n<strong>Birthplace</strong>: Cleveland, Ohio<br>\n<strong>Hometown</strong>: Granby, Colo.<br>\n<strong>Current Residence</strong>: Granby, Colo.<br>\n<strong>High School</strong>: Lafayette HS (Wildwood, Mo.) &lsquo;04<br>\n<strong>Coach</strong>: Kevin Jardine</p>\n<p><strong>Career Highlights</strong></p>\n<ul>\n    <li>2014: Paralympic Winter Games, 28th slalom; U.S. Paralympics Alpine Skiing National Championships, 2nd slalom and giant slalom; Huntsman Cup, 2nd slalom and giant slalom; World Cup Copper Mountain, 16th slalom run 1, 19th slalom run 2; NorAm Aspen, 3rd downhill; NorAm Winter Park, 6th slalom, 7th giant slalom run 1, 6th giant slalom run 2; U.S. Paralympics Alpine Skiing National Championships, 4th downhill</li>\n    <li>2013: NorAm Copper Mountain, 12th slalom run 1, 14th slalom run 2, 19th giant slalom run 1 and 2, 20th super-G run 1, 18th super-G run 2</li>\n    <li>2012: NorAm Winter Park, 5th slalom and super-G, 7th giant slalom; NorAm Copper Mountain, 11th slalom run 1, 10th slalom run 2, 12th giant slalom run 1, 11th giant slalom run 2, 12th super-G run 1, 14th super-G run 2; U.S. Paralympics Alpine Skiing National Championships, 7th super-G</li>\n    <li>2011: NorAm Kimberley, Canada, 9th super-G run 1, 8th super-G run 2, 6th downhill run 1, 10th downhill run 2</li>\n    <li>2010: Paralympic Winter Games, 32nd giant slalom</li>\n    <li>2008: The Hartford Ski Spectacular, 7th slalom; Named to U.S. Paralympics Alpine Skiing National Team</li>\n</ul>\n<p style=\"margin: 19pt 0in;\"><strong>Personal<br>\n</strong><br>\nIan Jansing got into skiing at a young age at Hidden Valley, a small hill near St. Louis, Mo. Though he was born with cerebral palsy, he never let his condition keep him off the slopes. After a visit to the National Sports Center for the Disabled in Colorado, he was sold on the idea of becoming a ski racer and made the move to Winter Park at the age of 16. Jansing made his first Paralympic debut at the Vancouver Games in 2010, where he competed in giant slalom.<br>\n<br>\nJansing says that if he wasn&rsquo;t an athlete, he would be an eighth grade history teacher. Off the snow, Jansing plays golf, bikes, fishes and camps. He enjoys spending time with friends and his two dogs, Aspen and Pines.<br>\n<br>\n<strong>Connect<br>\n</strong>Facebook: Facebook.com/iejansing?fref=ts</p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Sochi 2014, 28th (Slalom - Standing - Men)</li><li>Paralympic Games Vancouver 2010, 32th (Giant Slalom - Standing - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2009 –  (Giant Slalom - Standing - Men, Slalom - Standing - Men, Super-G - Standing - Men)</li><li>Years of participation: Giant Slalom - Standing - Men 2009; Slalom - Standing - Men 2009; Super-G - Standing - Men 2009</li><li>Top finish:  – 2009 (Giant Slalom - Standing - Men), 2009 (Slalom - Standing - Men), 2009 (Super-G - Standing - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719735/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ian%20Jansing%20865877/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719737/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ian%20Jansing%20865877/Ian_Jansing_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ian Jansing 865877"
+        }
+      ]
+    },
+    {
+      "first_name": "Rikki",
+      "last_name": "Jao",
+      "bio": {
+        "height": "4'11\"",
+        "birthday": "2000-12-24T00:00:00",
+        "hometown": {
+          "city": "Rancho Cucamonga",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1061,
+          "longitude": -117.5903
+        },
+        "education": "Rancho Cucamonga High School",
+        "fun_fact": null,
+        "biography": "<p><strong>Year Started Taekwondo: </strong>2009<br /><strong>Elementary: </strong>Windrows Elementary<br /><strong>Social Media Links:</strong><br /><strong>-Facebook:</strong>&nbsp;https://www.facebook.com/rgjao<br /></p><p><p></p></p><p>Favorite movie is <em>\"Fast and Furious 7\"</em>...favorite foods are watermelon, sushi, pork asado and filipino spaghetti...favorite bands/singers are BTS, Zion T, Twenty One Pilots, and Melanie Martinez...favorite taekwondo athlete is&nbsp;Elva Pai Adams...her proudest moment in taekwondo was making the 2014 USA National Poomsae Team and going to Aguascalientes, Mexico, to compete at the World Championships...another proud moment was winning first place in the female junior individual at the 2015 Poomsae Team Trials and making the National Team for the second time.</p><p><p></p></p><p><strong>MAJOR COMPETITION RECORD:</strong></p><p>2017 &nbsp;U.S. Open Taekwondo Championships (15-17 Junior Individual Poomsae) - Silver&nbsp;</p><p><strong>2016 &nbsp;USA Taekwondo National Poomsae Team Member (15-17 Individual)</strong><strong><br bold=\"[object Object]\"/></strong><strong>2016 &nbsp;</strong>World Poomsae Championships (Lima, Peru) - 15-17 Individual - BRONZE</p><p><strong>2015 &nbsp;USA Taekwondo National Poomsae Team Member (15-17 Individual)</strong><strong><br bold=\"[object Object]\"/></strong><strong>2015 &nbsp;USA Taekwondo National Poomsae Team Member (15-17 Team w/ Euressa Cosmiano &amp; Frances Santarina)</strong><strong><br bold=\"[object Object]\"/></strong><strong>2015 &nbsp;</strong>Pan Am Poomsae Championship (15-17 Female Individual) - GOLD<br /><strong>2015</strong>&nbsp; Pan Am Poomsae Championship (15-17 Female Team) - GOLD<br /><strong>2015</strong>&nbsp; Pan Am Open (15-17 Female Individual) - GOLD<br /><strong>2015</strong>&nbsp; National Poomsae Team Trial Junior Female Individual- 1st (National Team)<br /><strong>2015</strong>&nbsp; National Poomsae Team Trial Junior Female Team – 1st (National Team)<br /><strong>2015</strong>&nbsp; National Championship Female Team - SILVER<br /><strong>2015</strong>&nbsp; National Championship Individual- BRONZE<br /><strong>2015</strong>&nbsp; Nevada State Champion Junior Female Individual- GOLD<br /><strong>2015</strong>&nbsp; Nevada State Champion Junior Female Team- GOLD</p><p><p></p><br /><br /><strong>2014 &nbsp;USA Taekwondo National Poomsae Team Member (Cadet Pair)</strong><strong><br bold=\"[object Object]\"/></strong><strong>2014 &nbsp;USA Taekwondo National Poomsae Team Member (Cadet Team)</strong><br /><strong>2014 &nbsp;</strong>USAT National Championship Cadet Individual- BRONZE<br /><strong>2014 &nbsp;</strong>USAT National Championship Cadet Co-Ed Pair- GOLD<br /><strong>2014 &nbsp;</strong>USAT National Championship Cadet Female Team- GOLD<br /><strong>2014 &nbsp;</strong>US OPEN Cadet Pair- GOLD<br /><strong>2014 &nbsp;</strong>US OPEN Cadet Female Team- GOLD<strong>&nbsp;</strong></p><p><p></p><strong><br bold=\"[object Object]\"/></strong></p><p><strong>2013 &nbsp;</strong>USAT National Championship Cadet Individual- SILVER<br /><strong>2013 &nbsp;</strong>USAT National Championship Cadet Pair- GOLD<br /><strong>2013 &nbsp;</strong>US OPEN- Individual- Bronze<br /><strong>2013 &nbsp;</strong>US OPEN- Co-Ed Pair- Silver<strong>&nbsp;</strong></p><p><strong>2012 &nbsp;</strong>USAT National Championship Cadet Individual- SILVER<br /><strong>2012 &nbsp;</strong>US OPEN Individual- Silver</p><p><em>last updated2/21/17</em></p><h5>World Championship Experience</h5><ul><li>2016 World Poomsae Championship Lima, Peru - Bronze Medalist</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328904/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rikki%20Jao/rikki-profile-pic_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rikki Jao"
+        }
+      ]
+    },
+    {
+      "first_name": "Regina",
+      "last_name": "Jaquess",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1984-06-07T00:00:00",
+        "hometown": {
+          "city": "Santa Rosa Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 30.3799,
+          "longitude": -86.2205
+        },
+        "education": "Freeport Senior High School (Freeport, Fla.) ‘02 University of Louisiana, Monroe ’09, Pharmacy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jim and Karen Jaquess</li><li>Has one sister, Renee</li><li>Bilingual in English and Spanish</li><li>Began competing at age 5</li><li>Pharmacist, owner Emerald Coast Compounding Pharmacy.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Jumping - Women, Overall - Women, Slalom - Women, Tricks - Women)</li><li>Pan American Games, Lima, 2019 (Slalom - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2025 – gold (Team - Mixed), silver (Slalom - Women), 4th (Jumping - Women), 5th (Overall - Women), 20th (Tricks - Women)</li><li>Years of participation: Jumping - Women 2003, 2007, 2009, 2011, 2013, 2015, 2017, 2019, 2023, 2025; Overall - Women 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017, 2019, 2023, 2025; Slalom - Women 2005, 2007, 2009, 2011, 2013, 2015, 2017, 2019, 2021, 2023, 2025; Team - Mixed 2017, 2019, 2023, 2025; Tricks - Women 2001, 2013, 2015, 2017, 2019, 2023, 2025</li><li>Medals: 24 (13 gold, 7 silver, 4 bronze)</li><ul><li>Gold – 2025 (Team - Mixed);  2023 (Team - Mixed);  2017 (Overall - Women, Slalom - Women, Team - Mixed);  2015 (Overall - Women, Slalom - Women);  2013 (Overall - Women, Slalom - Women);  2005 (Overall - Women, Slalom - Women);  2003 (Overall - Women);  2001 (Tricks - Women)</li><li>Silver – 2025 (Slalom - Women);  2023 (Slalom - Women);  2021 (Slalom - Women);  2019 (Slalom - Women, Team - Mixed);  2017 (Jumping - Women);  2011 (Overall - Women)</li><li>Bronze – 2023 (Overall - Women);  2019 (Jumping - Women);  2011 (Slalom - Women);  2003 (Jumping - Women)</li></ul></ul><h5>More</h5>&nbsp;",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Waterski/Wakeboard",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011353/TeamUSA%20Assets/Athlete%20Profiles/Regina%20Jaquess%20911714/Water_Ski_Jaquess_Regina.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Regina Jaquess 911714"
+        }
+      ]
+    },
+    {
+      "first_name": "Sahvanna",
+      "last_name": "Jaquish",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1995-01-09T00:00:00",
+        "hometown": {
+          "city": "Highland",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1289,
+          "longitude": -117.2092
+        },
+        "education": "Redlands East Valley High School LSU - 2017",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Women)</li><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>Pan American Games, Toronto, 2015 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (Team - Women)</li><li>Years of participation: Team - Women 2014, 2016, 2018</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2018 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:</strong>&nbsp;NFCA First Team All-American...Second Team All-SEC...SEC All-Tournament Team...USA Softball Collegiate Player of the Year Finalist</p>\n<p><strong>2016:</strong>&nbsp;NFCA Third Team All-American...All-Baton Rouge Regional Team</p>\n<p><strong>2015:&nbsp;</strong>NFCA Second Team All-American...First Team All-SEC</p>\n<p><strong>2014:</strong>&nbsp;NFCA Second Team All-American...First Team All-SEC</p>\n<p><strong>Click here to view Sahvanna Jaquish's full collegiate bio</strong></p>\n<p><strong>PROFESSIONAL HIGHLIGHTS</strong></p>\n<p>- Drafted third overall in the 2017 NPF draft to the USSSA Pride</p>\n<p>- 2017 All-NPF Team</p>\n<p><strong>GET TO KNOW SAHVANNA JAQUISH</strong></p>\n<p><strong>Personal Motto:</strong> Leave it better than you found it</p>\n<p><strong>Three words to describe herself:</strong> Passionate, competitive and Christian</p>\n<p><strong>Dream job:</strong> food judge on the Food Network</p>\n<p><strong>If she could play any non-softball sport it would be</strong>: figure skating</p>\n<p><strong>What it means to play for USA Softball:</strong> \"It is truly a dream come true\"</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010826/TeamUSA%20Assets/Athlete%20Profiles/Sahvanna%20Jaquish%201106843/Jaquish.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010827/TeamUSA%20Assets/Athlete%20Profiles/Sahvanna%20Jaquish%201106843/SahvannaJaquish.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sahvanna Jaquish 1106843"
+        }
+      ]
+    },
+    {
+      "first_name": "Price",
+      "last_name": "Jarman",
+      "bio": {
+        "height": "6'9\"",
+        "birthday": "1992-11-21T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "Bonanza High School (2011) BYU (2018)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Dix and Kaleen Jarman</li><li>Father played golf at BYU</li><li>Has one sister, two brothers</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328901/TeamUSA%20Assets/Migration/Athlete%20Profiles/Price%20Jarman/2019-PriceJarman.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Price Jarman"
+        }
+      ]
+    }
+  ]
+}

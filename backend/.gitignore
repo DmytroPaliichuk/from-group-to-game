@@ -31,9 +31,6 @@ ENV/
 *.swo
 .DS_Store
 
-# Data files (large scraped datasets)
-data/
-
 # Claude Code
 .claude/
 

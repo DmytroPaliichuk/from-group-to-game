@@ -35,6 +35,7 @@ interface UsMapProps {
   selectedState?: string
   stateCities?: StateCityEntry[]
   onStateSelect?: (state: string) => void
+  onCityDotClick?: (city: City) => void
 }
 
 const STATE_FIPS: Record<string, number> = {
@@ -51,7 +52,7 @@ const FIPS_TO_STATE: Record<number, string> = Object.fromEntries(
   Object.entries(STATE_FIPS).map(([abbr, fips]) => [fips, abbr])
 )
 
-export default function UsMap({ cities, selectedState, stateCities, onStateSelect }: UsMapProps) {
+export default function UsMap({ cities, selectedState, stateCities, onStateSelect, onCityDotClick }: UsMapProps) {
   const svgRef = useRef<SVGSVGElement>(null)
   const [tooltip, setTooltip] = useState<{ x: number; y: number; city: string; state: string; athletes: AthleteData[] } | null>(null)
   const [activeCity, setActiveCity] = useState<string | null>(null)
@@ -149,6 +150,9 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
           })
           .on('mousemove', (event: MouseEvent, d: City) => {
             setTooltip({ x: event.clientX, y: event.clientY, city: d.city, state: d.state, athletes: d.athletes })
+          })
+          .on('click', (_event: MouseEvent, d: City) => {
+            onCityDotClick?.(d)
           })
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           .on('mouseleave', (_event: MouseEvent, d: City) => {

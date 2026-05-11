@@ -1,0 +1,1296 @@
+{
+  "entries": [
+    {
+      "first_name": "Calista",
+      "last_name": "Liu",
+      "bio": {
+        "height": "5'8",
+        "birthday": "2005-12-17T00:00:00",
+        "hometown": {
+          "city": "Fullerton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8704,
+          "longitude": -117.9243
+        },
+        "education": "Connections Academy CA",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She started artistic swimming when she was nine years old</li><li>She has a cat named Lulu who likes to be walked on a leash</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2023 Canada World Cup: 2nd (Technical Team), 5th (Technical Duet)</li>\r\n                            <li>2022-23 senior national team athlete</li>\r\n                            <li>2022 junior national team athlete</li>\r\n                            <li>2022 U.S. Junior National Championships: 1st (Free Duet), 2nd (Tech Duet)</li>\r\n                            <li>2021 U.S. Junior National Championships: 4th (Tech Solo), 5th (Free Solo)</li>\r\n                            <li>2019 U.S. Junior National Championships: 3rd (Combo)</li>\r\n                            <li>2018 U.S. Junior National Championships: 3rd (Team)</li>\r\n                            <li>2017 U.S. Junior Olympic Championship: 1st (Team), 3rd (Duet)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA Junior World Championships: 6th (Tech Team), 7th (Tech Duet)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367697/TeamUSA%20Assets/Migration/Athlete%20Profiles/Calista%20Liu/Liu.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Calista Liu"
+        }
+      ]
+    },
+    {
+      "first_name": "Nastia",
+      "last_name": "Liukin",
+      "bio": {
+        "height": "4'11\"",
+        "birthday": "1989-10-30T00:00:00",
+        "hometown": {
+          "city": "Parker",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 33.0276,
+          "longitude": -96.5703
+        },
+        "education": "Spring Creek Academy New York University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Valeri and Anna Luikin</li><li>Coached by her father, Valeri, who won two Olympic gold medals for the Soviet Union in 1988</li><li>Her mother, Anna, was the 1987 rhythmic gymnastics world champion</li><li>Named the 2005 USA Gymnastics&#39; Women&#39;s Athlete of the Year, 2008 United States Sports Academy Female Athlete of the Year, 2008 USA Gymnastics&#39; Sportswoman of the Year and 2008 Women&#39;s Sports Foundation&#39;s individual Sportswoman of the Year</li><li>At the time of her induction to the USOPC Hall of Fame, she served as a member of the USOPC’s Athletes&#39; Advisory Council</li><li>Dedicated to serving and empowering the next generation of women to pursue their dreams and inspire others through her startup app, Grander</li><li>Created the Nastia Liukin Cup.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 5-time Olympic medalist (1 gold, 3 silver, 1 bronze)</li><ul><li>Olympic Games Beijing 2008, gold (Individual All-Around - Women), silver (Beam - Women, Team - Women, Uneven Bars - Women), bronze (Floor Exercise - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2007 – gold (Beam - Women, Team - Women), silver (Uneven Bars - Women), 5th (Individual All-Around - Women), 13th (Floor Exercise - Women)</li><li>Years of participation: Beam - Women 2005, 2007; Floor Exercise - Women 2005, 2007; Individual All-Around - Women 2005, 2006, 2007; Team - Women 2006, 2007; Uneven Bars - Women 2005, 2006, 2007; Vault - Women 2005</li><li>Medals: 9 (4 gold, 5 silver)</li><ul><li>Gold – 2007 (Beam - Women, Team - Women);  2005 (Beam - Women, Uneven Bars - Women)</li><li>Silver – 2007 (Uneven Bars - Women);  2006 (Team - Women, Uneven Bars - Women);  2005 (Floor Exercise - Women, Individual All-Around - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240439/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Nastia%20Liukin/Liuking_coverphoto.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Artistic Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240440/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Nastia%20Liukin/Liukin_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nastia Liukin"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2019"
+        },
+        {
+          "title": "Olympian"
+        }
+      ]
+    },
+    {
+      "first_name": "Carli",
+      "last_name": "Lloyd",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1982-07-16T00:00:00",
+        "hometown": {
+          "city": "Delran",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.0165,
+          "longitude": -74.981
+        },
+        "education": "Delran High School (Delran, N.J.) ‘01 Rutgers State University ‘05, Exercise Science and Sport Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Stephen and Pamela Lloyd</li><li>Has two siblings, Ashley and Stephen</li><li>In 2016 married her high school sweetheart, golf pro Brian Hollins</li><li>In her spare time, enjoys getting manicures and pedicures, and shopping</li><li>Released her memoir “When Nobody Was Watching: My Hard-Fought Journey to the Top of the Soccer World” in 2016</li><li>Selected as the 2015 FIFA Women’s World Player of the Year, becoming only the third American to be honored with the award</li><li>Named the Women’s Sports Foundation Athlete of the Year and March of Dimes Foundation Woman of the Year in 2015</li><li>Supports the Stand Up to Cancer organization</li><li>Scored the game-winning goal in the gold-medal match against Brazil at the Beijing Games, and twice in Team USA’s 2-1 victory over Japan in the gold-medal game of the London Games</li><li>At age 39, will become the U.S.’ oldest women’s soccer Olympian ever.</li></ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 3-time Olympic medalist (2 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li><li>Olympic Games London 2012, gold (Team - Women)</li><li>Olympic Games Beijing 2008, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2007, 2011, 2015, 2019</li><li>Medals: 4 (2 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2019 (Team - Women);  2015 (Team - Women)</li><li>Silver – 2011 (Team - Women)</li><li>Bronze – 2007 (Team - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nU.S. Soccer<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012988/TeamUSA%20Assets/Athlete%20Profiles/Carli%20Lloyd%20908829/Lloyd_Carli_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Carli Lloyd 908829"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Lochte",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1984-08-03T00:00:00",
+        "hometown": {
+          "city": "Daytona Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 29.2108,
+          "longitude": -81.0275
+        },
+        "education": "Spruce Creek High School (Port Orange, Fla.) '02 University of Florida ‘06, Sports Management ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Steve Lochte and Ileana Arabura</li><li>Has two older sisters, Kristin and Megan, and two younger brothers, Devon and Brandon</li><li>Began swimming under the tutelage of his parents in Rochester, New York</li><li>Consumes approximately 7,000 calories per day during peak training</li><li>Involved with the Parent Project Muscular Dystrophy and serves as a spokesperson for the Mac Crutchfield Foundation</li><li>Interests include fashion, playing basketball, skateboarding and surfing.</li></ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 12-time Olympic medalist (6 gold, 3 silver, 3 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 200m Freestyle Relay - Men), 5th (200m Individual Medley - Men)</li><li>Olympic Games London 2012, gold (4 x 200m Freestyle Relay - Men, 400m Individual Medley - Men), silver (200m Individual Medley - Men, 4 x 100m Freestyle Relay - Men), bronze (200m Backstroke - Men), 4th (200m Freestyle - Men)</li><li>Olympic Games Beijing 2008, gold (200m Backstroke - Men, 4 x 200m Freestyle Relay - Men), bronze (200m Individual Medley - Men, 400m Individual Medley - Men)</li><li>Olympic Games Athens 2004, gold (4 x 200m Freestyle Relay - Men), silver (200m Individual Medley - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (200m Individual Medley - Men, 4 x 100m Freestyle Relay - Mixed, 4 x 100m Medley Relay - Men), silver (4 x 200m Freestyle Relay - Men), 4th (200m Freestyle - Men)</li><li>Years of participation: 200m Freestyle - Men 2011, 2013, 2015; 200m Individual Medley - Men 2005, 2007, 2009, 2011, 2013, 2015; 4 x 100m Freestyle Relay - Mixed 2015; 4 x 100m Medley Relay - Men 2007, 2013, 2015; 4 x 200m Freestyle Relay - Men 2005, 2007, 2009, 2011, 2013, 2015; 100m Butterfly (SC) - Men 2006, 2012, 2014; 100m Individual Medley (SC) - Men 2004, 2008, 2010, 2012, 2014; 200m Backstroke (SC) - Men 2006, 2008, 2010, 2012, 2014; 200m Freestyle (SC) - Men 2004, 2006, 2010, 2012, 2014; 200m Individual Medley (SC) - Men 2004, 2006, 2008, 2010, 2012, 2014; 4 x 100m Freestyle Relay (SC) - Men 2006, 2008, 2010, 2012, 2014; 4 x 100m Medley Relay (SC) - Men 2006, 2008, 2010, 2012, 2014; 4 x 200m Freestyle Relay (SC) - Men 2004, 2006, 2008, 2010, 2012, 2014; 4 x 50m Freestyle Relay (SC) - Men 2014; 100m Butterfly - Men 2013; 200m Backstroke - Men 2005, 2007, 2009, 2011, 2013; 4 x 100m Freestyle Relay - Men 2009, 2011, 2013; 50m Butterfly (SC) - Men 2012; 400m Individual Medley - Men 2005, 2007, 2009, 2011; 400m Individual Medley (SC) - Men 2006, 2008, 2010; 100m Breaststroke (SC) - Men 2008; 50m Breaststroke (SC) - Men 2008; 50m Freestyle (SC) - Men 2008; 100m Backstroke - Men 2007; 50m Backstroke - Men 2007</li><li>Medals: 65 (39 gold, 15 silver, 11 bronze)</li><ul><li>Gold – 2015 (200m Individual Medley - Men, 4 x 100m Freestyle Relay - Mixed, 4 x 100m Medley Relay - Men);  2014 (4 x 200m Freestyle Relay (SC) - Men);  2013 (200m Backstroke - Men, 200m Individual Medley - Men, 4 x 200m Freestyle Relay - Men);  2012 (100m Individual Medley (SC) - Men, 200m Freestyle (SC) - Men, 200m Individual Medley (SC) - Men, 4 x 100m Freestyle Relay (SC) - Men, 4 x 100m Medley Relay (SC) - Men, 4 x 200m Freestyle Relay (SC) - Men);  2011 (200m Backstroke - Men, 200m Freestyle - Men, 200m Individual Medley - Men, 4 x 200m Freestyle Relay - Men, 400m Individual Medley - Men);  2010 (100m Individual Medley (SC) - Men, 200m Backstroke (SC) - Men, 200m Freestyle (SC) - Men, 200m Individual Medley (SC) - Men, 4 x 100m Medley Relay (SC) - Men, 400m Individual Medley (SC) - Men);  2009 (200m Individual Medley - Men, 4 x 100m Freestyle Relay - Men, 4 x 200m Freestyle Relay - Men, 400m Individual Medley - Men);  2008 (100m Individual Medley (SC) - Men, 200m Individual Medley (SC) - Men, 4 x 100m Freestyle Relay (SC) - Men, 400m Individual Medley (SC) - Men);  2007 (200m Backstroke - Men, 4 x 200m Freestyle Relay - Men);  2006 (200m Backstroke (SC) - Men, 200m Individual Medley (SC) - Men, 400m Individual Medley (SC) - Men);  2005 (4 x 200m Freestyle Relay - Men);  2004 (4 x 200m Freestyle Relay (SC) - Men)</li><li>Silver – 2015 (4 x 200m Freestyle Relay - Men);  2014 (200m Backstroke (SC) - Men, 200m Individual Medley (SC) - Men, 4 x 100m Medley Relay (SC) - Men, 4 x 50m Freestyle Relay (SC) - Men);  2013 (4 x 100m Freestyle Relay - Men);  2012 (200m Backstroke (SC) - Men);  2010 (4 x 200m Freestyle Relay (SC) - Men);  2008 (200m Backstroke (SC) - Men, 4 x 100m Medley Relay (SC) - Men);  2007 (100m Backstroke - Men, 200m Individual Medley - Men, 400m Individual Medley - Men);  2006 (4 x 100m Medley Relay (SC) - Men);  2004 (200m Individual Medley (SC) - Men)</li><li>Bronze – 2014 (100m Individual Medley (SC) - Men, 200m Freestyle (SC) - Men, 4 x 100m Freestyle Relay (SC) - Men);  2012 (100m Butterfly (SC) - Men);  2011 (4 x 100m Freestyle Relay - Men);  2009 (200m Backstroke - Men);  2006 (4 x 100m Freestyle Relay (SC) - Men, 4 x 200m Freestyle Relay (SC) - Men);  2005 (200m Backstroke - Men, 200m Individual Medley - Men);  2004 (200m Freestyle (SC) - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004243/TeamUSA%20Assets/Athlete%20Profiles/Ryan%20Lochte%20879683/lochte_ryan_081016_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 6,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004244/TeamUSA%20Assets/Athlete%20Profiles/Ryan%20Lochte%20879683/Lochte_Ryan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Lochte 879683"
+        }
+      ]
+    },
+    {
+      "first_name": "Shavon",
+      "last_name": "Lockhardt",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1990-02-27T00:00:00",
+        "hometown": {
+          "city": "White Plains",
+          "state": "NY",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "New York Institute for Special Education (Bronx, N.Y.) ‘09 Kingsborough Community College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Robert and Roselyn</li><li>Has four siblings, Evone, Jasmine, Malik and Tyreq</li><li>Was born with Lebers congenital amaurosis</li><li>Was introduced to goalball by a friend who was putting together a women’s team</li><li>Hobbies include writing poetry, rapping, playing basketball, listening to music, and spending time in nature.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 IBSA Goalball and Judo International Qualifier – 2nd</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327459/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shavon%20Lockhardt/Lockhardt_Shavon_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shavon Lockhardt"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Lockman",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1988-08-11T00:00:00",
+        "hometown": {
+          "city": "Murrieta, Calif. ",
+          "state": "FL",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Home-schooled ’06  ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has been riding since before she could walk</li><li>Competed at her first CCI3* when she was just 15 years old.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Individual - Open, Team - Open)</li></ul><h5>More</h5><a href=\"https://www.usef.org/events/pan-american-games/teams/18/sarah_lockman\">US Equestrian<br>\n</a>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697524/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Lockman%201145262/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697525/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Lockman%201145262/Lockman_Sarah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Lockman 1145262"
+        }
+      ]
+    },
+    {
+      "first_name": "Esther",
+      "last_name": "Lofgren",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1985-02-28T00:00:00",
+        "hometown": {
+          "city": "Newport Beach ",
+          "state": "CA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": " Harvard University '09, Economics",
+        "fun_fact": null,
+        "biography": "<div><strong></strong></div>\n\n<div><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, gold (Eight - Women)</li></ul></ul><h5>Career Highlights</h5><ul>\n    <li>2012 World Cup II, 1st (eight, world record)</li>\n    <li>2011 World Rowing Championships, gold (eight)</li>\n    <li>2011 Lucerne World Cup, 4th (quadruple sculls)</li>\n    <li>2011 Henley Royal Regatta, 1st (Remenham Challenge Cup)</li>\n    <li>2011 Essen Regatta, 1st (quadruple sculls)</li>\n    <li>2010 World Rowing Championships, gold (eight)</li>\n    <li>2009 World Rowing Championships, silver (eight)</li>\n    <li>2009 Head of the Charles, 2nd (eight)</li>\n    <li>2009 US Rowing National Championships, 1st (eight)</li>\n    <li>Two-time NCAA All-American (2007, 2009)</li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Esther enjoys running, reading, cycling, blogging, and baking<br>\n</p>\n<p><strong>Learn more:<br>\n</strong>US Rowing&nbsp;</p>\n<p><br>\n</p>\n<p><br>\n</p>\n<br class=\"Apple-interchange-newline\">\n</div>\n<div>\n<div class=\"NoSpacing\"><br>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 5th (Quadruple Sculls - Women)</li><li>Years of participation: Quadruple Sculls - Women 2013; Eight - Women 2010, 2011; Four - Women 2006, 2008, 2009</li><li>Medals: 5 (2 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2011 (Eight - Women);  2010 (Eight - Women)</li><li>Silver – 2009 (Four - Women);  2008 (Four - Women)</li><li>Bronze – 2006 (Four - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004229/TeamUSA%20Assets/Athlete%20Profiles/Esther%20Lofgren%20862233/Lofgren_E_Rowing120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Esther Lofgren 862233"
+        }
+      ]
+    },
+    {
+      "first_name": "Devin",
+      "last_name": "Logan",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1993-02-17T00:00:00",
+        "hometown": {
+          "city": "West Dover",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 42.9083,
+          "longitude": -72.8083
+        },
+        "education": "Mount Snow Academy (West Dover, Vt.) '12 Westminster College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jerry and Nancy Logan</li><li>Is the youngest of five children</li><li>Two of her older brothers were also professional skiers</li><li>Began skiing at age 2</li><li>Initially wanted to complete in alpine skiing</li><li>Is a self-proclaimed “foodie” and was featured in Good Cents Cooking magazine</li><li>Became an AFP and FIS certified judge to develop a better understanding of her sport while taking a portion of the 2012-13 season off due to injury</li><li>Helps build homes for families as part of Hope Sports, which creates opportunities for athletes to give back to communities in need.</li><li>Hobbies include camping, hiking and hanging with friends and family.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Beijing 2022, 13th (Halfpipe - Women)</li><li>Olympic Games Pyeongchang 2018, 10th (Slopestyle - Women), 15th (Halfpipe - Women)</li><li>Olympic Games Sochi 2014, silver (Slopestyle - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – 6th (Halfpipe - Women)</li><li>Years of participation: Halfpipe - Women 2011, 2017, 2021; Slopestyle - Women 2011, 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Halfpipe - Women)</li></ul></ul><h5>More</h5>U.S. Ski and Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004864/TeamUSA%20Assets/Athlete%20Profiles/Devin%20Logan%20908852/logan_devin_082315_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004867/TeamUSA%20Assets/Athlete%20Profiles/Devin%20Logan%20908852/logan_devin_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Devin Logan 908852"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        }
+      ]
+    },
+    {
+      "first_name": "Elle",
+      "last_name": "Logan",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1987-12-27T00:00:00",
+        "hometown": {
+          "city": "Boothbay Harbor",
+          "state": "ME",
+          "country": "United States",
+          "latitude": 43.8509,
+          "longitude": -69.6267
+        },
+        "education": "Brooks School (North Andover, Mass.) ‘06 Stanford University ‘11, History",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of William Logan and Jennifer Kierstead</li><li>Has one sister, Jessamine</li><li>Chose to pursue rowing after watching a friend compete at the Head of the Charles Regatta and hopes to compete in the event when she is 90 years old</li><li>While training, always wears the gold bangles she was given on her high school exchange trip to Uganda</li><li>Enjoys watching “Pride and Prejudice” with her sister and visiting the farmers market.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Eight - Women)</li><li>Olympic Games London 2012, gold (Eight - Women)</li><li>Olympic Games Beijing 2008, gold (Eight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – bronze (Pair - Women)</li><li>Years of participation: Pair - Women 2015; Eight - Women 2010, 2011, 2014; Single Sculls - Women 2013; Four - Women 2009</li><li>Medals: 5 (3 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2014 (Eight - Women);  2011 (Eight - Women);  2010 (Eight - Women)</li><li>Silver – 2009 (Four - Women)</li><li>Bronze – 2015 (Pair - Women)</li></ul></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327408/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elle%20Logan/Logan_Elle_062113_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327409/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elle%20Logan/Logan_Elle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elle Logan"
+        }
+      ]
+    },
+    {
+      "first_name": "Zachary",
+      "last_name": "Lokken",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-03-25T00:00:00",
+        "hometown": {
+          "city": "Durango",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 37.2753,
+          "longitude": -107.8801
+        },
+        "education": "Central Piedmont Community College '20, Associate of Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Eric and Angela Lokken</li><li>Has two brothers, Joshua and William</li><li>Nickname is “Bug”</li><li>Hobbies include skiing and longboarding</li><li>Has been kayaking since he was 5, but began canoe slalom when he was 8</li><li>Received his associates degree in 2020</li><li>Has been on the senior national team ever since 2012.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 U.S. Team Trials: 1st in C1</li>\r\n                            <li>2019 U.S. Team Trials: 1st in C1</li>\r\n                            <li>2021 World Cup (Prague, Czech Republic): 8th C1</li>\r\n                            <li>2020 World Cup (Pau, France): 7th C1</li>\r\n                            <li>2018 Pan American Games: GOLD in C1</li>\r\n                            <li>2015 U.S. National Team Trials: 3rd in C1 and 3rd in C2 with Michal Smolen</li>\r\n                            <li>2015 U.S. Open: 2nd in C1 and 2nd in C2 with Michal Smolen</li>\r\n                            <li>2014 ICF World Championships: 21st in C1</li>\r\n                            <li>2014 World Cup Final:&#160;GOLD&#160;in Team C1 with&#160;Casey Eichfeld&#160;and&#160;Fabien Lefevre</li>\r\n                            <li>2013 Under-23 World Championships: 9th in C1</li>\r\n                            <li>2013 Pan American Championships: GOLD in C1</li>\r\n                            <li>2012 U.S. National Championships: 2nd in C1</li>\r\n                            <li>GOLD at 2011 Vadja Teen Cup No. 2 (Liptovsk&#253; Mikul&#225;š, Slovakia) in U18  Men&#39;s C-1, GOLD at Teen Cup No. 3 (Solkan, Slovenia), SILVER at Teen Cup  No. 4 (Tacen, Slovenia)</li>\r\n                            <li>2014 ICF World Championships: 21st in C1</li>\r\n                            <li>2014 World Cup Final:&#160;GOLD&#160;in Team C1 with&#160;Casey Eichfeld&#160;and&#160;Fabien Lefevre</li>\r\n                            <li>2013 Under-23 World Championships: 9th in C1</li>\r\n                            <li>2013 Pan American Championships: GOLD in C1</li>\r\n                            <li>2012 U.S. National Championships: 2nd in C1</li>\r\n                            <li>GOLD at 2011 Vadja Teen Cup No. 2 (Liptovsk&#253; Mikul&#225;š, Slovakia) in U18  Men&#39;s C-1, GOLD at Teen Cup No. 3 (Solkan, Slovenia), SILVER at Teen Cup  No. 4 (Tacen, Slovenia)</li>\r\n                            <li>No. 3 (Solkan, Slovenia), silver at Teen Cup No. 4 (Tacen, Slovenia)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 7th (C1 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 16th (C1 Team - Men), 27th (C1 - Men)</li><li>Years of participation: C1 - Men 2009, 2017, 2023; C1 Team - Men 2009, 2017, 2023; K1 Team - Men 2017</li><li>Top finish: 11th – 2009 (C1 Team - Men)</li></ul><h5>More</h5>American Canoe Association Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662079/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lokken_z_bio_910727.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662390/TeamUSA%20Assets/Athlete%20Profiles/Zachary%20Lokken%20910727/lokken_z_hero_910727.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004096/TeamUSA%20Assets/Athlete%20Profiles/Zachary%20Lokken%20910727/lokken_zachary.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zachary Lokken 910727"
+        }
+      ]
+    },
+    {
+      "first_name": "Zoe",
+      "last_name": "Lombard",
+      "bio": {
+        "height": "5'9",
+        "birthday": "1992-04-09T00:00:00",
+        "hometown": {
+          "city": "Belleair Bluffs",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9139,
+          "longitude": -82.8098
+        },
+        "education": " Boston College ('14)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began playing handball in August 2014 after graduating from&#160;Boston College</li><li>Growing up, played multiple sports; however, ended&#160;up focusing on soccer and track</li><li>Began her collegiate soccer career at Boston College in 2010 playing center&#160;back, helping the team reach four consecutive NCAA appearances</li><li>Drove to Auburn, Alabama in&#160;the summer of 2014 for the USA Team Handball tryout&#160;where she was asked to join the residency program</li><li>After competing with Team USA in 2014-2015 in hopes of qualifying for&#160;Rio, she traveled to Quint Fonsegrives outside of Toulouse, France to&#160;continue developing as a handball player</li><li>Upon returning to the&#160;States, she completed her masters degree at the University of South&#160;Florida and is a current medical student at the Edward Via&#160;College of Osteopathic Medicine-Carolinas Campus.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012136/TeamUSA%20Assets/Athlete%20Profiles/Zoe%20Lombard%20912580/WNT_Lombard_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zoe Lombard 912580"
+        }
+      ]
+    },
+    {
+      "first_name": "Wil",
+      "last_name": "London III",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1997-08-17T00:00:00",
+        "hometown": {
+          "city": "Waco",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 31.5493,
+          "longitude": -97.1467
+        },
+        "education": "Waco High School (Waco, Texas) ‘15 Baylor University (Waco, Texas) ‘19, Health Kinesiology and Leisure Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Wilbert II and Jacquelyn London</li><li>Seven-time NCAA Big 12 indoor and outdoor champion at Baylor University</li><li>School record holder in 400-meter at Baylor University</li><li>Hobbies include fishing and hunting.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (4x400, 4x400-meter mixed relay)</li><li>Years of Participation: Outdoor – 2017, 2019</li><li>Medals: 3 (2 golds, 1 silver)</li><li>Gold – 2019 (4x400-meter relay, 4x400-meter mixed relay)</li><li>Silver – 2017 (4x400-meter relay)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330063/TeamUSA%20Assets/Migration/Athlete%20Profiles/Wil%20London%20III/London_W.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Wil London III"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Long",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1989-10-06T00:00:00",
+        "hometown": {
+          "city": "Lakeside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.8584,
+          "longitude": -116.92
+        },
+        "education": "El Capitan High School (Lakeside, Calif.) '07 Grossmont - Cuyamaca Community College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Donovan Long and Melissa DeGrand</li><li>Has two sisters, Shelbi and Kristen</li><li>Father, Donovan, also races BMX and inspired him to take up the sport</li><li>Interests include traveling and tattoos</li><li>Organizes Homeless Handouts in San Diego, providing food and blankets among other items to people in need.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, bronze</li>\r\n                            <li>2011 Pan American Games, silver</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 4th (Individual - Men)</li><li>Olympic Games London 2012, 17th (Individual - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 55th (Individual - Men)</li><li>Years of participation: Individual - Men 2007, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019; Time trial - Men 2011, 2012, 2013, 2014, 2016</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2016 (Individual - Men)</li></ul></ul><h5>More</h5>USA Cycling",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697487/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nicholas%20Long%20872711/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697488/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nicholas%20Long%20872711/long_nic_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicholas Long 872711"
+        }
+      ]
+    },
+    {
+      "first_name": "Allie",
+      "last_name": "Long",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1987-08-12T00:00:00",
+        "hometown": {
+          "city": "Northport",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.8934,
+          "longitude": -73.3512
+        },
+        "education": "Northport High School (Northport, N.Y.) ‘05 University of North Carolina ‘08, Exercise and Sports Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of James and Barbara Long</li><li>Has one younger brother, Patrick</li><li>Selected as the seventh overall pick in the 2009 WPS Draft by the Washington Freedom</li><li>Began her collegiate soccer career in 2005 at Penn State University before transferring to the University of North Carolina, where she led the Tar Heels to the 2008 NCAA Championship title</li><li>Enjoys going to the beach.</li></ul><h5>Olympic Experience </h5><ul><li>Olympian (2016)</li><li>Rio 2016 Olympic Games, 5th</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold</li><li>Years of Participation: 2015</li><li>Medals: 1 (gold)</li></ul><h5>More</h5>U.S. Soccer",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697511/TeamUSA%20Assets/Migration/Athlete%20Profiles/Allie%20Long%201024297/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697512/TeamUSA%20Assets/Migration/Athlete%20Profiles/Allie%20Long%201024297/Long_Allie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allie Long 1024297"
+        }
+      ]
+    },
+    {
+      "first_name": "Shawn",
+      "last_name": "Long",
+      "bio": {
+        "height": "6'11\"",
+        "birthday": "1993-01-29T00:00:00",
+        "hometown": {
+          "city": "Morgan City",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 29.6966,
+          "longitude": -91.2065
+        },
+        "education": "University of Louisiana-Lafayette",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td style=\"text-align: justify;\"><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<strong>\n\n</strong><strong> Current Team</strong>: University of Louisiana-Lafayette<br>\n<strong> Position</strong>: Forward<br>\n<strong> Height</strong>: 6-11<br>\n<strong> Weight</strong>: 246<br>\n<strong> Birthplace</strong>: Morgan City, La. <br>\n<strong> High School</strong>: Morgan City High School (Morgan City, La.) &lsquo;11<br>\n<strong> College</strong>: University of Louisiana-Lafayette &rsquo;16, General Studies\n<div><br>\n<div>\n<p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Carolyn Long</li><li>Played basketball at Mississippi State before transferring to University of Louisana-Lafayette</li><li>Was named first-team All-District in 8-4A and was district MVP and Defensive MVP in 2011.</li></ul><br>\n\n</p><p><h5>More</h5>USA Basketball\n</p></div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327463/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shawn%20%20Long/Basketball_Men_Long_Shawn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shawn Long"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Amanda",
+      "last_name": "Longan",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-01-16T00:00:00",
+        "hometown": {
+          "city": "Moorpark",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2833,
+          "longitude": -118.7667
+        },
+        "education": "University of Southern California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Jon and Kim</li><li>Two sisters, Andi and Shelby</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, 4th (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2017, 2019, 2022, 2023</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2022 (Team - Women);  2019 (Team - Women);  2017 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717371325/Longan_Amanda_24Headshot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662719/TeamUSA%20Assets/Athlete%20Profiles/Amanda%20Longan%201078714/Longan_a_hero_1078714.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012807/TeamUSA%20Assets/Athlete%20Profiles/Amanda%20Longan%201078714/Longan_Amanda_150x250_tokyo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Amanda Longan 1078714"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Water Polo"
+        }
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Loomis",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1998-06-09T00:00:00",
+        "hometown": {
+          "city": "Eau Claire",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 44.8113,
+          "longitude": -91.4985
+        },
+        "education": "DeVry University, Electronics and Engineering",
+        "fun_fact": "Hobbies include biking, water skiing, fishing, alpine skiing and hiking",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Specialty:</strong> Men's Nordic Combined</li><li>Son of Paul and Karyl Loomis</li><li>Has one sister, Sam, and one brother, Adam, who is also a member of Team USA</li><li>Moved to Park City, Utah, at age 15 to find a more adaptive school and higher quality training</li><li>Named the 2016 USSA Nordic Combined Athlete of the Year</li><li>Hobbies include biking, water skiing, fishing, alpine skiing and hiking</li></ul><h5><span style='font-size: 11pt;'>Biographical Information</span></h5><p><span style='font-size: 11pt;'>Ben Loomis grew up ski jumping at the Flying Eagles Ski Club, following his older brother Adam into the sport at age 5. Nordic combined captured his attention early, and he dedicated himself to mastering both technical precision on the ski jump and the endurance demands of cross-country racing.</span></p><p><span style='font-size: 11pt;'>At age 15, Loomis made the pivotal decision to move to Park City, Utah, to attend the Winter Sports School, where he could access higher-quality training while balancing his academics. His commitment paid off quickly as he rose through the junior ranks, earning six U.S. Junior National titles and competing at five Junior World Championships between 2014 and 2018. During the 2018 FIS Nordic Junior World Championships, he captured bronze in the 10-kilometer individual Gundersen event and placed fourth in the 5-kilometer event, solidifying his status as one of America's top young Nordic combined athletes. In 2016, he won silver at the Youth Olympic Winter Games Lillehammer 2016 in Nordic combined—the first U.S. medal in the sport at a Youth Games—and was named the USSA Nordic Combined Athlete of the Year.</span></p><p><span style='font-size: 11pt;'>Loomis made his Olympic debut at age 19 at the Olympic Winter Games Pyeongchang 2018, competing in all three events and gaining invaluable experience on the world's biggest stage. He showed marked improvement by Olympic Winter Games Beijing 2022, climbing 26 spots in the normal hill event (finishing 15th), advancing 21 places in the large hill event (19th), and helping Team USA place sixth in the team competition. Between Olympic cycles, Loomis has been a consistent presence on the world cup and world championship circuits, posting his best world cup result—a 12th-place finish at Val di Fiemme during the 2021-22 season—which marked the top world cup finish by a U.S. Nordic combined athlete since 2018. At the 2025 FIS Nordic World Championships, he contributed to strong team performances and walked away from the 2025 U.S. Nordic Combined Summer National Championships with gold and silver medals.</span></p><p><span style='font-size: 11pt;'>In 2019, Loomis joined the U.S. Army World Class Athlete Program, which supports elite athletes by allowing them to train and compete full time while building military careers. This partnership has enabled him to maintain his focus on international competition while serving his country in a different capacity. Outside of competition, he enjoys biking, water skiing, fishing, alpine skiing and hiking.</span></p><p><span style='font-size: 11pt;'>Loomis earned his third Olympic nomination for the Olympic Winter Games Milano Cortina 2026, joining teammate Niklas Malacinski for a two-man U.S. Nordic Combined Team.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Milan 2026, 7th (Team Sprint Large Hill / 2 x 7.5km - Men), 17th (Gundersen Normal Hill / 10km - Men), 27th (Gundersen Large Hill / 10km - Men)</li><li>Olympic Games Beijing 2022, 6th (Team Large Hill / 4 x 5km - Men), 15th (Gundersen Normal Hill / 10km - Men), 19th (Gundersen Large Hill / 10km - Men)</li><li>Olympic Games Pyeongchang 2018, 10th (Team Large Hill / 4 x 5km - Men), 40th (Gundersen Large Hill / 10km - Men), 41th (Gundersen Normal Hill / 10km - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 8th (Team Large Hill / 4 x 5km - Men), 9th (Team Normal Hill / 2 x 2.5km + 2 x 5km - Mixed), 21th (Compact Normal Hill / 7.5km - Men), 23th (Gundersen Large Hill / 10km - Men)</li><li>Years of participation: Compact Normal Hill / 7.5km - Men 2025; Gundersen Large Hill / 10km - Men 2019, 2021, 2023, 2025; Team Large Hill / 4 x 5km - Men 2023, 2025; Team Normal Hill / 2 x 2.5km + 2 x 5km - Mixed 2023, 2025; Gundersen Normal Hill / 10km - Men 2019, 2021, 2023; Team Normal Hill / 4 x 5km - Men 2017, 2019, 2021; Team Sprint Large Hill / 2 x 7.5km - Men 2019, 2021</li><li>Top finish: 7th – 2023 (Team Normal Hill / 2 x 2.5km + 2 x 5km - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697146720/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Loomis/loomis_b_bio_853182.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Nordic Combined",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697146869/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Loomis/loomis_b_hero_853182.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697146720/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Loomis/loomis_b_bio_853182.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923978/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Loomis/Loomis_Ben_Headshot_2022_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Loomis"
+        },
+        {
+          "title": "Nordic Combined"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Mariah",
+      "last_name": "Lopez",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1998-01-08T00:00:00",
+        "hometown": {
+          "city": "Saugus",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4,
+          "longitude": -118.5
+        },
+        "education": "Saugus High School University of Oklahoma",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite sport besides softball is college football</li><li>Favorite activity/activities include reading, shopping and Netflix</li><li>Favorite color is pink or turquoise</li><li>Favorite meal/snack is Cuban Food</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championship, Clearwater, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2017 WBSC Junior Women's World Championship Gold Medalist; Went 2-0 with a 0.00 ERA with 16 strikeouts</li></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:</strong>&nbsp;Top 25 Finalist for NFCA Freshman of the Year...All-Big 12 Freshman Team</p>\n<p><strong>Click here to view Mariah Lopez's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327374/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mariah%20%20Lopez%201086123/LopezMariah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mariah Lopez 1086123"
+        }
+      ]
+    },
+    {
+      "first_name": "Hannah",
+      "last_name": "Lopez",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-03-31T00:00:00",
+        "hometown": {
+          "city": "Carlsbad",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.1581,
+          "longitude": -117.3506
+        },
+        "education": "DeVry College of New York ",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" style=\"float: right;width: 50;height: 50;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><br /></td></tr></tbody></table><div><p><strong ><br bold=\"[object Object]\"/></strong></p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Carla Conner and Timothy Lopez</li><li>Hobbies include traveling, meeting new people, drawing and painting, decorating her home, going to the beach and hiking.</li></ul><br />Education:&nbsp;<p>Bend High School</p><p>DeVry College of New York ’17, Communications</p><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USA Rugby</p><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327444/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hannah%20Lopez/Rugby_Women_Lopez_Hannah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hannah Lopez"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Sebastiana",
+      "last_name": "Lopez-Arellano",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1990-06-13T00:00:00",
+        "hometown": {
+          "city": "New Braunfels",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7033,
+          "longitude": -98.1247
+        },
+        "education": "Pacific High School (San Bernardino, Calif.) ‘08 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>In 2005, U.S. Air Force staff sergeant Sebastiana Lopez-Arrellano was riding her motorcycle in Charleston, South Carolina when an animal ran across the road, causing her to swerve into a curb and crash. The impact severed her right leg and ultimately was amputated above the knee. She also had severe hand function trauma in both hands. She went to Walter Reed National Military Medical Center in Bethesda, Maryland and was in a coma for about a month. During her recovery, her recovery care coordinator encouraged her to go to an Air Force Wounded Warrior adaptive sports camp. She found comfort in sports and fitness, earning invitations to the Invictus and Warrior Games where she competed in wheelchair racing, wheelchair rugby, hand cycling, shooting and sitting volleyball</li><li>Daughter of Felix and Noemi Lopez</li><li>Has nine siblings, Abraham, Amy, Conrado, Felix, Guadalupe, Josabel, Maria, Veronica and Virginia</li><li>Has a service dog named Bravo</li><li>Is first-generation American with her family coming from Mexico</li><li>Hobbies include cooking, playing music and watching movies.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (Discus Throw F55 - Women, Javelin Throw F54 - Women, Shot Put F53/54/55 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697469/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sebastiana%20Lopez-Arellano%201153679/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "F54",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697470/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sebastiana%20Lopez-Arellano%201153679/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sebastiana Lopez-Arellano 1153679"
+        }
+      ]
+    },
+    {
+      "first_name": "Amanda",
+      "last_name": "Lorenz",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1997-04-25T00:00:00",
+        "hometown": {
+          "city": "Moorpark",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2833,
+          "longitude": -118.7667
+        },
+        "education": "Moorpark High School Florida - 2019",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Women)</li><li>World Cup, Oklahoma City, 2016 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – gold (Team - Women)</li><li>Years of participation: Team - Women 2022</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2022 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HIGHLIGHTS</strong></p>\n<p><strong>2019</strong>: USA Softball Player of the Year Top 10 Finalist, NFCA First Team All-American, All-SEC First Team, SEC All-Defensive Team, SEC Community Service Team, Senior Class Award Top 10 Finalist</p>\n<p><strong>2018</strong>: USA Softball Collegiate Player of the Year Top 4 Finalist, NFCA All-American First Team, SEC Player of the Year, SEC Tournament Most Valuable Player, SEC All-Tournament Team, All-SEC First Team, SEC Player of the Week (2/26), Easton/NFCA All-American Scholar Athlete</p>\n<p><strong>2017</strong>: WCWS All-Tournament Team, NFCA First Team All-American, NFCA First Team All-Southeast Region, All-SEC First Team, SEC Academic Honor Roll</p>\n<p><strong>2016</strong>: Third Team All-American, First Team All-Southeast Region, NFCA Freshman of the Year, SEC Freshman of the Year, First Team All-SEC, SEC All-Freshman Team, SEC Freshman of the Week (3/28), SEC First Year Academic Honor Roll</p>\n<p>Click here to see Amanda Lorenz collegiate bio</p>\n<p><strong>PROFESSIONAL HIGHLIGHTS</strong></p>\n<p>- Drafted No. 2 overall in the NPF Draft to the USSSA Pride in 2019</p>\n<p><strong>GETTING TO KNOW AMANDA LORENZ</strong></p>\n<p><strong>Dream Job</strong>: To be a college softball coach</p>\n<p><strong>Favorite activity</strong>: Going to the lake</p>\n<p><strong>Favorite type of music:</strong> Country because it always gets me in a good mood</p>\n<p><strong>Best advice I have ever received:</strong> \"Only worry about the things you can control\" and to just be myself.&nbsp;</p>\n<p><strong>What it means to represent the United States:</strong> Representing the USA means everything to me. I have dreamed of wearing Red, White, and Blue and&nbsp;playing for Team USA at the highest level since I was 8 years old. I used to chase down the greats such as Laura Berg, Jennie Finch, Jessica Mendoza, Caitlin Lowe, Natasha Watley, and Lisa Fernandez for their autographs. This is very exciting and unreal opportunity and I am so excited.&nbsp;</p>\n<p><strong>What she loves about playing softball:</strong> The friendships that I have formed and the life sessions I have learned.&nbsp;Competing and laughing with my teammates.&nbsp;</p>\n<p><strong>What is your favorite softball memory:&nbsp;</strong>Playing in the WCWS</p>\n<p><strong>Who were your softball role models growing up?&nbsp;</strong>Jennie Finch, Natasha Watley, Jessica Mendoza, Caitlin Lowe, Kelly Kretschman, Lovie Jung</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011347/TeamUSA%20Assets/Athlete%20Profiles/Amanda%20Lorenz%201238043/Lorenz.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011348/TeamUSA%20Assets/Athlete%20Profiles/Amanda%20Lorenz%201238043/Lorenz1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Amanda Lorenz 1238043"
+        }
+      ]
+    },
+    {
+      "first_name": "Khatuna",
+      "last_name": "Lorig",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1974-01-01T00:00:00",
+        "hometown": {
+          "city": "West Hollywood",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.09,
+          "longitude": -118.36
+        },
+        "education": " Physical and Sport Institute",
+        "fun_fact": null,
+        "biography": "<p><strong></strong></p>\n<p></p>\n<p></p>\n<p><h5>Olympic Experience</h5><ul><li>5-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games London 2012, 4th (Individual - Women), 6th (Team - Women)</li><li>Olympic Games Beijing 2008, 5th (Individual - Women)</li><li>Olympic Games Sydney 2000, 12th (Team - Women), 46th (Individual - Women)</li><li>Olympic Games Atlanta 1996, 49th (Individual - Women)</li><li>Olympic Games Barcelona 1992, bronze (Team - Women), 5th (Individual - Women)</li></ul></ul><h5>Career Highlights</h5>\n<p>\n</p>\n<ul>\n    <li>1992 Olympic Games, team bronze</li>\n    <li>2008 Olympic Games &ndash; 5th individual, Closing Ceremony flag bearer for United States</li>\n    <li>1992, 1996, 2000, 2008, 2012 Olympian</li>\n    <li>2011 Pan American Games, team silver</li>\n    <li>2014 Pan American Championships, team gold</li>\n    <li>Multi-time Archery World Cup medalist&nbsp;</li>\n    <li>United States Archery Team member</li>\n    <li>Multiple USAT Qualifier Series and National event podium placements&nbsp;</li>\n</ul>\n<ul>\n</ul>\n<p><strong>Fun Facts: </strong>Khatuna, an accomplished coach in archery, coached actress Jennifer Lawrence for the film <em>The Hunger Games</em>. She was chosen to bear the flag at the Closing Ceremony in the 2008 Games. Khatuna speaks Georgian, Russian, and English, and her favorite television show is <em>Game of Thrones. </em>Khatuna has&nbsp;represented three different nations in the Olympic Games; her son, Levan, is also a competitive recurve archer. Khatuna can quote almost any movie, loves animals and bakes a delicious Georgian baklava.&nbsp;</p>\n<div><br>\n</div><h5>Olympic Experience </h5><ul><li>1992 Olympic Games, represented the Unified Team of the Soviet Union, won bronze</li><li>1996 Olympic Games, competed for Georgia</li><li>2000 Olympic Games, competed for Georgia</li><li>2008 Olympic Games, competed for the United States</li><li>2012 Olympic Games, competed for the United States, 4th place individual finish</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 6th (Recurve Team - Mixed), 17th (Team - Women), 57th (Individual - Women)</li><li>Years of participation: Individual - Women 1999, 2003, 2005, 2009, 2011, 2015, 2017, 2019; Recurve Team - Mixed 2019; Team - Women 2003, 2005, 2009, 2011, 2015, 2017, 2019</li><li>Top finish: 5th – 1999 (Individual - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697481/TeamUSA%20Assets/Migration/Athlete%20Profiles/Khatuna%20Lorig%20820073/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Archery",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992, 1996, 2000, 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697483/TeamUSA%20Assets/Migration/Athlete%20Profiles/Khatuna%20Lorig%20820073/Lorig_archery_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Khatuna Lorig 820073"
+        }
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Loschiavo",
+      "bio": {
+        "height": "5' 6\"",
+        "birthday": "1997-05-31T00:00:00",
+        "hometown": {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6902,
+          "longitude": -118.0074
+        },
+        "education": " Purdue University (2021)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Brandon is the son of Laura and Steve Loschiavo. </li><li>He has two older siblings, Amy and Michael. </li><li>Brandon started diving at age 12 and has also been involved in gymnastics. </li><li>Says his favorite dives are all of them, although sometimes he likes none of them. </li><li>Would like to become a diving coach after he is done competing. </li><li>Enjoys videography, photography, bouldering (rock climbing), backpacking, and camping.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 17th (10m Platform - Men)</li><li>Olympic Games Tokyo 2020, 11th (10m Platform - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 8th (10m Platform - Men)</li><li>Years of participation: 10m Platform - Men 2019; 10m Platform Synchro - Men 2017</li><li>Top finish: 6th – 2017 (10m Platform Synchro - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662005/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Loschiavo_b_bio_997639.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662714/TeamUSA%20Assets/Athlete%20Profiles/Brandon%20Loschiavo%20997639/Loschiavo_b_hero_997639.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011155/TeamUSA%20Assets/Athlete%20Profiles/Brandon%20Loschiavo%20997639/Loschiavo_Brandon_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brandon Loschiavo 997639"
+        },
+        {
+          "title": "Diving"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Brandon",
+      "last_name": "Loschiavo",
+      "bio": {
+        "height": "5' 6\"",
+        "birthday": "1997-05-30T00:00:00",
+        "hometown": {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6902,
+          "longitude": -118.0074
+        },
+        "education": "Purdue University (2021)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Brandon is the son of Laura and Steve Loschiavo</li><li>He has two older siblings, Amy and Michael</li><li>Brandon started diving at age 12 and has also been involved in gymnastics</li><li>Says his favorite dives are all of them, although sometimes he likes none of them</li><li>Would like to become a diving coach after he is done competing</li><li>Enjoys videography, photography, bouldering (rock climbing), backpacking, and camping</li></ul><h5>Career Highlights</h5><ul><li>2020 World Cup team member</li><li>2018 World Cup team member (5th, synchronized 10-meter; 11th, individual 10-meter)</li><li>Five-time national champion (four synchronized 10-meter titles, one individual 10-meter title)</li></ul><h5>Olympic Experience</h5><ul><li>2020: 11th (individual 10-meter)</li></ul><h5>World Championships Experience</h5><ul><li>2019: 8th (10-meter)</li><li>2017: 6th (synchronized 10-meter)</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366209/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brandon%20Loschiavo%201232648/Loschiavo_Brandon_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": null
+        }
+      ]
+    }
+  ]
+}

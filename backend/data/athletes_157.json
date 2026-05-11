@@ -1,0 +1,885 @@
+{
+  "entries": [
+    {
+      "first_name": "David",
+      "last_name": "Verburg",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1991-05-14T00:00:00",
+        "hometown": {
+          "city": "Lynchburg",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 37.4001,
+          "longitude": -79.15
+        },
+        "education": "E.C. Glass High School (Lynchburg, Va.) '09  George Mason University '13, Sports Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Vicki Verburg</li><li>Has one brother, John</li><li>Eleven-time NCAA All-American</li><li>Hobbies include snowboarding and rock climbing.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 400m Relay - Men), 20th (400m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (4 x 400m Relay - Men), 10th (400m - Men)</li><li>Years of participation: 4 x 400m Relay - Men 2015; 400m - Men 2015</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2015 (4 x 400m Relay - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324844/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20%20Verburg%20912771/Verburg_David_082315_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324846/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20%20Verburg%20912771/verburg_david_150x250_2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Verburg 912771"
+        }
+      ]
+    },
+    {
+      "first_name": "Kaitlyn",
+      "last_name": "Verfuerth",
+      "bio": {
+        "height": "4'11\"",
+        "birthday": "1985-08-12T00:00:00",
+        "hometown": {
+          "city": "Flagstaff",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 35.1983,
+          "longitude": -111.6513
+        },
+        "education": "University of Arizona",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Plays professionally on the UNIQLO wheelchair tennis tour</li><li>Owns a self-serve yogurt shop in Flagstaff, Arizona with her life and business partner, Greg Guerin</li><li>Has a non-profit called Over the Rainbow, which helps children with disabilities</li><li>Is also the head coach of the girls tennis team at Flagstaff High School</li><li>Serves on the Disability Awareness Commission for the City of Flagstaff, and is a board member for the Flagstaff Tennis Association</li><li>Has four brothers, Andrew, Brian, Michael and Peter</li><li>Hobbies include camping, hiking, going off-roading, being outdoors and spending time with Greg and her dogs.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014 Copa Americas Cup, bronze</li>\r\n                            <li>Rio 2007 Parapan American Games, singles (gold), doubles (gold)</li>\r\n                            <li>2002 USTA Most Improved Female Player of the Year</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>4-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 9th (Canoe single VL2 200m - Women), 13th (Kayak single KL2 200m - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 5th (Doubles - Women), 17th (Singles - Women)</li><li>Paralympic Games Beijing 2008, 4th (Doubles - Women), 9th (Singles - Women)</li><li>Paralympic Games Athens 2004, 5th (Doubles - Women), 9th (Singles - Women)</li></ul></ul><h5>More</h5><p>Personal Website</p><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 8th (Canoe single VL2 200m - Women), 15th (Kayak single KL2 200m - Women)</li><li>Years of participation: Canoe single VL2 200m - Women 2019; Kayak single KL2 200m - Women 2019</li><li>Top finish: 8th – 2019 (Canoe single VL2 200m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662091/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/verfuerth_k_bio_911742.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "KL2, VL2",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662792/TeamUSA%20Assets/Athlete%20Profiles/Kaitlyn%20Verfuerth%20911742/verfuerth_k_hero_911742.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013245/TeamUSA%20Assets/Athlete%20Profiles/Kaitlyn%20Verfuerth%20911742/Verfuerth_Kaitlyn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kaitlyn Verfuerth 911742"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Vermeule",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2001-09-28T00:00:00",
+        "hometown": {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3736,
+          "longitude": -71.1097
+        },
+        "education": "The Winsor School (Boston, Mass.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of legal scholar Adrian Vermeule</li><li>Hobbies include debate, playing the piano, dancing and writing.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Torun, 2019 (Team Epee - Women, Individual Epee - Women)</li></ul><h5>More</h5>USA Fencing<h5>World Championships Experience</h5><ul><li>Most recent: 2018 – silver (Individual Epee - Women)</li><li>Years of participation: Individual Epee - Women 2018</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2018 (Individual Epee - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324836/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Vermeule/vermeule_emily.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Vermeule"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Verzyl",
+      "bio": {
+        "height": "5' 4\"",
+        "birthday": "2003-02-18T00:00:00",
+        "hometown": {
+          "city": "Columbia",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 34.00071,
+          "longitude": -81.034814
+        },
+        "education": " University of South Carolina",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Scott and Holly Verzyl</li><li>Has two siblings, Maddie and Zach</li><li>Enjoys music (piano, guitar, singing), art (drawing, painting), going to the lake/beach, travelling and anything outdoors</li><li>Likes to volunteer at a local dog shelter</li><li>Started diving at age 8</li><li>Her favorite dive is 203b on 1 meter because it is elegant and precise, but also strong</li><li>Favorite divers to watch are Krysta Palmer, Jennifer Abel and Tania Cagnotto</li><li>Being a student-athlete is the hardest part of training for her because it is tiring and challenging to train 20 hours while also having to keep up with school and finding time for yourself</li><li>Also played soccer and basketball in high school</li><li>Favorite food is sushi</li><li>Would love to be a travel photographer</li><li>Likes to write in cursive and hardly ever prints</li></ul><h5>Career Highlights</h5><ul><li>2021 Junior Pan American Championships team member (bronze, 1-meter)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009888/TeamUSA%20Assets/Athlete%20Profiles/Sophie%20Verzyl%201224523/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sophie Verzyl 1224523"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessie",
+      "last_name": "Vetter",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1985-12-19T00:00:00",
+        "hometown": {
+          "city": "Cottage Grove",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.0808,
+          "longitude": -89.204
+        },
+        "education": "Monona Grove (Wis.) High School University of Wisconsin",
+        "fun_fact": null,
+        "biography": "<p><strong>CAREER HIGHLIGHTS</strong></p><ul><li>2008 and 2009 World champion</li><li>Three-time NCAA Champion (2006, 2007, 2009)</li><li>2008 NCAA Runner-Up</li><li>2009 Patty Kazmaier Award Winner (given to NCAA's best women's hockey player)</li><li>Two-time NCAA Frozen Four Most Outstanding Player (2006, 2009)</li><li>Three-time member of the U.S. Women's National Team for the International Ice Hockey Federation World Women's Championship (gold-2008-09, silver-2007). Earned the championship in net in both 2008 and 2009. Earned a spot on the media all-star team in 2009</li><li>Two-time member of the U.S. Women's Select Team for the Four Nations Cup (1<sup>st</sup>-2008, 2<sup>nd</sup>-2007). Earned the championship in net in 2008, stopping all six shots she faced during the shootout</li><li>Member of the U.S. Women's Under-22 Select Team for the 2006 Under-22 Series with Canada</li><li>Four-time USA Hockey Women's National Festival participant (2006-09)</li><li>Four-time USA Hockey Player Development Camp attendee (2000-03).</li></ul><p><strong>PERSONAL</strong></p><p>Awarded USA Hockey's Bob Allen Women's Player of the Year award in 2009 ... Named the Monona Grove (Wis.) High School varsity team's most valuable player in her sophomore through senior seasons ... Earned honorable mention all-state honors and was a finalist for Miss Hockey Wisconsin in her senior year ... Led Team Wisconsin to the Chicago Showcase Championship in 2002 and 2004 ... Also competed in soccer, in which she helped her team to three state championships and was a four-time all-conference selection and three-time all-state selection as a goalkeeper ... Has three brothers, Jake, Joey and Jonnie ... Daughter of Tom and JoAnn Vetter.</p><p><strong>DID YOU KNOW ...?</strong></p><ul style=\"list-style-type: disc;\"><li>Green Bay Packers fan</li><li>Started at goal for three years on the boys hockey team at Monona Grove High School</li><li>U.S. Olympic Team coach Mark Johnson first spotted Jessie Vetter while watching his son play in a Little League baseball all-star game. Vetter was the opposing shortstop and hit a home run</li><li>An all-around athlete, she can hit a golf ball 220 to 240 yards and threw a football around before every game at the University of Wisconsin</li></ul><ul style=\"list-style-type: disc;\"></ul><p><strong>COLLEGE</strong></p><p>Played four years at the University of Wisconsin of the Western Collegiate Hockey Association ... Set a UW and NCAA record with 39 career shutouts, a .941 save percentage and 91 total wins ... Played in four consecutive national title games and led the Badgers to three NCAA National Championships (2006-07, 2009) ... Two-time All-America selection (First Team-2008-09). As a Senior (2008-09): Captured the 2009 Patty Kazmaier Memorial Award ... Led the Badgers to the NCAA title ... Set an NCAA record with 14 shutouts, including in the national championship game ... All-WCHA First Team honoree ... Named MVP of the WCHA Final Faceoff and Most Outstanding Player of the NCAA tournament ... Named Wisconsin's Female Athlete of the Year ... All-WCHA Academic Team selection. As a Junior (2007-08): All-WCHA First Team honoree ... WCHA goaltending champion ... Second in the nation with 10 shutouts ... Led the Badgers to the NCAA title game ... All-WCHA Academic Team selection. As a Sophomore (2006-07): Led the Badgers to their second straight NCAA championship, allowing just one total goal in the Frozen Four ... Earned a spot on the NCAA Women's Frozen Four All-Tournament Team ... Owned a national-best 0.83 GAA and 10 shutouts ... Was in net for all 127 minutes of the NCAA regional quadruple-overtime game that sent the team to the Frozen Four ... Earned All-WCHA First Team honors ... All-WCHA Academic Team selection. As a Redshirt Freshman (2005-06): Was the first freshman and first goalie ever to be named the NCAA Women's Frozen Four Most Outstanding Player ... Became first goalie to record a shutout in the Frozen Four (had two) ... Was in net for the NCAA regional double-overtime game that earned the team a Frozen Four berth ... Set single-season school records for GAA (0.78) and save percentage (.962) ... Ended the year with a 200:43 shutout streak.</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 silver)</li><ul><li>Olympic Games Sochi 2014, silver (Team - Women)</li><li>Olympic Games Vancouver 2010, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – gold (Team - Women)</li><li>Years of participation: Team - Women 2007, 2008, 2009, 2011, 2012, 2013, 2015, 2016</li><li>Medals: 8 (6 gold, 2 silver)</li><ul><li>Gold – 2016 (Team - Women);  2015 (Team - Women);  2013 (Team - Women);  2011 (Team - Women);  2009 (Team - Women);  2008 (Team - Women)</li><li>Silver – 2012 (Team - Women);  2007 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696925/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessie%20Vetter%20838283/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696927/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessie%20Vetter%20838283/Womens_Ice-Hockey_Vetter_Jessica_site.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessie Vetter 838283"
+        }
+      ]
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Vibert",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1999-01-05T00:00:00",
+        "hometown": {
+          "city": "Oakland Township",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.7486,
+          "longitude": -83.2099
+        },
+        "education": " Oakland University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Junior World Record Holder (Snatch, 112kg)</li><li>2019 Senior Pan American Champion</li><li>2018 National Champion</li><li>Junior &amp; Senior American Record Holder</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (76kg - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (71kg - Clean & Jerk - Women), 5th (71kg - Women), 8th (71kg - Snatch - Women)</li><li>Years of participation: 71kg - Clean & Jerk - Women 2019, 2022, 2023; 71kg - Snatch - Women 2019, 2022, 2023; 71kg - Women 2019, 2022, 2023</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2019 (71kg - Clean & Jerk - Women, 71kg - Snatch - Women, 71kg - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1688490498/TeamUSA%20Assets/Athlete%20Profiles/Kate%20Nye%201142315/nye_k_bio_1142315.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662652/TeamUSA%20Assets/Athlete%20Profiles/Kate%20Nye%201142315/nye_k_hero_1142315.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012602/TeamUSA%20Assets/Athlete%20Profiles/Kate%20Nye%201142315/KateNye.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kate Vibert 1142315"
+        }
+      ]
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Victor",
+      "bio": {
+        "height": "6' 1\"",
+        "birthday": "2002-02-01T00:00:00",
+        "hometown": {
+          "city": "Orchard Park",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.76673,
+          "longitude": -78.74975
+        },
+        "education": "Princeton University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Shannon and John Victor</li><li>Has four siblings: Jordan, Jacob, Justin, and Juliana</li><li>Started diving in 2018 and was a gymnast for 11 years</li><li>Favorite dives are 6243d on 10m, 305c on 1m, and 5337d on 3m</li><li>Enjoys baking, music, traveling, skincare, and spending time with friends</li><li>Would like to become a dermatologist</li><li>Would like to meet Doja Cat</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362581/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joe%20Victor/Joseph-Victor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joe Victor"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephani",
+      "last_name": "Victor",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1969-08-29T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": "Quaker Valley (Sewickley, Pa.) HS ‘87 University of Southern California ‘92, Film Studies",
+        "fun_fact": "",
+        "biography": "<p><strong></strong></p><p><strong>Sport</strong>: Alpine Skiing<br><strong>Height</strong>: 5-4<br><strong>Weight</strong>: 110<br><strong>Classification</strong>: LW12-2, Sitting<br><strong>Date of Birth</strong>: Aug. 29, 1969<br><strong>Birthplace</strong>: Ames, Iowa<br><strong>Hometown</strong>: Park City, Utah<br><strong>Current Residence</strong>: Park City, Utah<br><strong>High School</strong>: Quaker Valley (Sewickley, Pa.) HS ‘87<br><strong>College</strong>: University of Southern California ‘92, Film Studies<br><strong>Coach</strong>: Marcel Kunonen, Kevin Jardine</p><p><strong>Career Highlights</strong><strong><br bold=\"[object Object]\"></strong></p><ul><li>2014: Paralympic Winter Games competitor, super-G; World Cup Copper Mountain, 4th giant slalom; U.S. National Championships, 2nd super-G</li><li>2013: World Cup Coronet Peak, 1st slalom run 1 and 2; World Cup Mt. Hutt, 1st super-G and super combined; World Cup Thredbo, 1st giant slalom run 1 and 2, 1st slalom; NorAm Copper Mountain, 2nd super G, 3rd super G, 3rd giant slalom</li><li>2010: Paralympic Winter Games, gold super combined, silver slalom and giant slalom; World Cup Sestriere, 3rd downhill; ESPY Award Nominee</li><li>2009: IPC Alpine Skiing World Championships, 1st slalom, giant slalom and super combined; U.S. Paralympics Alpine Skiing National Championships, 1st slalom; named Paralympic SportsWoman of the Year; named Adaptive Athlete of the Year by Ski Racing Magazine</li><li>2007: Overall World Cup champion; slalom and giant slalom overall World Cup champion; U.S. Paralympics Alpine Skiing National Championships, 1st giant slalom and slalom; ESPY Award Nominee; Named Adaptive Athlete of the Year by Ski Racing Magazine</li><li>2006: Paralympic Winter Games, gold slalom; World Cup slalom champion</li><li>2005: U.S. Paralympics Alpine Skiing National Championships, 1st slalom</li><li>2004: IPC Alpine Skiing World Championships, 1st slalom, 2nd super-G, 3rd downhill; World Cup slalom champion</li><li>2003: U.S. Paralympics Alpine Skiing National Championships, 1st super-G and giant slalom</li><li>2002: Paralympic Winter Games, bronze downhill; served as torchbearer for Salt Lake torch relay</li><li>2000: U.S. Paralympics Alpine Skiing National Championships, 1st slalom</li></ul><p><strong>Personal</strong><strong><br bold=\"[object Object]\"></strong></p><p>Stephani Victor was on her way to fulfilling her dream of being an actress as a recent graduate of USC’s film school when her life took an unexpected turn. In 1995, she was loading her car when an out-of-control car veered into her driveway and pinned her against her vehicle. In order to save her life, both of her legs were amputated. While in intensive care, the actress/film director had a dream of making a documentary film about her recovery. Suddenly her life’s worst tragedy became the backdrop of her most important film, “The Lengths I Will Go”. Three years and 11 reconstructive surgeries later, she took her first adaptive skiing lesson. Since then, she has won five Paralympic medals, four World Championship titles and five Overall World Cup titles.</p><p>Victor’s film and ski racing accomplishments have been the subject of many television shows including ABC’s 20/20, The View, The Life, The Best Damned Sports Show Period and E! News. Through her extensive media coverage, she became a much sought-after motivational speaker. General John A. Weida made Victor an honorary Wing Commander of Hill Air Force Base after her moving presentation to over 3,000 airmen and women that resulted in the longest period of no reported DUI incidents at the base. Senator Orrin Hatch of Utah has repeatedly included Victor in his impressive keynote line-up for his annual Women’s Conference, where she has spoken alongside Leslie Stahl, Marie Osmond and Dana Perino, to name a few. Corporate clients recognize the power of Stephani’s message, especially when delivered alongside Olympic athletes such as Lindsey Vonn, Ted Ligety, Apolo Ohno and Katherine Reutter. &nbsp;</p><p><strong>Connect</strong><strong><br bold=\"[object Object]\"></strong>Twitter: @stephanivictor<br>Facebook: Facebook.com/stephanivictor<br>Website: StephaniVictor.com</p><div></div><h5>Paralympic Experience</h5><ul><li>5-time Paralympian; 5-time Paralympic medalist (2 gold, 2 silver, 1 bronze)</li><ul><li>Paralympic Games Pyeongchang 2018,  (Downhill - Sitting - Women, Slalom - Sitting - Women, Super Combined - Sitting - Women), 4th (Giant Slalom - Sitting - Women), 6th (Super-G - Sitting - Women)</li><li>Paralympic Games Sochi 2014,  (Super-G - Sitting - Women)</li><li>Paralympic Games Vancouver 2010, gold (Super Combined - Sitting - Women), silver (Giant Slalom - Sitting - Women, Slalom - Sitting - Women), 4th (Downhill - Sitting - Women), 5th (Super-G - Sitting - Women)</li><li>Paralympic Games Turin 2006, gold (Slalom - Sitting - Women), 4th (Giant Slalom - Sitting - Women, Super-G - Sitting - Women), 5th (Downhill - Sitting - Women)</li><li>Paralympic Games Salt Lake City 2002,  (Slalom LW10-12 - Women), bronze (Downhill LW10-12 - Women), 5th (Giant Slalom LW12 - Women), 6th (Super-G LW10-12 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 4th (Super-G - Sitting - Women), 5th (Giant Slalom - Sitting - Women, Slalom - Sitting - Women), 6th (Super Combined - Sitting - Women)</li><li>Years of participation: Giant Slalom - Sitting - Women 2009, 2013; Slalom - Sitting - Women 2009, 2013; Super Combined - Sitting - Women 2009, 2013; Super-G - Sitting - Women 2009, 2013; Downhill - Sitting - Women 2009; Downhill LW10-12 - Women 2004; Giant Slalom LW10-12 - Women 2004; Slalom LW10-12 - Women 2004; Super-G LW10-12 - Women 2004</li><li>Medals: 7 (4 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2009 (Giant Slalom - Sitting - Women, Slalom - Sitting - Women, Super Combined - Sitting - Women);  2004 (Slalom LW10-12 - Women)</li><li>Silver – 2009 (Super-G - Sitting - Women);  2004 (Super-G LW10-12 - Women)</li><li>Bronze – 2004 (Downhill LW10-12 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697003/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephani%20Victor%20841943/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2002, 2006, 2010, 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697006/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephani%20Victor%20841943/Stephani_Victor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephani Victor 841943"
+        }
+      ]
+    },
+    {
+      "first_name": "Aaron Surf",
+      "last_name": "Victorian",
+      "bio": {
+        "height": "5'10",
+        "birthday": "1988-03-11T00:00:00",
+        "hometown": {
+          "city": "Laie",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.6472,
+          "longitude": -157.9222
+        },
+        "education": "San Jose City College",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"font-family: 'times new roman';font-size: 18px;\">Aaron \"Surf\" Victorian was born in Ogden, Utah on March 11, 1988.</span></li><li><p></p><p>The native of Laie, Hawaii studied psychology at San Jose City College. </p></li><li><p></p><p>Surf lettered in football, wrestling and track and field in high school. </p></li><li><p></p><p>He also competed at the 2009 World Championships in Berlin in the 100 meters for American Samoa. </p></li><li><p></p><p>Surf was the California state champion in the decathlon in 2010 and holds the American Samoa national record in the decathlon. </p></li><li><p></p><p>He was first introduced to the sport of bobsled by&nbsp;his decathlete coach. </p></li><li><p></p><p>Being a 220 pound athlete, his coach mentioned bobsled one day during training and it always stuck to the back of his mind. </p></li><li><p></p><p>Surf never took it seriously until after he was done with his track and field career and wanted to still compete at an elite level.</p></li></ul><h5><span><strong>Fun Facts</strong></span></h5><ul><li><span style=\"font-family: 'times new roman';font-size: 18px;\">Surfing is his first love and if he could, he would do it every single day. He thinks of bobsled as surfing on ice.&nbsp;</span></li><li>He graduated from Kahuku High School. \"The pride of the North Shore Red Raider for life.\"</li><li> He is half Polynesian, half American.</li><li> Winter is his favorite season and Halloween is his favorite holiday.</li><li>His favorite saying is \"the privilege to work harder.\"<br></li></ul><h5><span><strong>CAREER HIGHLIGHTS</strong></span><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong></strong></span></h5><ul><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2015 World Championships in two-man for pilot Codie Bascue</strong>&nbsp;- 24th (3/15)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2014-2015 World Cup in four-person for pilot Nick Cunningham</strong>&nbsp;- 15th in St. Moritz (1/15)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2014-2015 World Cup in two-man for pilot Nick Cunningham</strong>&nbsp;- 21st in St. Moritz (1/15)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2014-2015 World Cup in two-man for pilot Codie Bascue </strong>- 15th in Koenigssee (1/15); 16th in La Plagne (1/15); 11th in Sochi (2/15)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong style=\"font-weight: bold;\">2014-2015 World Cup in two-man for pilot Steven Holcomb&nbsp;</strong>- 8th in Calgary (12/14); 13th in Altenberg (1/15)<br></span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2014-2015 World Cup in four-person for pilot Steven Holcomb&nbsp;</strong>- 6th in Lake Placid (12/14); 7th in Calgary (12/14)<br></span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\">2<strong>014-2015 World Cup in four-person for pilot Codie Bascue</strong>&nbsp;- 12th in Altenberg (1/15); 16th in Koenigssee (1/15); 15th in La Plagne (2/15)<br></span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2014-2015</strong><strong>&nbsp;</strong><strong>North American Cup in four-person</strong><strong>&nbsp;for&nbsp;pilot Steven Holcomb</strong> - SILVER in Park City (11/14)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2014</strong><strong>-2015</strong><strong>&nbsp;</strong><strong>North American Cup in two-man</strong><strong>&nbsp;for&nbsp;pilot Steven Holcomb</strong> - GOLD in Park City #1 (11/14)</span><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong></strong></span><span style=\"font-family: 'times new roman';font-size: 18px;\"></span></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 23th (2-Man Competition - Men)</li><li>Years of participation: 2-Man Competition - Men 2015; 100m - Men 2009</li><li>Top finish: 23th – 2015 (2-Man Competition - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324902/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Surf%20Victorian%20912698/Victorian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aaron Surf Victorian 912698"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Aaron Surf",
+      "last_name": "Victorian",
+      "bio": {
+        "height": "5'10",
+        "birthday": "1988-03-11T00:00:00",
+        "hometown": {
+          "city": "Laie",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.6472,
+          "longitude": -157.9222
+        },
+        "education": "Aaron \"Surf\" Victorian was born in Ogden, Utah on March 11, 1988. The native of Laie, Hawaii studied psychology at San Jose City College. Surf lettered in football, wrestling and track and field in high school. He also competed at the 2009 World Championships in Berlin in the 100meters for American Samoa. Surf was the California state champion in the decathlon in 2010 and holds the American Samoa national record in the decathlon. He was first introduced to the sport of bobsled by&nbsp;his decathlete coach. Being a 220 pound athlete, his coach mentioned bobsled one day during training and it always stuck to the back of his mind. Surf never took it seriously until after he was done with his track and field career and wanted to still compete at an elite level. Aaron \"Surf\" Victorian was born in Ogden, Utah on March 11, 1988. The native of Laie, Hawaii studied psychology at San Jose City College. Surf lettered in football, wrestling and track and field in high school. He also competed at the 2009 World Championships in Berlin in the 100meters for American Samoa. Surf was the California state champion in the decathlon in 2010 and holds the American Samoa national record in the decathlon. He was first introduced to the sport of bobsled by&nbsp;his decathlete coach. Being a 220 pound athlete, his coach mentioned bobsled one day during training and it always stuck to the back of his mind. Surf never took it seriously until after he was done with his track and field career and wanted to still compete at an elite level.",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>HEIGHT</strong> 5'10 &nbsp; &nbsp;<strong>WEIGHT</strong> 220 lbs</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Aaron \"Surf\" Victorian was born in Ogden, Utah on March 11, 1988. The native of Laie, Hawaii studied psychology at San Jose City College. Surf lettered in football, wrestling and track and field in high school. He also competed at the 2009 World Championships in Berlin in the 100meters for American Samoa. Surf was the California state champion in the decathlon in 2010 and holds the American Samoa national record in the decathlon. He was first introduced to the sport of bobsled by&nbsp;his decathlete coach. Being a 220 pound athlete, his coach mentioned bobsled one day during training and it always stuck to the back of his mind. Surf never took it seriously until after he was done with his track and field career and wanted to still compete at an elite level.</span></p>\n<p><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">FUN FACTS</span></strong></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">- Surfing is his first love and if he could, he would do it every single day. He thinks of bobsled as surfing on ice.&nbsp;<br style=\"color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; margin: 0px; padding: 0px; background-color: #f5f5f5;\" />\n- He graduated from Kahuku High School. \"The pride of the North Shore Red Raider for life.\"<br style=\"color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; margin: 0px; padding: 0px; background-color: #f5f5f5;\" />\n- He is half Polynesian, half American.<br style=\"color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; margin: 0px; padding: 0px; background-color: #f5f5f5;\" />\n- Winter is his favorite season and Halloween is his favorite holiday.<br style=\"color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; margin: 0px; padding: 0px; background-color: #f5f5f5;\" />\n- His favorite saying is \"the privilege to work harder.\"<br />\n</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>CAREER HIGHLIGHTS</strong>\n</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong></strong></span></p>\n<ul>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2015 World Championships in two-man for pilot Codie Bascue</strong>&nbsp;- 24th (3/15)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2014-2015 World Cup in four-person for pilot Nick Cunningham</strong>&nbsp;- 15th in St. Moritz (1/15)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2014-2015 World Cup in two-man for pilot Nick Cunningham</strong>&nbsp;- 21st in St. Moritz (1/15)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2014-2015 World Cup in two-man for pilot Codie Bascue </strong>- 15th in Koenigssee (1/15); 16th in La Plagne (1/15); 11th in Sochi (2/15)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong style=\"font-weight: bold;\">2014-2015 World Cup in two-man for pilot Steven Holcomb&nbsp;</strong>- 8th in Calgary (12/14); 13th in Altenberg (1/15)<br />\n    </span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2014-2015 World Cup in four-person for pilot Steven Holcomb&nbsp;</strong>- 6th in Lake Placid (12/14); 7th in Calgary (12/14)<br />\n    </span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\">2<strong>014-2015 World Cup in four-person for pilot Codie Bascue</strong>&nbsp;- 12th in Altenberg (1/15); 16th in Koenigssee (1/15); 15th in La Plagne (2/15)<br />\n    </span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong><strong>2014-2015</strong>&nbsp;<strong>North American Cup in four-person</strong>&nbsp;for&nbsp;pilot Steven Holcomb</strong> - SILVER in Park City (11/14)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong><strong>2014</strong><strong>-2015</strong><strong>&nbsp;</strong><strong>North American Cup in two-man</strong>&nbsp;for&nbsp;pilot Steven Holcomb</strong> - GOLD in Park City #1 (11/14)</span></li>\n</ul>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>VIDEO HIGHLIGHTS</strong>\n</span></p>\n<span style=\"font-family: 'times new roman'; font-size: 18px;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aKuOI1c06qw\" frameborder=\"0\"></iframe></span>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696965/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Surf%20Victorian%20821059/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696966/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Surf%20Victorian%20821059/Victorian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": null
+        }
+      ]
+    },
+    {
+      "first_name": "Robert",
+      "last_name": "Vidovszky",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2001-09-20T00:00:00",
+        "hometown": {
+          "city": "Folsom",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.6796,
+          "longitude": -121.1764
+        },
+        "education": "Folsom High School (Folsom, Calif.) ‘20 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Natalie Torok and Tamas Vidovszky, who were both born in Hungary</li><li>Favorite school subjects are math and history</li><li>Hobbies include skiing and surfing.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Cairo, 2021 (Team Sabre - Men, Individual Sabre - Men)</li></ul><h5>More</h5>USA Fencing&nbsp;<h5>World Championships Experience</h5><ul><li>Most recent: 2018 – silver (Individual Sabre - Men)</li><li>Years of participation: Individual Sabre - Men 2018</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2018 (Individual Sabre - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696971/TeamUSA%20Assets/Migration/Athlete%20Profiles/Robert%20Vidovszky%201114597/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696973/TeamUSA%20Assets/Migration/Athlete%20Profiles/Robert%20Vidovszky%201114597/vidovsky_robert.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Robert Vidovszky 1114597"
+        }
+      ]
+    },
+    {
+      "first_name": "Winter",
+      "last_name": "Vinecki",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1998-12-18T00:00:00",
+        "hometown": {
+          "city": "Gaylord",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 45.0278,
+          "longitude": -84.67
+        },
+        "education": " University of Utah",
+        "fun_fact": "Named Winter after her parents’ favorite season in Northern Michigan",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Aerials</li><li>Daughter of Dawn Estelle and Michael Vinecki</li><li>Has three brothers, Ruger, Magnum and Yukon</li><li><span>Named Winter</span><span><strong> </strong></span><span>after her parents’ favorite season in Northern Michigan</span></li></ul><h5>Biographical Information</h5><p><span>Winter Vinecki g</span><span>rew up on 2,000+ acres of farm and woodlands in Gaylord, Michigan, and started </span><span>competing in triathlons and marathons as a child. She </span><span>set the world record by becoming the youngest person at age 14 to run a marathon on every continent, including Antarctica, and was Ironkids National Champion as a teenager.</span></p><p><span>At age 12, Vinecki was invited to an aerials skiing camp by three-time Olympian Emily Cook, and after the camp, she moved to Park City, Utah, to train in the sport. Vinecki was named to the U.S. national ski team in 2016 and made her Olympic Debut at the Olympic Winter Games Beijing 2022. The 2023-24 season was a career season for Vinecki, where she won three individual FIS World Cup events to finish second in the season rankings.</span></p><p><span>Off the slopes, Vinecki founded a non-profit Team Winter to raise money for prostate cancer research and awareness after her father, Michael, passed away suddenly from the disease when she was nine years old.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 6th (Aerials - Women)</li><li>Olympic Games Beijing 2022, 15th (Aerials - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 16th (Aerials - Women)</li><li>Years of participation: Aerials - Women 2019, 2021, 2023</li><li>Top finish:  – 2021 (Aerials - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684891722/TeamUSA%20Assets/Migration/Pages/vinecki_winter___020321_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747761636/TeamUSA%20Assets/Athlete%20Profiles/Winter%20Vinecki%201083955/vinecki_w_hero_1083955.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747761636/TeamUSA%20Assets/Athlete%20Profiles/Winter%20Vinecki%201083955/vinecki_w_hero_1083955.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004621/TeamUSA%20Assets/Athlete%20Profiles/Winter%20Vinecki%201083955/vinecki_winter_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Winter Vinecki 1083955"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Brooke",
+      "last_name": "Vines",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1996-12-31T00:00:00",
+        "hometown": {
+          "city": "Rancho Palos Verdes",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7445,
+          "longitude": -118.3876
+        },
+        "education": "University of Tennessee",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: arial;\"># 6<br />\nHeight: 5'8\"<br />\nPosition: Outfield<br />\nB/T: L/R<br />\nHometown: Rancho Palos Verdes, Calif.<br />\nSchool: Tennessee<br />\nGraduation: 2019</span></p>\n<p><strong><span style=\"font-family: arial;\"><img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/WNT-Gallery/Brooke-Vines/Vines1.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=582FFAE27F333ECFCDB15B4DC6C7D3C91CA54015\" /></span></strong></p>\n<div class=\"DataText\"><strong style=\"font-family: arial;\"><span style=\"font-size: 24px; color: #7f7f7f;\">EXPERIENCE</span></strong><br />\n</div>\n<span style=\"font-family: arial;\"><strong>2016 Women's Elite Team member</strong><br />\n- World Cup of Softball participant<br />\n&nbsp; - Went 2-for-2 with two RBI and four runs scored<br />\n<br />\n<div class=\"DataText\"><strong style=\"font-family: arial;\"><span style=\"font-size: 24px; color: #7f7f7f;\">AT TENNESSEE</span></strong><br />\n</div>\n<span style=\"font-family: arial;\">2016 NFCA Freshman of the Year Top 25 Finalist<br />\n</span>2016 SEC All-Freshman Team<br />\n2016 NFCA All-Southeast Region Third Team<br />\n<br />\n<div class=\"DataText\"><strong style=\"font-family: arial;\"><span style=\"font-size: 24px; color: #7f7f7f;\">GETTING TO KNOW VINES</span></strong><br />\n</div>\n<span style=\"font-family: arial;\">\n<strong>Parents: </strong>Anthony and Christy Vines<br />\n<strong>Dream job: </strong>An OBGYN</span></span>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324907/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brooke%20Vines/VinesBrooke.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brooke Vines"
+        }
+      ]
+    },
+    {
+      "first_name": "Brittany",
+      "last_name": "Viola",
+      "bio": {
+        "height": "5’5”",
+        "birthday": "1987-04-19T00:00:00",
+        "hometown": {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.53834,
+          "longitude": -81.37924
+        },
+        "education": "University of Miami",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Fun Facts: Father,</li><li>Fun Facts: Father,</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2012 USA Diving Winter National Championships, third place</li>\r\n                            <li>2011 ATandT National Diving Championships, first place</li>\r\n                            <li>2011 USA Diving Winter National Championships, first place</li>\r\n                            <li>2011 Speedo USA Diving Spring National Championships, third place</li>\r\n                            <li>Was named the 2007 ACC freshman of the year and was an NCAA All-American that season</li>\r\n                            <li>Swept the 2008&#160;ACC Championships by winning titles on 1-meter, 3-meter and platform</li>\r\n                            <li>Won NCAA titles on platform in 2008 and 2011 for the University of Miami to earn All-American honors</li>\r\n                            <li>Fun Facts: Father,&#160;Frank, was the 1987 World Series MVP for the Minnesota Twins, the 1988 American League Cy Young Award winner and a three-time All-Star</li>\r\n                            <li>She was a former international elite gymnast but retired at age 13 because she did not want&#160;to move to train away from her family</li>\r\n                            <li>Brittany began diving in 2000, but missed the 2010 season while recovering from two foot surgeries</li>\r\n                            <li>Learn more:</li>\r\n                            <li>USA Diving Bio</li>\r\n                            <li>Career Highlights:</li>\r\n                            <li>2012 USA Diving Winter National Championships, third place</li>\r\n                            <li>2011 ATandT National Diving Championships, first place</li>\r\n                            <li>2011 USA Diving Winter National Championships, first place</li>\r\n                            <li>2011 Speedo USA Diving Spring National Championships, third place</li>\r\n                            <li>Was named the 2007 ACC freshman of the year and was an NCAA All-American that season</li>\r\n                            <li>Swept the 2008&#160;ACC Championships by winning titles on 1-meter, 3-meter and platform</li>\r\n                            <li>Won NCAA titles on platform in 2008 and 2011 for the University of Miami to earn All-American honors</li>\r\n                            <li>Fun Facts: Father,&#160;Frank, was the 1987 World Series MVP for the Minnesota Twins, the 1988 American League Cy Young Award winner and a three-time All-Star</li>\r\n                            <li>She was a former international elite gymnast but retired at age 13 because she did not want&#160;to move to train away from her family</li>\r\n                            <li>Brittany began diving in 2000, but missed the 2010 season while recovering from two foot surgeries</li>\r\n                            <li>Olympic Experience: Career Highlights:</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games London 2012, 15th (10m Platform - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2011 – 10th (10m Platform - Women)</li><li>Years of participation: 10m Platform - Women 2009, 2011; 1m Springboard - Women 2009; 10m Platform Synchro - Women 2003</li><li>Top finish: 4th – 2003 (10m Platform Synchro - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324948/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brittany%20Viola/Viola-Brittany.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brittany Viola"
+        }
+      ]
+    },
+    {
+      "first_name": "Carsten",
+      "last_name": "Vissering",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1997-05-13T00:00:00",
+        "hometown": {
+          "city": "Bethesda",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9847,
+          "longitude": -77.0947
+        },
+        "education": "University of Southern California",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Push Athlete</li><li>Started bobsledding at age 25</li><li>He could not find a pair of ice spikes for the tryout so he had to borrow a pair that were almost two sizes too small</li><li>College swimmer at the University of Southern California, Los Angeles</li><li>Five-time All-American and won an NCAA relay title<ul><li>Speciality was the breaststroke</li></ul></li></ul><h5>Biographical Information</h5><p>Carsten Vissering grew up in Bethesda, Maryland, and swam at the same club as nine-time Olympic gold medalist Katie Ledecky. Vissering won a bronze medal at the 2013 world junior championships and attended USC where he would win an NCAA relay title and ended his college career by placing second in the 100-yard breaststroke at the 2019 NCAA championships.</p><p>Vissering transitioned from the water to the ice because of his love of strength training: \"I was colloquially named the lifter who swam, I was always known for wanting to do cliff jumping or adventurous things so, for a lot of people, it didn’t shock them. I think people found it was consistent with my personality.”&nbsp;</p><p>Vissering made his IBSF World Cup debut in bobsled just over three years from competing at the NCAA Championships in swimming. In January 2026, he finished a career-best fourth place at an IBSF World Cup in the two-man bobsled with pilot Kris Horn and shortly after was named to his first U.S. Olympic team.</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 7th (4-Man Competition - Open)</li><li>Years of participation: 4-Man Competition - Open 2023, 2025</li><li>Top finish: 7th – 2025 (4-Man Competition - Open)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Milan 2026, 11th (4-Man Competition - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771694886/Bobsled_bio_FurnellPowellVissering.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683662067/JKR_5621.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683662067/JKR_5621.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770228137/vissering_c_thumbnail_861321.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Carsten Vissering"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Bobsled"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Vitas",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1992-12-22T00:00:00",
+        "hometown": {
+          "city": "Franklin",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 42.8903,
+          "longitude": -88.0076
+        },
+        "education": "University of Wisconsin '16",
+        "fun_fact": null,
+        "biography": "<h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Double Sculls - Women)</li><li>Years of participation: Double Sculls - Women 2022, 2023; Quadruple Sculls - Women 2019; Eight - Women 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Double Sculls - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>2023 World Rowing Cup II, 2nd (Women <span style='font-size: 11pt;'>– Double Sculls), 7th (Women – Quadruple Sculls)</span></li><li><p>2022 Henley Royal Regatta, semifinals</p></li><li>2022 World Rowing Cup II, 3rd (Women – Double Sculls)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (Double Sculls - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713452850/TeamUSA%20Assets/Athlete%20Profiles/Sophia%20Vitas%201061853/Vitas_s_bio_1061853.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713452523/TeamUSA%20Assets/Athlete%20Profiles/Sophia%20Vitas%201061853/Vitas_s_hero_1061853.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713452523/TeamUSA%20Assets/Athlete%20Profiles/Sophia%20Vitas%201061853/Vitas_s_hero_1061853.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713452339/TeamUSA%20Assets/Athlete%20Profiles/Sophia%20Vitas%201061853/Vitas_s_thumbnail_1061853.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sophia Vitas 1061853"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    }
+  ]
+}

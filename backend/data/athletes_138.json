@@ -1,0 +1,957 @@
+{
+  "entries": [
+    {
+      "first_name": "Maggie",
+      "last_name": "Shea",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1989-07-13T00:00:00",
+        "hometown": {
+          "city": "Wilmette",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.0753,
+          "longitude": -87.7095
+        },
+        "education": "New Trier Township High School (Winnetka, Ill.) '07 Connecticut College ’11, Government",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Don and Mindy Shea</li><li>Has two siblings, Anne and Drew</li><li>Hobbies include yoga, spinning and baking</li><li>Loves puzzles and spending time with her family</li><li>Grew up sailing on Lake Michigan with her family on her Grampa John Nedeau’s Windancer</li><li>Worked as the Sailing Director at Chicago Match Race Center</li><li>In 2016, she crewed for Sally Barkow on Team Magenta 32, the first-ever all-women’s team to compete on the World Match Racing Tour</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 10th (49er FX - Women)</li><li>Olympic Games Tokyo 2020, 11th (49er FX - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 11th (49er FX - Women)</li><li>Years of participation: 49er FX - Women 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024; Match Racing - Women 2014, 2016; Laser Radial - Women 2007</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2020 (49er FX - Women);  2014 (Match Racing - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712261596/Roble_Shea.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349599/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maggie%20Shea/Shea_Margaret.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maggie Shea"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sailing"
+        }
+      ]
+    },
+    {
+      "first_name": "Enkelejda",
+      "last_name": "Shehaj",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1969-01-23T00:00:00",
+        "hometown": {
+          "city": "Naples",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.142,
+          "longitude": -81.7948
+        },
+        "education": " University of Albania",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Maks and Tefta Shehaj</li><li>Married to Tony Bekurti</li><li>Has two daughters</li><li>Owns and operates Olympia Dining with her husband in Naples, Florida</li><li>Began shooting competitively at age 17</li><li>Was named to the Albanian National Team in 1989 and represented her native country through 2000.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 33th (25m Pistol - Women), 40th (10m Air Pistol - Women)</li><li>Olympic Games Atlanta 1996, 15th (25m Pistol - Women), 21th (10m Air Pistol - Women)</li><li>Olympic Games Barcelona 1992, 14th (25m Pistol - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 20th (25m Pistol - Women), 67th (10m Air Pistol - Women)</li><li>Years of participation: 10m Air Pistol - Women 2014; 25m Pistol - Women 2014</li><li>Top finish: 20th – 2014 (25m Pistol - Women)</li></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718822/TeamUSA%20Assets/Migration/Athlete%20Profiles/Enkelejda%20Shehaj%20841610/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992, 1996, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718823/TeamUSA%20Assets/Migration/Athlete%20Profiles/Enkelejda%20Shehaj%20841610/Shehaj_Enkelejda_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Enkelejda Shehaj 841610"
+        }
+      ]
+    },
+    {
+      "first_name": "Aspen",
+      "last_name": "Shelton",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2001-04-02T00:00:00",
+        "hometown": {
+          "city": "Southlake",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.9562,
+          "longitude": -97.1347
+        },
+        "education": "Loyola University Maryland",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began swimming at 18 months as a form of physical therapy due to being a premature baby at 26 weeks</li><li>Became competitive at the age of nine</li><li>Was born with stage three retinopathy of prematurity (ROP), amblyopia, anisometropia, Usher’s Syndrome, Macular Degeneration and Cortical /Cerebral Vision Loss (CVI)</li><li>In 2020, amid the COVID-19 pandemic, Shelton was diagnosed with a brain tumor in the center of her head the size of a baseball</li><li>Shelton is still dealing with serious health issues but is now getting back into Paralympic swimming as well as Paralympic-equestrian as a form of physical therapy and to just have fun</li><li>Hobbies include playing the piano, horseback riding, watching movies, volunteering in her community, collecting stickers and magnets from her travels and competitions, hanging with family and friends, and being with her animals</li><li>Family includes parents Chad and Vicki Shelton, and brother, Ethan Shelton</li><li>Shelton has two dogs, Edwina (Eddie) Aspen’s retired seeing-eye dog, her current seeing-eye dog Lake, and a cat named Agitos</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – gold (100m Backstroke S12 - Women), silver (100m Freestyle S12 - Women), bronze (50m Freestyle S12 - Women)</li><li>Years of participation: 100m Backstroke S12 - Women 2017; 100m Freestyle S12 - Women 2017; 50m Freestyle S12 - Women 2017</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2017 (100m Backstroke S12 - Women)</li><li>Silver – 2017 (100m Freestyle S12 - Women)</li><li>Bronze – 2017 (50m Freestyle S12 - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (4 x 100m Freestyle Relay 49 Points - Mixed, 100m Backstroke S12 - Women, 100m Freestyle S12 - Women, 50m Freestyle S12 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742409632/TeamUSA%20Assets/Athlete%20Profiles/Aspen%20Shelton%201086383/shelton_a_bio_1086383.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S12, SB12, SM12",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742409604/TeamUSA%20Assets/Athlete%20Profiles/Aspen%20Shelton%201086383/shelton_a_hero_1086383.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742409604/TeamUSA%20Assets/Athlete%20Profiles/Aspen%20Shelton%201086383/shelton_a_hero_1086383.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742409604/TeamUSA%20Assets/Athlete%20Profiles/Aspen%20Shelton%201086383/shelton_a_hero_1086383.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aspen Shelton 1086383"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Shen",
+      "bio": {
+        "height": "5'2",
+        "birthday": "2008-08-08T00:00:00",
+        "hometown": {
+          "city": "New Canaan",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.1462,
+          "longitude": -73.5004
+        },
+        "education": "Rye Country Day School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>She was born on the opening day of the 2008 Beijing Olympics and her middle name is one of the five mascots<h5>Career Highlights</h5><ul>\r\n                            <li>2022 13-15 national team athlete</li>\r\n                            <li>2022 U.S. 13-15 Championship: 2nd (Solo), 3rd (Team), 3rd (Combo)</li>\r\n                            <li>2020 UANA Global Virtual Challenge: 2nd</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA Youth World Championships: 3rd (Team), 3rd (Combo)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010949/TeamUSA%20Assets/Athlete%20Profiles/Sophia%20Shen%201202911/Sophia-Shen.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sophia Shen 1202911"
+        }
+      ]
+    },
+    {
+      "first_name": "Haven",
+      "last_name": "Shepherd",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2003-03-10T00:00:00",
+        "hometown": {
+          "city": "Carthage",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 37.1895,
+          "longitude": -94.3061
+        },
+        "education": "Homeschooled ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Haven was born in Vietnam and was adopted at 20 months old</li><li><p>She is a double amputee after losing her lower legs at 14 months old by a bomb that her birth parents detonated trying to commit a family murder/suicide</p></li><li><p>Haven is a motivational speaker, a CrossFit athlete, model, brand ambassador and dedicated advocate for people with disabilities</p></li><li><p>Daughter of Gary and Shelly Shepherd</p></li><li><p>Has four sisters, Chloe, Haley, Hannah and Ivy, and two brothers, Sawyer and Zach</p></li></ul><h5>Career Highlights</h5><ul><li><span>Parapan American Games Santiago 2023, gold (200-meter IM)</span></li><li>2019 World Para Swimming World Series Indianapolis, 2nd (100m breaststroke), 3rd (200m individual medley), 4th (50m freestyle), 5th (100m backstroke)</li><li>2018 World Para Swimming World Series Indianapolis, 1st (50m freestyle, 100m freestyle), 2nd (200m individual medley, 100m butterfly), 4th (100m breaststroke)</li><li>2017 Can-Am Open, 1st (100m butterfly, 50m freestyle, 100m breaststroke, 200m individual medley, 100m freestyle)</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 5th (200m Individual Medley SM8 - Women), 9th (100m Breaststroke SB7 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662037/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/shepherd_h_bio_871048.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S8",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662507/TeamUSA%20Assets/Athlete%20Profiles/Haven%20Shepherd%20871048/shepherd_h_hero_871048.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009098/TeamUSA%20Assets/Athlete%20Profiles/Haven%20Shepherd%20871048/Shepherd_Haven_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Haven Shepherd 871048"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Sheridan",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1975-10-13T00:00:00",
+        "hometown": {
+          "city": "Bay City",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.5945,
+          "longitude": -83.8886
+        },
+        "education": " Saginaw Valley State University ‘99, Occupational Therapy ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>When Sheridan was eighteen he incurred a spinal cord injury. After the accident, he began to pursue to rugby and hand-cycling. He played rugby for ten years until he decided to switch solely to cycling. Sheridan was nominated for Team USA’s Best of June award in 2015. He works as an occupational therapist and is the founder of Fusion Medical and Level Eleven Physical Therapy</li><li>Son of John and Carlyn Sheridan</li><li>Has two sisters, Laken and Livia Sheridan.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, bronze (H2 - Time Trial - Men), 6th (H1-2 - Road Race - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 5th (H2 - Road Race - Men, H2 - Time Trial - Men)</li><li>Years of participation: H2 - Road Race - Men 2014, 2015; H2 - Time Trial - Men 2014, 2015</li><li>Top finish: 4th – 2014 (H2 - Time Trial - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "MH2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009085/TeamUSA%20Assets/Athlete%20Profiles/Brian%20Sheridan%20825939/Sheridan_Brian_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Sheridan 825939"
+        }
+      ]
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Sherrill",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1999-08-31T00:00:00",
+        "hometown": {
+          "city": "Moore",
+          "state": "OK",
+          "country": "United States",
+          "latitude": 35.3333,
+          "longitude": -97.4833
+        },
+        "education": "Southmoore High School Florida State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her favorite activities include Netflix and YouTube</li><li>Her role model is Derek Jeter</li><li>Her goals in life include being happy and healthy</li><li>Three words that her friends would use to describe her would be funny, fearless, and humble</li><li>Favorite sport besides softball is football</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul><h5>More</h5><p><strong>What it means to represent the United States:</strong></p>\n<p>It is such an honor to be able to wear the USA uniform and play with some amazing athletes. It means I have to keep working hard to represent our country.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718891/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sydney%20Sherrill%201086127/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718894/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sydney%20Sherrill%201086127/SherrillSydney.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sydney Sherrill 1086127"
+        }
+      ]
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Sherry",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-07-08T00:00:00",
+        "hometown": {
+          "city": "Evergreen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6375,
+          "longitude": -105.3144
+        },
+        "education": "Mountain Vista High School (Highlands Ranch, Colo.) ‘12 University of Alaska - Fairbanks ‘17, Mechanical Engineering; American Military University, MBA",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Pamela Rose</li><li>Has one sibling, Cat</li><li>Married to Cheyenne Sherry</li><li>Specialist in the U.S. Army</li><li>Has hiked 15 mountains with elevations above 14,000 feet</li><li>Hopes to own goats one day</li><li>Hobbies include running, hiking and fishing.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (50m Rifle 3 Positions - Men, 10m Air Rifle - Men)</li><li>World Cup Final, Doha, 2023 (50m Rifle 3 Positions - Men)</li><li>Pan American Games, Lima, 2019 (50m Rifle 3 Positions - Men, 10m Air Rifle - Team - Mixed)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (300m Rifle Prone - Men, 300m Standard Rifle - Open), 5th (300m Free Rifle 3 x 40 - Men), 19th (50m Rifle Prone - Men, 50m Rifle Prone - Team (Mixed) - Mixed), 46th (50m Rifle 3 Positions - Men)</li><li>Years of participation: 300m Free Rifle 3 x 40 - Men 2022, 2023; 300m Rifle Prone - Men 2022, 2023; 300m Standard Rifle - Open 2022, 2023; 50m Rifle 3 Positions - Men 2022, 2023; 50m Rifle Prone - Men 2022, 2023; 50m Rifle Prone - Team (Mixed) - Mixed 2023; 300m Free Rifle 3 x 40 - Team - Men 2022; 300m Free Rifle prone - Team - Men 2022; 50m Rifle 3 Positions - Team - Men 2022</li><li>Medals: 3 (3 bronze)</li><ul><li>Bronze – 2023 (300m Rifle Prone - Men, 300m Standard Rifle - Open);  2022 (300m Standard Rifle - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361184/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tim%20Sherry/sherry_tim.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tim Sherry"
+        }
+      ]
+    },
+    {
+      "first_name": "Jay",
+      "last_name": "Shi",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1979-02-23T00:00:00",
+        "hometown": {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.44838,
+          "longitude": -112.07404
+        },
+        "education": "Gilbert High School (Gilbert, Ariz.) '98 Arizona State University, '04, Computer System Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ping Yang and Yumin Shi</li><li>Married to Yuan Yuan Wang</li><li>Is bilingual in Chinese and English</li><li>His family moved to the United States from Beijing to receive medical care for an injury to his right eye at age 11</li><li>Began competing internationally in 2013</li><li>Is a professional web developer</li><li>Hobbies include driving, archery and playing table tennis.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 ISSF Rio de Janeiro World Cup, 7th (50m air); 24th (10m air)</li>\r\n                            <li>2015 Pan American Games, silver (10m air)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 14th (50m Pistol - Men), 18th (10m Air Pistol - Men)</li></ul></ul><h5>More</h5>USA Shooting<h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 30th (10m Air Pistol - Team - Mixed), 69th (10m Air Pistol - Men)</li><li>Years of participation: 10m Air Pistol - Men 2023; 10m Air Pistol - Team - Mixed 2023</li><li>Top finish: 30th – 2023 (10m Air Pistol - Team - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361198/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jay%20Shi/Shi_Jay_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jay Shi"
+        }
+      ]
+    },
+    {
+      "first_name": "Maia",
+      "last_name": "Shibutani",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1994-07-20T00:00:00",
+        "hometown": {
+          "city": "Ann Arbor",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.2808,
+          "longitude": -83.743
+        },
+        "education": "Huron High School (Ann Arbor, Mich.)",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Ice Dance</li><li>Daughter of Chris Shibutani and Naomi Uyemura</li><li>Began skating at age four</li><li>Has one brother, Alex, with whom she skates</li><li>The duo is nicknamed \"the ShibSibs,\" the same as their YouTube Channel they founded in 2012</li><li>Enjoys fashion, cooking, traveling and filmmaking</li><li>Inducted into the U.S. Figure Skating Hall of Fame in 2023</li></ul><h5>Biographical Information</h5><p><span>Maia began figure skating at age four as a child in Greenwich, Connecticut. She switched to ice dance after attending the 2023&nbsp;ISU Figure Skating World Championships, where she teamed up with her brother Alex the following year. They would become known as the \"ShibSibs,\" moving around the country to Colorado Springs, Colorado, and Ann Arbor, Michigan, as teenagers for training.&nbsp;</span><span></span></p><p><span>When Maia was 16 and Alex was 20, they became world bronze medalists in their senior debut season, making them the youngest medalists at the event in nearly 50 years. Maia made her Olympic debut at the Olympic Winter Games Sochi 2014 with her brother, where they finished ninth as a wardrobe malfunction in the free dance led to a Level 2 deduction. They bounced back to become back-to-back world medalists before winning two bronze medals at Olympic Winter Games PyeongChang 2018, becoming</span> <span>the first athletes of Asian descent and the first non-white team to win an Olympic ice dance medal.&nbsp;</span><span></span></p><p><span>After the Olympics, the \"ShibSibs\" took a break from competition and extended it when Maia was diagnosed with kidney cancer in 2019, requiring surgery to remove a malignant tumor. With Maia fully recovered from cancer, they announced their return to competitive ice dancing in May 2025. During their time away from competition, Maia and her brother Alex wrote four children's books and were inducted into the U.S. Figure Skating Hall of Fame in 2023.</span><span></span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Pyeongchang 2018, bronze (Ice Dance - Mixed, Team - Mixed)</li><li>Olympic Games Sochi 2014, 9th (Ice Dance - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – bronze (Ice Dance - Mixed)</li><li>Years of participation: Ice Dance - Mixed 2011, 2012, 2013, 2014, 2015, 2016, 2017</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2016 (Ice Dance - Mixed)</li><li>Bronze – 2017 (Ice Dance - Mixed);  2011 (Ice Dance - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747763268/TeamUSA%20Assets/Athlete%20Profiles/Maia%20Shibutani%20831070/shibutani_m_bio_831070.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747763242/TeamUSA%20Assets/Athlete%20Profiles/Maia%20Shibutani%20831070/shibutani_m_hero_831070.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747763242/TeamUSA%20Assets/Athlete%20Profiles/Maia%20Shibutani%20831070/shibutani_m_hero_831070.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009105/TeamUSA%20Assets/Athlete%20Profiles/Maia%20Shibutani%20831070/shibutani_maia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maia Shibutani 831070"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Shibutani",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1991-04-25T00:00:00",
+        "hometown": {
+          "city": "Ann Arbor",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.2808,
+          "longitude": -83.743
+        },
+        "education": "Huron High School (Ann Arbor, Mich.) ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Ice Dance</li><li>Son of Chris Shibutani and Naomi Uyemura</li><li>Has one sister, Maia, with whom he skates</li><li>Began skating at age seven</li><li>Enjoys photography, following Boston sports teams, and hanging out with friends.</li><li>Co-written four children books with his sister, Maia</li></ul><h5>Biographical Information</h5><p><span>Alex Shibutani began figure skating at age seven, following his younger sister Maia, giving up his dreams of becoming a professional basketball player. In 2004, he teamed up with his sister to form the \"ShibSibs,\" an ice dancing team that would win medals at the U.S. Championships at every level (juvenile, intermediate, novice, junior, senior) for the next decade plus. &nbsp;</span></p><p>When Alex just turned 20 and Maia was 16, <span>they became world bronze medalists in their senior debut season, making them the youngest medalists at the event in nearly 50 years. Alex made his Olympic debut at the Olympic Winter Games Sochi 2014 with his sister, where they finished ninth as a wardrobe malfunction in the free dance led to a Level 2 deduction. They bounced back to become back-to-back world medalists before winning two bronze medals at the Olympic Winter Games PyeongChang 2018, making them </span><span>the first athletes of Asian descent and the first non-white team to win an Olympic ice dance medal.&nbsp;</span></p><p><span>After the Olympics, the \"Shibsibs\" took a break from competition and extended it when Maia was diagnosed with kidney cancer in 2019, requiring surgery to remove a malignant tumor. With Maia fully recovered from cancer, they announced their return to competitive ice dancing in May 2025. During their time away from competition, Alex and his sister, Maia, wrote four children's books and were inducted into the U.S. Figure Skating Hall of Fame in 2023.&nbsp;Alex also did work as a professional photographer covering events from the Emmys to the Olympic Games Paris 2024.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Pyeongchang 2018, bronze (Ice Dance - Mixed, Team - Mixed)</li><li>Olympic Games Sochi 2014, 9th (Ice Dance - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – bronze (Ice Dance - Mixed)</li><li>Years of participation: Ice Dance - Mixed 2011, 2012, 2013, 2014, 2015, 2016, 2017</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2016 (Ice Dance - Mixed)</li><li>Bronze – 2017 (Ice Dance - Mixed);  2011 (Ice Dance - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747762841/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Shibutani%20840640/shibutani_a_bio_840640.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747762820/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Shibutani%20840640/shibutani_a_hero_840640.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747762820/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Shibutani%20840640/shibutani_a_hero_840640.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009055/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Shibutani%20840640/shibutani_alex_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Shibutani 840640"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Claressa",
+      "last_name": "Shields",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-03-17T00:00:00",
+        "hometown": {
+          "city": "Flint",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.0121,
+          "longitude": -83.6875
+        },
+        "education": "Flint Northwestern High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Claressa already owns a piece of the history books as the first American woman to win gold in boxing and become the first American boxer (male or female) ever to win gold in back-to-back Olympic Games</li><li>She has inspired her hometown of Flint and women across the world with her story of overcoming a difficult childhood and intense adversity to become the greatest female boxer in the world.</li><li>The documentary chronicling her run to Olympic gold, T-Rex, has been screening across the country over the past two years and is now available on Vimeo. It will premiere on PBS on August 2.</li><li>A studio film based on her life is currently in the works</li><li>She idolizes Serena Williams</li><li>She is the first member of her family to graduate from high school. It was important to her to set a good example for her family and everyone who looks up to her</li><li>Claressa has only had one loss in her entire career. She lost to British World Champion Savannah Marshall just months before the 2012 Olympic Games. She hasn&#39;t had the chance to avenge the loss because Marshall has lost in several international events before getting to Shields since 2012.</li><li>She decided to start boxing after hearing about Laila Ali from her father Clarence Shields at age 11.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>AMERICAS OLYMPIC QUALIFIER CHAMPION</li>\r\n                            <li>2015 USA BOXING FEMALE ATHLETE OF THE YEAR</li>\r\n                            <li>U.S. OLYMPIC TRIALS CHAMPION</li>\r\n                            <li>2015 PAN AMERICAN GAMES CHAMPION (FIRST AMERICAN FEMALE TO WIN GOLD AT PAN AMS)</li>\r\n                            <li>2015 USA BOXING NATIONAL CHAMPION</li>\r\n                            <li>2014 USA BOXING NATIONAL CHAMPION</li>\r\n                            <li>2013 USA BOXING YOUTH NATIONAL CHAMPION</li>\r\n                            <li> 2012 WOMEN’S CONTINENTAL CHAMPION</li>\r\n                            <li>2012 U.S. OLYMPIC TEAM TRIALS CHAMPION AND OUTSTANDING BOXER</li>\r\n                            <li>2011 NATIONAL PAL CHAMPION</li>\r\n                            <li>TWO-TIME  JUNIOR OLYMPIC NATIONAL CHAMPION</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Middleweight - Women)</li><li>Olympic Games London 2012, gold (Middleweight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (Middleweight - Women)</li><li>Years of participation: Middleweight - Women 2012, 2014, 2016</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2016 (Middleweight - Women);  2014 (Middleweight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Boxing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009127/TeamUSA%20Assets/Athlete%20Profiles/Claressa%20Shields%20817852/Claressa-website.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Claressa Shields 817852"
+        },
+        {
+          "title": "Top Athletes"
+        },
+        {
+          "title": "Boxing"
+        }
+      ]
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Shields",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1991-07-11T00:00:00",
+        "hometown": {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6902,
+          "longitude": -118.0074
+        },
+        "education": "University of California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Tim and Jolene</li><li>Has one older sister, Lindy</li><li>Married to Gianna Shields</li><li>Nicknamed “Sunshine”</li><li>Began swimming at age 8</li><li>Enjoys surfing, skateboarding, reading and playing card games.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (4 x 100m Medley Relay - Men), 5th (4 x 100m Medley Relay - Mixed), 15th (100m Butterfly - Men)</li><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Medley Relay - Men), 7th (100m Butterfly - Men), 20th (200m Butterfly - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – gold (4 x 50m Medley Relay (SC) - Men), bronze (4 x 100m Freestyle Relay (SC) - Men), 4th (4 x 50m Freestyle Relay (SC) - Men), 6th (100m Butterfly (SC) - Men), 7th (50m Butterfly (SC) - Men)</li><li>Years of participation: 100m Butterfly (SC) - Men 2012, 2014, 2016, 2021; 4 x 100m Freestyle Relay (SC) - Men 2014, 2016, 2021; 4 x 50m Freestyle Relay (SC) - Men 2014, 2016, 2021; 4 x 50m Medley Relay (SC) - Men 2014, 2016, 2021; 50m Butterfly (SC) - Men 2012, 2014, 2016, 2021; 200m Butterfly (SC) - Men 2014, 2016; 4 x 100m Medley Relay (SC) - Men 2012, 2014, 2016; 4 x 50m Medley Relay (SC) - Mixed 2016; 100m Butterfly - Men 2015; 200m Butterfly - Men 2015; 4 x 100m Medley Relay - Men 2015; 100m Individual Medley (SC) - Men 2014</li><li>Medals: 18 (4 gold, 9 silver, 5 bronze)</li><ul><li>Gold – 2021 (4 x 50m Medley Relay (SC) - Men);  2016 (4 x 50m Medley Relay (SC) - Mixed);  2015 (4 x 100m Medley Relay - Men);  2012 (4 x 100m Medley Relay (SC) - Men)</li><li>Silver – 2016 (100m Butterfly (SC) - Men, 200m Butterfly (SC) - Men, 4 x 50m Freestyle Relay (SC) - Men, 4 x 50m Medley Relay (SC) - Men, 50m Butterfly (SC) - Men);  2014 (100m Butterfly (SC) - Men, 4 x 100m Medley Relay (SC) - Men, 4 x 50m Freestyle Relay (SC) - Men);  2012 (100m Butterfly (SC) - Men)</li><li>Bronze – 2021 (4 x 100m Freestyle Relay (SC) - Men);  2016 (4 x 100m Freestyle Relay (SC) - Men);  2014 (4 x 100m Freestyle Relay (SC) - Men, 4 x 50m Medley Relay (SC) - Men);  2012 (50m Butterfly (SC) - Men)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349639/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tom%20Shields/shields_tom_081216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349641/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tom%20Shields/shields_tom_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tom Shields"
+        }
+      ]
+    },
+    {
+      "first_name": "Alexis (Lexi)",
+      "last_name": "Shifflett-Patterson",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1996-05-12T00:00:00",
+        "hometown": {
+          "city": "Waseca",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.0772,
+          "longitude": -93.5827
+        },
+        "education": "DeVry University ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Entering her 12th year with U.S. Women's Sitting Volleyball National Team</li><li>Below-the-knee amputation at 9 months old due to the congenital&nbsp;condition Fibular Hemimelia</li><li>Daughter of John and Cathryn Shifflett. Has two sisters, Natalie and Michaela</li><li>Married Alexander Patterson in November 2021</li><li>Played club volleyball, high school volleyball and softball. She was named captain for both sports in her&nbsp;senior year</li><li>Introduced to sitting Volleyball at 15 years old, making her first national team roster at 16</li><li>Hobbies include traveling, make-up, and being a pet parent</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (3 gold)</li><ul><li>Paralympic Games Paris 2024, gold (Team - Women)</li><li>Paralympic Games Tokyo 2020, gold (Team - Women)</li><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2014, 2018, 2022</li><li>Medals: 3 (2 silver, 1 bronze)</li><ul><li>Silver – 2018 (Team - Women);  2014 (Team - Women)</li><li>Bronze – 2022 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662081/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/shiffletpatterson_l_bio_910734.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "VS1",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662891/TeamUSA%20Assets/Athlete%20Profiles/Alexis%20%28Lexi%29%20Shifflett%20910734/shiffletpatterson_l_hero_910734.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009049/TeamUSA%20Assets/Athlete%20Profiles/Alexis%20%28Lexi%29%20Shifflett%20910734/p150x250-Lexi-Shifflett.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alexis (Lexi) Shifflett 910734"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sitting Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Mikaela",
+      "last_name": "Shiffrin",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1995-03-13T00:00:00",
+        "hometown": {
+          "city": "Edwards",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6403,
+          "longitude": -106.592
+        },
+        "education": "Burke Mountain Academy",
+        "fun_fact": "Shiffrin matches the record for the most Olympic medals won by a U.S. woman in alpine skiing",
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong>Specialty:</strong></span><span>&nbsp;Slalom, Giant Slalom, Super-G, Downhill</span></li><li>Daughter of Eileen and Jeff Shiffrin<ul><li>Jeff skied at Dartmouth College and Eileen was a Masters ski racer.</li></ul></li><li>Her brother, Taylor, skied at University of Denver</li><li><span>The first alpine skier to record 100 FIS World Cup wins</span></li><li>S<span>et the record for the most FIS Alpine World Cup wins (17) in one season (2018-19)</span></li><li>First athlete in FIS Ski World Cup history to win in all six disciplines</li><li><span>The first American woman to win&nbsp;</span>a FIS Alpine Ski World Championship gold medal in four different disciplines</li><li><span>Investor in Denver Summit FC, the newest NWSL expansion team</span></li><li>Plays the guitar and piano</li><li>Enjoys tennis and windsurfing</li><li>Has won the most Olympic gold medals of any U.S. alpine skier</li></ul><h5>Biographical Information</h5><p><span>Mikaela Shiffrin was introduced to skiing at a young age by her parents, both former ski racers.&nbsp;</span><span>S</span>hiffrin <span>claimed her first world cup victory in&nbsp;</span>Åre<span>&nbsp;Sweden at 17 years old, the opening chapter of what would become an illustrious career as one of the best alpine skiers of all time.</span></p><p><span></span><span>Mikaela Shiffrin made her Olympic debut at the Olympic Winter Games Sochi 2014 Games becoming the youngest-ever slalom Olympic champion at 18.&nbsp;</span><span>At the Olympic Winter Games PyeongChang 2018, she won a gold in giant slalom to become one of three Americans with two Olympic golds in alpine skiing.</span></p><p><span></span><span>Shiffrin would continue to win four medals at the 2021 FIS Alpine Ski World Championships and head into the</span><span>&nbsp;Olympic Winter Games Beijing 2022 with high expectations. At the Beijing Games, Shiffrin&nbsp;</span>recorded <span>three DNF in events that she had medaled in at previous Winter Olympics, and her best finish was fourth in the mixed team event.</span></p><p><span>The following season</span><span>,&nbsp;</span><span>Mikaela Shiffrin had a historic 2022-23 season breaking Ingemar Stenmark's previous mark for all-time world cup wins before securing five medals in five races at the 2023 FIS Alpine Ski World Championships.&nbsp;</span><span>At the 2025 FIS Alpine Ski World Championships,</span><span>&nbsp;coming back from an injury that sidelined her for two months of the season, Shiffrin won gold in the team combined event with Breezy Johnson tying the all-time record for most FIS World Championships medal in alpine skiing history (15) and becoming the only skier to do it since World War II when the world championships moved to a&nbsp;</span>biennial f<span>ormat.</span><span></span></p><p><span>Off the slopes,&nbsp;</span>Shiffrin launched the Jeff Shiffrin Athlete Resiliency Fund in 2020, which has raised millions of dollars to help athletes struggling financially or struggling to train properly. After her 100th world cup win, she pledged to raise $100,000 dollars to Share Winter an organization that specializes in learn to ski and snowboard programs for youth who otherwise would not have access to these sports. Shiffrin raised nearly five times her expected goal in just a few months.<span style=\"font-size: 11pt;\"></span></p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 4-time Olympic medalist (3 gold, 1 silver)<ul><li>Olympic Games Milan 2026, gold (Slalom - Women), 4th (Team Alpine Combined - Women), 11th (Giant Slalom - Women)</li><li>Olympic Games Beijing 2022, (Giant Slalom - Women, Slalom - Women, Super Combined - Women), 4th (Team - Mixed), 9th (Super G - Women), 18th (Downhill - Women)</li><li>Olympic Games Pyeongchang 2018, gold (Giant Slalom - Women), silver (Super Combined - Women), 4th (Slalom - Women)</li><li>Olympic Games Sochi 2014, gold (Slalom - Women), 5th (Giant Slalom - Women)</li></ul></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team Alpine Combined - Women), 5th (Slalom - Women)</li><li>Years of participation: Slalom - Women 2013, 2015, 2017, 2019, 2021, 2023, 2025; Team Alpine Combined - Women 2025; Giant Slalom - Women 2013, 2015, 2017, 2019, 2021, 2023; Super Combined - Women 2021, 2023; Super G - Women 2019, 2021, 2023; Team - Mixed 2013, 2015</li><li>Medals: 15 (8 gold, 4 silver, 3 bronze)<ul><li>Gold – 2025 (Team Alpine Combined - Women); 2023 (Giant Slalom - Women); 2021 (Super Combined - Women); 2019 (Slalom - Women, Super G - Women); 2017 (Slalom - Women); 2015 (Slalom - Women); 2013 (Slalom - Women)</li><li>Silver – 2023 (Slalom - Women, Super G - Women); 2021 (Giant Slalom - Women); 2017 (Giant Slalom - Women)</li><li>Bronze – 2021 (Slalom - Women, Super G - Women); 2019 (Giant Slalom - Women)</li></ul></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662093/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Shiffrin_M_bio_865708.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686058203/TeamUSA%20Assets/Migration/Shiffrin_Mikaela_021623_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771426917/Shiffrin_Mikaela_Gold_MiCo_218.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009074/TeamUSA%20Assets/Athlete%20Profiles/Mikaela%20Shiffrin%20865708/shiffrin_mikaela_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mikaela Shiffrin 865708"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Top Athletes"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Jarrod",
+      "last_name": "Shoemaker",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1982-07-17T00:00:00",
+        "hometown": {
+          "city": "Sudbury",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3945,
+          "longitude": -71.4045
+        },
+        "education": " Dartmouth College",
+        "fun_fact": null,
+        "biography": "<p><strong>First Year Elite: </strong>2004<br>\n</p>\n<p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 18th (Olympic Distance - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2012 –  (Team Relay - Mixed)</li><li>Years of participation: Team Relay - Mixed 2009, 2012; Individual Ranking - Men 2009, 2010, 2011; Olympic Distance - Men 2006, 2007, 2008</li><li>Top finish:  – 2012 (Team Relay - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718857/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jarrod%20Shoemaker%20855589/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718858/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jarrod%20Shoemaker%20855589/Jarrod_Shoemaker_2008.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jarrod Shoemaker 855589"
+        }
+      ]
+    },
+    {
+      "first_name": "Kawika",
+      "last_name": "Shoji",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1987-11-11T00:00:00",
+        "hometown": {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        },
+        "education": "Stanford University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Dave and Mary Shoji</li><li>Father retired as the University of Hawaii women&#39;s volleyball coach in 2016; won four national titles in 34 seasons and left coaching with the most wins in NCAA DI women’s volleyball history</li><li>Mary Shoji played basketball at Hawaii</li><li>Kawika married his wife, Megan, in 2014</li><li>Daughter, Ada-Jean was born in 2018. Daughter Lila-Joy was born in 2020</li><li>Has one brother, Erik, and a sister, Cobey</li><li>Erik plays libero for the U.S. Men’s National Volleyball Team</li><li>Hobbies include surfing, golfing and reading.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, 10th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – bronze (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul><h5>More</h5><p>USA Volleyball</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662036/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/shoji_k_bio_909444.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662589/TeamUSA%20Assets/Athlete%20Profiles/Kawika%20Shoji%20909444/shoji_k_hero_909444.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009109/TeamUSA%20Assets/Athlete%20Profiles/Kawika%20Shoji%20909444/2017-Kawika-Shoji.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kawika Shoji 909444"
+        }
+      ]
+    }
+  ]
+}

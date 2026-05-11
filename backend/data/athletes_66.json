@@ -1,0 +1,1082 @@
+{
+  "entries": [
+    {
+      "first_name": "Michael",
+      "last_name": "Hixon",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1994-07-16T00:00:00",
+        "hometown": {
+          "city": "Amherst",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3732,
+          "longitude": -72.5199
+        },
+        "education": " Indiana University, University of Michigan ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mandy and David Hixon</li><li>Has an older brother, Matthew</li><li>Michael started diving when he was 7 years old</li><li>His mom dove at Ohio State and was the diving coach at the University of Massachusetts</li><li>She coached Michael until he began his college career</li><li>Michael’s dad was the long-time basketball coach at Amherst College</li><li>His favorite dive is 407C (inward 3 1/2 somersaults, tuck)</li><li>Michael enjoys the NFL, NBA, and reading</li><li>If he could meet anyone, it would be Barack Obama</li><li>Michael majored in economic consulting at Indiana University and is pursuing an MBA at Michigan</li></ul><h5>Career Highlights</h5><ul><li>2020 World Cup team member</li><li>2019 Pan American Games team member (bronze, synchronized 3-meter)</li><li>2016, 2018 World Cup team member (finalist on 3-meter)</li><li>Two-time World Junior Championships medalist (1-meter bronze in 2012, synchronized 3-meter silver in 2010)</li><li>2014 NCAA champion on 1-meter and 3-meter while competing at the University of Texas</li><li>Five-time national champion (two 1-meter, one 3-meter, two synchronized 3-meter)</li><li>Four-time Junior Pan American Championships medalist (2011: gold, 3-meter; bronze 1-meter; 2009: bronze, 1-meter and 3-meter)</li><li>Nine-time junior national champion</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (3m Springboard Synchro - Men)</li><li>Olympic Games Rio de Janeiro 2016, silver (3m Springboard Synchro - Men), 10th (3m Springboard - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 7th (3m Springboard - Men), 8th (3m Springboard Synchro - Men), 17th (1m Springboard - Men)</li><li>Years of participation: 1m Springboard - Men 2015, 2017, 2019; 3m Springboard - Men 2015, 2017, 2019; 3m Springboard Synchro - Men 2013, 2017, 2019</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2015 (1m Springboard - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662016/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Hixon_M_bio_848813.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662837/TeamUSA%20Assets/Athlete%20Profiles/Michael%20Hixon%20848813/Hixon_M_hero_848813.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006179/TeamUSA%20Assets/Athlete%20Profiles/Michael%20Hixon%20848813/Hixon_Michael_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Hixon 848813"
+        }
+      ]
+    },
+    {
+      "first_name": "Yen",
+      "last_name": "Hoang",
+      "bio": {
+        "height": "4'9\"",
+        "birthday": "1997-03-08T00:00:00",
+        "hometown": {
+          "city": "Vancouver",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 45.6387,
+          "longitude": -122.6615
+        },
+        "education": " University of Illinois at Urbana Champaign ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Minh Thi and Lien Hoang</li><li>Has a sister, Anh Thi</li><li>Family is Vietnamese</li><li>First Paralympic competition was the 2014 U.S. Paralympics Track &amp; Field National Championships</li><li>Enjoys playing wheelchair basketball, cross-country and wheelchair rugby</li><li>Hobbies include doing crafts in her free time, including oil painting and origami.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Parapan American Games, gold (800-meter)</li>\r\n                            <li>2019 Parapan American Games, silver (400-meter)</li>\r\n                            <li>2015 U.S. Paralympics Track &amp; Field National Championships, 4th (100-meter), 5th (400-meter, 800-meter, 1,500-meter)</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 8th (800m T53 - Women), 9th (100m T53 - Women, 400m T53 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 9th (200m T53 - Women), 10th (100m T53 - Women)</li><li>Years of participation: 100m T53 - Women 2015; 200m T53 - Women 2015</li><li>Top finish: 9th – 2015 (200m T53 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661996/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/hoang_y_bio_905622.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T53",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662644/TeamUSA%20Assets/Athlete%20Profiles/Yen%20Hoang%20905622/hoang_y_hero_905622.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006250/TeamUSA%20Assets/Athlete%20Profiles/Yen%20Hoang%20905622/Hoang_Yen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Yen Hoang 905622"
+        }
+      ]
+    },
+    {
+      "first_name": "Aleia",
+      "last_name": "Hobbs",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1996-02-24T00:00:00",
+        "hometown": {
+          "city": "New Orleans",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 29.9511,
+          "longitude": -90.0715
+        },
+        "education": "Louisiana State University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>Won gold in women&#39;s 4x100-meter relay at 2015 Pan American Junior Championships</li>\r\n                            <li>Won gold in women&#39;s 4x100-meter relay at World Relays</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (4 x 100m Relay - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – gold (4 x 100m Relay - Women), 6th (100m - Women)</li><li>Years of participation: 100m - Women 2022; 4 x 100m Relay - Women 2022</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2022 (4 x 100m Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662330/TeamUSA%20Assets/Athlete%20Profiles/Aleia%20Hobbs%201125650/Hobbs_A_Hero_1125650.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662395/TeamUSA%20Assets/Athlete%20Profiles/Aleia%20Hobbs%201125650/Hobbs_A_Bio_1125650.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006287/TeamUSA%20Assets/Athlete%20Profiles/Aleia%20Hobbs%201125650/Aleia_Hobbs_150x250_2021.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aleia Hobbs 1125650"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Brittany",
+      "last_name": "Hochevar",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1981-05-26T00:00:00",
+        "hometown": {
+          "city": "Fowler",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.0997,
+          "longitude": -104.0155
+        },
+        "education": "Long Beach State, broadcast journalism and marketing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Graduated from Long Beach State with a degree in broadcast journalism and marketing</li><li>Worked for the newly created Olympic Channel during the 2016 Olympic Games in Rio de Janeiro, Brazil</li><li>Father, Brian, played for the Denver Nuggest and coached college baseball. Mom, Carmen, played DII volleyball and basketball at Southern Colorado</li><li>Brother Luke played baseball for Tennessee and was the No. 1 overall pick in the 2006 first-year player draft and made his MLB debut with the Kansas City Royals</li><li>In 2015, Luke won the World Series and was the pitcher of record in the title-claiming game</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santo Domingo, 2003 (Team - Women)</li></ul><h5>More</h5>View Brittany Hochevar's full career statistics on bvbinfo.com<h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2013</li><li>Top finish: 5th – 2013 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930052/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brittany%20Hochevar/Web-BrittanyHochevarl.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brittany Hochevar"
+        }
+      ]
+    },
+    {
+      "first_name": "Cole",
+      "last_name": "Hocker",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-06-06T00:00:00",
+        "hometown": {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.7684,
+          "longitude": -86.1581
+        },
+        "education": "University of Oregon",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (1500m - Men)</li><li>Olympic Games Tokyo 2020, 6th (1500m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 7th (1500m - Men)</li><li>Years of participation: 1500m - Men 2023</li><li>Top finish: 7th – 2023 (1500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662881/TeamUSA%20Assets/Athlete%20Profiles/Cole%20Hocker%201228830/Hocker_C_Bio_1228830.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662173/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/hocker_c_hero_1228830.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006273/TeamUSA%20Assets/Athlete%20Profiles/Cole%20Hocker%201228830/Hocker_Cole.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cole Hocker 1228830"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Sara",
+      "last_name": "Hodek",
+      "bio": {
+        "height": "5'4",
+        "birthday": "2001-02-22T00:00:00",
+        "hometown": {
+          "city": "Fairdale",
+          "state": "ND",
+          "country": "United States",
+          "latitude": 48.49,
+          "longitude": -98.12
+        },
+        "education": "Edmore High School",
+        "fun_fact": null,
+        "biography": "",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sara Hodek"
+        }
+      ]
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Hoff",
+      "bio": {
+        "height": "6'6 (198cm)\"",
+        "birthday": "1973-06-09T00:00:00",
+        "hometown": {
+          "city": "Park Ridge",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.0084,
+          "longitude": -87.8306
+        },
+        "education": "Long Beach State",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born Thomas John Hoff in 1973 in Chicago, Ill</li><li>Son of Margaret and Richard Hoff</li><li>Wife&#39;s name is Sandy</li><li>They are the parents of five daughters, Tatum Bella, born in 2003, Ella Aniston, born in 2005, Ava Antonia, born in 2007 and twins Demi and Zoey born in September 2009</li><li>Has one brother, Rich, and a sister, Jennifer</li><li>Enjoys engineering topics, fish tanks, hiking and mountain biking</li><li>Graduated from Long Beach State University in 1996 with a degree in mechanical engineering</li><li>In 2002, he was inducted into Long Beach State&#39;s Athletics Hall of Fame</li><li>In 2006, was added to Long Beach State&#39;s men&#39;s volleyball Wall of Honor</li><li>Became the U.S. Men&#39;s team captain in 2005 and quickly found out that the title is not honorary: &quot;It involves a lot more work behind the scenes that people don&#39;t know about,&quot; Hoff said. &quot;Most of the work is done away from the scenes, behind closed doors&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>MAJOR INTERNATIONAL COMPETITION  2009: – NORCECA Continental Championship (Silver Medal)</li>\r\n                            <li>MAJOR INTERNATIONAL COMPETITION  2009: Brazil Tour</li>\r\n                            <li>MAJOR INTERNATIONAL COMPETITION  2009: FIVB World League.</li>\r\n                            <li>2009: – Tom served as the team captain captain at the NORCECA Continental Championships</li>\r\n                            <li>2009: Tom traveled with a group of newer players and veterans for five “friendly” matches in Brazil. The U.S. team did not win a match</li>\r\n                            <li>2009: Tom served as team captain and played in two World League pool play matches and one final round match as the U.S. Men placed sixth.</li>\r\n                            <li>2008: – Olympic Games (Gold Medal)</li>\r\n                            <li>2008: FIVB World League (Gold Medal)</li>\r\n                            <li>2008: NORCECA Continental Olympic Qualifying Championship (Gold Medal).</li>\r\n                            <li>2008: – Tom served as team captain at the 2008 Olympic Games as the U.S. Men won the gold medal. Although he saw limited playing time, Hoff played a key role as team captain when U.S. Head Coach Hugh McCutcheon could not be with the team due to an attack on his in-laws</li>\r\n                            <li>2008: Served as U.S. team captain for the World League, which the U.S. Men won for the first time. Was 15th among all blockers in the final round with five blocks on 15 attempts</li>\r\n                            <li>2008: Served as U.S. team captain as the U.S. Men won the NORCECA Continental Olympic Qualifier.</li>\r\n                            <li>2007: FIVB World Cup</li>\r\n                            <li>2007: NORCECA Continental Championship (Gold Medal)</li>\r\n                            <li>2007: Americas&#39; Cup (Gold Medal)</li>\r\n                            <li>2007: FIVB World League (Bronze Medal).</li>\r\n                            <li>2007: Tom served as team captain for the FIVB World Cup, NORCECA Continental Championship, Americas&#39; Cup and World League tournaments</li>\r\n                            <li>2007: He finished the season with 76 kills, 35 scoring blocks and 112 total points in 66 sets played</li>\r\n                            <li>2007: Scored 12 points in the United States&#39; victory over Bulgaria at the FIVB World Cup</li>\r\n                            <li>2007: Scored a season-high 14 points on 11 kills and three blocks in Americas&#39; Cup match against Canada.</li>\r\n                            <li>2006: FIVB World Championships</li>\r\n                            <li>2006: Tom acted as team captain at both the FIVB World League and World Championship tournaments</li>\r\n                            <li>2006: Had 21 scoring blocks and finished the season with 95 points.</li>\r\n                            <li>2005: - Argentina Tour</li>\r\n                            <li>2005: NORCECA Continental Championships (Gold Medal)</li>\r\n                            <li>2005: World Grand Champions Cup (Silver Medal).</li>\r\n                            <li>2005: Tom capped the 2005 season as a member of the USA squad that captured the silver medal at the FIVB World Grand Champions Cup in November in Japan</li>\r\n                            <li>2005: The Americans, who lost to defending Olympic gold medalist Brazil in the first match of the tournament, lost just one set the rest of the way as they defeated Japan (3-1), 2004 Olympic silver medalist Italy (3-0), Egypt (3-0) and China (3-0) en route to their fifth medal in five events this season</li>\r\n                            <li>2005: The team captain scored 11 points as the USA Men stunned the world&#39;s best team when it defeated 2004 Olympic gold medalist Brazil in five sets to win the America&#39;s Cup tournament in Brazil on Aug. 7</li>\r\n                            <li>2005: Scored 10 points as Team USA won its second-straight NORCECA Continental Championship with a four-set victory over Cuba on Sept. 15</li>\r\n                            <li>2005: The USA Men qualified for the FIVB World Grand Champions Cup with the gold-medal win.</li>\r\n                            <li>2004: - NORCECA Olympic Qualifying Tournament (Gold Medal)</li>\r\n                            <li>2004: Japan Tour</li>\r\n                            <li>2004: Houston Series</li>\r\n                            <li>2004: USA Global Challenge (First Place)</li>\r\n                            <li>2004: Serbia and Montenegro Tour (Second Place)</li>\r\n                            <li>2004: Olympic Games (Fourth Place).</li>\r\n                            <li>2004: Tom made his second-straight Olympic appearance in Athens, Greece as the USA Men finished in fourth place</li>\r\n                            <li>2004: Ranked fifth on the team in scoring in Athens after posting 52 points on 42 kills, nine blocks and one service ace</li>\r\n                            <li>2004: Team USA qualified for the 2004 Olympic Games in Athens, Greece, by winning the NORCECA Olympic Qualifying Tournament in Caguas, Puerto Rico on Jan. 10</li>\r\n                            <li>2004: The men posted a perfect record of 6-0 en route to the gold medal, which included a come-from-behind, 3-2 win over Cuba in the championship match.</li>\r\n                            <li>2003: - Canada Tour</li>\r\n                            <li>2003: NORCECA Zone Championships (Gold Medal)</li>\r\n                            <li>2003: World Cup (Fourth Place).</li>\r\n                            <li>2003: After two injury-filled seasons (2001 and 2002), Hoff has been relatively injury-free during the 2003 campaign and one of the major reasons the team has advanced to the World Cup</li>\r\n                            <li>2003: Finished tied for third on the team in blocks (13) and sixth on the team in scoring (71 points on 53 kills, 13 blocks and five service aces) at the World Cup.</li>\r\n                            <li>2002: - Florida Tour.</li>\r\n                            <li>2002: Injuries limited him to just one match during the year</li>\r\n                            <li>2002: He scored two points on one kill and one block in a five-set loss to Italy on Sept. 21.&#160; 2001 - Injuries limited him to just three tournaments during the year</li>\r\n                            <li>2002: Still finished first in stuff blocks (53) and hitting percentage (.424)</li>\r\n                            <li>2002: Also was fourth on the team in kills (146)</li>\r\n                            <li>2002: Had 36 digs and seven service aces</li>\r\n                            <li>2002: Played professionally with Iraklas in Greece.</li>\r\n                            <li>2001: - World League</li>\r\n                            <li>2001: Jeep America&#39;s Cup.</li>\r\n                            <li>2000: - Americas&#39; Cup</li>\r\n                            <li>2000: Bulgaria Tour</li>\r\n                            <li>2000: Continental Cup</li>\r\n                            <li>2000: Saw action in every set of the Olympic Games, with 25 kills, 10 blocks and a .421 hitting percentage</li>\r\n                            <li>2000: Recorded 12 kills, two blocks and a .455 hitting percentage on the Bulgaria Tour</li>\r\n                            <li>2000: Set out the middle of the year with a bulging disc in his back</li>\r\n                            <li>2000: Posted 22 kills and a .588 hitting percentage in helping the team qualify for the 2000 Sydney Olympics at the Continental Cup</li>\r\n                            <li>2000: Played professionally for Toray Volleyball Team in Japan.</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Beijing 2008, gold (Team - Men)</li><li>Olympic Games Athens 2004, 4th (Team - Men)</li><li>Olympic Games Sydney 2000, 11th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2006 – 10th (Team - Men)</li><li>Years of participation: Team - Men 2006</li><li>Top finish: 10th – 2006 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930023/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tom%20Hoff/USATomHoff2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tom Hoff"
+        }
+      ]
+    },
+    {
+      "first_name": "Katerina",
+      "last_name": "Hoffman",
+      "bio": {
+        "height": "5' 2\"",
+        "birthday": "2005-12-22T00:00:00",
+        "hometown": {
+          "city": "Whitehouse Station",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Hunterdon Central Regional High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Katerina is the daughter of Kristopher Hoffman and Natasha Chikina</li><li>She is coached by her dad</li><li>Her mother is the diving coach at Rutgers University and was a two-time Olympian for Kazakhstan (1996 and 2000)</li><li>She has a younger sister, Sophia, who is also a diver</li><li>Her favorite dive is 305C on 3-meter</li><li>Likes to listen to music and do homework or coloring books in between dives at competitions</li><li>Enjoys golf, playing guitar and painting</li><li>Her favorite food is sushi</li></ul><h5>Career Highlights</h5><ul><li>2019 Junior Pan American Championships team member (4th, 3-meter; 7th, platform; 8th, 1-meter)</li><li>2019 junior national champion (3-meter, platform)</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930066/TeamUSA%20Assets/Migration/Athlete%20Profiles/Katerina%20Hoffman/Katerina-Hoffman_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Katerina Hoffman"
+        }
+      ]
+    },
+    {
+      "first_name": "Sylvia",
+      "last_name": "Hoffman",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1989-06-29T00:00:00",
+        "hometown": {
+          "city": "Arlington",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7357,
+          "longitude": -97.1081
+        },
+        "education": "LSU Shreveport, Louisiana",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul>Sylvia Hoffman is an American multi-sport athlete known for her excitement to try a multitude of sports before making her first Olympic team as a bobsledder. She competed in a variety of sports before bobsled including Olympic&nbsp;<strong>weightlifting</strong>,&nbsp;<strong>track and field</strong>,&nbsp;<strong>basketball</strong>&nbsp;and&nbsp;<strong>volleyball</strong>.She loves movies, exploration, social gatherings and hand/eye coordination activities<p></p><p>Hoffman, originally from Philadelphia, grew up in Arlington Texas with her father and older brother. From a young age she loved playing sports initially favoring baseball, soccer, and sprinting. When the WNBA formed she began playing basketball at the YMCA. Given a direction for sport, she stuck with it through high school while also playing volleyball and doing track &amp; field along the way. After winning the 5A Texas State Championship, she earned a basketball scholarship to Kilgore College and later transferred to LSU Shreveport, Louisiana (LSUS).</p><p></p>After finishing four years of college basketball, she transitioned into Weightlifting while finishing her Bachelors at LSUS. While training along other top ranked athlete, she rose to compete in two international teams within her first two years into the sport, she pursued an opportunity at making the Rio Games. Coming up short, following an injury, Hoffman battled back to compete once more for Team USA Weightlifting in 2017 Tepei before being discovered in 2018 by USA Bobsled at Scouting Camp: The Next Olympic Hopeful<li>Hoffman had a huge first year in her new sport by making the World Cup team competing in the World Championship Team Competition in 2019. She spent four years collecting National Championship titles and helping her pilots drive them to win World Cup medals for the US women's bobsled program. In 2022 Hoffman finally made her Olympic debut. She continued to dominate in her third main sport by setting a start record in Beijing alongside her pilot Elana Meyers Taylor pushing them into winning an Olympic Bronze medal in the 2-woman event at the age of 32.<br></li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Beijing 2022, bronze (2-Man Competition - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 7th (Monobob - Women)</li><li>Years of participation: Monobob - Women 2024; 2-Man Competition - Women 2021; Team Competition - Mixed 2019</li><li>Top finish: 4th – 2019 (Team Competition - Mixed)</li></ul><h5>Bobsled Career Highlights</h5><ul><li>Olympic Medalist (1 Bronze)</li></ul><ul><li>Six-time U.S. National Push Champion (Pilot [2], Brakewoman [4])</li><li>National Champion (Pilot)</li><li>Seven-time World Cup medalist (1 Gold, 1 Silver, 5 Bronze)</li><li>Six-time North American Cup medalist (2 Gold, 4 Bronze)</li><li>Europe Cup medalist (1 Gold)</li><li>To be Continued...</li></ul><h5>Weightlifting Career Highlights</h5><ul><li>Placed 2nd at 2012 National University Championships</li><li>Competed in 2012 World University Championships in Eilat, Israel</li><li>Competed in 2013 World Universiade in Kazan, Russia</li><li>Placed 4th at 2016 National Championships</li><li>Competed in 2017 World Universiade in Taipei, Taiwan</li><li>Placed 4th at 2018 National Championships</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1728790098/TeamUSA%20Assets/Athlete%20Profiles/Sylvia%20Hoffman%20814920/Hoffman%20S%20Games%20shot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        },
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662961/TeamUSA%20Assets/Athlete%20Profiles/Sylvia%20Hoffman%20814920/Hoffman_S_hero_814920.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1728792651/TeamUSA%20Assets/Athlete%20Profiles/Sylvia%20Hoffman%20814920/Hoffman%20DC%20week%20photoshoot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bobsled"
+        },
+        {
+          "title": "Weightlifting"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Sylvia Hoffman"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Hoffman",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1989-08-01T00:00:00",
+        "hometown": {
+          "city": "Aspen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.1911,
+          "longitude": -106.8175
+        },
+        "education": "Aspen High School (Aspen, Colo.) '07 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sharon and Michael Hoffman</li><li>Has one sister, Maggie</li><li>Began skiing at age 4</li><li>Hobbies include reading, playing tennis and soccer, alpine skiing and spending time with family and friends.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 11th (4 x 10km Relay - Men), 31th (50km Classic Style - Men), 45th (15km Freestyle - Men), 51th (2 x 15km Skiathlon - Men)</li><li>Olympic Games Sochi 2014, 11th (4 x 10km Relay - Men), 26th (50km Freestyle - Men), 31th (15km Classic Style - Men), 34th (2 x 15km Skiathlon - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 49th (50km Freestyle - Men), 55th (2 x 15km Skiathlon - Men)</li><li>Years of participation: 2 x 15km Skiathlon - Men 2011, 2013, 2015, 2017; 50km Freestyle - Men 2011, 2017; 15km Freestyle - Men 2013, 2015; 4 x 10km Relay - Men 2011, 2013, 2015; 50km Classic Style - Men 2013, 2015; 15km Classic Style - Men 2011</li><li>Top finish: 10th – 2013 (4 x 10km Relay - Men)</li></ul><h5>More</h5><p>Personal Website<br>\nU.S. Ski and Snowboard Association</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006236/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Hoffman%20864721/hoffman_noah_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cross-Country Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006237/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Hoffman%20864721/hoffman_noah_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Hoffman 864721"
+        }
+      ]
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Hoffman",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1994-08-07T00:00:00",
+        "hometown": {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.2904,
+          "longitude": -76.6122
+        },
+        "education": "University of Maryland",
+        "fun_fact": "",
+        "biography": "<p><br /></p><h5>Career Highlights</h5>• Third place, 2014 Copa Americas Cup<br /><br /><h5>Quick Facts</h5>Daniel Hoffman began competing with the U.S. Paralympics Soccer National Team shortly after attending his first camp in July 2014. He competed in his first international competition the same year - at the Copa Americas, where the U.S. team finished in third. Originally a forward, Hoffman has since taken on a defensive role. He is a trained field player and goalkeeper.<br /><br />A native of Baltimore, Maryland, Hoffman has travelled all over the country, attending five different colleges. He was born with cerebral palsy on his right side.<br />Education: Franklin High School (Reistertown, Md.) University of Maryland<br />Outside of soccer, Hoffman enjoys weightlifting and cycling, and boasts that he can eat an entire Chipotle burrito in less than a minute.<br /><br /><strong>Connect</strong><br />Twitter:&nbsp;<p>@bigbodydan</p><p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "7",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930079/TeamUSA%20Assets/Migration/Athlete%20Profiles/Daniel%20Hoffman/Hoffman.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Daniel Hoffman"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Connor",
+      "last_name": "Hogan",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1997-06-06T00:00:00",
+        "hometown": {
+          "city": "Foxborough",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.0676,
+          "longitude": -71.234
+        },
+        "education": " DeVry University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Hogan began ski racing at age seven</li><li>At age 18 months, he was diagnosed with cerebral palsy, caused by an in utero stroke. It affected the frontal lobe of his brain, resulting in him not having a full range of motion on the right side of his body</li><li>Fluent in French</li><li>Hobbies include golfing, mountain biking and hiking.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Beijing 2022,  (Super-G - Standing - Men), 28th (Downhill - Standing - Men)</li><li>Paralympic Games Pyeongchang 2018,  (Slalom - Standing - Men), 24th (Giant Slalom - Standing - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 –  (Super Combined - Standing - Men), 23th (Downhill - Standing - Men), 27th (Super-G - Standing - Men), 31th (Giant Slalom - Standing - Men)</li><li>Years of participation: Downhill - Standing - Men 2019, 2022; Giant Slalom - Standing - Men 2019, 2022; Super Combined - Standing - Men 2019, 2022; Super-G - Standing - Men 2019, 2022; Slalom - Standing - Men 2015, 2019</li><li>Top finish:  – 2019 (Giant Slalom - Standing - Men), 2019 (Slalom - Standing - Men), 2019 (Super Combined - Standing - Men), 2022 (Super Combined - Standing - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662006/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/hogan_c_bio_827080.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "LW9-2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009880/TeamUSA%20Assets/Athlete%20Profiles/Connor%20Hogan%20827080/Hogan_Connor_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Connor Hogan 827080"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Alpine Skiing"
+        }
+      ]
+    },
+    {
+      "first_name": "Maggie",
+      "last_name": "Hogan",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1979-01-01T00:00:00",
+        "hometown": {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6902,
+          "longitude": -118.0074
+        },
+        "education": "UC Santa Barbara",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Nickname: &quot;Maggs&quot;</li><li>Job: GE&#39;s Transportation division</li><li>Hobbies: surfing, sailing, surfski, travel, a good book, and spending time with my awesome pup Wrecks, and projector movie nights :)</li><li>Other sports: swam in college</li><li>How&#39;d you get started? Through surf lifesaving. I was going through San Diego Lifeguard Academy and trying to learn how to surf ski</li><li>Who&#39;s your hero? My family. Through their sacrifices, I am able to pursue my dreams.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 World Cup: silver medal K1 5000m</li>\r\n                            <li>2016 National Team Trials winner K1 500m</li>\r\n                            <li>2016 Pan American Championships: 3rd in K1W 500m (Olympic Qualifier K1 500m)W</li>\r\n                            <li>2014 World Cup medalist</li>\r\n                            <li>2013 World Cup No. 2: silver (K2 1000m), 13th (K2 500m with Kaitlyn McElroy)</li>\r\n                            <li>2013 World Cup No. 1: bronze (K2 1000m), 11th (K2 500m with Kaitlyn McElroy)</li>\r\n                            <li>2012 World Cup No. 2: silver (K2 1000m), 12th (K2 500m)</li>\r\n                            <li>2012 World Cup No. 1: bronze (K2 1000m), 12th (K2 500m)</li>\r\n                            <li>2010 Pan Am Champion (K-1 1000m)</li>\r\n                            <li>14-time National Champion</li>\r\n                            <li>US National Team 2005-present</li>\r\n                            <li>Traveled to Beijing 2008 Olympics as a training partner</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 22th (K1 500m - Women), 27th (K1 200m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 12th (K2 - Women), 16th (K2 500m - Women)</li><li>Years of participation: K2 - Women 2012, 2013, 2014; K2 500m - Women 2007, 2011, 2014; K1 4 x 200m Relay - Women 2009, 2011; K2 200m - Women 2011; K4 500m - Women 2005, 2006, 2007, 2010; K1 1000m - Women 2009; K1 500m - Women 2009; K4 200m - Women 2005, 2006, 2007; K4 1000m - Women 2005, 2006</li><li>Top finish: 8th – 2012 (K2 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929805/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maggie%20Hogan/Maggie-Hogan-pan-ams.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maggie Hogan"
+        }
+      ]
+    },
+    {
+      "first_name": "Steven",
+      "last_name": "Holcomb",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1980-04-14T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": "University of Utah; DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>He became a pilot after serving as a brakeman early in his career, and switched after failing to make the 2002 U.S. Olympic Team</li><li>Underwent a pioneering eye procedure to restore his vision after battling degenerative eye disease</li><li>Served seven years in the Utah Army National Guard before focusing fully on his bobsled career</li><li>Inducted into the USOPC Hall of Fame, Class of 2025</li></ul><div><h5>Biographical Information</h5><p>Steven Holcomb began his bobsled career as a push athlete in 1998 before transitioning to driving in 2002. He quickly made his mark, reaching the podium in all eight races of the America's Cup circuit that season. At the Olympic Winter Games Torino 2006, Holcomb placed 14th in the two-man and sixth in the four-man events. His career took off in 2007 when he claimed the world cup titles in both two-man and combined standings.</p><p>Holcomb candidly shared his journey through vision loss and depression in his autobiography, \"But Now I See: My Journey from Blindness to Olympic Gold\".</p><p>Team Night Train, the 2010 U.S. four-man bobsled team, made history at the Olympic Winter Games Vancouver 2010 by winning gold and ending a 62-year drought in the event, Team USA’s first Olympic title since 1948. The team earned its medal at the Whistler Sliding Centre, known for its challenging course and infamous Turn 13, where six sleds crashed during the first two runs. Before Vancouver, the team won gold at the 2009 world championships in Lake Placid, marking the first U.S. victory in that event in 50 years and setting the stage for their Olympic triumph. They were later featured on the cover of Sports Illustrated, marking only the second time bobsledding appeared on the magazine’s cover. The four were named Team USA’s Team of the Year in both 2009 and 2010, the first to earn the honor in back-to-back years, a feat not repeated until the U.S. women’s hockey team in 2017 and 2018. Throughout their journey, the team supported pilot Steven Holcomb as he battled and overcame a degenerative eye disease first diagnosed in 2002. The procedure he would go through, C3-R, would eventually be renamed to Holcomb C3-R, marking the first time a medical procedure was named after an Olympic athlete.&nbsp;</p><p>Off the ice, Holcomb pursued academics in Computer Science at the University of Utah and the University of Phoenix, earning certifications as an A+ Certified Computer Technician, Network+ Certified Network Technician and Microsoft Certified Professional. He also served seven years in the Utah National Guard. He passed away in 2017.</p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Sochi 2014, silver (2-Man Competition - Men, 4-Man Competition - Men)</li><li>Olympic Games Vancouver 2010, gold (4-Man Competition - Men), 6th (2-Man Competition - Men)</li><li>Olympic Games Turin 2006, 6th (4-Man Competition - Men), 14th (2-Man Competition - Men)</li></ul></ul></div><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)<ul><li>Olympic Games Sochi 2014, silver (2-Man Competition - Men, 4-Man Competition - Men)</li><li>Olympic Games Vancouver 2010, gold (4-Man Competition - Men), 6th (2-Man Competition - Men)</li><li>Olympic Games Turin 2006, 6th (4-Man Competition - Men), 14th (2-Man Competition - Men)</li></ul></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 5th (4-Man Competition - Open), 6th (Team Competition - Mixed), 7th (2-Man Competition - Men)</li><li>Years of participation: 2-Man Competition - Men 2004, 2005, 2007, 2008, 2009, 2011, 2012, 2013, 2015, 2016, 2017; 4-Man Competition - Open 2015, 2016, 2017; Team Competition - Mixed 2008, 2009, 2011, 2012, 2013, 2015, 2016, 2017; 4-Man Competition - Men 1999, 2001, 2003, 2004, 2005, 2007, 2008, 2009, 2011, 2012, 2013</li><li>Medals: 10 (5 gold, 5 bronze)</li><ul><li>Gold – 2013 (Team Competition - Mixed);  2012 (2-Man Competition - Men, 4-Man Competition - Men, Team Competition - Mixed);  2009 (4-Man Competition - Men)</li><li>Bronze – 2013 (4-Man Competition - Men);  2011 (4-Man Competition - Men);  2009 (2-Man Competition - Men, Team Competition - Mixed);  2008 (Team Competition - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745887445/TeamUSA%20Assets/Athlete%20Profiles/Steven%20Holcomb/holcomb_s_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745953116/TeamUSA%20Assets/Athlete%20Profiles/Steven%20Holcomb/holcomb_s_hero_912136.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745953335/TeamUSA%20Assets/Athlete%20Profiles/Steven%20Holcomb/holcomb_s_bio_912136.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Steven Holcomb"
+        },
+        {
+          "title": "Bobsled"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Hall of Fame, Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Holder",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1991-03-19T00:00:00",
+        "hometown": {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4419,
+          "longitude": -122.143
+        },
+        "education": "United States Military Academy",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&w=50&la=en&hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\"/><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"/></td></tr></tbody></table><div></div><div><br /><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2013 USA Rugby Collegiate All-American&nbsp;</li><li>2012 USA Rugby Collegiate All-American</li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Son of Ann and Robert Holder</li><li>First lieutenant for the U.S. Army</li><li>Member of the U.S. Army World Class Athlete Program</li><li>Was inspired by his father to begin playing rugby in the third grade</li><li>Hobbies include fishing and hunting.</li></ul><br /><p>Education:</p><p>East Palo Alto High School (Palo Alto, Calif.) United States Military Academy ’13, Management</p><p>&nbsp;</p><h5>More</h5><p>USA Rugby</p><p>&nbsp;</p><p><br /></p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929794/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Holder/Rugby_Men_Holder_Will.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Holder"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Jrue",
+      "last_name": "Holiday",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1990-06-12T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "University of California, Los Angeles (UCLA)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Shawn and Toya Holiday. Has two brothers, Justin and Aaron, who both play in the NBA</li><li>Both parents played college basketball at Arizona State. Toya was named 1982 Pac-10 Player of the Year. His younger sister, Lauren, played college basketball on the UCLA women's team</li><li>Married United States women's national soccer team midfielder Lauren Cheney</li><li>Has two children, one daughter, Jrue Tyler, and one son, Hendricks</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Men)</li><li>Olympic Games Tokyo 2020, gold (Team - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li><p></p><p>Selected No. 17 overall in the 2009 NBA Draft by the Philadelphia 76ers.</p></li><li><p>Has played for the Philadelphia 76ers (2009-13), New Orleans Pelicans (2013-2020), Milwaukee Bucks (2020-23) and Boston Celtics (2023-present).</p></li><li><p>Member of the 2021 NBA Champion Milwaukee Bucks.</p></li><li><p>A two-time NBA All-Star (2023, 2013).</p></li><li><p>Other honors include NBA All-Defensive first team (2018, 2021, 2023), NBA All-Defensive second team (2019, 2022), NBA Sportsmanship Award (2021) and NBA Teammate of the Year (2020, 2022, 2023).&nbsp;</p></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713803293/TeamUSA%20Assets/Athlete%20Profiles/Jrue%20Holiday%201193001/Holiday_j_bio_1193001.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713803241/TeamUSA%20Assets/Athlete%20Profiles/Jrue%20Holiday%201193001/Holiday_j_hero_1193001.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713803293/TeamUSA%20Assets/Athlete%20Profiles/Jrue%20Holiday%201193001/Holiday_j_bio_1193001.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713803066/TeamUSA%20Assets/Athlete%20Profiles/Jrue%20Holiday%201193001/Holiday_J_thumbnail_1193001.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jrue Holiday 1193001"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Drew",
+      "last_name": "Holland",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1995-04-11T00:00:00",
+        "hometown": {
+          "city": "Orinda",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.8716,
+          "longitude": -122.1797
+        },
+        "education": "Stanford University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jeff and Alison Holland</li><li>Has two older brothers, Kent and John</li><li>Kent played water polo at Brown while John played for Claremont McKenna College</li><li>Enjoys playing pickup basketball</li><li>Eagle Scout</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2017, 2019, 2022, 2023</li><li>Top finish: 6th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662019/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Holland_d_bio_811804.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662648/TeamUSA%20Assets/Athlete%20Profiles/Drew%20Holland%20811804/Holland_d_hero_811804.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006320/TeamUSA%20Assets/Athlete%20Profiles/Drew%20Holland%20811804/holland_drew_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Drew Holland 811804"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Water Polo"
+        }
+      ]
+    },
+    {
+      "first_name": "Nate",
+      "last_name": "Holland",
+      "bio": {
+        "height": "5’10”",
+        "birthday": "1978-11-08T00:00:00",
+        "hometown": {
+          "city": "Sandpoint",
+          "state": "ID",
+          "country": "United States",
+          "latitude": 48.2769,
+          "longitude": -116.5535
+        },
+        "education": "Sandpoint High School (Sandpoint, Idaho) '97",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Don and Rebecca Holland</li><li>Has two brothers, Eric and Pat</li><li>Married Christen Holland on June 29, 2012</li><li>Welcomed daughter, Lux, in November 2015</li><li>Brother, Pat, is also a professional snowboarder</li><li>Owns Action Water Sports with his brother, Pat</li><li>Hobbies include fly fishing, mountain biking, dirt biking, wakesurfing, wakeboarding, water skiing, swimming, snorkeling, playing poker, camping, and rafting</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Aspen X Games, bronze (snowboardcross)</li>\r\n                            <li>2014 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2013 FIS World Cup Standings, 7th (snowboardcross) </li>\r\n                            <li>2012 FIS World Cup Standings, 3rd (snowboardcross)</li>\r\n                            <li>2012 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2011 FIS World Cup Standings, 8th (snowboardcross) </li>\r\n                            <li>2011 Aspen X Games, bronze (snowboardcross)</li>\r\n                            <li>2010 FIS World Cup Standings, 4th (snowboardcross) </li>\r\n                            <li>2010 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2009 FIS World Cup Standings, 7th (snowboardcross) </li>\r\n                            <li>2009 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2008 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2007 FIS World Cup Standings, 2nd (snowboardcross) </li>\r\n                            <li>2007 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2006 FIS World Cup Standings, 4th (snowboardcross) </li>\r\n                            <li>2006 Aspen X Games, gold (snowboardcross)</li>\r\n                            <li>2005 FIS World Cup Standings, 3rd (snowboardcross) </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Sochi 2014, 25th (Snowboardcross - Men)</li><li>Olympic Games Vancouver 2010, 4th (Snowboardcross - Men)</li><li>Olympic Games Turin 2006, 14th (Snowboardcross - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 17th (Snowboardcross - Men)</li><li>Years of participation: Snowboardcross - Men 2007, 2009, 2011, 2015, 2017, 2019; Snowboard Cross Team - Men 2017</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2011 (Snowboardcross - Men);  2007 (Snowboardcross - Men)</li></ul></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929941/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nate%20Holland/Holland_Nate_011415_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929943/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nate%20Holland/Snowboarding_Snowboardcross_Holland_Nate_site_2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nate Holland"
+        }
+      ]
+    },
+    {
+      "first_name": "Rose",
+      "last_name": "Hollermann",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1995-12-25T00:00:00",
+        "hometown": {
+          "city": "Elysian",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.2097,
+          "longitude": -93.708
+        },
+        "education": "University of Texas at Arlington ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of John and Michelle Hollerman</li><li>Has three brothers: Shane, Ethan, and Seth Hollermann</li><li>In 2001, Hollermann and her family were involved in a car accident that took the lives of two of her brothers and caused her to be partially paralyzed from the waist down</li><li>As part of her rehabilitation, she was introduced to swimming at the Courage Center in Minneapolis. From there, she tried sled hockey, track and field, archery, cross-country skiing and wheelchair basketball</li><li>Started playing wheelchair basketball in 2004 for a club team in Minnesota</li><li>Became one of the youngest players on the U.S. women’s wheelchair basketball team at age 15 in 2011</li><li>Played collegiate basketball at the University of Texas at Arlington and led Team USA to Paralympic gold in 2016</li><li>Plays professionally in Spain for a club team called ADM Econy that is located on the Canary Islands</li><li>Hobbies include crocheting, swimming, and doing other crafts. Loves music and especially loves her record player.</li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 3-time Paralympic medalist (1 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Women)</li><li>Paralympic Games Tokyo 2020, bronze (Team - Women)</li><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Paralympic Games London 2012, 4th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2014, 2018, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661997/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Hollermann_r_bio_910462.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "3.5",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662686/TeamUSA%20Assets/Athlete%20Profiles/Rose%20Hollermann%20910462/Hollermann_r_hero_910462.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712069763/TeamUSA%20Assets/Athlete%20Profiles/Rose%20Hollermann%20910462/Hollerman_r_featured.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006282/TeamUSA%20Assets/Athlete%20Profiles/Rose%20Hollermann%20910462/Hollermann_Rose_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rose Hollermann 910462"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Basketball"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1031 @@
+{
+  "entries": [
+    {
+      "first_name": "Alyssa",
+      "last_name": "Thomas",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1992-04-12T00:00:00",
+        "hometown": {
+          "city": "Harrisburg",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.2732,
+          "longitude": -76.8867
+        },
+        "education": "University of Maryland",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Daughter of Bobby Thomas and Tina Klotzbeecher-Thomas, has one younger brother, Devin, who played basketball at Wake Forest, and one younger sister, Alexia.</p></li><li>Current Pro Team (July 2024): Connecticut Sun</li><li>Position: Forward</li><li><span>Drafted no. 4 overall in 2014 by the New York Liberty and traded to the Connecticut Sun the same day</span></li><li>Majored in family science at Maryland</li></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 - gold (2022 FIBA World Cup)</li><li>Years of participation: 2022</li><li>Medals: 1 (1 gold)<ul><li>Gold - 2022</li></ul></li></ul><h5>Career Highlights</h5><ul><li>Four-time WNBA All-Star</li><li>Currently averaging 11.9 points, 9.4 rebounds and 7.9 assists during the 2024 WNBA season</li><li>Averaged 9.9 points and 7.0 rebounds per game during the 2022 FIBA World Cup</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720557174/TeamUSA%20Assets/Athlete%20Profiles/Alyssa%20Thomas%20840749/Thomas_A_bio.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720557174/TeamUSA%20Assets/Athlete%20Profiles/Alyssa%20Thomas%20840749/Thomas_A_thumbnail.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720557174/TeamUSA%20Assets/Athlete%20Profiles/Alyssa%20Thomas%20840749/Thomas_A_thumbnail.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Basketball"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Alyssa Thomas"
+        }
+      ]
+    },
+    {
+      "first_name": "Justin",
+      "last_name": "Thomas",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1993-04-29T00:00:00",
+        "hometown": {
+          "city": "Louisville",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 38.2527,
+          "longitude": -85.7585
+        },
+        "education": "University of Alabama",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>His father (who is also his swing coach) served as Head Professional at the Harmony Landing Country Club in Goshen, Kentucky</li><li>His grandfather was a 60-year veteran of the PGA Tour who played in the 1962 U.S. Open</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 THE PLAYERS Championship Winner</li>\r\n                            <li>2020 WGC-FedEx St. Jude Classic Winner</li>\r\n                            <li>2020 Sentry Tournament of Champions Winner</li>\r\n                            <li>2019 CJ CUP @ Nine Bridges Winner</li>\r\n                            <li>2019 BMW Championship Winner</li>\r\n                            <li>2018 WGC-Bridgestone Invitational Winner</li>\r\n                            <li>2018 The Honda Classic Winner</li>\r\n                            <li>2017 CJ CUP @ NINE BRIDGES Winner</li>\r\n                            <li>2017 Dell Technologies Championship</li>\r\n                            <li>2017 PGA Championship Winner</li>\r\n                            <li>2017 Sony Open in Hawaii Winner</li>\r\n                            <li>2017 SBS Tournament of Champions Winner</li>\r\n                            <li>2016 CIMB Classic Winner</li>\r\n                            <li>2015 CIMB Classic Winner</li>\r\n                            <li>Became just the fourth golfer to win a major and earn five victories in one season </li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 22th (Individual - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – bronze (Individual - Men)</li><li>Years of participation: Individual - Men 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2022 (Individual - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362094/TeamUSA%20Assets/Migration/Athlete%20Profiles/Justin%20Thomas/Thomas_Justin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Justin Thomas"
+        }
+      ]
+    },
+    {
+      "first_name": "Gabby",
+      "last_name": "Thomas",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-12-07T00:00:00",
+        "hometown": {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.7488,
+          "longitude": -84.3877
+        },
+        "education": "Harvard University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Track and field&nbsp;</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Specialty: </strong></span><span style=\"font-size: 11pt;\">100-meter and 200-meter</span></p></li></ul><h5>Biographical Information<strong>&nbsp;</strong></h5><p><span style=\"font-size: 11pt;\">Thomas has established herself as one of the world's premier sprinters, excelling in both the 100-meter and 200-meter events. Thomas' legacy was cemented when she became the second-fastest woman in history in the 200-meter, first setting a time of 21.61 seconds at the 2021 U.S. Olympic Trials, then improving it to 21.60 seconds at the 2023 USATF Championships. Her impressive accolades include a gold medal in the 200-meter final at the Paris 2024 Olympic Games, multiple Diamond League championships (2018, 2019, and 2024), and a 2018 NCAA title in the 200-meter.</span></p><p><span style=\"font-size: 11pt;\">Thomas graduated from Harvard University in 2019 with a degree in neurobiology and global health. Following graduation, she achieved her Master’s Degree in epidemiology at the University of Texas Health Science Center at Houston.</span></p><p><span style=\"font-size: 11pt;\">Thomas is an advocate for diversity in STEM fields and uses her platform to encourage young people, especially young women of color, to pursue careers in science and technology.</span></p><h5>Olympic Highlights&nbsp;</h5><p><span style=\"font-size: 11pt;\">Thomas' Olympic debut at the Tokyo 2020 Olympic Games was impressive, securing individual and relay medals and establishing herself as a world-class sprinter on the biggest stage in athletics. She earned bronze in the 200-meter final (21.87 seconds) and silver in the 4x100-meter relay final as the anchor leg runner.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">At the Paris 2024 Olympic Games, Thomas went on to win gold medals in both individual and relay events. She dominated the 200-meter final with a time of 21.83 seconds, and three days later secured another gold as part of the victorious U.S. 4x100-meter relay team alongside </span><span style=\"font-size: 11pt;\">Melissa Jefferson</span><span style=\"font-size: 11pt;\">, </span><span style=\"font-size: 11pt;\">Twanisha Terry</span><span style=\"font-size: 11pt;\">, and </span><span style=\"font-size: 11pt;\">Sha’Carri Richardson</span><span style=\"font-size: 11pt;\">.</span></p><h5>World Championship Highlights&nbsp;</h5><p><span style=\"font-size: 11pt;\">Thomas' performances at the World Athletics Championships have been notable. She won the silver medal in the 200m Final in 2023 with a time of 21.81 seconds and in the 4x100-meter relay in 2022, she and her U.S. teammates secured a gold medal with a championship record time of 41.03 seconds.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">Gabby Thomas attended The Williston Northampton School in Massachusetts, where she excelled in track and field. Her talent earned her a place at Harvard University, where she competed in NCAA Division I athletics while pursuing her challenging academic program. At Harvard University, Thomas set multiple school records and won numerous Ivy League titles. Her breakthrough on the national scene came in 2018 when she won the NCAA 200m title and turned professional shortly after.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 5-time Olympic medalist (3 gold, 1 silver, 1 bronze)</li><ul><li>Olympic Games Paris 2024, gold (200m - Women, 4 x 100m Relay - Women, 4 x 400m Relay - Women)</li><li>Olympic Games Tokyo 2020, silver (4 x 100m Relay - Women), bronze (200m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (4 x 100m Relay - Women), silver (200m - Women)</li><li>Years of participation: 200m - Women 2023; 4 x 100m Relay - Women 2023</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2023 (4 x 100m Relay - Women)</li><li>Silver – 2023 (200m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712539105/TeamUSA%20Assets/Media%20Summit%20Athletes/Gabby%20Thomas/Thomas_Gabby_GettyLAShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662271/TeamUSA%20Assets/Athlete%20Profiles/Gabrielle%20Thomas%201125668/thomas_g_hero_1125668.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010953/TeamUSA%20Assets/Athlete%20Profiles/Gabrielle%20Thomas%201125668/Thomas_Gabby_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gabby Thomas 1125668"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Top Athletes"
+        }
+      ]
+    },
+    {
+      "first_name": "Curtis",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1996-02-08T00:00:00",
+        "hometown": {
+          "city": "Florence",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.1065,
+          "longitude": -74.8329
+        },
+        "education": "Mississippi State University ‘18",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Scott and Karen Thompson. Has one brother, Christopher</li><li>Favorite TV show is Fresh-Prince of Bel-Air</li><li>Loves watching pole vaulting</li><li>Hobbies include fishing, watching movies, spending time with friends, going to the beach, traveling, bowling and watching sports.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 27th (Javelin Throw - Men)</li><li>Olympic Games Tokyo 2020, 21th (Javelin Throw - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 30th (Javelin Throw - Men)</li><li>Years of participation: Javelin Throw - Men 2023</li><li>Top finish: 30th – 2023 (Javelin Throw - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662046/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Thompson_c_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662407/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Thompson_c_hero_.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362008/TeamUSA%20Assets/Migration/Athlete%20Profiles/Curtis%20Thompson/Thompson_Curtis.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Curtis Thompson"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1982-09-13T00:00:00",
+        "hometown": {
+          "city": "Charleston",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 32.7765,
+          "longitude": -79.9311
+        },
+        "education": " Lincoln Land Community College",
+        "fun_fact": "",
+        "biography": "<p>Ben Thompson began competing internationally in 2014, when he made his archery debut at the AAE Arizona Cup in Phoenix. Since then, competition has taken Ben to the Parapan American Championships in Roasrio, Argentina - and in August, to the Parapan American Games in Toronto. After shooting at the Parapan Am Games, Ben will compete in Germany at the World Archery Para Championships, where he'll be part of the team shooting for Team USA's spots for the 2016 Paralympic Games. Ben shoots in the compound men's open division, and plans to compete in the U.S. Paralympic Team Trials next year.</p>\n<p>Career Highlights:&nbsp;</p>\n<p>2014 Parapan Am Championships, individual bronze</p><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (Individual Compound Open - Men), 5th (Team Compound Open - Men)</li><li>Years of participation: Individual Compound Open - Men 2015, 2017, 2019; Team Compound Open - Men 2015, 2017, 2019</li><li>Medals: 4 (2 gold, 2 bronze)</li><ul><li>Gold – 2019 (Individual Compound Open - Men);  2015 (Team Compound Open - Men)</li><li>Bronze – 2017 (Individual Compound Open - Men, Team Compound Open - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Toronto, 2015 (Individual Compound Open - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Archery",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "Not Applicable",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362048/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Thompson/thompson_ben_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Thompson"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Klay",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1990-02-08T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "Santa Margarita Catholic (Rancho Santa Margarita, California) ‘08 Washington State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mychal and Julie Thompson</li><li>Father, Mychal, was the No. 1 overall pick of the 1978 NBA Draft and played 12 seasons in the NBA, winning two championships with the Los Angeles Lakers</li><li>Has one older brother, Mychel, who appeared in five games for the Cleveland Cavaliers in 2011-12</li><li>Has one younger brother, Trayce, who plays baseball for the Los Angeles Dodgers</li><li>In 2015, Thompson and his father became the fourth father-son duo to win NBA titles as players.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – gold</li><li>Years of Participation: 2014*</li><li>Medals: 1 (gold)</li></ul><h5>More</h5>USA Basketball\n<p><em>* Contested every four years, the FIBA World Championship was renamed the FIBA Basketball World Cup in 2014.&nbsp;</em></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719198/TeamUSA%20Assets/Migration/Athlete%20Profiles/Klay%20Thompson%20933560/Thompson_Klay_082116_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719201/TeamUSA%20Assets/Migration/Athlete%20Profiles/Klay%20Thompson%20933560/Thompson_Klay_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Klay Thompson 933560"
+        }
+      ]
+    },
+    {
+      "first_name": "Courtney",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1984-11-04T00:00:00",
+        "hometown": {
+          "city": "Kent",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.3807,
+          "longitude": -122.2343
+        },
+        "education": "Kentlake High School University of Washington",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Subject of movie &quot;Court &amp; Spark: A Volleyball Documentary&quot;</li><li>First female player at University of Washington to have her collegiate jersey retired</li><li>Valedictorian of Kentlake High School (Kent, Wash.) graduating class</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Women)</li><li>Olympic Games London 2012, silver (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – gold (Team - Women)</li><li>Years of participation: Team - Women 2014</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2014 (Team - Women)</li></ul></ul><h5>More</h5><strong>Most Notable</strong>\n<ul>\n    <li>Bronze medalist at 2016 Olympic Games</li>\n    <li>2012 Olympic Games silver medalist; started quarterfinal match leading Team USA to 3-0 win over Dominican Republic</li>\n    <li>Helped U.S. Women capture 2012 FIVB World Grand Prix gold medal</li>\n    <li>Subject of movie \"Court &amp; Spark: A Volleyball Documentary\", which is now available on <strong>Amazon</strong> and <strong>iTunes</strong> with all proceeds benefiting volleyball through the Puget Sound Region of USA Volleyball</li>\n</ul>\n<p><strong>MAJOR INTERNATIONAL COMPETITION:</strong><br>\n<strong>2016 - </strong>NORCECA Olympic Qualification Tournament (Gold)...FIVB World Grand Prix (Silver)...Olympic Games (Bronze).<br>\n<strong>2015:</strong> USA Volleyball Cup vs China...FIVB World Grand Prix (Gold)<br>\n<strong>2014:</strong> Montreux Volley Masters (Silver)...USA Volleyball Cup vs Brazil...FIVB World Grand Prix (5th Preliminary Round)...FIVB World Championship (Gold)<br>\n<strong>2013:</strong> USA Volleyball Cup...FIVB World Grand Prix Preliminary Round.<br>\n<strong>2012:</strong> FIVB World Grand Prix (Gold)...Olympic Games (Silver)<br>\n<strong>2011:</strong> Pan American Games (Bronze)<br>\n<strong>2010:</strong> Montreux Volley Masters (Silver)...Pan American Cup (Bronze)<br>\n<strong>2009:</strong> Pan American Cup (Fourth); FIVB World Championship Qualification Tournament &ndash; NORCECA Pool G (Gold)...FIVB World Grand Prix (Ninth)...NORCECA Continental Championship (Fourth)<br>\n<strong>2007:</strong> Pan American Cup (Fourth Place), Pan American Games (Bronze Medal), World Grand Prix (Eighth Place)</p>\n<p><strong>Did You Know</strong></p>\n<ul>\n    <li>Helped University of Washington win 2005 NCAA Division I Women's Volleyball Championship title</li>\n    <li>Three-time American Volleyball Coaches Association (AVCA) All-America First-Team selection and ESPN The Magazine Academic All-American as selected by CoSIDA while playing at Washington</li>\n    <li>Set then-Pac-10 record for career assists with 6,552, which was third-best in NCAA history</li>\n    <li>First female player at University of Washington to have her collegiate jersey retired</li>\n    <li>As junior at University of Washington, earned Honda Sports Award as best volleyball player and was a finalist for the award as a senior</li>\n    <li>Valedictorian of Kentlake High School (Kent, Wash.) graduating class</li>\n    <li>Led Kentlake High School (Kent, Wash.) to three state volleyball championships and also earned all-state in basketball as a senior</li>\n</ul>\n<p><strong>The Big Blurb</strong><br>\nCourtney Thompson on Confidence: \"I have always felt, not to sound cocky or anything, I am here to do something special. I know I can do it. But that doesn't mean I never doubted myself. There were always moments where I was like, 'Are you kidding me, like am I really doing this.' But I always felt like I could.\" - Generation IX Starring USA Volleyball's Courtney Thompson</p>\n<p><strong>Related Links</strong></p>\n<ul>\n    <li>NBC Olympics: <strong>Rio Olympics Brings Courtney Thompson's Career Full Circle</strong> (Aug. 5, 2016)</li>\n    <li>Seattle Times: <strong>Thompson eager to help U.S. Olympic volleyball team finish the job this time</strong> (July 30, 2016)</li>\n    <li>Seattle Times: <strong>Former UW volleyball Star Courtney Thompson Named to U.S. Olympic Team</strong> (July 12, 2016)</li>\n    <li>Spokane Spokesman: <strong>U.S. Women's Volleyball Roster for Rio Games Includes Former Husky Courtney Thompson</strong> (July 12, 2016)</li>\n    <li>Los Angeles Times: U.S. Women's Team Likes to Have Fun (June 19, 2016)</li>\n    <li>New York Times: An American Olympian Prepares on Enemy Turf (March 15, 2016)</li>\n    <li>Kent Reporter: Thompson Inspires On and Off the Court - Comes Home to Share the Game She Loves (Aug. 6, 2015)</li>\n    <li>Seattle Times: Live Chat with Courtney Thompson, co-Founder of Give It Back Foundation (July 29, 2015)</li>\n    <li>Everett (Wash.) Herald Net: Thompson Eager to Give Back (July 28, 2015)</li>\n    <li>USA Volleyball Video Interview: Get to Know Courtney Thompson and Kristin Hildebrand</li>\n    <li>Seattle Times: Courtney Thompson Powered by 2 Big Inspirations (July 22, 2012)</li>\n    <li>Seattle Times: Courtney Thompson's Jersey Being Retired at UW - A First for a Female (Nov. 2, 2013)</li>\n    <li>\"Court &amp; Spark: A Volleyball Documentary\" Debuts at 2013 AVCA Convention and NCAA Division I Women's Volleyball Championship in Seattle</li>\n    <li>Video Clip: Generation IX Starring Courtney Thompson (documentary from 2006)</li>\n</ul>\n<p><strong>Last Updated:</strong> July 10, 2016</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361949/TeamUSA%20Assets/Migration/Athlete%20Profiles/Courtney%20Thompson/2017Thompson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Courtney Thompson"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1997-05-05T00:00:00",
+        "hometown": {
+          "city": "Edina",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.8986,
+          "longitude": -93.3502
+        },
+        "education": "University of Cincinnati ‘19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started her professional career in Turkey in 2020</li><li>Married husband, Blake Yager, in 2018</li><li>Blake played football at Cincinnati</li><li>Helps run an athlete bible study with other athletes at her school</li><li>Hobbies include listening to worship music, going to coffee shops and spending time with her husband, family, friends and teammates</li><li>Parents are Tyrone Doleman and Mary Thompson</li><li>Her father played basketball at the University of Pittsburgh, with the Harlem Globetrotters and eight years professionally oversees</li><li>Her uncle, Chris Doleman, played football at the University of Pittsburgh, professionally with the Minnesota Vikings and Atlanta Falcons and was inducted into the Pro Football Hall of Fame in 2012</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662070/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/thompson_j_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718315252/TeamUSA%20Assets/Athlete%20Profiles/Jordan%20Thompson%201147540/thompson_j_hero_1147540.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718315252/TeamUSA%20Assets/Athlete%20Profiles/Jordan%20Thompson%201147540/thompson_j_hero_1147540.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718315252/TeamUSA%20Assets/Athlete%20Profiles/Jordan%20Thompson%201147540/thompson_j_hero_1147540.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jordan Thompson"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1988-03-11T00:00:00",
+        "hometown": {
+          "city": "Alliance",
+          "state": "NE",
+          "country": "United States",
+          "latitude": 42.1094,
+          "longitude": -102.8049
+        },
+        "education": "Alliance High School (Alliance, Neb.) ‘06 University of Colorado – Colorado Springs ’11, Business Administration ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Grover and Vicki Thompson</li><li>Has one sister, Amanda</li><li>Began shooting with his father at age 10</li><li>Is a cattle rancher in Nebraska</li><li>Frank’s second cousin, Patty Durkin, is a three-time medalist in Paralympic wheelchair track and field (1992)</li><li>Doctor who delivered him at birth was a former team doctor for USA Shooting</li><li>He and his father are members of the volunteer fire department in Alliance, Nebraska</li><li>Interests include hunting, fishing, four wheeling and mountain biking.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2007 Pan American Games, 10th </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 21th (Skeet - Men)</li><li>Olympic Games London 2012, 8th (Skeet - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 45th (Skeet - Men)</li><li>Years of participation: Skeet - Men 2009, 2011, 2013, 2014, 2017, 2018; Skeet - Team - Men 2009, 2014</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2009 (Skeet - Team - Men)</li><li>Silver – 2014 (Skeet - Team - Men)</li></ul></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719226/TeamUSA%20Assets/Migration/Athlete%20Profiles/Frank%20Thompson%20818687/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719229/TeamUSA%20Assets/Migration/Athlete%20Profiles/Frank%20Thompson%20818687/Thompson_Frank_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Frank Thompson 818687"
+        }
+      ]
+    },
+    {
+      "first_name": "Jenny",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1973-02-26T00:00:00",
+        "hometown": {
+          "city": "Dover",
+          "state": "NH",
+          "country": "United States",
+          "latitude": 43.1987,
+          "longitude": -70.8745
+        },
+        "education": "Dover High School (Dover, N.H.) Stanford University; Columbia University College of Physicians and Surgeons",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Margrid Thompson</li><li>Has three siblings</li><li>Honed her swimming abilities as a member of the Seacoast Swimming Association</li><li>Was the youngest U.S. swimmer to win a gold medal at age 14 during the Olympic Games Barcelona 1992</li><li>Attended Stanford University on scholarship and majored in human biology</li><li>Was a 15-time world record holder</li><li>Most decorated U.S. Olympic female swimmer in history</li><li>Graduated from Columbia University’s College and Physicians and Surgeons</li><li>Practices medicine as a physician and specializes as a pediatric anesthesiologist.</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 12-time Olympic medalist (8 gold, 3 silver, 1 bronze)</li><ul><li>Olympic Games Athens 2004, silver (4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women), 5th (100m Butterfly - Women), 7th (50m Freestyle - Women)</li><li>Olympic Games Sydney 2000, gold (4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women, 4 x 200m Freestyle Relay - Women), bronze (100m Freestyle - Women), 5th (100m Butterfly - Women)</li><li>Olympic Games Atlanta 1996, gold (4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women, 4 x 200m Freestyle Relay - Women)</li><li>Olympic Games Barcelona 1992, gold (4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women), silver (100m Freestyle - Women), 5th (50m Freestyle - Women), 17th (200m Freestyle - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2004 – gold (4 x 100m Freestyle Relay (SC) - Women, 50m Butterfly (SC) - Women), silver (4 x 100m Medley Relay (SC) - Women), bronze (100m Butterfly (SC) - Women), 7th (50m Freestyle (SC) - Women)</li><li>Years of participation: 100m Butterfly (SC) - Women 1997, 1999, 2000, 2004; 4 x 100m Freestyle Relay (SC) - Women 2004; 4 x 100m Medley Relay (SC) - Women 1997, 2000, 2004; 50m Butterfly (SC) - Women 1999, 2000, 2004; 50m Freestyle (SC) - Women 1997, 1999, 2004; 100m Butterfly - Women 1994, 1998, 2003; 100m Freestyle - Women 1994, 1998, 2003; 4 x 100m Freestyle Relay - Women 1994, 1998, 2003; 4 x 100m Medley Relay - Women 1994, 1998, 2003; 50m Butterfly - Women 2003; 50m Freestyle - Women 1998, 2003; 100m Freestyle (SC) - Women 1997, 1999, 2000; 4 x 200m Freestyle Relay (SC) - Women 2000; 4 x 200m Freestyle Relay - Women 1994, 1998</li><li>Medals: 30 (15 gold, 11 silver, 4 bronze)</li><ul><li>Gold – 2004 (4 x 100m Freestyle Relay (SC) - Women, 50m Butterfly (SC) - Women);  2003 (100m Butterfly - Women, 4 x 100m Freestyle Relay - Women);  2000 (100m Butterfly (SC) - Women, 50m Butterfly (SC) - Women);  1999 (100m Butterfly (SC) - Women, 100m Freestyle (SC) - Women, 50m Butterfly (SC) - Women);  1998 (100m Butterfly - Women, 100m Freestyle - Women, 4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women);  1997 (100m Butterfly (SC) - Women, 100m Freestyle (SC) - Women)</li><li>Silver – 2004 (4 x 100m Medley Relay (SC) - Women);  2003 (4 x 100m Medley Relay - Women, 50m Butterfly - Women);  2000 (100m Freestyle (SC) - Women, 4 x 200m Freestyle Relay (SC) - Women);  1999 (50m Freestyle (SC) - Women);  1998 (4 x 200m Freestyle Relay - Women);  1997 (4 x 100m Medley Relay (SC) - Women, 50m Freestyle (SC) - Women);  1994 (4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women)</li><li>Bronze – 2004 (100m Butterfly (SC) - Women);  2003 (100m Freestyle - Women);  2000 (4 x 100m Medley Relay (SC) - Women);  1994 (4 x 200m Freestyle Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240200/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Jenny%20Thompson/Thompson_Cover.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 8,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992, 1996, 2000, 2004",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240205/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Jenny%20Thompson/Thompson_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jenny Thompson"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2012"
+        },
+        {
+          "title": "Olympian"
+        }
+      ]
+    },
+    {
+      "first_name": "Brett",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1990-08-17T00:00:00",
+        "hometown": {
+          "city": "Tempe",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4152,
+          "longitude": -111.8915
+        },
+        "education": "Marcos de Niza High School (Tempe, Ariz.) ‘09 University of Arizona",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Susan and Wilbert Thompson and brother of Kieran and Ryan</li><li>Grew up around rugby and a very sporty family</li><li>Originally went to college to play football at the University of Arizona but left when rugby was accepted into the Olympics</li><li>Fascinated by new cultures, innovative technology and enjoys exploring new countries as well as wild nature and spending time with his girlfriend.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2013, 2018</li><li>Top finish: 6th – 2018 (Team - Men)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362074/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brett%20Thompson/thompson_brett_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brett Thompson"
+        }
+      ]
+    },
+    {
+      "first_name": "Tage",
+      "last_name": "Thompson",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1997-10-30T00:00:00",
+        "hometown": {
+          "city": "Orange",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.28065,
+          "longitude": -73.02706
+        },
+        "education": "University of Connecticut",
+        "fun_fact": "Dad,  Brent Thompson, played 121 NHL games from 1991-97 for the Los Angeles Kings, Winnipeg Jets and Phoenix Coyotes",
+        "biography": "<h5><span style=\"font-size: 11pt;\">Quick Facts</span></h5><ul><li><strong>Position:</strong> Center</li><li>Dad, &nbsp;Brent Thompson, played 121 NHL games from 1991-97 for the Los Angeles Kings, Winnipeg Jets and Phoenix Coyotes</li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Tage Thompson was born in Phoenix, Arizona, while his dad, Brent, was playing in the NHL for the Phoenix Coyotes. Tage followed his dad around the U.S. during his playing career and subsequent hockey coaching career as he attended 11 schools while growing up before graduating from Pioneer High School in Ann Arbor, Michigan, where he had been playing for the&nbsp;</span><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">&nbsp;United States National Team Development Program.</span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">Thompson, who learned to skate in Connecticut while his father played minor league hockey, attended the University of Connecticut to play college hockey. After leading the nation in power play goals his freshman season, he was drafted in the first round of the 2016 NHL Entry Draft.</span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">Two years later, Thompson was traded to the Buffalo Sabres, where he has spent the majority of his career, and in the 2024-2025 season he led the NHL with the most goals among U.S. players.</span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">Thompson has played for the U.S. men’s hockey team at three world championships and has won a medal each time. At the 2025 IIHF World Championships, Thompson scored the golden goal in overtime of a 1-0 win against Switzerland and helped the U.S. win a standalone world title for the first time since 1933. &nbsp;</span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\"></span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\"></span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Men)</li><li>Years of participation: Team - Men 2018, 2021, 2025</li><li>Medals: 3 (1 gold, 2 bronze)</li><ul><li>Gold – 2025 (Team - Men)</li><li>Bronze – 2021 (Team - Men);  2018 (Team - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>World Junior Championship, 2017 (Team - Men)</li><li>World Championship Under 18, 2015 (Team - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770597128/Thompson_T_bio_993067.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770941664/Thompson_T_main_993067.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771709809/Thompson_Tage_Hero.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770597126/Thompson_T_993067.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Tage Thompson"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Thornton",
+      "bio": {
+        "height": "6'3  (190cm)\"",
+        "birthday": "1985-04-22T00:00:00",
+        "hometown": {
+          "city": "San Clemente",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.4269,
+          "longitude": -117.612
+        },
+        "education": "San Clemente High School UC  Irvine",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born  Brian Charles Thornton in 1985, in San Clemente, Calif</li><li>Parents are Mike  and Colleen Thornton</li><li>Mike played basketball and also baseball and was a  late-round draft pick of the Montreal Expos in 1969</li><li>Brian&#39;s younger brother,  Keith, also attended UC Irvine and their younger sister, Kelsey, played on the water polo team there</li><li>A UCI/Big West  Scholar-Athlete majoring in sociology</li><li>Fish and lobster are his favorite foods</li><li>Admires his brother for his  attitude and approach to life</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2012: – Olympic Games</li>\r\n                            <li>2012: FIVB World League  (Silver Medal)</li>\r\n                            <li>2012: NORCECA Men’s Continental Olympic Qualification Tournament  (Gold Medal).</li>\r\n                            <li>2012: – Was the backup setter for the U.S. Men in 2012, playing in 11  sets, starting seven. Finished the season with three points on one attack and  two blocks. Credited with 57 running sets (5.18 per set)</li>\r\n                            <li>2012: Played as the  substitute setter at the 2012 Olympic Games. Played in three sets against  Tunisia, started the third, and finished with two points on two blocks. He was  credited with 15 running sets</li>\r\n                            <li>2012: Played in eight World League sets, seven in pool  play and one in the final round. Started five. Credited with 34 running sets  (4.25 per set). Scored one point on one attack</li>\r\n                            <li>2012: Started one set against Costa  Rica at the NORCECA Olympic Qualification Tournament. Was credited with seven  running sets. Did not score.</li>\r\n                            <li>2011: FIVB  World Cup</li>\r\n                            <li>2011: NORCECA  Men&#39;s Continental Championship (Silver Medal)</li>\r\n                            <li>2011: London Volleyball International  Invitational (Bronze Medal)</li>\r\n                            <li>2011: FIVB World League.</li>\r\n                            <li>2011: – Led  all U.S. setters in 2011 with 514 assists on 1,799 attempts in 99 sets played  (according to the FIVB. This does not include the London Invitational, which  did not provide setting statistics). He averaged 5.19 assists per set in 2011.  He also scored 33 points on four kills, 15 blocks and 14 aces</li>\r\n                            <li>2011: Started 31 sets  at the FIVB World Cup and finished with nine points on five kills and four  blocks. The FIVB credited him with 220 assists on 665 attempts</li>\r\n                            <li>2011: Played as a  substitute in the NORCECA Men’s Continental Championship behind Kevin Hansen  and was credited with 11 assists on 18 attempts in two sets</li>\r\n                            <li>2011: Played in 13 sets  of the London Volleyball International Invitational and started seven. Finished  with three points on two aces and one block</li>\r\n                            <li>2011: When setter Kevin Hansen had to undergo  an appendectomy prior to the start of the 2011 season, Thornton moved into the  backup setter role and traveled with the team to World League where he took  over starting duties from Donald Suxho in the middle of the third match of pool  play, which was in Puerto Rico. He started a total of 49 sets and played in 52.  In pool play, he was credited with at total of 283 assists for an average of  5.44 per set. He also scored 15 points on two kills, 11 blocks and two aces.</li>\r\n                            <li>2010: – Pan American Cup (Gold  Medal).</li>\r\n                            <li>2010: – For the U.S., Brian started  four out of five matches (13 sets) at the Pan American Cup and placed third  among all setters with 4.94 average assists per set. He did not receive a  single setting fault. He scored six points on three kills, two blocks and one  ace</li>\r\n                            <li>2010: Played  for Chaumont in France’s B League during the winter of 2010-11.</li>\r\n                            <li>2009: – Pan  American Cup (Gold Medal).</li>\r\n                            <li>2009: –Accompanied a group of veteran  and younger players on a five-match tour of Brazil</li>\r\n                            <li>2009: Played in the 2009 Pan  American Cup where the United States won the gold medal. Brian started one  match and scored four points on one kills, two blocks and one ace.</li>\r\n                            <li>2007: –  World University Games (Bronze Medal)</li>\r\n                            <li>2007: – A member of the World  University Games team that won the bronze medal in Thailand.</li>\r\n                            <li>2007: – Ended his career as UCI’s all-time set assists leader with 4,662</li>\r\n                            <li>2007: totaled  1,645 assists as a senior which is also a UCI season record</li>\r\n                            <li>2007: member of UC  Irvine’s NCAA Championship team</li>\r\n                            <li>2007: Named to the NCAA All-Tournament team</li>\r\n                            <li>2007: Team  went 29-5 which is the most wins in program history</li>\r\n                            <li>2007: Second team All-American</li>\r\n                            <li>2007: Third team All-Mountain Pacific Sports Federation</li>\r\n                            <li>2007: Averaged 13.27 set assists  which ranked fourth nationally</li>\r\n                            <li>2007: Named MPSF Player of the Week on Jan. 8</li>\r\n                            <li>2007: Named  MVP of the UC Santa Barbara Invitational</li>\r\n                            <li>2006: – Second team All-America as well as All-MPSF</li>\r\n                            <li>2006: second team  Asics/Volleyball Magazine All-American</li>\r\n                            <li>2006: Averaged 13.70 set assists which led  the nation</li>\r\n                            <li>2006: His 1,548 set assists ranks third in the UCI season record  book</li>\r\n                            <li>2006: Averaged 1.60 digs and 0.65 blocks per game</li>\r\n                            <li>2006: His 181 digs ranked 10th  best in a season</li>\r\n                            <li>2006: Fired 22 service aces.</li>\r\n                            <li>2005: – Recorded 1,320 set assists, which is the fourth best total in the UCI season  record books</li>\r\n                            <li>2005: Averaged 12.57 set assists and 1.38 digs per game</li>\r\n                            <li>2005: Ranked  11th nationally and fourth in the MPSF in assists</li>\r\n                            <li>2005: Fired 21 service aces on  the year</li>\r\n                            <li>2005: Ranks seventh all-time in assists (1,469)</li>\r\n                            <li>2005: Had a career-high 65  assists versus Pacific.</li>\r\n                            <li>2004: –  Played in 16 games before missing the rest of the year with Mononucleosis</li>\r\n                            <li>2004: Averaged  9.31 set assists and 0.69 digs per game.</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games London 2012, 5th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362087/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brian%20Thornton/Web-Brian-Thornton.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Thornton"
+        }
+      ]
+    },
+    {
+      "first_name": "Ginny",
+      "last_name": "Thrasher",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1997-02-28T00:00:00",
+        "hometown": {
+          "city": "Springfield",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.789,
+          "longitude": -77.1861
+        },
+        "education": "West Springfield High School (Springfield, Va.) ‘15   West Virginia University ‘19, Biomedical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Roger and Valerie Thrasher</li><li>Has two brothers, Carl and Rory</li><li>Interests include ice skating, reading, hunting and traveling</li><li>Owns more than 20 USA Shooting and National Rifle Association records</li><li>Named the top performer at the 2015 NCAA Championships after leading West Virginia University to the team title and winning individual titles in smallborne and air rifle.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 Fort Benning World Cup, 5th (air)</li>\r\n                            <li>2016 World Cup Final, 3rd (air)</li>\r\n                            <li>2016 ISSF Munich World Cup, 4th (50m three position); 7th (10m air)</li>\r\n                            <li>2016 ISSF Rio de Janeiro World Cup, 10th (50m three position); 28th (10m air)</li>\r\n                            <li>2015 USA Shooting National Championships, gold (50m three position); silver (10m air), bronze (50m prone)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>Olympian (2016); Olympic medalist (gold)</li><li>Rio 2016, gold (10m air rifle); 10th (50m three position)</li></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362034/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ginny%20Thrasher/thrasher_ginny_081116_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362036/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ginny%20Thrasher/Thrasher_Virginia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ginny Thrasher"
+        }
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Thums",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1976-12-05T00:00:00",
+        "hometown": {
+          "city": "Ogema",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 45.4855,
+          "longitude": -90.2835
+        },
+        "education": "Northcentral Technical College (Wausau, WI) and Upper Iowa University, B.S",
+        "fun_fact": "Works as an accountant/estimator for a residential builder",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ken and Mary Thums</li><li>One older brother, Phillip, and four younger sisters, Becky, Diana, Tabitha and Rachel</li><li>His hobbies include handcycling, hunting, fishing, camping, listening to audiobooks</li><li>He began curling at 35</li><li>Works as an accountant/estimator for a residential builder, Denyon Homes, Inc</li><li>Currently resides in Weston, Wisconsin and home curling club is the Wausau Curling Club.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Milan 2026, 9th (Team - Mixed)</li><li>Paralympic Games Beijing 2022, 5th (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 11th (Team - Mixed)</li><li>Years of participation: Team - Mixed 2019, 2021, 2023, 2024, 2025; Doubles - Mixed 2024</li><li>Top finish: 4th – 2021 (Team - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684929356/TeamUSA%20Assets/Migration/Pages/Thums_Matt_030722_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Curling",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "Eligible",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684929363/TeamUSA%20Assets/Migration/Thums_Matthew_030922_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773249959/Thums_M_featured_920643.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011048/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Thums%20920643/Matt-Thums.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matt Thums 920643"
+        },
+        {
+          "title": "Wheelchair Curling"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Coleman",
+      "last_name": "Thurston",
+      "bio": {
+        "height": "6'2",
+        "birthday": "2002-02-17T00:00:00",
+        "hometown": {
+          "city": "Poynette",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.3908,
+          "longitude": -89.3626
+        },
+        "education": "Poynette High School (Poynette, Wisc.) '20 Devry University, Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Third generation curler in my family</li><li>Hobbies include working out, being outside, cooking, camping, listening to music, traveling and drinking coffee</li><li>Employee at the Chaska Curling Center as a Guest Services Lead</li><li>Devry University majoring in Business Administration through the USOPC ACE program.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championship, Füssen, 2023 (Team - Men)</li><li>World Junior Championship, Jönköping, 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Coleman Thurston"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Thurston",
+      "bio": {
+        "height": "5'11",
+        "birthday": "2002-08-12T00:00:00",
+        "hometown": {
+          "city": "Poynette",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.3908,
+          "longitude": -89.3626
+        },
+        "education": "Poynette High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Curls out of Poynette and Arlington clubs</li><li>Started curling in 2014</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Junior National Championships: 2019</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jake Thurston"
+        }
+      ]
+    },
+    {
+      "first_name": "Meghan",
+      "last_name": "Tierney",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1997-01-15T00:00:00",
+        "hometown": {
+          "city": "Eagle",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6555,
+          "longitude": -106.8295
+        },
+        "education": "Keystone School Online '17 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Chris and Sandy Tierney</li><li>Has two brothers, Chris and Daniel, and one sister, Makayla</li><li>Started snowboarding at age 10</li><li>Hobbies include surfing and skateboarding.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022, 12th (Snowboardcross - Women)</li><li>Olympic Games Pyeongchang 2018, 17th (Snowboardcross - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2021 – 12th (Snowboardcross - Women)</li><li>Years of participation: Snowboardcross - Women 2019, 2021</li><li>Top finish: 12th – 2021 (Snowboardcross - Women)</li></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662090/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Tierney_m_bio_990453.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004518/TeamUSA%20Assets/Athlete%20Profiles/Meghan%20Tierney%20990453/tierney_meghan_1200x300.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004518/TeamUSA%20Assets/Athlete%20Profiles/Meghan%20Tierney%20990453/tierney_meghan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Meghan Tierney 990453"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Snowboarding"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "entries": [
+    {
+      "first_name": "Freddy",
+      "last_name": "Krueger",
+      "bio": {
+        "height": "5'7",
+        "birthday": "1975-05-03T00:00:00",
+        "hometown": {
+          "city": "Winter Garden",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.5608,
+          "longitude": -81.5706
+        },
+        "education": "Louisiana State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began skiing at age 6</li><li>Currently holds the world ski fly record at 312 feet</li><li>Sponsored by Mastercraft, D3, Body Glove and Masterline</li><li>Son of Fred &amp; Rose Krueger</li><li>Married to Karen Truelove Krueger</li><li>Has two sons, Dash and Ridge</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Guadalajara, 2011 (Jumping - Men)</li><li>Pan American Games, Santo Domingo, 2003 (Slalom - Men, Jumping - Men, Tricks - Men)</li><li>Pan American Games, Winnipeg, 1999 (Jumping - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – gold (Team - Mixed), silver (Jumping - Men)</li><li>Years of participation: Jumping - Men 1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2017, 2021, 2023; Team - Mixed 2017, 2021, 2023</li><li>Medals: 14 (7 gold, 5 silver, 2 bronze)</li><ul><li>Gold – 2023 (Team - Mixed);  2017 (Team - Mixed);  2013 (Jumping - Men);  2011 (Jumping - Men);  2009 (Jumping - Men);  2007 (Jumping - Men);  2003 (Jumping - Men)</li><li>Silver – 2023 (Jumping - Men);  2017 (Jumping - Men);  2005 (Jumping - Men);  2001 (Jumping - Men);  1999 (Jumping - Men)</li><li>Bronze – 2021 (Jumping - Men, Team - Mixed)</li></ul></ul><h5>More</h5><p>Records:</p>\n<ul>\n    <li>Current World Ski FlyRecord Holder (312 feet)</li>\n    <li>Former World Jumping Record Holder (250 feet/76.2 meters)</li>\n    <li>Former World Jumping Record Holder (247 feet/75.2 meters)</li>\n    <li>Former World Jumping Record Holder (243 feet/74.2 meters)</li>\n    <li>Former World Jumping Record Holder (240 feet/73.0 meters)</li>\n    <li>Former World Jumping Record Holder (233 feet/71.0 meters)</li>\n    <li>Former World Jumping Record Holder (226 feet)</li>\n    <li>Current U.S. National Open Men Jumping Record Holder (250 feet)</li>\n    <li>Former Ski Fly World Record Holder (286 feet)</li>\n    <li>Midwest Regionals Boys 3 Jumping Record Holder</li>\n    <li>Midwest Regionals Men 1 Jumping Record Holder</li>\n</ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Waterski/Wakeboard",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366108/TeamUSA%20Assets/Migration/Athlete%20Profiles/Freddy%20Krueger/FreddyKrueger.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Freddy Krueger"
+        }
+      ]
+    },
+    {
+      "first_name": "Casey",
+      "last_name": "Krueger",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1990-08-23T00:00:00",
+        "hometown": {
+          "city": "Naperville",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.75,
+          "longitude": -88.15
+        },
+        "education": "Florida State University",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719623491/Krueger_Casey_Bio.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335508/TeamUSA%20Assets/Migration/Athlete%20Profiles/Casey%20Krueger/Short_Casey_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Casey Krueger"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Soccer"
+        }
+      ]
+    },
+    {
+      "first_name": "Cassidy",
+      "last_name": "Krug",
+      "bio": {
+        "height": "5’4″",
+        "birthday": "1985-07-12T00:00:00",
+        "hometown": {
+          "city": "Coraopolis",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.50979,
+          "longitude": -80.15061
+        },
+        "education": " Stanford University",
+        "fun_fact": null,
+        "biography": "<strong>Retired</strong>\n<div>\n<div><br>\n<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games London 2012, 7th (3m Springboard - Women)</li></ul></ul></div>\n<div><strong><br>\n</strong></div>\n<div><h5>Career Highlights</h5><ul>\n    <li>10-time national champion (3-meter in 2007, 2010; twice in 2011; 2012; synchronized 3-meter 2005, 2007, 2010, twice in 2011)</li>\n    <li>8th on 3-meter at 2012 World Cup</li>\n    <li>2011 Pan American Games silver medalist, 3-meter; bronze medalist, synchronized 3-meter</li>\n    <li>2010 FINA World Series/China, bronze medalist 3-meter and synchronized 3-meter<br>\n    </li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Her dad is the head diving coach at the University of Pittsburgh, and her mom coaches at the Pitt Aquatic Club ... She stopped diving after the 2008 U.S. Olympic Team Trials but decided after a year that she missed the sport and returned for the 2010 season ...&nbsp;Cassidy listens to music between dives, works for the Stanford Alumni Association, and enjoys reading, writing, journaling and exercise. She also loves to travel and likes to try new places, foods and activities ...&nbsp;She worked as a runner for NBC at the 2004 Games in Athens.</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695796/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cassidy%20Krug%20916806/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695797/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cassidy%20Krug%20916806/Krug_diving_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cassidy Krug 916806"
+        }
+      ]
+    },
+    {
+      "first_name": "Kassidy",
+      "last_name": "Krupit",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2000-04-13T00:00:00",
+        "hometown": {
+          "city": "Suwanee",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.05,
+          "longitude": -84.07
+        },
+        "education": "Lambert South Carolina - 2022",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Elisabeth and Andrew Krupit</li><li>Dream job is to be the Head Coach of a Power Five softball program</li><li>Favorite movie is Stepbrothers</li><li>Biggest supporters are her Dad and Grandpa</li><li>Three words to describe her are funny, athletic, determined</li><li>On what it means to play for USA Softball: It means absolutely everything to me to represent the best country in the world by playing the sport I love!  My dream is finally coming true</li><li>On what she enjoys most about playing softball: I enjoy the fact that I can play with players all over the country that share the same love as me, as well as creating lifelong friendships with them</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 USA Softball International Cup Bronze Medalist; Hit .111 (1-for-9) with 1 HR, 3 RBI and 1 run scored</li>\r\n                            <li>Four-time Georgia All-State selection</li>\r\n                            <li>2018 Louisville Slugger Hit Club participant</li>\r\n                            <li>All-American first team selection by FloSoftball and Extra Inning Softball</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662097/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_Courtney_bio_1173326.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662261/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_Courtney_hero_1173326.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695777/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kassidy%20Krupit%201173326/Kassidy-Krupit.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kassidy Krupit 1173326"
+        }
+      ]
+    },
+    {
+      "first_name": "Isaia",
+      "last_name": "Kruse",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2000-02-04T00:00:00",
+        "hometown": {
+          "city": "Fresno",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.7378,
+          "longitude": -119.7871
+        },
+        "education": "Bullard High School (Fresno, Calif.) ‘18 California State University, Fresno",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Second oldest of six siblings who all play rugby, with his oldest brother Mika playing professionally for the Glendale Raptors in Colorado</li><li>Began playing rugby in 2012</li><li>Favorite movies are Hereditary and 28 Days Later.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Traveling with the U17 Eagle Impact Rugby Academy squad to Ireland</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695762/TeamUSA%20Assets/Migration/Athlete%20Profiles/Isaia%20Kruse%201113734/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695764/TeamUSA%20Assets/Migration/Athlete%20Profiles/Isaia%20Kruse%201113734/kruse_isaia.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Isaia Kruse 1113734"
+        }
+      ]
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Krygier",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "2000-05-05T00:00:00",
+        "hometown": {
+          "city": "Novi",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.4806,
+          "longitude": -83.4805
+        },
+        "education": "TPH Center of Excellence (Novi, Michigan) ‘18",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong></p>\n<p><h5>Career Highlights</h5></p>\n<ul>\n    <li>Pee Wee Minor Michigan State champions for Compuware</li>\n    <li>Advanced to Final Four in Nationals 2014-2015 Compuware Bantam Major</li>\n    <li>Participated in the 2015 USA Hockey Select Camp</li>\n</ul>\n<p><br>\n</p>\n<p><h5>Quick Facts</h5><ul><li><ul><li>Son of Todd and Kimberly Krygier</li><li>Has four siblings, Brock, Cole, Grace and Natalie</li><li>Todd played professionally with the Hartford Whalers, Washington Capitals and Anaheim Ducks</li><li>Brock is a member of the men's ice hockey team at Arizona State University</li><li>Natalie is a member of the women's soccer team at the University of Iowa.</li></ul></li></ul></p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321418/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christian%20%20Krygier%20911521/IceHockey_Krygier_Christian_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christian Krygier 911521"
+        }
+      ]
+    },
+    {
+      "first_name": "Katie",
+      "last_name": "Kubiak",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1997-05-14T00:00:00",
+        "hometown": {
+          "city": "Cedarburg",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.3939,
+          "longitude": -87.9937
+        },
+        "education": "New York University (Film & Television, Broadcast Journalism)",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><p>• She began swimming at age 5 in learn-to-swim lessons for water safety<br />• Found freedom and joy in the water, leading to a lifelong passion for swimming<br />• Rose rapidly on the international stage, becoming one of Team USA’s breakout stars at the 2025 World Para Swimming Championships<br />• Credits hometown coaches Steve Keller and Tom Miazga, and current coach Jeff Rodriguez, as major influences in her swimming journey<br />• Enjoys music, writing, and watching films—especially documentaries<br />• Favorite concert memory: meeting Noah Kahan at Summerfest<br />• Enjoys exploring 1980s pop and rock music; favorite films include <em>Alien</em> and <em>The Truman Show</em><br />• Parents: Chad and Christi Kubiak<br />• Sibling: Brother, Caleb<br />• If she could have any superpower, she would choose teleportation<br />• Fans might be surprised to know she is an avid concert-goer</p><h5>World Championships Experience</h5><p><strong>Most Recent:</strong><br />• 2025 – Gold – 50m Freestyle S4 – Women, 100m Freestyle S4 – Women, 200m Freestyle S4 – Women, 50m Backstroke S4 – Women; Silver – 50m Butterfly S5 – Women; Bronze – 4x50m Freestyle Relay 20 Points – Mixed, 4x50m Medley Relay 20 Points – Mixed</p><p><strong>Years of Participation:</strong><br />• 2025 – 50m Freestyle S4 – Women; 100m Freestyle S4 – Women; 200m Freestyle S4 – Women; 50m Backstroke S4 – Women; 50m Butterfly S5 – Women; 4x50m Freestyle Relay 20 Points – Mixed; 4x50m Medley Relay 20 Points – Mixed</p><p><strong>Medals:</strong> 7 (4 gold, 1 silver, 2 bronze)<br />• <strong>Gold</strong> – 2025 (50m Freestyle S4 – Women, 100m Freestyle S4 – Women, 200m Freestyle S4 – Women, 50m Backstroke S4 – Women)<br />• <strong>Silver</strong> – 2025 (50m Butterfly S5 – Women)<br />• <strong>Bronze</strong> – 2025 (4x50m Freestyle Relay 20 Points – Mixed; 4x50m Medley Relay 20 Points – Mixed)</p><p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1750646265/Katie_Kubiak.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S4",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769033536/20250927-203459-TWPSCH-035698-rku.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769033536/20250927-203459-TWPSCH-035698-rku.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Katie Kubiak"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Kucbor",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1993-12-27T00:00:00",
+        "hometown": {
+          "city": "Glenview",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.07642,
+          "longitude": -87.80062
+        },
+        "education": "Glenbrook South High School Northeastern Illinois University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I graduated in 2016 with a Bachelor&#39;s in Special Education from Northeastern Illinois University</li><li>I am bilingual and bi-literate in both English and Polish.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Bronze Medalist 2017 PKF Senior Championships Curacao- Para Karate Intelectual Impairment category. </li>\r\n                            <li>Bronze Medalist 2017 PKF Senior Championships Curacao- Para Karate Intelectual Impairment category.   2016 US Open Champion in Para-Karate Kata and 18-34 Male advanced weapons. </li>\r\n                            <li>Two-Time Silver Medalist in 2017 US Open for Para-Kata and first ever Para-Kumite match.</li>\r\n                            <li>Three time Senior national team member, competing at the World Championships in Bremen (2014), Linz (2016) and Pan-American Championships in Curacao (2017).</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923891/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kevin%20Kucbor/2017_US_Team_Kevin_kucbor.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kevin Kucbor"
+        }
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Kuchar",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1978-06-21T00:00:00",
+        "hometown": {
+          "city": "Sea Island",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 31.1833,
+          "longitude": -81.3333
+        },
+        "education": "Seminole High School (Sanford, Florida) '96 Georgia Tech '00, Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Peter and Meg Kuchar</li><li>Wife, Sybi, was a standout tennis player at Georgia Tech, where they met. The duo teamed in October 2009 to win the consolation title in the USTA National Husband/Wife Doubles Championship at the ATP Headquarters in Ponte Vedra Beach, Fla</li><li>Two sons, Cameron Cole and Carson Wright</li><li>Interests include boating, hiking and skiing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014 RBC Heritage, 1st</li>\r\n                            <li>2013 Memorial Tournament, 1st</li>\r\n                            <li>2013 World Golf Championships-Accenture Match Play Championship, 1st</li>\r\n                            <li>2012 THE PLAYERS Championship, 1st</li>\r\n                            <li>2010 The Barclays, 1st</li>\r\n                            <li>2009 Turning Stone Resort Championship, 1st</li>\r\n                            <li>2002 The Honda Classic, 1st</li>\r\n                            <li>2011 OMEGA Mission Hills World Cup (with Gary Woodland), 1st</li>\r\n                            <li>Represented the United States in professional team competition three times at The Presidents Cup (2011, 2013, 2015) and three times at the Ryder Cup (2010, 2012, 2014)</li>\r\n                            <li>Kuchar turned professional in November 2000, after working briefly for a financial services firm</li>\r\n                            <li>1997 U.S. Amateur, 1st</li>\r\n                            <li>Two-time first-team All-America selection (1998, 2000) and Georgia Tech’s second player to be a four-time All-ACC selection (along with David Duval)</li>\r\n                            <li>Awarded Fred Haskins Award in 1998 as the nation&#39;s top collegiate golfer</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Individual - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 11th (Individual - Men)</li><li>Years of participation: Individual - Men 2022, 2023, 2023, 2024, 2025</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Individual - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714781/TeamUSA%20Assets/Migration/Athlete%20Profiles/Matt%20Kuchar%201024130/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714783/TeamUSA%20Assets/Migration/Athlete%20Profiles/Matt%20Kuchar%201024130/Kuchar_Matt_14MCG2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matt Kuchar 1024130"
+        }
+      ]
+    },
+    {
+      "first_name": "Denis",
+      "last_name": "Kudla",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1992-08-17T00:00:00",
+        "hometown": {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.881,
+          "longitude": -77.094
+        },
+        "education": "Homeschooled, Junior Tennis Champions Center ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Vladimir and Lucy Kudla</li><li>Has one older brother, Nikita</li><li>Born in Kiev, Ukraine, and on his first birthday moved to Fairfax, Virginia, with his parents</li><li>Began playing tennis at age 7 and attended the Junior Tennis Champions Center in College Park, Maryland, where he was coached by Frank Salazar</li><li>Prefers to play on a hard court surface</li><li>Avid sports fan and his favorite professional teams include the Philadelphia Eagles (NFL), Washington Capitals (NHL), Washington Wizards (NBA) and Washington Nationals (MLB)</li><li>Models his game after David Ferrer and his tennis idol is Roger Federer.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 Australian Open, second round (singles); first round (doubles)</li>\r\n                            <li>2016 French Open, first round (singles)</li>\r\n                            <li>2015 Wimbledon, fourth round (singles)</li>\r\n                            <li>2013 Wimbledon, first round (doubles)</li>\r\n                            <li>2013 French Open, first round (singles)</li>\r\n                            <li>2013 US Open, second round (singles, doubles)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 33th (Singles - Men)</li></ul></ul><h5>More</h5>ATP World Tour",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013453/TeamUSA%20Assets/Athlete%20Profiles/Denis%20Kudla%20876611/Kudla_Denis_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Denis Kudla 876611"
+        }
+      ]
+    },
+    {
+      "first_name": "Allison",
+      "last_name": "Kunkel",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "2001-05-04T00:00:00",
+        "hometown": {
+          "city": "Steamboat Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.4844,
+          "longitude": -106.8317
+        },
+        "education": "Steamboat Springs High School (Steamboat Springs, Colo.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Kunkel began skiing at age three after being introduced to the sport by her father</li><li>Daughter of Larry and Dawn Kunkel</li><li>Born with an underdeveloped right arm due to a congenital limb condition known as dysmelia</li><li>Hobbies include football, surfing and cheerleading.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018,  (Downhill - Standing - Women, Slalom - Standing - Women, Super Combined - Standing - Women), 7th (Super-G - Standing - Women), 8th (Giant Slalom - Standing - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 7th (Slalom - Standing - Women), 10th (Giant Slalom - Standing - Women)</li><li>Years of participation: Giant Slalom - Standing - Women 2017; Slalom - Standing - Women 2017</li><li>Top finish: 7th – 2017 (Slalom - Standing - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696164/TeamUSA%20Assets/Migration/Athlete%20Profiles/Allison%20Kunkel%20814124/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "LW6/8-2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696165/TeamUSA%20Assets/Migration/Athlete%20Profiles/Allison%20Kunkel%20814124/Kunkel_Allison.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allison Kunkel 814124"
+        }
+      ]
+    },
+    {
+      "first_name": "Annie",
+      "last_name": "Kunz",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1993-02-16T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "Texas A&M University ’16, General Studies",
+        "fun_fact": null,
+        "biography": "Daughter of Terry and Nancy Kunz. Has two siblings, Kelli and Terry. Father, Terry, is a Super Bowl Champion with the 1976 Oakland Raiders. Volunteered as a youth soccer coach and helped with the Special Olympics Rush Thunder. Hobbies include watching reality TV, spending time with family, friends and her French Bulldog Auggie, cooking, doing DIY projects, going to the beach and finding the best coffee spots. . <h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Heptathlon - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 13th (Heptathlon - Women)</li><li>Years of participation: Heptathlon - Women 2019</li><li>Top finish: 13th – 2019 (Heptathlon - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662013/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/kunz_a_bio_1032872.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662622/TeamUSA%20Assets/Athlete%20Profiles/Annie%20Kunz%201032872/kunz_a_hero_1032872.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013458/TeamUSA%20Assets/Athlete%20Profiles/Annie%20Kunz%201032872/Kunz_Annie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Annie Kunz 1032872"
+        }
+      ]
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Kurka",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1992-01-27T00:00:00",
+        "hometown": {
+          "city": "Palmer",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 61.5994,
+          "longitude": -149.1139
+        },
+        "education": "Colony High School (Palmer, AK) ",
+        "fun_fact": "Operates his own bed and breakfast, the Golden Standard, which is aimed at providing people with disabilities the opportunity to explore the Alaskan wilderness",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality: </strong><span>Combined, Downhill, Giant Slalom, Super G, Slalom</span></li><li>Son of Amy Weideman</li><li>One brother, Christian</li><li><span>Hobbies include fishing, flying and forging</span></li><li>Enjoys bike riding and pickleball</li><li>Junior wheelchair bodybuilding state champion</li><li>Former radio DJ</li><li>An athlete mentor for Classroom Champions, a non-profit organization partnering Olympic and Paralympic athletes with students and teachers in underserved communities</li></ul><h5>Biographical Information</h5><p>Andrew Kurka’s first Olympic dream wasn’t on the slopes, but on the wrestling mat, as he was a six-time Alaskan state champion in freestyle and Greco-Roman wrestling. At age 13, an ATV accident severely damaged three vertebrae in the middle of his spinal cord. Two years after his accident, he first tried a mono-ski on the encouragement of his physical therapist through a program called Challenge Alaska.</p><p>Kurka qualified for the U.S. Paralympic team for the Paralympic Winter Games Sochi 2014 but crashed in training and did not compete. He made his Paralympics at the Paralympic Winter Games PyeongChang 2018, winning two medals – a gold in sitting downhill and silver in super-G – to become the first-ever Alaskan Paralympic medalist. Four years later, Kurka competed with a broken nose, thumb and humerus bone at the Paralympic Winter Games Beijing 2022, finishing fourth in the sitting downhill before returning home due to his injuries.</p><p>Off the snow, Kurka operates his own bed and breakfast, the Golden Standard, which is aimed at providing people with disabilities the opportunity to explore the Alaskan wilderness through flying and fishing. He got his Sport Pilot license from Purdue University to provide transportation to the guests.<span></span></p><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (1 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Milan 2026,  (Downhill - Sitting - Men, Giant Slalom - Sitting - Men, Super Combined - Sitting - Men), bronze (Super-G - Sitting - Men)</li><li>Paralympic Games Beijing 2022, 4th (Downhill - Sitting - Men)</li><li>Paralympic Games Pyeongchang 2018,  (Giant Slalom - Sitting - Men), gold (Downhill - Sitting - Men), silver (Super-G - Sitting - Men), 7th (Super Combined - Sitting - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 –  (Super Combined - Sitting - Men), bronze (Downhill - Sitting - Men, Giant Slalom - Sitting - Men), 4th (Super-G - Sitting - Men)</li><li>Years of participation: Downhill - Sitting - Men 2013, 2015, 2017, 2019, 2022; Giant Slalom - Sitting - Men 2013, 2015, 2017, 2019, 2022; Super Combined - Sitting - Men 2013, 2017, 2019, 2022; Super-G - Sitting - Men 2013, 2015, 2017, 2022; Slalom - Sitting - Men 2013, 2017, 2019</li><li>Medals: 6 (1 gold, 1 silver, 4 bronze)</li><ul><li>Gold – 2017 (Downhill - Sitting - Men)</li><li>Silver – 2017 (Giant Slalom - Sitting - Men)</li><li>Bronze – 2022 (Downhill - Sitting - Men, Giant Slalom - Sitting - Men);  2017 (Super-G - Sitting - Men);  2015 (Super-G - Sitting - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747370843/TeamUSA%20Assets/Migration/Athlete%20Profiles/Andrew%20Kurka/kurka_a_858932_hero1.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "LW12-1, Sitting",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662238/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/kurka_a_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773069773/Kurka_A_featured_858932_2.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362477/TeamUSA%20Assets/Migration/Athlete%20Profiles/Andrew%20Kurka/Kurka_Andrew_Headshot_2022_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Andrew Kurka"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Alpine Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Kusku",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1984-08-06T00:00:00",
+        "hometown": {
+          "city": "Commerce Township",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.57947,
+          "longitude": -83.49021
+        },
+        "education": "Warren Mott High School (Warren, Mich.) ‘02 Western Michigan University ‘07, Mathematics and Physics Secondary Education; M.A. ’09, Mathematics ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Altan and Julianne</li><li>Married to Jessica and has a son, George</li><li>Born with a hereditary degenerative retinal disease</li><li>Legally blind with less than one degree of vision left in each eye</li><li>Was introduced to goalball at a Sports Education Camp hosted by the U.S. Association of Blind Athletes at West Michigan University at a young age</li><li>Teaches high school math and physics</li><li>His wife coaches his team, Michigan Omega, and helps build workouts for training</li><li>One of his favorite moments is when his son imitates his strength workouts with one-pound dumbbells</li><li>Hobbies include spending time with his family and listening to audiobooks, especially of the science and science fiction genre.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Tokyo 2020, 4th (Team - Men)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 5th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004611/TeamUSA%20Assets/Athlete%20Profiles/John%20Kusku%20809439/John_Kusku_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "B2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004613/TeamUSA%20Assets/Athlete%20Profiles/John%20Kusku%20809439/Kusku_John_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Kusku 809439"
+        }
+      ]
+    },
+    {
+      "first_name": "Derrick",
+      "last_name": "Kwak, Jr.",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2000-05-13T00:00:00",
+        "hometown": {
+          "city": "Simi Valley",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2694,
+          "longitude": -118.7815
+        },
+        "education": "University of California, Los Angeles",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Started taekwondo in 2005</li><li>Favorite taekwondo athlete is Joshua Liu</li><li>His biggest inspiration is Eric Mastrolonardo</li><li>Favorite foods are Korean BBQ and pasta</li><li>Favorite TV shows are <em>\"Steven Universe\" </em>and <em>\"Gravity Falls\"</em></li><li>Favorite bands are Twenty One Pilots and BTS</li><li>Proudest moment in taekwondo was making the 2016 U.S. Junior National Team</li><li>Played piano for eight years</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Burnaby, 2016 (Lightweight 55-59kg - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767825592/TeamUSA%20Assets/Athlete%20Profiles/Derrick%20Kwak%20Jr.%201059119/kwak_d_hero_uncropped.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767825592/TeamUSA%20Assets/Athlete%20Profiles/Derrick%20Kwak%20Jr.%201059119/kwak_d_hero_uncropped.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Derrick Kwak, Jr."
+        },
+        {
+          "title": "Taekwondo"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Kwong",
+      "bio": {
+        "height": "5'3",
+        "birthday": "1994-11-21T00:00:00",
+        "hometown": {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8358,
+          "longitude": -118.34
+        },
+        "education": "North High School CSUDH - Bachelor's in Kinesiology ; currently attending USC for Doctor of Physical Therapy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I started Karate at the age of 4. My aunt was my first Sensei, and at the time my entire family practiced Karate. My grandfather practiced many martial arts, and he always believed in having the ability to defend ourselves if a situation deemed it necessary. As I grew up, my love for Karate continued to grow. I particularly admire how artistic and expressive Kata can be in our sport</li><li>Three things you may not know about me is that I like to dance,  I really enjoy photography, and I love taking scenic videos during my travels.</li></ul><h5>Career Highlights</h5><ul><li>World Junior, Cadet & U21 Championships, Jakarta, 2015 (Individual Kata - Women)</li><li>World Junior & Cadet Championships, Malacca, 2011 (Team Kata - Women, Individual Kata - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2010: Jr PKF Team Kata Gold </li><li>2011: Jr PKF Junior Kata Gold, Jr PKF Team Kata Silver, Jr World Championship Team Kata Silve</li><li>2012: Jr PKF Team Kata Silver</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697794/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessica%20Kwong%201172249/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697795/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessica%20Kwong%201172249/Jessica-Kwong.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Kwong 1172249"
+        }
+      ]
+    },
+    {
+      "first_name": "Erik",
+      "last_name": "Kynard",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1991-02-03T00:00:00",
+        "hometown": {
+          "city": "Toledo",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.6639,
+          "longitude": -83.5556
+        },
+        "education": "Robert S. Rogers High School (Toledo, Ohio) ‘09 Kansas State University '13, Business Entrepreneurship ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Erik Kynard and Brandynn Adams</li><li>Has three brothers – Christopher, Branden and Ian – and six sisters, Ava, Justyce, Asia, Brittany, Faith and Bre’anna</li><li>Enjoys shopping, reading and listening to music</li><li>Two-time NCAA outdoor national champion in high jump (2011-12)</li><li>Qualified to compete at his first U.S. Olympic Team Trials as a 17-year-old in 2008</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, 6th (High Jump - Men)</li><li>Olympic Games London 2012, gold (High Jump - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2018 – 4th (High Jump - Men)</li><li>Years of participation: High Jump - Men 2015, 2016, 2017, 2018</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2016 (High Jump - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695750/TeamUSA%20Assets/Migration/Athlete%20Profiles/Erik%20Kynard%201238622/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695751/TeamUSA%20Assets/Migration/Athlete%20Profiles/Erik%20Kynard%201238622/kynard_erik_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Erik Kynard 1238622"
+        }
+      ]
+    },
+    {
+      "first_name": "Natalie",
+      "last_name": "LaGrone",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2000-05-30T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "Seton Home Study School University of the Incarnate Word",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began synchro at the age of 12</li><li>My role models are my mom and dad, and my coach, Ludi</li><li>My favorite school subjects are English and French</li><li>My favorite celebrity is Johnny Depp</li><li>The thing I credit most to my involvement in synchro is my love of being in the water and the 2012 Olympics</li><li>After synchro, I&#39;d like to become a synchro coach</li><li>God is my rock. Without Him, I would not be where I am today, and I thank Him for all the success and opportunity that He has given me. It is an honor to serve Him and this amazing country by doing what I love.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016-2018 Junior National Team</li>\r\n                            <li>2018 UANA Pan American Championships: Free Duet - 3rd, Tech Duet - 3rd</li>\r\n                            <li>2018 US National Championships: Solo - 7th; Duet - 8th</li>\r\n                            <li>2018 US Open: Solo - 4th; Duet - 4th</li>\r\n                            <li>2018 West Zone Athlete of the Year</li>\r\n                            <li>2017 Swiss Open: Tech Team - 2nd</li>\r\n                            <li>2015-2017 Rising Star</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717907/TeamUSA%20Assets/Migration/Athlete%20Profiles/Natalie%20LaGrone%20811290/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717908/TeamUSA%20Assets/Migration/Athlete%20Profiles/Natalie%20LaGrone%20811290/Natalie-LeGrone-2018.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Natalie LaGrone 811290"
+        }
+      ]
+    },
+    {
+      "first_name": "Griffin",
+      "last_name": "LaMarre",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-11-10T00:00:00",
+        "hometown": {
+          "city": "Haverville",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.7765,
+          "longitude": -71.0778
+        },
+        "education": "West Virginia University '17",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"font-size: 11pt;\">Son of Donna and John LaMarre</span></li><li><p>F<span style=\"font-size: 11pt;\">irst dreamed of being a Paralympian in skiing until a monoski accident where he broke both his legs led him to try sled hockey at age 11</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Griffin LaMarre was born with spasptic paraplegia, a hereditary condition that affects the strength of his legs and his balance. As a child, he played baseball, soccer and lacrosse through middle school before trying sled hockey at age 11.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">At the age of 15, he made the U.S. development sled hockey team, and seven years later, when Hall of Fame goaltender Steve Cash retired, he was selected for the senior U.S. national team.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">LaMarre made his Paralympic debut at the Paralympic Winter Games Beijing 2022, serving as the backup goalie to Jen Lee, and appeared in one game. LaMarre was the starting goaltender for the U.S. at the 2024 International Para Hockey Cup, where they won their third consecutive IPH Cup, with LaMarre recording two shutouts.</span></p><p><span style=\"font-size: 11pt;\">When not on the ice, LaMarre works in commercial real estate and is an avid sports fan of the New England Patriots and the West Virginia Mountaineers.</span></p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 gold)</li><ul><li>Paralympic Games Milan 2026, gold (Team - Mixed)</li><li>Paralympic Games Beijing 2022, gold (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Men)</li><li>Years of participation: Team - Men 2023, 2024, 2025</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2025 (Team - Men);  2023 (Team - Men)</li><li>Silver – 2024 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662014/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/LaMarre_g_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "Eligible",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662389/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lamarre_g_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362543/TeamUSA%20Assets/Migration/Athlete%20Profiles/Griffin%20LaMarre/Lamarre_Griffin_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Griffin LaMarre"
+        },
+        {
+          "title": "Sled Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    }
+  ]
+}

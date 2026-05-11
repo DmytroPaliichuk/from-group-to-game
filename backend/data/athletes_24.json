@@ -1,0 +1,967 @@
+{
+  "entries": [
+    {
+      "first_name": "Marcus",
+      "last_name": "Chambers",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-11-03T00:00:00",
+        "hometown": {
+          "city": "Tacoma",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.2529,
+          "longitude": -122.4443
+        },
+        "education": "University of Oregon ",
+        "fun_fact": "",
+        "biography": "<strong></strong><p>&nbsp;</p><div><p><strong ><br bold=\"[object Object]\"/></strong></p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (4 x 400m Relay - Men, 400m - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Deborah and Michael Chambers</li><li>Hobbies include bowling.</li><li><p>Foss High School (Tacoma, Wash.) University of Oregon '17, Mathematics</p></li></ul><br /><p><br /></p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926037/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marcus%20Chambers/Athletics_Chambers_Marcus.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marcus Chambers"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Miles",
+      "last_name": "Chamley-Watson",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1989-12-03T00:00:00",
+        "hometown": {
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7128,
+          "longitude": -74.006
+        },
+        "education": "The Knox School (St. James, N.Y.) '08 Penn State University '13, Sports Management",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Elizabeth Chamley and Colin Oerton</li><li>Has two sisters, Santorri and Sydney</li><li>Born in London and was raised there until age 9</li><li>Hobbies include modeling and spending time with friends</li><li>Speaks Spanish</li><li>Also competed on the varsity soccer and basketball teams in high school.</li></ul><h5>Career Highlights</h5><ul><li>2015 Pan American Games, gold (team)</li><li>2011 Pan American Games, gold (team)</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, 4th (Team Foil - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team Foil - Men), 19th (Individual Foil - Men)</li><li>Olympic Games London 2012, 4th (Team Foil - Men), 25th (Individual Foil - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2023 – 4th (Team Foil - Men), 12th (Individual Foil - Men)</li><li>Years of participation: Individual Foil - Men 2009, 2010, 2011, 2013, 2014, 2015, 2017, 2018, 2023; Team Foil - Men 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2017, 2018, 2019, 2023</li><li>Medals: 5 (2 gold, 3 silver)</li><ul><li>Gold – 2019 (Team Foil - Men);  2013 (Individual Foil - Men)</li><li>Silver – 2018 (Team Foil - Men);  2017 (Team Foil - Men);  2013 (Team Foil - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715464/TeamUSA%20Assets/Migration/Athlete%20Profiles/Miles%20Chamley-Watson%20824702/chamley_miles_081216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715466/TeamUSA%20Assets/Migration/Athlete%20Profiles/Miles%20Chamley-Watson%20824702/ChamleyWatson_Miles_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Miles Chamley-Watson 824702"
+        }
+      ]
+    },
+    {
+      "first_name": "Kimmie",
+      "last_name": "Champion",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1989-03-03T00:00:00",
+        "hometown": {
+          "city": "Vidalia",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 32.2088,
+          "longitude": -82.4135
+        },
+        "education": "University of Alabama",
+        "fun_fact": "",
+        "biography": "<p>\t&nbsp; &nbsp; &nbsp;&nbsp;Alabama State University (Masters), Prosthetics and Orthotics &lsquo;15</p><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2014</li><li>Top finish: 4th – 2014 (Team - Women)</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Toronto, 2015 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926082/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kimmie%20Champion/Champion.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kimmie Champion"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Chan",
+      "bio": {
+        "height": "5'6",
+        "birthday": "2007-03-08T00:00:00",
+        "hometown": {
+          "city": "Audubon",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.1087,
+          "longitude": -75.4485
+        },
+        "education": "Methacton High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Michael started artistic swimming in 2018 after he quit gymnastics</li><li>Neither of his parents know how to swim</li><li>He just realized the Chick-fil-A logo was a chicken in 2021</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 U.S. 13-15 Championship: 1st (Mixed Duet), 1st (Male Solo)</li>\r\n                            <li>2022 13-15 national team athlete</li>\r\n                            <li>2021 UANA International Open: 1st (Youth Male Solo), 1st (Mixed Duet)</li>\r\n                            <li>2021 13-15 national team athlete</li>\r\n                            <li>2021 U.S. 13-15 Championship and 12 and Under Invitational: 1st (13-15 Mixed Duet)</li>\r\n                            <li>2021 Junior Olympic Championship: 1st (Mixed Duet), 1st (Male Solo)</li>\r\n                            <li>2019 Junior Olympic Championship: 1st (12U Mixed Duet)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA Youth World Championships: 1st (Mixed Duet), 2nd (Male Solo)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366035/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20Chan/Michael-Chan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Chan"
+        }
+      ]
+    },
+    {
+      "first_name": "Mikayla",
+      "last_name": "Chandler",
+      "bio": {
+        "height": "4'2\"",
+        "birthday": "2000-10-16T00:00:00",
+        "hometown": {
+          "city": "Marion",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 41.6765,
+          "longitude": -70.7853
+        },
+        "education": "Old Rochester Regional High School (Mattapoisett, Mass.) ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Michelle and Ray Chandler</li><li>Has a sister, Rachael</li><li>Born with achondroplasia</li><li>Became involved in Paralympic track and field at age 15 after a teammate suggested the sport</li><li>Grew up playing field hockey and lacrosse.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (Discus Throw F41 - Women, Shot Put F40/41 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "F41",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005272/TeamUSA%20Assets/Athlete%20Profiles/Mikayla%20Chandler%201153757/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mikayla Chandler 1153757"
+        }
+      ]
+    },
+    {
+      "first_name": "Vicki",
+      "last_name": "Chang",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1990-08-03T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Leland High School (San Jose, CA) '08 University of California, Berkeley '12, Conservation and Resource Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>B-girl name &quot;La Vix&quot;</li><li>Vicki “La Vix” Chang started breaking at the age of 18 in Berkeley, where she studied ecology and restoration sociology at the University of California</li><li>In 2021, she changed careers from being an ecological consultant to a full-time b-girl/breaker</li><li>Vicki enjoys hiking, camping, eating donuts, and hanging with her dog, Oaky.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Undisputed Majors - 2022 USA Champion</li>\r\n                            <li>Breaking for Gold USA 2022 National Champion</li>\r\n                            <li>Texas Breaking Open 2022 and 2022 Champion</li>\r\n                            <li>Break X Grand Jam 2021 - 2nd </li>\r\n                            <li>Red Bull BC One 2021 - Top 8</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most Recent: 2022</li><li>Years of Participation: 2022</li><li>Top Finish: 11th</li></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Breaking",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367574/TeamUSA%20Assets/Migration/Athlete%20Profiles/Vicki%20Chang/chang_vicki_2023__BioHeadshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Vicki Chang"
+        },
+        {
+          "title": "Has Opendorse Account"
+        }
+      ]
+    },
+    {
+      "first_name": "Mia",
+      "last_name": "Chang",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2001-12-14T00:00:00",
+        "hometown": {
+          "city": "Aiea",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3875,
+          "longitude": -157.9308
+        },
+        "education": "Damien Memorial School",
+        "fun_fact": null,
+        "biography": "<p><br />Favorite books are the <em>Hunger Games </em>series…plays volleyball outside of taekwondo…loves going to the beach and traveling…favorite TV shows are <em>White Collar</em>, <em>Dance Moms</em> and <em>The Voice</em>…favorite movies are <em>50 First Dates and The Breakfast Club</em>...eats a banana, muffin and granola bar before competition…favorite athlete is Ronda Rousey...favorite taekwondo athlete is Jensen Ishida…not many people know that Mia loves to eat ice cream…favorite quote: “Hakuna Matata.” -Lion King</p><p><strong></strong></p><p><strong>Major Competition Record:</strong>&nbsp;<br /><br /><strong>2016 &nbsp;</strong>U.S. Open (Jr. -52kg): BRONZE<br /><br /><strong>2015&nbsp; 2nd WTF World Cadet Taekwondo Championships (-51kg):&nbsp;Round of 16</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def.&nbsp;Merli Paredes (ECU), 11-2, in Rd. of 32<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Lauren McKinley (GBR), 14-9, in Rd. of 16<br /><strong>2015&nbsp;&nbsp;USA Taekwondo Cadet National Team&nbsp;Member (-51kg)</strong><br /><br /><strong>2014&nbsp;&nbsp;USA Taekwondo Cadet National Team&nbsp;Member (feather)</strong><br /><strong>2014 &nbsp;USA Taekwondo Cadet National Team Trials (feather): GOLD</strong></p><p><strong>2013 &nbsp;</strong>USAT Junior National Championships (bantam): BRONZE<br /><strong>2013&nbsp; </strong>U.S. Open (Junior bantam): SILVER</p><p><em>last updated 2/17/2016</em></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686925876/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mia%20Chang/Mia_Chang_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mia Chang"
+        }
+      ]
+    },
+    {
+      "first_name": "Yujin",
+      "last_name": "Chang",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2004-04-12T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Laurel Springs School Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She loves penguins</li><li>She lived in New Jersey and Seoul, South Korea before moving to California</li><li>Her favorite ice cream flavor is cherry jubilee</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 FINA World Series Super Final: 1st (Tech Team), 1st (Highlight)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Virtual Australia: 1st (Highlight), 1st (tech Team)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Paris: 1st (Tech Team), 1st (Highlight)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Virtual USA/Canada: 1st (Highlight)</li>\r\n                            <li>2021 U.S. junior national team member</li>\r\n                            <li>2021-2022 U.S. senior national team member</li>\r\n                            <li>2019 U.S. National Championships: 3rd (Team), 2nd (Team), 2nd (Combo)</li>\r\n                            <li>2019 U.S. 13-15 national team member</li>\r\n                            <li>2018 UANA Pan American Championships: 2nd (Team)</li>\r\n                            <li>2018 U.S. National Championships: 1st (Combo), 1st (Team), 3rd (Duet)</li>\r\n                            <li>2018 U.S. 13-15 national team member</li>\r\n                            <li>2017 U.S. National Championships: 1st (Team), 1st (Combo)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>FINA Youth World Championships</li><li>2022 FINA World Championships: 5th (Highlight), 9th (Free Team), 6th (Tech Team)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366140/TeamUSA%20Assets/Migration/Athlete%20Profiles/Yujin%20Chang/Yujin.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Yujin Chang"
+        }
+      ]
+    },
+    {
+      "first_name": "Clay",
+      "last_name": "Chaplin",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2003-03-06T00:00:00",
+        "hometown": {
+          "city": "Highlands Ranch",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.5594,
+          "longitude": -104.9694
+        },
+        "education": "Mountain Vista (2021) Ohio State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Robert and Angela Chaplin</li><li>Has three siblings: Lindsay, Joe and Trevor</li><li>Started diving at age 9</li><li>Clay trains three hours a day, six days a week</li><li>Favorite dive is a 303C</li><li>Favorite diver is David Boudia</li><li>Traveling to get to the pools where he practices is the hardest part about his training</li><li>Says fear and not being tired after school are the hardest parts about his training</li><li>Clayton can do some cool magic tricks. He also enjoys playing video games to relax</li><li>He carries a rabbit's foot in his dive bag for good luck since he broke his elbow a week before the 2014 zones.</li><li>Because he broke his elbow in 2014, one arm is longer than the other</li><li>Clayton was named 2018 NISCA All-American</li><li>Between dives, he likes to listen to music and talk to teammates. He also visualizes his next dive</li><li>Clayton describes himself as funny, disciplined and happy</li><li>People would be surprised to learn that he is a good bowler and often bowls over 200 points a game</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005170/TeamUSA%20Assets/Athlete%20Profiles/Clay%20Chaplin%201223811/2019-Chaplin-Clayton-Bio-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Clay Chaplin 1223811"
+        }
+      ]
+    },
+    {
+      "first_name": "Tina",
+      "last_name": "Charles",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1988-12-05T00:00:00",
+        "hometown": {
+          "city": "Jamaica",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.69,
+          "longitude": -73.8
+        },
+        "education": "University of Connecticut ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Rawlston Charles, who is from Trinidad and Tobago, and Angella Murry, who is from Jamaica</li><li>Became Omni Peace’s first sports ambassador and donated $32,000 to build a school in Mali</li><li>Donated half of her WNBA salary in 2014 and 2015 to Hopey’s Heart Foundation, which provides AEDs to schools and organizations across the U.S. and hopes to extend to all gymnasiums in which EuroLeague and EuroCup teams practice and play</li><li>Directed two films which both premiered at the Tribeca Film Festival, Game Changer (2021) and Charlie’s Records (2019)</li><li>2009 USA Basketball Female Athlete of the Year.</li></ul><p></p><p>Years of Participation: 2010, 2014, 2018. <span></span>Medals: 3 (3 golds). Most recent: 2014 – gold.</p><h5>More</h5><p>Personal Website</p><p>USA Basketball</p><p></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Olympic Games London 2012, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – gold (Team - Women)</li><li>Years of participation: Team - Women 2010</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2010 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661962/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Charles_T_bio_828575.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662400/TeamUSA%20Assets/Athlete%20Profiles/Tina%20Charles%20828575/Charles_T_hero_828575.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005225/TeamUSA%20Assets/Athlete%20Profiles/Tina%20Charles%20828575/Charles_Tina.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tina Charles 828575"
+        }
+      ]
+    },
+    {
+      "first_name": "Kendall",
+      "last_name": "Chase",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1994-08-25T00:00:00",
+        "hometown": {
+          "city": "Evergreen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6375,
+          "longitude": -105.3144
+        },
+        "education": "J.K. Mullen High School (Denver, Colo.) ‘12 University of California, Berkeley ‘16",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Enjoys watching TV, consuming large amounts of calories, beating all her friends in liars dice and cards, making and watching TikToks, and loves playing outside</li><li>Has always loved the water and extreme jet skiing, reckless tubing, wake boarding/surfing, and river rafting are just a few of her favorite things to do on the water</li><li>Is a Survivor enthusiast and hopes to one day compete on the show</li><li>LGBTQ+ advocate and hopes to help rowers and other LGBTQ+ youth find a safe space within the sport of rowing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Sportswomen of Colorado award recipient</li>\r\n                            <li>Named the 2015 Pac-12 Athlete of the Year</li>\r\n                            <li>Tabbed a 2015 Division I Pocock First Team All-American and made the 2015 Pac-12 Women&#39;s Rowing All-Academic team</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 7th (Four - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 4th (Four - Women)</li><li>Years of participation: Four - Women 2017</li><li>Top finish: 4th – 2017 (Four - Women)</li></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005252/TeamUSA%20Assets/Athlete%20Profiles/Kendall%20Chase%20920814/Chase_Kendall_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendall Chase 920814"
+        }
+      ]
+    },
+    {
+      "first_name": "Brandi",
+      "last_name": "Chastain",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1968-07-21T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "University of California, Berkeley; Santa Clara University '91",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began playing soccer at the age of 8</li><li><p>Played for the Davis Junior High School boys' soccer team, because they had no girls' team</p></li><li>Sustained two ACL tears, a meniscus tear and two concussions throughout her playing career, and came back to playing successfully after each one</li><li>She was primarily a defender while representing Team USA but also occasionally played as a midfielder and forward, having been a natural goalscorer during her collegiate career</li></ul><h5>Biographical Information</h5><p>Brandi Chastain is one of the most iconic players in U.S. Soccer history, making her first big splash by winning the inaugural 1991 FIFA Women's World Cup in China.</p><p>After not being called up to the U.S. women's national team for the 1995 FIFA Women's World Cup, Chastain proceeded to use that determination to get back on the squad and win three Olympic medals (2 gold, 1 silver) and another FIFA Women's World Cup title in 1999, and bronze in 2003.</p><p>During that tenure, Chastain became one of the first women to win an Olympic gold medal in soccer, with Atlanta 1996 becoming the first Olympic Games to host the women's soccer tournament.</p><p>Chastain is most known for her iconic celebration after scoring the game-winning penalty against China in the 1999 FIFA Women's World Cup final. After scoring in the shootout, she celebrated by removing her jersey and revealing her sports bra. This would become one of the most iconic moments in women's sports history.</p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (2 gold, 1 silver)</li><ul><li>Olympic Games Athens 2004, gold (Team - Women)</li><li>Olympic Games Sydney 2000, silver (Team - Women)</li><li>Olympic Games Atlanta 1996, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2003 – bronze (Team - Women)</li><li>Years of participation: Team - Women 1991, 1999, 2003</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 1999 (Team - Women);  1991 (Team - Women)</li><li>Bronze – 2003 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747174096/TeamUSA%20Assets/Athlete%20Profiles/Brandi%20Chastain%20857179/chastain_b_bio_857179.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000, 2004",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747259697/TeamUSA%20Assets/Athlete%20Profiles/Brandi%20Chastain%20857179/chastain_b_cutout.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747174076/TeamUSA%20Assets/Athlete%20Profiles/Brandi%20Chastain%20857179/chastain_b_hero_857179.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747174076/TeamUSA%20Assets/Athlete%20Profiles/Brandi%20Chastain%20857179/chastain_b_hero_857179.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Soccer"
+        },
+        {
+          "title": "Brandi Chastain"
+        }
+      ]
+    },
+    {
+      "first_name": "Peter",
+      "last_name": "Chatain",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1999-11-08T00:00:00",
+        "hometown": {
+          "city": "Winnetka",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.1039,
+          "longitude": -87.7356
+        },
+        "education": "Stanford University '22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Discovered rowing through his family</li><li><p>Father was a collegiate All-America sailor and placed third in the Flying Dutchman class at the 1968 U.S. Olympic Trials</p></li><li>Has been named to five National teams in his career, but Paris will be his first Olympic team</li><li>Named the Pac-12 Men's Rower of the Year in 2021</li><li>Hobbies include <span>Vipassana meditation, reading and studying artificial intelligence ethics</span></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 6th (Eight - Men)</li><li>Years of participation: Eight - Men 2023</li><li>Top finish: 6th – 2023 (Eight - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Championships Under 23, Racice, 2021 (Eight - Men)</li><li>World Championships Under 23, Sarasota, 2019 (Coxed Four - Men)</li><li>World Junior Championships, Trakai, 2017 (Coxed Four - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Eight - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717176170/TeamUSA%20Assets/Athlete%20Profiles/Peter%20Chatain%201187542/Chatain_p_bio_new.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717176040/TeamUSA%20Assets/Athlete%20Profiles/Peter%20Chatain%201187542/Chatain_p_hero_1187542.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717176043/TeamUSA%20Assets/Athlete%20Profiles/Peter%20Chatain%201187542/Chatain_p_thumbnail_1187542.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717176043/TeamUSA%20Assets/Athlete%20Profiles/Peter%20Chatain%201187542/Chatain_p_thumbnail_1187542.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rowing"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Peter Chatain 1187542"
+        }
+      ]
+    },
+    {
+      "first_name": "Rajarshi",
+      "last_name": "Chattopadhyay",
+      "bio": {
+        "height": "6’2",
+        "birthday": "1992-06-29T00:00:00",
+        "hometown": {
+          "city": "Rockville",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.084,
+          "longitude": -77.1528
+        },
+        "education": "Richard Montgomery High School University of Maryland, College Park",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Was a four-year letterman and tennis team captain in high school</li><li>Discovered the sport of team handball by watching it on television during the 2016 Olympics and immediately fell in love with it</li><li>Took up both indoor and beach, eventually choosing to pursue the latter</li><li>Works as a rocket scientist</li><li>Is a decorated chess player</li><li>Hobbies include writing and playing music.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2020 Copa Internacional de Balonmano Playa Volc&#225;n - 1st</li>\r\n                            <li>2019 So. Cal Beach Handball Championships - 1st </li>\r\n                            <li>2019 PGNiG Summer Superliga Płock - 2nd (Poland)</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 2nd</li>\r\n                            <li>2018 Dunestar Invitational - 3rd </li>\r\n                            <li>2017 Ta&#231;a Kika Invitational - Quarter-Finalists (Jo&#227;o Pessoa, Brazil)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005206/TeamUSA%20Assets/Athlete%20Profiles/Rajarshi%20Chattopadhyay%201173248/Rajarshi_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rajarshi Chattopadhyay 1173248"
+        }
+      ]
+    },
+    {
+      "first_name": "Raven",
+      "last_name": "Chavanne",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1991-03-24T00:00:00",
+        "hometown": {
+          "city": "Thousand Oaks",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1705,
+          "longitude": -118.8376
+        },
+        "education": "University of Tennessee",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents: Kevin and Jamie Chavanne</li><li>Three people she'd like to have dinner with are Kobe Bryant, JK Rowling and Bobby Kennedy</li><li>Three favorite movies are The Breakfast Club, The Lion King, Love and Basketball and Titanic</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>Pan American Games, Toronto, 2015 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2014 – silver (Team - Women)</li><li>Years of participation: Team - Women 2014</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2014 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p><p><strong>2013:</strong> NFCA First Team All-American...First Team All-SEC...SEC All-Defensive Team...Senior CLASS Award Finalist...Top 3 Finalist for USA Softball Collegiate Player of the Year</p><p><strong>2012:</strong> NFCA Second Team All-American...First Team All-SEC...Top 10 Finalist for USA Softball Collegiate Player of the Year</p><p><strong>2011: </strong>NFCA Second Team All-American...First Team All-SEC...Top 10 Finalist for USA Softball Collegiate Player of the Year</p><p><strong>2010:</strong> Second Team All-SEC...NFCA Third Team All-American...SEC All-Freshman Team...Top 25 Finalist for USA Softball Collegiate Player of the Year</p><p>&nbsp;</p><p>Education:&nbsp;</p><p>Newbury Park High School, University of Tennessee</p><p><strong>Click here to view Raven Chavanne's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715548/TeamUSA%20Assets/Migration/Athlete%20Profiles/Raven%20Chavanne%20809159/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715550/TeamUSA%20Assets/Migration/Athlete%20Profiles/Raven%20Chavanne%20809159/ChavanneRaven.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Raven Chavanne 809159"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Javier",
+      "last_name": "Chavez",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1994-04-11T00:00:00",
+        "hometown": {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.7608,
+          "longitude": -111.891
+        },
+        "education": "West Boca Community High School (Boca Raton, Florida) '12 Palm Beach State College '14",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>B-boy name &quot;Spindian&quot;</li><li>My dad is from Venezuela and my mom is from India, which is how I got the name Spindian</li><li>I have an older sister named Ramneek and an older brother named Sean. I am the youngest of three</li><li>I am a Type 1 Diabetic</li><li>I enjoy being creative within filming and editing videos. I play the guitar and piano. I record and create music as well.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022: Elements of Life Champion</li>\r\n                            <li>2012: BRKN International Champion</li>\r\n                            <li>2019: BreaksU Champion</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Breaking",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367244/TeamUSA%20Assets/Migration/Athlete%20Profiles/Javier%20Chavez/chavez_javier_2023_BioHeadshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Javier Chavez"
+        }
+      ]
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Cheever",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1985-04-17T00:00:00",
+        "hometown": {
+          "city": "Saugus",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.4834,
+          "longitude": -71.0006
+        },
+        "education": "Malden Catholic High School (Malden, Mass.) University of Massachusetts Lowell",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mark Cheever and Dorene Lewey</li><li>Has one brother, Derek</li><li>Married to Maria</li><li>Began skiing at age 8</li><li>Is a licensed plumber, working during the summers</li><li>Hobbies include surfing, basketball, baseball, hockey, football, economics, policy, reading and animals.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 FIS World Cup Standings, 3rd (snowboardcross)</li>\r\n                            <li>2009 FIS World Cup Standings, 6th (snowboardcross)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 28th (Snowboardcross - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2013 – 34th (Snowboardcross - Men)</li><li>Years of participation: Snowboardcross - Men 2011, 2013</li><li>Top finish: 8th – 2011 (Snowboardcross - Men)</li></ul><h5>More</h5>Personal Website <br>\nU.S. Ski and Snowboard<br>\n<br>\n",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005258/TeamUSA%20Assets/Athlete%20Profiles/Jonathan%20Cheever%20931415/Cheever_Jonathan_102508_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005258/TeamUSA%20Assets/Athlete%20Profiles/Jonathan%20Cheever%20931415/cheever_johnathan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jonathan Cheever 931415"
+        }
+      ]
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Chelimo",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1990-10-27T00:00:00",
+        "hometown": {
+          "city": "Beaverton",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.4874,
+          "longitude": -122.8035
+        },
+        "education": "University of North Carolina",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Gabriel Suter and Roselyne Cheruiyot</li><li>Has three brothers, Moses Kiptoo, Denis Chelimo and Alberto Chelimo, and one sister, Emmanuela Chelimo</li><li>Attained U.S. citizenship by joining the U.S. Army and the World Class Athlete Program in 2014</li><li>Is a Specialist in the U.S. Army</li><li>Came to the U.S. to run initially for Shorter College in 2010 before transferring to UNC-Greensboro in 2011</li><li>Named the Southern Conference Runner of the Year for the second straight season in 2012</li><li>Aspires to become a water treatment specialist in Kenya and establish a water treatment plant in his native country.</li></ul><p></p><p>Years of <span>World Championships </span>participation: Indoor – 2016; Outdoor – 2017, 2019. Medals: 1 (1 bronze). <span>Most recent: 2019 – 7th (5,000-meter).</span></p><p><h5>More</h5><p>Personal Website</p><p>USA Track and Field</p><p></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (5000m - Men)</li><li>Olympic Games Rio de Janeiro 2016, silver (5000m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 15th (5000m - Men)</li><li>Years of participation: 5000m - Men 2017, 2023; 3000m (Indoor) - Men 2016, 2018; Team Cross Country Relay - Mixed 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (5000m - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661969/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/chelimo_p_bio_1032539.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662576/TeamUSA%20Assets/Athlete%20Profiles/Paul%20Chelimo%201032539/chelimo_p_hero_1032539.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005190/TeamUSA%20Assets/Athlete%20Profiles/Paul%20Chelimo%201032539/Chelimo_Paul.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paul Chelimo 1032539"
+        }
+      ]
+    }
+  ]
+}

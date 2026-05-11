@@ -1,0 +1,545 @@
+{
+  "entries": [
+    {
+      "first_name": "Jermell",
+      "last_name": "Pennie",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1976-12-15T00:00:00",
+        "hometown": {
+          "city": "Port Arthur",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.8863,
+          "longitude": -93.9396
+        },
+        "education": "University of Wisconsin",
+        "fun_fact": "",
+        "biography": "<h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Athens 2004, 7th (Team - Men)</li></ul></ul><h5>Career Highlights</h5><div><br><ul><li><strong>2012: Italian Champion</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2011: </strong><strong>Guadalajara </strong><strong>Parapan American Games, gold</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2010: Birmingham (England) IWBF Gold Cup, bronze</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2007: Parapan American Games, gold medal</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2005: French Cup Championship (Professional)</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2006: French Cup Championship (Professional)</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2003: Paralympic Qualifier (Argentina), gold</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2002: Brazil International Wheelchair Basketball Championships, silver</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2002: Brazil Pan American games, silver</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2000- 1st Team All- American (Wisconsin- Whitewater)</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>1999- 2nd Team All-American (Wisconsin-Whitewater)</strong><strong><br bold=\"[object Object]\"></strong></li><li><strong>2000, 2003, 2005, 2006, 2007, 2010, 2012, 2015 NWBA National Champions- Dallas Wheelchair Mavericks</strong></li></ul><br><br><h5>Quick Facts</h5></div><div>At the age of five, Pennie was injured due to three gunshot wounds to the side of his body in Houston, Texas. Due to the lack of any family members to care for him, he became a foster child and a resident at Hughen Center in Port Arthur, Texas. At 16 years old, Pennie was first introduced to wheelchair basketball by Randy Snow, the first Paralympian to be inducted into the U.S. Olympic Hall of Fame. Pennie is head coach of the Dallas Jr. Wheelchair Mavericks. He also has served as head coach of the Army team at the 2014 Warrior Games. He has also played professional wheelchair basketball in Spain and France.<br>Education:<br>Thomas Jefferson High School (Port Arthur, Texas) ‘96 University of Wisconsin, Whitewater<br><strong>Connect</strong><br>Facebook:&nbsp;<p>Jermell Pennie</p><br>Instagram:<p>@1onecent</p><br>Twitter:&nbsp;<p>@pennie1</p><br></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "1.5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367943/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jermell%20Pennie/Pennie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jermell Pennie"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Joey",
+      "last_name": "Peppersack",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1999-03-12T00:00:00",
+        "hometown": {
+          "city": "Hopewell",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 37.296,
+          "longitude": -77.2969
+        },
+        "education": "University of Mary Washington '21, Economics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with a condition known as tibial hemimelia, resulting in the amputation of his right leg when he was four years old</li><li>Began swimming at age 9 and was named Virginia&#39;s Disability Swimmer of the Year in 2014</li><li>Swims at the University of Mary Washington</li><li>Son of Sandy and Jody Peppersack</li><li>Hobbies include playing the electric guitar, video games, and listening to music.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 World Para Swimming World Series Indianapolis, 2nd (100-meter freestyle, 100-meter backstroke), 3rd (400-meter freestyle), 4th (100-meter breaststroke)</li>\r\n                            <li>2018 World Para Swimming World Series Indianapolis, 2nd (100-meter backstroke, 50-meter freestyle), 3rd (100-meter freestyle)</li>\r\n                            <li>2017 Can-Am Open, 1st (50-meter freestyle, 100-meter backstroke, 100-meter freestyle)</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 7th (100m Backstroke S8 - Men), 8th (4 x 100m Freestyle Relay 34 Points - Men), 9th (4 x 100m Medley Relay 34 Points - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662065/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/peppersack_j_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S8, SB7, SM7",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662135/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/peppersack_j_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335699/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joey%20Peppersack/peppersack_joey_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joey Peppersack"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Perbix",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1998-06-15T00:00:00",
+        "hometown": {
+          "city": "Elk River",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.3086,
+          "longitude": -93.5672
+        },
+        "education": "Elk River High School (Elk River, Minn.) ‘17 St. Cloud State University ‘22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>The son of Jay and Lisa Perbix</li><li>National Honor Society in high school</li><li>Finance major at SCSU</li><li>Enjoys playing ping pong.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 NCAA Regular Season Champion</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009949/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Perbix%201240099/perbix_nick_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Perbix 1240099"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Augusto",
+      "last_name": "Perez",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1972-11-09T00:00:00",
+        "hometown": {
+          "city": "East Syracuse",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.0673,
+          "longitude": -76.0666
+        },
+        "education": "Hilton Head Preparatory School (Hilton Head Island, S.C.) ‘92 Paul Smith's College ‘94, Liberal Arts",
+        "fun_fact": null,
+        "biography": "<table>\n    <tbody>\n        <tr>\n            <td>&nbsp;Position:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;Retired</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Teammates:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Delivers:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;Right-handed</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Born:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;November 9, 1972, in Madrid, Spain</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Hometown:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;East Syracuse, NY</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Occupation:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Education:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;Bachelor's degree in Spanish with a minor in education from Lemoyne College</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Family:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;Married, twins -- son &amp; daughter</td>\n        </tr>\n        <tr>\n            <td>&nbsp;Year started curling:</td>\n            <td>&nbsp;</td>\n            <td>&nbsp;2005</td>\n        </tr>\n    </tbody>\n</table>\n<br>\n<p><strong>Curling Highlights:</strong></p>\n<ul>\n    <li>World Wheelchair Championship: &nbsp;2011 (7th), 2009 (4th), 2008 (bronze), 2007 (5th)</li>\n    <li>Paralympic Winter Games: &nbsp;2010 (4th), 2006 (8th)</li>\n    <li>2008 USA Curling Male Athlete of the Year</li>\n    <li>Sportsmanship Award recipient at 2007 Wheelchair World Championship</li>\n</ul>\n<p><strong>Canoe/Kayak highlights:</strong></p>\n<ul>\n    <li>World champion, 2009 ICF World Championships, C2 200 meters sprint</li>\n    <li>2007 OC 12 national champion</li>\n    <li>2008 OC 1 world champion</li>\n    <li>2008 OC 12 silver medalist</li>\n    <li>Inducted into the International Canoe Hall of Fame, 2009</li>\n</ul>\n<p><strong>About Augusto Perez:</strong></p>\n<strong>\nCurls out of:</strong>  <br>\nUtica Curling Club, Utica, NY<br>\n<br>\n<strong>\nCurling start:</strong>  <br>\n\"I was introduced to curling by Marc Deperno at Sitrin Rehab Center in Utica.\"<br>\n<strong><br>\nCurling goals:</strong> <br>\n\"To be the best I can.\"<br>\n<br>\n<br>\nSyracuse Flyers wheelchair basketball team<br>\n<br>\n<br>\nTarget shooting, soccer, wheelchair road racing, mechanics, wheelchair basketball<br>\n<strong><br>\nFavorite place to travel: </strong><br>\nSpain and Puerto Rico<h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Sochi 2014, 9th (4 x 2.5km Relay Open - Open), 17th (15km - Sitting - Men), 19th (12.5km Middle - Sitting - Men)</li><li>Paralympic Games Vancouver 2010, 4th (Team - Mixed)</li><li>Paralympic Games Turin 2006, 7th (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 17th (10km - Sitting - Men, 12.5km Middle - Sitting - Men, 7.5km Sprint - Sitting - Men), 19th (1km Sprint - Sitting - Men)</li><li>Years of participation: 10km - Sitting - Men 2015; 12.5km Middle - Sitting - Men 2015; 1km Sprint - Sitting - Men 2015; 7.5km Sprint - Sitting - Men 2015; Team - Mixed 2007, 2008, 2009, 2011</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2008 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721399/TeamUSA%20Assets/Migration/Athlete%20Profiles/Augusto%20Perez%20869362/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2006, 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721400/TeamUSA%20Assets/Migration/Athlete%20Profiles/Augusto%20Perez%20869362/Nordic_Perez_Augusto_2014-USOC_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Augusto Perez 869362"
+        }
+      ]
+    },
+    {
+      "first_name": "Gia",
+      "last_name": "Pergolini",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2004-02-03T00:00:00",
+        "hometown": {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.7488,
+          "longitude": -84.3877
+        },
+        "education": "St. Francis High School ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Pergolini began swimming in 2008 at age four and started competing competitively at age five</li><li>Growing up, she played lacrosse, soccer and gymnastics, but swimming was her passion</li><li>When she was diagnosed with Stargardt’s disease, she decided to focus on swimming</li><li>In 2017, Pergolini set multiple records, including the American and Pan Am record in the S13 100-meter backstroke at the 2017 U.S. Paralympics Swimming World Championships Trials in Colorado Springs, Colorado</li><li>Daughter of Bill and Alice Pergolini</li><li>Has two brothers, Matthew and David</li><li>Hobbies include hanging out with her friends, baking and listening to Ariana Grande.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 3-time Paralympic medalist (2 gold, 1 silver)</li><ul><li>Paralympic Games Paris 2024, gold (100m Backstroke S13 - Women), silver (50m Freestyle S13 - Women), 12th (100m Butterfly S13 - Women)</li><li>Paralympic Games Tokyo 2020, gold (100m Backstroke S13 - Women), 5th (100m Butterfly S13 - Women), 9th (50m Freestyle S13 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – gold (100m Backstroke S13 - Women, 100m Freestyle S13 - Women), silver (100m Butterfly S13 - Women, 50m Freestyle S13 - Women), bronze (200m Individual Medley SM13 - Women)</li><li>Years of participation: 100m Backstroke S13 - Women 2017, 2019, 2022; 100m Butterfly S13 - Women 2017, 2019, 2022; 100m Freestyle S13 - Women 2019, 2022; 200m Individual Medley SM13 - Women 2019, 2022; 50m Freestyle S13 - Women 2019, 2022; 100m Breaststroke SB13 - Women 2017</li><li>Medals: 7 (2 gold, 4 silver, 1 bronze)</li><ul><li>Gold – 2022 (100m Backstroke S13 - Women, 100m Freestyle S13 - Women)</li><li>Silver – 2022 (100m Butterfly S13 - Women, 50m Freestyle S13 - Women);  2019 (100m Backstroke S13 - Women);  2017 (100m Backstroke S13 - Women)</li><li>Bronze – 2022 (200m Individual Medley SM13 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662813/TeamUSA%20Assets/Athlete%20Profiles/Gia%20Pergolini%201086381/G_Pergolini_bio_1086381.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S13, SB13, SM13",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662001/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/G_Pergolini_hero_1086381.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010624/TeamUSA%20Assets/Athlete%20Profiles/Gia%20Pergolini%201086381/Pergolini-Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gia Pergolini 1086381"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "RaVaughn",
+      "last_name": "Perkins",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1992-08-07T00:00:00",
+        "hometown": {
+          "city": "Omaha",
+          "state": "NE",
+          "country": "United States",
+          "latitude": 41.25654,
+          "longitude": -95.9345
+        },
+        "education": "Ellsworth CC",
+        "fun_fact": null,
+        "biography": "<p><strong>RAVAUGHN PERKINS</strong></p>\n<p><strong>2017-18 Team USA Ranking: </strong>No. 3 at 71 kg/156 lbs.</p>\n<p><strong>Years on Team USA: </strong>2 (2016-18)</p>\n<p></p>\n<p></p>\n<p><strong>Regional Training Center: </strong>U.S. Olympic Training Center<br>\n</p>\n<p></p>\n<p></p>\n<p>&nbsp;</p>\n<p><strong>Career Notes:</strong></p>\n<ul>\n    <li>2016 U.S. Olympic Trials champion</li>\n    <li>Two-time Dave Schultz Memorial International champion</li>\n    <li>2014 U.S. Open champion</li>\n    <li>2010 Junior Nationals Greco-Roman champion</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>2017: </strong>Dave Schultz Memorial International champion&hellip; Third at World Team Trials&hellip; Third at Grand Prix Zagreb Open&hellip;</p>\n<p><strong>2016:</strong> U.S. Olympic Trials champion&hellip; Dave Schultz Memorial International champion&hellip; Third at 1st World Olympic Games Qualifier&hellip; Eighth at 2nd World Olympic Games Qualifier&hellip;</p>\n<p><strong>2014:</strong> U.S. Open champion&hellip; Third in Dave Schultz Memorial International&hellip;</p>\n<p><strong>2012: </strong>Second in Minnesota Storm Holiday Cup&hellip; New York AC International champion&hellip;<strong> </strong>Final Olympic Trials Qualifier champion&hellip;</p>\n<p><strong>2011: </strong>Third in Sunkist Kids International Open&hellip;</p>\n<p></p>\n<p><strong>USA Age-group: </strong>2010 Junior Nationals Greco-Roman champion&hellip;Fifth in 2008 Cadet Nationals in Greco-Roman and freestyle&hellip; Third in 2007 Cadet Nationals in Greco-Roman&hellip; </p>\n<p><h5>Quick Facts</h5><ul><li>Brother DaVaughn was a three-time Nebraska state champion</li><li>Brother JaVaughn was a four-time Nebraska state champion</li></ul></p>\n<p><strong>Twitter</strong>: @RayRilla2300</p>\n<p></p>\n<p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690994106/NGB%20Wrestling/Athlete%20Profiles/RaVaughn%20Perkins/left-i-XmRcxj9-X3.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690994106/NGB%20Wrestling/Athlete%20Profiles/RaVaughn%20Perkins/RaVaughn_Perkins_headshot.jpg"
+        }
+      ],
+      "content_tags": []
+    },
+    {
+      "first_name": "Roy",
+      "last_name": "Perkins",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1990-05-09T00:00:00",
+        "hometown": {
+          "city": "Del Mar",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.9595,
+          "longitude": -117.2656
+        },
+        "education": "The Bishop’s School (LaJolla, Calif.) ‘08 Stanford University ’18, Earth Systems",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Perkins began swimming at age 12 when his family moved to California. His parents encouraged him to try many sports growing up, even though he was born without hands or feet. Their only rule was that he had to try a sport at least once before he said he could not do it. His family gave him swimming lessons as a safety precaution. He was then spotted by coach Don Watkinds when he competed at the San Diego Triathlon Challenge. Perkins has set the standard in the S5 classification, having been named the Best Male Swimmer of the Meet at the 2014 and 2015 Can-Am Championships. In 2008 he was the co-recipient (with Rudy Garcia-Tolson) of the Challenged Athlete of the Year award by the Challenged Athletes Foundation. He was named the 2006 Challenged Athlete Star of the Year by San Diego Hall of Champions</li><li>Son of Roy and Jana Perkins</li><li>Roy is an only child but has five dog “siblings”</li><li>His hobbies include playing basketball, following the Washington Redskins and Capitals, stand-up comedy, and food</li><li>Cousin Levi Knutson (University of Colorado) played professional basketball in Spain.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 10-time Paralympic medalist (2 gold, 4 silver, 4 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, gold (50m Butterfly S5 - Men), silver (100m Freestyle S5 - Men, 200m Freestyle S5 - Men), bronze (50m Freestyle S5 - Men)</li><li>Paralympic Games London 2012, silver (100m Freestyle S5 - Men, 50m Butterfly S5 - Men), bronze (200m Freestyle S5 - Men, 50m Freestyle S5 - Men), 14th (50m Backstroke S5 - Men)</li><li>Paralympic Games Beijing 2008,  (4 x 50m Freestyle Relay 20 Points - Men), gold (50m Butterfly S5 - Men), bronze (100m Freestyle S5 - Men), 4th (200m Freestyle S5 - Men, 4 x 50m Medley Relay 20 Points - Men, 50m Freestyle S5 - Men), 5th (200m Individual Medley SM5 - Men), 10th (100m Breaststroke SB4 - Men), 13th (50m Backstroke S5 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 –  (100m Breaststroke SB4 - Men), silver (100m Freestyle S5 - Men, 50m Butterfly S5 - Men), bronze (200m Freestyle S5 - Men), 5th (50m Freestyle S5 - Men), 6th (4 x 50m Freestyle Relay 20 Points - Mixed)</li><li>Years of participation: 100m Breaststroke SB4 - Men 2015; 100m Freestyle S5 - Men 2006, 2010, 2013, 2015; 200m Freestyle S5 - Men 2006, 2010, 2013, 2015; 4 x 50m Freestyle Relay 20 Points - Mixed 2015; 50m Butterfly S5 - Men 2006, 2010, 2013, 2015; 50m Freestyle S5 - Men 2006, 2010, 2013, 2015; 4 x 100m Freestyle Relay 34 Points - Men 2013; 4 x 100m Medley Relay 34 Points - Men 2013; 4 x 50m Freestyle Relay 20 Points - Men 2006, 2010; 4 x 50m Medley Relay 20 Points - Men 2006, 2010; 50m Backstroke S5 - Men 2006, 2010; 200m Individual Medley SM5 - Men 2006</li><li>Medals: 14 (2 gold, 8 silver, 4 bronze)</li><ul><li>Gold – 2013 (50m Butterfly S5 - Men);  2006 (50m Butterfly S5 - Men)</li><li>Silver – 2015 (100m Freestyle S5 - Men, 50m Butterfly S5 - Men);  2013 (100m Freestyle S5 - Men, 200m Freestyle S5 - Men, 50m Freestyle S5 - Men);  2010 (100m Freestyle S5 - Men, 200m Freestyle S5 - Men, 50m Butterfly S5 - Men)</li><li>Bronze – 2015 (200m Freestyle S5 - Men);  2010 (50m Freestyle S5 - Men);  2006 (200m Individual Medley SM5 - Men, 4 x 50m Freestyle Relay 20 Points - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 4,
+        "gold": 2,
+        "silver": 4
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S5, SB4, SM5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367874/TeamUSA%20Assets/Migration/Athlete%20Profiles/Roy%20Perkins/Perkins_Roy_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Roy Perkins"
+        }
+      ]
+    },
+    {
+      "first_name": "Dustin",
+      "last_name": "Perry",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1992-10-06T00:00:00",
+        "hometown": {
+          "city": "Lovelady",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 31.2007,
+          "longitude": -95.448
+        },
+        "education": " Texas A&M University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><br /></td></tr></tbody></table><div><div></div><div><br /><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2014 National Championships, 1st (skeet)</li><li>2014 Tucson World Cup, bronze (skeet)</li><li>2013 National Championships, 1st (skeet)</li><li>2012 Junior National Championships, 1st (skeet)</li><li>2011 National Junior Olympic Championships, 2nd (skeet)</li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Son of David and Jarrice Perry</li><li>Aided Lindenwood University to its ninth and 10th straight ACUI Collegiate Clays National Titles (2012, 2013) prior to attending Texas A&amp;M University</li><li>Hobbies include fishing and hunting.</li><li>&nbsp;</li></ul><br /><br /><h5>More</h5><p>USA Shooting</p><p>&nbsp;</p></div></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367830/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dustin%20Perry/Shooting_Perry_Dustin.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dustin Perry"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Kasey",
+      "last_name": "Perry-Glass",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1987-10-12T00:00:00",
+        "hometown": {
+          "city": "Orangevale",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.68351,
+          "longitude": -121.20634
+        },
+        "education": "Capital Christian High School (Sacramento, Calif.) ‘06 California State University – Sacramento ‘11, Business Entrepreneurship",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Robert and Diane Perry</li><li>Has five siblings</li><li>Married to Dana Glass</li><li>Began riding at age 5</li><li>Her family and husband call themselves “Team Believe.”</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 CDIO5* Nations Cup at Compiegne, 1st (individual, team) – with Dublet</li>\r\n                            <li>2015 Intermediarie I at CDI4* Achleiten Schloss, 2nd (individual) – with Dublet</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Open), 22th (Individual - Open)</li></ul></ul><h5>More</h5>Personal Website<br>\nU.S. Equestrian Federation",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367968/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kasey%20Perry-Glass/perryglass_kasey_081216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367970/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kasey%20Perry-Glass/perry_kasey_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kasey Perry-Glass"
+        }
+      ]
+    },
+    {
+      "first_name": "Vicky",
+      "last_name": "Persinger",
+      "bio": {
+        "height": "5'8",
+        "birthday": "1992-06-01T00:00:00",
+        "hometown": {
+          "city": "Fairbanks",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 64.8378,
+          "longitude": -147.7164
+        },
+        "education": "University of Alaska--Anchorage",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Vicky is a native of Alaska</li><li>She earned an associate's degree in air traffic control</li><li>Works as a title assistant with Yukon Title Company</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 8th (Doubles - Mixed)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2025 – 12th (Team - Women)</li><li>Years of participation: Team - Women 2015, 2018, 2019, 2022, 2023, 2024, 2025</li><li>Top finish: 4th – 2018 (Team - Women)</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Jönköping, 2019 (Team - Women)</li><li>World Junior Championship, Sochi, 2013 (Team - Women)</li></ul><h5>More</h5>USA Curling",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684896942/TeamUSA%20Assets/Migration/Pages/persinger_vicky_103121_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923809/TeamUSA%20Assets/Migration/Athlete%20Profiles/Vicky%20Persinger/Persinger_Vicky_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Vicky Persinger"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    }
+  ]
+}

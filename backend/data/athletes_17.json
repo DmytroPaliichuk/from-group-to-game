@@ -1,0 +1,1086 @@
+{
+  "entries": [
+    {
+      "first_name": "Ben",
+      "last_name": "Broselle",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1999-05-23T00:00:00",
+        "hometown": {
+          "city": "Ferndale, Wash.",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 48.8498,
+          "longitude": -122.6004
+        },
+        "education": "Ferndale High School (Ferndale, Wash.)  University of California, Los Angeles ‘22, Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Thomas Broselle</li><li>Began playing rugby at age 5</li><li>Favorite movies are Avatar and Iron Man</li><li>Christmas is his favorite holiday.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li></ul><h5>More</h5>USA Rugby<h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 11th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 11th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335876/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Broselle/Brosell_Ben_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Broselle"
+        }
+      ]
+    },
+    {
+      "first_name": "Mackenzie",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1995-03-14T00:00:00",
+        "hometown": {
+          "city": "Flint",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.2035,
+          "longitude": -95.328
+        },
+        "education": "Home schooled",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started shooting in a Junior Olympic Archery Development club, and eventually was selected as a member of the USA Archery's Junior Dream Team</li><li>Competed for a spot on the 2012 U.S. Olympic Team when she was just 16 years old, and finished in the top 16</li><li>Has enjoyed tremendous success since then, including being selected to the Resident Athlete program at the U.S. Olympic Training Center in Chula Vista, Calif</li><li>A true outdoors woman and enjoys fishing, baking and knitting in her spare time</li><li>Has a talent for photography.</li></ul><p></p><p>Years of <span>World Championships </span>participation: 2017, 2018, 2021. Top Finish: 2017 – 4th (individual).</p><p></p><h5>More</h5><p>World Archery</p><p></p><p></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 4th (Individual - Women), 8th (Team - Women), 9th (Recurve Team - Mixed)</li><li>Olympic Games Rio de Janeiro 2016, 17th (Individual - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 6th (Recurve Team (Indoor) - Women), 9th (Recurve Individual (Indoor) - Women)</li><li>Years of participation: Recurve Individual (Indoor) - Women 2018; Recurve Team (Indoor) - Women 2018; Individual - Women 2017; Recurve Team - Mixed 2017; Team - Women 2017</li><li>Top finish: 4th – 2017 (Individual - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661961/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/brown_m_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Archery",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662261/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/brown_m_hero_.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916555/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mackenzie%20Brown/Brown_Mackenzie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mackenzie Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1992-10-19T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": "Missouri School of the Blind (St. Louis, Mo.) '11 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>David Brown was diagnosed with Kawasaki disease at 15 months old, resulting in Glaucoma and ultimately taking his sight by the age of 13</li><li>After moving to St. Louis from Kansas City to attend the Missouri School for the Blind, Brown took up wrestling and goalball before focusing on track</li><li>He first realized his dream of being a Paralympian after winning an essay contest to attend the Paralympic Games Beijing 2008</li><li>Since then, Brown earned a spot on the 2012 U.S. Paralympic Team and has become the fastest totally blind athlete in the world, holding the world record and winning Paralympic gold alongside his sighted guide Jerome Avery</li><li>Son of Francine Brown and has one older sister, Breana</li><li>Enjoys playing music in his free time. Plays the drums, piano and tenor saxophone and was formerly in a jazz band</li><li>Favourite sport is basketball outside of track and his favorite team is the Chicago Bulls</li><li>Heroes are his mom, grandpa and his coach, Joaquim Cruz</li><li>Carries the motto of “Running4HISGlory+\"</li><li>Hobbies include listening to and making music, reading, writing poetry hanging out with friends and public speaking.</li></ul><h5>Career Highlights</h5><ul><li>The first totally blind athlete to run under 11 seconds when he clocked 10.92 in 2014</li><li>Years of <span>p</span>articipation: 2013, 2015, 2017, 2019. Medals: 5 (2 gold, 3 silver). <span>Most recent: 2019 – semifinals (100-meter).</span></li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 1-time Paralympic medalist (1 gold)</li><ul><li>Paralympic Games Tokyo 2020, 7th (100m T11 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (100m T11 - Men), 6th (200m T11 - Men), 8th (400m T11 - Men)</li><li>Paralympic Games London 2012,  (4 x 100m Relay T11-13 - Men), 6th (100m T11 - Men), 8th (200m T11 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 6th (100m T11 - Men)</li><li>Years of participation: 100m T11 - Men 2015, 2017, 2019; 200m T11 - Men 2013, 2015, 2017; 4 x 100m Relay T11-13 - Men 2013, 2017; 400m T11 - Men 2013</li><li>Medals: 5 (2 gold, 3 silver)</li><ul><li>Gold – 2017 (100m T11 - Men);  2015 (100m T11 - Men)</li><li>Silver – 2017 (200m T11 - Men);  2013 (4 x 100m Relay T11-13 - Men, 400m T11 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661974/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/D_Brown_bio_unknown.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T11",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662478/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/D_Brown_hero_unknown.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916311/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Brown/Brown_David250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "Chalmers",
+      "last_name": "Brown",
+      "bio": {
+        "height": "6'3 ",
+        "birthday": "1992-04-17T00:00:00",
+        "hometown": {
+          "city": "Marlboro",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.3556,
+          "longitude": -74.2
+        },
+        "education": "Colts Neck High School Rutgers University - New Brunswick",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Lover of sports</li><li>Played basketball, track &amp; field, cross country, rugby, football, and ultimate frisbee growing up in New Jersey</li><li>Played indoor handball once in middle school</li><li>Got reconnected to handball while watching the Rio 2016 Olympics</li><li>Found his way to beach handball when he moved to California</li><li>Hobbies include comedy, writing, and donuts.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2020 Copa Internacional de Balonmano Playa Volc&#225;n - 1st, Most Valuable Defender</li>\r\n                            <li>2019 North American &amp; Caribbean Handball Confederation (NORCA) Championships - 1st (Trinidad &amp; Tobago)</li>\r\n                            <li>2019 Copa Internacional de Balonmano Playa Volc&#225;n - 3rd</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 2nd</li>\r\n                            <li>2018 Ta&#231;a Kika Invitational - Quarterfinals (Jo&#227;o Pessoa, Brazil)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699805/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chalmers%20Brown%201173245/Chalmers_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699806/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chalmers%20Brown%201173245/Chalmers_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chalmers Brown 1173245"
+        }
+      ]
+    },
+    {
+      "first_name": "Peyton",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'2\" ",
+        "birthday": "2001-03-19T00:00:00",
+        "hometown": {
+          "city": "Peoria",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.58004,
+          "longitude": -112.23682
+        },
+        "education": "Liberty & Bridgeway Academy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has an older brother, Caleb, and a younger brother and sister, Deshaun and Parys</li><li>Aspires to become an Orthopedic Surgeon</li><li>Enjoys relaxing activities when not training.</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championships, Suva, 2019 (59kg - Snatch - Women, 59kg - Clean & Jerk - Women, 59kg - Women)</li></ul><h5>More</h5><p><strong>Road to Buenos Aires</strong></p>\n<p>Peyton will represent Team USA in the women&rsquo;s 58 kg division after capturing the women&rsquo;s 58kg title at the 2018 American Open Series II/Youth Olympic Trials. Brown was nominated by USAW after securing the one women&rsquo;s weightlifting entry for the 2018 Youth Olympic Games in Buenos Aries. She currently owns two Youth American Records in the 58 kg weight class. Peyton will follow in the footsteps of Deirdre Lenzsch (Somers Point, NJ) who competed in the 63+ kg class at the 2014 Youth Olympics Games in Nanjing, and Jessica Beed (Norman, OK) who competed in the inaugural 2010 Youth Olympic Games in Singapore. This makes Peyton the third American female to compete at the Youth Olympic Games in weightlifting.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916289/TeamUSA%20Assets/Migration/Athlete%20Profiles/Peyton%20Brown/PeytonBrown.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Peyton Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1991-12-31T00:00:00",
+        "hometown": {
+          "city": "Twin Falls",
+          "state": "ID",
+          "country": "United States",
+          "latitude": 42.5535,
+          "longitude": -114.4606
+        },
+        "education": "Twin Falls High School (Twin Falls, Idaho) ‘10 University of Colorado – Colorado Springs, Mechanical Engineering",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Dan and Susan Brown</li><li>Has one sister, Koye, and one brother, Wyatt</li><li>His father, mother and brother are all members of USA Shooting</li><li>Interests include hunting and riding horseback with his family through the Sawtooth mountain range in Idaho.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (50m Pistol - Men), 12th (10m Air Pistol - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 51th (10m Air Pistol - Men)</li><li>Years of participation: 10m Air Pistol - Men 2014</li><li>Top finish: 51th – 2014 (10m Air Pistol - Men)</li></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699902/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Brown%20849697/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699904/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Brown%20849697/Brown_Will_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Brown 849697"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "AJ",
+      "last_name": "Brown",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1995-02-28T00:00:00",
+        "hometown": {
+          "city": "Fox River Grove",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.2036,
+          "longitude": -88.209
+        },
+        "education": " DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began ski jumping at age 4</li><li>Hobbies include volleyball, hiking, alpine skiing, snowmobiling and fishing.</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championships, Almaty, 2015 (Team - Normal Hill - Men, Individual - Normal Hill - Men)</li><li>Junior World Championships, Val di Fiemme, 2014 (Team - Normal Hill - Men, Individual - Normal Hill - Men)</li></ul><h5>More</h5>USA Nordic",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699830/TeamUSA%20Assets/Migration/Athlete%20Profiles/AJ%20Brown%20804013/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Ski Jumping",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699833/TeamUSA%20Assets/Migration/Athlete%20Profiles/AJ%20Brown%20804013/brown_aj_headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "AJ Brown 804013"
+        }
+      ]
+    },
+    {
+      "first_name": "Colton",
+      "last_name": "Brown",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1991-10-08T00:00:00",
+        "hometown": {
+          "city": "Piscataway",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.5401,
+          "longitude": -74.47043
+        },
+        "education": "Piscataway High School, N.J. (2009) San Jose State University, Calif. (2015)",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2019 Pan American Championships; Lima, Peru; Seventh Place</li>\r\n                            <li>2018 Pan American Championships; San Jose, Costa Rica; Bronze Medal</li>\r\n                            <li>2017 Pan American Championships; Panama City, Panama; Silver Medal </li>\r\n                            <li>2016 Pan American Championships; Havana, Cuba; Silver Medal</li>\r\n                            <li>2015 Pan American Championships; Edmonton, Alberta, Canada; Fifth Place</li>\r\n                            <li>2014 Pan American Championships; Guayaquil, Ecuador; Fifth Place</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 9th (90kg - Men)</li><li>Olympic Games Rio de Janeiro 2016, 9th (90kg - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – 17th (90kg - Men)</li><li>Years of participation: 90kg - Men 2013, 2015, 2017, 2018, 2019, 2021</li><li>Top finish: 9th – 2019 (90kg - Men)</li></ul><h5>More</h5>\nInternational Judo Federation Profile: &nbsp;Colton Brown IJF Profile",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009836/TeamUSA%20Assets/Athlete%20Profiles/Colton%20Brown%20908112/ColtonBrown_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Colton Brown 908112"
+        }
+      ]
+    },
+    {
+      "first_name": "Elissa",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1998-05-20T00:00:00",
+        "hometown": {
+          "city": "Eclectic",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 32.6457,
+          "longitude": -86.0075
+        },
+        "education": "Elmore County High School University of Alabama",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her favorite activities include singing, shopping, listening to music and playing Rock Band</li><li>Her role model is her mom</li><li>Her goal in life is to be happy</li><li>Three words that her friends would use to describe her would be fun, awesome and cool</li><li>Her dream job is to be an athletic trainer for a professional basketball or football team</li><li>Favorite sport besides softball is Basketball</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championship, Clearwater, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2017 WBSC Junior Women's World Championship Gold Medalist; Hit .421 (8-19) with eight runs scored and four RBI</li></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:</strong>&nbsp;SEC All-Freshman Team</p>\n<p><strong>Click here to view Elissa Brown's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699786/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elissa%20Brown%201086113/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699787/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elissa%20Brown%201086113/BrownElissas.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elissa Brown 1086113"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1992-03-28T00:00:00",
+        "hometown": {
+          "city": "Saint Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "Saint Olaf ",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>2019 US Biathlon National Championships (Jericho, Vt.) - 1st in sprint / 2nd in pursuit / 6th in super sprint</li><li>2018 US Biathlon National Championships (Park City, Utah) - 9th in sprint / 8th in pursuit / 8th in mass start<span></span></li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 13th (4 x 7.5km Relay - Men), 28th (20km Individual - Men), 36th (10km Sprint - Men), 40th (12.5km Pursuit - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 25th (20km Individual - Men)</li><li>Years of participation: 20km Individual - Men 2019, 2020, 2021, 2024, 2025; 10km Sprint - Men 2019, 2020, 2021, 2024; 12.5km Pursuit - Men 2019, 2021, 2024; 4 x 7.5km Relay - Men 2019, 2020, 2021, 2024; 15km Mass Start - Men 2021; 4 x 7.5km Relay - Mixed 2021</li><li>Top finish: 5th – 2024 (4 x 7.5km Relay - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134553/NGB%20Biathlon/Migration/Athlete%20Profiles/Jake%20Brown/Brown080123cm7453_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662149/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/brown_j_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684337484/Brown021222cm2477_1.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134555/NGB%20Biathlon/Migration/Athlete%20Profiles/Jake%20Brown/Jake-Brown-2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jake Brown"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Biathlon"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    },
+    {
+      "first_name": "Jason",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1994-12-15T00:00:00",
+        "hometown": {
+          "city": "Highland Park",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.1834,
+          "longitude": -87.8006
+        },
+        "education": "University of Colorado Colorado Springs ",
+        "fun_fact": "He began skating at age three ",
+        "biography": "<h5><strong>Quick Facts</strong></h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Specialty</strong></span><span style=\"font-size: 11pt;\">: Singles&nbsp;</span></p></li><li><p><span style=\"font-size: 11pt;\">Son of Marla and Steven Brown</span></p></li><li><p><span style=\"font-size: 11pt;\">Has an older sister, Jordan, and a younger brother, Dylan</span></p></li><li><p><span style=\"font-size: 11pt;\">Began skating at age three&nbsp;</span></p></li><li><p><span style=\"font-size: 11pt;\">Global ambassador for Ronald McDonald House Charities, where he donates stuffed animals thrown to him during competitions</span></p></li><li><p><span style=\"font-size: 11pt;\">Has visited over 30 homes of children and families throughout the U.S., Japan and South Korea</span></p></li><li><p><span style=\"font-size: 11pt;\">Enjoys playing piano, creating social media content and is able to speak, read and write in Japanese</span></p></li></ul><h5><strong>Biographical Information</strong></h5><p><span>Jason Brown is an American figure skater and Olympian. Born in Highland Park, Illinois, he started skating at the age of three and quickly gained attention for his expressive style and technical precision.</span></p><p><span>At just 19, Brown made his Olympic debut at the Olympic Winter Games Sochi 2014, helping Team USA secure a bronze medal in the team event. His “Riverdance” free skate routine that blended traditional Irish dance elements with his unique figure skating artistry earned him instant popularity. He returned at the Olympic Winter Games Beijing 2022, finishing sixth in the men’s singles event with a career-best free skate. Throughout his career, he has won multiple U.S. national and Grand Prix medals, solidifying his reputation as one of the sport’s most artistic and charismatic skaters.</span></p><p><span>Off the ice, Brown is passionate about giving back to the community, working with Ronald McDonald House Charities and donating stuffed animals thrown to him during performances. He also enjoys creating content and has a strong social media presence.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Beijing 2022, 6th (Singles - Men)</li><li>Olympic Games Sochi 2014, bronze (Team - Mixed), 9th (Singles - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 8th (Singles - Men)</li><li>Years of participation: Singles - Men 2015, 2017, 2019, 2021, 2023, 2024, 2025</li><li>Top finish: 4th – 2015 (Singles - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742610751/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jason%20Brown/Brown_J_bio_853309.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742610630/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jason%20Brown/Brown_J_hero_853309.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923822/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jason%20Brown/Brown_Jason_Headshot_2022_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jason Brown"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Figure Skating"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Luke",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-05-11T00:00:00",
+        "hometown": {
+          "city": "St. Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "Minnehaha Academy, 2013 Dartmouth College '18, Physics Major and English Minor",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Hobbies: table tennis, reading good books, mountain running, freelance writing, napping, sitting in coffee shops, growing a mullet, canoeing, jumping in lakes<h5>More</h5><p dir=\"ltr\"><strong>More on Luke Brown:</strong> As the youngest of three Minnesotan brothers, Luke learned about competition, tenacity, and the quest to keep up from a young age. Whether it was scootering around the neighborhood, playing table tennis in the basement, or biking around the city parks of Minneapolis, he had an active childhood. He poignantly remembers the day his dad declared he was old enough to first try skate skiing and he has been on a journey for an abundance of enjoyment, the satisfaction of personal improvement, and the thrill of victory ever since.&nbsp;</p>\n<br>\n<p dir=\"ltr\">Luke took his passion for skiing and everyday rigor to Dartmouth College. There, he studied Physics and English, realized that running on a trail was better than a road, and earned two NCAA Skiing All-American titles. After graduating, Luke moved to Bozeman to continue pursuing his athletic dreams at a high level with the Crosscut Mountain Sports Center. In his first year on the USBA X-Team, he had three top-15 results for Americans at XC Ski Nationals, raced for US Biathlon at Open European Championships and an IBU Cup, and earned start spots for Team USA at the domestic XC Ski World Cups in Quebec City and Minneapolis.&nbsp;</p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\"><strong>Did you know...?&nbsp;</strong><br>\nMy dream vacation spot is&hellip; Svalbard, Norway</p>\n<p dir=\"ltr\">My favorite meal is&hellip; Annie&rsquo;s Mac White Cheddar<br>\nIf I were not an athlete, I would... probably have more productive afternoons</p>\n<p dir=\"ltr\">When traveling, the thing I miss the most is&hellip; my family and the local mountains</p>\n<p dir=\"ltr\">I never leave my house without&hellip; a positive attitude and a plethora of puns</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923564/TeamUSA%20Assets/Migration/Athlete%20Profiles/Luke%20Brown/Luke_Brown_2020_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Luke Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "Clara",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1995-11-03T00:00:00",
+        "hometown": {
+          "city": "Falmouth",
+          "state": "ME",
+          "country": "United States",
+          "latitude": 43.7362,
+          "longitude": -70.2456
+        },
+        "education": "University of Puget Sound ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Brown was an avid athlete as a competitive gymnast, runner and skier before sustaining an incomplete spinal cord injury at the C5/C6 level at age 12</li><li>After several years of physical rehabilitation, and some unexpected compounding injuries, Brown joined her high school rowing team as a coxswain, her first reintroduction to competitive sport after her accident</li><li>Despite enjoying her time on several rowing teams throughout high school and early college, she sought a competitive activity powered by her own means, rather than motivating others to push to their physical limits</li><li>During her freshman year of college, she purchased her first modified road bike, which ignited her passion for bikes both as a means of transportation and as a way to stay active</li><li>After graduating, she was hired at a bike touring company, and it was there that she made her connection with U.S. Paralympics</li><li>One of her clients served on the USOPC’s Paralympic Advisory Committee and encouraged her to investigate the possibility of racing competitively</li><li>Brown was invited to a talent ID camp in Colorado Springs in June of 2018, and then proceeded to compete at the third Para-cycling road world cup in Baie Comeau in August of 2018, taking bronze in the road race</li><li>Daughter of her father, Greg, her mother, Debbie, and her stepmother, Amanda</li><li>Has two brothers, Prescott and Spencer, and one sister, Rachel</li><li>Hobbies include cooking breakfast, spending time outside hiking and camping, and downhill skiing</li><li>She is currently working on obtaining her private pilot’s license, and is hoping one day to attend law school.</li></ul><p></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (C3 - Road Race - Women), bronze (C3 - Time Trial - Women)</li><li>Years of participation: C3 - Road Race - Women 2019, 2022, 2023, 2025; C3 - Time Trial - Women 2019, 2022, 2023, 2025; C3 - 3km Pursuit - Women 2019, 2020, 2022, 2024; C3 - 500m Time Trial - Women 2019, 2020, 2022, 2024; C3 - Omnium - Women 2020, 2022, 2024; C3 - Scratch Race - Women 2019, 2020, 2022, 2024</li><li>Medals: 13 (4 gold, 3 silver, 6 bronze)</li><ul><li>Gold – 2025 (C3 - Road Race - Women);  2022 (C3 - Time Trial - Women);  2020 (C3 - 500m Time Trial - Women, C3 - Omnium - Women)</li><li>Silver – 2022 (C3 - Road Race - Women);  2020 (C3 - 3km Pursuit - Women, C3 - Scratch Race - Women)</li><li>Bronze – 2025 (C3 - Time Trial - Women);  2022 (C3 - 3km Pursuit - Women, C3 - Omnium - Women, C3 - Scratch Race - Women);  2019 (C3 - Road Race - Women, C3 - Time Trial - Women)</li></ul></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, bronze (C1-3 - Road Race - Women), 8th (C1-3 - Time Trial - Women)</li><li>Paralympic Games Tokyo 2020, 4th (C1-3 - 3km Pursuit - Women), 5th (C1-3 - Time Trial - Women), 6th (C1-3 - Road Race - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1695392092/TeamUSA%20Assets/Migration/Brown_Clara_1440x810_.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "WC3",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687378187/NGB%20Para-Cycling/Athlete%20Profiles/2023%20National%20Team%20Headshots/Brown.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366299/TeamUSA%20Assets/Migration/Athlete%20Profiles/Clara%20Brown/Brown_Clara_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Clara Brown"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para-Cycling"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Brown",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1987-06-23T00:00:00",
+        "hometown": {
+          "city": "Winter Park",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.5997,
+          "longitude": -81.3578
+        },
+        "education": "Florida Institute of Technology",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" style=\"float: right;width: 50;height: 50;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&w=50&la=en&hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><br /></td></tr></tbody></table><div>Florida Institute of Technology '09, Mechanical Engineering<br />St. Andrew's High School (Middletown, Del.) ‘08<br /><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Eight - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Mary Fendle and Herbert Brown</li><li>Recognizes Charles Brown and Dan Bertossa, his grandfather and high school coach respectively, as the most influential people to his athletic career.&nbsp;</li></ul><br /><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USRowing</p>&nbsp;<br /><p>&nbsp;</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 8th (Coxed Pair - Men)</li><li>Years of participation: Coxed Pair - Men 2014, 2015</li><li>Top finish: 8th – 2014 (Coxed Pair - Men), 2015 (Coxed Pair - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335909/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylor%20Brown/Rowing_Brown_Taylor.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylor Brown"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Jamie",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1979-08-14T00:00:00",
+        "hometown": {
+          "city": "Oceanside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.1959,
+          "longitude": -117.3795
+        },
+        "education": "Chapman University (Orange, Calif.)",
+        "fun_fact": null,
+        "biography": "<p></p><p><h5>Career Highlights</h5><strong><br></strong><span style=\"color: rgb(0, 0, 0);\">Two-time World Paratriathlon Championships bronze medalist (2013, 2017)</span><br>2019 Tokyo ITU Paratriathlon World Cup bronze medalist<br>Three-time CAMTRI/PATCO Paratriathlon American Champion (2014, 2017, 2018)<br>Six-time World Paratriathlon Event medalist (3 golds, 2 silvers, 1 bronze)<strong><br></strong>Three-time USA Paratriathlon National Championship medalist (1 gold, 2 silvers)<br><p><h5>Quick Facts</h5><p>Jamie Brown was born missing his fibula on his right leg and three fingers on his right hand because of a congenital birth defect. In college, he earned a scholarship to play baseball for Chapman University in Orange, California. He competed in the 2001 Division III College World Series as a pitcher. Before discovering triathlon, Brown was the assistant baseball coach at his high school alma mater for nine years, and at the same time he worked as a personal trainer. In 2013, Jamie was introduced to triathlon after he was encouraged to learn about the Challenged Athletes Foundation (CAF) in San Diego. The woman who introduced him to CAF was Erica Davis, the first female to climb to the top of Mount Kilimanjaro in a wheelchair. His first race was the first time he had ever combined swimming, biking, and running at one time. He didn’t have a proper running leg, and he struggled to put his leg on after the swim because his leg had swollen. The very next race he competed in was the USA Paratriathlon National Championships, where he won a national title. Brown looks back on this race as being one of his favorite moments of his career so far. Brown is also a USA Triathlon Level I Certified Coach, and he coached for several years with Team MPI. As a coach, he enjoys being able to create different ways of accomplishing goals that work for each individual athlete. Brown is now a member of the Toyota U.S. Paratriathlon Resident Team based at the U.S. Olympic &amp; Paralympic Training Center in Colorado Springs, Colorado, and is coached by USA Triathlon Level II Certified Coach Derick Williamson. Brown currently owns a business called Bend Cryo and Recovery, which provides recovery services like cryotherapy chambers and infrared sauna treatments. He is married and has nine animals: five dogs and four cats.&nbsp;<ins cite=\"mailto:Farrell,%20Abby\" datetime=\"2019-08-11T11:14\"></ins></p><p><strong>Elite Triathlon Career</strong><strong><br></strong><strong><br></strong><strong>2021:&nbsp;</strong>Opened the season with a fifth-place finish at the World Triathlon Para Series event in Yokohama, Japan, on May 15<span style=\"color: rgb(0, 0, 0);\">&nbsp;</span>• Earned a silver medal at the Americas Triathlon Para Championships in Pleasant Prairie, Wisconsin, on June 27&nbsp;</p><p><strong>2019:&nbsp;</strong>Earned bronze at the Sarasota-Bradenton CAMTRI Paratriathlon American Championships on March 9&nbsp;<span style=\"color: rgb(0, 0, 0);\">• Earned silver at the Milan ITU World Paratriathlon Series on April 27</span>&nbsp;<span style=\"color: rgb(0, 0, 0);\">• Finished 5th at the Besancon ITU Paratriathlon World Cup on June 16&nbsp;<span style=\"color: rgb(0, 0, 0);\">• Took bronze at the ITU World Paratriathlon Series Montreal on June 28&nbsp;<span style=\"color: rgb(0, 0, 0);\">• Won the Toyota USA Paratriathlon National Championships on July 20<span style=\"color: rgb(0, 0, 0);\">&nbsp;</span>• Grabbed bronze at the Tokyo ITU Paratriathlon World Cup on Aug. 17<span style=\"color: rgb(0, 0, 0);\">&nbsp;</span>• Placed 6th at the ITU Paratriathlon World Championships in Lausanne, Switzerland, on Sept. 1&nbsp;&nbsp;</span></span></span></p><p><strong>2018:&nbsp;</strong>Took the win at the Sarasota-Bradenton CAMTRI Paratriathlon American Championships on March 10<span style=\"color: rgb(0, 0, 0);\">&nbsp;• Earned a silver medal at ITU World Paratriathlon Yokohama on May 12</span></p><p><strong>2017:</strong> Opened the season with a win at the Sarasota CAMTRI Paratriathlon American Championships in the men’s PTS4 class on March 11 • Won gold in the men’s PTS4 class at ITU World Paratriathlon Yokohama on May 13 • Placed 19th in an able-bodied field at the USA Triathlon Duathlon Sprint National Championships on June 17 in Bend, Oregon • Earned bronze in the men’s PTS4 class at the ITU Paratriathlon World Championships in Rotterdam, the Netherlands, on Sept. 14</p><p><strong>2016: </strong>Placed fourth at the Sarasota CAMTRI Paratriathlon American Championships on March 13 in the men’s PT4 class • Earned four consecutive top-10 finishes in ITU World Paratriathlon Events in the men’s PT4 class: sixth in Buffalo City on March 20, eighth in Penrith on April 24, fourth in Aguilas on May 15, and ninth in Besançon on June 19 • Placed 10th for PT4 men at the ITU Paratriathlon World Championships in Rotterdam, the Netherlands, on July 23</p><p><strong>2015:&nbsp;</strong>Took fifth at the Monterrey CAMTRI Triathlon American Championships in the men’s PT4 class on May 1 • Placed ninth for PT4 men at the Yokohama ITU World Paratriathlon Event on May 16 • Finished 12th for PT4 men at the Rio de Janeiro ITU World Paratriathlon Event on Aug. 1 • Recorded a fourth-place finish at the Detroit ITU World Paratriathlon Event on Aug. 16 in the men’s PT4 class • Closed the season with a 14th-place finish among PT4 men at the ITU Paratriathlon World Championships in Chicago on Sept. 15</p><p><strong>2014: </strong>Earned his first elite international paratriathlon victory at the Dallas PATCO Triathlon Pan American Championships in the men’s PT3 class on May 31 • Won two consecutive ITU World Paratriathlon Events in Chicago on June 28 and Magog, Québec, on July 19, both in the men’s PT3 class • Placed eighth in the men’s PT4 class at the ITU World Triathlon Grand Final in Edmonton on Aug. 29 • Won silver at the USA Paratriathlon National Championships in the men’s PT4 class on Sept. 20</p><p><strong>2013: </strong>Placed fourth in the men’s TRI-5 class at the San Diego ITU Paratriathlon International Event on April 20 • Won silver at the USA Paratriathlon National Championships on May 27 • Took 13th in the men’s TRI-5 paratriathlon class at the ITU World Triathlon Grand Final in London on Sept. 11</p><p><strong>2012: </strong>Earned bronze in the men’s TRI-5 paratriathlon class at the ITU World Triathlon Grand Final in Auckland, Australia, on Oct. 20</p><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 9th (PTS4 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 6th (PTS4 - Men)</li><li>Years of participation: PTS4 - Men 2017, 2019; PT4 - Men 2014, 2015, 2016; TRI-5 - Men 2012, 2013</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2017 (PTS4 - Men);  2012 (TRI-5 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661960/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/brown_j_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "PTS4",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335869/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jamie%20Brown/2020-brown_jamie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jamie Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "Maceo",
+      "last_name": "Brown",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1995-09-01T00:00:00",
+        "hometown": {
+          "city": "Tempe",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4152,
+          "longitude": -111.8915
+        },
+        "education": "Corona Del Sol High School (Tempe, Ariz.)  Grand Canyon University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Nicole Brown</li><li>Started playing rugby at age 16 while also pursuing American football and basketball</li><li>Played football for two years at Grand Canyon University before his success and experiences in the sport of rugby grew a foothold</li><li>Enjoys going to the beach</li><li>Friday is his favorite movie</li><li>Christmas is his favorite holiday.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 World Rugby Sevens Series Paris, 4th</li>\r\n                            <li>2019 World Rugby Sevens Series London, 3rd</li>\r\n                            <li>2019 World Rugby Sevens Series Singapore, 4th</li>\r\n                            <li>2019 World Rugby Sevens Series Hong Kong, 3rd</li>\r\n                            <li>2019 World Rugby Sevens Series Las Vegas, 1st</li>\r\n                            <li>2019 World Rugby Sevens Series Vancouver, 4th</li>\r\n                            <li>2019 World Rugby Sevens Series Hamilton, 2nd</li>\r\n                            <li>2018 World Rugby Sevens Series Cape Town, 2nd</li>\r\n                            <li>2018 World Rugby Sevens Series Dubai, 2nd</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li></ul></ul><h5>More</h5>USA Rugby<h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 11th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 11th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013372/TeamUSA%20Assets/Athlete%20Profiles/Maceo%20Brown%201125292/brown_maceo_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maceo Brown 1125292"
+        }
+      ]
+    },
+    {
+      "first_name": "Jenna",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1993-05-22T00:00:00",
+        "hometown": {
+          "city": "The Colony",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 33.0853,
+          "longitude": -96.8897
+        },
+        "education": "Centennial High School Collin College",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>US Team Member</li>\r\n                            <li>3x USA Karate National Champion</li>\r\n                            <li>5x Ozawa Cup International Kumite Champion</li>\r\n                            <li>6x PKC International Kumite Grand Champion</li>\r\n                            <li>4x USKA National Kumite Grand Champion</li>\r\n                            <li>2013 US Open Gold Medalist</li>\r\n                            <li>2013 Jr National Team Member</li>\r\n                            <li>K1 Premier League Berlin Bronze Medalist (2018)</li>\r\n                    </ul><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – 14th (-50kg Kumite - Women)</li><li>Years of participation: -50kg Kumite - Women 2014, 2016</li><li>Top finish: 14th – 2016 (-50kg Kumite - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335814/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jenna%20Brown/Jenna-Brown.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jenna Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "Kristen",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1992-05-26T00:00:00",
+        "hometown": {
+          "city": "Levittown",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7198,
+          "longitude": -73.5076
+        },
+        "education": "General Douglas MacArthur High School University of North Carolina",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Dawn and Bobby Brown</li><li>Dream job is to be the CEO of Nike</li><li>Favorite sport besides softball is volleyball</li><li>Best advice she&#39;s ever received is tob e kind and do the right thing because good things will come back to you</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 World Cup of Softball participant with Elite Team; Hit .400 (2-for-5) with three runs scored</li>\r\n                    </ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2016:</strong>&nbsp;NFCA First Team All-American...UNC Patterson Medal...First Team All-ACC</p>\n<p><strong>2015:</strong>&nbsp;NFCA Third Team All-American...First Team All-ACC...USA Softball Collegiate Player of the Year Top 26 Finalist</p>\n<p><strong>2014:&nbsp;</strong>First Team All-ACC...All-ACC Academic Team</p>\n<p><strong>2013:</strong>&nbsp;Second Team All-ACC</p>\n<p><strong>Click here to view Kristen Brown's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699938/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kristen%20Brown%20854260/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699940/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kristen%20Brown%20854260/BrownKristen.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kristen Brown 854260"
+        }
+      ]
+    },
+    {
+      "first_name": "Craig",
+      "last_name": "Brown",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1975-08-18T00:00:00",
+        "hometown": {
+          "city": "Monona",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.0667,
+          "longitude": -89.3333
+        },
+        "education": "University of Wisconsin",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Curls out of: Madison Curling Club, Madison, Wis</li><li>Other favorite sports: Golf, soccer</li><li>Favorites: Green Bay Packers, open draws for five</li><li>Other favorite sports: Golf, soccer</li><li>Married with two sons</li></ul><h5>Career Highlights</h5><ul><li>U.S. National Championships: 2017 (4th), 2016 (3rd), 2015 (2nd), 2014 (2nd), 2013 (7th), 2012 (4th), 2011, 2010 (5th), 2009 (bronze), 2008 (champion), 2007 (4th), 2006 (6th), 2005 (silver), 2004 (semifinalist), 2002 (semifinalist), 2001 (runner-up), 2000 (champion), 1997 (3rd), 1996 (3rd), 1994 (3rd)</li><li>Men’s Worlds: 2015 (5th as alternate), 2012 (8th as alternate), 2008 (7th), 2000 (4th)</li><li>U.S. Olympic Trials -- Curling: 2018 (4th), 2014 (4th), 2010 (bronze), 2006 (silver), 2002 (silver)</li><li>Continental Cup: 2008 (runner-up)</li><li>U.S. Curling Association Male Athlete of the Year: 2000</li><li>U.S. Mixed National Championship: 2000 and 1998 (champion both years)</li><li>U.S. Junior Men's Nationals: 1997, '95 and '94 (champion); 1992 (semifinalist), 1990 (runner-up); 1991 (alternate player)</li><li>Junior Worlds: 1997 (9th), '95 (5th), '94 (bronze medalist), '92 (alternate player)</li><li>World Challenge Round: 1994 (champion)</li><li>World Junior Curling Championships All-Star Vice Skip: 1994</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Sochi 2014, 9th (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2015 – 5th (Team - Men)</li><li>Years of participation: Team - Men 2000, 2008, 2012, 2015</li><li>Top finish: 4th – 2000 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686915933/TeamUSA%20Assets/Migration/Athlete%20Profiles/Craig%20Brown/Curling_Brown_Craig_site.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Craig Brown"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Brown Trafton",
+      "bio": {
+        "height": "6’3”",
+        "birthday": "1979-12-01T00:00:00",
+        "hometown": {
+          "city": "Arroyo Grande",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 35.1208,
+          "longitude": -120.5857
+        },
+        "education": "Cal Poly San Luis Obispo '03; Keller Graduate School of Management",
+        "fun_fact": null,
+        "biography": "<h5>OLYMPIC EXPERIENCE</h5><p></p><ul><li>Olympic Games Athens 2004, 22nd (women's discus throw)</li><li>Olympic Games Beijing 2008, gold (women's discus throw)</li><li>Olympic Games London 2012, 8th (women's discus throw)</li></ul><p></p><h5>CAREER HIGHLIGHTS</h5><p></p><ul><li>Two-time USA Outdoor champion</li><li>2007 NACAC Champion</li><li>Two-time USA Outdoor bronze medalist</li><li>2008 Jesse Owens athlete of the year</li></ul><p></p><h5>FUN FACTS</h5><p></p><p>Brown Trafton made history in 2008 by winning the first American Olympic gold medal in the discus since Lillian Copeland’s victory in 1932...Brown-Trafton and her husband enjoying hunting for recreation...She wanted to be an Olympian since she was four-years-old when her father bought her a Mary Lou Retton leotard...She now works as a teacher at Wilton Christian School in Wilton, California, and as a program manager for the National Scholastic Athletic Foundation’s Nike Elite Team.<span><br></span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, 7th (Discus Throw - Women)</li><li>Olympic Games Beijing 2008, gold (Discus Throw - Women)</li><li>Olympic Games Athens 2004, 21th (Discus Throw - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2009 – 12th (Discus Throw - Women)</li><li>Years of participation: Discus Throw - Women 2009</li><li>Top finish: 12th – 2009 (Discus Throw - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1691683958/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephanie%20Brown%20Trafton/brown_t_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1691683107/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephanie%20Brown%20Trafton/brown_t_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1691683107/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephanie%20Brown%20Trafton/brown_t_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686915869/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephanie%20Brown%20Trafton/Stephanie-Brown-Trafton_headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephanie Brown Trafton"
+        }
+      ]
+    }
+  ]
+}

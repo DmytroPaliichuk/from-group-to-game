@@ -1,0 +1,973 @@
+{
+  "entries": [
+    {
+      "first_name": "Julie",
+      "last_name": "Chu",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1982-03-13T00:00:00",
+        "hometown": {
+          "city": "Fairfield",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.14,
+          "longitude": -73.26
+        },
+        "education": " Harvard '07, Psychology",
+        "fun_fact": null,
+        "biography": "<p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 4-time Olympic medalist (3 silver, 1 bronze)</li><ul><li>Olympic Games Sochi 2014, silver (Team - Women)</li><li>Olympic Games Vancouver 2010, silver (Team - Women)</li><li>Olympic Games Turin 2006, bronze (Team - Women)</li><li>Olympic Games Salt Lake City 2002, silver (Team - Women)</li></ul></ul><h5>Career Highlights</h5>\n\n\n<ul>\n    <li>2012, Four Nations Cup gold medalist&nbsp;(<span style=\"font-size: 18px;\">4</span> games played, <span style=\"font-size: 18px;\">1</span> goal, <span style=\"font-size: 18px;\">0</span> assists, <span style=\"font-size: 18px;\">1</span> point) </li>\n    <li>2012, World Championships silver medalist (5<span style=\"font-size: 18px;\">GP</span>, 2<span style=\"font-size: 18px;\">G</span>, 1<span style=\"font-size: 18px;\">A</span>, 3<span style=\"font-size: 18px;\">P</span>)<br>\n    \n    </li>\n    <li>2011, Four Nations Cup gold medalist (4GP, 1G, 0A, 1P)<br>\n    \n    </li>\n    <li>2011, World Championships gold medalist (5GP, 1G, 6A, 7P)<br>\n    \n    </li>\n    <li>2010, Four Nations Cup silver medalist (4GP, 1G, 0A, 1P)</li>\n    <li>2009, Four Nations Cup silver medalist (4GP, 0G, 1A, 1P)<br>\n    \n    </li>\n    <li>2009, World Championships gold medalist (5GP, 5G, 5A, 10P)</li>\n    <li>2008, Four Nations Cup gold medalist (4GP, 2G, 0A, 2P)<br>\n    \n    </li>\n    <li>2008, World Championships gold medalist (5GP, 0G, 7A, 7P)</li>\n    <li>2007, Four Nations Cup silver medalist (4GP, 0G, 1A, 1P)<br>\n    \n    </li>\n    <li>2007, World Championships silver medalist (5GP, 0G, 3A, 3P)</li>\n    <li>2006, Four Nations Cup silver medalist (4GP, 0G, 1A, 1P)</li>\n    <li>2005, Four Nations Cup silver medalist (4GP, 0G, 0A, 0P)<br>\n    \n    </li>\n    <li>2005, World Championships gold medalist (5GP, 2G, 4A, 6P)</li>\n    <li>2004, Four Nations Cup silver medalist (4GP, 0G, 2A, 2P)<br>\n    \n    </li>\n    <li>2004, World Championships silver medalist (4GP, 1G, 1A, 2P)</li>\n    <li>2003, Four Nations Cup gold medalist (4GP, 0G, 1A, 1P)<br>\n    \n    </li>\n    <li>2001, World Championships silver medalist (5GP, 1G, 7A, 8P)</li>\n    <li>2000, Four Nations Cup silver medalist (4GP, 2G, 1<span style=\"font-size: 18px;\">A</span>, 3P)<br>\n    \n    </li>\n</ul>\n\n\n<style type=\"text/css\" id=\"telerik-reTable-4\">\n    .telerik-reTable-4\n    {\n    border-collapse: collapse;\n    border: solid 0px;\n    font-family: Tahoma;\n    }\n    .telerik-reTable-4 tr.telerik-reTableHeaderRow-4\n    {\n    border-width: 1.0pt 1.0pt 3.0pt 1.0pt;\n    margin-top: 0in;\n    margin-right: 0in;\n    margin-bottom: 10.0pt;\n    margin-left: 0in;\n    line-height: 115%;\n    font-size: 11.0pt;\n    font-family: \"Calibri\" , \"sans-serif\";\n    width: 119.7pt;\n    background: #4F81BD;\n    padding: 0in 5.4pt 0in 5.4pt;\n    color: #FFFFFF;\n    }\n    .telerik-reTable-4 td.telerik-reTableHeaderFirstCol-4\n    {\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableHeaderLastCol-4\n    {\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableHeaderOddCol-4\n    {\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableHeaderEvenCol-4\n    {\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 tr.telerik-reTableOddRow-4\n    {\n    border-width: 1pt;\n    color: #666666;\n    font-size: 10pt;\n    vertical-align: top;\n    border-bottom-style: solid;\n    border-bottom-color: #4F81BD;\n    }\n    .telerik-reTable-4 tr.telerik-reTableEvenRow-4\n    {\n    color: #666666;\n    font-size: 10pt;\n    vertical-align: top;\n    }\n    .telerik-reTable-4 td.telerik-reTableFirstCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    padding: 0in 5.4pt 0in 5.4pt;\n    border-bottom-style: solid;\n    border-left-style: solid;\n    }\n    .telerik-reTable-4 td.telerik-reTableLastCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    border-bottom-style: solid;\n    border-right-style: solid;\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableOddCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    padding: 0in 5.4pt 0in 5.4pt;\n    border-bottom-style: solid;\n    }\n    .telerik-reTable-4 td.telerik-reTableEvenCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    padding: 0in 5.4pt 0in 5.4pt;\n    border-bottom-style: solid;\n    }\n    .telerik-reTable-4 tr.telerik-reTableFooterRow-4\n    {\n    color: #355C8C;\n    background-color: #FFFFFF;\n    font-size: 10pt;\n    vertical-align: top;\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableFooterFirstCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    border-bottom-style: solid;\n    border-left-style: solid;\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableFooterLastCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    border-bottom-style: solid;\n    border-right-style: solid;\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableFooterOddCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    border-bottom-style: solid;\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n    .telerik-reTable-4 td.telerik-reTableFooterEvenCol-4\n    {\n    border-width: 1pt;\n    border-color: #4F81BD;\n    border-bottom-style: solid;\n    padding: 0in 5.4pt 0in 5.4pt;\n    }\n</style>\n\n\n<p><strong>Fun Facts: </strong>Family motto is Commitment, Honor, Unity (CHU) ... First member of women's national team to win five world championships ... Enjoys reading, cooking and playing golf ... Favorite band is Matchbox 20 ... Would be a teacher if she wasn't playing hockey<br>\n\n</p>\n\n\n<p><strong>Learn more:</strong>&nbsp;<br>\n\nUSA Hockey\n</p><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – gold (Team - Women)</li><li>Years of participation: Team - Women 2001, 2004, 2005, 2007, 2008, 2009, 2011, 2012, 2013</li><li>Medals: 9 (5 gold, 4 silver)</li><ul><li>Gold – 2013 (Team - Women);  2011 (Team - Women);  2009 (Team - Women);  2008 (Team - Women);  2005 (Team - Women)</li><li>Silver – 2012 (Team - Women);  2007 (Team - Women);  2004 (Team - Women);  2001 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2002, 2006, 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005263/TeamUSA%20Assets/Athlete%20Profiles/Julie%20Chu%20872685/Womens_Ice-Hockey_Chu_Julie_site.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Julie Chu 872685"
+        }
+      ]
+    },
+    {
+      "first_name": "Ernie",
+      "last_name": "Chun",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1982-01-24T00:00:00",
+        "hometown": {
+          "city": "Waipahu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3869,
+          "longitude": -158.0086
+        },
+        "education": "Waipahu High School University of Hawaii Manoa",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Sustained injury in December 1996 in a surfing accident</li><li>Son of Rovena and Aurthur Olinger</li><li>Married to Kathleen Chun</li><li>Enjoys hanging out with friends</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – bronze (Team - Mixed)</li><li>Years of participation: Team - Mixed 2014, 2018</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2018 (Team - Mixed);  2014 (Team - Mixed)</li></ul></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (Team - Mixed)</li><li>ParaPan American Games, Toronto, 2015 (Team - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "2.0",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686925936/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ernie%20Chun/Chun_Parapan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ernie Chun"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Chung",
+      "bio": {
+        "height": "5' 5\"",
+        "birthday": "1989-06-10T00:00:00",
+        "hometown": {
+          "city": "Crystal Lake",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.2325,
+          "longitude": -88.3245
+        },
+        "education": "Northern Illinois University",
+        "fun_fact": null,
+        "biography": "<p style=\"color: blue; font-size: 18px; font-weight: bold;\">Sarah Chung</p>\n<p></p>\n<hr color=\"red\">\n<hr color=\"blue\">\n<h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 7th (+70kg - Women)</li></ul></ul><h5>Quick Facts</h5>\n<p>Although Sarah started doing Judo just over a year and a half ago, she's made quite a big impression in a short period of time. Through her work ethic and unquestioned dedication, Sarah is already ranked #1 in the United States in the Female +70kg Paralympic division. This past May, Sarah took 7th place at the IBSA World Games in Seoul, Korea. With that result, Sarah moved to #7 in the +70kg division in the new IBSA World Rankings. In February, Sarah took fifth place at the Paralympic World Cup in Eger, Hungary. She earned the Gold Medal at the USA Judo National President's Cup in Irving, TX last November. Sarah travels into the city from Crystal Lake 4 - 5 each week for practice. It takes her nearly five hours round trip using public transportation. She's totally committed to becoming the absolute best Judo player that she can be. At the USA Judo Senior National Championships last May in Reno, NV, Sarah took home a Bronze Medal. With that result, she qualified as an alternate for the 2014 IBSA World Judo Championships. Competing in her first ever Judo tournament, the Illinois Open State Judo Championships, she earned two Silver Medals. It was definitely a precursor of things to come. With solid results at a couple of upcoming international tournaments, Sarah has a fantastic opportunity to qualify for the 2016 Paralympic Games in Rio. Her upside is tremendous. At only 25 years old, she has a minimum of 15 years to compete at a very high, international level.</p>\n<p><strong>Major Judo Awards:</strong></p>\n<ul>\n    <li>2015 7<sup>th</sup> place - IBSA World Games</li>\n    <li>2015 5<sup>th</sup> place - Paralympic Judo World Cup Eger, Hungary</li>\n    <li>2015 Gold Medal - Barrington Judo Winter Classic Hawthorne Woods, IL</li>\n    <li>2014 Gold Medal - USA Judo National President's Cup</li>\n    <li>2014 Gold Medal - Minooka Halloween Judo Open</li>\n    <li>2014 Bronze Medal - USA Judo Senior National Championships</li>\n    <li>2014 Silver Medal, Silver Medal - Illinois Open State Judo Championships</li>\n</ul>\n<p>&nbsp;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 9th (+70kg - Women)</li><li>Years of participation: +70kg - Women 2018</li><li>Top finish: 9th – 2018 (+70kg - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715583/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Chung%20910188/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Judo",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "B3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715584/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Chung%20910188/Chung-_Sarah_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Chung 910188"
+        }
+      ]
+    },
+    {
+      "first_name": "Skylar",
+      "last_name": "Ciccolini",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-07-23T00:00:00",
+        "hometown": {
+          "city": "Lewistown",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.5973,
+          "longitude": -77.5719
+        },
+        "education": "Mifflin County High School ‘19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Sonny and Danielle Ciccolini</li><li>Both parents threw javelin at Cornell</li><li>Played softball up until 7th grade before shifting her focus to track and field.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 USATF Hershey National Junior Olympics, 1st (17-18 division)</li>\r\n                            <li>2018 USATF Junior Outdoor Championships, 1st</li>\r\n                            <li>2018 Pennsylvania 3A state championships, 1st</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328802/TeamUSA%20Assets/Migration/Athlete%20Profiles/Skylar%20Ciccolini/ciccolini_skylar.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Skylar Ciccolini"
+        }
+      ]
+    },
+    {
+      "first_name": "Leslie",
+      "last_name": "Cichocki",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1988-12-28T00:00:00",
+        "hometown": {
+          "city": "Palos Hills",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.7053,
+          "longitude": -87.8373
+        },
+        "education": "Victor J. Andrew High School (Tinley Park, Ill.) '07 Moraine Valley Community College ’15, Culinary Arts",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Cichocki began swimming at age five in 1993. Both of her sister were swimmers, influencing her to try the sport. She has an intellectual impairment that makes it difficult for her to process information and also experiences seizures. She made her senior international debut at the Toronto Parapan American Games where she won a gold and two bronze medals. She lists swim coach Jody Hottes as the most influential person in her career and her swim idol is Matt Grevers</li><li>Daughter of Edward and Cheryl Cichocki</li><li>Has two sisters, Janine and Kristen</li><li>Hobbies include spending time with her family, bowling, cycling, fishing, wakeboarding, travel and cooking.</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 7th (100m Backstroke S14 - Women), 11th (200m Freestyle S14 - Women), 12th (200m Individual Medley SM14 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S14, SB14, SM14",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011928/TeamUSA%20Assets/Athlete%20Profiles/Leslie%20Cichocki%20909216/Cichoki_Leslie_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Leslie Cichocki 909216"
+        }
+      ]
+    },
+    {
+      "first_name": "Joey",
+      "last_name": "Cifelli",
+      "bio": {
+        "height": "5' 10\"",
+        "birthday": "1997-06-11T00:00:00",
+        "hometown": {
+          "city": "Chicago Heights",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.5003,
+          "longitude": -87.6403
+        },
+        "education": "Purdue University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Joey is the son of Sylvia and John Cifelli</li><li>His mom is a Spanish teacher and dad is an iron worker</li><li>He has three older brothers: Johnny, Robby and Vinny (Joey says life at the Cifelli house was pretty wild growing up with four extremely competitive boys in the house, but that his brothers are his best friends.)</li><li>Joey’s favorite dive is 5154B (he spent a lot of time working on his twisting for 2016. He changed the way he wrapped his twist and spent weeks in the belts trying to get his arms in the right position)</li><li>He likes to watch a movie or listen to chill music between dives</li><li>For Joey, the hardest part about training is overcoming the mental aspect of the sport and says it is hard to picture himself beating some of the people he grew up idolizing</li><li>He has spent time with a sports psychologist to build his mental toughness</li><li>Away from diving, Joey enjoys playing other sports, spending time with his family and friends, travelling and going to music festivals</li><li>He is 50 percent Italian, 25 percent Mexican, 25 percent Cuban and speaks Spanish fairly well</li><li>Majoring in marketing and management at Purdue University</li></ul><h5>Career Highlights</h5><ul><li>2017 World University Games team member</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687348144/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joey%20Cifelli/Cifelli-Joey-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joey Cifelli"
+        }
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Cinnamo",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1981-02-18T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Luther College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span>Son of Michele Cinnamo-King and Charlie Cinnamo. </span><span>Has two brothers, Chuck and Chris</span></li><li><p>Married to Kate Cinnamo and has two children, Tate and Tess</p></li><li>Born with a congenital limb deficiency of his right arm</li><li>Played on the football team at Morse High School and was a dual sport athlete at Luther College where he competed on the football and track and field</li><li>Competed in several arenas including various CrossFit competitions, Spartan races, the Arnold Sports Festival and the Working Wounded Games</li><li>Since attending a Paralympic talent camp in Chicago in April 2014, Cinnamo has emerged as one of the top field athletes on Team USA as an F46 shot put thrower</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, 4th (Shot Put F46 - Men)</li><li>Paralympic Games Tokyo 2020, bronze (Shot Put F46 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 5th (Shot Put F46 - Men)</li><li>Years of participation: Shot Put F46 - Men 2017, 2019, 2023, 2024; Discus Throw F46 - Men 2017</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2019 (Shot Put F46 - Men)</li><li>Silver – 2023 (Shot Put F46 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661967/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Cinnamo_j_bio_803090.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "F46",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013132/TeamUSA%20Assets/Athlete%20Profiles/Josh%20Cinnamo%20803090/Cinnamo_Josh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Cinnamo 803090"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Caroline",
+      "last_name": "Claire",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2000-02-02T00:00:00",
+        "hometown": {
+          "city": "Manchester Center",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 43.1667,
+          "longitude": -73.0667
+        },
+        "education": "Stratton Mountain School (Stratton, Vt.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Allyson and Edward Claire</li><li>Has three brothers, Andrew, Forrest and Teddy</li><li>Began skiing as soon as she could walk</li><li>Hobbies include soccer and watching the New York Yankees.</li></ul><h5>Career Highlights</h5><ul><li>2017 FIS Junior World Championships, bronze (slopestyle)</li><li>2015 FIS Junior World Championships, bronze (slopestyle)</li></ul><h5>More</h5><p>U.S. Ski &amp; Snowboard</p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022,  (Slopestyle - Women), 24th (Big Air - Women)</li><li>Olympic Games Pyeongchang 2018, 23th (Slopestyle - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 16th (Big Air - Women)</li><li>Years of participation: Big Air - Women 2019</li><li>Top finish: 16th – 2019 (Big Air - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661961/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/claire_c_bio_912666.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005458/TeamUSA%20Assets/Athlete%20Profiles/Caroline%20Claire%20912666/claire_caroline_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Caroline Claire 912666"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "KK",
+      "last_name": "Clark",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1990-06-28T00:00:00",
+        "hometown": {
+          "city": "Atherton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4616,
+          "longitude": -122.2008
+        },
+        "education": "Sacred Heart Preparatory School (Atherton, Calif.) ‘08 University of California Los Angeles ’12, History",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Full name is Caroline Archer Clark</li><li>Daughter of Jane and Peter Clark</li><li>Has two sisters, Zizi and Christie</li><li>Aunt, Marybeth Dorst, was a member of the 1980 U.S. Olympic Women&#39;s Swimming Team</li><li>Uncle, Chris Dorst, is a two-time Olympian in water polo (1980 and 1984).</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FINA World League Super Final, gold  </li>\r\n                            <li>2015 Pan American Games, gold </li>\r\n                            <li>2015 FINA World League Super Final, gold</li>\r\n                            <li>2014 FINA World Cup, gold</li>\r\n                            <li>2014 FINA World League Super Final, gold</li>\r\n                            <li>2013 FINA World League Super Final, bronze</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>Olympian (2016); Olympic medalist (gold)</li><li>Rio 2016 Olympic Games, gold</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2013 – 5th</li><li>Years of Participation: 2013</li><li>Top finish: 5th – 2013</li></ul><h5>More</h5>USA Water Polo",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926565/TeamUSA%20Assets/Migration/Athlete%20Profiles/KK%20Clark/clark_kk_052216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926568/TeamUSA%20Assets/Migration/Athlete%20Profiles/KK%20Clark/Clark_KK_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "KK Clark"
+        }
+      ]
+    },
+    {
+      "first_name": "Breanna",
+      "last_name": "Clark",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-11-04T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "Pasadena City College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Rosalyn and Gary Clark and has a twin brother, Rashard</li><li><span>Diagnosed with autism at age four</span></li><li>Her mother, Rosalyn, won a silver medal for Team USA at the 1976 Olympic Games, competing in the 400-meter and the 4x400-meter relay</li><li>Won gold at the Rio Games, 40 years after her mother’s silver medal in 1976</li><li><span>Ran on the women’s track team at Dorsey High School and Pasadena City College</span></li><li><span>One of the lead singers in her church choir and she sang in her high school and community college choir</span></li><li>Hobbies include singing, dancing, listening to music, watching movies, playing piano, skating, riding her bike, playing video games and going to the amusement park</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 2-time Paralympic medalist (2 gold)</li><ul><li>Paralympic Games Paris 2024, 4th (400m T20 - Women)</li><li>Paralympic Games Tokyo 2020, gold (400m T20 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, gold (400m T20 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 9th (400m T20 - Women)</li><li>Years of participation: 400m T20 - Women 2017, 2019, 2023, 2024</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2023 (400m T20 - Women);  2019 (400m T20 - Women);  2017 (400m T20 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661952/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/B_Clark_bio_1046729OR1064076.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T20",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662188/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/B_Clark_hero_1046729OR1064076.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926510/TeamUSA%20Assets/Migration/Athlete%20Profiles/Breanna%20Clark/Clark_Breanna250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Breanna Clark"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Clark",
+      "bio": {
+        "height": "6' 3\"",
+        "birthday": "1984-12-10T00:00:00",
+        "hometown": {
+          "city": "Owenton",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 38.54395,
+          "longitude": -84.83995
+        },
+        "education": "University of Kentucky",
+        "fun_fact": "",
+        "biography": "<p><span><strong>HEIGHT </strong>6' 3\"&nbsp; &nbsp; &nbsp;<strong>WEIGHT </strong>225 lbs</span></p><p><span>Follow Adam on Twitter&nbsp;@AC_Slider<br></span></p><p><span>Clark submitted his athlete profile on the recruitment webpage at the suggestion of a friend and was invited to attend rookie camp in March 2011. He previously played football and ran track at Centre College in Danville, Ky., where he earned all-conference honors in both sports. Clark graduated from Centre College in 2007, with a B.S. in Physics and then earned a B.S. in Mechanical Engineering from the University of Kentucky in 2009.</span></p><p><span>Clark enjoys spending time with his friends, going hiking, biking, rock climbing or \"half a dozen other random sports.\" His favorite food is his wife Ashley's meatloaf, favorite music is a mix of rock, hip hop and country and favorite location is home on the farm.</span></p><p><span></span>Graduated from Centre College in 2007, with a B.S. in Physics and then earned a B.S. in Mechanical Engineering from the University of Kentucky in 2009</p><p><span><strong>FUN FACTS</strong></span></p><p><span><strong></strong></span></p><span>- He grew up on a family farm that his dad still operates.<br></span><div><span>- His wife is an active-duty Air Force dentist.&nbsp;</span></div><div><span>- He can speak German.</span></div><p><span><strong>CAREER HIGHLIGHTS</strong><br></span></p><p>&nbsp;</p><ul><li><span><strong>2015 World Championships as push athlete for pilot Nick Cunningham in four-person </strong>- 14th (3/15)</span></li><li><span><strong>2014-2015 World Cup as push athlete for pilot Nick Cunningham in four-person </strong>- 19th in La Plagne (2/15); 15th in Igls (2/15); 7th in Sochi (2/15)</span></li><li><span><strong>2014-2015 World Cup as push athlete for pilot Codie Bascue in four-person </strong>- 16th in Koenigssee (1/15); 12th in St. Moritz (1/15)</span></li><li><span><strong>2014-2015 World Cup as push athlete for pilot Steven Holcomb in four-person </strong>- 7th in Calgary (12/14); 9th in Altenberg (1/15)</span></li><li><span><strong>2013-2014 World Cup as push athlete for Cory Butner in four-man </strong>- 13th in Park City (12/13), 15th in Lake Placid (12/13),&nbsp;25th in Winterberg #1 (1/14), 13th in Winterberg #2 (1/14), 18th in Igls (1/14)</span></li><li><span><strong>2012-2013 World Cup as push athlete for Nick Cunningham and Cory Butner in four-man </strong>- BRONZE in Lake Placid (11/12), 5th in Park City (11/12), 11th in Whistler (11/12), 11th in Winterberg (12/12), 12th in La Plagne (12/12), 17th&nbsp;in Koenigssee (1/13), 23rd&nbsp;in Igls (1/13), 19th&nbsp;at World Championships in St. Moritz (2/13), 12th in Sochi (2/13)</span></li><li><span><strong>2012-2013 World Cup as brakeman for Nick Cunningham in two-man </strong>- 15th in Park City (11/12)</span></li><li><span><strong>2011-2012 World Cup as push athlete for John Napier in four-man </strong>- 13th in La Plagne (12/11), 13th in Koenigssee (1/12), 12th in St. Moritz (1/12), 2012 World Championships in Lake Placid (2/12)</span></li><li><span><strong>2011-2012 America's Cup as push athlete for Cory Butner in four-man </strong>- GOLD in Park City (11/11), GOLD in Lake Placid #1 (3/12), GOLD in Lake Placid #2 (3/12)</span></li><li><span><strong>2011-2012 America's Cup as push athlete for Nick Cunningham in two-man </strong>- GOLD in Lake Placid (3/12)</span></li></ul><p>Clark submitted his athlete profile on the recruitment webpage at the suggestion of a friend and was invited to attend rookie camp in March 2011. He previously played football and ran track at Centre College in Danville, Ky., where he earned all-conference honors in both sports. Clark graduated from Centre College in 2007, with a B.S. in Physics and then earned a B.S. in Mechanical Engineering from the University of Kentucky in 2009.</p><span><strong></strong></span><div><span><br></span></div><span></span><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 13th (4-Man Competition - Open)</li><li>Years of participation: 4-Man Competition - Open 2015; 4-Man Competition - Men 2012, 2013</li><li>Top finish:  – 2012 (4-Man Competition - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682522036/NGB%20Bobsled%20and%20Skeleton/Migration/Athlete%20Profiles/Adam%20Clark%20861829/Adam_Clark.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682702069/Adam_Clark.avif"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682702069/Adam_Clark.avif"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682702069/Adam_Clark.avif"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adam Clark 861829"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Clark",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1983-07-26T00:00:00",
+        "hometown": {
+          "city": "Mammoth Lakes",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.6485,
+          "longitude": -118.9721
+        },
+        "education": "Mount Snow Academy (Mt. Snow, Vt.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Terry and Cathy Clark</li><li>Has one brother, Tim</li><li>Began snowboarding at age 7</li><li>Received the Best Female Action Sports Athlete ESPY Award in 2015 and the Action Sport Athlete of the Year ESPY award in 2002</li><li>Created the Kelly Clark Foundation, which gives opportunities and helps them become successful through snowboarding</li><li>Enjoys biking, boating and golf.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 FIS World Cup Standings, 2nd (halfpipe), 8th (overall)</li>\r\n                            <li>2016 FIS World Cup Standings, 2nd (halfpipe), 5th (overall)</li>\r\n                            <li>2016 X Games Oslo, silver (superpipe)</li>\r\n                            <li>2015 FIS World Cup Standings, 1st (halfpipe), 3rd (overall)</li>\r\n                            <li>2015 X Games Aspen, silver (superpipe)</li>\r\n                            <li>2014 FIS World Cup Standings, 1st (halfpipe), 2nd (overall)</li>\r\n                            <li>2014 X Games Aspen, gold (superpipe)</li>\r\n                            <li>2013 FIS World Cup Standings, 1st (overall, halfpipe)</li>\r\n                            <li>2013 X Games Tignes, gold (superpipe)</li>\r\n                            <li>2013 X Games Aspen, gold (superpipe)</li>\r\n                            <li>2012 X Games Aspen, gold (superpipe)</li>\r\n                            <li>2012 X Games Tignes, gold (superpipe)</li>\r\n                            <li>2011 X Games Aspen, gold (superpipe)</li>\r\n                            <li>2011 X Games Tignes, gold (superpipe)</li>\r\n                            <li>2010 X Games Aspen, silver (superpipe)</li>\r\n                            <li>2009 FIS World Cup Standings, 8th (halfpipe)</li>\r\n                            <li>2009 X Games Aspen, silver (superpipe)</li>\r\n                            <li>2008 X Games Aspen, bronze (superpipe)</li>\r\n                            <li>2006 X Games Aspen, gold (superpipe)</li>\r\n                            <li>2004 X Games Aspen, silver (superpipe)</li>\r\n                            <li>2003 X Games Aspen, silver (superpipe)</li>\r\n                            <li>2002 X Games Aspen, gold (superpipe)</li>\r\n                            <li>2001 FIS World Cup Standings, 10th (halfpipe)</li>\r\n                            <li>Owns the most X Games medals for a female</li>\r\n                            <li>Has appeared in 19 consecutive Winter X Games, the longest streak in Winter X Games history </li>\r\n                            <li>In 2011, became the first woman to land a 1,080 degree spin in competition</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>5-time Olympian; 3-time Olympic medalist (1 gold, 2 bronze)</li><ul><li>Olympic Games Pyeongchang 2018, 4th (Halfpipe - Women)</li><li>Olympic Games Sochi 2014, bronze (Halfpipe - Women)</li><li>Olympic Games Vancouver 2010, bronze (Halfpipe - Women)</li><li>Olympic Games Turin 2006, 4th (Halfpipe - Women)</li><li>Olympic Games Salt Lake City 2002, gold (Halfpipe - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nU.S. Ski and Snowboard Association<h5>World Championships Experience</h5><ul><li>Most recent: 2001 – 9th (Halfpipe - Women)</li><li>Years of participation: Halfpipe - Women 2001</li><li>Top finish: 9th – 2001 (Halfpipe - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005451/TeamUSA%20Assets/Athlete%20Profiles/Kelly%20Clark%20813438/Clark_Kelly_090817_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2002, 2006, 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005452/TeamUSA%20Assets/Athlete%20Profiles/Kelly%20Clark%20813438/clark_kelly_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelly Clark 813438"
+        }
+      ]
+    },
+    {
+      "first_name": "Wyndham",
+      "last_name": "Clark",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1993-12-09T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "University of Oregon '17",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Father, Randall, was a professional tennis player and mother, Lise, was a former Miss New Mexico USA</li><li>Started golfing at the age of three. His mother brought him to a driving range. When he finished hitting the bucket of balls, he asked for another</li><li>Won the Colorado state golf championship twice while in high school</li><li>Won the Pac-12 Conference Championship in 2016 while at the University of Oregon</li><li>Hobbies include fly fishing</li></ul><h5>Career Highlights</h5><ul><li>First PGA Tour win: 2023 Wells Fargo Championship</li><li>2023 U.S. Open Champion</li><li>Member of the 2023 Ryder Cup U.S. Team</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 14th (Individual - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 85th (Individual - Men)</li><li>Years of participation: Individual - Men 2025</li><li>Top finish: 85th – 2025 (Individual - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721061578/TeamUSA%20Assets/Athlete%20Profiles/Wyndham%20Clark%201083859/Clark_W_bio_1083859.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719334388/NGB%20Golf/Athlete%20Profiles/wyndham_copy.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719330370/wyndham_copy.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719334388/NGB%20Golf/Athlete%20Profiles/wyndham_copy.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Golf"
+        },
+        {
+          "title": "Wyndham Clark 1083859"
+        }
+      ]
+    },
+    {
+      "first_name": "Carson",
+      "last_name": "Clark",
+      "bio": {
+        "height": "6'6 (200cm)\"",
+        "birthday": "1989-01-20T00:00:00",
+        "hometown": {
+          "city": "Santa Barbara",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4208,
+          "longitude": -119.6902
+        },
+        "education": "Santa Barbara HS UC Irvine ('12, Sociology)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Candy and Glen Clark</li><li>Has two older brothers, Ian and Sutton</li><li>Began playing volleyball in 2003 for the Southern California Volleyball Club</li><li>Most admired person is Obi Wan Kenobi because “He is what I wish I could be.”</li><li>Considered leaving UCI after his junior year to play overseas professionally, but stayed and ended up winning his second NCAA national championship</li></ul><h5>Career Highlights</h5><ul><li>Youth World Championship, 2007 (Team - Men)</li></ul><h5>More</h5><p><strong>THE BIG BLURB</strong><br>\n&ldquo;Carson has the opportunity to become a good player that can start.&rdquo; - U.S. Head Coach John Speraw in the&nbsp;Daily Pilot</p>\n<p><strong>THE QUOTE</strong><br>\n&ldquo;Everybody on the team is there to win and to represent Team USA in the best way possible. In volleyball, you can&rsquo;t win with just one guy and I think that&rsquo;s a good thing because you&rsquo;re a little more humble. We&rsquo;re hungry and ready to be the best in the world.&rdquo; - Carson Clark</p>\n<p><strong>Related Links</strong></p>\n<p>U.S. Men's Update: Carson Clark Chats&nbsp;- USA Volleyball<br>\nVideo: UC Irvine&hellip; Carson Clark Interview<br>\nMen's Volleyball: Team USA Sweeps Iran&nbsp;- Daily Pilot<br>\nUCI sweeps to NCAA title&nbsp;- Daily Pilot</p><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2010, 2014</li><li>Top finish: 6th – 2010 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926503/TeamUSA%20Assets/Migration/Athlete%20Profiles/Carson%20Clark/2017-Carson-Clark.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Carson Clark"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Clary",
+      "bio": {
+        "height": "6’1”",
+        "birthday": "1989-03-12T00:00:00",
+        "hometown": {
+          "city": "Riverside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9806,
+          "longitude": -117.3755
+        },
+        "education": "Riverside Polytechnic High School (Riverside, Calif.) University of Michigan",
+        "fun_fact": null,
+        "biography": "<div>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-fLogo-online.jpg?h=50&amp;la=en&amp;w=50&amp;hash=814E6EFBD0070E849FF229E6AB33CE509C3EA740\">\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&amp;la=en&amp;w=50&amp;hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\"></td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?la=en&amp;h=50&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n\n<div><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, gold (200m Backstroke - Men), 5th (200m Butterfly - Men)</li></ul></ul></div>\n<div><h5>Career Highlights</h5>\n<div>\n<ul>\n    <li>2014 FINA Short Course World Championships, Doha, Qatar, gold (4x200-meter)</li>\n    <li>2014 Pan Pacific Games, gold (200-meter backstroke), silver (400-meter individual&nbsp;medley), bronze (200-meter butterfly), 5th (200-meter individual medley)</li>\n    <li>2013 FINA World Championships, bronze (200-meter backstroke)</li>\n    <li>2011 FINA World Championships, 2nd (10-meter platform)</li>\n    <li>2009 FINA World Championships, 2nd (10-meter platform synchronous), 6th (10-meter platform)</li>\n    <li>16-time national champion</li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Tyler loves to surf ... His favorite hobby is playing World of Warcraft ... He has a West Highland Terrier named Wilbur ... His favorite television show is <em>Family Guy</em> and his favorite movies are <em>A River Runs Through It</em>, <em>The Bourne Supremacy</em>, and <em>300</em>&nbsp;</p>\n<p><h5>More</h5>Facebook<br>\nTwitter<br>\nInstagram<br>\nUSA Swimming\n<br class=\"Apple-interchange-newline\">\n</div>\n<p><br>\n</p>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 4th (400m Individual Medley - Men), 7th (200m Backstroke - Men), 12th (200m Butterfly - Men)</li><li>Years of participation: 200m Backstroke - Men 2011, 2013, 2015; 200m Butterfly - Men 2009, 2011, 2013, 2015; 400m Individual Medley - Men 2009, 2011, 2013, 2015; 200m Backstroke (SC) - Men 2010, 2014; 200m Butterfly (SC) - Men 2010, 2014; 200m Individual Medley (SC) - Men 2010, 2014; 4 x 200m Freestyle Relay (SC) - Men 2014; 400m Individual Medley (SC) - Men 2010, 2014; 100m Individual Medley (SC) - Men 2010; 4 x 100m Medley Relay (SC) - Men 2010</li><li>Medals: 9 (2 gold, 3 silver, 4 bronze)</li><ul><li>Gold – 2014 (4 x 200m Freestyle Relay (SC) - Men);  2010 (4 x 100m Medley Relay (SC) - Men)</li><li>Silver – 2011 (400m Individual Medley - Men);  2010 (200m Backstroke (SC) - Men);  2009 (400m Individual Medley - Men)</li><li>Bronze – 2013 (200m Backstroke - Men);  2011 (200m Backstroke - Men);  2010 (200m Individual Medley (SC) - Men, 400m Individual Medley (SC) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926518/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tyler%20Clary/Clary_T120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyler Clary"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Clasen",
+      "bio": {
+        "height": "6'2",
+        "birthday": "2001-06-08T00:00:00",
+        "hometown": {
+          "city": "Roseville",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0097,
+          "longitude": -93.1652
+        },
+        "education": "Roseville Area HS",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>Junior National Championships: 2018</li>\r\n                    </ul><h5>More</h5><p>Teammates: Jack Clasen, Dylan Barrett, Josh Proehl</p>\n<p>Curls out of: St. Paul CC</p>\n<p>Began curling in 2007</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Clasen"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Claye",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1991-06-13T00:00:00",
+        "hometown": {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.44838,
+          "longitude": -112.07404
+        },
+        "education": "University of Florida ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of William Claye and Saffie Tunis</li><li>Has two siblings, Taiyou and James</li><li>Trains at the U.S. Olympic Training Center in Chula Vista, California</li><li>As a freshman at the University of Oklahoma (transferred to the University of Florida after his sophomore year) won six major triple jump titles, including the NCAA title</li><li>Skipped his final semester of high school to enroll early at Oklahoma</li><li>Two-time Arizona state champion in the triple jump</li><li>First Arizona high school athlete to triple jump more than 50 feet</li><li>He and Christian Taylor, fellow Olympian and former University of Florida teammate, both won medals at the 2012 Olympic Games</li><li>In 2012, became the first man since 1936 and the first American since 1904 to win Olympic medals in both the long and triple jumps</li><li>Married hurdler Queen Harrison</li><li>Enjoys music artist and fashion</li><li>Platinum recording artist</li><li>CEO of his own fashion label \"Elevate.\"</li></ul><span></span><h5>More</h5><p>Personal Website</p><p>USA Track &amp; Field</p><p></p><p></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (2 silver, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, 4th (Triple Jump - Men)</li><li>Olympic Games Rio de Janeiro 2016, silver (Triple Jump - Men)</li><li>Olympic Games London 2012, silver (Triple Jump - Men), bronze (Long Jump - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 7th (Triple Jump - Men)</li><li>Years of participation: Triple Jump - Men 2012, 2015, 2017, 2018, 2023; Long Jump - Men 2012</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2018 (Triple Jump - Men);  2012 (Triple Jump - Men)</li><li>Silver – 2017 (Triple Jump - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662265/TeamUSA%20Assets/Athlete%20Profiles/Will%20Claye%20823489/Claye_W_Bio_823489.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662515/TeamUSA%20Assets/Athlete%20Profiles/Will%20Claye%20823489/Claye_W_Hero_823489.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005483/TeamUSA%20Assets/Athlete%20Profiles/Will%20Claye%20823489/Claye_Will_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Claye 823489"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Cleary",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "2000-01-28T00:00:00",
+        "hometown": {
+          "city": "Ferndale",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 48.8498,
+          "longitude": -122.6004
+        },
+        "education": "Ferndale High School (Ferndale, Wash.) ‘18 Central Washington University ‘22 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kristin Cleary</li><li>Started playing rugby in 2012</li><li>Placed fourth in his state for wrestling as a senior and was also an All-state linebacker in football</li><li>Been skiing since the age of 4 and used to participate on the local mountain’s race team</li><li>Born with a bilateral cleft lip and pallet</li><li>Self-proclaimed to be exceptionally good at ballroom dancing</li><li>Favorite food is sushi</li><li>Hobbies include: bowling, skiing, card games, dancing, wrestling, camping, backpacking, hunting, being outdoors and hanging out with friends.</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005463/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Cleary%201113718/cleary_alex.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Cleary 1113718"
+        }
+      ]
+    }
+  ]
+}

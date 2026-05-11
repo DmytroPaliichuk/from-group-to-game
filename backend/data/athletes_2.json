@@ -1,0 +1,789 @@
+{
+  "entries": [
+    {
+      "first_name": "Nike",
+      "last_name": "Agunbiade",
+      "bio": {
+        "height": "5' 3\"",
+        "birthday": "2001-03-17T00:00:00",
+        "hometown": {
+          "city": "Pacifica",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.61382,
+          "longitude": -122.48636
+        },
+        "education": " University of Southern California",
+        "fun_fact": null,
+        "biography": "<h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 22th (10m Platform - Women)</li><li>Years of participation: 10m Platform - Women 2023</li><li>Top finish: 22th – 2023 (10m Platform - Women)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (10m Platform Synchro - Women, 10m Platform - Women)</li><li>World Cup, 2023 (10m Platform Synchro - Women, Team Event - Mixed, 10m Platform - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1678799876/NGB%20Diving/Gallery/Nike-Katrina-Berlin-World-Cup.webp"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685748428/NGB%20Diving/Athlete%20Profiles/Nike%20Agunbiade/Agunbiade_N_Thumbnail_1246291.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011203/TeamUSA%20Assets/Athlete%20Profiles/Nike%20Agunbiade%201246291/Nike-Agunbiade-Headshot-USC.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nike Agunbiade 1246291"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Ahsinger",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1998-05-12T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "University of Louisiana at Lafayette ‘20, Broadcasting",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Steven and Michelle Ahsinger</li><li>Began gymnastics at age 3</li><li>Favorite thing about gymnastics is meeting people and traveling around the world</li><li>Enjoys swimming, running and hanging out with friends.</li></ul><p></p><p>Most recent: 2018 – 4th (team all-around), 5th (synchronized) Years of Participation: 2015, 2017-18 Top Finish: 4th – 2018 (team all-around)</p><h5>More</h5><p>USA Gymnastics</p><p></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Individual Trampoline - Women)</li><li>Olympic Games Rio de Janeiro 2016, 15th (Individual Trampoline - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (Synchro - Women), 6th (Trampoline Team - Women), 28th (Individual Trampoline - Women)</li><li>Years of participation: Individual Trampoline - Women 2015, 2017, 2018, 2019, 2022, 2023; Synchro - Women 2015, 2017, 2018, 2019, 2022, 2023; Trampoline Team - Women 2015, 2017, 2019, 2022, 2023; All Around Team - Mixed 2018, 2019</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2023 (Synchro - Women)</li><li>Silver – 2019 (All Around Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661996/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/N_Ahsinger_bio_806724.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012444/TeamUSA%20Assets/Athlete%20Profiles/Nicole%20Ahsinger%20806724/Ahsinger_Nicole.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicole Ahsinger 806724"
+        }
+      ]
+    },
+    {
+      "first_name": "Morolake",
+      "last_name": "Akinosun",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1994-05-17T00:00:00",
+        "hometown": {
+          "city": "Aurora",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.7598,
+          "longitude": -88.3006
+        },
+        "education": "Waubonsie Valley High School (Aurora, Ill.) ‘12 University of Texas ’16, Exercise Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Olawale and Foluke Akinosun</li><li>Has two sisters, Anjola and Moriyike</li><li>Competed in track and field at the University of Illinois before transferring to the University of Texas</li><li>Only the second woman in history to score in four events at an NCAA Outdoor Championships in consecutive seasons</li><li>Two-time NCAA champion (4x400-meter).</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, gold (4x100m)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Relay - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – gold (4 x 100m Relay - Women)</li><li>Years of participation: 4 x 100m Relay - Women 2017</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2017 (4 x 100m Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721434/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morolake%20Akinosun%20814520/Akinosun_Morolake_081816_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721435/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morolake%20Akinosun%20814520/Akinosun_Morolake_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Morolake Akinosun 814520"
+        }
+      ]
+    },
+    {
+      "first_name": "Foluke",
+      "last_name": "Akinradewo Gunderson",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1987-10-05T00:00:00",
+        "hometown": {
+          "city": "Fort Lauderdale",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.1224,
+          "longitude": -80.1373
+        },
+        "education": "Stanford University ‘09, Human Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents Ayoola and Comfort Akinradewo</li><li>Has two brothers, Folu and Foluso</li><li>Holds a tri-citizenship in Canada, Nigeria and the United States</li><li>Auditioned for commercials when she was little</li><li>Has played professionally in Japan, Russia, Azerbaijan and Switzerland</li><li>Joined the women’s national team before starting her collegiate career</li><li>Married to Jonathan Gunderson</li><li>The couple has one son named Kayode.</li></ul><p></p><h5>More</h5><p>USA Volleyball</p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 1 silver, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Women)</li><li>Olympic Games London 2012, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2010, 2014, 2018</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2014 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685398776/TeamUSA%20Assets/Athlete%20Profiles/Foluke%20Akinradewo%20Gunderson%20904920/akinradewo_f_bio_904920.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012952/TeamUSA%20Assets/Athlete%20Profiles/Foluke%20Akinradewo%20Gunderson%20904920/pFolukeAkinradewo20.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Foluke Akinradewo Gunderson 904920"
+        }
+      ]
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "Aksamit",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1990-02-18T00:00:00",
+        "hometown": {
+          "city": "Matawan",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.4167,
+          "longitude": -74.2333
+        },
+        "education": "Matawan Regional High School (Matawan, N.J.) '08 Penn State University ’16, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Peter Aksamit and Marzena Kaminska</li><li>Has one sister, Olivia</li><li>Began fencing at age 9</li><li>Won team silver medal at the 2008 FIE Junior World Championships as an 18-year-old</li><li>Two-time NCAA team champion</li><li>Three-time All-American</li><li>Hobbies include reading, running, yoga, baking and watching movies.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Team Sabre - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 38th (Individual Sabre - Women)</li><li>Years of participation: Individual Sabre - Women 2009, 2017, 2018; Team Sabre - Women 2009, 2017</li><li>Top finish: 6th – 2009 (Team Sabre - Women)</li></ul><h5>More</h5>USA Fencing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721044/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monica%20Aksamit%20822992/aksamit_monica_081316_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721046/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monica%20Aksamit%20822992/Aksamit_Monica_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Monica Aksamit 822992"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyren",
+      "last_name": "Al-Jiboori",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "2000-02-08T00:00:00",
+        "hometown": {
+          "city": "Tulsa",
+          "state": "OK",
+          "country": "United States",
+          "latitude": 36.154,
+          "longitude": -95.9928
+        },
+        "education": "Union High School (Tulsa, Okla.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started playing rugby in 2014</li><li>His older brother, Malon Al-Jiboori, competes for Team USA on the men’s sevens squad</li><li>Favorite meal is chicken breasts with chicken vindaloo, sliced potatoes, asparagus and basmati rice</li><li>Favorite superhero is the Incredible Hulk</li><li>Favorite book is the Lightning Thief</li><li>Favorite movies are American Sniper and Avengers Infinity War.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Highest rugby honor is being named MVP</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916582/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tyren%20Al-Jiboori/aljiboori_tyren.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyren Al-Jiboori"
+        }
+      ]
+    },
+    {
+      "first_name": "Bella",
+      "last_name": "Alarie",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1998-04-23T00:00:00",
+        "hometown": {
+          "city": "Bethesda",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9847,
+          "longitude": -77.0947
+        },
+        "education": "National Cathedral School (Washington, D.C.) ‘16 Princeton University ‘20, History ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Rene Augustine and Mark Alarie</li><li>Has two younger siblings, Christian and Alexander</li><li>Father also played basketball, competing at Duke University before playing in the NBA for five seasons and also representing Team USA</li><li>Grandfather, Norman, also attended Princeton University and previously served as a professor there.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>World Championship U-19, 2017 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679680943/TeamUSA%20Assets/Athlete%20Profiles/Bella%20Alarie%201155851/bella_alarie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bella Alarie 1155851"
+        }
+      ]
+    },
+    {
+      "first_name": "Korbin",
+      "last_name": "Albert",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2003-10-13T00:00:00",
+        "hometown": {
+          "city": "Grayslake",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.34863,
+          "longitude": -88.00674
+        },
+        "education": "University of Notre Dame",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Represented the United States since U15</li><li>Reclassified collegiate class to play for the University of Notre Dame</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>2023 - Midfielder for Paris Saint-Germain</li><li>2022 - Cleveland Ambassadors</li><li>2021 - Reserve for the Chicago Red Stars</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720038730/Albert_Korbin_USWNT24.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720038703/Albert_Korbin_Headshot24.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Soccer"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Korbin Albert"
+        }
+      ]
+    },
+    {
+      "first_name": "Cristina",
+      "last_name": "Albert",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1988-08-09T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "East HS (Denver, Colo.) ‘07 University of Colorado Denver ‘15, Theater",
+        "fun_fact": null,
+        "biography": "<p><strong>Sport</strong>: Snowboarding<br>\n<strong>Event</strong>: Snowboardcross<br>\n<strong>Height</strong>: 5-0<br>\n<strong>Weight</strong>: 110<br>\n<strong>Classification</strong>: Lower Limb Impairment<br>\n<strong>Date of Birth</strong>: Aug. 9, 1988<br>\n<strong>Birthplace</strong>: Dragasani, Romania<br>\n<strong>Hometown</strong>: Denver, Colo.<br>\n<strong>Current Residence</strong>: Holladay, Utah<br>\n<strong>High School</strong>: East HS (Denver, Colo.) &lsquo;07<br>\n<strong>College</strong>: University of Colorado Denver &lsquo;15, Theater<br>\n<strong>Coach</strong>: Miah Wheeler</p>\n<p><strong>Career Highlights<br>\n</strong></p>\n<ul>\n    <li>2014: Paralympic Winter Games, 4th; U.S. Paralympics Snowboard Cross National Championships, 5th; World Cup La Molina, 8th run 1, 7th run 2; World Cup Copper Mountain, 8th run 1, 8th run 2; World Cup Big White, 6th run 1, 6th run 2</li>\n    <li>2013: World Cup Kelowna, 5th run 1, 6th run 2</li>\n</ul>\n<p><strong>Personal<br>\n</strong></p>\n<p>Cristina Albert has only been snowboarding competitively for three years, but she has quickly risen through the ranks as one of the nation&rsquo;s top snowboarders. At the Sochi 2014 Paralympic Winter Games, she surprised by earning a career-best fourth place, the second-highest finish for Team USA in the event. Albert was born in Romania with amniotic band syndrome and a clubfoot. She was adopted at three-years-old and underwent several reconstructive surgeries. At 12-years-old, she lost her left foot due to a Staph infection following surgery on her clubfoot. Albert is active off the slopes with a job as a veterinary tech and enjoying activities including hiking, rock climbing, painting and standup comedy.</p>\n<p> </p><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Sochi 2014, 4th (Snowboardcross - Standing - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003686/TeamUSA%20Assets/Athlete%20Profiles/Cristina%20Albert%20876773/Cristina-Albert_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cristina Albert 876773"
+        }
+      ]
+    },
+    {
+      "first_name": "Annie",
+      "last_name": "Aldrete",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1995-09-05T00:00:00",
+        "hometown": {
+          "city": "Monterey",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.6002,
+          "longitude": -121.8947
+        },
+        "education": "Santa Catalina High School University of California - Berkley",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her three favorite movies are Frozen, Safe Heaven and American Sniper</li><li>Her three favorite TV shows are Love and Hip Hop Atlanta and Rehab Addict</li><li>Lists her role model as Ayesha Curry</li><li>Best advice she&#39;s ever received is to just be a good person, that’s all that really matters in the world.</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul><h5>More</h5><p><strong>COLLEGIATE HIGHLIGHTS</strong></p>\n<p><strong>2017:</strong> USA Softball Collegiate Player of the Year Top 50 \"Watch List\"</p>\n<p><strong>2016</strong><strong><strong>:</strong>&nbsp;</strong>USA Softball Collegiate Player of the Year Top 50 \"Watch List\"</p>\n<p><strong>2015 at Tennessee:&nbsp;</strong>NFCA Division All-Southeast Region first team pick...Second Team All-SEC</p>\n<p><strong>2014 at Tennessee:</strong>&nbsp;NFCA Second Team All-American...NFCA Division All-Southeast Region first team pick...NFCA Co-Freshman of the Year...First Team All-SEC...SEC All-Freshman Team</p>\n<p><strong>Click here to view Annie Aldrete's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709654/TeamUSA%20Assets/Migration/Athlete%20Profiles/Annie%20Aldrete%20915475/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709656/TeamUSA%20Assets/Migration/Athlete%20Profiles/Annie%20Aldrete%20915475/AldreteAnnie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Annie Aldrete 915475"
+        }
+      ]
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Alexander",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1999-09-26T00:00:00",
+        "hometown": {
+          "city": "Denton",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 33.2148,
+          "longitude": -97.1331
+        },
+        "education": "The Mary Louis Academy University of North Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I started karate at 11 because my mom wanted an activity we could do together. I fell in love with it and am grateful for the opportunities to better myself and the people around me</li><li>3.4 GPA while training and working part time</li><li>Instructor at the Academy of Classical Karate</li><li>Three things people may not know about me is that I lived in Queens, NY for most of my life, I’m working towards a degree in kinesiology, and I like to draw.</li></ul><h5>Career Highlights</h5><ul><li>World Junior, Cadet & U21 Championships, Tenerife, 2017 (-50kg Kumite W (U21) - Women)</li></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700017/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eva%20Alexander%201103378/Eva-Alexander.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eva Alexander 1103378"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Alexander",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1998-06-10T00:00:00",
+        "hometown": {
+          "city": "Lake St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.7967,
+          "longitude": -90.7708
+        },
+        "education": "St. John Vianney High School (St. Louis, Mo.) ‘16 University of Missouri ’20, Health Science",
+        "fun_fact": null,
+        "biography": "<p><strong>EVENT - SKI JUMPING</strong></p>\n<p><strong>HEIGHT</strong> 5'11\"&nbsp;&nbsp;&nbsp;&nbsp;    <strong>WEIGHT</strong> 130 lbs<br>\n<br>\nVisit Nick Alexander's Website</p>\n<p><h5>Olympic Experience</h5>\n<ul>\n    <li>2014 Olympic Winter Games, 10th in the men's team, 34th place in the NH Individual</li>\n    <li>2010 Olympic Winter Games, 41st place in the NH Individual</li>\n</ul>\n</p><p><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (4 x 100m Medley Relay - Men, 200m Backstroke - Men, 100m Backstroke - Men)</li></ul><h5>Quick Facts</h5>\n</p><p>Club: Lebanon Outing Club<strong><br>\n</strong></p>\n<p>Having grown up in Lebanon, N.H., Nick Alexander was fortunate to have a 25- and 50-meter ski jump to start his jumping career as a 10-year-old. With the tremendous support of his family and the Lebanon Outing Club coaches, he was able to excel as a young jumper and earn the opportunity to attend the National Sports Academy in Lake Placid, N.Y.</p>\n<p>When he arrived for his sophomore year, he began an intense training and jumping program with the goal of making the U.S. Ski Jumping team, win a national championship and ultimately medal at a World Championship or the Olympic Winter Games. He is beginning to see the fruits of his labor. Currently, Alexander is one of the top ski jumpers in the United States. With more time spent competing in international events, he and his coaches felt this experience would spur him to the next level and ultimately make him competitive on the World Cup circuit. His ultimate goal is to be one of the pioneers in United States men's ski jumping, to help the United States be a powerful ski jumping nation.</p>\n<p>He scored his first summer World Cup points and has been a consistent qualifier into the 50-skier World Cup field this season, along with winning his first U.S. championship.</p>\n<p><strong>I AM</strong></p>\n<p>I am a happy guy who likes to laugh and have a good time...I consider myself friendly and easy to get along with...I love music. It is a huge part of my life along with ski jumping.</p>\n<p>I learned to ski and later to ski jump from members of the Lebanon Outing Club at storrs Hill in Lebanon, NH. I want to continue to compete for my hometown and the USA internationally.</p>\n<p>I began ski jumping at the age of 10, but as each winter passed I strived to show more promise and talent to go along with my passion for the sport. Following my sophomore year of high school, I decided to take the next step. With the blessing of my family, I attended the National Sports Academy (NSA) in Lake Placid, New York. There I had the opportunity to go to school and train in an environment which encouraged those, who wanted to work hard enough, to excel at both.</p>\n<p>In the summer of 2007 I accepted an invitation to train in Austria with some of the world's most elite ski jumpers. The two months I spent in Europe Pushed me harder to excel and I began seeing marked improvements in my distances and jumping style. I came back to the states with the confidence and skill necessary to be one of our nation's best jumpers. This hard work paid off at two national events at the end of that summer where I took 1st and 2nd place in the two competitions. Those results gave me the opportunity to train and compete throughout Europe the following winter for the USA with the men's ski jumping development team nick-named Project X. Project X is operating in place of the mens national ski jumping team. We are not funded by the US Ski Team and depend on donations and individual support. I had a successful 2008 winter season and was named to the A-Team for the 2008 Summer season.</p>\n<p>The summer of 2008 was fundamental in my development as a high class ski jumper. I spent the summer in Austria again training with my close friend David Fallmann. I learned much from him and the coaches I trained with. Ski jumping became a little more simplified and I learned many new things I had never realized about ski Jumping. In the Month I was training in Austria and Germany I made a step forward to the next level in my jumping. I had the chance to test out my new style in Lillehammer, Norway at two Continental Cup Competitions. On the second day of competition I jumped 127 meters and was in 12th place. This was when I realized I had made it to the next level.</p>\n<p>I was confident for the upcoming 2008/2009 winter season and finished the season with one of my best Continental Cup finishes and some continental cup points. Since that winter my jumps have continually improved and I continue to get top results for the USA.</p>\n<p>Let me take a step back and provide you with a bit of ski jumpig history as it relates to the United States men's team. Up until the late 80's the United states had fielded a competitive team with notable standouts including a few world records and some outstanding World Cup finishes. As the 90's approached, those who were the backbone of the team went into retirement and since then the United States has struggled at times to field a team that threatened the world's elite jumpers.</p>\n<p>However, Things are starting to change. As a new crop of jumpers threatens to win international competitions, our funding could improve. In the meantime, each team member is responsible for most of his expenses. The Ski Jumping Development USA team (Project X) has stepped in to fill the gap with a coaching staff and some travel support.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916655/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Alexander/Alexander_Nick.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Alexander"
+        }
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Alexy",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "2003-01-19T00:00:00",
+        "hometown": {
+          "city": "Morristown",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.7965,
+          "longitude": -74.4807
+        },
+        "education": "University of California - Berkeley",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Son of Matthew &amp; Lynn Alexy. Has three siblings - Kate, Max and Rob</p></li><li>Mother played basketball at Notre Dame</li><li>Grandfather, William Ebben, played basketball for the NBA's Detroit Pistons</li><li>After swimming, he would like to get into commercial business and real estate</li><li>Hobbies include creating and enjoying art</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (4 x 100m Medley Relay - Men), silver (100m Freestyle - Men, 4 x 100m Freestyle Relay - Mixed, 50m Freestyle - Men), bronze (4 x 100m Freestyle Relay - Men)</li><li>Years of participation: 100m Freestyle - Men 2023; 4 x 100m Freestyle Relay - Men 2023; 4 x 100m Freestyle Relay - Mixed 2023; 4 x 100m Medley Relay - Men 2023; 50m Freestyle - Men 2023</li><li>Medals: 5 (1 gold, 3 silver, 1 bronze)</li><ul><li>Gold – 2023 (4 x 100m Medley Relay - Men)</li><li>Silver – 2023 (100m Freestyle - Men, 4 x 100m Freestyle Relay - Mixed, 50m Freestyle - Men)</li><li>Bronze – 2023 (4 x 100m Freestyle Relay - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Budapest, 2019 (4 x 100m Freestyle Relay - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Paris 2024, gold (4 x 100m Freestyle Relay - Men), silver (4 x 100m Medley Relay - Men), 7th (100m Freestyle - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718898175/TeamUSA%20Assets/Athlete%20Profiles/Jack%20Alexy%201129131/Alexy_J_bio.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718898170/TeamUSA%20Assets/Athlete%20Profiles/Jack%20Alexy%201129131/Alexy_J_hero.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718898171/TeamUSA%20Assets/Athlete%20Profiles/Jack%20Alexy%201129131/Alexy_J_thumbnail.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jack Alexy 1129131"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Nia",
+      "last_name": "Ali",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1988-10-23T00:00:00",
+        "hometown": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.95258,
+          "longitude": -75.16522
+        },
+        "education": "University of Southern California ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of the late Aleem Ali and Melita Johnson</li><li>Has one son, Titus</li><li>Enjoys playing the piano, basketball, dancing and helping children in any way</li><li>2011 NCAA outdoor champion (100-meter hurdles)</li><li>Ran track at the University of Tennessee before transferring to the University of Southern California.</li></ul><p></p><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 8th (100m Hurdles - Women)</li><li>Years of participation: 100m Hurdles - Women 2017, 2023; 60m Hurdles (Indoor) - Women 2016</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2016 (60m Hurdles (Indoor) - Women)</li></ul></ul><h5>More</h5><p>USA Track &amp; Field</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, silver (100m Hurdles - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685930378/TeamUSA%20Assets/Athlete%20Profiles/Nia%20Ali%20810738/ali_n_bio_810738.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685930382/TeamUSA%20Assets/Athlete%20Profiles/Nia%20Ali%20810738/ali_n_hero_810738.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700008/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nia%20Ali%20810738/Ali_Nia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nia Ali 810738"
+        }
+      ]
+    },
+    {
+      "first_name": "Alexis",
+      "last_name": "Allan",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1999-07-04T00:00:00",
+        "hometown": {
+          "city": "Hesperia",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4258,
+          "longitude": -117.3017
+        },
+        "education": "Oak Hills High School University of Michigan",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her favorite activities include coloring and singing</li><li>Her role model is grandmother, Shelia Cornell-Douty</li><li>Her goals in life include becoming a successful woman that&#39;s a role model for younger girls</li><li>Three words that her friends would use to describe her would be outgoing, funny, and stubborn</li><li>Favorite sport besides softball: Basketball</li><li>My favorite activity/activities include: Coloring and singing</li><li>Favorite color: Pink</li><li>My favorite meal/snack: Mom&#39;s lemon pepper chicken</li><li>Favorite movie of all time: For the love of the game</li><li>Favorite cereal: Life</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championship, Clearwater, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2017 WBSC Junior Women's World Championship Gold Medalist; Hit .364 (8-22) with six runs scored, four RBI and one home run</li></ul><h5>More</h5><strong>What it means to represent the United States:</strong><br>\n<br>\n\"It means the world to me. I have dreamed about following in my grandmother's footsteps since I was very young. To have made this team just shows that a small town girl can achieve anything as long as she sets her mind to it. As long as you have a dream and a plan it is achievable!\"",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709666/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alexis%20Allan%201086103/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709667/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alexis%20Allan%201086103/AllanAlexis.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alexis Allan 1086103"
+        }
+      ]
+    }
+  ]
+}

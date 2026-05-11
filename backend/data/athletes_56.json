@@ -1,0 +1,775 @@
+{
+  "entries": [
+    {
+      "first_name": "Jerami",
+      "last_name": "Grant",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1994-03-12T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "DeMatha High School (Hyattsville, Md.) ‘12 Syracuse University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Full name is Houston Jerami Grant</li><li>Son of Harvey and Beverly Grant, has three brothers – Harvey Jerai, Holdyn Jerian and Harrison Jaelin</li><li>Jerai played college basketball for Clemson University and has played in professional leagues in Australia, Italy, Israel, Latvia and Lithuania</li><li>Father, who is the identical twin brother of Horace Grant, played 11 seasons in the NBA</li><li>Selected for the 2012 Jordan Classic.</li></ul><h5>Career Highlights</h5><ul><li>Named a member of the 2016 USA Select Team that trained with and against the 2016 U.S. Olympic Team</li><li>Was one of three players in the NBA in 2018-2019 with more than 100 threes and 100 blocked shots</li><li>Scored his 3,000th career point at Utah on Feb. 22, 2019, becoming just the seventh forward since 2014 with 3,000-plus points and 400-plus blocked shots</li><li>Member of the 2012 USA U18 National Team that finished 5-0 and won gold at the FIBA Americas U18 Championship in Sao Sebastiao do Paraiso, Brazil; Started all five games, averaged 18.0 minutes, 5.6 points and 5.0 rebounds per game</li><li>Played two seasons at Syracuse University (2012-14)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005898/TeamUSA%20Assets/Athlete%20Profiles/Jerami%20Grant%201217425/Grant_Jerami.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jerami Grant 1217425"
+        }
+      ]
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Graves",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1987-07-22T00:00:00",
+        "hometown": {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.53834,
+          "longitude": -81.37924
+        },
+        "education": "Harwood Union High School (Duxbury, Vt.) '04 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ronald and Patricia Graves</li><li>Has two sisters, Eliza and Lindsey</li><li>Quit her career as a hairstylist to pursue a career in equestrian.</li></ul><h5>Career Highlights</h5><ul><li>2015 Pan American Games, gold (team); silver (individual) – with Verdades</li></ul><h5>World Championships Experience</h5><p>Most recent: 2014 – 4th (team); 5th (individual)</p><p>Years of Participation: 2014 (Verdades)</p><p>Top finish: 4th (team) – 2014</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Open), 4th (Individual - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662018/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/graves_l_bio_910127.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716513/TeamUSA%20Assets/Migration/Athlete%20Profiles/Laura%20Graves%20910127/Equestrian_Dressage_Graves_Laura.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Laura Graves 910127"
+        }
+      ]
+    },
+    {
+      "first_name": "Allisha",
+      "last_name": "Gray",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1995-01-12T00:00:00",
+        "hometown": {
+          "city": "Sandersville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 32.9868,
+          "longitude": -82.8104
+        },
+        "education": "Washington County High School (Sandersville, Ga.) University of South Carolina '17",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Hails from Sandersville, Georgia, where she was the 2012 Gatorade State Player of the Year at Washington County High School</li><li>Daughter of Annie and Dr. Allen Gray, has an older brother, Marlo East, a younger brother A.J. Gray, and a younger sister, Ashley Gray</li><li>Three-time Georgia Athletic Coaches Association Class 3A Player of the Year</li><li>Hobbies include playing video games, reading books, watching movies and YouTube.</li></ul><h5>Career Highlights</h5><ul><li>Named Tournament MVP of the inaugural 3x3 2021 Big Twelve International event in Voiron, France, where the USA women finished first with a 6-1 record</li><li>Is 18-2 all-time while representing Team USA five-on-five and 3x3 national teams, including exhibition games</li><li>Competed in the USA National Team's four-game NCAA tour in November 2019; aided the USA to a 3-1 slate and averaged 5.5 ppg</li><li>Participated in the 2018 USA World Cup Team training camp and helped the USA to a 2-0 exhibition record; averaged 1.0 rpg</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005907/TeamUSA%20Assets/Athlete%20Profiles/Allisha%20Gray%20869102/Gray_Allisha.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allisha Gray 869102"
+        }
+      ]
+    },
+    {
+      "first_name": "Adeline",
+      "last_name": "Gray",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1991-01-15T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "Keller Graduate (2018-2020), DeVry Univ. (2011-2016), University of Colorado – Colorado Springs (2009-2011)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Donna and George Gray</li><li>Has younger three sisters, Geneva, Izabella and Gabriella</li><li>Married to Damaris Sanders since 2017</li><li>Sports Agent includes Denege Prudhomme with Stanton &amp; Co</li><li>Serves as the assistant women’s wrestling coach for Wyoming Seminary</li><li>Started wrestling at the age of six</li></ul><h5><strong>Olympic Experience</strong></h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (76kg - Women)</li><li>Olympic Games Rio de Janeiro 2016, 7th (75kg - Women)</li></ul></ul><h5><strong>World Championships Experience</strong></h5><ul><li>Most recent: 2023 – bronze (76kg - Women)</li><li>Years of participation: 76kg - Women 2018, 2019, 2021, 2023; 75kg - Women 2014, 2015; 72kg (< 2014) - Women 2013; 67kg - Women 2009, 2011, 2012;</li><li>Medals: 9 (6 gold, 3 bronze)</li><ul><li>Gold – 2021 (76kg - Women); 2019 (76kg - Women); 2018 (76kg - Women); 2015 (75kg - Women); 2014 (75kg - Women); 2012 (67kg - Women);</li><li>Bronze – 2023 (76kg - Women); 2013 (72kg (< 2014) - Women); 2011 (67kg - Women);</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690471979/NGB%20Wrestling/Athlete%20Profiles/Adeline%20Gray/left-76kg_Adeline_Maria_GRAY_USA_df_Aline_ROTTER_FOCKEN_GER_vs._04.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690471980/NGB%20Wrestling/Athlete%20Profiles/Adeline%20Gray/NationalTeam-Headshots-AdelineGray.jpg"
+        }
+      ],
+      "content_tags": []
+    },
+    {
+      "first_name": "Chelsea",
+      "last_name": "Gray",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1992-10-08T00:00:00",
+        "hometown": {
+          "city": "Hayward",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.6688,
+          "longitude": -122.0808
+        },
+        "education": "Duke University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Hails from Manteca, California</li><li>Daughter of James and Vickey Gray; has one brother, Javon</li><li>Cousin, Alexis Gray-Lawson, played basketball for California and was drafted by the Washington Mystics</li><li>Married Tipesa Mercedes Moorer on Nov. 2, 2019</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661988/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/gray_c_bio_1194920.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662169/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/gray_c_hero_1194920.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005964/TeamUSA%20Assets/Athlete%20Profiles/Chelsea%20Gray%201194920/Gray_Chelsea.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chelsea Gray 1194920"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Savannah",
+      "last_name": "Graybill",
+      "bio": {
+        "height": "5' 6\"",
+        "birthday": "1988-04-25T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.2376,
+          "longitude": -76.1266
+        },
+        "education": " American University, Broadcast Journalism '10",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She is a part of the Dick&#39;s Sporting Goods &quot;Contenders&quot; program, working at the Plattsburgh, N.Y. location</li><li>Earned the &quot;CEO For 1 Month&quot; internship with Adecco Group North America, with whom she still works</li><li>Got her master&#39;s degree from the DeVry University Keller Graduate School</li><li>She played field hockey with fellow skeleton athlete, Megan Henry at American University</li><li>She made the national team in 2011, which was her first team trials and first year competing in skeleton</li><li>She sings to herself when waiting at the starting line of the track. It&#39;s a different song at each track.</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2020 (Individual - Women)</li><li>World Cup, 2019 (Individual - Women)</li><li>World Cup, 2018 (Individual - Women)</li><li>World Cup, 2017 (Individual - Women)</li><li>World Cup, 2015 (Individual - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2020 – 20th (Individual - Women)</li><li>Years of participation: Individual - Women 2017, 2019, 2020; Team Competition - Mixed 2017, 2019</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2019 (Team Competition - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680173922/NGB%20Bobsled%20and%20Skeleton/Migration/E23C74E700974D5C90F21490C3B0C5D0.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Skeleton",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682522049/NGB%20Bobsled%20and%20Skeleton/Migration/Athlete%20Profiles/Savannah%20Graybill%20872742/graybill.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Savannah Graybill 872742"
+        }
+      ]
+    },
+    {
+      "first_name": "Roderick",
+      "last_name": "Green",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1979-03-16T00:00:00",
+        "hometown": {
+          "city": "West Monroe",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 32.5167,
+          "longitude": -92.15
+        },
+        "education": "West Monroe HS (1997) Oklahoma Christian University (2004; physical education and nutrition)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Father&#39;s name is Benjamin Green, Sr. Mother&#39;s name is Lucille Carter</li><li>Has brothers named Keith, Dwayne, Ron, Stanley, Benjamin Jr. and Cordell</li><li>Has sisters named Devanna, Yavette, Treona, LaToya, Tameka and Wonda</li><li>The happiest moment of his life was helping deliver his daughter, Avayah, in 2013</li><li>Brother, Keith Earl, competed as a boxer from 1982-89</li><li>Founded a non-profit that helps people raise money for medical needs, mainly amputees, by holding basketball events to raise money</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019: Parapan American Games (Silver)</li>\r\n                            <li>2016: ParaVolley Intercontinental Cup (6th Place)</li>\r\n                            <li>2015: Parapan American Games (Silver)</li>\r\n                            <li>2012: Intercontinental Cup (8th place)</li>\r\n                            <li>2011: Parapan American Games (Silver); Continental Cup (8th place)</li>\r\n                            <li>2009: Parapan American Championship (Gold)</li>\r\n                            <li>2007: Parapan American Games (Silver)</li>\r\n                            <li>---</li>\r\n                            <li>MOST NOTABLE</li>\r\n                            <li>Named USA Volleyball 2016 Male Sitting Player of the Year</li>\r\n                            <li>Has medaled at the Parapan American Games four times (1 Gold, 3x Silver)</li>\r\n                            <li>Competed in the Sydney Paralympics  and Athens Paralympics in track and field, winning one silver (200-meter dash) and two bronze medals (long jump; 400-meter dash)</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW?</li>\r\n                            <li>Was born with genetic fibula hemimelia. His leg was amputated below the knee when he was 2 years old </li>\r\n                            <li>Met his wife, Katrin, at the 2004 Paralympics where they were both track athletes. Katrin was competing for Germany. Katrin won the gold medal in the 200 meters at the 2008 Paralympics in Beijing and bronze in the 200-meter dash in 2012</li>\r\n                            <li>Payed basketball on scholarship for three years in college</li>\r\n                            <li>Roderick founded a non-profit that raises money to cover the cost of medical care for amputees</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (1 silver, 2 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, 8th (Team - Men)</li><li>Paralympic Games Athens 2004,  (100m T44 - Men, Long Jump T44 - Men, Shot Put F44/46 - Men)</li><li>Paralympic Games Sydney 2000, silver (200m T44 - Men), bronze (400m T44 - Men, Long Jump T44 - Men), 5th (4 x 100m Relay T46 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018, 2022</li><li>Top finish: 6th – 2022 (Team - Men)</li></ul><h5>More</h5>Amputee Basketball Invigorated &ndash; Youtube<strong><br>\n</strong>\nEndeavor Games: Roderick Green a crowd-pleaser in Edmond &ndash; The Oklahoman<strong><br>\n</strong><a href=\"http://newsok.com/article/3386085\" target=\"_blank\">The Oklahoman: Handicaps don&rsquo;t deter Edmond Paralympic couple<br>\n</a>\nOutlook Oklahoma: Best of the Best<br>\n<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2000, 2004, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "VS1",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927821/TeamUSA%20Assets/Migration/Athlete%20Profiles/Roderick%20Green/W1GreenRoderick.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Roderick Green"
+        }
+      ]
+    },
+    {
+      "first_name": "Ralph",
+      "last_name": "Green",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1977-06-01T00:00:00",
+        "hometown": {
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.6782,
+          "longitude": -73.9442
+        },
+        "education": "Boys and Girls HS (Brooklyn, N.Y.) ‘95 DeVry University ’16, Sales and Marketing",
+        "fun_fact": null,
+        "biography": "<p><span style=\"text-align: -webkit-auto;\"></span></p>\n<p><strong>Height</strong>: 5-11<br>\n<strong>Weight</strong>: 200<br>\n<strong>Classification</strong>: LW2, Standing<br>\n<strong>Date of Birth</strong>: June 1, 1977<br>\n<strong>Birthplace</strong>: Brooklyn, N.Y.<br>\n<strong>Hometown</strong>: Brooklyn, N.Y.<br>\n<strong>Current Residence</strong>: Vail, Colo.<br>\n<strong>High School</strong>: Boys and Girls HS (Brooklyn, N.Y.) &lsquo;95<br>\n<strong>College</strong>: DeVry University &rsquo;16, Sales and Marketing<br>\n<strong>Coach</strong>: Kevin Jardine</p>\n<p><strong>Career Highlights<br>\n</strong><strong></strong></p>\n<ul>\n    <li>2014: Paralympic Winter Games, 17th giant slalom, 18th slalom; U.S. Paralympics Alpine Skiing National Championship, 1st slalom and giant slalom; Huntsman Cup, 1st slalom and giant slalom; World Cup Copper Mountain, 12th slalom run 1, 13th slalom run 2, 15th giant slalom run 1, 19th giant slalom run 2; World Cup Panorama, 20th giant slalom, 22nd super-G; NorAm Aspen, 1st downhill; NorAm Winter Park, 2nd giant slalom run 1, 3rd slalom and giant slalom run 2; U.S. Paralympics Alpine Skiing National Championship, 1st super-G, 2nd downhill</li>\n    <li>2013: International Paralympic Committee Alpine Skiing World Championship, 8th downhill, 16th super-G; World Cup Mt. Hutt, 12th super-G</li>\n    <li>2012: World Cup standings, 8th slalom, 12th super combined, 10th super-G; NorAm Copper Mountain, 2nd slalom, 4th giant slalom; NorAm Winter Park, 2nd giant slalom, 3rd super-G</li>\n    <li>2011: IPC Alpine Skiing World Championship, 12th super combined, 14th downhill, 17th super-G; U.S. Paralympics Alpine Skiing National Championship, 1st super-G, super combined</li>\n    <li>2010: 2010 Paralympic Winter Games, 22nd slalom, 29th giant slalom; IPC Alpine Skiing World Cup Finals, 5th downhill; U.S. Paralympics Alpine Skiing National Championship, 1st overall</li>\n    <li>2009: IPC Alpine Skiing World Championship, 14th slalom, IPC Alpine Skiing World Cup Finals, 10th downhill; NorAm Park City, 4th slalom</li>\n    <li>2008: U.S. Paralympics Alpine Skiing National Championship, 3rd downhill; NorAm Hartford, 2nd downhill; NorAm Copper Mountain, 4th slalom; The Hartford Ski Spectacular, Breckenridge, Colo., 4th slalom</li>\n    <li>2006: Paralympic Winter Games, 36th slalom, 46th giant slalom</li>\n    <li>2005: Four top-15 finishes in World Cup competition</li>\n    <li>2004: IPC Alpine Skiing World Championship, 14th super-G; Two top-10 finishes in World Cup competition; Named to U.S. Paralympics Alpine Skiing National Team </li>\n</ul>\n<p><strong>Personal<br>\n<br>\n</strong>Ralph Green didn&rsquo;t give up after he lost a leg following a random street shooting. Coaches say he&rsquo;s fearless and a hard worker. Green is the first African-American man to make the U.S. Paralympics Alpine Skiing National Team, and he represented Team USA at both the Torino 2006 and Vancouver 2010 Paralympic Winter Games.<br>\n<br>\nA high school quarterback and multi-sport athlete, Green was gunned down at 16 while he and a friend were walking along a street in Brooklyn. His left leg was amputated at the hip. A year later, Green was introduced to skiing in the Poconos, and it didn&rsquo;t do much for him. In 2000, though, Green found himself back on the slopes with a program in Winter Park, Colo., and as he says, &ldquo;That&rsquo;s when it stuck...&lsquo;I&rsquo;m skiing until I&rsquo;m the best.&rsquo;&rdquo; Green is now a 10-time U.S. Paralympics Alpine Skiing National Team member and four-time national champion. He will compete in his third straight Paralympic Winter Games with Team USA in Sochi. Off the slopes, Green enjoys cooking and competes in triathlons for cross-training.<br>\n<br>\n<strong>Connect</strong><br>\nTwitter: @bkskiman</p>\n<div id=\"ooyalaplayer\" style=\"width: 640px; height: 356px;\"></div>\n<noscript>\n<div>Please enable Javascript to watch this video</div>\n</noscript><h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Sochi 2014,  (Super-G - Standing - Men), 16th (Giant Slalom - Standing - Men), 17th (Slalom - Standing - Men)</li><li>Paralympic Games Vancouver 2010,  (Super-G - Standing - Men), 22th (Slalom - Standing - Men), 29th (Giant Slalom - Standing - Men)</li><li>Paralympic Games Turin 2006,  (Downhill - Standing - Men, Super-G - Standing - Men), 36th (Slalom - Standing - Men), 46th (Giant Slalom - Standing - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 –  (Giant Slalom - Standing - Men, Slalom - Standing - Men, Super Combined - Standing - Men), 13th (Downhill - Standing - Men), 19th (Super-G - Standing - Men)</li><li>Years of participation: Downhill - Standing - Men 2009, 2011, 2013, 2015; Giant Slalom - Standing - Men 2009, 2011, 2013, 2015; Slalom - Standing - Men 2009, 2011, 2013, 2015; Super Combined - Standing - Men 2009, 2011, 2013, 2015; Super-G - Standing - Men 2009, 2011, 2013, 2015; Downhill LW2 - Men 2004; Giant Slalom LW2 - Men 2004; Slalom LW2 - Men 2004; Super-G LW2 - Men 2004</li><li>Top finish:  – 2004 (Downhill LW2 - Men), 2004 (Giant Slalom LW2 - Men), 2004 (Slalom LW2 - Men), 2009 (Giant Slalom - Standing - Men), 2009 (Super Combined - Standing - Men), 2013 (Giant Slalom - Standing - Men), 2013 (Slalom - Standing - Men), 2013 (Super Combined - Standing - Men), 2015 (Giant Slalom - Standing - Men), 2015 (Slalom - Standing - Men), 2015 (Super Combined - Standing - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716520/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ralph%20Green%20800512/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2006, 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716522/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ralph%20Green%20800512/Ralph_Green_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ralph Green 800512"
+        }
+      ]
+    },
+    {
+      "first_name": "Draymond",
+      "last_name": "Green",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1990-03-04T00:00:00",
+        "hometown": {
+          "city": "Saginaw",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.4195,
+          "longitude": -83.9442
+        },
+        "education": "Saginaw High School (Saginaw, Mich.) ‘08 Michigan State University ‘12, Communications",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Raymond Green, Wallace Davis and Mary Babers</li><li>Has two brothers, Torrian Harris and Braylon Green, and three sisters, LaToya Barbers, Jordan Davis and Gabby Davis</li><li>Donated $3.1 million to Michigan State University to help build a new athletics facility and fund an endowment program for scholarships</li><li>Wears No. 23 in honor of fellow Saginaw native and former Warrior Jason Richardson</li><li>Drafted No. 35 by the Golden State Warriors in the 2012 NBA Draft.</li></ul><h5>Career Highlights</h5><ul><li>Member of the 2016 USA National Team that finished its pre-Olympic tour with a 5-0 record</li><li>Member of the 2014 USA Select Team that trained with and against 2014 USA National Team</li><li>Member of the 2011 USA World University Games Team that finished with a 7-1 record</li><li>2017 NBA Defensive Player of the Year</li><li>Led Golden State to three NBA Championships (2015, 2017, 2018)</li><li>Three-time NBA All-Star (2016, 2017 and 2018)</li><li>Four-time NBA All-Defensive first team selection (2015, 2016, 2017 and 2021)</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005893/TeamUSA%20Assets/Athlete%20Profiles/Draymond%20Green%20821468/green_draymond_081416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005894/TeamUSA%20Assets/Athlete%20Profiles/Draymond%20Green%20821468/Green_Draymond.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Draymond Green 821468"
+        }
+      ]
+    },
+    {
+      "first_name": "Bennett",
+      "last_name": "Greene",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2006-04-03T00:00:00",
+        "hometown": {
+          "city": "Knoxville",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 35.9606,
+          "longitude": -83.9207
+        },
+        "education": "Homeschooled ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Dagan and Shannon Greene</li><li>He has three siblings: Garrett, Jackson and Josie</li><li>Outside of diving, Bennett enjoys playing video games, trampolining and hanging out with friends</li><li>He trains two and a half hours day, five days a week</li><li>Bennett hopes to have a strong collegiate diving career with Olympic possibilities</li><li>He began diving at the age of five</li><li>He previously played baseball and basketball</li><li>He holds a 4.0 GPA</li><li>His first junior nationals was in 2013</li><li>His greatest diving obstacle was when he tore a ligament in his ankle prior to competing in the 2017 Junior Pan Am games. He captured 2 gold medals despite his setback</li><li>Between dives, Bennett likes to relax and talk to his coach</li><li>While competing, he likes to listen to hype music and rock and roll music</li><li>His favorite dives is 305c from the 7-meter platform</li><li>For the 2019 season, Bennett is focusing on gaining more flexibility and utilizing more strength. He hopes to medal in all three events at nationals and be invited to compete at Junior Pan Ams</li><li>Because his coach (Michael Wright) is notorious for difficult conditioning and core training, Bennett considers having sore muscles the most difficult part of his training</li><li>He typically has a protein bar as a pre-competition meal</li><li>His favorite meal outside of competition is Chick-fil-A</li><li>His favorite diver is David Boudia</li><li>He describes himself as positive, competitive and an encourager</li><li>His favorite t.v. show is The Simpsons. His favorite movie is Grown Ups</li><li>If Bennett could meet anyone it would be Adam Sandler</li><li>He occasionally does print and commercial modeling</li></ul><h5>Career Highlights</h5><ul><li>2019 Junior Pan American Championships: silver medalist, 3-meter; bronze medal, platform</li><li>2017 Junior Pan American Championships: gold medalist, 3-meter and platform</li><li>Four-time junior national champion (three titles on platform, one on 1-meter)</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716400/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bennett%20Greene%201223819/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716401/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bennett%20Greene%201223819/2019-Greene-Bennett-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bennett Greene 1223819"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Greenway",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1997-02-16T00:00:00",
+        "hometown": {
+          "city": "Canton",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 44.6006,
+          "longitude": -75.1727
+        },
+        "education": "Shattuck-Saint Mary's (Faribault, Minnesota) ’13; USA Hockey National Team Development Program (Ann Arbor, Mich.) Boston University, General Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Sharon Sullivan</li><li>Has one brother, JD</li><li>Selected by the Minnesota Wild in the second round (50th overall) of the 2015 NHL Draft</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 IIHF World Junior Championship, gold</li>\r\n                            <li>2015 IIHF Men&#39;s Under-18 World Championship, gold</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5>More</h5>USA Hockey<h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 5th (Team - Men)</li><li>Years of participation: Team - Men 2017</li><li>Top finish: 5th – 2017 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716445/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jordan%20Greenway%20993060/greenway_jordan_123116_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716446/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jordan%20Greenway%20993060/Greenway_Jordan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jordan Greenway 993060"
+        }
+      ]
+    },
+    {
+      "first_name": "Dustin",
+      "last_name": "Greenwood",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1986-05-31T00:00:00",
+        "hometown": {
+          "city": "Palmyra",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 37.9254,
+          "longitude": -78.2439
+        },
+        "education": "Concord University, Bachelor's of Science in Sport Management; Virginia Technical University, Masters of Science in Health Promotions",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span>He was a strength and conditioning graduate assistant with Virginia Tech athletics from 2009-2011</span></li><li>He was a walk on in college, for track and field and football, but was named team captain on the football team and contended for conference track and field athlete of the year</li><li>He&nbsp;attended Fluvanna County High School, home of the Flying Flucos</li><li>Fluvanna has been in contention for the worst mascot in the nation, but he loves being a Fluco and wouldn't change it</li></ul><h5><span><strong>Career Highlights</strong></span></h5><ul><li>2016-2017 North American Cup in two-man - 12th in Park City #1 (1/17); 14th in Park City #2 (1/17)</li><li>2015-2016 North American Cup in four-person for pilot Dakarai Kongela -&nbsp;4th in Park City #1 (2/16); BRONZE in Park City #2 (2/16)</li><li>2015-2016 North American Cup in four-person for pilot Geoff Gadbois - 9th in Calgary #1 (11/15); 8th in Calgary #2 (11/15); 8th in Calgary #3 (11/15)</li><li>2014-2015 World Cup in four-person for pilot Codie Bascue - 19th in Igls (2/15)</li><li>2014-2015 World Cup in four-person for pilot Nick Cunningham&nbsp;- 17th in Altenberg (1/15)</li><li>2014-2015 World Cup in four-person for&nbsp;pilot Elana Meyers Taylor - 16th in Calgary (12/14)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927805/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dustin%20Greenwood/Greenwood.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dustin Greenwood"
+        }
+      ]
+    },
+    {
+      "first_name": "Danielle",
+      "last_name": "Grega",
+      "bio": {
+        "height": "5' 3\"",
+        "birthday": "1996-07-02T00:00:00",
+        "hometown": {
+          "city": "Kingston",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 41.2595,
+          "longitude": -75.8955
+        },
+        "education": "Wyoming Valley West ('14) Old Dominion University ('17)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Dave and Diane Grega</li><li>Has a brother David</li><li>Game Day Mantra: &quot;Clearer mind, better performance.&quot;</li><li>Favorite Sports Quote: &quot;Never let the fear of striking out get in your way.&quot; - Babe Ruth</li><li>Best Words of Advice: &quot;Do what you love, love what you do.&quot;</li><li>Started playing the sport the summer after her 6th grade year, when she attended her high school&#39;s summer camp. Her mom convinced her to play since she played in high school.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Women)</li><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Bronze - 2019 Pan American Games (Lima, Peru)</li><li>4th - 2022 Pan American Cup (Santiago, Chile)</li><li>9th - 2020-21 FIH Pro League (worldwide)</li><li>9th - 2019 FIH Pro League (worldwide)</li><li>9th - 2021-22 FIH Pro League (worldwide)</li><li>2019 FIH Hockey Olympic Qualifier (Bhubaneswar, India)</li><li>2022-23 FIH Pro League (worldwide)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011629/TeamUSA%20Assets/Athlete%20Profiles/Danielle%20Grega%201126723/Grega_1200x514.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011630/TeamUSA%20Assets/Athlete%20Profiles/Danielle%20Grega%201126723/Grega_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Danielle Grega 1126723"
+        }
+      ]
+    },
+    {
+      "first_name": "Meghan",
+      "last_name": "Gregg",
+      "bio": {
+        "height": "A FEW ACCOMPLISHMENTS\n2015 Junior Women's National Team member",
+        "birthday": "1995-07-14T00:00:00",
+        "hometown": {
+          "city": "Williamson",
+          "state": "GA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": " University of Tennessee",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: arial; font-size: 18px;\"># 55<img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\" style=\"width: 100px; height: 100px; float: right;\">&nbsp;<img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\" style=\"height: 100px; width: 100px; float: right;\"><br>\nHeight: 5'9\"<br>\nPosition: Infield<br>\nB/T: L/R<br>\nHometown: Williamson, Ga.<br>\nSchool: Tennessee<br>\nGraduation: 2018</span></p>\n<span style=\"font-size: 18px; font-family: arial;\"><strong><span style=\"color: #262626;\">A FEW ACCOMPLISHMENTS</span></strong><br>\n2015 Junior Women's National Team member<br>\n</span>\n<div class=\"DataText\"><span style=\"font-family: arial; font-size: 18px;\">2015 All-SEC Freshman Team<br>\n2015 NFCA Freshman of the Year Top 25 Finalist<br>\n</span></div>\n<p><strong><span style=\"font-family: arial; font-size: 18px;\"><img alt=\"\" height=\"313\" width=\"500\" src=\"/-/media/USA_Softball/Images/Womens-National-Team/2016/Updated-bio-photos/Elite/GreggMeghan.jpg?la=en&amp;hash=742157520D107B8A3D6883457D7912C37F5603E4\"><br>\n</span></strong></p>\n<span style=\"font-family: arial;\"><span style=\"font-size: 18px;\"><strong><span style=\"color: #7f7f7f;\">EXPERIENCE</span></strong><br>\n<strong>2015 Junior Women's National Team Member</strong><br>\n- World Cup of Softball participant<br>\n<strong>&nbsp;</strong>- Hit .143 (2-for-14) with three RBI and two runs scored<br>\n<br>\n</span><span style=\"font-family: arial;\"><span style=\"font-size: 18px;\"><strong><span style=\"color: #7f7f7f;\">AT TENNESSEE</span></strong><br>\nNFCA All-America Scholar athlete (2015)<br>\nAll-SEC Freshman Team (2015)<br>\nSEC All-Tournament Team (2015)<br>\nTop 25 Finalist for NFCA Freshman of the Year (2015)<br>\n<br>\n</span><span style=\"font-family: arial; font-size: 18px;\"><strong><span style=\"color: #7f7f7f;\">GETTING TO KNOW GREGG</span></strong><br>\n<strong>Parents: </strong>Kathy &amp; Brad Gregg<br>\n<strong>Siblings: </strong>One brother, Stuart<br>\n<strong>Pets: </strong>Four cats<br>\n<strong>Favorite sport besides softball: </strong>Basketball<br>\n<strong>What it means to represent the United States: </strong>To be able to represent the United States in softball is such an honor. To have those letters across my chest has been my dream since I was a little girl and to make it a reality is just amazing. I have always looked up to players on the USA team and now I will be living that awesome opportunity. <br>\n<strong>What do you enjoy the most about softball:</strong>Playing softball is not only my hobby but also a huge part of my life. I have grown up in a very competitive family and loved sports. What I enjoy most about softball is the competiveness it brings. The results from that are the emotions that are created from playing the game. Nothing can compare to helping your team when they need it the most or knowing that I left all I had on the field for my teammates. <br>\n<strong>Who has been the biggest supporter of your career: </strong>This question cannot be answered with only person. My parents and grandparents are my biggest fans. I don&rsquo;t remember a time that they have not been at a game in all my years growing up. They all have sacrificed so much time and effort for me to get where I am today. I am so thankful for my family. <br>\n<strong>Why she chose to attend Tennessee: </strong> I fell in love with how the women&rsquo;s athletics were so important to the university. I also loved Ralph and Karen. Their coaching style was what I was used to. <br>\n<br>\n<span style=\"color: #7f7f7f;\"><strong>TRIPLE PLAY:</strong></span><br>\n<strong>Three people I'd love to have dinner with: </strong>Ellen DeGeneres, Melissa McCarthy, and Sandra Bullock <br>\n<strong>Three things I hate doing: </strong>timed running, riding in elevators with strangers, making my bed<br>\n<strong>Three things I love doing: </strong>having girls&rsquo; night, watching Sons of Anarchy, shopping<br>\n<strong>Three TV characters I wish were real so I could hang out with them:&nbsp;</strong>Jax Teller, Christian Gray, Damon Salvatore<br>\n<strong>Three favorite TV Shows: </strong>Orange is the New Black, Sons of Anarchy, The Following<br>\n<strong>Three favorite books: </strong>Great Gatsby, A Time to Kill, The Lucky One<br>\n<strong>Three favorite websites: </strong>Google, Netflix, Youtube<br>\n</span>\n<br>\n</span></span><h5>Career Highlights</h5><ul><li>World Cup, Irvine, 2015 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716474/TeamUSA%20Assets/Migration/Athlete%20Profiles/Meghan%20Gregg%20993476/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716477/TeamUSA%20Assets/Migration/Athlete%20Profiles/Meghan%20Gregg%20993476/GreggMeghan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Meghan Gregg 993476"
+        }
+      ]
+    },
+    {
+      "first_name": "Johnny",
+      "last_name": "Gregorek",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1991-12-07T00:00:00",
+        "hometown": {
+          "city": "Seekonk, Mass",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 41.8,
+          "longitude": -71.3333
+        },
+        "education": "Seekonk High School (Seekonk, Mass.) ‘10 Columbia University ‘14, History and Business Management; University of Oregon ’16, Public Administration (M.A.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Christine Gregorek</li><li>Has two siblings, Patrick and Rachel</li><li>Married to Amy Gregorek</li><li>He and his father are the fastest father-son miler duo in history with an average time of 3:50.60 between them</li><li>Has a pet rabbit named Yoda</li><li>Hobbies include playing guitar, reading, attending concerts, watching movies, traveling, watching Boston sports, dancing and cooking.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 9th (1500m - Men)</li><li>Years of participation: 1500m - Men 2017</li><li>Top finish: 9th – 2017 (1500m - Men)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (1500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927703/TeamUSA%20Assets/Migration/Athlete%20Profiles/Johnny%20Gregorek/Gregorek_J.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Johnny Gregorek"
+        }
+      ]
+    }
+  ]
+}

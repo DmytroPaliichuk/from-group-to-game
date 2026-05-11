@@ -1,0 +1,976 @@
+{
+  "entries": [
+    {
+      "first_name": "David",
+      "last_name": "Smith",
+      "bio": {
+        "height": "6'7 \"",
+        "birthday": "1985-05-15T00:00:00",
+        "hometown": {
+          "city": "Saugus",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4,
+          "longitude": -118.5
+        },
+        "education": "University of California Irvine",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Rick and Nancy</li><li>Has an older brother, Robert, and a younger sister, Kristen</li><li>David married wife, Kelli in 2008</li><li>Son, Cohen, was born in 2012</li><li>Daughter, Amelie, was born in 2018</li><li>David was born with mild-to-severe hearing loss</li><li>Wears hearing aids to assist him on and off the court and also reads lips</li><li>Mexican is his favorite food</li><li>The Bible is his favorite book</li><li>Favorite bands are Supertones and Switchfoot</li><li>Enjoys music, golf, watching sports and hanging out with his family</li><li>Admires his parents for their unwavering support and love.</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li><li>Olympic Games Tokyo 2020, 10th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Men)</li><li>Olympic Games London 2012, 5th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul><h5>More</h5>USA Volleyball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697153253/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Smith/smith_d_bio_910648.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697153374/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Smith/smith_d_hero_910648.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361311/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Smith/2017-David-Smith.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Smith"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Nathan",
+      "last_name": "Smith",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1998-10-19T00:00:00",
+        "hometown": {
+          "city": "Hudson",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.3597,
+          "longitude": -82.6843
+        },
+        "education": "Minnesota State University ‘23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Selected in the third round (91st overall) by Winnipeg in 2018 National Hockey League entry draft.<h5>Career Highlights</h5><ul><li>2021 NCAA (WCHA) Champion</li><li>2020 NCAA (WCHA) Champion</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362528/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nathan%20Smith/smithnathanHeadshot2022150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nathan Smith"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Clark",
+      "last_name": "Smith",
+      "bio": {
+        "height": "6'9\"",
+        "birthday": "1995-04-17T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "Regis Jesuit High School (Aurora, Colo.) ‘13 University of Texas ‘17, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Tori Smith</li><li>Has two sisters, Meagan and Samantha</li><li>Mother, Tori, represented Team USA at the Los Angeles 1984 Olympic Games in swimming.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 NCAA Championships, 1st (500-yard free)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 200m Freestyle Relay - Men)</li></ul></ul><h5>More</h5>USA Swimming<br><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – bronze (4 x 200m Freestyle Relay - Men), 10th (800m Freestyle - Men), 12th (400m Freestyle - Men)</li><li>Years of participation: 4 x 200m Freestyle Relay - Men 2017; 400m Freestyle - Men 2017; 800m Freestyle - Men 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (4 x 200m Freestyle Relay - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718941/TeamUSA%20Assets/Migration/Athlete%20Profiles/Clark%20Smith%20922050/smith_clark_060217_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718943/TeamUSA%20Assets/Migration/Athlete%20Profiles/Clark%20Smith%20922050/Smith_Clark_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Clark Smith 922050"
+        }
+      ]
+    },
+    {
+      "first_name": "T.C.",
+      "last_name": "Smith",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1999-03-24T00:00:00",
+        "hometown": {
+          "city": "Louisville",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 38.2527,
+          "longitude": -85.7585
+        },
+        "education": "University of Louisville ‘21, Accounting, Finance",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Son of DeAnn Ross and Mike Smith.<h5>Career Highlights</h5><ul>\r\n                            <li>2018 ACC Championships, 7th (1,650 freestyle)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361364/TeamUSA%20Assets/Migration/Athlete%20Profiles/T.C.%20Smith/Smith_TC.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "T.C. Smith"
+        }
+      ]
+    },
+    {
+      "first_name": "Dee",
+      "last_name": "Smith",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1952-08-20T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "West Valley College ’71, Engineering ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>While competing with an America’s Cup challenger syndicate in 2007, Smith was diagnosed with stage four lung cancer, a condition that also impacted his spine. Smith was given less than a year to live by his doctors, but was able to beat the odds. Nevertheless, he was left with significantly reduced mobility as a result of spinal damage. A subsequent bicycle accident also left him with a permanent injury to one of his legs. He was classified as a Paralympic-class competitor in the spring of 2015</li><li>Son of Peter and Lu Smith</li><li>Has two brothers, Bob and David, and two sisters, Marianne and Noelani</li><li>Married to Jocelyn Smith</li><li>Has one daughter, Tanea, and one son, Jesse</li><li>Hobbies include sailing and cycling</li><li>Founded Dee Smith Yacht Racing in 1988 in Annapolis, Maryland</li><li>Along with racing for Dee Smith Yacht Racing, he also coaches and does project management.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 4th (Single-Person Keelboat - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – gold (Single-Person Keelboat - Open)</li><li>Years of participation: Single-Person Keelboat - Open 2017, 2018, 2022; Single-Person Keelboat - Mixed 2015, 2016</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2022 (Single-Person Keelboat - Open)</li><li>Bronze – 2018 (Single-Person Keelboat - Open)</li></ul></ul><h5>More</h5><p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "2.4mR",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361324/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dee%20Smith/Smith_Dee_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dee Smith"
+        }
+      ]
+    },
+    {
+      "first_name": "Austen",
+      "last_name": "Smith",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2001-07-23T00:00:00",
+        "hometown": {
+          "city": "Keller",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.9401,
+          "longitude": -97.2347
+        },
+        "education": "The University of Texas at Arlington",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Made her first Olympic team at just 18 years old. She was the youngest member of USA Shooting at the Olympic Games Tokyo 2020</li><li>Had been shooting for 6 years prior to making her first Olympic games in 2020.</li><li>Studies Aerospace Engineering at the University of Texas at Arlington</li><li>Coached by two-time Olympic Champion, Vincent Hancock</li><li>Hobbies include reading, drawing and listening to music</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Paris 2024, silver (Skeet - Team - Mixed), bronze (Skeet - Women)</li><li>Olympic Games Tokyo 2020, 10th (Skeet - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (Skeet - Team - Mixed), 5th (Skeet - Women)</li><li>Years of participation: Skeet - Team - Mixed 2023; Skeet - Women 2022, 2023; Skeet - Team - Women 2022</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2023 (Skeet - Team - Mixed);  2022 (Skeet - Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1710952927/TeamUSA%20Assets/Athlete%20Profiles/Austen%20Smith%201147775/Smith_a_bio_1147775_01.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1710953134/TeamUSA%20Assets/Athlete%20Profiles/Austen%20Smith%201147775/Smith_a_hero_1147775.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1710952927/TeamUSA%20Assets/Athlete%20Profiles/Austen%20Smith%201147775/Smith_a_thumbnail_1147775.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711562713/TeamUSA%20Assets/Athlete%20Profiles/Austen%20Smith%201147775/Smith_a_thumnail_1147775.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Austen Smith 1147775"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Shooting"
+        }
+      ]
+    },
+    {
+      "first_name": "Liam",
+      "last_name": "Smith",
+      "bio": {
+        "height": "4'8\"",
+        "birthday": "2003-03-04T00:00:00",
+        "hometown": {
+          "city": "Rockford",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.12,
+          "longitude": -85.5564
+        },
+        "education": "Rockford High School (Rockford, Mich.) '21",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Smith was born with hypochondroplasia. Growing up, he enjoyed swimming and his first meet was at the 2013 World Dwarf Games. Since joining his high school varsity swim team, he has set multiple Paralympic American records in the pool and qualified for the U.S. Paralympics Swimming National Team</li><li>Son of Laura Fogle and Aric Smith</li><li>Has one sister, Alanna</li><li>Other activities include Boy Scouts</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (100m Breaststroke SB7 - Men, 100m Freestyle S7 - Men, 4 x 100m Freestyle Relay 34 Points - Men, 50m Butterfly S7 - Men, 50m Freestyle S7 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S7, SB7, SM7",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361277/TeamUSA%20Assets/Migration/Athlete%20Profiles/Liam%20Smith/smith_liam.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Liam Smith"
+        }
+      ]
+    },
+    {
+      "first_name": "Michal",
+      "last_name": "Smolen",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1993-09-13T00:00:00",
+        "hometown": {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.2271,
+          "longitude": -80.8431
+        },
+        "education": " DeVry University '22, Business Communications",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Nickname is &quot;Meesh&quot;</li><li>Was born and raised in Krakow, Poland until he was 10 years old</li><li>Hobbies include playing guitar, traveling and coaching</li><li>His dad, Rafal Smolen, was on the Polish National Team</li><li>His mother was on the Polish national team for handball</li><li>Role Model is Campbell Walsh</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 U.S. Team Trials: 1st </li>\r\n                            <li>2021 World Cup (Prague): 5th</li>\r\n                            <li>2021 World Cup (Markkleeberg, Germany): 7th</li>\r\n                            <li>2019 U.S. Team Trials: 1st</li>\r\n                            <li>2017 World Cup (Ivera, Italy): 2nd in K1</li>\r\n                            <li>2017 Oceania Championships: 1st</li>\r\n                            <li>2016 World Cup No. 5: 9th</li>\r\n                            <li>2016 World Cup No. 4: 10th</li>\r\n                            <li>2016 U.S. Olympic Team Trials: 1st in K1 and 2nd in C2 with Zach Lokken</li>\r\n                            <li>2015 Pan American Games: GOLD</li>\r\n                            <li>2014 World Cup No. 4: 12th </li>\r\n                            <li>2014 World Cup No. 3: BRONZE</li>\r\n                            <li>2013 World Cup Final: 39th, SILVER in Team K1</li>\r\n                            <li>2012 U.S. National Champion in K1</li>\r\n                            <li>2012 US Olympic Team Trials: 2nd</li>\r\n                            <li>2011 Vadja Teen Cup: FIRST overall</li>\r\n                            <li>2010 Junior World Championships: 4th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 5th (K1 - Men)</li><li>Olympic Games Rio de Janeiro 2016, 12th (K1 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 9th (CSLX - Men)</li><li>Years of participation: CSLX - Men 2017, 2019; K1 - Men 2017; K1 Team - Men 2017</li><li>Top finish: 6th – 2017 (CSLX - Men)</li></ul><h5>More</h5><p>American Canoe Association Bio</p>\n<p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009160/TeamUSA%20Assets/Athlete%20Profiles/Michal%20Smolen%20907242/MichalSmolen.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michal Smolen 907242"
+        }
+      ]
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Smoliga",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1994-10-12T00:00:00",
+        "hometown": {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        },
+        "education": "University of Georgia ’17, Exercise and Sport Science",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Elizabeth and Tom Smoliga</li><li>Named 2013 Swimming World Magazine Female High School Swimmer of the Year</li><li>Hobbies include cooking, sleeping, and Wii sports.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (4 x 100m Freestyle Relay - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Medley Relay - Women), 6th (100m Backstroke - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2023 – silver (4 x 100m Freestyle Relay - Mixed, 4 x 100m Freestyle Relay - Women)</li><li>Years of participation: 4 x 100m Freestyle Relay - Mixed 2023; 4 x 100m Freestyle Relay - Women 2017, 2023; 100m Backstroke (SC) - Women 2012, 2018; 4 x 100m Freestyle Relay (SC) - Women 2012, 2018; 4 x 100m Medley Relay (SC) - Women 2012, 2018; 4 x 50m Freestyle Relay (SC) - Mixed 2018; 4 x 50m Freestyle Relay (SC) - Women 2018; 4 x 50m Medley Relay (SC) - Mixed 2018; 4 x 50m Medley Relay (SC) - Women 2018; 50m Backstroke (SC) - Women 2012, 2018; 100m Backstroke - Women 2017; 4 x 100m Medley Relay - Women 2017</li><li>Medals: 16 (12 gold, 3 silver, 1 bronze)</li><ul><li>Gold – 2018 (100m Backstroke (SC) - Women, 4 x 100m Freestyle Relay (SC) - Women, 4 x 100m Medley Relay (SC) - Women, 4 x 50m Freestyle Relay (SC) - Mixed, 4 x 50m Freestyle Relay (SC) - Women, 4 x 50m Medley Relay (SC) - Mixed, 4 x 50m Medley Relay (SC) - Women, 50m Backstroke (SC) - Women);  2017 (4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women);  2012 (100m Backstroke (SC) - Women, 4 x 100m Freestyle Relay (SC) - Women)</li><li>Silver – 2023 (4 x 100m Freestyle Relay - Mixed, 4 x 100m Freestyle Relay - Women);  2012 (50m Backstroke (SC) - Women)</li><li>Bronze – 2012 (4 x 100m Medley Relay (SC) - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009166/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Smoliga%20824952/smoliga_olivia_080716_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009167/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Smoliga%20824952/smologa_olivia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olivia Smoliga 824952"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylon",
+      "last_name": "Snow",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1999-09-17T00:00:00",
+        "hometown": {
+          "city": "Chino Hills",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9995,
+          "longitude": -117.7667
+        },
+        "education": "Chino Hills High School Auburn University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her favorite activities include hiking, fishing, and shopping</li><li>Her role models are her parents</li><li>Her goals in life include becoming a great role model and succeeding</li><li>Three words that her friends would use to describe her would be energetic, sweet, and funny</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championship, Clearwater, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>WBSC Junior Women's World Championship Gold Medalist; Hit .625 (5-8) with six runs scored and one RBI</li></ul><h5>More</h5><p><strong>What it means to represent the United States:</strong></p>\n<p>Being able to represent the U.S. is incredible. I have always dreamed of wearing USA across my chest and now have been given the opportunity to do so, and the feeling is unexplainable.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718973/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylon%20Snow%201086128/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718975/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylon%20Snow%201086128/SnowTaylon.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylon Snow 1086128"
+        }
+      ]
+    },
+    {
+      "first_name": "Bradley",
+      "last_name": "Snyder",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1984-02-29T00:00:00",
+        "hometown": {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.2904,
+          "longitude": -76.6122
+        },
+        "education": "Northeast High School (St. Petersburg, Florida.) ‘02 U.S. Naval Academy ‘06, Naval Architecture",
+        "fun_fact": null,
+        "biography": "<strong>Sports: </strong>Paratriathlon, Swimming<br>\n<br>\n<h5>Career Highlights</h5>2020 Tokyo Paralympic Games gold medalist<br>\n2021 Americas Triathlon Para Championships Pleasant Prairie gold medalist<br>\n2019 Yokohama ITU World Paratriathlon Series bronze medalist<br>\n2019 Banyoles ITU Paratriathlon World Cup bronze medalist<br>\nTwo-time Sarasota-Bradenton CAMTRI Paratriathlon American Championships bronze medalist (2018, 2019)<br>\nSeven-time Paralympic medalist in swimming, Paralympic Games London 2012 and Rio 2016 (5 golds, 2 silvers)<br>\n<br>\n<h5>Quick Facts</h5>Growing up on the beach in Florida made swimming a natural activity for Snyder. He swam for his high school, and at the U.S. Naval Academy where he captained the swim team in 2005-06. On September 7, 2011, he was blinded after stepping on an improvised explosive device (IED) while serving in the U.S. Navy in Kandahar, Afghanistan. The bomb did not affect his arms or legs, but his eyes had to be removed and replaced with prosthetics. One year to the date after losing his vision, Snyder took gold in the men&rsquo;s S11 400m freestyle at the London 2012 Paralympic Games. In London, he also won gold in the 100m free and silver in the 50m free. Snyder was chosen as the honorary torchbearer for the opening ceremony of the 2013 Warrior Games. In 2016, he competed at his second Paralympic Games in Rio de Janeiro, winning three more swimming golds in the 50m, 100m and 400m freestyle events and adding a silver in the 100m backstroke. In 2018, Snyder announced his transition from swimming to paratriathlon. Shortly after switching sports, he earned his first ITU World Paratriathlon Series medal, a bronze at the May 2019 stop in Yokohama, Japan. He earned his first victory in an elite international paratriathlon race in 2021 at the World Triathlon Para Championships in Pleasant Prairie, Wisconsin. He then went on to win his first Paralympic gold medal as a paratriathlete at the 2020 Tokyo Paralympic Games. Snyder is the son of Valarie Snyder, who resides in Chattanooga, Tennessee, with his wife Sara. In 2021, Snyder and his wife announced they were pregnant with their first child, due in March 2022. He is the oldest of four children. He has two younger brothers and a younger sister.&nbsp;<br>\n<br>\n<strong>Elite Triathlon Career<br>\n<br>\n2021:&nbsp;</strong>Placed seventh at the AJ Bell World Triathlon Para Series Leeds (June 5) &nbsp;&bull; Won the Americas Triathlon Para Championships in Pleasant Prairie, Wisconsin (June 27)&nbsp;&bull; Won his first-ever Paralympic gold medal in paratriathlon at the 2020 Tokyo Paralympic Games alongside his guide, former 2016 Rio Olympian Greg Billington (Aug. 28)<br>\n<br>\n<strong>2019:&nbsp;</strong>Earned a bronze medal at the Sarasota-Bradenton CAMTRI Paratriathlon American Championships (March 9) &bull; Earned his first ITU World Paratriathlon Series medal, a bronze in Yokohama, Japan, (May 18) &bull; Placed fourth at the Groupe Copley World Paratriathlon Series Montreal (June 28) &bull; Took sixth in his ITU World Paratriathlon Championships debut in Lausanne, Switzerland (Sept. 1)<br>\n<strong><br>\n2018: </strong>In his first-ever race as an elite paratriathlete, took bronze at the Sarasota-Bradenton CAMTRI Paratriathlon American Championships (March 10) &bull; Placed fifth at the ITU World Paratriathlon Series event in Yokohama, Japan (May 12) &bull; Placed fourth at the Sarasota-Bradenton ITU Paratriathlon World Cup (Oct. 14)<h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 8-time Paralympic medalist (6 gold, 2 silver)</li><ul><li>Paralympic Games Tokyo 2020, gold (PTVI - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (100m Freestyle S11 - Men, 400m Freestyle S11 - Men, 50m Freestyle S11 - Men), silver (100m Backstroke S11 - Men), 4th (100m Butterfly S11 - Men)</li><li>Paralympic Games London 2012, gold (100m Freestyle S11 - Men, 400m Freestyle S11 - Men), silver (50m Freestyle S11 - Men), 4th (100m Butterfly S11 - Men), 5th (100m Backstroke S11 - Men), 6th (100m Breaststroke SB11 - Men, 200m Individual Medley SM11 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 6th (PTVI - Men)</li><li>Years of participation: PTVI - Men 2019; 100m Freestyle S11 - Men 2015; 400m Freestyle S11 - Men 2015; 50m Freestyle S11 - Men 2015</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2015 (100m Freestyle S11 - Men, 400m Freestyle S11 - Men, 50m Freestyle S11 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 6,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009191/TeamUSA%20Assets/Athlete%20Profiles/Bradley%20Snyder%20878487/Snyder_Brad_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bradley Snyder 878487"
+        }
+      ]
+    },
+    {
+      "first_name": "Renee",
+      "last_name": "Snyder",
+      "bio": {
+        "height": "5’7",
+        "birthday": "1980-12-15T00:00:00",
+        "hometown": {
+          "city": "Anaheim",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8366,
+          "longitude": -117.9143
+        },
+        "education": "Mater Dei High School California State University, Dominguez Hills & California State University, Long Beach",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jan and Jack</li><li>Has two older brothers, Jack Jr. and Eric</li><li>Earned her Masters Degree in Physical Therapy from CSULB</li><li>Earned 1st Team All Region, All Conference honors in 2003 for CSUDH Women’s Softball</li><li>2003 CCAA Conference Champion with CSUDH Women’s Softball</li><li>1998 CIF Division I Softball Champion.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 ANOC World Beach Games - 10th (Doha, Qatar)</li>\r\n                            <li>2019 North American &amp; Caribbean Handball Confederation (NORCA) Championships - 1st (Trinidad &amp; Tobago)</li>\r\n                            <li>2019 So. Cal Beach Handball Championships - 2nd</li>\r\n                            <li>2019 Paros Beach Handball Tournament - 3rd (Paros, Greece)</li>\r\n                            <li>2018 Pan American Beach Handball Championships - 5th (Oceanside, California)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2018 IHF Beach Handball World Championships - 14th (Kazan, Russia)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718965/TeamUSA%20Assets/Migration/Athlete%20Profiles/Renee%20Snyder%201172877/Renee_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718966/TeamUSA%20Assets/Migration/Athlete%20Profiles/Renee%20Snyder%201172877/Renee_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Renee Snyder 1172877"
+        }
+      ]
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "Snyder",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1987-04-04T00:00:00",
+        "hometown": {
+          "city": "Wenatchee",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.4233,
+          "longitude": -120.31
+        },
+        "education": "Florida State University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div></div>\n<div><br>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2014 IBAF Women's Baseball World Cup, 2nd</li>\n    <li>2012&nbsp;IBAF Women's Baseball World Cup, 2nd<br>\n    </li>\n    <li>2009 ACC Softball Tournament, 2nd</li>\n    <li>2006 ACC Softball Tournament, 2nd</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Brian Snyder and Beverly Abraham</li><li>Played softball at Florida State University.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361376/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michelle%20Snyder/Baseball_Women_Snyder_Michelle.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michelle Snyder"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Brad",
+      "last_name": "Snyder",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1984-02-29T00:00:00",
+        "hometown": {
+          "city": "St. Petersburg",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.7676,
+          "longitude": -82.6403
+        },
+        "education": "United States Naval Academy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><p><span>Growing up on the beach in Florida made swimming a natural activity for Snyder. He swam for his high school and at the U.S. Naval Academy where he captained the swim team in 2005-06. On September 7, 2011, he was blinded after stepping on an improvised explosive device (IED) while serving in the U.S. Navy in Kandahar, Afghanistan. The bomb did not affect his arms or legs, but his eyes had to be removed and replaced with prosthetics. One year to the date after losing his vision, Snyder took gold in the men’s S11 400m freestyle at the London 2012 Paralympic Games. In London, he also won gold in the 100m free and silver in the 50m free. Snyder was chosen as the honorary torchbearer for the opening ceremony of the 2013 Warrior Games. In 2016, he competed at his second Paralympic Games in Rio de Janeiro, winning three more swimming golds in the 50m, 100m and 400m freestyle events and adding a silver in the 100m backstroke. In 2018, Snyder announced his transition from swimming to paratriathlon. Shortly after switching sports, he earned his first ITU World Paratriathlon Series medal, a bronze at the May 2019 stop in Yokohama, Japan. He won his first elite international paratriathlon race in 2021 at the World Triathlon Para Championships in Pleasant Prairie, Wisconsin. He then went on to win his first Paralympic gold medal as a paratriathlete at the Paralympic Games Tokyo 2020. Snyder is the son of Valarie Snyder and resides in Chattanooga, Tennessee, with his wife Sara. In 2022, Snyder and his wife welcomed their first child. He is the oldest of four children. He has two younger brothers and a younger sister.</span></p><p></p><h5>Career Highlights<br /></h5><ul><li>2020 Tokyo Paralympic Games gold medalist</li><li>2021 Americas Triathlon Para Championships Pleasant Prairie gold medalist</li><li>2019 Yokohama ITU World Paratriathlon Series bronze medalist</li><li>2019 Banyoles ITU Paratriathlon World Cup bronze medalist</li><li>Two-time Sarasota-Bradenton CAMTRI Paratriathlon American Championships bronze medalist (2018, 2019)</li><li>Seven-time Paralympic medalist in swimming, Paralympic Games London 2012 and Rio 2016 (5 golds, 2 silvers)</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 8-time Paralympic medalist (6 gold, 2 silver)<ul><li>Paralympic Games Tokyo 2020, gold (PTVI - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (100m Freestyle S11 - Men, 400m Freestyle S11 - Men, 50m Freestyle S11 - Men), silver (100m Backstroke S11 - Men), 4th (100m Butterfly S11 - Men)</li><li>Paralympic Games London 2012, gold (100m Freestyle S11 - Men, 400m Freestyle S11 - Men), silver (50m Freestyle S11 - Men), 4th (100m Butterfly S11 - Men), 5th (100m Backstroke S11 - Men), 6th (100m Breaststroke SB11 - Men, 200m Individual Medley SM11 - Men)</li></ul></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 6th (PTVI - Men)</li><li>Years of participation: PTVI - Men 2019; 100m Freestyle S11 - Men 2015; 400m Freestyle S11 - Men 2015; 50m Freestyle S11 - Men 2015</li><li>Medals: 3 (3 gold)<ul><li>Gold – 2015 (100m Freestyle S11 - Men, 400m Freestyle S11 - Men, 50m Freestyle S11 - Men)</li></ul></li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930251/NGB%20Triathlon/Elite%20Athlete%20Profiles/brad_snyder_Headshot.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 6,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662205/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/snyder_b_hero_878487.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361386/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brad%20Snyder/snyder_brad_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brad Snyder"
+        }
+      ]
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "So",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2002-05-05T00:00:00",
+        "hometown": {
+          "city": "Reston",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9687,
+          "longitude": -77.357
+        },
+        "education": " Salt Lake Community College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><p>When asked who his sports idol is, he responded with, “J.R. Celski and Thomas Hong. I grew up watching Jr Celski be the face of the US on tv. He was the hero I was always cheering for at the international level and he was at the skill level I was chasing for. Thomas Hong is a skater i’ve known since I was 5 years old. He was always the top skater in his age group and always won with ease. I was able to become teammates with him towards the end of his career and I received so much help from him.”</p><h5>World Championship Highlights</h5><p>2020 World Junior Championships - 3000m Relay 4th; 1000m15th; 500m 17th</p><p>2018 World Junior Championships - 3000m Relay 5th; Overall 41st</p><h5>National Team</h5><p>A member of the Short Track National Team from 2018-19 &amp; 2022-24</p><h5> World Championship Experience</h5><ul><li>Most recent: 2024 – 8th (5000m Relay - Men), 57th (1500m - Men)</li><li>Years of participation: 1500m - Men 2024; 5000m Relay - Men 2024</li><li>Top finish: 8th – 2024 (5000m Relay - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2020 (500m - Men, 1000m - Men)</li><li>World Junior Championships, Bormio, 2020 (3000m Relay - Men, 1000m - Men, 500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687372108/NGB%20Speedskating/Galleries/USCHMPSTSAT-184.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685549874/NGB%20Speedskating/Athlete%20Profiles/2023-24/Short%20Track/C59T3672.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685549874/NGB%20Speedskating/Athlete%20Profiles/2023-24/Short%20Track/C59T3672.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jonathan So 1108151"
+        }
+      ]
+    },
+    {
+      "first_name": "Hannah",
+      "last_name": "Soar",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1999-06-04T00:00:00",
+        "hometown": {
+          "city": "Killington",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 43.6656,
+          "longitude": -72.7798
+        },
+        "education": "Killington Mountain School (Killington, Vt.) University of Utah ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Hannah comes from a die-hard East Coast skiing family</li><li>She is an avid gravel cyclist and sunrise ski skinner</li><li>Is involved with Vermont Adaptive, their mission is to give the gift of sports to everybody, no matter their ability.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 7th (Moguls - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2023 – 4th (Dual Moguls - Women), 8th (Moguls - Women)</li><li>Years of participation: Dual Moguls - Women 2021, 2023; Moguls - Women 2021, 2023</li><li>Top finish: 4th – 2023 (Dual Moguls - Women)</li></ul><h5>More</h5>U.S. Ski and Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662006/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/H_Soar_bio_1084410.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662513/TeamUSA%20Assets/Athlete%20Profiles/Hannah%20Soar%201084410/H_Soar_hero_1084410.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004484/TeamUSA%20Assets/Athlete%20Profiles/Hannah%20Soar%201084410/soar_hannah_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hannah Soar 1084410"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    },
+    {
+      "first_name": "Darryl",
+      "last_name": "Sobering",
+      "bio": {
+        "height": "5'11",
+        "birthday": "1976-04-30T00:00:00",
+        "hometown": {
+          "city": "Littleton",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6133,
+          "longitude": -105.0166
+        },
+        "education": "University of Ottawa",
+        "fun_fact": "",
+        "biography": "<table><tbody><tr><td>&nbsp;Position:</td><td>&nbsp;</td><td>&nbsp;Skip</td></tr><tr><td>&nbsp;Teammates:</td><td>&nbsp;</td><td>&nbsp;Aaron Johnston,&nbsp;Evan Jaffe, Josh Chetwynd<br /></td></tr><tr><td>&nbsp;Resides:</td><td>&nbsp;</td><td>&nbsp;Littleton, Colo.</td></tr><tr><td>&nbsp;Hometown:</td><td>&nbsp;</td><td>&nbsp;Monkland, Ontario</td></tr><tr><td>&nbsp;Occupation:</td><td>&nbsp;</td><td>&nbsp;Real estate consultant<br /></td></tr><tr><td>&nbsp;Education:</td><td>&nbsp;</td><td>&nbsp;Bachelor of science degree from the University of Ottawa</td></tr><tr><td>&nbsp;Family:</td><td>&nbsp;</td><td>&nbsp;Married</td></tr><tr><td>&nbsp;Year started curling:</td><td>&nbsp;</td><td>&nbsp;1988</td></tr></tbody></table><br /><p><strong>Curling Highlights:</strong></p><ul><li><strong>U.S. National Championships</strong>: 2017</li></ul><p>Curls out of: Denver Curling Club</p><p><br /></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328511/TeamUSA%20Assets/Migration/Athlete%20Profiles/Darryl%20Sobering/Darryl.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Darryl Sobering"
+        }
+      ]
+    },
+    {
+      "first_name": "Jack",
+      "last_name": "Sock",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1992-09-24T00:00:00",
+        "hometown": {
+          "city": "Kansas City",
+          "state": "KS",
+          "country": "United States",
+          "latitude": 39.1141,
+          "longitude": -94.6275
+        },
+        "education": "Blue Valley High School (Stilwell, Kan.) ‘11 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Larry and Pamela Sock</li><li>Has one brother, Eric</li><li>Began playing tennis at age 8 when he found his mother’s racquet</li><li>Nicknames are “J. Sizzle” and “Showtime&quot;</li><li>Compiled a 80-0 record in high school, winning four consecutive state championships</li><li>Fan of the Kansas City Chiefs and Brooklyn Nets</li><li>Interests include playing golf and hanging out with friends</li><li>Prefers to play on hard or clay court surfaces, and considers his forehand to be his best shot</li><li>Favorite tournament is the US Open</li><li>Was recognized for his excellent sportsmanship when he corrected an umpire against his favor at the 2016 Hopman Cup.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 Australian Open, quarterfinals (doubles); second round (singles)</li>\r\n                            <li>2016 French Open, third round (singles)</li>\r\n                            <li>2016 Wimbledon, third round (singles)</li>\r\n                            <li>2015 French Open, quarterfinals (doubles)</li>\r\n                            <li>2015 Indian Wells, 1st (doubles)</li>\r\n                            <li>2015 Houston Open, 1st (singles)</li>\r\n                            <li>2014 Australian Open, second round (singles)</li>\r\n                            <li>2014 US Open, third round  (doubles)</li>\r\n                            <li>2014 Wimbledon, 1st (doubles)</li>\r\n                            <li>2013 US Open, third round (singles)</li>\r\n                            <li>2012 US Open, third round (singles)</li>\r\n                            <li>2011 US Open, 1st (mixed doubles)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Doubles - Mixed), bronze (Doubles - Men), 33th (Singles - Men)</li></ul></ul><h5>More</h5>ATP World Tour",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696887/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jack%20Sock%20858010/sock_jack_081216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696890/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jack%20Sock%20858010/Sock_Jack_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jack Sock 858010"
+        }
+      ]
+    }
+  ]
+}

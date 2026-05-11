@@ -1,0 +1,981 @@
+{
+  "entries": [
+    {
+      "first_name": "Maddie",
+      "last_name": "Bowman",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1994-01-10T00:00:00",
+        "hometown": {
+          "city": "South Lake Tahoe",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.9399,
+          "longitude": -119.9772
+        },
+        "education": "South Tahoe High School (South Lake Tahoe, Calif.) Westminster College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bill Bowman and Sue Perpall</li><li>Has one brother, Alec</li><li>Father competed for the U.S. National Alpine Ski Team</li><li>Played soccer through high school, winning a state championship</li><li>Hobbies include mountain biking, hiking and boating.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 FIS World Cup Standings, 5th (halfpipe)</li>\r\n                            <li>2017 X Games Aspen, 3rd (superpipe)</li>\r\n                            <li>2016 FIS World Cup Standings, 3rd (halfpipe)</li>\r\n                            <li>2016 X games Oslo, 2nd (superpipe)</li>\r\n                            <li>2016 X Games Aspen, 1st (superpipe)</li>\r\n                            <li>2015 X Games Aspen, 1st (superpipe)</li>\r\n                            <li>2014 FIS World Cup Standings, 2nd (halfpipe)</li>\r\n                            <li>2014 X Games Aspen,1st (superpipe)</li>\r\n                            <li>2013 X Games Tignes, 3rd (superpipe)</li>\r\n                            <li>2013 X Games Aspen, 1st (superpipe)</li>\r\n                            <li>2012 FIS World Cup Standings, 3rd (halfpipe)</li>\r\n                            <li>2012 X Games Aspen, 2nd (superpipe)</li>\r\n                            <li>2011 FIS World Cup Standings, 4th (halfpipe)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Pyeongchang 2018, 11th (Halfpipe - Women)</li><li>Olympic Games Sochi 2014, gold (Halfpipe - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 6th (Halfpipe - Women)</li><li>Years of participation: Halfpipe - Women 2013, 2017, 2019</li><li>Top finish:  – 2013 (Halfpipe - Women)</li></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920167/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maddie%20Bowman/bowman_maddie_020516_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920169/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maddie%20Bowman/bowman_maddie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maddie Bowman"
+        }
+      ]
+    },
+    {
+      "first_name": "Gillian",
+      "last_name": "Boxx",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1973-09-01T00:00:00",
+        "hometown": {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8358,
+          "longitude": -118.34
+        },
+        "education": " University of California Berkley",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Is the older sister of Shannon Boxx, a former member of the U.S. Women&#39;s National Soccer Team<h5>Career Highlights</h5><ul>\r\n                            <li>1998 American Challenge participant; Hit .353 (6-for-17) with five RBI and 10 runs scored</li>\r\n                            <li>1998 South Pacific Classic participant; Hit .286 (4-for-14) with two RBI, two home runs and four runs scored</li>\r\n                            <li>1997 American Challenge participant; Hit .375 (6-for-16) with two RBI and one run scored</li>\r\n                            <li>1997 Superball participant; Hit .231 (3-for-13) with one run scored</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Atlanta 1996, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 1998 – gold (Team - Women)</li><li>Years of participation: Team - Women 1994, 1998</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 1998 (Team - Women);  1994 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>1995:</strong>&nbsp;NFCA First Team All-American...First Team All-Pac-10</p>\n<p><strong>1994:</strong>&nbsp;NFCA Third Team All-American...First Team All-Pac-10</p>\n<p><strong>1993: </strong>NFCA First Team All-American...First Team All-Pac-10</p>\n<p><strong>1992:</strong>&nbsp;NFCA Second Team All-American...</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698492/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gillian%20Boxx%20914768/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698495/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gillian%20Boxx%20914768/Box_Gillian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gillian Boxx 914768"
+        }
+      ]
+    },
+    {
+      "first_name": "Koehn",
+      "last_name": "Boyd",
+      "bio": {
+        "height": "5’11”",
+        "birthday": "2009-02-05T00:00:00",
+        "hometown": {
+          "city": "Ramsey",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.2447,
+          "longitude": -93.4355
+        },
+        "education": "Enlightium Academy (High School Student)",
+        "fun_fact": "",
+        "biography": "<h3><strong>Quick Facts</strong></h3><p>• Began swimming at age 7 when a family friend invited him to join a summer league team<br />• Was born in Kirovohrad, Ukraine, and moved to the United States at age 2 before settling in Minnesota at age 8<br />• Overcame balance challenges and the absence of stomach muscles through swimming<br />• Broke 30 seconds in the 50 free at age 8, celebrating with his brother Robin through a family tradition of passing a rubber chicken between them based on who had the faster time<br />• Draws inspiration from Paralympic legend Jessica Long, Olympic champion Michael Phelps, his parents and coach Jeff Rodriguez<br />• Away from the pool, enjoys video games, traveling, biking, exploring new places, and watching <em>Big Brother</em> and <em>Survivor</em><br />• Loves <em>Star Wars</em> and lists the Bible among his favorite books<br />• Music playlist includes Lecrae and Morgan Wallen<br />• Owns a ball python named Noodles and has undergone 20 surgeries<br />• Family includes four siblings through adoption and foster care: Dre (24), Robin (16), Ryan (11), and Hannah (8)<br />• Goals include competing at the Paralympic Games, giving his best effort every race, and earning a spot on a Division I swim team</p><h3><strong>World Championships Experience</strong></h3><p><strong>Most Recent:</strong><br />• 2025 – Silver – 200 IM SM10 – Men; Silver – 400 Freestyle S10 – Men; 6th – 50 Freestyle S10 – Men; 5th – 100 Butterfly S10 – Men; 10th – 100 Freestyle S10 – Men; 6th – 4x100 Medley Relay 34 Points – Mixed</p><p><strong>Years of Participation:</strong><br />• 2025 – 200 IM SM10 – Men; 400 Freestyle S10 – Men; 50 Freestyle S10 – Men; 100 Butterfly S10 – Men; 100 Freestyle S10 – Men; 4x100 Medley Relay 34 Points – Mixed</p><p><strong>Medals:</strong> 2 (0 gold, 2 silver, 0 bronze)<br />• <strong>Silver</strong> – 2025 (200 IM SM10 – Men; 400 Freestyle S10 – Men)</p><p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769034912/20250925-180554-TWPSCH-024559-rku.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S10, SM10, SB9",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769034753/20250926-111741-TWPSCH-028906-rku.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769034711/20250922-201307-TWPSCH-011108-rku_1.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769034711/20250922-201307-TWPSCH-011108-rku_1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Para Swimming"
+        },
+        {
+          "title": "Koehn Boyd"
+        }
+      ]
+    },
+    {
+      "first_name": "Tristan",
+      "last_name": "Boyer",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "2001-04-21T00:00:00",
+        "hometown": {
+          "city": "Altadena",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1894,
+          "longitude": -118.1337
+        },
+        "education": "B&Z Sports ‘20 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Christopher Boyer</li><li>Started playing bass in a band with his friends at age 6</li><li>Hobbies include fishing and music.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Doubles - Mixed, Singles - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011987/TeamUSA%20Assets/Athlete%20Profiles/Tristan%20Boyer%201065087/boyer_tristan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tristan Boyer 1065087"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Boyle",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1993-11-13T00:00:00",
+        "hometown": {
+          "city": "Monroe",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.3333,
+          "longitude": -73.2333
+        },
+        "education": "Blessed Trinity High School (Roswell, Ga.) ‘11 University of Colorado - Colorado Springs ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>In October of 2003, Boyle acquired a traumatic brain injury. While riding a Big Wheel at a friend’s birthday party, he was hit and dragged by a pick-up truck causing him to immediately go into a coma. Emergency brain surgery was performed to save Boyle’s life, but he lost a portion of the back of his brain. At the age of 10, he had to learn to how to breath, swallow, talk, eat, stand, sit, walk – everything – all over again. Boyle wrote his own book titled, “When the Lights go Out: A Boy Given a Second Chance,” when he was only a freshman in high school. He is a resident athlete at the Olympic Training Center in Colorado Springs</li><li>Son of Matthew and Nancy Boyle</li><li>Has one brother, Matthew</li><li>Founding president of the St. Joseph High School Car Club and he also managed the boys’ varsity basketball team, was elected to the student council, was involved with the video production club and was a student ambassador</li><li>Moved to Georgia in January 2011 for better therapeutic opportunities</li><li>Has spoken at Blessed Trinity High School, Clemson University and at Safe America.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (T1-2 - Time Trial - Men), 4th (T1-2 - Road Race - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (T2 - Road Race - Men), bronze (T2 - Time Trial - Men)</li><li>Years of participation: T2 - Road Race - Men 2014, 2015, 2017, 2018, 2019; T2 - Time Trial - Men 2014, 2015, 2017, 2018, 2019</li><li>Medals: 8 (3 gold, 2 silver, 3 bronze)</li><ul><li>Gold – 2019 (T2 - Road Race - Men);  2018 (T2 - Road Race - Men, T2 - Time Trial - Men)</li><li>Silver – 2017 (T2 - Time Trial - Men);  2014 (T2 - Time Trial - Men)</li><li>Bronze – 2019 (T2 - Time Trial - Men);  2015 (T2 - Road Race - Men, T2 - Time Trial - Men)</li></ul></ul><h5>More</h5><p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "MT2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329014/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Boyle/Boyle_ryan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Boyle"
+        }
+      ]
+    },
+    {
+      "first_name": "Janie",
+      "last_name": "Boyle",
+      "bio": {
+        "height": "5' 8\"",
+        "birthday": "2001-06-07T00:00:00",
+        "hometown": {
+          "city": "Orange",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.46005,
+          "longitude": -81.44262
+        },
+        "education": " University of Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jim and Rebecca Boyle</li><li>Has a younger brother, John</li><li>Favorite dives are 407C and 5253D</li><li>Likes to be distracted between dives at competitions by going on TikTok or listening to music (her favorite is Meghan Thee Stallion)</li><li>She plans to go to medical school after diving, and she likes having homework to do at meets because it keeps her distracted from the meet itself</li><li>Would like to become an orthopedic surgeon</li><li>Was the 2018 and 2019 Ohio high school state champion in diving</li><li>Also played soccer and softball in high school</li><li>She also did gymnastics and was 5&#39;2&quot; when she quit and started diving; she then grew six inches in a year</li><li>If she could meet anyone, she would love to meet Barack Obama</li><li>Enjoys doing the NYT Daily Mini Crossword Puzzle, coloring on her iPad, and playing on her Nintendo Switch</li><li>Hopes to go to medical school and become an orthopedic surgeon</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004577/TeamUSA%20Assets/Athlete%20Profiles/Janie%20Boyle%201246288/Janie-Boyle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Janie Boyle 1246288"
+        }
+      ]
+    },
+    {
+      "first_name": "Reilly",
+      "last_name": "Boyt",
+      "bio": {
+        "height": "4'2\"",
+        "birthday": "1996-05-30T00:00:00",
+        "hometown": {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.5853,
+          "longitude": -105.0844
+        },
+        "education": "Poudre High School (Fort Collins, Colo.) ‘14 University of California-San Diego ’18, Marine Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Boyt took up swimming in 2005 at age nine with Team Vortex swimming team in Fort Collins, Colorado. She holds two Parapan American records, having made her senior international debut in 2008. She was named Colorado Swimming’s 2009 Disabled Swimmer of the Year. Boyt is a two-time Parapan American gold medalist, with two silvers and a bronze medal</li><li>Daughter of Richard and Maureen Boyt</li><li>Has one brother, Caiden</li><li>Hobbies include hiking, camping, reading, eating sushi and playing the ukulele</li><li>Has the same matching tattoo as her brother</li><li>Studied abroad in Spain</li><li>Has done research on bison, raccoons and pileated woodpeckers</li><li>Born in the same hospital as teammate Lindsay Grogan</li><li>Nickname is Ry Pie.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 6th (100m Breaststroke SB6 - Women), 9th (100m Backstroke S6 - Women, 200m Individual Medley SM6 - Women), 13th (400m Freestyle S6 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2013 – bronze (4 x 50m Medley Relay 20 Points - Women), 7th (100m Breaststroke SB6 - Women, 400m Freestyle S6 - Women), 8th (100m Backstroke S6 - Women, 200m Individual Medley SM6 - Women)</li><li>Years of participation: 100m Backstroke S6 - Women 2013; 100m Breaststroke SB6 - Women 2013; 200m Individual Medley SM6 - Women 2013; 4 x 50m Medley Relay 20 Points - Women 2013; 400m Freestyle S6 - Women 2013</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2013 (4 x 50m Medley Relay 20 Points - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698431/TeamUSA%20Assets/Migration/Athlete%20Profiles/Reilly%20Boyt%20829550/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S6, SB6, SM6",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698432/TeamUSA%20Assets/Migration/Athlete%20Profiles/Reilly%20Boyt%20829550/Boyt_Reilly_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Reilly Boyt 829550"
+        }
+      ]
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Bozek",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1991-03-27T00:00:00",
+        "hometown": {
+          "city": "Buffalo Grove",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.1667,
+          "longitude": -87.9667
+        },
+        "education": "University of Minnesota '13, Sport Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started skating at age 3</li><li>Played on a boys team in Bensenville</li><li>Majored in Sport Management</li><li>Has two older brothers</li><li>Served as a team captain for the Minnesota Golden Gophers.</li></ul><p></p><p>Most recent: 2021 – silver Years of Participation: 2012, 2013, 2016, 2017, 2019, 2021 Medals: 6 (4 golds, 2 silvers) </p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 silver)</li><ul><li>Olympic Games Beijing 2022, silver (Team - Women)</li><li>Olympic Games Sochi 2014, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – silver (Team - Women)</li><li>Years of participation: Team - Women 2012, 2013, 2016, 2017, 2019, 2021</li><li>Medals: 6 (4 gold, 2 silver)</li><ul><li>Gold – 2019 (Team - Women);  2017 (Team - Women);  2016 (Team - Women);  2013 (Team - Women)</li><li>Silver – 2021 (Team - Women);  2012 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661958/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bozek_m_bio_813669.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662108/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bozek_m_hero_813669.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004729/TeamUSA%20Assets/Athlete%20Profiles/Megan%20Bozek%20813669/bozek_megan_beijing_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megan Bozek 813669"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephen",
+      "last_name": "Bracken",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1988-06-26T00:00:00",
+        "hometown": {
+          "city": "Brighton",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.0389,
+          "longitude": -104.8044
+        },
+        "education": "Brighton High School",
+        "fun_fact": null,
+        "biography": "<h5>More</h5><p><strong>Most Notable</strong></p>\n<ul>\n    <li>Started playing sitting volleyball in April 2011</li>\n    <li>Came up through the A2 ranks to be part of U.S. Men's Sitting Volleyball Team</li>\n</ul>\n<p><strong>Major Competitions</strong></p>\n<ul>\n    <li><strong>2019:</strong> Parapan American Games (Silver)</li>\n    <li><strong>2018:</strong> Exhibitions vs Canada at USAV Open Nationals; Dutch Tournament</li>\n</ul>\n<p><strong>Physical Disability</strong>: Left Below the knee amputation</p>\n<ul>\n    <li>Injury suffered November 2016 while in Iraq on military duty</li>\n</ul>\n<p><strong>Path to the Sitting Volleyball National Team:</strong>: \"Sitting volleyball was a means of therapy when I was in recovery at San Antonio Medical Center in San Antonio, Texas.\" ... Came up through U.S. National Sitting Team A2 program.</p>\n<p><strong>Did You Know</strong></p>\n<ul>\n    <li>Was an Apache helicopter mechanic in the Army before starting to play sitting volleyball</li>\n    <li>Now retired from the Army and spends his days at the lake fishing. \"I go fishing eight days a week.\"</li>\n    <li>Was born in Frankfurt, Germany</li>\n</ul>\n<p><strong>Happiest Moment in Life:</strong> \"The birth of my two boys (Beckham and Cardin).\"</p>\n<p><strong>Favorites</strong></p>\n<ul>\n    <li><strong>Food:</strong> Sushi</li>\n    <li><strong>Music Type:</strong> Anything with a Good Beat</li>\n    <li><strong>Musical Group/Person</strong>: Frank Sinatra/Garth Brooks</li>\n    <li><strong>Movie:</strong> Braveheart</li>\n    <li><strong>Actor:</strong> Jim Carrey</li>\n    <li><strong>Team:</strong> Denver Broncos</li>\n    <li><strong>Athlete:</strong> J.J. Watt of Houston Texans</li>\n</ul>\n<p><strong>Most Admired Person:</strong> \"John Wayne (The Duke) because you darn know why!\"\n</p>\n<p><strong>Hobbies:</strong> fishing, hunting, video games</p>\n<p><strong>Personal:</strong> Parents are Kevin Bracken and Shelly Glidden ... Sisters are Megan Bracken and Amelia Glidden ... Childen ae Beckham Bracken and Cardin Bracken.</p><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (Team - Men)</li><li>ParaPan American Games, Changshu, 2015 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686915888/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephen%20Bracken/W1BrackenStephen.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephen Bracken"
+        }
+      ]
+    },
+    {
+      "first_name": "Clayton",
+      "last_name": "Brackett",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1993-01-15T00:00:00",
+        "hometown": {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6846,
+          "longitude": -117.8265
+        },
+        "education": "University of Alabama (Birmingham)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jennifer Hilborn and Craig Brackett. </li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (Team - Mixed)</li><li>ParaPan American Games, Toronto, 2015 (Team - Mixed)</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715355661/20231123_Clayton_Brackett_RUGBY_REIS_0018.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "3.0",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715355731/20231122_Clayton_Brackett_PARAPAN_RUGBY_REIS_0846.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715355661/20231123_Clayton_Brackett_RUGBY_REIS_0018.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Clayton Brackett 876953"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Marvin",
+      "last_name": "Bracy",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1993-12-15T00:00:00",
+        "hometown": {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.53834,
+          "longitude": -81.37924
+        },
+        "education": "Florida State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Asa Bracy</li><li>Recruited to play wide receiver for the Florida State University football team</li><li>Became a professional runner at age 19</li><li>While in high school, made ESPN SportsCenter’s top-10 plays.</li></ul><p></p><p>Years of <span>World Championships </span>participation: Indoor – 2014, 2016 (60m). Medals: 1 (silver). <span>Most recent: 2016 – 7th (60m).</span></p><h5>More</h5><p></p><p>USA Track &amp; Field</p><p></p><p></p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 14th (100m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – 7th (60m (Indoor) - Men)</li><li>Years of participation: 60m (Indoor) - Men 2016</li><li>Top finish: 7th – 2016 (60m (Indoor) - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662335/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bracy_M_Bio_Unknown.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662314/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bracy_M_Hero_Unknown.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916276/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marvin%20Bracy/Bracy_Marvin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marvin Bracy"
+        }
+      ]
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "Brady",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1995-04-12T00:00:00",
+        "hometown": {
+          "city": "Boca Raton",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.3587,
+          "longitude": -80.1013
+        },
+        "education": "University of California",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Elizabeth and Patrick</li><li>Has a twin sister Jessica</li><li>Started playing tennis at age seven</li><li>Her favorite tournament is Indian Wells, favorite Grand Slam is the Australian Open, and her favorite surface is clay</li><li>Tennis idols growing up were Justine Henin and Lleyton Hewitt</li><li>Enjoys spending time outdoors, listening to music and hanging with friends and family.</li></ul><h5>Career Highlights</h5><ul><li>Reached her first major final at the 2021 Australian Open, where she lost to Naomi Osaka</li><li>In 2020, recorded her first No. 1 victory over Maria Sharapova</li><li>Won one WTA singles title, one WTA doubles title as well as four singles and five doubles titles on the ITF Circuit.</li><li>Part of the UCLA team that won the 2014 NCAA National Championship</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 33th (Singles - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697130825/TeamUSA%20Assets/Athlete%20Profiles/Jennifer%20Brady%201194697/brady_j_bio_1153787.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697130974/TeamUSA%20Assets/Athlete%20Profiles/Jennifer%20Brady%201194697/brady_j_hero_1153787.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013434/TeamUSA%20Assets/Athlete%20Profiles/Jennifer%20Brady%201194697/brady_jennifer_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jennifer Brady 1194697"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Branagh",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1979-01-31T00:00:00",
+        "hometown": {
+          "city": "Orinda",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.8716,
+          "longitude": -122.1797
+        },
+        "education": "Minnesota, public relations/advertising",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Graduated from Minnesota with a degree in public relations/advertising</li><li>Spent a season as an assistant coach at Cal-State Fullerton. She began playing beach volleyball competitively in 2004</li><li>Nicole married her wife Jenn in 2013. The couple has two children, daughter Tegan (2013) and son Will (2016)</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Tied for fifth at the 2008 Beijing Olympic Games with Elaine Youngs, falling in the semifinals to the eventual bronze medalists from China</li>\r\n                            <li>Member of the Women&#39;s National Team from 2001-03 and played for the Pan Am Games bronze medal in 2003</li>\r\n                            <li>Nicole&#39;s career kill total at Minnesota was sixth in NCAA DI history, yet she played in fewer games than any of the top five</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW</li>\r\n                            <li>Has partnered with six Olympians through her career</li>\r\n                            <li>Returned to the FIVB World Tour in 2017 to partner with Kerri Walsh Jennings, their best finish being fourth in Olsztyn, Poland; played the FIVB World Championships with Emily Day</li>\r\n                            <li>In 2015, won the 2015 AVP Chicago Open with Jennifer Kropp, her first AVP win since 2010</li>\r\n                            <li>On the FIVB World Tour between 2011-15, best finish was fourth in 2012 with Lauren Fendrick in Thailand</li>\r\n                            <li>Teamed with Angie Akers and competed in 14 FIVB World Tour events in 2011. Their best finishes were fifth places in Sanya, China and Stare Jablonki, Poland</li>\r\n                            <li>In the final 2010 FIVB World Tour stop of the season, Nicole partnered with Kerri Walsh to win the Phuket Thailand Open. Nicole also partnered with Misty May-Treanor for nine FIVB World Tour events, finishing third in Stavanger, Norway and fourth and fifth place twice, respectively</li>\r\n                            <li>With Elaine Youngs in 2009, finished was second in Klagenfurt, Austria, third in Gstaad, Switzerland and fourth in Brazilia, Brazil. Duo won nine AVP tournaments in 2009, including the Manhattan Open</li>\r\n                            <li>Following the 2008 Olympic Games, Nicole partnered with fellow Olympian Kerri Walsh to win the FIVB beach tour event in Dubai. The pair went 6-0 and did not lose a set</li>\r\n                            <li>Nicole and partner Elaine Youngs, who were ranked fifth, finished tied for fifth at the 2008 Olympic Games, falling in the quarterfinals (17-21, 13-21) to the fourth-ranked Chinese team of Xue Chen and Zhang Xi, which went on to win the bronze medal</li>\r\n                            <li>Nicole and Elaine clinched the second U.S. women&#39;s beach volleyball Olympic spot at the FIVB World Tour Grand Slam event in Moscow on July 5. Although Branagh and Youngs won the silver medal, it actually secured enough points for the slot with a 21-17, 21-14 semifinal win over fourth-seeded Brazilians Talita Antunes and Renata Ribeiro</li>\r\n                            <li>Nicole and Elaine played in eight FIVB events in 2008 prior to the Olympic Games and won one gold medal (Barcelona), one silver (Moscow) and two bronze (Seoul and Paris)</li>\r\n                            <li>Between 2006-07 on the FIVB World Tour, Branagh finished with a silver and two bronze as best finishes, all with Elaine Youngs</li>\r\n                            <li>At Minnesota, was a two-year Second Team All-American and Big 10 Player of the Year in 2000</li>\r\n                            <li>First Team All-Conference her sophomore-senior years, honorable mention her freshman season</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 17th (Team - Women)</li><li>Years of participation: Team - Women 2007, 2009, 2011, 2017</li><li>Top finish: 5th – 2007 (Team - Women), 2009 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335861/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nicole%20Branagh/Nicole-Branagh-head-shot-2017.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicole Branagh"
+        }
+      ]
+    },
+    {
+      "first_name": "Hannah",
+      "last_name": "Brandt",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1993-11-27T00:00:00",
+        "hometown": {
+          "city": "Vadnais Heights",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0686,
+          "longitude": -93.0677
+        },
+        "education": "University of Minnesota ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Greg and Robin Brandt</li><li>Helped the University of Minnesota to three NCAA national championships</li><li>Older sister, Marissa, competed for the South Korean ice hockey team in PyeongChang 2018</li><li>Volunteers with Fairview Hospital working with people with mental and physical disabilities</li><li>Hobbies include golfing, juggling and going to the beach.</li></ul><span></span><h5>More</h5><p>USA Hockey</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Beijing 2022, silver (Team - Women)</li><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (Team - Women)</li><li>Years of participation: Team - Women 2012, 2015, 2017, 2019, 2022</li><li>Medals: 5 (3 gold, 2 silver)</li><ul><li>Gold – 2019 (Team - Women);  2017 (Team - Women);  2015 (Team - Women)</li><li>Silver – 2022 (Team - Women);  2012 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661959/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Brandt_h_bio_845521.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662114/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/brandt_h_hero_845521.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004725/TeamUSA%20Assets/Athlete%20Profiles/Hannah%20Brandt%20845521/brandt_hannah_beijingHeadshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hannah Brandt 845521"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Mikey",
+      "last_name": "Brannigan",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1996-11-12T00:00:00",
+        "hometown": {
+          "city": "Northport",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.8934,
+          "longitude": -73.3512
+        },
+        "education": "Suffolk County Community College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kevin and Edie Brannigan. Has one older brother, Patrick, and one younger brother, Thomas</li><li>Diagnosed with Autism at the age of three</li><li>Began running as a member of the Rolling Thunder Special Needs Program, a non-profit organization that helps to train mentally and physically disabled athletes</li><li>Moved up to his high-school varsity teams as an eighth grader</li><li>His favorite book is “Pre: The Story of Steve Prefontaine” and \"Meb for Mortals\"</li><li>Hobbies include traveling, fishing with his dad, going to the beach and going to the movies</li><li>Enjoys listening to hip-hop and rock music<span></span></li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 2-time Paralympic medalist (1 gold, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, bronze (1500m T20 - Men)</li><li>Paralympic Games Tokyo 2020, 4th (1500m T20 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (1500m T20 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – gold (1500m T20 - Men)</li><li>Years of participation: 1500m T20 - Men 2015, 2017, 2019, 2023, 2024; 5000m T20 - Men 2015, 2017; 800m T20 - Men 2017</li><li>Medals: 7 (4 gold, 3 silver)</li><ul><li>Gold – 2024 (1500m T20 - Men);  2017 (1500m T20 - Men, 800m T20 - Men);  2015 (1500m T20 - Men)</li><li>Silver – 2023 (1500m T20 - Men);  2017 (5000m T20 - Men);  2015 (5000m T20 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661959/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/brannigan_m_bio_858197.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T20",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662508/TeamUSA%20Assets/Athlete%20Profiles/Mikey%20Brannigan%20858197/brannigan_m_hero_858197.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013408/TeamUSA%20Assets/Athlete%20Profiles/Mikey%20Brannigan%20858197/Brannigan_Michael_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mikey Brannigan 858197"
+        },
+        {
+          "title": "Para Track and Field"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Braun",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1993-08-20T00:00:00",
+        "hometown": {
+          "city": "Mounds View",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.1005,
+          "longitude": -93.2002
+        },
+        "education": "Irondale High School (New Brighton, Minn.) ‘12",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Son of Warren and Claire Braun, Braun was born with spinal bifida. A native of Jamaica, Braun was abandoned in a trash bin as an infant and eventually adopted by a missionary from Minnesota after being in an orphanage. He was introduced to adaptive sports through the Courage Kenny Rehabilitation Institute in Minnesota. He was the first athlete to compete in wheelchair track and field after the Minnesota High School league expanded to allow wheelchair athletes. In his free time, Braun enjoys basketball, golfing, music and playing sports. He also volunteers for a local recreational adaptive sports program. In 2015, Braun represented the Western All-Star Team as a participant in the 2015 NBA/NWBA All-Star Game in Brooklyn New York and was honored by the Minnesota Timberwolves. In the future, Braun hopes to become a coach of other athletes. He has seven siblings: Jennifer, Lucas, Meri, Michael, Penni, Sabrina and Victoria.<h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 22th (100m T54 - Men)</li><li>Years of participation: 100m T54 - Men 2015, 2019</li><li>Top finish: 16th – 2015 (100m T54 - Men)</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (100m T54 - Men, 400m T54 - Men)</li><li>ParaPan American Games, Toronto, 2015 (100m T54 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T54",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335790/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mark%20%20Braun%20831894/Braun_Mark_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mark Braun 831894"
+        }
+      ]
+    },
+    {
+      "first_name": "Kenji",
+      "last_name": "Bravo",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2001-07-05T00:00:00",
+        "hometown": {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.7749,
+          "longitude": -122.4194
+        },
+        "education": "French American International School (San Francisco, Calif.) ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Rika Ueda</li><li>Hobbies include listening to music and trying new food.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Cairo, 2021 (Team Foil - Men, Individual Foil - Men)</li><li>World Junior Championships, Torun, 2019 (Team Foil - Men, Individual Foil - Men)</li><li>World Junior Championships, Verona, 2018 (Team Foil - Men)</li></ul><h5>More</h5>USA Fencing<h5>World Championships Experience</h5><ul><li>Most recent: 2018 – gold (Individual Foil - Men)</li><li>Years of participation: Individual Foil - Men 2018</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2018 (Individual Foil - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013412/TeamUSA%20Assets/Athlete%20Profiles/Kenji%20Bravo%201114556/bravo_kenji.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kenji Bravo 1114556"
+        }
+      ]
+    },
+    {
+      "first_name": "Donavan",
+      "last_name": "Brazier",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1997-04-15T00:00:00",
+        "hometown": {
+          "city": "Grand Rapids, Mich.",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.96336,
+          "longitude": -85.66809
+        },
+        "education": " Kenowa Hills High School (Grand Rapids, Mich.) ‘15 Texas A&M University, College Station ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Johnny Brazier and Jennifer Pennington</li><li>Has two siblings, Dominic and Hailey</li><li>Broke world record in 600m at the 2019 USA Track &amp; Field Championships</li><li>Loves fishing.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 –  (800m (Indoor) - Men)</li><li>Years of participation: 800m (Indoor) - Men 2018; 800m - Men 2017</li><li>Top finish:  – 2018 (800m (Indoor) - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013423/TeamUSA%20Assets/Athlete%20Profiles/Donavan%20Brazier%201032056/Brazier_Donovan_100119_800x450.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013425/TeamUSA%20Assets/Athlete%20Profiles/Donavan%20Brazier%201032056/Brazier_D.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Donavan Brazier 1032056"
+        }
+      ]
+    }
+  ]
+}

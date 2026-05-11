@@ -1,0 +1,845 @@
+{
+  "entries": [
+    {
+      "first_name": "Jon",
+      "last_name": "Rodriguez",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2000-12-22T00:00:00",
+        "hometown": {
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7128,
+          "longitude": -74.006
+        },
+        "education": "Civic Leadership Academy (New York City, N.Y.) ‘18 St. Bonaventure University, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Carmen Jimenez</li><li>Began playing rugby in 2014</li><li>Favorite food are tacos</li><li>Favorite snacks are goldfish and Swedish fish</li><li>Hobbies include soccer, biking, basketball, traveling to new places and trying different foods.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>High school All-American for U18 sevens</li>\r\n                            <li>2018 Can-Am Futures Sevens tournament</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680002341/TeamUSA%20Assets/Athlete%20Profiles/Jon%20Rodriguez%201113759/rodriguez_jon.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jon Rodriguez 1113759"
+        }
+      ]
+    },
+    {
+      "first_name": "Matthew",
+      "last_name": "Rodriguez",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1972-06-08T00:00:00",
+        "hometown": {
+          "city": "Prescott Valley",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 34.6167,
+          "longitude": -112.3238
+        },
+        "education": "San Diego State University ‘12, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of James and Loretta Rodriguez</li><li>Has two brothers, Mark and Steven, and one sister, Monique</li><li>Has one daughter, Kylie</li><li>Has published a motivational book, &quot;The Matthew Rodriguez Story: Inspiring The Disabled To Be All They Can Be.&quot;</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 5th (T1-2 - Road Race - Men), 9th (T1-2 - Time Trial - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – silver (T2 - Time Trial - Men), 5th (T2 - Road Race - Men)</li><li>Years of participation: T2 - Road Race - Men 2019, 2021; T2 - Time Trial - Men 2019, 2021</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2021 (T2 - Time Trial - Men)</li></ul></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "MT2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917627/TeamUSA%20Assets/Migration/Athlete%20Profiles/Matthew%20Rodriguez/Rodriguez_Matthew_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matthew Rodriguez 1150758"
+        }
+      ]
+    },
+    {
+      "first_name": "Garrett",
+      "last_name": "Roe",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1988-02-22T00:00:00",
+        "hometown": {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9012,
+          "longitude": -77.2653
+        },
+        "education": "Shattuck-St. Mary’s School (Faribault, Minn.)  St. Cloud State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Larry and Julie Roe</li><li>Has two brothers, Kurstin and Ryan</li><li>Married to Brittany</li><li>Drafted by the Los Angeles Kings in 2008</li><li>Hobbies include playing golf and playing with his dog.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Finished at St. Cloud State University as the all-time assist leader (113) and third all-time in points scored (178)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700271/TeamUSA%20Assets/Migration/Athlete%20Profiles/Garrett%20Roe%201086723/Roe_Garrett_111614_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700272/TeamUSA%20Assets/Migration/Athlete%20Profiles/Garrett%20Roe%201086723/Roe_Garrett_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Garrett Roe 1086723"
+        }
+      ]
+    },
+    {
+      "first_name": "Samantha",
+      "last_name": "Roecker",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1991-10-15T00:00:00",
+        "hometown": {
+          "city": "Burnt Hills",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.9,
+          "longitude": -73.9
+        },
+        "education": "Burnt Hills Ballston Lake High School (Burnt Hills, N.Y.)  Providence College ‘14 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Lauren Roecker</li><li>Cross-country, indoor and outdoor track athlete at Providence University from 2009-14.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 National Marathon Championship, 3rd (marathon) </li>\r\n                            <li>2014 NCAA Big East Championships, 4th (10,000m) </li>\r\n                            <li>2014 NCAA Big East Indoor Championships, 6th (5,000m), 9th (3,000m)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680002346/TeamUSA%20Assets/Athlete%20Profiles/Samantha%20Roecker%201165205/roecker_s.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Samantha Roecker 1165205"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Roelse",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1995-01-10T00:00:00",
+        "hometown": {
+          "city": "Westwoods",
+          "state": "CA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Winford Stebo High School (Utrecht, Netherlands) University of California Los Angeles ’18, Business Economics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Pieter and Mary Roelse</li><li>Has one older sister, Susan</li><li>Helped the University of California, Los Angeles to the NCAA Championship in 2014</li><li>Previously a member of Netherlands&#39; national team.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FINA World League Super Final, silver</li>\r\n                            <li>2015 Pan American Games, gold</li>\r\n                            <li>2015 FINA World League Super Final, 4th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 13th (Team - Men)</li><li>Years of participation: Team - Men 2015, 2017</li><li>Top finish: 7th – 2015 (Team - Men)</li></ul><h5>More</h5>USA Water Polo",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700155/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Roelse%20809491/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700156/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Roelse%20809491/Roelse_Alex_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Roelse 809491"
+        }
+      ]
+    },
+    {
+      "first_name": "Raevyn",
+      "last_name": "Rogers",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1996-09-07T00:00:00",
+        "hometown": {
+          "city": "Houston",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7604,
+          "longitude": -95.3698
+        },
+        "education": "University of Oregon ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began running when she was 5 in summer track programs</li><li>Grew up speaking Spanish in Texas</li><li>Majored in fine arts with a focus in mixed media</li><li>Fluent in Spanish</li><li>Hopes to get her paintings in art galleries and the MoMA.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (800m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 4th (800m - Women)</li><li>Years of participation: 800m - Women 2023; 4 x 400m Relay (Indoor) - Women 2018; 800m (Indoor) - Women 2018</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2018 (4 x 400m Relay (Indoor) - Women)</li></ul></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917277/TeamUSA%20Assets/Migration/Athlete%20Profiles/Raevyn%20Rogers/Rogers_Raevyn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Raevyn Rogers"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Rogers",
+      "bio": {
+        "height": "3'0\"",
+        "birthday": "1997-03-09T00:00:00",
+        "hometown": {
+          "city": "Springfield",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.789,
+          "longitude": -77.1861
+        },
+        "education": "Parkland College",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul><li>ParaPan American Games, Toronto, 2015 (100m T53 - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 12th (200m T53 - Women), 13th (100m T53 - Women)</li><li>Years of participation: 100m T53 - Women 2015; 200m T53 - Women 2015</li><li>Top finish: 12th – 2015 (200m T53 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700296/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessica%20Rogers%20831895/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T53",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700298/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessica%20Rogers%20831895/rogers_jessica_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Rogers 831895"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Mattie",
+      "last_name": "Rogers",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1995-08-23T00:00:00",
+        "hometown": {
+          "city": "Apopka",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.6775,
+          "longitude": -81.5112
+        },
+        "education": " University of Central Florida",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite Food: Everything</li><li>Favorite Food: literally</li><li>Favorite TV Show: &quot;Burn Notice&quot; or &quot;Bloodline&quot;</li><li>Hobbies/Interested outside of Weightlifting: Coaching, coaching, coaching!</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2020 Pan American Champion</li>\r\n                            <li>Silver medal: 2016, 2017, 2018 Pan American Championships</li>\r\n                            <li>2016 World University Champion</li>\r\n                            <li>Holds 2 current American Records</li>\r\n                            <li>Holds 2 Pan American Records</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>Tokyo 2020</li></ul><h5> World Championship Experience</h5><ul><li>2017 & 2019 World Championships Silver Medalist (71kg)</li><li>Previous appearances: 2018 (5th), 2015 (13th)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662047/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/rogers_m_bio_823009.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662630/TeamUSA%20Assets/Athlete%20Profiles/Mattie%20Rogers%20823009/rogers_m_hero_823009.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680002307/TeamUSA%20Assets/Athlete%20Profiles/Mattie%20Rogers%20823009/MattieRogers2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mattie Rogers 823009"
+        }
+      ]
+    },
+    {
+      "first_name": "Todd",
+      "last_name": "Rogers",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1973-09-30T00:00:00",
+        "hometown": {
+          "city": "Santa Barbara",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4208,
+          "longitude": -119.6902
+        },
+        "education": "San Marcos High School UC Santa Barbara, '96 religious studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Received a degree in religious studies with a minor in coaching from UC Santa Barbara in 1996</li><li>Played soccer and volleyball at San Marcos High School</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Won an Olympic Gold medal with partner Phil Dalhausser at the 2008 Beijing Games</li>\r\n                            <li>Competed in the 2012 London Olympics with Dalhausser, but were eliminated in the round of 16 to tie for ninth place</li>\r\n                            <li>Has 24 FIVB World Tour gold medals and 42 podium finishes between 1997-2016</li>\r\n                            <li>DID YOU KNOW</li>\r\n                            <li>---</li>\r\n                            <li>Is a member of the USA Volleyball Board of Directors as a Beach Athlete representative, term ending June 30, 2020</li>\r\n                            <li>Last played in 2016, in one FIVB event and five AVP tournaments</li>\r\n                            <li>Between 2015-16, played in four FIVB World Tour events, with a best finish of fourth in 2015</li>\r\n                            <li>Played in nine international events with Theo Brunner between 2013 and 14. The duo won two NORCECA Continental Tour stops in 2014 (Cayman Islands, Varadero) and played in five FIVB Grand Slams and one Open</li>\r\n                            <li>Partnered with Ryan Doherty in 2013 and finished 17th at the FIVB World Championships in Stare Jablonki</li>\r\n                            <li>One week after the 2012 Olympics, won bronze with Dalhausser at the MAzury Orlen Grand Slam in Stare Jablonki. Tied for ninth at the London Games after going 3-0 in pool play</li>\r\n                            <li>Began the 2012 season with Dalhausser winning the Brasilia Open, Shanghai Open, bronze in Prague and fourth in Gstaad</li>\r\n                            <li>By the end of 2011, with Phil Dalhausser, ranked second place in FIVB World Tour rankings, first in FIVB beach technical rankings and first in Olympic qualification</li>\r\n                            <li>In 2011 with Dalhausser, started the season with two gold medals and established an FIVB record for consecutive match wins (40). Duo finished ninth at the FIVB World Championships in Rome</li>\r\n                            <li>With Dalhausser in 2010, became the first American men&#39;s team to win the SWATCH FIVB World Tour championship since the early 1990s. Named the FIVB Team of the Year after winning nine World Tour titles</li>\r\n                            <li>Won the 2007 FIVB World Championship with Phil Dalhausser, the first U.S. men&#39;s team to win the event</li>\r\n                            <li>Between 2005 and 09 with Dalhausser, the duo won the AVP World Challenge vs Brazil (2009), finished third at the FIVB World Championships (09), won gold at the Beijing Olympics (08) going 6-1 after rebounding from a first round loss</li>\r\n                            <li>On the AVP Tour between 2006-10, won 43 events</li>\r\n                            <li>In 2004, missed qualifying for the Olympics with partner Sean Scott, finishing as the third-ranked U.S. team. Duo was fourth-highest ranked team worldwide</li>\r\n                            <li>Made his debut in 1995 at Manhattan Beach with partner Dax Holdren</li>\r\n                            <li>Was an assistant men&#39;s volleyball coach at UCSB from 2000 to 2005</li>\r\n                            <li>Two-time All-American at UCSB and set the school record for career digs (783)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, 9th (Team - Men)</li><li>Olympic Games Beijing 2008, gold (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 17th (Team - Men)</li><li>Years of participation: Team - Men 1997, 2001, 2007, 2009, 2011, 2013</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2007 (Team - Men)</li><li>Bronze – 2009 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917151/TeamUSA%20Assets/Migration/Athlete%20Profiles/Todd%20Rogers/Web-ToddRogers.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Todd Rogers"
+        }
+      ]
+    },
+    {
+      "first_name": "Shawn",
+      "last_name": "Rojeski",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1972-01-21T00:00:00",
+        "hometown": {
+          "city": "Chisholm",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 47.4916,
+          "longitude": -92.9038
+        },
+        "education": " Bemidji State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Works as an engineer<h5>Career Highlights</h5><ul>\r\n                            <li>6-time men&#39;s national champion</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Turin 2006, bronze (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 10th (Team - Men)</li><li>Years of participation: Team - Men 1998, 2003, 2005, 2006, 2010, 2011, 2014</li><li>Top finish: 4th – 2006 (Team - Men), 2010 (Team - Men)</li></ul><h5>More</h5>Rojeski was recently hired as a team coach for the Mark Fenner rink, a team in the High Performance Program.",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700179/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shawn%20Rojeski%20913604/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700181/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shawn%20Rojeski%20913604/shawn_Rojeski.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shawn Rojeski 913604"
+        }
+      ]
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "Rokhman",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1997-05-27T00:00:00",
+        "hometown": {
+          "city": "Northbrook",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.1278,
+          "longitude": -87.8339
+        },
+        "education": "Glenbrook North High School (Northbrook, Ill.) '15 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Dmitry and Svetlana Rokhman</li><li>Has an identical twin sister, Jenny, who was named the U.S. rhythmic team’s replacement athlete for the Rio 2016 Olympic Games</li><li>Hobbies include shopping, watching movies, playing with her pets and hanging out with friends</li><li>Speaks Russian.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, gold (6 clubs, 2 hoops); silver (all-around, 5 ribbons)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 14th (Group Competition - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 11th (Group Competition - Ribbon - Women), 13th (Group Competition - Women), 15th (Group Competition - 3x Clubs + 2x Hoop - Women)</li><li>Years of participation: Group Competition - 3x Clubs + 2x Hoop - Women 2015; Group Competition - Ribbon - Women 2015; Group Competition - Women 2013, 2014, 2015; Group Competition - Ball + Ribbon - Women 2013, 2014; Group Competition - Clubs - Women 2013, 2014</li><li>Top finish: 11th – 2015 (Group Competition - Ribbon - Women)</li></ul><h5>More</h5>USA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700226/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monica%20Rokhman%20866294/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700229/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monica%20Rokhman%20866294/Rokhman_Monica_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Monica Rokhman 866294"
+        }
+      ]
+    },
+    {
+      "first_name": "Brianna",
+      "last_name": "Rollins",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-08-18T00:00:00",
+        "hometown": {
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 25.7617,
+          "longitude": -80.1918
+        },
+        "education": "Miami Northwestern High School (Miami, Fla.) ‘09 Clemson University ’13, Parks, Recreation and Tourism Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Brian and Temperance Rollins</li><li>Has six brothers, Jeremiah, Kenny, Marcus, Matthew, Ryan and Timothy</li><li>Married to Bryce McNeal</li><li>Three-time NCAA Champion</li><li>Hobbies include playing video games, watching movies, attending concerts and bowling.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (100m Hurdles - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – silver (60m Hurdles (Indoor) - Women)</li><li>Years of participation: 60m Hurdles (Indoor) - Women 2016; 100m Hurdles - Women 2015</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2016 (60m Hurdles (Indoor) - Women)</li></ul></ul><h5>More</h5>USA Track &amp; Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917955/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brianna%20Rollins/Rollins_Brianna_081716_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917957/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brianna%20Rollins/Rollins_Brianna_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brianna Rollins"
+        }
+      ]
+    },
+    {
+      "first_name": "Jenna",
+      "last_name": "Rollman",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1987-11-27T00:00:00",
+        "hometown": {
+          "city": "Rancho Cucamonga, Calif. ",
+          "state": "CA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Rancho Cucamonga High School (Rancho Cucamonga, Calif.) Chaffey College ‘18 (Rancho Cucamonga, Calif.), Cal State University, San Bernardino ‘23 (San Bernardino, Calif.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Currently a student at Cal State University, San Bernardino, where she is majoring in nutrition and food science and hopes to become a clinical dietitian</li><li>Has been handcycling since 2014 and began competing in 2015</li><li>Competed as an able-bodied cyclist before she was paralyzed in a bike vs. car accident while training in Chino Hills, California</li><li>Once hand cycled a total of 9,000 miles in a year</li><li>First internationally competed for Team USA at the world cup in Baie-Comeau, Quebec, in 2019</li><li>Considers herself to have a big sweet tooth and loves doughnuts, cake and coffee</li><li>Enjoys writing, drawing, reading and critical thinking exercises in her free time</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (H1-5 - Time Trial - Women, H2-5 - Road Race - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (H3 - Time Trial - Women), 11th (H3 - Road Race - Women)</li><li>Years of participation: H3 - Road Race - Women 2023; H3 - Time Trial - Women 2023</li><li>Top finish: 9th – 2023 (H3 - Time Trial - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "WH3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680002350/TeamUSA%20Assets/Athlete%20Profiles/Jenna%20Rollman%201052345/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jenna Rollman 1052345"
+        }
+      ]
+    },
+    {
+      "first_name": "Rico",
+      "last_name": "Roman",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1981-02-04T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "Alpha High School (Gresham, Ore.) ‘01 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Connie Roman</li><li>Has two brothers, Benito and Carlos</li><li>Married to Ela Roman</li><li>Has two children, Juliet and Raul</li><li>Roman is a retired Army Staff Sergeant that had his left leg amputated above the knee when wounded by an improvised explosive device while serving his third tour in Iraq in February of 2007</li><li>Roman, a Purple Heart recipient, was introduced to sled hockey in 2008 by Operation Comfort</li><li>He made his debut on the U.S. National Sled Hockey Team in 2011</li><li>Hobbies include working on cars, hunting, wheelchair basketball, hand cycling and swimming</li><li>Volunteer and coach with Bridge City Inclusive Sports, a nonprofit who are helping to get the community involved and learn more about adaptive sports through wheelchair basketball</li><li>Recipient of the 2024 Team USA Community Champions in partnership with Comcast award</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (3 gold)</li><ul><li>Paralympic Games Beijing 2022, gold (Team - Mixed)</li><li>Paralympic Games Pyeongchang 2018, gold (Team - Mixed)</li><li>Paralympic Games Sochi 2014, gold (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2012 – gold (Team - Men)</li><li>Years of participation: Team - Men 2012</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2012 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1734380282/TeamUSA%20Assets/Athlete%20Profiles/Rico%20Roman%20922296/roman_r_bio_922296.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1734380269/TeamUSA%20Assets/Athlete%20Profiles/Rico%20Roman%20922296/roman_r_hero_922296.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1734380269/TeamUSA%20Assets/Athlete%20Profiles/Rico%20Roman%20922296/roman_r_hero_922296.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1734380269/TeamUSA%20Assets/Athlete%20Profiles/Rico%20Roman%20922296/roman_r_hero_922296.png"
+        }
+      ],
+      "content_tags": []
+    },
+    {
+      "first_name": "Helman",
+      "last_name": "Roman",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1968-05-08T00:00:00",
+        "hometown": {
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 25.7617,
+          "longitude": -80.1918
+        },
+        "education": "Real de Santa fe High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Roman served in the U.S. Army for ten years and still interacts with the military by working for non-profit organizations that raise money for the disable and veterans</li><li>Son of Helman and Bertha Roman</li><li>Has on sister, Marisol</li><li>Married to Maria Roman</li><li>Has one son, Louis, and one daughter, Angelica.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 U.S. Paralympic Trials, gold (mixed trunk and arms double sculls)</li>\r\n                            <li>2016 Sarasota Invitational, gold (mixed trunk and arms double sculls), gold (trunk and arms single sculls)</li>\r\n                            <li>2016 Southern Sprint Indoor Championship, gold</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 10th (Trunk & Arms Double Sculls - Mixed)</li></ul></ul><h5>More</h5><p>USRowing</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Trunk and Arms Mixed Double Skulls",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686918028/TeamUSA%20Assets/Migration/Athlete%20Profiles/Helman%20Roman/Roman_Helman150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Helman Roman"
+        }
+      ]
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Romanchuk",
+      "bio": {
+        "height": "5'9 \"",
+        "birthday": "1998-08-03T00:00:00",
+        "hometown": {
+          "city": "Mount Airy",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.3676,
+          "longitude": -77.1508
+        },
+        "education": "University of Illinois at Urbana-Champaign",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Stephan and Kimberly Romanchuk</li><li><p>Enjoys being outdoors and studying nature</p></li><li><p>Trains younger children sports with the Bennett Blazers and volunteers at a local respite program to help children with disabilities</p></li><li><p>Working towards earning a ham radio license</p></li><li>Qualified for the Olympic Games Paris 2024 by earning the silver medal at the 2023 New York city Marathon</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 4-time Paralympic medalist (2 gold, 2 bronze)</li><ul><li>Paralympic Games Paris 2024, gold (5000m T54 - Men), bronze (400m T54 - Men), 4th (Marathon T54 - Men), 5th (800m T54 - Men), 9th (1500m T54 - Men)</li><li>Paralympic Games Tokyo 2020, gold (400m T54 - Men), bronze (Marathon T54 - Men), 4th (5000m T54 - Men, 800m T54 - Men), 5th (1500m T54 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 13th (400m T54 - Men), 15th (5000m T54 - Men), 16th (100m T54 - Men, 1500m T54 - Men), 17th (800m T54 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (800m T54 - Men, Marathon T54 - Men), 4th (5000m T54 - Men), 5th (1500m T54 - Men)</li><li>Years of participation: 1500m T54 - Men 2015, 2017, 2019; 5000m T54 - Men 2019; 800m T54 - Men 2015, 2017, 2019; Marathon T54 - Men 2019</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2019 (Marathon T54 - Men, 800m T54 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662071/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Romanchuk_D_bio_802266.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T54",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662869/TeamUSA%20Assets/Athlete%20Profiles/Daniel%20Romanchuk%20802266/Romanchuk_D_hero_802266.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700157465/TeamUSA%20Assets/Athlete%20Profiles/Daniel%20Romanchuk%20802266/Romanchuk_d_featured_802266.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680002328/TeamUSA%20Assets/Athlete%20Profiles/Daniel%20Romanchuk%20802266/Romanchuk_Daniel250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Daniel Romanchuk 802266"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    }
+  ]
+}

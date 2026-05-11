@@ -1,0 +1,949 @@
+{
+  "entries": [
+    {
+      "first_name": "Steffen",
+      "last_name": "Peters",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1964-09-18T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Voerte (Voerte, Germany) ‘85 ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Hans and Doris Peters</li><li>Has one sister, Anke</li><li>Married Shannon Peters on Sept. 18, 2004</li><li>Trains at Arroyo Del Mar</li><li>Served two years in the German Army</li><li>Hobbies include skiing and wakeboarding.</li></ul><h5>Career Highlights</h5><ul><li>2015 Pan American Games, gold (individual, team) – with Legolas 92</li><li>2011 Pan American Games, gold (individual, team) – with Weltino’s Magic</li></ul><h5>Olympic Experience</h5><ul><li>6-time Olympian; 3-time Olympic medalist (1 silver, 2 bronze)</li><ul><li>Olympic Games Paris 2024,  (Team - Open), 50th (Individual - Open)</li><li>Olympic Games Tokyo 2020, silver (Team - Open), 10th (Individual - Open)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Open), 12th (Individual - Open)</li><li>Olympic Games London 2012, 6th (Team - Open), 17th (Individual - Open)</li><li>Olympic Games Beijing 2008, 0th (Team - Open), 4th (Individual - Open)</li><li>Olympic Games Atlanta 1996, bronze (Team - Open), 15th (Individual - Open)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 4th (team), 10th (individual)</li><li>Years of Participation: 2006 (Floriano), 2010 (Ravel), 2014 (Legolas 92)</li><li>Medals: 2 (2 bronzes)</li><li>Bronze – 2006 (team), 2010 (individual)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662073/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/S_Peters_bio_872877.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2008, 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662247/TeamUSA%20Assets/Athlete%20Profiles/Steffen%20Peters%20872877/peters_s_hero_872877.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013003/TeamUSA%20Assets/Athlete%20Profiles/Steffen%20Peters%20872877/Equestrian_Dressage_Peters_Steffen.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Steffen Peters 872877"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Chip",
+      "last_name": "Peterson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1987-12-03T00:00:00",
+        "hometown": {
+          "city": "Durham",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.994,
+          "longitude": -78.8986
+        },
+        "education": "University of North Carolina, Chapel Hill",
+        "fun_fact": "",
+        "biography": "<strong></strong><p></p><div><strong><br bold=\"[object Object]\"></strong></div><div><h5>Career Highlights</h5><ul><li>World Cup, 2016 (10km Freestyle - Men)</li><li>Pan American Games, Toronto, 2015 (10km Freestyle - Men)</li><li>World Cup, 2015 (10km Freestyle - Men)</li><li>Pan American Games, Rio de Janeiro, 2007 (1500m Freestyle - Men, 10km Freestyle - Men)</li></ul></div><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 5th (25km Freestyle - Men)</li><li>Years of participation: 25km Freestyle - Men 2017; 10km Freestyle - Men 2005, 2006, 2008, 2010; 5km Freestyle - Men 2005, 2006, 2010</li><li>Medals: 3 (1 gold, 2 silver)</li><ul><li>Gold – 2005 (10km Freestyle - Men)</li><li>Silver – 2006 (5km Freestyle - Men);  2005 (5km Freestyle - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367926/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chip%20Peterson/peterson_chip.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chip Peterson"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Peterson",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2002-02-17T00:00:00",
+        "hometown": {
+          "city": "Lake Elmo",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0205,
+          "longitude": -92.8805
+        },
+        "education": "St. Lawrence University",
+        "fun_fact": "She is now pursuing a PhD in neuroscience at the University of Utah",
+        "biography": "<h5><strong>Quick Facts</strong><span style=\"color: rgb(102, 102, 102);\"></span></h5><ul><li><span>Parents,&nbsp;Jackie and Dale Peterson&nbsp;</span></li><li><span>Went to the same high school as Jessie Diggins</span></li><li><span>Hobbies include hiking, running, camping and gardening</span></li></ul><h5>Biographical Information</h5><p><span>Sydney Peterson grew up in Lake Elmo, Minnesota, and attended the same high school as American cross-country skiing legend Jessie Diggins. She was a four-sport athlete in high school, participating in Nordic skiing, swimming, cross-country and track. A</span><span>t 13, Peterson began experiencing symptoms of&nbsp;</span>primary dystonia<span>&nbsp;in her left arm — neurological disorders that caused involuntary muscle contractions and chronic pain. Over time, the dystonia progressed, affecting the mobility in both her left arm and leg.</span></p><p><span>Six years later, Peterson would compete for the first time at the 2021 World Para Snow Sports Championships, delayed until January 2022, and won three medals.&nbsp;Two months later, she made her&nbsp;</span><span>Paralympic debut at the Paralympic Winter Games Beijing 2022.&nbsp;Peterson would go on to win three medals in cross-country skiing, including a gold as a member of the U.S. mixed relay team.</span></p><p><span>In 2023, Peterson would undergo an invasive brain operation where an electrode was implanted into her brain and connected to a battery pack in her chest, known as deep-brain stimulation.&nbsp;The operation was a way to reverse the worsening effects of her dystonia, but also required her to be awake for 13 hours during the procedure. She returned and won two more medals at the 2025 world championships.&nbsp;</span></p><p><span>Off the snow, Peterson graduated from St. Lawrence University in 2023 with a bachelor’s degree in neuroscience and is now pursuing a PhD in neuroscience at the University of Utah, balancing her research with her training.</span></p><h5><span></span>Paralympic Experience</h5><ul><li>2-time Paralympian; 7-time Paralympic medalist (4 gold, 2 silver, 1 bronze)</li><ul><li>Paralympic Games Milan 2026, gold (10km Classic Style - Standing - Women, 20km Freestyle - Standing - Women, 4 x 2.5km Relay Mixed - Mixed), silver (1km Sprint Classic Style - Standing - Women), 4th (7.5km Sprint - Standing - Women, Sprint Pursuit - Standing - Women)</li><li>Paralympic Games Beijing 2022, gold (4 x 2.5km Relay Mixed - Mixed), silver (15km Classic Style - Standing - Women), bronze (1km Sprint Freestyle - Standing - Women), 6th (10km Freestyle - Standing - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – silver (4 x 2.5km Relay Mixed - Mixed), bronze (1km Sprint Classic Style - Standing - Women), 4th (10km Classic Style - Standing - Women), 6th (20km Freestyle - Standing - Women)</li><li>Years of participation: 10km Classic Style - Standing - Women 2022, 2025; 1km Sprint Classic Style - Standing - Women 2022, 2025; 20km Freestyle - Standing - Women 2025; 4 x 2.5km Relay Mixed - Mixed 2022, 2025; 10km Freestyle - Standing - Women 2023; 10km Middle - Standing - Women 2023; 1km Sprint Freestyle - Standing - Women 2023; 20km Classic Style - Standing - Women 2023; 4 x 2.5km Relay Open - Open 2023; 15km Freestyle - Standing - Women 2022</li><li>Medals: 7 (3 silver, 4 bronze)</li><ul><li>Silver – 2025 (4 x 2.5km Relay Mixed - Mixed);  2022 (10km Classic Style - Standing - Women, 1km Sprint Classic Style - Standing - Women)</li><li>Bronze – 2025 (1km Sprint Classic Style - Standing - Women);  2023 (10km Freestyle - Standing - Women, 1km Sprint Freestyle - Standing - Women);  2022 (15km Freestyle - Standing - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773502163/Peterson_S_bio_1238473.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 4,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "LW9",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773502163/Peterson_S_main_1238473.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773242495/Peterson_S_featured_1238473_3_yflord.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1772825611/Peterson_S_thumbnail_1238473.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sydney Peterson"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Nordic Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Tabitha",
+      "last_name": "Peterson Lovick",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1989-03-06T00:00:00",
+        "hometown": {
+          "city": "Eagan",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.8047,
+          "longitude": -93.1677
+        },
+        "education": " University of Minnesota ",
+        "fun_fact": "Outside of curling, she works as a pharmacist following into healthcare profession like her parents",
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 12pt;\"><strong>Sport:</strong></span><span style=\"font-size: 12pt;\">&nbsp;Curling</span></p></li><li><p><span style=\"font-size: 12pt;\"><strong>Position:&nbsp;</strong></span><span style=\"font-size: 12pt;\">Skip</span></p></li><li><span style=\"font-size: 12pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 12pt;\">&nbsp;Women’s Curling, Mixed Doubles</span></li></ul><h5><strong>Biographical Information</strong></h5><p><span style=\"font-size: 12pt;\"></span><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Tabitha Peterson Lovick grew up in Burnsville, Minnesota and began curling at age 10. Her parents, a dentist and a dental hygienist, decided to join a curling league and at the same time signed up Tabitha and her younger sister, Tara, for a junior curling league in St. Paul.&nbsp;</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Peterson Lovick would win back-to-back junior national championships with her sister and a bronze medal representing Team USA at the 2010 junior world championships.&nbsp;</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Two years later, Peterson Lovick won her first national championship in women’s curling and finished fifth at her first world championships for Team USA. In 2016, Peterson Lovick would win the first medal for the United States at a mixed doubles world championships,&nbsp;a bronze medal with partner Joe Polo.&nbsp;</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Two years later, Peterson made her Olympic debut as the third for the U.S. women’s curling team that finished 8th. Following the Winter Olympic Games Pyeongchang 2018, Peterson Lovick would move to skip and won a bronze medal for Team USA at the 2021 world championships, the first medal for the Americans in women’s curling in fifteen years.</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Since the move to skip, Peterson Lovick has won four national titles (2020, 2023-25) and U.S. Olympic Trials prior to the Olympic Winter Games Beijing 2022 where the U.S. finished sixth. Her fifth national title in 2025, she won three months after giving her birth to her first child, Noelle.</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Outside of curling, Peterson Lovick works as a pharmacist following into healthcare profession like her parents.</span><span style=\"font-size: 12pt;\"></span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Milan 2026, 4th (Team - Women)</li><li>Olympic Games Beijing 2022, 6th (Team - Women)</li><li>Olympic Games Pyeongchang 2018, 8th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 12th (Team - Women)</li><li>Years of participation: Team - Women 2012, 2014, 2016, 2017, 2021, 2023, 2024, 2025; Doubles - Mixed 2016, 2022</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2021 (Team - Women);  2016 (Doubles - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662098/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/T_Peterson_bio_917354.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662626/TeamUSA%20Assets/Athlete%20Profiles/Tabitha%20Peterson%20917354/T_Peterson_hero_917354.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662626/TeamUSA%20Assets/Athlete%20Profiles/Tabitha%20Peterson%20917354/T_Peterson_hero_917354.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004829/TeamUSA%20Assets/Athlete%20Profiles/Tabitha%20Peterson%20917354/Peterson_Tabitha_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tabitha Peterson 917354"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Karen",
+      "last_name": "Petrik",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1997-11-18T00:00:00",
+        "hometown": {
+          "city": "Glastonbury",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.7,
+          "longitude": -72.6
+        },
+        "education": "Glastonbury High School University of Rhode Island '19, Elementary Education",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Enjoys spending time with friends and family and is an elementary school teacher</li><li>Was a coxswain for four years in high school and was a Division I coxswain in college</li><li>Two-time CRCA Athlete Scholar Award Winner in 2018 and 2019.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Tokyo 2020, silver (PR3 Coxed Four - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – silver (PR3 Coxed Four - Mixed)</li><li>Years of participation: PR3 Coxed Four - Mixed 2019</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2019 (PR3 Coxed Four - Mixed)</li></ul></ul><h5>More</h5><p>US Rowing</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013089/TeamUSA%20Assets/Athlete%20Profiles/Karen%20Petrik%201174368/Petrick_Karen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Karen Petrik 1174368"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Pfalzer",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1993-06-14T00:00:00",
+        "hometown": {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.8803,
+          "longitude": -78.8786
+        },
+        "education": "Nichols High School (Buffalo, N.Y.) ‘11 Boston College '15",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of David and Jill Pfalzer</li><li>Has two older brothers, Matthew and Thomas</li><li>Hobbies include wake surfing, waterskiing, jet skiing and reading.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Helped the Beauts win the Isobel Cup in 2016-17 </li>\r\n                            <li>Named captain of the Buffalo Beauts in the inaugural season of the NWHL (2015-16)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2015, 2016, 2017, 2019</li><li>Medals: 4 (4 gold)</li><ul><li>Gold – 2019 (Team - Women);  2017 (Team - Women);  2016 (Team - Women);  2015 (Team - Women)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003529/TeamUSA%20Assets/Athlete%20Profiles/Emily%20Pfalzer%20798954/pfalzer_emily_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Pfalzer 798954"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Pfeiffer",
+      "bio": {
+        "height": "5' 2\"",
+        "birthday": "1998-07-02T00:00:00",
+        "hometown": {
+          "city": "Knoxville",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 35.9606,
+          "longitude": -83.9207
+        },
+        "education": "Purdue University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Nathan and Debbie</li><li>She has four siblings</li><li>Her mother, Debbie, dove for The Ohio State University, and was a senior national champion on platform in 1984</li><li>Emily enjoys spending time with family and friends, doing anything outdoors, reading good books, water skiing and anything on the lake</li><li>She began diving at eight years old and quit before starting back up at age 14</li><li>Her first junior nationals was in 2013 and her first senior nationals was in 2015</li><li>Between dives, Emily likes to listen to music, read, play Wordscapes, think about diving cues and pray</li><li>Her favorite dive is 405B on 3-meter</li><li>Her favorite pre-competition meal is a bagel with peanut butter and bananas</li><li>Her favorite meal outside of competition is a Chicken Fajita</li><li>Emily wants to work in a profession where she can help others</li><li>Her teammates at Purdue are her favorite divers</li><li>She would describe herself as joyful, compassionate and driven</li><li>Her favorite book is The Gospel Comes With a House Key and her favorite movie is Remember the Titans</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923762/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Pfeiffer/Bretscher-Emily-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Pfeiffer"
+        }
+      ]
+    },
+    {
+      "first_name": "Maddie",
+      "last_name": "Phaneuf",
+      "bio": {
+        "height": "5' 5\"",
+        "birthday": "1995-04-29T00:00:00",
+        "hometown": {
+          "city": "Old Forge",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.7584,
+          "longitude": -74.9963
+        },
+        "education": "Town of Webb UFSD, ‘13 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Enjoys mountain biking, rock climbing, art and music<p></p><h5>Career Highlights</h5><ul><li>2021 IBU Cup (Brezno-Osrblie, SVK) - 3rd in short individual</li><li>2021 IBU Cup (Arber, GER) - 4th in sprint</li><li>2018 US Biathlon National Championships (Park City, Utah) - 6th in sprint / 6th in pursuit</li><li>2016 Junior World Championships (Cheile Gradistei, ROU) - 5th in individual / 7th in sprint / 9th in pursuit / 12th in relay</li><li>2015 Junior World Championships (Minsk-Raubichi, BLR) - 22nd in pursuit / 33rd in sprint / 39th in individual / 14th in relay</li></ul><h5>Olympic Experience </h5><ul><li>2018 PyeongChang Winter Games - did not compete</li></ul><h5> World Championship Experience</h5><ul><li>2017 (Hochfilzen, AUT) - 78th in pursuit / 87th in individual / 14th in relay</li></ul><h5>More</h5><p class=\"normal\"><strong>More on Maddie:</strong></p>\n<p class=\"normal\">As a winter athlete, Maddie believes in advocating for environmental sustainability, which is why she joined Protect Our Winters (POW) Athlete Alliance in 2016. POW helps passionate outdoor people protect the places and lifestyles they love from climate change. POW is a community of athletes, scientists, creatives, and business leaders advancing non-partisan policies that protect our world today and for future generations. Maddie has met with hundreds of students, written several newspaper op-eds, and travels to Washington, DC to speak to lawmakers asking for their support for strong climate policies. For more information go to protectourwinters.org</p>\n<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134229/NGB%20Biathlon/Migration/Athlete%20Profiles/Maddie%20Phaneuf/Phaneuf150217et5613_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134230/NGB%20Biathlon/Migration/Athlete%20Profiles/Maddie%20Phaneuf/Maddie_Phaneuf_2020_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maddie Phaneuf"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Phelps",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1985-06-30T00:00:00",
+        "hometown": {
+          "city": "Towson",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.3986,
+          "longitude": -76.6019
+        },
+        "education": "Towson High School (Towson, Md.) ’03 University of Michigan",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"color: rgb(65, 65, 65);font-size: 12pt;\"><strong>Specialty:</strong></span><span style=\"color: rgb(65, 65, 65);font-size: 12pt;\"> Butterfly, Individual Medley, Freestyle, Backstroke</span></li></ul><h5><span>Biographical Information&nbsp;</span></h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Michael Phelps is one of the most decorated Olympic swimmers in TeamUSA history with 28 total medals, including 23 gold. He began swimming at the early age of seven, and he quickly fell in love with the sport. Just three years later, he set a national record for his age group. Phelps attended and swam for Towson High School and the University of Michigan.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">As a retired swimmer, Phelps dedicates his time to giving back to the sport, volunteering as an assistant coach alongside Bob Bowman. He continues to make a positive impact through the Michael Phelps Foundation, which focuses on promoting mental and physical well-being and empowers individuals to pursue their dreams.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Phelps is also an avid golfer and launched his cold-water bathtub brand, 'Chilly Goat Tubs,' in 2023.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">From his debut at the Sydney 2000 Olympic Games to his final appearance in the Rio 2016 Olympic Games, Phelps left his mark as an Olympic athlete, capturing the hearts of swimmers, athletes and fans.</span></p><h5><span>Olympic Highlights</span></h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">At the age of 15, Phelps represented the United States at the Sydney 2000 Olympic Games. Phelps' dominance came to light at the Athens 2004 Olympic Games, where he clinched an impressive six gold and two bronze medals, showcasing his skills in events like the 100-meter and 200-meter butterfly, 200-meter and 400-meter individual medley and the 4x100-meter and 4x200-meter freestyle relays.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">During the Beijing 2008 Olympic Games, Phelps secured an unprecedented eight gold medals in both individual and team events, surpassing the record at the time. He added four gold and two silver medals to his roster in the London 2012 Olympic Games. At the Rio 2016 Olympic Games, Phelps further solidified his legacy by capturing five gold and one silver medal.&nbsp;</span></p><h5><span>World Championship Highlights&nbsp;</span></h5><p><span style=\"font-size: 12pt;\">Since 2001, Phelps has competed in a series of world championships and has been awarded an astounding 115 medals for his events. From his five appearances at both the Olympic Games and the world championships (long course), to competing in 10 swimming world cups and four Pan Pacific Championships, he has had a global impact on competitive swimming.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Phelps made his debut as a 16-year-old at the FINA World Championships in Fukuoka, Japan, and earned his first world title in the 200m butterfly. In 2003 in Barcelona, Phelps won four gold medals in the 100m butterfly, 200m butterfly, 200m individual medley and the 400m individual medley. He also collected a silver medal as part of the 4x200m freestyle relay.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">At the Montreal world championships in 2005, Phelps earned three gold medals in the 100m butterfly, 200m butterfly and 4x200m freestyle relay. He also won two silver medals in the 200m individual medley and the 400m individual medley.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">During the 2007 world championships in Melbourne, Australia, Phelps secured seven gold medals in the 200m butterfly, 100m butterfly, 200m individual medley, 400m individual medley, 4x100m freestyle relay, 4x200m freestyle relay and 4x100m medley relay.&nbsp;</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">At the Rome world championships in 2009, Phelps won five gold medals in the 100m butterfly, 200m butterfly, 200m freestyle, 4x100m freestyle relay and 4x100m medley relay. He took home a silver medal in the 4x200m freestyle relay.</span></p><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">In 2011 at the Shanghai world championships, Phelps earned four gold medals in the 100m butterfly, 200m butterfly, 4x200m freestyle relay and 4x100m medley relay. He also took home two silver medals in the 200m freestyle and the 4x100m freestyle relay.</span></p><h5>Early Career</h5><p><span style=\"color: rgb(13, 13, 13);font-size: 12pt;\">Following the Athens 2004 Olympic Games, Phelps dedicated four years to rigorous training at the University of Michigan, foregoing formal education for the time being.</span></p><h5>Olympic Experience</h5><ul><li>5-time Olympian; 28-time Olympic medalist (23 gold, 3 silver, 2 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (200m Butterfly - Men, 200m Individual Medley - Men, 4 x 100m Freestyle Relay - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men), silver (100m Butterfly - Men)</li><li>Olympic Games London 2012, gold (100m Butterfly - Men, 200m Individual Medley - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men), silver (200m Butterfly - Men, 4 x 100m Freestyle Relay - Men), 4th (400m Individual Medley - Men)</li><li>Olympic Games Beijing 2008, gold (100m Butterfly - Men, 200m Butterfly - Men, 200m Freestyle - Men, 200m Individual Medley - Men, 4 x 100m Freestyle Relay - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men, 400m Individual Medley - Men)</li><li>Olympic Games Athens 2004, gold (100m Butterfly - Men, 200m Butterfly - Men, 200m Individual Medley - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men, 400m Individual Medley - Men), bronze (200m Freestyle - Men, 4 x 100m Freestyle Relay - Men)</li><li>Olympic Games Sydney 2000, 5th (200m Butterfly - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2011 – gold (100m Butterfly - Men, 200m Butterfly - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men), silver (200m Freestyle - Men, 200m Individual Medley - Men), bronze (4 x 100m Freestyle Relay - Men)</li><li>Years of participation: 100m Butterfly - Men 2003, 2005, 2007, 2009, 2011; 200m Butterfly - Men 2001, 2003, 2007, 2009, 2011; 200m Freestyle - Men 2005, 2007, 2009, 2011; 200m Individual Medley - Men 2003, 2005, 2007, 2011; 4 x 100m Freestyle Relay - Men 2005, 2007, 2009, 2011; 4 x 100m Medley Relay - Men 2003, 2005, 2009, 2011; 4 x 200m Freestyle Relay - Men 2003, 2005, 2007, 2009, 2011; 400m Individual Medley - Men 2003, 2007; 100m Freestyle - Men 2005; 400m Freestyle - Men 2005; 100m Individual Medley (SC) - Men 2004; 200m Butterfly (SC) - Men 2004; 200m Freestyle (SC) - Men 2004; 200m Individual Medley (SC) - Men 2004; 400m Individual Medley (SC) - Men 2004</li><li>Medals: 34 (27 gold, 6 silver, 1 bronze)</li><ul><li>Gold – 2011 (100m Butterfly - Men, 200m Butterfly - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men);  2009 (100m Butterfly - Men, 200m Butterfly - Men, 4 x 100m Freestyle Relay - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men);  2007 (100m Butterfly - Men, 200m Butterfly - Men, 200m Freestyle - Men, 200m Individual Medley - Men, 4 x 100m Freestyle Relay - Men, 4 x 200m Freestyle Relay - Men, 400m Individual Medley - Men);  2005 (200m Freestyle - Men, 200m Individual Medley - Men, 4 x 100m Freestyle Relay - Men, 4 x 100m Medley Relay - Men, 4 x 200m Freestyle Relay - Men);  2004 (200m Freestyle (SC) - Men);  2003 (200m Butterfly - Men, 200m Individual Medley - Men, 4 x 100m Medley Relay - Men, 400m Individual Medley - Men);  2001 (200m Butterfly - Men)</li><li>Silver – 2011 (200m Freestyle - Men, 200m Individual Medley - Men);  2009 (200m Freestyle - Men);  2005 (100m Butterfly - Men);  2003 (100m Butterfly - Men, 4 x 200m Freestyle Relay - Men)</li><li>Bronze – 2011 (4 x 100m Freestyle Relay - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1681826981/TeamUSA%20Assets/Athlete%20Profiles/Michael%20Phelps/phelps_michael_081316_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 23,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1681840981/TeamUSA%20Assets/Athlete%20Profiles/Michael%20Phelps/Phelps_Michael_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Phelps"
+        },
+        {
+          "title": "Swimming"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Top Athletes"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Phinney",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1990-06-27T00:00:00",
+        "hometown": {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.015,
+          "longitude": -105.2705
+        },
+        "education": "Boulder High School (Boulder, Colo.) ‘07 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Davis Phinney and Connie Carpenter-Phinney</li><li>Has a younger sister, Kelsey</li><li>Lived in Italy for three years as a teenager while his parents ran a European bike touring company</li><li>Speaks Italian</li><li>Mother, Connie, was the first women’s cyclist to win an Olympic gold medal, winning the first Olympic cycling event for women in the 1984 road race</li><li>Previously, his mother also represented Team USA at the 1972 Olympic Winter Games in speedskating</li><li>Father, Davis, won a bronze medal in the team time trial at the 1984 Olympic Games and was also a Tour de France stage winner</li><li>Interests include dancing, eating, playing video games and doing flips on the trampoline.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016,  (Road race - Men), 22th (Individual time trial - Men)</li><li>Olympic Games London 2012, 4th (Individual time trial - Men, Road race - Men)</li><li>Olympic Games Beijing 2008, 7th (4km Individual Pursuit - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – silver (Team time trial - Men), 15th (Individual time trial - Men), 43th (Road race - Men)</li><li>Years of participation: Individual time trial - Men 2007, 2008, 2010, 2011, 2012, 2013, 2015, 2016; Road race - Men 2007, 2010, 2011, 2012, 2013, 2015, 2016; Team time trial - Men 2012, 2013, 2015, 2016; 4km Individual Pursuit - Men 2008, 2009, 2010; Omnium - Men 2009, 2010; 1km Time Trial - Men 2009</li><li>Medals: 12 (5 gold, 4 silver, 3 bronze)</li><ul><li>Gold – 2015 (Team time trial - Men);  2010 (4km Individual Pursuit - Men, Individual time trial - Men);  2009 (4km Individual Pursuit - Men);  2007 (Individual time trial - Men)</li><li>Silver – 2016 (Team time trial - Men);  2012 (Individual time trial - Men, Team time trial - Men);  2009 (1km Time Trial - Men)</li><li>Bronze – 2010 (Omnium - Men, Road race - Men);  2008 (Individual time trial - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Cycling",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004238/TeamUSA%20Assets/Athlete%20Profiles/Taylor%20Phinney%20912805/phinney_taylor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylor Phinney 912805"
+        }
+      ]
+    },
+    {
+      "first_name": "Justin",
+      "last_name": "Phongsavanh",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1997-05-19T00:00:00",
+        "hometown": {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 41.6005,
+          "longitude": -93.6091
+        },
+        "education": "Des Moines Area Community College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span>Son of Tamera Shinn</span></li><li>Was involved in football, track and field, wrestling and rugby in high school</li><li>In October 2015, Phongsavanh and his friend were gunned down in a fast food parking lot which resulted in him being shot and paralyzed below the waist</li><li>After spending four months in the hospital and undergoing physical therapy, he returned home and realized he had the desire to compete again</li><li>Five months after his injury, he reached out to Adaptive Sports Iowa to learn more about Paralympic sport opportunities</li><li>Hobbies include fishing, playing with his dog and hanging out with his friends</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, 4th (Javelin Throw F54 - Men)</li><li>Paralympic Games Tokyo 2020, bronze (Javelin Throw F54 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 4th (Javelin Throw F54 - Men)</li><li>Years of participation: Javelin Throw F54 - Men 2019, 2024</li><li>Top finish: 4th – 2019 (Javelin Throw F54 - Men), 2024 (Javelin Throw F54 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662002/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/J_Phongsavanh_bio_1122126.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T54/F54",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662820/TeamUSA%20Assets/Athlete%20Profiles/Justin%20Phongsavanh%201122126/phongsavanh_j_hero_1122126.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013172/TeamUSA%20Assets/Athlete%20Profiles/Justin%20Phongsavanh%201122126/Phongsavanh_Justin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Justin Phongsavanh 1122126"
+        },
+        {
+          "title": "Has Opendorse Account"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Stacy",
+      "last_name": "Piagno",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1991-03-07T00:00:00",
+        "hometown": {
+          "city": "St. Augustine",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 29.9012,
+          "longitude": -81.3125
+        },
+        "education": "University of Tampa",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div></div>\n<div><br>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2014 IBAF Women's Baseball World Cup, 2nd</li>\n    <li>2012&nbsp;IBAF Women's Baseball World Cup, 2nd</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Rick and Lynn Piagno</li><li>Played softball the University of Tampa and Flagler College</li><li>Hobbies include playing the ukulele.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347893/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stacy%20Piagno/Baseball_Women_Piagno_Stacy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stacy Piagno"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Samantha",
+      "last_name": "Pickens",
+      "bio": {
+        "height": "5' 0”",
+        "birthday": "1991-07-04T00:00:00",
+        "hometown": {
+          "city": "Murrysville",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.4356,
+          "longitude": -79.6895
+        },
+        "education": " University of Arizona",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Samantha is the daughter of Jack and Debra Pickens and she has an older brother, David</li><li>Samantha began diving when she was 13</li><li>Her favorite dive is 5152B on 3M and 303B on 1M</li><li>Samantha majored in psychology at the University of Arizona</li><li>Away from the pool, she enjoys hiking, arts and crafts, and reading,</li><li>She also loves playing with big dogs</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Berlin, 2022 (3m Springboard - Women)</li><li>World Cup, Tokyo, 2021 (3m Springboard - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 17th (1m Springboard - Women)</li><li>Years of participation: 1m Springboard - Women 2013, 2015; 3m Springboard Synchro - Women 2013</li><li>Top finish: 7th – 2013 (3m Springboard Synchro - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011198/TeamUSA%20Assets/Athlete%20Profiles/Samantha%20Pickens%20829387/Pickens-Samantha-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Samantha Pickens 829387"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Pickos",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1991-10-20T00:00:00",
+        "hometown": {
+          "city": "Santa Rosa Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 30.3799,
+          "longitude": -86.2205
+        },
+        "education": "South Walton High School (Santa Rosa Beach, Fla.) ‘10 University of Louisiana Monroe ’16, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Cory and Rose Pickos</li><li>Married to Caitlin McGinty</li><li>Has one sister, Alexis</li><li>Enjoys playing sports, birding and photography.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Tricks - Men, Slalom - Men)</li><li>Pan American Games, Toronto, 2015 (Overall - Men, Tricks - Men, Slalom - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 6th (Tricks - Men)</li><li>Years of participation: Tricks - Men 2009, 2011, 2013, 2015, 2017, 2019, 2021, 2023; Slalom - Men 2013, 2015, 2017, 2019; Team - Mixed 2017, 2019</li><li>Medals: 4 (3 gold, 1 silver)</li><ul><li>Gold – 2017 (Team - Mixed, Tricks - Men);  2015 (Tricks - Men)</li><li>Silver – 2019 (Team - Mixed)</li></ul></ul><h5>More</h5><p>\n<em>\n<strong>Best Performance</strong>\n</em>\n</p>\n<p>\nSlalom: 3 buoys at 39-1/2 feet off\n</p>\n<p>Tricks: 12,170 points</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Waterski/Wakeboard",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011358/TeamUSA%20Assets/Athlete%20Profiles/Adam%20Pickos%20915950/Water_Ski_Pickos_Adam.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adam Pickos 915950"
+        }
+      ]
+    },
+    {
+      "first_name": "Jonny",
+      "last_name": "Pierce",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1993-11-02T00:00:00",
+        "hometown": {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8358,
+          "longitude": -118.34
+        },
+        "education": "South Torrance High School (Torrance, Calif.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Helps coach the Special Olympics chapter in Torrance, California</li><li>Son of Irene and Tim Pierce</li><li>Has one brother, Chris</li><li>Hobbies include drawing, golfing, playing volleyball and riding trains</li><li>Knows everything about Disney and remembers everyone&#39;s birthday</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 World Para Swimming World Series Indianapolis, 1st (200 IM, 200 freestyle), 3rd (100 butterfly), 4th (100 breaststroke)</li>\r\n                            <li>2018 World Para Swimming World Series Indianapolis, 6th (200 IM, 100 butterfly), 7th (100 backstroke, 200 freestyle)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S14, SB14, SM14",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347875/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jonny%20Pierce/JonnyPierceHeadshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jonny Pierce"
+        }
+      ]
+    },
+    {
+      "first_name": "Anja",
+      "last_name": "Pierce",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1968-08-04T00:00:00",
+        "hometown": {
+          "city": "Pittsford",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.09034,
+          "longitude": -77.52222
+        },
+        "education": "Brown University",
+        "fun_fact": null,
+        "biography": "<p></p>\n<div style=\"color: #222222;\">\n<div></div>\n<div></div>\n<div></div>\n<div></div>\n<div></div>\n<p><em style=\"font-family: tahoma;\"><br>\n</em></p>\n<p><em style=\"font-family: tahoma;\">2015 Paracanoe World Championships Team Member</em></p>\n</div>\n<p><br>\n</p>\n<p><strong>Top Results:</strong></p>\n<ul>\n    <li>2015 ICF Canoe Sprint and Paracanoe World Championships&nbsp;\n    \n    <ul>\n        <li><strong>GOLD</strong>&nbsp;in VL3 Women 200m&nbsp;</li>\n        <li>8th in KL3 Women 200m&nbsp;</li>\n    </ul>\n    </li>\n    <li>2014 ICF Canoe Sprint and Paracanoe World Championships - 4th in LTA V-1 Women 200m</li>\n    <li>2013 ICF Canoe Sprint World Championships -&nbsp;<strong>BRONZE</strong>&nbsp;in LTA V-1 Women 200m</li>\n    <li>2012 ICF Canoe Sprint World Championships -&nbsp;<strong>SILVER&nbsp;</strong>in LTA V-1 Women 200m<br>\n    <br>\n    </li>\n</ul>\n<p><br>\n</p>\n<p><h5>Quick Facts</h5>\n<ul>\n    <li>\n    </li>\n    <li><strong>Job:</strong> Pediatric Physical Therapist</li>\n    <li></li>\n    <li><strong>Role Model:</strong> Jan Whitaker and Deborah Page and Bob Balk, for their expertise of and dedication to Paracanoe.</li>\n    <li><strong>How you got into the sport:</strong> Met Jan Whitaker at an amputee fitness event at Nazareth College.</li>\n    <li>\n    <br>\n    </li>\n</ul><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – bronze (Canoe single VL3 200m - Women), 14th (Kayak single KL3 200m - Women)</li><li>Years of participation: Canoe single VL3 200m - Women 2015, 2016; Kayak single KL3 200m - Women 2015, 2016; V1 200m LTA - Women 2012, 2013, 2014</li><li>Medals: 4 (1 gold, 1 silver, 2 bronze)</li><ul><li>Gold – 2015 (Canoe single VL3 200m - Women)</li><li>Silver – 2012 (V1 200m LTA - Women)</li><li>Bronze – 2016 (Canoe single VL3 200m - Women);  2013 (V1 200m LTA - Women)</li></ul></ul></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718428/TeamUSA%20Assets/Migration/Athlete%20Profiles/Anja%20Pierce%201008187/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718431/TeamUSA%20Assets/Migration/Athlete%20Profiles/Anja%20Pierce%201008187/Anja-Pierce-2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anja Pierce 1008187"
+        }
+      ]
+    },
+    {
+      "first_name": "Conner",
+      "last_name": "Pierce",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1999-08-27T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "The Seattle Academy of Arts and Sciences (Seattle, Washington) ‘18 The University of British Columbia ‘22, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with cerebral palsy, Pierce struggled playing sports growing up. In 2013, he started lifting weights to improve his self-confidence and in 2017 got involved in Paralympic track and field. He progressed through the sport and in 2018, made the U.S. Paralympics Track &amp; Field High School All-Americans list. He runs on the varsity track team at the University of British Columbia and made his first U.S. team at the 2019 Parapan American Games</li><li>Son of John and Vicki Pierce</li><li>Has a brother, Jordan</li><li>Writing a book called “Afflicted and Able: My Journey from Palsy to Paralympic Sport”</li><li>Spends his time as a motivational speaker.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (400m T36 - Men, 100m T36 - Men)</li><li>ParaPan American Games, Lima, 2019 (400m T36 - Men, 100m T36 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718403/TeamUSA%20Assets/Migration/Athlete%20Profiles/Conner%20Pierce%201153708/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T36",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718404/TeamUSA%20Assets/Migration/Athlete%20Profiles/Conner%20Pierce%201153708/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Conner Pierce 1153708"
+        }
+      ]
+    }
+  ]
+}

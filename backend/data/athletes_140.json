@@ -1,0 +1,975 @@
+{
+  "entries": [
+    {
+      "first_name": "Cindy",
+      "last_name": "Simon",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1970-10-21T00:00:00",
+        "hometown": {
+          "city": "Wayne",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.9228,
+          "longitude": -74.2689
+        },
+        "education": "New York University, Jurors Doctorate Degree; Rutgers University, Political Science Master of Arts.",
+        "fun_fact": null,
+        "biography": "<p style=\"color: blue; font-size: 18px; font-weight: bold;\">Cindy Simon</p>\n<p></p>\n<hr color=\"red\">\n<hr color=\"blue\">\n<p><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games London 2012, 5th (57kg - Women)</li></ul></ul><h5>Quick Facts</h5>\n<p>Cindy lives with her husband and two children in Wayne, New Jersey.  She was first introduced to judo during her second semester in law school.  Cindy returned to judo in 2006 to train toward participating in the Paralympics Games.  During the past five years she has made significant strides towards that goal.</p>\n<p>She is a member of the Kokushikai Judo Academy and trains four days per week under the watchful eyes of her coach Celita Schutz (3X&rsquo;s Judo Olympian).  Cindy also trains six times a week at the Wayne YMHA were she receives strength and balance instruction twice a week.</p>\n<p>She graduated from New York University with a Jurors Doctorate Degree and Rutgers University with a Master of Arts Degree in Political Science.  Dr. Simon is employed as an adjunct professor at William Paterson University and Passaic County Community County College as well as a Visiting Part-Time Professor at DeVry University Online.  She also practices a little law.</p>\n<p>Despite her busy training schedule, she still enjoys playing goalball and volunteering for local organizations.</p>\n<p><strong>Major Judo Awards:</strong></p>\n<ul>\n    <li>2015: German Open for the Blind &amp; Visually Impaired - Silver</li>\n    <li><strong>2012 Team Member, Paralympic Games, London, England</strong></li>\n    <li>2010 &amp; 2011: German Open for the Visually Impaired - Bronze</li>\n    <li>2010, 2011, 2013, 2014: USA Judo National Champion for Blind &amp; Visually Impaired - Gold</li>\n</ul>\n<p>&nbsp;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 11th (63kg - Women)</li><li>Years of participation: 63kg - Women 2018; 57kg - Women 2014; 52kg - Women 2010</li><li>Top finish: 7th – 2010 (52kg - Women), 2014 (57kg - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Optic Albino (B3)",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327929/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cindy%20Simon/Simon_Cynthia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cindy Simon"
+        }
+      ]
+    },
+    {
+      "first_name": "Jenny",
+      "last_name": "Simpson",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1986-08-23T00:00:00",
+        "hometown": {
+          "city": "Oviedo",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.66916,
+          "longitude": -81.20062
+        },
+        "education": "Oviedo High School (Oviedo, Fla.) '05 University of Colorado '09, Political Science and Economics ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bruce and Janet Barringer</li><li>Has one brother, John, and one sister, Emily</li><li>Married to Jason Simpson</li><li>Three-time NCAA steeplechase champion</li><li>Grew up wanting to be an Olympian in the sport of equestrian.</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (1500m - Women)</li><li>Olympic Games London 2012, 17th (1500m - Women)</li><li>Olympic Games Beijing 2008, 8th (3000m Steeplechase - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2017 – silver (1500m - Women)</li><li>Years of participation: 1500m - Women 2015, 2017; 3000m Steeplechase - Women 2007, 2009</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2017 (1500m - Women)</li></ul></ul><h5>More</h5>Personal Website<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697694/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jenny%20Simpson%20849332/simpson_jennifer_081416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697697/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jenny%20Simpson%20849332/Simpson_Jenny_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jenny Simpson 849332"
+        }
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Simpson",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1990-03-30T00:00:00",
+        "hometown": {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.7488,
+          "longitude": -84.3877
+        },
+        "education": "University of Virginia School of Law ‘20",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Hal and Linda Simpson</li><li><span>Born with a congenital retina disease that left him with severely impaired vision from an early age</span></li><li>Works as an associate at Sidley &amp; Austin LLP</li><li>Became active in sports and found goalball at a U.S. Association of Blind Athletes Sports Education Camp in 1999</li><li>Hobbies include skiing, hiking, climbing and triathlons.</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Paris 2024, 6th (Team - Men)</li><li>Paralympic Games Tokyo 2020, 4th (Team - Men)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – 9th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1723825321/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Simpson%20852425/Simpson_M_bio_852425.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "B3",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662736/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Simpson%20852425/simpson_m_hero_852425.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013178/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Simpson%20852425/Simpson_Matthew_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matt Simpson 852425"
+        },
+        {
+          "title": "Goalball"
+        },
+        {
+          "title": "Paralympic Games Paris 2024"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Natalie",
+      "last_name": "Sims",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1997-06-06T00:00:00",
+        "hometown": {
+          "city": "Edina",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.8986,
+          "longitude": -93.3502
+        },
+        "education": "Edina High School (Edina, Minn.) ‘16 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>When Sims was thirteen years old, she took a chance and joined her YWCA’s swim club, the Minneapolis Otters</li><li>In less than four years she grew from a beginner to one of the fastest youth swimmers in the organization</li><li>In 2013, Sims qualified in the S9 classification for her first Paralympic meet</li><li>Between 2013 and 2015, she was named to the U.S. Paralympic Swimming Emerging Team and competed in the 2014 Can-Am Paralympic Championships in Edmonton</li><li>She is the cousin of Dragomir Cioroslan, the Romanian weightlifting bronze medalist from the Olympic Games Los Angeles 1984</li><li>Daughter of Michael and Lisa Sims</li><li>Has one brother, Jack, and one sister, Nicole</li><li>Interests include running, biking, fishing, swimming, reading and yoga</li><li>She is a lifeguard</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, bronze (4 x 100m Freestyle Relay 34 Points - Mixed), 5th (100m Freestyle S9 - Women), 6th (200m Individual Medley SM9 - Women)</li><li>Paralympic Games Tokyo 2020,  (4 x 100m Freestyle Relay 34 Points - Women), 7th (100m Freestyle S9 - Women), 8th (400m Freestyle S9 - Women), 9th (200m Individual Medley SM9 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 8th (400m Freestyle S9 - Women), 11th (100m Freestyle S9 - Women), 14th (100m Backstroke S9 - Women), 15th (100m Butterfly S9 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – gold (4 x 100m Freestyle Relay 34 Points - Women, 4 x 100m Medley Relay 34 Points - Women), bronze (100m Freestyle S9 - Women, 400m Freestyle S9 - Women, 50m Freestyle S9 - Women), 5th (200m Individual Medley SM9 - Women), 7th (100m Butterfly S9 - Women)</li><li>Years of participation: 100m Butterfly S9 - Women 2017; 100m Freestyle S9 - Women 2017; 200m Individual Medley SM9 - Women 2017; 4 x 100m Freestyle Relay 34 Points - Women 2017; 4 x 100m Medley Relay 34 Points - Women 2017; 400m Freestyle S9 - Women 2017; 50m Freestyle S9 - Women 2017</li><li>Medals: 5 (2 gold, 3 bronze)</li><ul><li>Gold – 2017 (4 x 100m Freestyle Relay 34 Points - Women, 4 x 100m Medley Relay 34 Points - Women)</li><li>Bronze – 2017 (100m Freestyle S9 - Women, 400m Freestyle S9 - Women, 50m Freestyle S9 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S9, SB9, SM9",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013123/TeamUSA%20Assets/Athlete%20Profiles/Natalie%20Sims%20806343/Sims_Natalie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Natalie Sims 806343"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Kaitlynn",
+      "last_name": "Sims",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2000-11-27T00:00:00",
+        "hometown": {
+          "city": "Montgomery",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 30.3833,
+          "longitude": -95.6833
+        },
+        "education": "Montgomery High School (Montgomery, Texas) ‘18 University of Michigan (verbally committed in 2018)",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2018 Phillips 66 Nationals, 25th (400m free, 800m free) </li>\r\n                            <li>2018 Texas 6A state championship, 1st (500yd free)</li>\r\n                            <li>2017 Speedo Winter Junior Championships – West, 1st (1,650yd free, 500yd fee) </li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697758/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kaitlynn%20Sims%201113249/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697761/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kaitlynn%20Sims%201113249/simms_kaitlynn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kaitlynn Sims 1113249"
+        }
+      ]
+    },
+    {
+      "first_name": "Jerome",
+      "last_name": "Singleton",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1986-07-07T00:00:00",
+        "hometown": {
+          "city": "Irmo",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 34.0885,
+          "longitude": -81.1895
+        },
+        "education": "Dutch Fork High School (Irmo, S.C.) ‘04 University of Michigan, Industrial and Operations Engineering; Morehouse College ’11, Mathematics and Applied Physics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Raised in Irmo, South Carolina, Singleton balanced athletics and academics in his journey to becoming a Paralympic silver medalist. Born with a partial tibia in his right leg, he was only 18 months old when his leg was amputated below the knee and went on to become one of the top football high school prospects in South Carolina. Singleton attended Morehouse College where he double majored in mathematics and applied physics before transferring to the University of Michigan to add an industrial engineering degree. While in school, he interned at NASA’s Glenn Research Center in Cleveland and CERN, the world’s largest particle physics laboratory in Geneva, Switzerland. In 2007, just two days after his return from CERN in Switzerland, Singleton competed at the U.S. Paralympics Track and Field National Championships in Atlanta, securing a place on the U.S. Paralympic Team for the 2008 Paralympic Games. A three-time Paralympian Singleton spends time off the track as a motivational speaker, track coach, track official, and is pursuing his MBA with a finance concentration</li><li>Son of Jerome Sr. and Jacqueline Singleton</li><li>Has one sister Shalena and one brother Anthon</li><li>Played basketball, ran hurdles in track, and was a starting strong safety on his football team at Dutch Fork High School</li><li>While at NASA, he worked on several projects such as an engine to assist with the Mars landing, an imaging system for the early detection of cataracts, and the effects of photoactivity on subterranean termites.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 2-time Paralympic medalist (1 gold, 1 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016,  (4 x 100m Relay T42-47 - Men), 6th (100m T44 - Men), 13th (Long Jump T44 - Men)</li><li>Paralympic Games London 2012,  (4 x 100m Relay T42-46 - Men), 5th (200m T44 - Men), 6th (100m T44 - Men)</li><li>Paralympic Games Beijing 2008, gold (4 x 100m Relay T42-46 - Men), silver (100m T44 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 6th (200m T64 - Men)</li><li>Years of participation: 200m T64 - Men 2019; 100m T44 - Men 2011, 2013, 2017; 200m T44 - Men 2011, 2013, 2017; 4 x 100m Relay T42-47 - Men 2017; 4 x 100m Relay T42-46 - Men 2011, 2013</li><li>Medals: 6 (2 gold, 2 silver, 2 bronze)</li><ul><li>Gold – 2013 (4 x 100m Relay T42-46 - Men);  2011 (100m T44 - Men)</li><li>Silver – 2011 (200m T44 - Men, 4 x 100m Relay T42-46 - Men)</li><li>Bronze – 2013 (100m T44 - Men, 200m T44 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697709/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jerome%20Singleton%20862436/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T44/F44",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697710/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jerome%20Singleton%20862436/Singleton_Jerome.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jerome Singleton 862436"
+        }
+      ]
+    },
+    {
+      "first_name": "Chase",
+      "last_name": "Sinnett",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1998-11-04T00:00:00",
+        "hometown": {
+          "city": "Medfield",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.1667,
+          "longitude": -71.3333
+        },
+        "education": "Medfield High School (Medfield, Mass.) Clark University '17-'20; University of Minnesota '22, Individualized Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents David and Juli Sinnett (both curlers)</li><li>Younger brother, Brice, won USA U18 National bronze medal in 2019</li><li>Began curling at age 5</li><li>Hobbies include writing (specialized in poetry), playing video games and photography</li><li>Freelance writer and graphic designer.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>USA Men’s National Championship Bronze Medal 2020, 2021</li>\r\n                            <li>USA Junior National Championship Bronze Medal 2018, 2020</li>\r\n                            <li>USA U18 National Championship Bronze Medal 2017</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011015/TeamUSA%20Assets/Athlete%20Profiles/Chase%20Sinnett%20916060/Chase-Sinnett.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chase Sinnett 916060"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Sisson",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1991-10-12T00:00:00",
+        "hometown": {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.0389,
+          "longitude": -87.9065
+        },
+        "education": "Providence College ‘15, Master of Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Track and field</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Event:</strong></span><span style=\"font-size: 11pt;\"> 10,000-meter and marathon</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Emily Sisson is an accomplished American long-distance runner recognized for her strong performances on the track and road. Sisson has consistently been among the top competitors in marathon events globally.</span></p><p><span style=\"font-size: 11pt;\">Sisson was introduced to running at a young age. She showed early promise as a distance runner, setting multiple high school records and earning a scholarship to Providence College.</span></p><p><span style=\"font-size: 11pt;\">Sisson is known for her disciplined training and strong work ethic. She’s active on social media, where she shares insights into her training and racing experiences. Sisson’s parents Mark and Nancy Sisson both share backgrounds in sports, helping her develop her love for competitive athletics.&nbsp;</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Emily Sisson made her Olympic debut at the Tokyo 2020 Olympic Games. During the 2020 U.S. Olympic Trials, Sisson won the 10,000-meter race and set a meet record. During the Olympic Final, she finished 10th with a time of 31:09.58.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">In 2024, she placed second in the marathon at the U.S. Olympic Trials, qualifying for the Paris 2024 Olympic Games. At the Paris 2024 Games, Sisson finished 23rd overall in the Women’s marathon with a time of 2:29.53.</span></p><h5>World Championship Highlights</h5><p><span style=\"font-size: 11pt;\">Sisson competed in the 2017 World Athletics Championships in London, in the 10,000-meter event. She finished in 9th place with a time of 31:26.36. In the same event in the 2019 World Athletics Championships in Doha, Qatar, Sisson finished in 10th place with a time of 31:12.56.&nbsp;</span></p><h5>U.S. Championship Highlights</h5><p><span style=\"font-size: 11pt;\">The year 2019 proved to be transformative for Sisson, as she continued her stellar year by winning the U.S. Half Marathon Championship with a time of 1:07:26 and dominating the Stanford Invitational in Palo Alto with a commanding performance of 30:49.57. Her momentum continued into 2022, where she showcased her marathon prowess by winning the U.S. Marathon Championship during the Chicago Marathon.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">Emily Sisson's impressive athletic career began to take shape during her collegiate years at Providence College, where she captured the 2015 NCAA Division I Outdoor Track &amp; Field Championship in the 5,000-meter. The following year, she elevated her status in American distance running by claiming her first U.S. title in the 10,000-meter at the USA Track &amp; Field Championships.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 23th (Marathon - Women)</li><li>Olympic Games Tokyo 2020, 10th (10000m - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2017 – 9th (10000m - Women)</li><li>Years of participation: 10000m - Women 2017</li><li>Top finish: 9th – 2017 (10000m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662057/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/sisson_e_bio_907607.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662468/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/sisson_e_hero_907607.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012248/TeamUSA%20Assets/Athlete%20Profiles/Emily%20Sisson%20907607/Sisson_Emily.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Sisson 907607"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Skaggs",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1999-05-07T00:00:00",
+        "hometown": {
+          "city": "Marietta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.9526,
+          "longitude": -84.5499
+        },
+        "education": "University of Florida",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><br /></td><td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50;width: 50;\" width=\"50\" height=\"50\"/></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Women, Beam - Women, Uneven Bars - Women, Floor Exercise - Women, Individual All-Around - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Tina and Harold Skaggs</li><li>Has one sister, Audrey</li><li>Began gymnastics in 2003</li><li>Hobbies include shopping, watching movies, cooking, playing board games and spending time with family.</li></ul><br />Education:<p>Georgia Virtual School (Atlanta, Ga.) ‘17</p><p>&nbsp;</p><h5>More</h5><p>Personal Website</p>&nbsp;<br /><p>USA Gymnastics</p><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328852/TeamUSA%20Assets/Migration/Athlete%20Profiles/Megan%20Skaggs/Gymnastics_Artistic_Women_Skaggs_Megan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megan Skaggs"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Haley",
+      "last_name": "Skarupa",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1994-01-03T00:00:00",
+        "hometown": {
+          "city": "Rockville",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.084,
+          "longitude": -77.1528
+        },
+        "education": "Thomas S. Wootton High School (Rockville, Md.) Boston College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Tony and Penny Skarupa</li><li>Has one brother, Dylan</li><li>Drafted ninth overall by the New York Riveters in 2015 NWHL Draft.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Helped Boston College to only the second undefeated regular season in NCAA history in her senior season</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (Team - Women)</li><li>Years of participation: Team - Women 2015, 2016, 2017</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2017 (Team - Women);  2016 (Team - Women);  2015 (Team - Women)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003533/TeamUSA%20Assets/Athlete%20Profiles/Haley%20Skarupa%201008959/skarupa_haley_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Haley Skarupa 1008959"
+        }
+      ]
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Skiba",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1984-04-28T00:00:00",
+        "hometown": {
+          "city": "Sammamish",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6168,
+          "longitude": -122.0357
+        },
+        "education": "Skyline High School (Sammamish, Washington) '02 University of Phoenix, Criminal Justice",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mark and Sheri Skiba</li><li>Has one brother, Bradley</li><li>Born without a fibula in his left leg due to fibular hemimelia, doctors amputated his leg below the knee when he was 11 months old</li><li>In 2008 became the first Paralympic athlete to clear the seven foot mark in high jump</li><li>Works as an officer with the San Diego Police Department</li><li>Knows Spanish.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 U.S. Paralympic Team Trials - Track &amp; Field, 2nd (high jump, javelin)</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>4-time Paralympian; 4-time Paralympic medalist (1 gold, 3 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016, 5th (High Jump T44 - Men), 13th (Javelin Throw F44 - Men)</li><li>Paralympic Games London 2012, silver (High Jump T46 - Men), 8th (Javelin Throw F44 - Men)</li><li>Paralympic Games Beijing 2008, gold (High Jump T44/46 - Men), silver (Pentathlon P44 - Men), 5th (Javelin Throw F42/44 - Men), 6th (Discus Throw F44 - Men), 9th (Long Jump T42-44 - Men)</li><li>Paralympic Games Athens 2004, silver (High Jump T44/46 - Men), 4th (Discus Throw F44/46 - Men), 8th (Javelin Throw F44/46 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – bronze (High Jump T44 - Men), 13th (Javelin Throw F44 - Men)</li><li>Years of participation: High Jump T44 - Men 2015; Javelin Throw F44 - Men 2015; High Jump T42/44 - Men 2013; High Jump T46 - Men 2011; Discus Throw F44 - Men 2006; High Jump T44/46 - Men 2006; Long Jump T44 - Men 2006; Pentathlon P44 - Men 2006</li><li>Medals: 4 (1 gold, 3 bronze)</li><ul><li>Gold – 2006 (High Jump T44/46 - Men)</li><li>Bronze – 2015 (High Jump T44 - Men);  2011 (High Jump T46 - Men);  2006 (Discus Throw F44 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 3
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "F44",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011942/TeamUSA%20Assets/Athlete%20Profiles/Jeff%20Skiba%20820509/skiba_jeffrey_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jeff Skiba 820509"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Skilken",
+      "bio": {
+        "height": "5' 2\"",
+        "birthday": "2001-04-11T00:00:00",
+        "hometown": {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 39.961176,
+          "longitude": -82.998794
+        },
+        "education": "Columbus Academy (2019) University of Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Karen and Steve Skilken</li><li>Has a younger sister, Blake</li><li>Her dad was an All-American diver at Ohio State and her sister plans to dive there</li><li>Jordan started diving at age 11 and used to be a competitive dancer</li><li>Favorite dive is 5152B</li><li>Likes to listen to upbeat music to keep her energy up at competitions</li><li>If Jordan could work any profession, she would love to work in the fashion industry</li><li>Her favorite meal is sushi</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (10m Platform Synchro - Women, 3m Springboard Synchro - Women, 10m Platform - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010121/TeamUSA%20Assets/Athlete%20Profiles/Jordan%20Skilken%201103903/Jordan-Skilken-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jordan Skilken 1103903"
+        }
+      ]
+    },
+    {
+      "first_name": "MyKayla",
+      "last_name": "Skinner",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1996-12-09T00:00:00",
+        "hometown": {
+          "city": "Gilbert",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.3528,
+          "longitude": -111.789
+        },
+        "education": "Higley High School '15 University of Utah '22, Communication/Journalism",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Cris and Kym</li><li>Married Jonas Harmer in 2019</li><li>Siblings are Jeremy, Chelsea and Katie</li><li>Has 6 nieces and nephews</li><li>Chelsea and Katie are also involved in gymnastics</li><li>Started gymnastics in 2000</li><li>Her favorite event is floor</li><li>Hobbies include jewlrey,beading, going to movies and hanging out with friends</li><li>Favorite music is country music</li><li>Favorite movie is Twilight</li><li>Enjoys Mexican food, shopping and sleeping</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Vault - Women), 14th (Floor Exercise - Women), 27th (Beam - Women, Individual All-Around - Women), 31th (Uneven Bars - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2014, 2019; Beam - Women 2014; Floor Exercise - Women 2014; Individual All-Around - Women 2014; Uneven Bars - Women 2014; Vault - Women 2014</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2019 (Team - Women);  2014 (Team - Women)</li><li>Bronze – 2014 (Vault - Women)</li></ul></ul><h5>More</h5>USA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012566/TeamUSA%20Assets/Athlete%20Profiles/MyKayla%20Skinner%20915514/Skinner_MyKayla.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "MyKayla Skinner 915514"
+        }
+      ]
+    },
+    {
+      "first_name": "Avery",
+      "last_name": "Skinner",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1999-04-25T00:00:00",
+        "hometown": {
+          "city": "Katy",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7858,
+          "longitude": -95.8247
+        },
+        "education": "University of Kentucky '21",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Brian and Rebecca Skinner</li><li>Sister to five younger siblings, Madi, Jada, Brian, Phoenix and Malachi Skinner</li><li>Graduated from the University of Kentucky in 2021, played as a grad student at Baylor University</li><li>Father is a 14-year NBA veteran who also competed at Baylor</li></ul><h5>Career Highlights</h5><ul><li>2023 NORCECA Continental Championship, silver</li><li>2023 Volleyball Nations League Final, 4th</li><li>2022 Pan Am Cup Final Six, silver</li><li>2022 Pan Am Cup, bronze</li><li>2020 NCAA National Champion</li><li>All-American at both Kentucky and Baylor</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718342314/TeamUSA%20Assets/Athlete%20Profiles/Avery%20Skinner%201107544/skinner_a_bio_1107544.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718342292/TeamUSA%20Assets/Athlete%20Profiles/Avery%20Skinner%201107544/skinner_a_hero_1107544.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718342292/TeamUSA%20Assets/Athlete%20Profiles/Avery%20Skinner%201107544/skinner_a_hero_1107544.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718342292/TeamUSA%20Assets/Athlete%20Profiles/Avery%20Skinner%201107544/skinner_a_hero_1107544.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Avery Skinner"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Alec",
+      "last_name": "Sklutovsky",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "2003-01-19T00:00:00",
+        "hometown": {
+          "city": "Middlefield",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.5348,
+          "longitude": -72.6848
+        },
+        "education": " Salt Lake Community College",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> 500m</li><li>Switched from short track to long track speedskating in 2024</li><li>Finished sixth at the 2022 U.S. Olympic Short Track Trials&nbsp;</li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"font-size: 11pt;\">Alec Sklutovsky started speedskating at Danbury Speedskating Club, where his mom, Elena, a former member of the Ukrainian National Speedskating team, coached him and other speedskaters, including Clayton DeClemente, who, like Alec, would become a future U.S. national team member.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Sklutovsky started in short track where he was sixth overall at the 2022 U.S. Olympic Team Trials. After being a member of the short track speedskating team from 2022-24, Sklutovsky switched to long track speedskating and made his World Cup debut to begin the 2025-26 season in the 500m.</span></p><p><span style=\"font-size: 11pt;\">When he is not training,&nbsp;</span><span style=\"color: rgb(50, 49, 49);font-size: 11pt;\">his hobbies include reading, hiking and cooking.</span></p><h5>World Championships Experience</h5><ul><li>2022 World Junior Championships - Men's Relay 8th; 500m 23rd</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Gdansk, 2022 (3000m Relay - Men, 500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684508512/NGB%20Para%20Nordic/Migration/Athlete%20Profiles/Bryan%20Price/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767150419/TeamUSA%20Assets/Athlete%20Profiles/Alec%20Sklutovsky%201122905/Sklutovsky_a_1122905_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767150412/TeamUSA%20Assets/Athlete%20Profiles/Alec%20Sklutovsky%201122905/Sklutovsky_a_1122905_bio.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alec Sklutovsky 1122905"
+        },
+        {
+          "title": "Speedskating"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Slade",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-02-22T00:00:00",
+        "hometown": {
+          "city": "Albuquerque",
+          "state": "NM",
+          "country": "United States",
+          "latitude": 35.0844,
+          "longitude": -106.6504
+        },
+        "education": "Albuquerque Academy (Albuquerque, N.M.) ‘15 University of New Mexico ’19, Economics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Grant and Hope Slade</li><li>Had never competed at a Paralympic competition until June 2016 Great Lakes Regional Games and two weeks later, qualified for the 2016 U.S. Paralympic Team at the Team Trials</li><li>Loves playing and watching soccer</li><li>Earned 1st Team All-State, All-Metro First Team and District Player of the Year while playing for his high school soccer team.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 U.S. Paralympic Team Trials – Track &amp; Field, silver (long jump); bronze (100m)</li>\r\n                            <li>2016 Great Lakes Regional Games, 1st (long jump)</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 7th (Long Jump T47 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709266/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Slade%201009859/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T47",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709269/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Slade%201009859/Slade_Nick250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Slade 1009859"
+        }
+      ]
+    },
+    {
+      "first_name": "Rolland",
+      "last_name": "Slade",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1985-03-01T00:00:00",
+        "hometown": {
+          "city": "Spring Valley",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7403,
+          "longitude": -116.9947
+        },
+        "education": "Monte Vista High School (Spring Valley, Calif.) ‘03 California State University San Marcos, 14' Human Development, Counseling",
+        "fun_fact": null,
+        "biography": "<h5>Paralympic Experience</h5>\n&bull; 2012 Paralympic Games - Guide Runner<br>\n<h5>Career Highlights</h5>\n&bull; 2013 World Championships, silver (T11 400-meter guiding David Brown, VI 4x100-meter relay)<br>\n<h5>Quick Facts</h5>\nRolland is the son of Rolland and Adrienne Slade and oldest brother to Ryan and Alexandra. He lives for the Lord and Savior Jesus Christ first and foremost. Some of Rolland's hobbies include cars, Marvel/DC comics, drumming and music. One of his mottos is \"work hard but never take your self too seriously! Laugh a lot! It's fun!\".<br>\n<br>\n<strong>\nConnect:</strong><br>\nTwitter: @rjsladerade<br>\nInstagram: @rjsladerade",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709261/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rolland%20Slade%20820466/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Guide Runner",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709263/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rolland%20Slade%20820466/slade_rolland_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rolland Slade 820466"
+        }
+      ]
+    },
+    {
+      "first_name": "Jim",
+      "last_name": "Slater",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1982-12-09T00:00:00",
+        "hometown": {
+          "city": "Lapeer",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.0495,
+          "longitude": -83.3166
+        },
+        "education": "Lapeer East High School (Lapeer, Mich.) Michigan State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bill and Diane Slater</li><li>Father Bill was a defensive lineman in the NFL</li><li>Has one brother, Bill, and two sisters, Kari and Michelle</li><li>Has one daughter, Wyn, with wife Andria</li><li>Drafted 30th overall by the Atlanta Thrashers in the 2002 NHL Draft</li><li>Earned the Winnipeg Jets’  community service award in 2012</li><li>Hobbies include racquetball, traveling, fishing, golfing and trying new food.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Became the first player at Michigan State University to record 40 or more points in three straight seasons since 1999</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2012 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2006, 2012</li><li>Top finish: 7th – 2006 (Team - Men), 2012 (Team - Men)</li></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919211/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jim%20Slater/Slater_Jim_100613_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919212/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jim%20Slater/slater_jim_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jim Slater"
+        }
+      ]
+    }
+  ]
+}

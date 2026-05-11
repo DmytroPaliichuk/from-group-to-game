@@ -1,0 +1,1221 @@
+{
+  "entries": [
+    {
+      "first_name": "Evan",
+      "last_name": "Austin",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1992-09-10T00:00:00",
+        "hometown": {
+          "city": "Terre Haute",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.4667,
+          "longitude": -87.4139
+        },
+        "education": "Indiana State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began swimming at age 11</li><li>He has spastic paraplegia</li><li>The Sycamore alum made his senior international debut at the London Games</li><li>He took time away from swimming following the 2012 Paralympic Games in London and returned to training in late 2013</li><li>He has served as an assistant swimming coach at Terre Haute South High School</li><li>Son of Eric and Nola Austin</li><li>Has one older brother, Adam</li><li>Member of the Pi Kappa Phi fraternity</li><li>Nickname is EA Swim</li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 2-time Paralympic medalist (1 gold, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, 4th (400m Freestyle S7 - Men, 50m Butterfly S7 - Men), 6th (200m Individual Medley SM7 - Men)</li><li>Paralympic Games Tokyo 2020, gold (50m Butterfly S7 - Men), bronze (400m Freestyle S7 - Men), 5th (200m Individual Medley SM7 - Men), 8th (4 x 100m Freestyle Relay 34 Points - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 6th (4 x 100m Freestyle Relay 34 Points - Men, 4 x 100m Medley Relay 34 Points - Men), 8th (100m Breaststroke SB7 - Men, 100m Butterfly S8 - Men), 11th (200m Individual Medley SM8 - Men), 12th (400m Freestyle S8 - Men), 14th (100m Freestyle S8 - Men)</li><li>Paralympic Games London 2012, 6th (100m Breaststroke SB7 - Men, 4 x 100m Freestyle Relay 34 Points - Men), 14th (100m Butterfly S8 - Men), 15th (100m Freestyle S8 - Men, 200m Individual Medley SM8 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (50m Butterfly S7 - Men), 5th (100m Breaststroke SB6 - Men), 6th (200m Individual Medley SM7 - Men), 7th (400m Freestyle S7 - Men)</li><li>Years of participation: 100m Breaststroke SB6 - Men 2019; 200m Individual Medley SM7 - Men 2019; 400m Freestyle S7 - Men 2019; 50m Butterfly S7 - Men 2019</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2019 (50m Butterfly S7 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S7, SB6, SM7",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004957/TeamUSA%20Assets/Athlete%20Profiles/Evan%20Austin%20852060/austin_evan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Evan Austin 852060"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Austin",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1991-09-06T00:00:00",
+        "hometown": {
+          "city": "Conyers",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.60011,
+          "longitude": -84.01852
+        },
+        "education": "Heritage High School (Conyers, Ga.) ‘10",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kim and Chris Austin</li><li>Has two younger brothers, Dylan and Kyle</li><li>Grew up as a fan of the New York Yankees, and considered Derek Jeter to be his favorite baseball player</li><li>Drafted by the New York Yankees in the 13th round of the 2010 MLB June Amateur Draft.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Two-time MiLB.com New York Yankees Organization All-Star (2012, 2016)</li>\r\n                            <li>2013 Baseball America Low Class A All-Star</li>\r\n                            <li>2013 EAS Mid-Season All-Star</li>\r\n                            <li>2012 MLB Futures Game Selection</li>\r\n                            <li>2012 SAL Mid-Season All-Star</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924129/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tyler%20Austin/Austin_Tyler_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyler Austin"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Averill",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1992-03-05T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "University of Hawaii",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born in Portland, Oregon</li><li>Parents are Mark and Lisa Averill. Has one brother.</li><li>Has played professionally in Italy, France and Poland</li><li><span>Won the French League Championship with AS Cannes in 2021; Named Best Middle Blocker</span></li><li>Enjoys photography and hosts his own podcast entitled \"Tallest Podcast on Earth\"</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2018, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li><span>2023 NORCECA Continental Championship, gold</span></li><li>2023 Volleyball Nations League, silver<span></span></li><li>Pan American Games Toronto 2015, 6th (Team - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715657150/08042022_Taylor_Averill_White_Jersey_19_035.tiff"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321878/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylor%20Averill/2020TaylorAverill.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylor Averill"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Jerome",
+      "last_name": "Avery",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1978-12-22T00:00:00",
+        "hometown": {
+          "city": "Lemoore",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.0027,
+          "longitude": -119.7737
+        },
+        "education": "Lemoore High School (Lemoore, Calif.) ‘97 Fresno City College ‘01, Kinesiology (Associates)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Jerome Avery has been a guide runner with U.S. Paralympics Track &amp; Field since 2004, guiding Paralympians such as Lex Gillette, Josiah Jamison and David Brown. He is currently the guide for Paralympic champion and world record holder David Brown, nicknaming themselves “Team BrAvery”. An Olympic hopeful himself, Avery finished in the top 20 in the 2000 U.S. Olympic Trials and in the top 15 in the 2004 Olympic Trials. In high school, Avery was his school&#39;s MVP all four years, and he was ranked fifth in the state of California in the 100-meters. He competed two years at Fresno City College before training at the Chula Vista Elite Athlete Center (CVEATC) under Brooks Johnson. Bound by a tether, Avery and Brown sprint in lanes side-by-side, communicating by touch and sound with every synched stride as Avery tugs the tether to keep Brown in line to reach the finish line. They train at the CVEATC where they are coached by Brazilian Olympic middle distance champion Joaquim Cruz</li><li>Son of Bonnie and Jerome Avery</li><li>Has four siblings, Dominque, Jacques, Jaelin and Zonyea</li><li>His hobbies include shopping, watching movies, running, relaxing, beach, fishing, making music and dancing.</li></ul><h5>Paralympic Experience </h5><ul><li>Four-time Paralympian (2004, 2008, 2012, 2016); Three-time Paralympic medalist guide runner (2 gold, 1 silver)</li><li>Paralympic Games Rio 2016, gold (100m – David Brown)</li><li>Paralympic Games London 2012, 12th (200m – Josiah Jamison)</li><li>Paralympic Games Beijing 2008, gold (100m – Josiah Jamison)</li><li>Paralympic Games Athens 2004, silver (Long jump – Lex Gillette) </li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – semifinals (100m – David Brown)</li><li>Years of Participation: 2006, 2013, 2015, 2017, 2019</li><li>Medals: 6 (3 gold, 3 silver)</li><li>Gold – 2017 (100m – David Brown), 2015 (100m – David Brown), 2006 (100m – Josiah Jamison)</li><li>Silver – 2017 (200m – David Brown), 2013 (4x100m relay – Josiah Jamison), 2006 (Long jump – Lex Gillette)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700575/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jerome%20Avery%20805503/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Guide Runner",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700577/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jerome%20Avery%20805503/Avery_Jerome250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jerome Avery 805503"
+        }
+      ]
+    },
+    {
+      "first_name": "Cam F.",
+      "last_name": "Awesome",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1988-08-16T00:00:00",
+        "hometown": {
+          "city": "Uniondale",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7065,
+          "longitude": -73.5965
+        },
+        "education": " ",
+        "fun_fact": "",
+        "biography": "<p><strong></strong></p>\n<p class=\"p1\"><strong></strong></p>\n<p style=\"margin-bottom: 7.5pt;\"><strong>Lives in:</strong><strong>&nbsp;</strong>Lenexa, Kansas<br>\n<strong>Coach's name:</strong>&nbsp;John Brown<br>\n<strong>Club name:</strong>&nbsp; Turner/Ringside<br>\n<strong>Began boxing:</strong>&nbsp;2005<br>\n<strong>How did you get involved in boxing:</strong>&nbsp;I joined the gym to lose weight and fell in love with the sport<br>\n<strong>Favorite TV show: </strong>New Girl<br>\n<strong>Favorite punch: </strong>Uppercut <br>\n<strong>Pre-fight ritual: </strong>Shower to 90&rsquo;s R &amp; B <br>\n<strong>Favorite post-weigh in meal: </strong>Chipotle <br>\n<strong>What is your greatest strength in the ring:</strong><strong>&nbsp;</strong>My speed, power, agility, charm, adaptation and reflexes.<strong><br>\n</strong><strong>Did you ever play any other sports:</strong>&nbsp;No I was cut off of every team possible in high school<br>\n<strong>What do you love most about boxing:</strong><strong>&nbsp;</strong>I love winning and entertaining a crowd<br>\n<strong>What are your goals in and out of the ring:</strong>&nbsp;My goal is to be a positive role model and&nbsp;become a actor&nbsp;or talk show host&nbsp;<strong><br>\n<strong>Did you know:</strong>&nbsp;<br>\n* </strong>Cam is a proud vegan and advocate for that life style<br>\n* He travels the country doing stand up comedy<br>\n* He&rsquo;s been featured on ESPN&rsquo;s Sportsnation and Highly Questionable due to a comedic interview<br>\n* Qualified for the Olympic Trials at both heavyweight and super heavyweight after getting in to shape and losing weight after the initial qualifier <br>\n* He did three comedy shows in the two days before the start of the Olympic Trials&nbsp;</p>\n<p style=\"margin-bottom: 7.5pt;\"><strong>2016 USA BOXING ELITE NATIONAL CHAMPION</strong><br>\n<strong>OLYMPIC TRIALS CHAMPION<br>\nMEN&rsquo;S TRIALS QUALIFIER I CHAMPION (AT HEAVYWEIGHT)</strong><br>\n<strong>2015 PAN AMERICAN GAMES BRONZE MEDALIST<br>\nFIVE-TIME USA BOXING NATIONAL CHAMPION</strong><strong><br>\n<strong>FOUR-TIME NATIONAL GOLDEN GLOVES CHAMPION</strong></strong><br>\n<strong>2012 U.S. OLYMPIC TEAM TRIALS CHAMPION</strong><br>\n<strong>ATHLETE DIRECTOR ON USA BOXING BOARD OF DIRECTORS</strong></p>\n<p style=\"margin-bottom: 7.5pt;\"><strong>Former Olympic Heavyweight Boxers:&nbsp;</strong></p>\n<p style=\"font-weight: bold;\"><strong>Heavyweight</strong></p>\n<p> </p>\n<p> </p>\n<p><strong>175+ lbs</strong><br>\n1920: William Spengler (3rd) <br>\n1920:  Samuel Stewart<br>\n1924   Edward P. Eagan, Denver, Colo.<br>\n1924   H.G. Greathouse, West Virginia *Also known as Jackie Williams<br>\n1928:  Alexander J. Kaletchitz, Palmetto, Fla.<br>\n1932:  Frederick Feary, Stockton, Calif. (3rd)<br>\n1936:  Arthur Oliver, Mississippi<br>\n1948:  E. Jay Lambert, Helper, Vt.<br>\n<br>\n<strong>178+ lbs</strong><br>\n1952:  Hayes Sanders, Compton, Calif./Navy (1ST)<br>\n1956:  Peter Rademacher, Median, Ohio (1st)<br>\n1960:  Pearcy Price, Salem, N.J./Marines<br>\n1964:  Joseph Frazier, Philadelphia, Pa. (1st)<br>\n1968:  George Foreman, Marshall, Texas (3rd)<br>\n1972:  Duane Bobick, Navy<br>\n1976:  Johnny Tate, Knoxville, Tenn. (3rd)<br>\n1980:  James Broad, Army (The United States did not participate)<br>\n<br>\n<strong>201 lbs</strong><br>\n1984:  Henry Tillman, Los Angeles, Calif. (1st)<br>\n1988:  Ray Mercer, Army (1st)<br>\n1992:  Danell Nicholson, Chicago, Ill.<br>\n1996:  Nate Jones, Chicago, Ill. (3rd)<br>\n2000:  Michael Bennett, Chicago, Ill.<br>\n2004:  Devin Vargas, Toledo, Ohi<br>\n2008:  Deontay Wilder, Tuscaloosa, Ala. (3rd)<br>\n2012:  Michael Hunter, Las Vegas, Nev. <br>\n<br>\n</p><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 9th (Super Heavyweight - Men)</li><li>Years of participation: Super Heavyweight - Men 2011, 2013</li><li>Top finish: 9th – 2011 (Super Heavyweight - Men), 2013 (Super Heavyweight - Men)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Super Heavyweight - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716827/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cam%20F.%20Awesome%20857171/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Boxing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716828/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cam%20F.%20Awesome%20857171/Cam-Awesome-Headshot150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cam F. Awesome 857171"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Awotunde",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1995-06-12T00:00:00",
+        "hometown": {
+          "city": "Franklinville, N.J. ",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Delsea Regional High School (Franklinville, N.J.) ‘14 University of South Carolina ‘18 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Adeola and Omolola Awotunde</li><li>Has three siblings, Yomi, Joyce and Michelle</li><li>2018 NCAA SEC indoor champion in shot put</li><li>Four-time NCAA First-Team All-American.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Shot Put - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 20th (Shot Put - Men)</li><li>Years of participation: Shot Put - Men 2023</li><li>Top finish: 20th – 2023 (Shot Put - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929504/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Awotunde/O_Awotunde.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Awotunde"
+        }
+      ]
+    },
+    {
+      "first_name": "Femita",
+      "last_name": "Ayanbeku",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1992-06-30T00:00:00",
+        "hometown": {
+          "city": "Boston",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3601,
+          "longitude": -71.0589
+        },
+        "education": "American International College (Springfield, Mass.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Wendy Lorquet and Marcus Ayanbeku</li><li>Has seven siblings: Sendy, Dolly, Kassy, Wendy, Andy, Bolaji, and Shalewa</li><li>Lost her right leg below-the-knee after a car accident when she was 11 years old</li><li>President and founder of a non-profit organization Limb-it-less Creations Inc. dedicated to creating awareness and providing support to the amputee community</li><li>Introduced to the Paralympic Movement in 2015 through U.S. teammate Jerome Singleton, who she trains with at the Reggie Lewis Center in Boston</li><li>Grew up playing basketball</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 6th (100m T64 - Women)</li><li>Paralympic Games Tokyo 2020, 9th (200m T64 - Women), 11th (100m T64 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 6th (200m T44 - Women), 12th (100m T44 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – bronze (200m T64 - Women), 4th (100m T64 - Women)</li><li>Years of participation: 100m T64 - Women 2019; 200m T64 - Women 2019; 100m T44 - Women 2017; 200m T44 - Women 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2019 (200m T64 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721757470/TeamUSA%20Assets/Athlete%20Profiles/Femita%20Ayanbeku%201010176/Ayanbeku_F_bio_1010176.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T64",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721757506/TeamUSA%20Assets/Athlete%20Profiles/Femita%20Ayanbeku%201010176/Ayanbeku_F_hero_1010176.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013152/TeamUSA%20Assets/Athlete%20Profiles/Femita%20Ayanbeku%201010176/Femita_Ayanbeku250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Femita Ayanbeku 1010176"
+        },
+        {
+          "title": "Para Track and Field"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Holly",
+      "last_name": "Azevedo",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1998-08-28T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Pioneer High School UCLA",
+        "fun_fact": null,
+        "biography": "<h5> World Championship Experience</h5><ul><li>2017 WBSC Junior Women's World Championship Gold Medalist; Went 2-0 with a 2.55 ERA with nine hits and 10 strikeouts</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championship, Clearwater, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696269/TeamUSA%20Assets/Migration/Athlete%20Profiles/Holly%20Azevedo%201086117/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696271/TeamUSA%20Assets/Migration/Athlete%20Profiles/Holly%20Azevedo%201086117/AzevedoHolly.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Holly Azevedo 1086117"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Azevedo",
+      "bio": {
+        "height": "5'8''",
+        "birthday": "1983-04-28T00:00:00",
+        "hometown": {
+          "city": "Chico",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 39.7285,
+          "longitude": -121.8375
+        },
+        "education": "University of California Davis '05, Exercise Biology",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong></strong></span><span style=\"font-family: 'times new roman';font-size: 18px;\">Emily Azevedo graduated from the University of California, Davis in 2005 with a degree in exercise biology. While attending UC-Davis, Azevedo held the 100-meter hurdles school record an athlete on the track and field team.</span></p><p><span style=\"font-family: 'times new roman';font-size: 18px;\">Azevedo's decision to become a bobsledder came after watching the 2006 Olympic Winter Games in Torino, Italy. Azevedo made her debut during the 2006-2007 season. She traveled to World Championships in St. Moritz, Switzerland with driver Erin Pac where they finished eighth. For the 2008-09 season, Azevedo teamed with driver Bree Schaaf, winning the National Championships. At whistler, Azevedo and Schaaf raced to a 5th place finish on the 2010 Olympic track.</span></p><p><span style=\"font-family: 'times new roman';font-size: 18px;\">The veteran finally had a breakthrough in the 2012-2013 season with pilot Jamie Greubel when the team slid a silver medal performance in the La Plagne, France World Cup event. &nbsp;Azevedo continues to lead the women's team as the most experienced brakeman.</span></p><h5><span></span><span><strong>CAREER HIGHLIGHTS</strong></span></h5><ul><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2013-2014 World Cup as Brakeman for Jamie Greubel and Jazmine Fenlator &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 4th in Park City #1 (12/6), 4th in Lake Placid (12/14), 4th in St. Moritz (1/11)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2012-2013 World Cup as brakeman for Jamie Greubel and Jazmine Fenlator</strong><br>-5th in Park City (11/12), 11th in Whistler (11/12), 4th in Winterberg (12/12), SILVER in La Plagne (12/12) 11th&nbsp;in Koenigssee (1/13), 9th&nbsp;in Igls (1/13) 15th&nbsp;at World Championships in St. Moritz (1/13)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2011-2012 World Cup as brakeman for Bree Schaaf and Elana Meyers</strong><strong><br bold=\"[object Object]\"></strong>-11th in Igls (12/11), 11th in La Plagne (12/11), 9th in Winterberg (12/11), 5th in Altenberg (1/12), 5th in Koenigssee (1/12), 9th in St. Moritz (1/12), 9th in Whistler (2/12)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2011-2012 Europa Cup as brakeman for Elana Meyers</strong><br>-10th in St. Moritz (1/12)&nbsp;</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2010-2011 World Cup as brakewoman for Bree Shaaf and Elana Meyers</strong><strong><br bold=\"[object Object]\"></strong>-6th in Whistler (11/10), 6th in Calgary (12/10), 5th in Park City make-up (12/10), 5th in Lake Placid (12/10), 11th in Igls (1/11), 13th in St. Moritz (1/11), 10th in Cesana (1/11), 10th in World Championships in Koenigssee</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2010-2011 America's Cup as brakewoman for Erin Pac and Bree Schaaf</strong><strong><br bold=\"[object Object]\"></strong>-BRONZE in Park City #1 (11/10), GOLD in Park City #2 (11/10)&nbsp;</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2009-2010 World Cup as brakewoman for Shauna Rohbock and Bree Schaaf</strong><br>-9th in Park City (11/09), 9th in Lake Placid (11/09), 6th in Cesana (12/09), 13th in Altenberg (12/09), 7th in Konigssee (1/10), 11th in St. Moritz (1/10),&nbsp;</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\">5th at 2009 U.S. National Bobsled Push Championship</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\">2009 National Champion as brakewoman for Bree Schaaf</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\">10th at 2009 World Championship with Bree Schaaf</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2008-2009&nbsp;World Cup as brakewoman for Bree Schaaf</strong><br>-6th at Whistler (2/09), 5th at Park City (2/09)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2008-2009&nbsp; America's Cup as brakewoman for Erin Pac</strong><br>-SILVER in Park City #2 (10/08)&nbsp;</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2007-2008 World Cup as brakewoman for Erin Pac and Jamia Jackson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong><br>-6th in Lake Placid (12/07), 12th in Cesana (1/08), 9th in St. Mortiz (1/08)</span></li><li><span style=\"font-family: 'times new roman';font-size: 18px;\"><strong>2006-2007 World Cup as brakewoman with for Erin Pac&nbsp;&nbsp;</strong><br>-10th at Igls (01/07), 8th at World Championships (02/07) in St. Moritz, Switzerland</span></li></ul><p><strong><br bold=\"[object Object]\"></strong></p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Vancouver 2010, 5th (2-Man Competition - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 15th (2-Man Competition - Women)</li><li>Years of participation: 2-Man Competition - Women 2007, 2009, 2011, 2012, 2013; Team Competition - Mixed 2007, 2008, 2011, 2012</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2012 (Team Competition - Mixed)</li><li>Silver – 2007 (Team Competition - Mixed)</li><li>Bronze – 2008 (Team Competition - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686321874/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Azevedo/Emily_.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Azevedo"
+        }
+      ]
+    },
+    {
+      "first_name": "Tony",
+      "last_name": "Azevedo",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1981-11-21T00:00:00",
+        "hometown": {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7701,
+          "longitude": -118.1937
+        },
+        "education": "Wilson High School (Long Beach, Calif.) ‘00 Stanford University ‘05, International Relations",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ricardo and Libby Azevedo</li><li>Has one sister, Cassandra, who plays professional water polo in Italy</li><li>Married to Sarah Azevedo</li><li>Has one son, Cruz</li><li>Father, Ricardo, is the head coach for the China women’s water polo team and previously served as an assistant coach for the U.S. Men’s National Water Polo Team in 2004</li><li>In 2015, competed in his eighth FINA World Championships, setting a water polo record</li><li>Also competes for Sesi Polo in Brazil</li><li>While at Stanford University, became the first-ever player to win the prestigious Peter J. Cutino Award four consecutive years</li><li>Named the 2004 American Water Polo Coaches Association Player of the Year for the fourth straight season</li><li>Hobbies include cooking and traveling.</li></ul><h5>Career Highlights</h5><ul><li>2016 FINA World League Super Final, silver</li><li>2015 Pan American Games, gold</li><li>2015 FINA World League Super Final, 4th</li><li>2012 FINA World League Super Final, 4th</li><li>2011 Pan American Games, gold</li><li>2011 FINA World League Super Final, 4th</li><li>2010 FINA World League Super Final, 5th</li><li>2010 FINA World Cup, 4th</li><li>2009 FINA World League Super Final, 4th</li><li>2008 FINA World League Super Final, silver</li><li>2007 Pan American Games, gold</li><li>2007 FINA World League Super Final, 5th</li><li>2006 FINA World League Super Final, 5th</li><li>2003 Pan American Games, gold</li><li>2003 FINA World League Super Final, bronze</li><li>2002 FINA World Cup, 7th</li><li>1999 Pan American Games, gold</li></ul><h5>Olympic Experience</h5><ul><li>5-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Team - Men)</li><li>Olympic Games London 2012, 8th (Team - Men)</li><li>Olympic Games Beijing 2008, silver (Team - Men)</li><li>Olympic Games Athens 2004, 7th (Team - Men)</li><li>Olympic Games Sydney 2000, 6th (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2015 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015</li><li>Top finish: 4th – 2009 (Team - Men)</li></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328440/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tony%20Azevedo/Azevedo_Tony_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tony Azevedo"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Backes",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1984-05-01T00:00:00",
+        "hometown": {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9778,
+          "longitude": -93.265
+        },
+        "education": "Spring Lake Park High School Minnesota State-Mankato",
+        "fun_fact": null,
+        "biography": "<p><strong>\n</strong></p>\n<ul style=\"border:0px none -moz-use-text-color;   -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; margin: 0px; padding: 0px; border-image: initial; font-size: 12px; vertical-align: baseline; color: #222222; line-height: 18px; background-color: #ffffff; font-family: 'lucida sans','lucida sans unicode','lucida grande',verdana,sans-serif;\" class=\"athlete-vitals menu-v\"></ul>\n    <p></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Sochi 2014, 4th (Team - Men)</li><li>Olympic Games Vancouver 2010, silver (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2009 – 4th (Team - Men)</li><li>Years of participation: Team - Men 2007, 2008, 2009</li><li>Top finish: 4th – 2009 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697330/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Backes%20871946/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697334/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Backes%20871946/Mens_Ice_Hockey_Backes_David_Site.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Backes 871946"
+        }
+      ]
+    },
+    {
+      "first_name": "Phoebe",
+      "last_name": "Bacon",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2002-08-12T00:00:00",
+        "hometown": {
+          "city": "Chevy Chase",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9832,
+          "longitude": -77.0571
+        },
+        "education": "University of Wisconsin",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Tim and Phoebe Bacon</li><li>Has three siblings: Reid, Sophie and Finn</li><li>Aspires to work in physical therapy</li><li>Hobbies include drawing, sculpting,<span> ice hockey, soccer and climbing</span></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (200m Backstroke - Women)</li><li>Olympic Games Tokyo 2020, 5th (200m Backstroke - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (200m Backstroke - Women)</li><li>Years of participation: 200m Backstroke - Women 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2022 (200m Backstroke - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662147/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bacon_P_Bio_1113386.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662063/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/bacon_p_her_1113386.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012456/TeamUSA%20Assets/Athlete%20Profiles/Phoebe%20Bacon%201113386/bacon_pheobe_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Phoebe Bacon 1113386"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Bacon",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1996-09-20T00:00:00",
+        "hometown": {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.7684,
+          "longitude": -86.1581
+        },
+        "education": "University of Minnesota",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Steve and Barb Bacon. Has three brothers: Kevin, Brian and Brad</li><li>Began diving in 2004</li><li>Her favorite dives are 5152B and 107B</li><li>Has had to overcome numerous injuries (she has dealt with shoulder injuries, stress fractures in her back, and concussions)</li><li>In between dives, Sarah likes to sit away from everyone else and listen to upbeat music (Drake, Kanye West, Beyonce, Lil Wayne, Tyga)</li><li>When she is not diving, she enjoys cooking, baking, watching and attending sporting events, working out, going to concerts and being outside</li><li>Has a masters in sports management from Minnesota</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (1m Springboard - Women), 5th (3m Springboard - Women)</li><li>Years of participation: 1m Springboard - Women 2019, 2022; 3m Springboard - Women 2019, 2022</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2022 (1m Springboard - Women);  2019 (1m Springboard - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (3m Springboard Synchro - Women), 19th (3m Springboard - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1681324085/Bacon.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718725380/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Bacon%20874223/Bacon_S_Hero.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010241/TeamUSA%20Assets/Athlete%20Profiles/Sarah%20Bacon%20874223/Sarah-Bacon-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Bacon 874223"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Diving"
+        }
+      ]
+    },
+    {
+      "first_name": "Van Mitchel",
+      "last_name": "Bactista",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1999-02-09T00:00:00",
+        "hometown": {
+          "city": "South Pasadena",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1147,
+          "longitude": -118.1559
+        },
+        "education": "South Pasadena High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite books include Percy Jackson books and The Warriors series</li><li>Enjoys playing guitar and soccer</li><li>Favorite TV shows are Malcolm in the Middle and Everybody Hates Chris</li><li>Eats bananas and snack bars before competition</li><li>Favorite athlete is Usain Bolt</li><li>Favorite taekwondo athlete is Joseph Salim</li><li>Favorite quote: “It’s not whether you get knocked down; it’s whether you get up.” -Vince Lombardi</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 USA Taekwondo All-American Athlete</li>\r\n                            <li>2018 National Collegiate Championships - Sparring - Black Belt - -54kg - Gold</li>\r\n                            <li>2018 Canada Open - Sparring - Black Belt - -54kg - Silver</li>\r\n                            <li>2016  USAT Junior National Team Member (-51kg)</li>\r\n                            <li>2016  USAT Junior National Team Trials (-51kg) - 1st</li>\r\n                            <li>2016  USAT National Championships - Sparring - Black Belt - 51kg - GOLD</li>\r\n                            <li>2016  National Collegiate Taekwondo Championships (High School) - Sparring - Black Belt - -54kg - SILVER</li>\r\n                            <li>2016  World Taekwondo President&#39;s Cup (Bonn, Germany) - Sparring - Black Belt - -51kg - SILVER</li>\r\n                            <li>2016  Nevada State Qualifiers - Sparring - Black Belt - -54kg - GOLD</li>\r\n                            <li>2016  Nevada State Qualifiers - Sparring - Black Belt - -51kg - GOLD</li>\r\n                            <li>2016  U.S. Open (Jr. -51kg): GOLD</li>\r\n                            <li>2015  USAT Junior National Team Member (-48kg)</li>\r\n                            <li>2015  USAT National Championships (-48kg): GOLD</li>\r\n                            <li>2015  AAU Regional Qualifier (-51kg): GOLD</li>\r\n                            <li>2015:  California State Qualifier (-51kg): GOLD </li>\r\n                            <li>2015:  Nevada State Qualifier (-48kg): GOLD</li>\r\n                            <li>2014:  Primeros Juegos Binacionales de Taekwondo (Fly): GOLD</li>\r\n                            <li>2014:  Truescore Open (Fly): GOLD</li>\r\n                            <li>2014:  Pan Am Open (Fly): BRONZE</li>\r\n                            <li>2014:  Mexico Open (Fly): BRONZE</li>\r\n                            <li>2014:  USAT Junior National Team Member (-45kg)</li>\r\n                            <li>2014:  California State Qualifier (Jr. Fly): GOLD </li>\r\n                            <li>2014:  Golden State Open (Jr. Fin): GOLD</li>\r\n                            <li>2014:  Nevada State Qualifier (Jr. Fin): GOLD</li>\r\n                            <li>2014:  U.S. Open (Jr. Fin): BRONZE</li>\r\n                            <li>2013:  California State Open (Jr. Fin): GOLD</li>\r\n                            <li>2013:  Jimmy Kim Invitational (Cadet Bantam): GOLD</li>\r\n                            <li>2013:  Golden State Open (Jr. Fin): GOLD</li>\r\n                            <li>2013:  USAT Cadet National Team Member (Bantam)</li>\r\n                            <li>2013: 2013 &#160;USAT National Championships (bantam): GOLD</li>\r\n                            <li>2013: Juniors ATU Nationals (fin): GOLD ( Made Junior Team)</li>\r\n                            <li>2013: Southern California State National Qualifiers (bantam): SILVER</li>\r\n                            <li>2013: Nevada State National Qualifier (fly): BRONZE</li>\r\n                            <li>2013: Juniors Golden State Open ATU National Qualifiers (fin): GOLD</li>\r\n                            <li>2012: USAT National Championships (fly): BRONZE</li>\r\n                            <li>2012: ATU National Championships (fin): BRONZE</li>\r\n                            <li>2012: Southern California Sate National Qualifiers (bantam): SILVER</li>\r\n                            <li>2012: Juniors, Golden State Open ATU National Qualifiers (fin): SILVER</li>\r\n                            <li>2012: Northern California State National Qualifiers (fin): GOLD</li>\r\n                            <li>2011: Pan Am Open (fin): BRONZE</li>\r\n                            <li>2011: ATU National Championship (fin): GOLD</li>\r\n                            <li>2011: Nevada State National Qualifiers (fin): GOLD</li>\r\n                            <li>2009: California Sate Open Championships (fin): GOLD</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2016 Junior World Championship - Sparring - Black Belt - -51kg - Quarterfinalist</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697305/TeamUSA%20Assets/Migration/Athlete%20Profiles/Van%20Mitchel%20Bactista%20878326/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697307/TeamUSA%20Assets/Migration/Athlete%20Profiles/Van%20Mitchel%20Bactista%20878326/Van-Mitchel-Bactista_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Van Mitchel Bactista 878326"
+        }
+      ]
+    },
+    {
+      "first_name": "Nik",
+      "last_name": "Baden",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1998-01-13T00:00:00",
+        "hometown": {
+          "city": "Steamboat Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.4844,
+          "longitude": -106.8317
+        },
+        "education": "Steamboat Mountain School (Steamboat Springs, Colorado) ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\"></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Cup, 2019 (Slopestyle - Men, Freestyle Overall - Men)</li><li>World Cup, 2018 (Slopestyle - Men, Big Air - Men, Freestyle Overall - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Stephan and Pam Baden</li><li>Initially on skis, Baden made the switch to the snowboard at age 4</li><li>Hobbies include biking, hiking, camping and skateboarding</li><li>Nearly made the 2014 U.S. Olympic Snowboarding Team at age 16</li></ul><br>\n\n</p><p><h5>More</h5>U.S. Ski and Snowboard&nbsp;<br>\n\n</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – 10th (Slopestyle - Men), 25th (Big Air - Men)</li><li>Years of participation: Big Air - Men 2016; Slopestyle - Men 2016</li><li>Top finish: 10th – 2016 (Slopestyle - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325699/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nik%20Baden/Snowboarding_Baden_Nik_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nik Baden"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Bader",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-03-06T00:00:00",
+        "hometown": {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9778,
+          "longitude": -93.265
+        },
+        "education": "University of Minnesota-Duluth",
+        "fun_fact": null,
+        "biography": "<table style=\"border-collapse: collapse;\" border=\"0\" bordercolor=\"#111111\" cellpadding=\"2\" cellspacing=\"5\" height=\"104\" width=\"100%\" id=\"table3\"><tbody><tr><td style=\"width: 12%;\"><strong>Position</strong></td><td style=\"width: 231px;\">Second </td></tr><tr><td><strong>Teammates</strong></td><td>Cassie Potter, Jackie Lemke, Steph Sambor </td></tr><tr><td style=\"width: 12%;\"><strong>Delivers</strong></td><td style=\"width: 231px;\">Right-handed</td></tr><tr><td style=\"width: 12%;\"><strong>Occupation</strong></td><td style=\"width: 231px;\">Product specialist, UnitedHealth Care </td></tr><tr><td><strong>Education</strong><br /></td><td>Bachelor's degree in mathematics from the University of Minnesota-Duluth<br /></td></tr><tr><td style=\"width: 12%;\"><strong>Family</strong></td><td style=\"width: 231px;\">Married</td></tr><tr><td style=\"width: 12%;\"><strong>Year started curling</strong></td><td style=\"width: 231px;\">2001</td></tr></tbody></table><strong>CURLING HIGHLIGHTS</strong><table border=\"0\" width=\"100%\" id=\"table6\"><tbody><tr><td style=\"width: 583px;\"><ul><li><p style=\"margin-top: 0px;margin-bottom: 0px;text-align: left;\"><strong>World Junior Championships:</strong> 2011 (5th), 2010 (bronze), 2009 (5th)</p></li><li><p style=\"margin-top: 0px;margin-bottom: 0px;text-align: left;\"><strong>U.S. National Championships:</strong>&nbsp;2017, 2015, 2014 (champion), 2013 (8th), 2012 (7th), 2009 (5th), 2008 (bronze), 2007 (4th)</p></li><li><strong>U.S. Olympic Trials</strong>: 2010 (5th)</li><li><p style=\"margin-top: 0px;margin-bottom: 0px;text-align: left;\"><strong>U.S. Junior National Championships:</strong> 2012 (bronze), 2011 (champion), 2010 (champion), 2009 (champion), 2008 (runner-up), 2006 (semifinalist)</p></li><li><strong>U.S. Mixed Doubles Championship:</strong> 2011 (4th)</li><li><p style=\"margin-top: 0px;margin-bottom: 0px;text-align: left;\"><strong>Junior Nationals All-Star Team</strong>: 2012, 2010, 2009</p></li><li><strong>Wisconsin Junior Playdowns</strong>: 2012 (runner-up), 2011 (champion)</li><li><p style=\"margin-top: 0px;margin-bottom: 0px;text-align: left;\"><strong>Minnesota Junior Playdowns</strong>: 2010 (champion), 2009 (champion), 2008 (champion), 2007 (runner-up), 2006 (champion), 2005 (4th)</p></li><li><p style=\"margin-top: 0px;margin-bottom: 0px;text-align: left;\"><strong>U-18 Optimist International</strong>: 2008 (6th), 2007 (5th)</p></li></ul></td></tr></tbody></table><h5>Career Highlights</h5><ul><li>World Junior Championship, Perth, 2011 (Team - Women)</li><li>World Junior Championship, Flims, 2010 (Team - Women)</li><li>World Junior Championship, Vancouver, 2009 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697317/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sophie%20Bader%20981634/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697319/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sophie%20Bader%20981634/sophiebrorson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sophie Bader 981634"
+        }
+      ]
+    },
+    {
+      "first_name": "Austin",
+      "last_name": "Bahner",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1991-07-17T00:00:00",
+        "hometown": {
+          "city": "Wichita",
+          "state": "KS",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Wichita State University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-f-Logo__blue_100_100x100.jpg?h=50&la=en&w=50&hash=C19357865BB1BF4A1FAD45443CFC1A477E15D161\" style=\"width: 50;height: 50;\"/></td><td><img alt=\"\" style=\"float: right;width: 50;height: 50;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50;width: 50;\" width=\"50\" height=\"50\"/></td></tr></tbody></table><div><p><strong ><br bold=\"[object Object]\"/></strong></p><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2014 Missouri Valley Conference Outdoor Championships, 1st (decathlon)</li><li>2013 NCAA Championships, 10th (decathlon)</li><li>2013 Missouri Valley Conference Outdoor Championships, 2nd (decathlon)</li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Son of Lisa and Brent Bahner</li><li>Has one brother, Davis, and two sisters, Bailey and Carly</li><li>Played basketball and soccer in addition to track and field at Wichita Heights High School.</li></ul><br />Education:&nbsp;<p>Wichita Heights High School (Wichita, Kan.) Wichita State University '14, Exercise Science</p><p>&nbsp;</p><p><br /></p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325745/TeamUSA%20Assets/Migration/Athlete%20Profiles/Austin%20Bahner/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Austin Bahner"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Bailey",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1972-02-05T00:00:00",
+        "hometown": {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.7488,
+          "longitude": -84.3877
+        },
+        "education": "University of Arkansas",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Salt Lake City 2002, silver (Team - Women)</li><li>Olympic Games Nagano 1998, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2001 – silver (Team - Women)</li><li>Years of participation: Team - Women 1994, 1997, 1999, 2000, 2001</li><li>Medals: 5 (5 silver)</li><ul><li>Silver – 2001 (Team - Women);  2000 (Team - Women);  1999 (Team - Women);  1997 (Team - Women);  1994 (Team - Women)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1998, 2002",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Chris Bailey"
+        }
+      ]
+    },
+    {
+      "first_name": "Tavis",
+      "last_name": "Bailey",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1992-01-06T00:00:00",
+        "hometown": {
+          "city": "Kannapolis",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.48,
+          "longitude": -80.62
+        },
+        "education": "A.L. Brown High School (Kannapolis, N.C.) ‘10 University of Tennessee ‘16, Sport Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Charles and Edwina Wright</li><li>Has one brother, James, and one sister, Geneva</li><li>Received the Aura D. Branson Athletic Scholarship Endowment</li><li>Transferred to the University of Tennessee to focus solely on track and field after playing football and track at Lenoir Rhyne University</li><li>Enjoys listening to music and his favorite artists are Kanye West, Common, Maxwell, Lupe Fiasco, Michael Jackson and Coldplay</li><li>Competed at the 2010 N.C. USATF Junior Olympics, winning in discus and placing second in shot put</li><li>Was a two-sport athlete in high school and played football in North Carolina&#39;s East-West All-Star Game.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 NCAA Outdoor Championships, 2nd</li>\r\n                            <li>2014 NCAA Outdoor Championships, 3rd</li>\r\n                            <li>2011 USA Junior Championships, 5th</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 26th (Discus Throw - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697399/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tavis%20Bailey%20803433/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697400/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tavis%20Bailey%20803433/bailey_tavis_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tavis Bailey 803433"
+        }
+      ]
+    },
+    {
+      "first_name": "Lowell",
+      "last_name": "Bailey",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1981-07-15T00:00:00",
+        "hometown": {
+          "city": "Lake Placid",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 44.279,
+          "longitude": -73.9794
+        },
+        "education": " University of Vermont '05",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5>Loves to play music, specifically the guitar and mandolin<p>&nbsp;</p><h5>Career Highlights</h5><ul><li>2018 US Biathlon National Championships (Park City, Utah) - 1st in sprint / 1st in pursuit / tied for 1st in mass start</li><li>2018 Open European Championships (Ridnaun-Val Ridanna, ITA) - 3rd in single mixed relay w/ Susan Dunklee</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 6th (4 x 7.5km Relay - Men), 15th (2 x 6 + 2 x 7.5km Relay - Mixed), 32th (12.5km Pursuit - Men), 33th (10km Sprint - Men), 51th (20km Individual - Men)</li><li>Olympic Games Sochi 2014, 7th (2 x 6 + 2 x 7.5km Relay - Mixed), 8th (20km Individual - Men), 15th (4 x 7.5km Relay - Men), 23th (15km Mass Start - Men), 35th (10km Sprint - Men), 37th (12.5km Pursuit - Men)</li><li>Olympic Games Vancouver 2010, 12th (4 x 7.5km Relay - Men), 36th (10km Sprint - Men, 12.5km Pursuit - Men), 56th (20km Individual - Men)</li><li>Olympic Games Turin 2006, 9th (4 x 7.5km Relay - Men), 27th (20km Individual - Men), 46th (10km Sprint - Men), 48th (12.5km Pursuit - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2017 – gold (20km Individual - Men), 4th (10km Sprint - Men), 6th (12.5km Pursuit - Men, 15km Mass Start - Men), 7th (4 x 7.5km Relay - Men), 16th (2 x 6 + 2 x 7.5km Relay - Mixed)</li><li>Years of participation: 10km Sprint - Men 2003, 2007, 2008, 2009, 2011, 2012, 2013, 2015, 2016, 2017; 12.5km Pursuit - Men 2003, 2007, 2009, 2011, 2012, 2013, 2015, 2016, 2017; 15km Mass Start - Men 2009, 2012, 2013, 2015, 2016, 2017; 2 x 6 + 2 x 7.5km Relay - Mixed 2007, 2012, 2013, 2015, 2016, 2017; 20km Individual - Men 2003, 2007, 2008, 2009, 2011, 2012, 2013, 2015, 2016, 2017; 4 x 7.5km Relay - Men 2003, 2007, 2008, 2009, 2011, 2012, 2013, 2015, 2016, 2017; 4 x 6km Relay - Mixed 2006</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2017 (20km Individual - Men)</li></ul></ul><h5>More</h5><p>At the 2017 IBU World Championships in Hochfilzen, Austria, Bailey became the first American in history to win a biathlon world championship, taking the gold medal in the men's 20-kilometer individual. He was also the first athlete to qualify for the 2018 U.S. Olympic Team.&nbsp; Lowell’s wife Erika and Ophelia joined him for much of the World Cup this season and were cheering for him on the course as he skied to gold.</p><p>Before starting a family, Bailey's two passions in life are biathlon and music. He has a travel guitar that he brings on the road with him during biathlon competitions and training camps.&nbsp;&nbsp; He even played at his team manager's wedding.&nbsp; He also plays mandolin and was in two local bluegrass bands in the Lake Placid area, Swimming With Champy and Big Slyde.&nbsp; He writes and performs his own songs as a singer-songwriter solo act as well.&nbsp;</p><p>Bailey has competed in three Olympic Winter Games, three Junior World Championships, and 11 World Championships.&nbsp; In 2003, Lowell raced in his first Senior World Championships.&nbsp; That year, Bailey competed for the US Biathlon Team as well as the UVM Catamount NCAA Nordic Ski Team.&nbsp; In 2004, after more than ten years in biathlon, Bailey realized he could not maintain an elite level in both biathlon and Nordic racing.&nbsp; Forfeiting his US Biathlon National Team spot, he skied for the Catamounts for another two years while finishing his undergraduate degree. While attending UVM, he placed 2nd&nbsp;in two successive NCAA Championships ('03,'04) and was a three-time NCAA Academic All-American. &nbsp;</p><p>He returned to biathlon in 2005, training in Fort Kent, Maine with the Maine Winter Sports Center. From there he qualified for his first Olympic team in 2006.&nbsp; Bailey went on to compete in every World Cup competition season following the Torino Games until present, including the Vancouver Winter Olympics in 2010 and the Sochi Olympic Games in 2014. &nbsp;He had a breakout season as a 30-year-old during the winter of 2011-12 in which he had two World Cup top-five performances and finished with a world ranking of 14th&nbsp;on the season.</p><p>Bailey earned the best Olympic finish ever by an American when he finished 8th&nbsp;at the Olympic Winter Games in 2014, missing a medal due to one missed shot.&nbsp; Several weeks later he earned his first World Cup podium with a 3rd&nbsp;place finish that was later up-graded to second place after an anti-doping rule violation disqualified the second place finisher.&nbsp;</p><p>Lowell Bailey is highly respected by his peers from around the world who appreciate his musical talents and his leadership on athlete issues. At the 2014 Olympic Games Bailey was elected to the International Biathlon Union’s Athletes Committee. In 2016, his peers elected him to the US Biathlon Board of Directors. &nbsp;Bailey considered retiring after the 2016 season but a chance to lead the creation of a new biathlon venue and program as executive director at the Crosscut Mountain Sport Center in Bozeman, Montana allowed him to continue in the sport, setting up his historic gold medal performance at the 2017 Biathlon World Championships.</p><p><strong>Did you know...?</strong></p><ul><li>I could not live without… Music</li><li>My favorite place in the world is… Coastal Maine</li><li>My dream vacation spot is… Jost Van Dyke</li><li>When traveling, the thing I miss the most is… friends and family</li><li>My favorite meal is… L &amp; S Burger</li><li>My favorite television show is… Curb Your Enthusiasm</li><li>I never leave my house without… coffee</li><li>My favorite quote is… \"<em>Do what you can, with what you have, where you are\"</em></li><li>If I were not an athlete, I would be… A Musician</li></ul><p><strong>SPORT DATA</strong><strong><br bold=\"[object Object]\"></strong><strong><br bold=\"[object Object]\"></strong><strong>Biathlon Since: &nbsp;</strong>1996<br><strong>Member of National Team since: &nbsp;</strong>2001<strong></strong><br><strong>Skis: &nbsp;</strong>Rossignol<br><strong>Boots: &nbsp;</strong>Rossignol<br><strong>Poles: &nbsp;</strong>One Way<br></p><p><strong>WORLD CUP TOTAL FINAL RANK</strong></p><table><tbody><tr><td>2017/18</td><td><strong>&nbsp;-35</strong></td></tr><tr><td>2016/17</td><td><strong>&nbsp;-8</strong></td></tr><tr><td>2015/16</td><td><strong>&nbsp;-17</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2014/15</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-30</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2013/14</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-17</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2012/13</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-28</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2011/12</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-14</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2010/11</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-41</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2009/10</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-90</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2008/09</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-51</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2007/08</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-64</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2006/07</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-72</strong></td></tr><tr><td rowspan=\"1\" colspan=\"1\">2005/06</td><td rowspan=\"1\" colspan=\"1\"><strong>&nbsp;-82</strong></td></tr></tbody></table><p>&nbsp;</p><p><strong>WORLD CUP TOP RESULTS (INCLUDING OWG &amp; WCH)</strong></p><table><tbody><tr><td rowspan=\"1\" colspan=\"1\"><strong>POS</strong></td><td rowspan=\"1\" colspan=\"1\"><strong>COMP</strong></td><td rowspan=\"1\" colspan=\"1\"><strong>SEASON</strong></td><td rowspan=\"1\" colspan=\"1\"><strong>EVENT</strong></td></tr><tr><td>1</td><td>IN</td><td>2016/17</td><td>WCH - Hochfilzen (AUT)</td></tr><tr><td>2</td><td>SP</td><td>2016/17</td><td>WC - PyeongChang (KOR)</td></tr><tr><td rowspan=\"1\" colspan=\"1\">2</td><td rowspan=\"1\" colspan=\"1\">SP</td><td rowspan=\"1\" colspan=\"1\">2013/14</td><td rowspan=\"1\" colspan=\"1\">WC - Kontiolahti (FIN)</td></tr><tr><td>4</td><td>SP</td><td>2016/17</td><td>WCH - Hochfilzen (AUT)</td></tr><tr><td rowspan=\"1\" colspan=\"1\">5</td><td rowspan=\"1\" colspan=\"1\">SP</td><td rowspan=\"1\" colspan=\"1\">2011/12</td><td rowspan=\"1\" colspan=\"1\">WC - Kontiolahti (FIN)</td></tr><tr><td rowspan=\"1\" colspan=\"1\">5</td><td rowspan=\"1\" colspan=\"1\">SP</td><td rowspan=\"1\" colspan=\"1\">2011/12</td><td rowspan=\"1\" colspan=\"1\">WC - Oestersund (SWE)</td></tr><tr><td>6</td><td>MS</td><td>2016/17</td><td>WCH - Hochfilzen (AUT)</td></tr><tr><td>6</td><td>PU</td><td>2016/17</td><td>WCH - Hochfilzen (AUT)</td></tr><tr><td rowspan=\"1\" colspan=\"1\">7</td><td rowspan=\"1\" colspan=\"1\">SP</td><td rowspan=\"1\" colspan=\"1\">2012/13</td><td rowspan=\"1\" colspan=\"1\">WC - Antholz-Anterselva (ITA)</td></tr><tr><td rowspan=\"1\" colspan=\"1\">8</td><td rowspan=\"1\" colspan=\"1\">IN</td><td rowspan=\"1\" colspan=\"1\">2013/14</td><td rowspan=\"1\" colspan=\"1\">OWG - Sochi (RUS)</td></tr><tr><td rowspan=\"1\" colspan=\"1\">8</td><td rowspan=\"1\" colspan=\"1\">SP</td><td rowspan=\"1\" colspan=\"1\">2011/12</td><td rowspan=\"1\" colspan=\"1\">WC - Oslo Holmenkollen (NOR)</td></tr></tbody></table><br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134234/NGB%20Biathlon/Migration/Athlete%20Profiles/Lowell%20Bailey%20852409/usa-mixed-relay-39-of-39Bailey1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134235/NGB%20Biathlon/Migration/Athlete%20Profiles/Lowell%20Bailey%20852409/Lowell-Bailey-2018_150x250_2---Copy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lowell Bailey 852409"
+        }
+      ]
+    },
+    {
+      "first_name": "Drew",
+      "last_name": "Baird",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "2000-08-31T00:00:00",
+        "hometown": {
+          "city": "Holly Springs",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.6543,
+          "longitude": -78.8306
+        },
+        "education": "IMG Academy (Bradenton, Fla.) ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of David Baird</li><li>Coached by Tomas Catar at IMG Academy.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 US Open Junior Tennis Championships, advanced to doubles quarterfinal with partner Trey Hilderbrand</li>\r\n                            <li>2018 Australian Open Juniors, advanced to round of 16</li>\r\n                            <li>2018 Wimbledon Juniors, advanced to round of 32</li>\r\n                            <li>2018 USTA B18-16 National Championships, advanced to semifinal</li>\r\n                            <li>2018 Les Internationaux du Canada, advanced to round of 32</li>\r\n                            <li>Ranked No. 4 nationally, as of Sept. 3, 2018</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697324/TeamUSA%20Assets/Migration/Athlete%20Profiles/Drew%20Baird%201112628/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697326/TeamUSA%20Assets/Migration/Athlete%20Profiles/Drew%20Baird%201112628/baird_drew.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Drew Baird 1112628"
+        }
+      ]
+    },
+    {
+      "first_name": "Ronnie",
+      "last_name": "Baker",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1993-10-15T00:00:00",
+        "hometown": {
+          "city": "Louisville",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 38.2527,
+          "longitude": -85.7585
+        },
+        "education": "Texas Christian University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Ronnie Baker is the son of Ronald and Lachelle Baker</li><li>Named the Gatorade Kentucky Track and Field Athlete of the Year twice after winning the 100-meter and 400-meter at the 3A state meet</li><li>Majored in kinesiology at TCU</li></ul><p>Years of <span>World Championships<span>&nbsp;</span></span>participation: Indoor - 2018 Medals: 1 (1 bronze).</p><p><span>Most recent: 2018 – bronze (60-meter)</span></p><p><h5>More</h5></p><p>USA Track &amp; Field</p><p></p><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662156/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Baker_R_BIo_1217344.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662125/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Baker_R_Hero_1217344.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012582/TeamUSA%20Assets/Athlete%20Profiles/Ronnie%20Baker%201217344/Baker_Ronnie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ronnie Baker 1217344"
+        }
+      ]
+    },
+    {
+      "first_name": "Courtney",
+      "last_name": "Baker",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1993-12-30T00:00:00",
+        "hometown": {
+          "city": "Crofton",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 37.0092,
+          "longitude": -87.4097
+        },
+        "education": "Christian County High School (Hopkinsville, Ky.) University of Kentucky",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Wallace and Laura Baker</li><li>Favorite book is The Great Gatsby</li><li>Favorite singer is Frank Sinatra</li><li>Favorite movie is Grease</li><li>Hobbies are Upholstery, painting, tag sales and Starbucks</li><li>Most admired person is her father because he &quot;works so hard at everything he does, he is supportive and always knows what to say. I would not be here without his pushing me to be better everyday.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Changshu, 2015 (Team - Women)</li></ul><h5>More</h5><p><strong>THE QUOTE: </strong>\"I don't feel like I gave up on my dream. I just found another way to play the game I love.\" - Courtney Baker in the Lexington Herald Leader</p>\n<strong>Baker Shares Her Story with HCA Volleyball Players </strong>- wkdzradio.com<strong><br>\nCatching up with Courtney Baker</strong> - Lexington Herald-Leader<br>\n<strong>After Losing Leg, Baker Plays Again</strong> - FoxSports.com<br>\n<strong>Courtney Baker Doesn't Let One Leg Keep Her from Volleyball </strong>- Kentucky.com",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "VS2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325662/TeamUSA%20Assets/Migration/Athlete%20Profiles/Courtney%20%20Baker/p150x250-Courtney-Baker.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Courtney Baker"
+        }
+      ]
+    }
+  ]
+}

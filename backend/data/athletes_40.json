@@ -1,0 +1,1219 @@
+{
+  "entries": [
+    {
+      "first_name": "Susan",
+      "last_name": "Dudt",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2001-11-07T00:00:00",
+        "hometown": {
+          "city": "Malvern",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.0365,
+          "longitude": -75.5166
+        },
+        "education": "Great Valley High School (Malvern, Penn.) ’20 Bucknell University ‘24, Mechanical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Brian and Leslie Dudt</li><li>Has two older brothers, Daniel and Andrew</li><li>Introduced by family and began curling at 5 years old</li><li>Hobbies include hiking, scuba diving and art</li><li>Currently a mechanical engineering student at Bucknell University interested in renewable energy</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>U21 National Championship: Gold (2021,2020), Bronze (2019, 2018, 2016)</li>\r\n                            <li>U18 National Championship: Gold (2019), Bronze (2018) </li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 Junior World Championships, bronze</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366129/TeamUSA%20Assets/Migration/Athlete%20Profiles/Susan%20Dudt/Susan-Dudt.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Susan Dudt"
+        }
+      ]
+    },
+    {
+      "first_name": "Colin",
+      "last_name": "Duffy",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2003-12-10T00:00:00",
+        "hometown": {
+          "city": "Broomfield",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.92,
+          "longitude": -105.086
+        },
+        "education": "University of Colorado",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began climbing at age 5</li><li><p>Was the youngest member of the USA Climbing team at the Tokyo 2020 Olympics</p></li><li><p>Has aspirations of going into Engineering in college</p></li><li><span>Passionate about rescuing animals and has rescued both a dog, Lucky, and a cat, Sparky</span></li><li><p>Hobbies include solving puzzles and Rubik’s cubes</p></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (Bouldering & Lead Combined - Men)</li><li>Olympic Games Tokyo 2020, 7th (Combined - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Bouldering & Lead Combined - Men), 13th (Lead - Men), 45th (Bouldering - Men)</li><li>Years of participation: Bouldering - Men 2021, 2023; Bouldering & Lead Combined - Men 2023; Lead - Men 2023; Speed - Men 2021</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Bouldering & Lead Combined - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661975/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/duffy_c_bio_1198300.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sport Climbing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662328/TeamUSA%20Assets/Athlete%20Profiles/Colin%20Duffy%201198300/duffy_c_hero_1198300.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012996/TeamUSA%20Assets/Athlete%20Profiles/Colin%20Duffy%201198300/Duffy_Colin.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Colin Duffy 1198300"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sport Climbing"
+        }
+      ]
+    },
+    {
+      "first_name": "Meghan",
+      "last_name": "Duggan",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1987-09-03T00:00:00",
+        "hometown": {
+          "city": "Danvers",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.5765,
+          "longitude": -70.932
+        },
+        "education": "Cushing Academy (Ashburnham, Mass.) ‘06 University of Wisconsin '11, Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bob and Mary Duggan</li><li>Has one sister Katelyn and one brother Bryan</li><li>Started skating at age three</li><li>Hobbies include road biking, cooking, golfing, tennis, fishing, reading and writing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Named USA Hockey’s Bob Allen Women’s Player of the Year in 2011</li>\r\n                            <li>Captured three NCAA Division I titles while at Wisconsin</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li><li>Olympic Games Sochi 2014, silver (Team - Women)</li><li>Olympic Games Vancouver 2010, silver (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (Team - Women)</li><li>Years of participation: Team - Women 2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017</li><li>Medals: 8 (7 gold, 1 silver)</li><ul><li>Gold – 2017 (Team - Women);  2016 (Team - Women);  2015 (Team - Women);  2013 (Team - Women);  2011 (Team - Women);  2009 (Team - Women);  2008 (Team - Women)</li><li>Silver – 2007 (Team - Women)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695498/TeamUSA%20Assets/Migration/Athlete%20Profiles/Meghan%20Duggan%20848099/Duggan_Megan_022210_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695500/TeamUSA%20Assets/Migration/Athlete%20Profiles/Meghan%20Duggan%20848099/duggan_meghan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Meghan Duggan 848099"
+        }
+      ]
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Dumais",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1980-01-21T00:00:00",
+        "hometown": {
+          "city": "Ventura",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2792,
+          "longitude": -119.2945
+        },
+        "education": " University of Texas",
+        "fun_fact": null,
+        "biography": "<div></div><p><span style=\"font-size: 18px;\"><strong><br bold=\"[object Object]\"></strong><strong>Biography:</strong><strong><br bold=\"[object Object]\"></strong></span>Troy is the son of Marc and Kathleen Dumais. He has three brothers, Justin (born 8/13/78), Brice (born 4/23/81) and Dwight (born 6/23/86), as well as one sister, Leanne (born 7/2/84). All four of his siblings have also been divers. Justin was on the 2004 Olympic team and previously trained under coaches Van Austin, Tom Scotty and Jeff Shaffer.&nbsp;Troy’s father was a professional French Canadian hockey player and tennis player.</p><p style=\"margin: 0px 0px 24px;color: #141412;font-size: 16px;line-height: 24px;\">In addition to diving, Troy has played football, hockey, tennis, basketball and baseball. He enjoys music, cars, movies, playing games, working out and hanging out with friends. Troy has been diving for more than 25 years and the four-time Olympian has no favorite dives because he likes them all.</p><p><strong style=\"font-size: large;\">Highlights:</strong></p><div><p><strong></strong></p><ul style=\"margin: 16px 0px;padding: 0px 0px 0px 40px;list-style-type: square;color: #141412;line-height: 24px;\"><li>2000, 2004, 2008, 2012 U.S. Olympic Team member</li><li>2012 Olympic Games Bronze Medalist (Synchronized 3-meter)</li><li>38-time national champion</li><li>Eight-time World Championships team member</li><li>20-time U.S. national team member</li><li>2010 World Cup silver medalist on synchronized 3-meter</li><li>2009 World Championships silver medalist on 3-meter, synchronized 3-meter</li><li>2006 World Cup silver and bronze medalist</li><li>2005 World Championships bronze and silver medalist</li><li>Six-time Pan American Games medalist (gold and bronze in 2007; silver in 2011; two bronze in 2003; bronze in 1999)</li></ul><p><span style=\"font-family: tahoma;\"><strong style=\"font-size: large;\">Additional Accomplishments:</strong></span><br></p><ul style=\"margin: 16px 0px;padding: 0px 0px 0px 40px;list-style-type: square;color: #141412;line-height: 24px;\"><li>Named USA Diving’s Athlete of the Year in 2009, 2006 and 1997</li><li>2006 Sullivan Award finalist</li><li>Recipient of the 2002 Men’s&nbsp;All-Around Award</li><li>2002 NCAA Division I 1-meter and 3-meter champion, fifth on platform</li><li>2001 Men’s All-Around Award at Indoor Nationals</li><li>2001&nbsp;NCAA 1-meter and 3-meter champion</li><li>2000 NCAA 3-meter and 1-meter champion, platform silver medalist</li><li>1999 NCAA 3-meter champion and silver&nbsp;medalist on 1-meter and platform</li><li>Currently holds the record for most junior titles with 19</li><li>In 1995, became the first U.S. junior diver to win two world junior&nbsp;titles since 1979 with gold medals on 1- and 3-meter</li><li>Four-time high school All-American and team MVP</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games London 2012, bronze (3m Springboard Synchro - Men), 5th (3m Springboard - Men)</li><li>Olympic Games Beijing 2008, 6th (3m Springboard - Men)</li><li>Olympic Games Athens 2004, 6th (3m Springboard - Men, 3m Springboard Synchro - Men)</li><li>Olympic Games Sydney 2000, 4th (3m Springboard Synchro - Men), 6th (3m Springboard - Men)</li></ul></ul></div><ul><li>4-time Olympian; 1-time Olympic medalist (1 bronze)<ul><li>Olympic Games London 2012, bronze (3m Springboard Synchro - Men), 5th (3m Springboard - Men)</li><li>Olympic Games Beijing 2008, 6th (3m Springboard - Men)</li><li>Olympic Games Athens 2004, 6th (3m Springboard - Men, 3m Springboard Synchro - Men)</li><li>Olympic Games Sydney 2000, 4th (3m Springboard Synchro - Men), 6th (3m Springboard - Men)</li></ul></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 5th (3m Springboard Synchro - Men)</li><li>Years of participation: 3m Springboard Synchro - Men 2001, 2003, 2005, 2007, 2009, 2011, 2013; 3m Springboard - Men 1998, 2001, 2003, 2005, 2007, 2009, 2011; 10m Platform Synchro - Men 2003; 1m Springboard - Men 1998, 2001</li><li>Medals: 5 (4 silver, 1 bronze)</li><ul><li>Silver – 2009 (3m Springboard - Men, 3m Springboard Synchro - Men);  2005 (3m Springboard - Men);  1998 (1m Springboard - Men)</li><li>Bronze – 2005 (3m Springboard Synchro - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695522/TeamUSA%20Assets/Migration/Athlete%20Profiles/Troy%20Dumais%20803583/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008, 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695524/TeamUSA%20Assets/Migration/Athlete%20Profiles/Troy%20Dumais%20803583/Dumais-Troy-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Troy Dumais 803583"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Duncan",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2001-05-14T00:00:00",
+        "hometown": {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9012,
+          "longitude": -77.2653
+        },
+        "education": "James Madison University of Kentucky",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Paul and Kari Duncan</li><li>Has an older brother, Greg, who is also a diver</li><li>Enjoys playing ultimate frisbee for fun</li><li>Likes to browse the internet and listen to music between dives (anything but country, although he prefers classic rock during competitions)</li><li>His favorite dive is 5152B on 3-meter, and his favorite diver is Dmitri Sautin</li><li>Says the hardest part about training is waking up for 6 a.m. dryland workouts</li><li>Is a self-proclaimed &#39;book nerd&#39; and says if he&#39;s done with school, he&#39;s almost always reading a book</li><li>If he could meet anyone, he would want to have a conversation with Barack Obama</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329887/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sam%20Duncan/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Duncan"
+        }
+      ]
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "Duncan",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1998-12-14T00:00:00",
+        "hometown": {
+          "city": "Oakton",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9098,
+          "longitude": -77.2805
+        },
+        "education": "Purdue University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kari (a biologist) and Paul (a consultant) Duncan. Has one younger brother, Sam</li><li>Started diving at age 12 just for fun</li><li>Watched the Olympics in awe and never imagined he would seriously be training to get there himself one day, but says hard work, enjoying the sport and a little bit of luck have helped get him where he is today</li><li><span>Used to play football and lacrosse</span></li><li>Favorite diver is Cao Yuan of China</li><li>Coaches summer league diving, and is a member of the Spanish Honor Society (he hopes to one day be fluent in the language.)</li><li>Hobbies include playing and watching other sports and hanging out with friends.</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (3m Springboard Synchro - Men)</li><li>Years of participation: 3m Springboard Synchro - Men 2023</li><li>Top finish: 4th – 2023 (3m Springboard Synchro - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2024 (Trophy - Men)</li><li>World Cup, Berlin, 2022 (3m Springboard Synchro - Men)</li><li>World Junior Championships, Kazan, 2016 (1m Springboard - Men, 3m Springboard - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 8th (3m Springboard Synchro - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718771785/NGB%20Diving/News/June%202024/Duncan_Downs_Olympic_Trials_Award.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685744585/NGB%20Diving/Athlete%20Profiles/Greg%20Duncan/Duncan_G_Thumbnail_1149176.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011150/TeamUSA%20Assets/Athlete%20Profiles/Greg%20Duncan%201149176/Greg-Duncan-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Greg Duncan 1149176"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Diving"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelin",
+      "last_name": "Dunfee",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1991-05-08T00:00:00",
+        "hometown": {
+          "city": "Saint Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "Doctorate at Mayo Clinic School of Health Sciences",
+        "fun_fact": null,
+        "biography": "<h5>World Championship Highlights </h5><p>2023 Four Continents Championships - Team Pursuit 5th; 5000m 8th</p><p><span>2022 Four Continents Championships - Team Pursuit 4th; 5000m 6th; Mass Start 10th</span></p><h5>Career Highlights</h5><ul><li>World Cup, 2024 (5000/10000m - Men)</li><li>World Cup, 2023 (5000/10000m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687360619/NGB%20Speedskating/Galleries/AMNTLSU23-239.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687360640/NGB%20Speedskating/Galleries/Screen_Shot_2023-06-21_at_9.16.07_AM.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687360640/NGB%20Speedskating/Galleries/Screen_Shot_2023-06-21_at_9.16.07_AM.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687360640/NGB%20Speedskating/Galleries/Screen_Shot_2023-06-21_at_9.16.07_AM.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelin Dunfee"
+        }
+      ]
+    },
+    {
+      "first_name": "Abby",
+      "last_name": "Dunkin",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1995-11-24T00:00:00",
+        "hometown": {
+          "city": "New Braunfels",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7033,
+          "longitude": -98.1247
+        },
+        "education": "Canyon High School (New Braunfels, Texas) ‘14 University of Texas at Arlington ‘18, Kinesiology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Despite being diagnosed at age 13 with Complex Regional Pain Syndrome (CRPS), a brain disorder that causes abnormal pain, Dunkin grew up playing sports including basketball, track and martial arts. Midway through her junior year, complications from a rare nervous system disorder left her unable to walk and needing to use a wheelchair on a daily basis. She was re-diagnosed with Neurocardiogenic Syncope Dysautonomia with Small Fiber Neuropathy and discovered wheelchair basketball after watching videos of the 2012 Paralympic Games. A few months after, she began playing with the San Antonio ParaSport Spurs Wheelchair Basketball Team and was eventually recruited to the UT-Arlington’s Lady Movin’ Mavs where she helped the team to a national championship</li><li>Daughter of Melissa Kratsas and Steve Dunkin</li><li>Has a younger sister, Alex</li><li>Hobbies include watching Netflix, fishing, listening to music, sleeping, writing poetry and road trips</li><li>Started playing wheelchair basketball as a junior in high school</li><li>Fan of the San Antonio Spurs</li><li>Taught herself how to play the acoustic guitar</li><li>Is a second-degree black belt</li><li>Always includes a song by Elvis Presley on her pre-game playlist.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 gold)</li><ul><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 6th (Team - Women)</li><li>Years of participation: Team - Women 2018</li><li>Top finish: 6th – 2018 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "3.5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330032/TeamUSA%20Assets/Migration/Athlete%20Profiles/Abby%20Dunkin/Dunkin_Abby_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Abby Dunkin"
+        }
+      ]
+    },
+    {
+      "first_name": "Susan",
+      "last_name": "Dunklee",
+      "bio": {
+        "height": "5' 7\"",
+        "birthday": "1986-02-13T00:00:00",
+        "hometown": {
+          "city": "Craftsbury",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 44.6473,
+          "longitude": -72.3409
+        },
+        "education": "Dartmouth",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Hobbies include hiking, unicycling, reading, jigsaw puzzles, gardening, camping</li><li>Member of the Craftsbury Green Racing Project, a group of professional post-collegiate athletes (cross country skiers, biathletes and rowers) who promote sustainability and endurance sports in their local community</li></ul><p></p><h5>Career Highlights</h5><ul><li>2019 US Biathlon National Championships (Jericho, Vt.) - 1st in sprint / 1st in pursuit / 1st in super sprint</li><li>2018 US Biathlon National Championships (Park City, Utah) - 1st in sprint / 1st in pursuit / 1st in mass start</li><li>2018 Open European Championships (Ridnaun-Val Ridanna, ITA) - 3rd in single mixed relay w/ Lowell Bailey</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Beijing 2022, 7th (4 x 6km Relay - Mixed), 11th (4 x 6km Relay - Women), 27th (7.5km Sprint - Women), 40th (10km Pursuit - Women), 63th (15km Individual - Women)</li><li>Olympic Games Pyeongchang 2018, 13th (4 x 6km Relay - Women), 15th (2 x 6 + 2 x 7.5km Relay - Mixed), 19th (15km Individual - Women), 66th (7.5km Sprint - Women)</li><li>Olympic Games Sochi 2014, 6th (4 x 6km Relay - Women), 7th (2 x 6 + 2 x 7.5km Relay - Mixed), 11th (12.5km Mass Start - Women), 14th (7.5km Sprint - Women), 17th (10km Pursuit - Women), 33th (15km Individual - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 13th (4 x 6km Relay - Women), 18th (7.5km Sprint - Women), 25th (12.5km Mass Start - Women), 27th (10km Pursuit - Women), 77th (15km Individual - Women)</li><li>Years of participation: 10km Pursuit - Women 2012, 2013, 2015, 2016, 2017, 2019, 2020, 2021; 12.5km Mass Start - Women 2012, 2015, 2016, 2017, 2020, 2021; 15km Individual - Women 2012, 2013, 2015, 2016, 2017, 2019, 2020, 2021; 4 x 6km Relay - Women 2012, 2013, 2015, 2016, 2017, 2019, 2020, 2021; 7.5km Sprint - Women 2012, 2013, 2015, 2016, 2017, 2019, 2020, 2021; 4 x 6km Relay - Mixed 2020; Single Mixed Relay - Mixed 2019, 2020; 2 x 6 + 2 x 7.5km Relay - Mixed 2012, 2013, 2015, 2016, 2017, 2019</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2020 (7.5km Sprint - Women);  2017 (12.5km Mass Start - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661970/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/dunklee_s_bio_855547.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684340152/US_Biathlon_Women_Susan_Dunklee.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684340152/US_Biathlon_Women_Susan_Dunklee.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Susan Dunklee 855547"
+        },
+        {
+          "title": "Biathlon"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Crystal",
+      "last_name": "Dunn",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1992-07-03T00:00:00",
+        "hometown": {
+          "city": "Rockville Centre",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.6543,
+          "longitude": -73.6396
+        },
+        "education": "University of North Carolina ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Soccer</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Position:</strong></span><span style=\"font-size: 11pt;\"> Defender / midfielder</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Crystal Dunn is an American soccer player and a key figure in both club and international soccer. She has the longest active streak of Olympics and World Cup play on the USWNT. Her ability to excel as both a defender and midfielder has made her one of the most valuable players in the game.</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Dunn made her Olympic debut with the U.S. Women’s National Team at the Rio 2016 Olympic Games.</span></p><p><span style=\"font-size: 11pt;\">At the Tokyo 2020 Olympic Games, Dunn played a pivotal role as a left-back, where her defensive prowess and ability to transition quickly from defense to attack were vital to the U.S. team. Her performances against top teams helped the U.S. secure a bronze medal.</span></p><p><span style=\"font-size: 11pt;\">At the Paris 2024 Olympic Games, Team USA was undefeated through all three group matches to advance to the tournament's elimination round. During the quarterfinals against Japan, Dunn made a long pass downfield to forward Trinity Rodman for a goal, to win 1-0 in extra time and advance to the semifinals against Germany. She played a pivotal role in the gold medal win in the finals.</span></p><h5>Club Highlights</h5><p><span style=\"font-size: 11pt;\">Dunn has had a distinguished professional career, highlighted by her performances in the National Women's Soccer League (NWSL) and with the U.S. Women's National Team. She has been a key player in helping her teams achieve success.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Dunn was drafted first overall by the Washington Spirit in 2014. She won NWSL MVP in 2015 and led the league in scoring with 15 goals. In 2016, she helped the Spirit reach the NWSL Championship final.</span></p><p><span style=\"font-size: 11pt;\">Dunn played for Chelsea FC from 2017-2018, helping them win the FA Women’s Super League (WSL) Spring Series. She joined the North Carolina Courage in 2018 and won both the NWSL Shield and championship. In 2019, she won another NWSL Championship with Courage and a world cup with the U.S. Women's National Team.</span></p><p><span style=\"font-size: 11pt;\">Dunn played for Portland Thorns from 2020-2023. With the Thorns, she won an NWSL Shield in 2021 and championship in 2022. She scored five goals and had two assists in her final season with the Thorns. Dunn joined the NJ/NY Gotham FC in 2024.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">During her time at the University of North Carolina, Crystal Dunn had a remarkable collegiate career. At UNC, Dunn led her team to the NCAA Championship in 2012 and reached the NCAA Women's College Cup final in 2011. Her outstanding play earned her the ACC Player of the Year award in 2011.</span></p><p><span style=\"font-size: 11pt;\">In 2012, Dunn's excellence was recognized with multiple prestigious awards, including the Hermann Trophy and Soccer America Player of the Year. She was also named an NSCAA First-Team All-American that year.</span></p><p><span style=\"font-size: 11pt;\">Her professional career brought more accolades. Dunn won the NWSL Golden Boot and MVP awards in 2015. She continued to excel internationally, being named the 2021 CONCACAF Player of the Year.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (Team - Women)</li><li>Years of participation: Team - Women 2019, 2023</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2019 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720503250/TeamUSA%20Assets/Migration/Athlete%20Profiles/Crystal%20Dunn/dunn_c_bio_835278.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662170/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/dunn_c_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662170/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/dunn_c_hero_UNKNOWN.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662170/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/dunn_c_hero_UNKNOWN.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Crystal Dunn"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Soccer"
+        }
+      ]
+    },
+    {
+      "first_name": "Jincy",
+      "last_name": "Dunne",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1997-05-15T00:00:00",
+        "hometown": {
+          "city": "O'Fallon",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.7995,
+          "longitude": -90.7068
+        },
+        "education": " Ohio State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Jincy is the daughter of Tom and Tammy Dunne</li><li>Her older sister and former teammate, Jessica, appeared in 65 games as an Ohio State Buckeye</li><li>She also has two younger brothers, Josh and James, as well as two younger sisters, Josey and Joy</li><li>Favorite hockey team is the Saint Louis Blues</li><li>Favorite athlete is Juls Iafallo.</li></ul><h5>More</h5><p>USA Hockey</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Beijing 2022, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (Team - Women)</li><li>Years of participation: Team - Women 2014, 2021, 2022</li><li>Medals: 3 (1 gold, 2 silver)</li><ul><li>Gold – 2014 (Team - Women)</li><li>Silver – 2022 (Team - Women);  2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661980/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Dunne_j_bio_866714.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662115/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Dunne_j_hero_866714.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004750/TeamUSA%20Assets/Athlete%20Profiles/Jincy%20Dunne%20866714/dunne_jincyHeadshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jincy Dunne 866714"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Joy",
+      "last_name": "Dunne",
+      "bio": {
+        "height": "5'11'",
+        "birthday": "2005-06-13T00:00:00",
+        "hometown": {
+          "city": "O'Fallon ",
+          "state": "MO",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Ohio State University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Forward</li><li>Daughter of Tom and Tammy Dunne</li><li>Has two brothers, Josh and James, and three sisters, Jessica, Jincy and Josey<ul><li>All six Dunne siblings played college hockey</li></ul></li><li>Older sister, Jincy, played for the U.S. women's ice hockey team at the Olympic Winter Games Beijing 2022; also plays professionally in PWHL</li><li>Brother, Josh, played college hockey at Clarkson and has played in the NHL with the Columbus Blue Jackets and Buffalo Sabres</li><li>Two older sisters, Jessica and Jincy&nbsp;also played women's hockey at Ohio State University</li><li>Sister, Josey, plays college hockey for Lindenwood after starting her college career with the University of Minnesota</li><li>Brother, James, plays college hockey at Oklahoma State</li></ul><h5>Biographical Information</h5><p><span>Joy Dunne grew up in a St. Louis suburb and started playing hockey at 4 years old. The year prior, she had tried figure skating, but quickly learned she liked the “physical contact” in hockey over figure skating.&nbsp;</span></p><p><span>The youngest of six siblings, all of whom ended up playing college hockey with her brother, Josh, having an NHL career, and her sister, Jayce, a member of Olympian as a member of the U.S. women’s hockey team for the Beijing Games.&nbsp;</span></p><p><span>The family’s long-running joke is that their story is a “true miracle on ice” because neither parent can skate.</span></p><p><span>Dunne attended Ohio State University, following in the footsteps of two of her sisters, and in her freshman season led the Buckeyes with 24 goals as they won the national title. Dunne scored the game-winning goal in the NCAA championship game. After the title game, Dunne would make her IIHF World Championship debut for the U.S. women's hockey team at the 2024 IIHF Women's World Championships.</span></p><p>After college, Dunne would like to play in the PWHL and has joked, “I’m trying to convince all of my sisters to come out of retirement and make a team.”</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2024, 2025</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2025 (Team - Women)</li><li>Silver – 2024 (Team - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770230535/Dunne_J_bio_1368561.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770246220/Dunne_J_main_1368561.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770166031/Dunne_J_thumbnail_1368561.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Joy Dunne"
+        }
+      ]
+    },
+    {
+      "first_name": "Mary Beth",
+      "last_name": "Dunnichay",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1993-02-24T00:00:00",
+        "hometown": {
+          "city": "Elwood",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 40.2792,
+          "longitude": -85.8408
+        },
+        "education": "Elwood High School (Elwood, Ind.) ‘11 Purdue University",
+        "fun_fact": null,
+        "biography": "<p>Biography:<br />Mary Beth is the daughter of Ned and Marian Dunnichay and has three older siblings: Danielle, Caleb and Jacob. She started diving in 1999 after being inspired by Caleb, who was also a diver.&nbsp;</p><p>Mary Beth became a U.S. Olympic Team member (synchronized 10-meter) in 2008. She was the youngest member of the U.S. delegation in all sports.&nbsp;</p><p>Mary Beth has been hampered by shoulder problems throughout her career, having undergone three surgeries on her right shoulder. Until returning to the national team in the spring of 2015, she had not competed internationally since the 2011 World Championships. Mary Beth said the hardest part about returning to competition was dealing with the nerves and learning how to compete again. She trains approximately fours hours a day, and her favorite dive is 5253B on 10-meter.&nbsp;</p><p>Mary Beth enjoys shopping and hanging out with friends and family.<br /><br /><strong style=\"font-size: large;\">Highlights:</strong></p><li>2008 Olympian (5th in synchronized 10-meter)</li><li>2009 World Championships silver medalist in synchronized 10-meter with Haley Ishimatsu</li><li>Three-time World Championships team member (2007, 2009, 2011)</li><p>2007 Pan American Games bronze medalist in synchronized 10-meter</p><div style=\"font-weight: bold;\"><p><strong></strong></p></div><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695504/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mary%20Beth%20Dunnichay%20837628/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695506/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mary%20Beth%20Dunnichay%20837628/Dunnichay-Mary-Beth-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mary Beth Dunnichay 837628"
+        }
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Dunstan",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1997-09-29T00:00:00",
+        "hometown": {
+          "city": "New Canaan",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.1462,
+          "longitude": -73.5004
+        },
+        "education": "Mater Dei High School (Santa Ana, Calif.) ‘16 University of Southern California ‘20, Undeclared",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Thomas and Amy-Jo Dunstan</li><li>Has one brother, Kieran, and two sisters, Erin and Taylor.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FINA World League Super Final, silver</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Team - Men)</li></ul></ul><h5>More</h5>USA Water Polo<strong></strong><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 13th (Team - Men)</li><li>Years of participation: Team - Men 2017</li><li>Top finish: 13th – 2017 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320996/TeamUSA%20Assets/Migration/Athlete%20Profiles/Thomas%20%20Dunstan/Dunstan_Thomas_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Thomas Dunstan"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Duperre",
+      "bio": {
+        "height": "6' 0\"",
+        "birthday": "2001-11-11T00:00:00",
+        "hometown": {
+          "city": "New Albany",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.0895,
+          "longitude": -82.8235
+        },
+        "education": "New Albany High School University of Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Anna and Jacques Duperre</li><li>He has one sister, Natalie</li><li>Noah enjoys listening to music and hanging out with friends</li><li>He began diving in 2007 at the age of five</li><li>Noah qualified for the 2018 Junior World Championships but did not compete and was away from diving from May 2018 to December 2018 due to tearing a major ligament in his foot that required two surgeries</li><li>He was named a 2018 NISCA All-American Boys diving national champion</li><li>He competed in his first junior nationals in 2011 and in his first senior nationals in 2016</li><li>Between dives, Noah talks with his coaches and teammates, while also cheering on his friends</li><li>His favorite dive is a 205B in the 3-meter event</li><li>The hardest part about training for Noah is getting up for early morning practice</li><li>His typical pre-competition meal is waffles</li><li>Noah's favorite meal outside of competition is chicken tacos</li><li>His favorite diver is Jack Laugher</li><li>Noah describes himself as drive, competitive and ambitious</li><li>His favorite TV show is Parks and Recreation</li></ul><p></p><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 7th (3m Springboard Synchro - Mixed)</li><li>Years of participation: 3m Springboard Synchro - Mixed 2024</li><li>Top finish: 7th – 2024 (3m Springboard Synchro - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923949/TeamUSA%20Assets/Migration/Athlete%20Profiles/Noah%20Duperre/Noah_Duperre2_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Duperre"
+        }
+      ]
+    },
+    {
+      "first_name": "Tucker",
+      "last_name": "Dupree",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1989-05-11T00:00:00",
+        "hometown": {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.7796,
+          "longitude": -78.6382
+        },
+        "education": "Garner High School (Garner, N.C.), ’07 DeVry University ’17, Emerging Technology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Dupree began swimming in 2004, and took up para-swimming in 2007 at the Governor Morehead School for the Blind in Raleigh, North Carolina. He would always go to the pool to watch his older sister&#39;s swimming practices, so her coach convinced him to get into the pool and try the sport for himself. He trains in the pool for three and a half hours, and in the gym for two hours, each day. He was diagnosed with Leber&#39;s hereditary optic neuropathy in October 2006, and lost most of his eyesight over the following six months. He won the 2011 Roger McCarville Male Athlete of the Year Award from the Athletes with Disabilities Hall of Fame. He received the 2008 Greater Raleigh Sports Council Courage of Character Award</li><li>Son of Marlene and Chet Dupree</li><li>Has one sister, Sarah</li><li>Hobbies include Playing piano, listening to music, collecting swim caps from the places he travels for competitions and cooking</li><li>Has been to 27 different countries.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 4-time Paralympic medalist (1 silver, 3 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, bronze (100m Backstroke S12 - Men), 5th (50m Freestyle S12 - Men), 8th (100m Butterfly S13 - Men)</li><li>Paralympic Games London 2012, silver (100m Backstroke S12 - Men), bronze (100m Freestyle S12 - Men, 50m Freestyle S12 - Men), 4th (100m Butterfly S12 - Men), 5th (400m Freestyle S12 - Men)</li><li>Paralympic Games Beijing 2008, 4th (400m Freestyle S12 - Men), 5th (100m Backstroke S12 - Men, 100m Butterfly S12 - Men), 6th (200m Individual Medley SM12 - Men, 50m Freestyle S12 - Men), 7th (100m Freestyle S12 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (50m Freestyle S12 - Men), silver (100m Backstroke S12 - Men, 100m Freestyle S12 - Men)</li><li>Years of participation: 100m Backstroke S12 - Men 2010, 2013, 2015, 2017; 100m Freestyle S12 - Men 2010, 2013, 2017; 50m Freestyle S12 - Men 2010, 2013, 2015, 2017; 100m Butterfly S12 - Men 2010, 2013; 200m Individual Medley SM12 - Men 2010; 400m Freestyle S12 - Men 2010; 100m Backstroke S12 SC - Men 2009; 100m Butterfly S12 SC - Men 2009; 100m Freestyle S12 SC - Men 2009; 400m Freestyle S12 SC - Men 2009; 50m Freestyle S12 SC - Men 2009</li><li>Medals: 16 (2 gold, 6 silver, 8 bronze)</li><ul><li>Gold – 2017 (50m Freestyle S12 - Men);  2009 (100m Butterfly S12 SC - Men)</li><li>Silver – 2017 (100m Backstroke S12 - Men, 100m Freestyle S12 - Men);  2013 (100m Backstroke S12 - Men);  2010 (100m Freestyle S12 - Men);  2009 (100m Backstroke S12 SC - Men, 50m Freestyle S12 SC - Men)</li><li>Bronze – 2015 (100m Backstroke S12 - Men);  2013 (50m Freestyle S12 - Men);  2010 (100m Backstroke S12 - Men, 100m Butterfly S12 - Men, 400m Freestyle S12 - Men, 50m Freestyle S12 - Men);  2009 (100m Freestyle S12 SC - Men, 400m Freestyle S12 SC - Men)</li></ul></ul><h5>More</h5><p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695510/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tucker%20Dupree%20879074/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S12, SB12, SM12",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695512/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tucker%20Dupree%20879074/Dupree_Tucker_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tucker Dupree 879074"
+        }
+      ]
+    },
+    {
+      "first_name": "Emir",
+      "last_name": "Durakovic",
+      "bio": {
+        "height": "6'4",
+        "birthday": "2004-06-07T00:00:00",
+        "hometown": {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4942,
+          "longitude": -111.9261
+        },
+        "education": "Četvrta gimnazija Ilidža",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Was born in the United States and moved to Bosnia and Herzegovina when he was young</li><li>Played soccer, taekwondo, basketball while growing up in Sarajevo</li><li>Father played handball in Yugoslavia, which inspired him to start playing this sport</li><li>Currently plays for the second division club, RK “Respect” Sarajevo.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Rukomet U Srcu - 20th (Maglaj, Bosnia &amp; Herzegovina) </li>\r\n                            <li>2019 Rukometni Turnir - 3rd (Ilidza, Bosnia &amp; Herzegovina) </li>\r\n                            <li>2019 Rukometni Turnir - 1st  (Brijesce, Bosnia &amp; Herzegovina) </li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328396/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emir%20Durakovic/Emir_hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328398/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emir%20Durakovic/Emir_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emir Durakovic"
+        }
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Durant",
+      "bio": {
+        "height": "6'11\"",
+        "birthday": "1988-09-29T00:00:00",
+        "hometown": {
+          "city": "Washington D.C.",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9072,
+          "longitude": -77.0369
+        },
+        "education": "University of Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Basketball</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Position:</strong></span><span style=\"font-size: 11pt;\"> Small forward / power forward</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Kevin Durant is one of the most accomplished basketball players of his generation, known for his scoring ability, versatility, and leadership on and off the court. Durant made history as the first freshman to win the Naismith College Player of the Year award before being selected second overall in the 2007 NBA Draft by the Seattle SuperSonics - now known as Oklahoma City Thunder. His career has been marked by numerous accolades, including multiple NBA championships, MVP awards, and Olympic gold medals.</span></p><p><span style=\"font-size: 11pt;\">Durant was raised by his mother, Wanda. He is involved in various philanthropic efforts through the Durant Family Foundation, which focuses on education, social justice, and community development. Off the court, Durant is an entrepreneur and investor, with interests in technology, media, and sports businesses.</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Durant has been a force in Team USA’s success in international competitions. Durant is one of the few U.S. male basketball athletes to play in three or more Olympics. He played pivotal roles in leading the U.S. to Olympic gold medals in the London 2012 Olympic Games, Rio 2016 Olympic Games, Tokyo 2020 Olympic Games and Paris 2024 Olympic Games. Known for his clutch performances, Durant's leadership was instrumental in Team USA's success, where he consistently led the team in scoring.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">In his Olympic debut at the London 2012 Games, Durant made history by breaking Team USA's scoring record with 156 total points, surpassing Spencer Haywood's 1968 mark of 145. His sharpshooting was exceptional, setting a new U.S. record with 34 three-pointers while averaging 19.5 points, 5.8 rebounds and 2.6 assists across eight games.</span></p><p><span style=\"font-size: 11pt;\">At the Rio 2016 Games, Durant continued his Olympic excellence, leading the team through eight games with impressive averages of 19.4 points, 5.0 rebounds and 3.5 assists. His performance earned him the co-USA Basketball Male Athlete of the Year award alongside </span><span style=\"font-size: 11pt;\">Carmelo Anthony</span><span style=\"font-size: 11pt;\">.</span></p><p><span style=\"font-size: 11pt;\">Durant reached new heights at the Tokyo 2020 Games, setting a U.S. Olympic record by averaging 20.7 points per game. Over six games, he maintained strong all-around play with 5.3 rebounds and 3.7 assists per game. His dominant performance led to him being named the 2021 USA Basketball Male Athlete of the Year.</span></p><p><span style=\"font-size: 11pt;\">In the Paris 2024 Olympic Games, Durant played in six games, averaging 13.8 points, 3.2 rebounds and 2.3 assists per game, helping Team USA win gold in the final. With this achievement, Durant became the first and only four-time gold medalist in men's basketball.</span></p><h5>NBA Highlights</h5><p><span style=\"font-size: 11pt;\">Durant was drafted second overall by the Seattle SuperSonics in the 2007 NBA Draft. During his first season, he established himself as one of the league's premier scorers and earned Rookie of the Year. After the franchise relocated and rebranded to the Oklahoma City Thunder, Durant continued his scoring prowess, going on to win four scoring titles and an MVP award.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">In 2016, Durant joined the Golden State Warriors, where he won back-to-back NBA championships in 2017 and 2018, earning Finals MVP honors in both years. After a brief stint with the Brooklyn Nets from 2019-2023, Durant was traded to the Phoenix Suns in 2023.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">Durant attended Montrose Christian School in Rockville, Maryland, for his senior year after initially playing at National Christian Academy and Oak Hill Academy. Durant’s dominant high school career, where he was named a McDonald’s All-American, solidified his status as one of the top recruits in the country.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Durant attended the University of Texas for the 2006-2007 season. In his freshman year, Durant was a sensation, leading the Longhorns in scoring (25.8 points per game) and rebounding (11.1 rebounds per game). His incredible performance earned him multiple national Player of the Year awards, including the prestigious Naismith and Wooden awards. Durant’s success at Texas made him a top prospect, leading to his early entry into the NBA Draft.</span></p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 4-time Olympic medalist (4 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Men)</li><li>Olympic Games Tokyo 2020, gold (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Men)</li><li>Olympic Games London 2012, gold (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – gold (Team - Men)</li><li>Years of participation: Team - Men 2010</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2010 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713801748/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Durant%20918547/Durant_k_bio_918547.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713801358/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Durant%20918547/Durant_k_hero_918547.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713801358/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Durant%20918547/Durant_k_hero_918547.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012775/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Durant%20918547/Durant_Kevin.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kevin Durant 918547"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Durutalo",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1987-10-25T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Suva Grammar Secondary School (Suva, Fiji) ‘07 Binghamton University '11, Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Simione and Alumita Durutalo</li><li>Has three sisters, Seni, Merewai and Vika.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 9th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2013 – 13th (Team - Men)</li><li>Years of participation: Team - Men 2013</li><li>Top finish: 13th – 2013 (Team - Men)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695516/TeamUSA%20Assets/Migration/Athlete%20Profiles/Andrew%20Durutalo%20807446/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695518/TeamUSA%20Assets/Migration/Athlete%20Profiles/Andrew%20Durutalo%20807446/Durutalo_Andrew_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Andrew Durutalo 807446"
+        }
+      ]
+    },
+    {
+      "first_name": "Tye",
+      "last_name": "Dutcher",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-10-15T00:00:00",
+        "hometown": {
+          "city": "Merced",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3021,
+          "longitude": -120.4824
+        },
+        "education": "Auburn Riverside High School (Auburn, Wash.) ‘15 DeVry University ’19, Business Management and Entrepreneurship ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Dutcher has jettisoned himself onto the 2016 U.S. Paralympic Team after phenomenal performance at the 2016 U.S. Paralympic Team Trials, having entered the meet as a member of the U.S. Paralympic Emerging Team</li><li>Son of David and Kimberly Dutcher</li><li>Has four siblings, Kyle, Chad, Trey and Brooke</li><li>Interests include public speaking, hanging out with friends, hiking, gaming and serving in the community</li><li>Keeps his mood light by playing pranks on people with his prosthetic.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 6th (4 x 100m Freestyle Relay 34 Points - Men, 4 x 100m Medley Relay 34 Points - Men), 10th (100m Backstroke S10 - Men), 16th (100m Freestyle S10 - Men), 17th (50m Freestyle S10 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (100m Backstroke S10 - Men, 4 x 100m Medley Relay 34 Points - Men), 4th (4 x 100m Freestyle Relay 34 Points - Men), 5th (50m Freestyle S10 - Men), 6th (100m Butterfly S10 - Men, 100m Freestyle S10 - Men)</li><li>Years of participation: 100m Backstroke S10 - Men 2017; 100m Butterfly S10 - Men 2017; 100m Freestyle S10 - Men 2017; 4 x 100m Freestyle Relay 34 Points - Men 2017; 4 x 100m Medley Relay 34 Points - Men 2017; 50m Freestyle S10 - Men 2017</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2017 (100m Backstroke S10 - Men, 4 x 100m Medley Relay 34 Points - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695475/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tye%20Dutcher%201006280/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S10, SB9, SM10",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695478/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tye%20Dutcher%201006280/Dutcher_Tye_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tye Dutcher 1006280"
+        }
+      ]
+    },
+    {
+      "first_name": "Phillip",
+      "last_name": "Dutton",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1963-09-13T00:00:00",
+        "hometown": {
+          "city": "West Grove",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.82,
+          "longitude": -75.8
+        },
+        "education": "Newington College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Peter and Mary Dutton</li><li>Has two brothers, Mark and Danny, and one sister, Lisa</li><li>Married Evie Dutton on Feb. 1, 1998</li><li>Has twin daughters, Mary and Olivia, and a stepdaughter, Lee Lee</li><li>Moved from Australia in 1991 and became a U.S. citizen in 2006</li><li>Interests include reading, staying current on world affairs, and playing golf and tennis.</li></ul><h5>Career Highlights</h5><ul><li>2015 Pan American Games, gold (team); 10th (individual) – with Fernhill Fugitive</li><li>2007 Pan American Games, gold (team); silver (individual) – with Truluck</li></ul><h5>World Championships Experience</h5><p>Most recent: 2014 – 11th (team)</p><p>Years of Participation: Australia – 1994 (True Blue Girdwood), 1998 (True Blue Girdwood), 2002 (House Doctor), 2006 (Connaught);</p><p>United States – 2010 (Woodburn), 2014 (Trading Aces)</p><p>Top finish: 4th (team) – 1994, 2010</p><p></p><h5>More</h5><p>Personal Website</p><p>U.S. Equestrian Federatio</p><p></p><h5>Olympic Experience</h5><ul><li>7-time Olympian; 3-time Olympic medalist (2 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Open), 21th (Individual - Open)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Individual - Open), 12th (Team - Open)</li><li>Olympic Games London 2012, 7th (Team - Open), 23th (Individual - Open)</li><li>Olympic Games Beijing 2008,  (Individual - Open), 7th (Team - Open)</li><li>Olympic Games Athens 2004, 6th (Team - Open), 13th (Individual - Open)</li><li>Olympic Games Sydney 2000, gold (Team - Open)</li><li>Olympic Games Atlanta 1996, gold (Team - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661975/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Dutton_P_bio_843446.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000, 2004, 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662309/TeamUSA%20Assets/Athlete%20Profiles/Phillip%20Dutton%20843446/Dutton_P_hero_843446.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012619/TeamUSA%20Assets/Athlete%20Profiles/Phillip%20Dutton%20843446/Equestrian_Eventing_Dutton_Phillip.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Phillip Dutton 843446"
+        }
+      ]
+    },
+    {
+      "first_name": "Conor",
+      "last_name": "Dwyer",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1989-01-10T00:00:00",
+        "hometown": {
+          "city": "Winnetka",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.1039,
+          "longitude": -87.7356
+        },
+        "education": "Loyola Academy (Wilmette, Ill.) ‘06 University of Florida ‘12, Sports Management ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Patrick and Jeanne</li><li>Has an older twin brother, Spencer, two younger brothers, PJ and Brenden, and one younger sister, Pati</li><li>Enjoys playing sports, going to the beach and watching the Chicago Cubs (MLB).</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 Pan American Games, gold (4x200m free), silver (200m medley, 400m medley, 4x100m free)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 3-time Olympic medalist (2 gold, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 200m Freestyle Relay - Men), bronze (200m Freestyle - Men), 4th (400m Freestyle - Men)</li><li>Olympic Games London 2012, gold (4 x 200m Freestyle Relay - Men), 5th (400m Freestyle - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (4 x 200m Freestyle Relay - Men)</li><li>Years of participation: 4 x 200m Freestyle Relay - Men 2011, 2013, 2015, 2017; 200m Freestyle - Men 2013, 2015; 200m Individual Medley - Men 2013, 2015; 4 x 100m Freestyle Relay - Men 2013, 2015; 4 x 100m Freestyle Relay - Mixed 2015; 100m Freestyle (SC) - Men 2014; 200m Freestyle (SC) - Men 2012, 2014; 4 x 200m Freestyle Relay (SC) - Men 2012, 2014; 100m Individual Medley (SC) - Men 2012; 200m Individual Medley (SC) - Men 2012</li><li>Medals: 10 (5 gold, 3 silver, 2 bronze)</li><ul><li>Gold – 2015 (4 x 100m Freestyle Relay - Mixed);  2014 (4 x 200m Freestyle Relay (SC) - Men);  2013 (4 x 200m Freestyle Relay - Men);  2012 (4 x 200m Freestyle Relay (SC) - Men);  2011 (4 x 200m Freestyle Relay - Men)</li><li>Silver – 2015 (4 x 200m Freestyle Relay - Men);  2013 (200m Freestyle - Men, 4 x 100m Freestyle Relay - Men)</li><li>Bronze – 2017 (4 x 200m Freestyle Relay - Men);  2012 (200m Freestyle (SC) - Men)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004250/TeamUSA%20Assets/Athlete%20Profiles/Conor%20Dwyer%20801733/dwyer_conor_041416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004251/TeamUSA%20Assets/Athlete%20Profiles/Conor%20Dwyer%20801733/Dwyer_Conor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Conor Dwyer 801733"
+        }
+      ]
+    }
+  ]
+}

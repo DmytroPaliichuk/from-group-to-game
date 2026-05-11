@@ -107,6 +107,7 @@ export default function MapWithFilter({
   onCityRemove,
   onClearAllFilters,
   searchClearSignal,
+  onCityDotClick,
 }: {
   cities: City[]
   onContentPage?: () => void
@@ -130,11 +131,14 @@ export default function MapWithFilter({
   onCityRemove: (key: string) => void
   onClearAllFilters: () => void
   searchClearSignal: number
+  onCityDotClick?: (city: string, state: string) => void
 }) {
   // Sport panel UI state stays local — only the committed sportFilter is lifted
   const [pendingSports, setPendingSports] = useState(new Set<string>())
   const [sportOpen, setSportOpen] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)
+  const [notification, setNotification] = useState<string | null>(null)
+  const notifTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   const allAthletes = useMemo<AthleteEntry[]>(() => {
     const entries: AthleteEntry[] = []
@@ -229,6 +233,17 @@ export default function MapWithFilter({
     setPendingSports(new Set())
     setSportOpen(false)
     onClearAllFilters()
+  }
+
+  function handleCityDotClick(city: { city: string; state: string }) {
+    const match = filtered.find(c => c.city === city.city && c.state === city.state)
+    if (!match || match.athletes.length === 0) {
+      if (notifTimerRef.current) clearTimeout(notifTimerRef.current)
+      setNotification(`No athletes from ${city.city} match the current filters.`)
+      notifTimerRef.current = setTimeout(() => setNotification(null), 2500)
+      return
+    }
+    onCityDotClick?.(city.city, city.state)
   }
 
   function togglePending(sport: string) {
@@ -520,7 +535,12 @@ export default function MapWithFilter({
         />
       </div>
 
-      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={onStateSelect} />
+      {notification && (
+        <div className="absolute top-[96px] left-1/2 -translate-x-1/2 z-50 bg-[#1e293b] border border-[#334155] text-[#e2e8f0] text-sm px-4 py-2 rounded-full shadow-lg pointer-events-none whitespace-nowrap">
+          {notification}
+        </div>
+      )}
+      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={onStateSelect} onCityDotClick={handleCityDotClick} />
     </div>
   )
 }
