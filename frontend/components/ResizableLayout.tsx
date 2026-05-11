@@ -202,7 +202,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
       </div>
 
       <div style={{ width: chatWidth }} className="flex-shrink-0 h-full">
-        <Chat onApplyPreset={applyPreset} onApplyFilters={applyAgentFilters} />
+        <Chat onApplyFilters={applyAgentFilters} />
       </div>
     </main>
   )

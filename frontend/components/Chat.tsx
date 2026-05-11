@@ -34,10 +34,8 @@ async function callCreateSession(uid: string): Promise<string | null> {
 }
 
 export default function Chat({
-  onApplyPreset,
   onApplyFilters,
 }: {
-  onApplyPreset?: () => void
   onApplyFilters?: (filters: Record<string, string[]>) => void
 }) {
   const userId        = useRef<string>('')
@@ -258,16 +256,8 @@ export default function Chat({
                 )}
               </div>
 
-              {!msg.typing && (onApplyPreset || (msg.followups && msg.followups.length > 0)) && (
+              {!msg.typing && (msg.followups && msg.followups.length > 0) && (
                 <div className="flex flex-col gap-2 w-full max-w-[75%]">
-                  {onApplyPreset && (
-                    <button
-                      onClick={onApplyPreset}
-                      className="flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium transition-colors w-fit"
-                    >
-                      ▶ Press to play
-                    </button>
-                  )}
                   {msg.followups?.map(q => (
                     <button
                       key={q}
