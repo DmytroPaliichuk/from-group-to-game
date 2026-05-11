@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react'
 import ReactMarkdown from 'react-markdown'
+import { Sparkles, Mic, ArrowRight } from 'lucide-react'
 
 interface Message {
   role: 'user' | 'assistant' | 'system'
@@ -10,12 +11,17 @@ interface Message {
   followups?: string[]
 }
 
+const SUGGESTED_MESSAGES = [
+  'Do we have any athletes from Los Angeles?',
+  'Show me athletes from California',
+  'Which athlete has secured a greater number of gold medals?',
+] as const
+
 const LS_USER_ID    = 'fg2g_user_id'
 const LS_SESSION_ID = 'fg2g_session_id'
 const LS_MESSAGES   = 'fg2g_chat_messages'
 const API_BASE      = process.env.NEXT_PUBLIC_API_URL ?? ''
 
-// Module-level so the init useEffect has no stale-closure dependency on it.
 async function callCreateSession(uid: string): Promise<string | null> {
   try {
     const res = await fetch(`${API_BASE}/agent/sessions`, {
@@ -39,8 +45,6 @@ export default function Chat({
   onApplyFilters?: (filters: Record<string, string[]>) => void
 }) {
   const userId        = useRef<string>('')
-  // Skip the first persistence run so init's setMessages(restored) doesn't
-  // race with the effect and briefly overwrite localStorage with [].
   const isFirstRender = useRef(true)
 
   const [sessionId,       setSessionId]       = useState<string | null>(null)
@@ -54,7 +58,6 @@ export default function Chat({
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [messages])
 
-  // Persist messages after every change; typing bubbles are never saved.
   useEffect(() => {
     if (isFirstRender.current) {
       isFirstRender.current = false
@@ -71,7 +74,6 @@ export default function Chat({
     )
   }, [messages])
 
-  // On mount: resolve user_id, restore messages, resolve or create session_id.
   useEffect(() => {
     let cancelled = false
 
@@ -95,7 +97,6 @@ export default function Chat({
       return
     }
 
-    // No stored session — create one now.
     setIsLoading(true)
     setMessages(prev => [...prev, { role: 'assistant', text: '...', typing: true }])
 
@@ -148,7 +149,6 @@ export default function Chat({
           { role: 'assistant', text: data.reply, followups: data.followups ?? [] },
         ])
       } else if (res.status >= 400 && res.status < 500) {
-        // 4xx → stale session; silently recover with a new one.
         const newSid = await callCreateSession(userId.current)
         localStorage.removeItem(LS_MESSAGES)
         if (newSid) {
@@ -207,28 +207,98 @@ export default function Chat({
   )
 
   return (
-    <aside className="flex flex-col w-full h-full rounded-lg overflow-hidden bg-[#0f172a]">
-      <div className="px-4 flex items-center justify-between h-[52px] border-b border-[#1A1A1A] flex-shrink-0">
-        <h2 className="text-[#f1f5f9] font-semibold text-sm tracking-[0.5px]" style={{ fontFamily: "'Funnel Sans', sans-serif" }}>AI Chat</h2>
+    <aside style={{
+      display: 'flex',
+      flexDirection: 'column',
+      width: '100%',
+      height: '100%',
+      background: '#ffffff',
+      borderRadius: 30,
+      border: '1px solid rgba(14,15,12,0.10)',
+      overflow: 'hidden',
+    }}>
+      {/* Header */}
+      <div style={{
+        padding: '18px 22px',
+        borderBottom: '1px solid rgba(14,15,12,0.10)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        flexShrink: 0,
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          <div style={{
+            width: 28, height: 28, borderRadius: '50%',
+            background: '#9fe870',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+          }}>
+            <Sparkles size={14} color="#163300" strokeWidth={2.4} />
+          </div>
+          <div>
+            <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 14, color: '#0e0f0c' }}>Ask OlymPick</div>
+            <div style={{ fontFamily: 'Inter', fontSize: 11, color: '#868685', fontWeight: 500 }}>Online</div>
+          </div>
+        </div>
         <button
           onClick={newSession}
           disabled={isLoading || chatUnavailable}
-          className="bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium px-4 py-1.5 rounded-full transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+          style={{
+            background: '#e2f6d5',
+            color: '#163300',
+            border: 'none',
+            borderRadius: 9999,
+            padding: '7px 12px',
+            fontFamily: 'Inter',
+            fontWeight: 700,
+            fontSize: 11,
+            cursor: 'pointer',
+            display: 'flex',
+            alignItems: 'center',
+            gap: 4,
+            opacity: (isLoading || chatUnavailable) ? 0.5 : 1,
+          }}
         >
-          + New Session
+          New Chat
         </button>
       </div>
 
-      <div className="flex-1 overflow-y-auto px-4 py-4 space-y-3">
-        {messages.length === 0 && (
-          <p className="text-[#71717A] text-sm text-center mt-8">
-            {chatUnavailable ? 'Chat is unavailable. Please reload the page.' : 'Send a message to get started.'}
+      {/* Messages */}
+      <div style={{ flex: 1, overflowY: 'auto', padding: '20px 22px', display: 'flex', flexDirection: 'column', gap: 14 }}>
+        {messages.length === 0 && chatUnavailable && (
+          <p style={{ color: '#868685', fontSize: 14, textAlign: 'center', marginTop: 32 }}>
+            Chat is unavailable. Please reload the page.
           </p>
         )}
+
+        {messages.length === 0 && !chatUnavailable && !isLoading && (
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginTop: 32 }}>
+            {SUGGESTED_MESSAGES.map(text => (
+              <button
+                key={text}
+                onClick={() => sendText(text)}
+                style={{
+                  background: '#e2f6d5',
+                  color: '#163300',
+                  border: 'none',
+                  padding: '7px 12px',
+                  borderRadius: 9999,
+                  fontFamily: 'Inter',
+                  fontSize: 12,
+                  fontWeight: 600,
+                  cursor: 'pointer',
+                  textAlign: 'left',
+                }}
+              >
+                {text}
+              </button>
+            ))}
+          </div>
+        )}
+
         {messages.map((msg, i) => {
           if (msg.role === 'system') {
             return (
-              <p key={i} className="text-[#71717A] text-xs italic text-center">
+              <p key={i} style={{ color: '#868685', fontSize: 12, fontStyle: 'italic', textAlign: 'center' }}>
                 {msg.text}
               </p>
             )
@@ -236,8 +306,18 @@ export default function Chat({
 
           if (msg.role === 'user') {
             return (
-              <div key={i} className="flex justify-end">
-                <div className="max-w-[75%] px-3 py-2 rounded-2xl text-sm leading-snug bg-[#2563EB] text-white">
+              <div key={i} style={{ display: 'flex', justifyContent: 'flex-end' }}>
+                <div style={{
+                  maxWidth: '80%',
+                  background: '#0e0f0c',
+                  color: '#fafaf7',
+                  padding: '10px 16px',
+                  borderRadius: '20px 20px 4px 20px',
+                  fontFamily: 'Inter',
+                  fontSize: 14,
+                  fontWeight: 600,
+                  lineHeight: 1.45,
+                }}>
                   {msg.text}
                 </div>
               </div>
@@ -246,31 +326,53 @@ export default function Chat({
 
           // assistant
           return (
-            <div key={i} className="flex flex-col items-start gap-2">
-              <div className="max-w-[75%] px-3 py-2 rounded-2xl text-sm leading-snug bg-[#334155] text-[#E2E8F0]">
+            <div key={i} style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 8 }}>
+              <div style={{
+                maxWidth: '88%',
+                background: '#ffffff',
+                color: '#0e0f0c',
+                padding: '12px 16px',
+                borderRadius: '4px 20px 20px 20px',
+                fontFamily: 'Inter',
+                fontSize: 14,
+                fontWeight: 500,
+                lineHeight: 1.55,
+                boxShadow: 'rgba(14,15,12,0.10) 0 0 0 1px',
+              }}>
                 {msg.typing ? (
-                  <span className="flex gap-1 items-center py-0.5">
-                    <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '0ms' }} />
-                    <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '150ms' }} />
-                    <span className="w-2 h-2 rounded-full bg-[#94A3B8] animate-bounce" style={{ animationDelay: '300ms' }} />
+                  <span style={{ display: 'flex', gap: 4, alignItems: 'center', padding: '2px 0' }}>
+                    {[0, 150, 300].map(delay => (
+                      <span key={delay} style={{ width: 8, height: 8, borderRadius: '50%', background: '#868685', display: 'inline-block', animation: 'bounce 1s infinite', animationDelay: `${delay}ms` }} />
+                    ))}
                   </span>
                 ) : (
-                  <div className="[&_p]:mb-1 [&_p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-4 [&_ol]:list-decimal [&_ol]:pl-4 [&_li]:mb-0.5 [&_strong]:font-semibold [&_em]:italic [&_code]:bg-[#1e293b] [&_code]:px-1 [&_code]:rounded [&_code]:text-xs [&_pre]:bg-[#1e293b] [&_pre]:p-2 [&_pre]:rounded [&_pre]:overflow-x-auto [&_pre]:text-xs [&_h1]:font-bold [&_h1]:text-base [&_h2]:font-semibold [&_h3]:font-semibold">
+                  <div className="[&_p]:mb-1 [&_p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-4 [&_ol]:list-decimal [&_ol]:pl-4 [&_li]:mb-0.5 [&_strong]:font-semibold [&_em]:italic [&_code]:bg-[#f0f0ee] [&_code]:px-1 [&_code]:rounded [&_code]:text-xs [&_pre]:bg-[#f0f0ee] [&_pre]:p-2 [&_pre]:rounded [&_pre]:overflow-x-auto [&_pre]:text-xs [&_h1]:font-bold [&_h1]:text-base [&_h2]:font-semibold [&_h3]:font-semibold">
                     <ReactMarkdown>{msg.text}</ReactMarkdown>
                   </div>
                 )}
               </div>
 
               {!msg.typing && i === lastAssistantIdx && (msg.followups && msg.followups.length > 0) && (
-                <div className="flex flex-col gap-2 w-full max-w-[75%]">
-                  {msg.followups?.map(q => (
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6, paddingLeft: 2 }}>
+                  {msg.followups.map(q => (
                     <button
                       key={q}
                       onClick={() => !isLoading && sendText(q)}
                       disabled={isLoading}
-                      className="text-left text-sm text-[#94A3B8] px-3 py-1.5 rounded-lg bg-[#1e293b] border-l-2 border-[#0B9FEA] hover:text-[#e2e8f0] hover:bg-[#253347] transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                      style={{
+                        background: '#e2f6d5',
+                        color: '#163300',
+                        border: 'none',
+                        padding: '7px 12px',
+                        borderRadius: 9999,
+                        fontFamily: 'Inter',
+                        fontSize: 12,
+                        fontWeight: 600,
+                        cursor: 'pointer',
+                        opacity: isLoading ? 0.5 : 1,
+                      }}
                     >
-                      {q}
+                      {q} →
                     </button>
                   ))}
                 </div>
@@ -281,23 +383,65 @@ export default function Chat({
         <div ref={bottomRef} />
       </div>
 
-      <div className="px-4 py-3 border-t border-[#334155] flex gap-3 items-center flex-shrink-0">
-        <input
-          type="text"
-          value={input}
-          onChange={e => setInput(e.target.value)}
-          onKeyDown={handleKeyDown}
-          placeholder="Type a message..."
-          disabled={isLoading || chatUnavailable}
-          className="flex-1 h-12 bg-[#1E324D] text-[#f1f5f9] placeholder-[#6F86A5] text-sm px-6 rounded-full border-2 border-[#10B4F5] outline-none disabled:opacity-50 disabled:cursor-not-allowed"
-        />
-        <button
-          onClick={send}
-          disabled={isLoading || chatUnavailable}
-          className="h-12 bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium px-6 rounded-full transition-colors flex-shrink-0 disabled:opacity-50 disabled:cursor-not-allowed"
+      {/* Composer */}
+      <div style={{ padding: '14px 22px 20px', borderTop: '1px solid rgba(14,15,12,0.10)', flexShrink: 0 }}>
+        <form
+          onSubmit={e => { e.preventDefault(); send() }}
+          style={{
+            display: 'flex',
+            gap: 8,
+            alignItems: 'center',
+            background: '#ffffff',
+            borderRadius: 9999,
+            padding: '6px 6px 6px 18px',
+            boxShadow: 'rgba(14,15,12,0.12) 0 0 0 1px',
+          }}
         >
-          Send
-        </button>
+          <input
+            type="text"
+            value={input}
+            onChange={e => setInput(e.target.value)}
+            onKeyDown={handleKeyDown}
+            placeholder="Ask anything about the Games…"
+            disabled={isLoading || chatUnavailable}
+            style={{
+              flex: 1,
+              border: 'none',
+              outline: 'none',
+              background: 'transparent',
+              fontFamily: 'Inter',
+              fontSize: 14,
+              fontWeight: 500,
+              padding: '8px 4px',
+              color: '#0e0f0c',
+            }}
+          />
+          <button
+            type="button"
+            style={{ width: 34, height: 34, borderRadius: '50%', border: 'none', background: 'transparent', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+          >
+            <Mic size={14} color="#454745" />
+          </button>
+          <button
+            type="submit"
+            disabled={isLoading || chatUnavailable}
+            style={{
+              width: 36,
+              height: 36,
+              borderRadius: '50%',
+              border: 'none',
+              background: '#9fe870',
+              color: '#163300',
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              opacity: (isLoading || chatUnavailable) ? 0.5 : 1,
+            }}
+          >
+            <ArrowRight size={14} strokeWidth={2.4} />
+          </button>
+        </form>
       </div>
     </aside>
   )

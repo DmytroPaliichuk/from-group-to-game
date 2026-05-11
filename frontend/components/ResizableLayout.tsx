@@ -1,8 +1,12 @@
 'use client'
 
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useRef, useState, useMemo } from 'react'
 import Chat from '@/components/Chat'
 import MapContentSlider from '@/components/MapContentSlider'
+import TopBar from '@/components/TopBar'
+import SportModal from '@/components/SportModal'
+import AthleteSearch, { AthleteEntry } from '@/components/AthleteSearch'
+import CitySearch, { CityEntry, STATE_NAMES } from '@/components/CitySearch'
 
 const CHAT_MIN = 200
 const CHAT_MAX = 700
@@ -19,13 +23,11 @@ const LA_PRESET = {
   showContent:        false,
 }
 
-// "Gold" → "gold", "No Medal" → "noMedal" (agent uses Title Case, component uses lowercase)
 function mapMedalValue(v: string): string {
   if (v === 'No Medal') return 'noMedal'
   return v.toLowerCase()
 }
 
-// Resolve agent city names to the "City|STATE" keys used by selectedCityKeys.
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function buildCityKeys(cityNames: string[], cities: any[]): Set<string> {
   const lower = cityNames.map(n => n.toLowerCase())
@@ -45,32 +47,71 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
   const startX = useRef(0)
   const startWidth = useRef(0)
 
-  // Filter state — owned here so both Chat and MapContentSlider can access it
-  const [showContent,        setShowContent]        = useState(false)
-  const [selectedState,      setSelectedState]      = useState('')
-  const [gameFilter,         setGameFilter]         = useState(new Set(['Olympian', 'Paralympian']))
-  const [seasonFilter,       setSeasonFilter]       = useState(new Set(['Summer', 'Winter']))
-  const [medalFilter,        setMedalFilter]        = useState(new Set(['gold', 'silver', 'bronze', 'noMedal']))
-  const [sportFilter,        setSportFilter]        = useState(new Set<string>())
+  // Filter state
+  const [showContent,          setShowContent]          = useState(false)
+  const [selectedState,        setSelectedState]        = useState('')
+  const [gameFilter,           setGameFilter]           = useState(new Set(['Olympian', 'Paralympian']))
+  const [seasonFilter,         setSeasonFilter]         = useState(new Set(['Summer', 'Winter']))
+  const [medalFilter,          setMedalFilter]          = useState(new Set(['gold', 'silver', 'bronze', 'noMedal']))
+  const [sportFilter,          setSportFilter]          = useState(new Set<string>())
   const [selectedAthleteIds,   setSelectedAthleteIds]   = useState(new Set<number>())
   const [selectedAthleteNames, setSelectedAthleteNames] = useState(new Set<string>())
   const [selectedCityKeys,     setSelectedCityKeys]     = useState(new Set<string>())
-  const [searchClearSignal,  setSearchClearSignal]  = useState(0)
+  const [searchClearSignal,    setSearchClearSignal]    = useState(0)
 
+  // Sport modal state
+  const [sportOpen,    setSportOpen]    = useState(false)
+  const [pendingSports, setPendingSports] = useState(new Set<string>())
+
+  // Flat lists for search components (lifted from MapWithFilter)
+  const allAthletes = useMemo<AthleteEntry[]>(() => {
+    const entries: AthleteEntry[] = []
+    let id = 0
+    for (const city of cities) {
+      for (const a of city.athletes) {
+        entries.push({
+          id: id++,
+          firstName: a.first_name,
+          lastName: a.last_name,
+          fullName: `${a.first_name} ${a.last_name}`,
+          city: city.city,
+          state: city.state,
+        })
+      }
+    }
+    return entries
+  }, [cities])
+
+  const allCities = useMemo<CityEntry[]>(() => {
+    const seen = new Set<string>()
+    const entries: CityEntry[] = []
+    for (const c of cities) {
+      const key = `${c.city}|${c.state}`
+      if (!seen.has(key)) {
+        seen.add(key)
+        entries.push({
+          key,
+          city: c.city,
+          state: c.state,
+          label: `${STATE_NAMES[c.state] ?? c.state} — ${c.city}`,
+        })
+      }
+    }
+    return entries
+  }, [cities])
+
+  // Athlete filter handlers
   function handleAthleteSelect(id: number) {
     setSelectedAthleteIds(prev => new Set([...prev, id]))
   }
-
   function handleAthleteRemove(id: number) {
-    setSelectedAthleteIds(prev => {
-      const next = new Set(prev)
-      next.delete(id)
-      return next
-    })
+    setSelectedAthleteIds(prev => { const n = new Set(prev); n.delete(id); return n })
   }
-
   function handleCitySelect(key: string) {
     setSelectedCityKeys(prev => new Set([...prev, key]))
+  }
+  function handleCityRemove(key: string) {
+    setSelectedCityKeys(prev => { const n = new Set(prev); n.delete(key); return n })
   }
 
   function handleClearAllFilters() {
@@ -81,16 +122,28 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
     setSelectedAthleteIds(new Set<number>())
     setSelectedAthleteNames(new Set<string>())
     setSelectedCityKeys(new Set<string>())
+    setSelectedState('')
     setSearchClearSignal(prev => prev + 1)
   }
 
-  function handleCityRemove(key: string) {
-    setSelectedCityKeys(prev => {
-      const next = new Set(prev)
-      next.delete(key)
-      return next
+  // Sport modal handlers
+  function openSportModal() {
+    setPendingSports(new Set(sportFilter))
+    setSportOpen(true)
+  }
+  function closeSportModal() { setSportOpen(false) }
+  function applyAndClose() {
+    setSportFilter(new Set(pendingSports))
+    setSportOpen(false)
+  }
+  function togglePendingSport(sport: string) {
+    setPendingSports(prev => {
+      const n = new Set(prev)
+      n.has(sport) ? n.delete(sport) : n.add(sport)
+      return n
     })
   }
+  function clearPendingSports() { setPendingSports(new Set()) }
 
   function applyPreset() {
     setSelectedState(LA_PRESET.selectedState)
@@ -102,6 +155,8 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
     setSelectedCityKeys(new Set(LA_PRESET.selectedCityKeys))
     setShowContent(LA_PRESET.showContent)
   }
+
+  void applyPreset // available but not currently triggered from UI
 
   function applyAgentFilters(filters: Record<string, string[]>) {
     if ('game'    in filters) setGameFilter(new Set(filters.game))
@@ -118,6 +173,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
     setSearchClearSignal(prev => prev + 1)
   }
 
+  // Drag-to-resize separator
   const onMouseMove = useCallback((e: MouseEvent) => {
     if (!isDragging.current) return
     const delta = startX.current - e.clientX
@@ -152,23 +208,17 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
   }, [onMouseMove, onMouseUp])
 
   return (
-    <main
-      className="flex flex-row h-screen overflow-hidden p-4"
-      style={{
-        background: `
-          radial-gradient(ellipse 140% 140% at 25% 35%, rgba(168,85,247,0.15) 0%, transparent 100%),
-          radial-gradient(ellipse 120% 120% at 75% 65%, rgba(236,72,153,0.10) 0%, transparent 100%),
-          radial-gradient(ellipse 80% 80% at 55% 15%, rgba(6,182,212,0.08) 0%, transparent 100%),
-          #020617
-        `,
-      }}
-    >
-      <MapContentSlider
-        cities={cities}
+    <main style={{
+      display: 'flex',
+      flexDirection: 'column',
+      height: '100vh',
+      overflow: 'hidden',
+      background: '#fafaf7',
+    }}>
+      {/* Top bar — spans full width */}
+      <TopBar
         showContent={showContent}
-        onShowContent={setShowContent}
-        selectedState={selectedState}
-        onStateSelect={setSelectedState}
+        onToggleContent={() => setShowContent(v => !v)}
         gameFilter={gameFilter}
         onGameFilter={setGameFilter}
         seasonFilter={seasonFilter}
@@ -176,34 +226,107 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
         medalFilter={medalFilter}
         onMedalFilter={setMedalFilter}
         sportFilter={sportFilter}
-        onSportFilter={setSportFilter}
-        selectedAthleteIds={selectedAthleteIds}
-        onAthleteSelect={handleAthleteSelect}
-        onAthleteRemove={handleAthleteRemove}
-        selectedAthleteNames={selectedAthleteNames}
-        selectedCityKeys={selectedCityKeys}
-        onCitySelect={handleCitySelect}
-        onCityRemove={handleCityRemove}
-        onClearAllFilters={handleClearAllFilters}
-        searchClearSignal={searchClearSignal}
+        onOpenSportModal={openSportModal}
+        onClearAll={handleClearAllFilters}
       />
 
-      <div
-        onMouseDown={onSeparatorMouseDown}
-        className="relative flex-shrink-0 flex items-center justify-center w-3 cursor-col-resize group"
-        aria-hidden="true"
-      >
-        <div className="w-0.5 h-full rounded-full bg-[#334155] group-hover:bg-slate-500 transition-colors" />
-        <div className="absolute flex flex-col gap-1">
-          {[0, 1, 2].map(i => (
-            <div key={i} className="w-1 h-1 rounded-full bg-[#475569] group-hover:bg-slate-400 transition-colors" />
-          ))}
+      {/* Search row — spans full width */}
+      <div style={{
+        background: '#ffffff',
+        borderBottom: '1px solid rgba(14,15,12,0.10)',
+        padding: '14px 32px',
+        display: 'flex',
+        gap: 16,
+        flexShrink: 0,
+      }}>
+        <AthleteSearch
+          className="flex-1 min-w-0"
+          athletes={allAthletes}
+          selectedIds={selectedAthleteIds}
+          onSelect={handleAthleteSelect}
+          onRemove={handleAthleteRemove}
+          clearSignal={searchClearSignal}
+        />
+        <CitySearch
+          className="flex-1 min-w-0"
+          cities={allCities}
+          selectedKeys={selectedCityKeys}
+          onSelect={handleCitySelect}
+          onRemove={handleCityRemove}
+          clearSignal={searchClearSignal}
+        />
+      </div>
+
+      {/* Map + Chat row */}
+      <div style={{
+        flex: 1,
+        display: 'flex',
+        flexDirection: 'row',
+        overflow: 'hidden',
+        padding: '24px 0 24px 32px',
+        minHeight: 0,
+      }}>
+        <MapContentSlider
+          cities={cities}
+          showContent={showContent}
+          onShowContent={setShowContent}
+          selectedState={selectedState}
+          onStateSelect={setSelectedState}
+          gameFilter={gameFilter}
+          onGameFilter={setGameFilter}
+          seasonFilter={seasonFilter}
+          onSeasonFilter={setSeasonFilter}
+          medalFilter={medalFilter}
+          onMedalFilter={setMedalFilter}
+          sportFilter={sportFilter}
+          onSportFilter={setSportFilter}
+          selectedAthleteIds={selectedAthleteIds}
+          onAthleteSelect={handleAthleteSelect}
+          onAthleteRemove={handleAthleteRemove}
+          selectedAthleteNames={selectedAthleteNames}
+          selectedCityKeys={selectedCityKeys}
+          onCitySelect={handleCitySelect}
+          onCityRemove={handleCityRemove}
+          searchClearSignal={searchClearSignal}
+        />
+
+        {/* Drag separator */}
+        <div
+          onMouseDown={onSeparatorMouseDown}
+          style={{
+            position: 'relative',
+            flexShrink: 0,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            width: 14,
+            cursor: 'col-resize',
+          }}
+          aria-hidden="true"
+        >
+          <div style={{ width: 4, height: '100%', borderRadius: 2, background: 'rgba(14,15,12,0.10)' }} />
+          <div style={{ position: 'absolute', display: 'flex', flexDirection: 'column', gap: 4 }}>
+            {[0, 1, 2].map(i => (
+              <div key={i} style={{ width: 4, height: 4, borderRadius: '50%', background: 'rgba(14,15,12,0.20)' }} />
+            ))}
+          </div>
+        </div>
+
+        {/* Chat panel */}
+        <div style={{ width: chatWidth, flexShrink: 0, height: '100%', paddingRight: 32 }}>
+          <Chat onApplyFilters={applyAgentFilters} />
         </div>
       </div>
 
-      <div style={{ width: chatWidth }} className="flex-shrink-0 h-full">
-        <Chat onApplyFilters={applyAgentFilters} />
-      </div>
+      {/* Sport modal — full-screen overlay */}
+      <SportModal
+        open={sportOpen}
+        pendingSports={pendingSports}
+        onToggle={togglePendingSport}
+        onApply={applyAndClose}
+        onCancel={closeSportModal}
+        onClearAll={clearPendingSports}
+      />
     </main>
   )
 }

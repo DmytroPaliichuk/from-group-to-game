@@ -94,7 +94,7 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           .attr('d', path as any)
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          .style('stroke', (d: any) => FIPS_TO_STATE[Number(d.id)] === selectedState ? '#60a5fa' : null)
+          .style('stroke', (d: any) => FIPS_TO_STATE[Number(d.id)] === selectedState ? '#163300' : null)
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
           .style('stroke-width', (d: any) => FIPS_TO_STATE[Number(d.id)] === selectedState ? '2px' : null)
           .style('cursor', 'pointer')
@@ -102,7 +102,7 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
           .on('mouseenter', (event: MouseEvent, d: any) => {
             const abbr = FIPS_TO_STATE[Number(d.id)]
             if (abbr !== selectedState) {
-              d3.select(event.currentTarget as SVGPathElement).style('stroke', '#facc15').style('stroke-width', '2px')
+              d3.select(event.currentTarget as SVGPathElement).style('stroke', '#9fe870').style('stroke-width', '2px')
             }
           })
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -129,8 +129,8 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
           .attr('cx', d => projection([d.lng, d.lat])![0])
           .attr('cy', d => projection([d.lng, d.lat])![1])
           .attr('r', d => (activeCity === d.city ? 8 : 5))
-          .attr('fill', d => (activeCity === d.city ? '#f472b6' : '#38bdf8'))
-          .attr('stroke', '#0f172a')
+          .attr('fill', d => (activeCity === d.city ? '#9fe870' : '#2a6fdb'))
+          .attr('stroke', 'rgba(14,15,12,0.20)')
           .attr('stroke-width', 1)
           .style('cursor', 'pointer')
           .on('mouseenter', (_event: MouseEvent, d: City) => {
@@ -143,7 +143,7 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
                 // eslint-disable-next-line @typescript-eslint/no-explicit-any
                 .each(function(pd: any) {
                   if (FIPS_TO_STATE[Number(pd.id)] !== selectedState) {
-                    d3.select(this).style('stroke', '#facc15').style('stroke-width', '2px')
+                    d3.select(this).style('stroke', '#9fe870').style('stroke-width', '2px')
                   }
                 })
             }
@@ -184,7 +184,7 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
             .attr('cy', d => projection([d.lng, d.lat])![1])
             .attr('r', 7)
             .attr('fill', 'transparent')
-            .attr('stroke', '#ef4444')
+            .attr('stroke', 'red')
             .attr('stroke-width', 2)
             .style('pointer-events', 'none')
 
@@ -194,7 +194,7 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
             .attr('x', d => projection([d.lng, d.lat])![0])
             .attr('y', d => projection([d.lng, d.lat])![1] + 18)
             .attr('text-anchor', 'middle')
-            .attr('fill', '#f1f5f9')
+            .attr('fill', 'red')
             .attr('font-size', '12')
             .attr('font-weight', '600')
             .text(d => d.city)
@@ -205,12 +205,12 @@ export default function UsMap({ cities, selectedState, stateCities, onStateSelec
 
   return (
     <div className="relative w-full">
-      <div className="w-full bg-slate-800 rounded-xl overflow-hidden shadow-[0_4px_24px_rgba(0,0,0,0.4)]">
+      <div className="w-full overflow-hidden">
         <svg ref={svgRef} viewBox="0 0 1200 750" className="block w-full h-auto" />
       </div>
 
       {tooltip && (
-        <CityTooltip x={tooltip.x} y={tooltip.y} city={tooltip.city} athletes={tooltip.athletes} />
+        <CityTooltip x={tooltip.x} y={tooltip.y} city={tooltip.city} state={tooltip.state} athletes={tooltip.athletes} />
       )}
 
     </div>

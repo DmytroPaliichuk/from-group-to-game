@@ -1,101 +1,168 @@
 'use client'
 
 import { useState } from 'react'
-import Image from 'next/image'
 import DOMPurify from 'dompurify'
 import type { FlatAthlete } from './MapWithFilter'
 
-const MEDAL_DEFS = [
-  { key: 'gold',   icon: '🥇', count: (m: FlatAthlete['medals']) => m.gold },
-  { key: 'silver', icon: '🥈', count: (m: FlatAthlete['medals']) => m.silver },
-  { key: 'bronze', icon: '🥉', count: (m: FlatAthlete['medals']) => m.bronze },
-] as const
+const MEDAL_CHIPS: Record<string, { bg: string; text: string }> = {
+  gold:   { bg: '#FFD166', text: '#3d2a00' },
+  silver: { bg: '#D9DFE4', text: '#1a2330' },
+  bronze: { bg: '#D78F5E', text: '#2a1400' },
+}
 
-function formatBirthday(iso: string): string {
-  return new Date(iso).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+function MedalChip({ kind, count }: { kind: 'gold' | 'silver' | 'bronze'; count: number }) {
+  if (count === 0) return null
+  const c = MEDAL_CHIPS[kind]
+  return (
+    <span style={{
+      display: 'inline-flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      background: c.bg,
+      color: c.text,
+      padding: '2px 7px',
+      borderRadius: 9999,
+      fontSize: 11,
+      fontWeight: 700,
+      minWidth: 24,
+    }}>
+      {count}
+    </span>
+  )
+}
+
+function AvatarImg({ athlete }: { athlete: FlatAthlete }) {
+  const [imgError, setImgError] = useState(false)
+  const showImage = athlete.thumbnail && !imgError
+  const hue = ((athlete.first_name.charCodeAt(0) * 31) + (athlete.last_name.charCodeAt(0) * 7)) % 360
+  const initials = `${athlete.first_name[0] ?? ''}${athlete.last_name[0] ?? ''}`.toUpperCase()
+
+  if (showImage) {
+    return (
+      // eslint-disable-next-line @next/next/no-img-element
+      <img
+        src={athlete.thumbnail}
+        alt={`${athlete.first_name} ${athlete.last_name}`}
+        style={{ width: 120, height: 120, objectFit: 'cover', borderRadius: 16, flexShrink: 0 }}
+        onError={() => setImgError(true)}
+      />
+    )
+  }
+
+  return (
+    <div style={{
+      width: 120,
+      height: 120,
+      borderRadius: 16,
+      background: `linear-gradient(135deg, hsl(${hue} 50% 70%), hsl(${(hue + 40) % 360} 55% 55%))`,
+      color: '#fff',
+      fontFamily: 'Inter',
+      fontWeight: 800,
+      fontSize: 43,
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      flexShrink: 0,
+    }}>
+      {initials}
+    </div>
+  )
 }
 
 export default function AthleteCard({ athlete }: { athlete: FlatAthlete }) {
-  const [imgError, setImgError] = useState(false)
   const [bioExpanded, setBioExpanded] = useState(false)
 
-  const showImage = athlete.thumbnail && !imgError
-  const initials =
-    (athlete.first_name[0] ?? '').toUpperCase() +
-    (athlete.last_name[0] ?? '').toUpperCase()
-
-  const medals = MEDAL_DEFS
-    .map(d => ({ key: d.key, icon: d.icon, count: d.count(athlete.medals) }))
-    .filter(m => m.count > 0)
-
+  const totalMedals = athlete.medals.gold + athlete.medals.silver + athlete.medals.bronze
+  const birthYear = athlete.birthday ? new Date(athlete.birthday).getFullYear() : null
   const cleanBio = athlete.biography ? DOMPurify.sanitize(athlete.biography) : null
 
   return (
-    <div className="bg-[#1e293b] border border-[#334155] rounded-xl p-4 flex flex-col gap-3">
+    <div style={{
+      background: '#ffffff',
+      borderRadius: 20,
+      padding: 22,
+      boxShadow: 'rgba(14,15,12,0.10) 0 0 0 1px',
+      display: 'flex',
+      flexDirection: 'column',
+      gap: 12,
+    }}>
+      {/* Top: avatar + identity + medals */}
+      <div style={{ display: 'flex', gap: 18, alignItems: 'flex-start' }}>
+        <AvatarImg athlete={athlete} />
 
-      {/* Top section: photo + identity */}
-      <div className="flex gap-3">
-
-        {/* Photo or initials placeholder */}
-        <div className="w-24 h-24 flex-shrink-0 rounded-lg overflow-hidden bg-[#0f172a] flex items-center justify-center">
-          {showImage ? (
-            <Image
-              src={athlete.thumbnail}
-              alt={`${athlete.first_name} ${athlete.last_name}`}
-              width={96}
-              height={96}
-              className="w-full h-full object-cover"
-              onError={() => setImgError(true)}
-            />
-          ) : (
-            <span className="text-xl font-semibold text-slate-400">{initials}</span>
-          )}
-        </div>
-
-        {/* Identity fields */}
-        <div className="flex flex-col gap-0.5 min-w-0">
-          <p className="text-slate-100 font-semibold text-sm leading-tight">
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div style={{ fontFamily: 'Inter', fontWeight: 800, fontSize: 19, color: '#0e0f0c' }}>
             {athlete.first_name} {athlete.last_name}
-          </p>
-          <p className="text-slate-300 text-sm">{athlete.city}, {athlete.state}</p>
-          {athlete.birthday && (
-            <p className="text-slate-400 text-xs">{formatBirthday(athlete.birthday)}</p>
-          )}
-          {athlete.education && (
-            <p className="text-slate-400 text-xs">{athlete.education}</p>
-          )}
-          {athlete.sports.length > 0 && (
-            <p className="text-slate-400 text-xs">{athlete.sports.join(', ')}</p>
-          )}
+          </div>
+          <div style={{ fontFamily: 'Inter', fontSize: 13, fontWeight: 600, color: '#454745', marginTop: 3 }}>
+            {athlete.city}, {athlete.state}
+          </div>
+
+          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginTop: 8, flexWrap: 'wrap' }}>
+            {athlete.sports[0] && (
+              <span style={{
+                background: '#e2f6d5',
+                color: '#163300',
+                padding: '3px 9px',
+                borderRadius: 9999,
+                fontFamily: 'Inter',
+                fontSize: 10,
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: 0.5,
+              }}>
+                {athlete.sports[0]}
+              </span>
+            )}
+            {birthYear && (
+              <span style={{ fontFamily: 'Inter', fontSize: 11, color: '#868685', fontWeight: 600 }}>
+                Born {birthYear}
+              </span>
+            )}
+          </div>
         </div>
+
+        {/* Medal chips top-right */}
+        {totalMedals > 0 && (
+          <div style={{ display: 'flex', gap: 3, flexShrink: 0 }}>
+            <MedalChip kind="gold"   count={athlete.medals.gold} />
+            <MedalChip kind="silver" count={athlete.medals.silver} />
+            <MedalChip kind="bronze" count={athlete.medals.bronze} />
+          </div>
+        )}
       </div>
 
-      {/* Medals — only rendered when at least one non-zero */}
-      {medals.length > 0 && (
-        <div className="flex items-center gap-2 flex-wrap">
-          {medals.map(m => (
-            <span key={m.key} className="text-xs text-slate-100">
-              {m.icon} {m.count}
-            </span>
-          ))}
-        </div>
-      )}
-
-      {/* Fun fact — only rendered when present */}
+      {/* Fun fact */}
       {athlete.fun_fact && (
-        <p className="text-slate-300 text-sm italic">{athlete.fun_fact}</p>
+        <p style={{ fontFamily: 'Inter', fontSize: 13, color: '#454745', fontStyle: 'italic', margin: 0 }}>
+          {athlete.fun_fact}
+        </p>
       )}
 
-      {/* Biography — sanitized HTML, collapsed by default */}
+      {/* Biography with expand/collapse */}
       {cleanBio && (
         <div>
           <div
-            className={`text-slate-300 text-xs [&_h5]:font-semibold [&_h5]:text-slate-200 [&_h5]:mt-2 [&_ul]:list-disc [&_ul]:pl-4 [&_li]:mt-0.5 ${bioExpanded ? '' : 'max-h-[4.5rem] overflow-hidden'}`}
+            className={`[&_h5]:font-semibold [&_h5]:text-[#0e0f0c] [&_h5]:mt-2 [&_ul]:list-disc [&_ul]:pl-4 [&_li]:mt-0.5 ${bioExpanded ? '' : 'max-h-[4.5rem] overflow-hidden'}`}
+            style={{ fontFamily: 'Inter', fontSize: 12, color: '#454745' }}
             dangerouslySetInnerHTML={{ __html: cleanBio }}
           />
           <button
             onClick={() => setBioExpanded(prev => !prev)}
-            className="text-sky-400 text-xs mt-1 hover:text-sky-300 transition-colors"
+            style={{
+              background: 'transparent',
+              border: 'none',
+              cursor: 'pointer',
+              color: '#163300',
+              fontFamily: 'Inter',
+              fontWeight: 700,
+              fontSize: 12,
+              padding: 0,
+              marginTop: 4,
+              display: 'flex',
+              alignItems: 'center',
+              gap: 4,
+            }}
           >
             {bioExpanded ? 'Show less ▲' : 'Read more ▼'}
           </button>
