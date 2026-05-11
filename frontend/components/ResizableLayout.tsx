@@ -122,6 +122,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
     setSelectedAthleteIds(new Set<number>())
     setSelectedAthleteNames(new Set<string>())
     setSelectedCityKeys(new Set<string>())
+    setSelectedState('')
     setSearchClearSignal(prev => prev + 1)
   }
 

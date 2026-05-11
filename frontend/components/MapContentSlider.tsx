@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import MapWithFilter, { FlatAthlete } from './MapWithFilter'
 import ContentPage from './ContentPage'
 
@@ -73,6 +73,10 @@ export default function MapContentSlider({
 }: MapContentSliderProps) {
   const [filteredAthletes, setFilteredAthletes] = useState<FlatAthlete[]>([])
   const [clickedCity, setClickedCity] = useState<{ city: string; state: string } | null>(null)
+
+  useEffect(() => {
+    if (!showContent) setClickedCity(null)
+  }, [showContent])
 
   function handleCityDotClick(city: string, state: string) {
     setClickedCity({ city, state })

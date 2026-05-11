@@ -11,6 +11,12 @@ interface Message {
   followups?: string[]
 }
 
+const SUGGESTED_MESSAGES = [
+  'Do we have any athletes from Los Angeles?',
+  'Show me athletes from California',
+  'Which athlete has secured a greater number of gold medals?',
+] as const
+
 const LS_USER_ID    = 'fg2g_user_id'
 const LS_SESSION_ID = 'fg2g_session_id'
 const LS_MESSAGES   = 'fg2g_chat_messages'
@@ -230,7 +236,7 @@ export default function Chat({
           </div>
           <div>
             <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 14, color: '#0e0f0c' }}>Ask OlymPick</div>
-            <div style={{ fontFamily: 'Inter', fontSize: 11, color: '#868685', fontWeight: 500 }}>Online · 128 yrs of data</div>
+            <div style={{ fontFamily: 'Inter', fontSize: 11, color: '#868685', fontWeight: 500 }}>Online</div>
           </div>
         </div>
         <button
@@ -252,16 +258,41 @@ export default function Chat({
             opacity: (isLoading || chatUnavailable) ? 0.5 : 1,
           }}
         >
-          + New
+          New Chat
         </button>
       </div>
 
       {/* Messages */}
       <div style={{ flex: 1, overflowY: 'auto', padding: '20px 22px', display: 'flex', flexDirection: 'column', gap: 14 }}>
-        {messages.length === 0 && (
+        {messages.length === 0 && chatUnavailable && (
           <p style={{ color: '#868685', fontSize: 14, textAlign: 'center', marginTop: 32 }}>
-            {chatUnavailable ? 'Chat is unavailable. Please reload the page.' : 'Send a message to get started.'}
+            Chat is unavailable. Please reload the page.
           </p>
+        )}
+
+        {messages.length === 0 && !chatUnavailable && !isLoading && (
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginTop: 32 }}>
+            {SUGGESTED_MESSAGES.map(text => (
+              <button
+                key={text}
+                onClick={() => sendText(text)}
+                style={{
+                  background: '#e2f6d5',
+                  color: '#163300',
+                  border: 'none',
+                  padding: '7px 12px',
+                  borderRadius: 9999,
+                  fontFamily: 'Inter',
+                  fontSize: 12,
+                  fontWeight: 600,
+                  cursor: 'pointer',
+                  textAlign: 'left',
+                }}
+              >
+                {text}
+              </button>
+            ))}
+          </div>
         )}
 
         {messages.map((msg, i) => {
