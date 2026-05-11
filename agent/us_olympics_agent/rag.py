@@ -1,4 +1,5 @@
 import os
+import shutil
 from pathlib import Path
 
 import chromadb
@@ -6,7 +7,25 @@ from chromadb.errors import NotFoundError
 import vertexai
 from vertexai.language_models import TextEmbeddingInput, TextEmbeddingModel
 
-_CHROMA_PATH = Path(__file__).parent / "chroma_db"
+
+def _resolve_chroma_path() -> Path:
+    source = Path(os.environ.get("CHROMA_DB_PATH", str(Path(__file__).parent / "chroma_db")))
+    # Agent Engine extracts extra_packages to /code/ which is read-only.
+    # ChromaDB needs write access even for reads (lock files, WAL).
+    # Copy to /tmp/ once if the source directory is not writable.
+    test = source / ".write_test"
+    try:
+        test.touch()
+        test.unlink()
+        return source
+    except (PermissionError, OSError):
+        tmp = Path("/tmp/chroma_db")
+        if not tmp.exists():
+            shutil.copytree(str(source), str(tmp))
+        return tmp
+
+
+_CHROMA_PATH = _resolve_chroma_path()
 _COLLECTION_NAME = "athletes"
 _EMBEDDING_MODEL = "text-embedding-004"
 
