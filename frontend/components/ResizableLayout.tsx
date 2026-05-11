@@ -19,6 +19,25 @@ const LA_PRESET = {
   showContent:        false,
 }
 
+// "Gold" → "gold", "No Medal" → "noMedal" (agent uses Title Case, component uses lowercase)
+function mapMedalValue(v: string): string {
+  if (v === 'No Medal') return 'noMedal'
+  return v.toLowerCase()
+}
+
+// Resolve agent city names to the "City|STATE" keys used by selectedCityKeys.
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function buildCityKeys(cityNames: string[], cities: any[]): Set<string> {
+  const lower = cityNames.map(n => n.toLowerCase())
+  const keys = new Set<string>()
+  for (const c of cities) {
+    if (lower.includes((c.city ?? '').toLowerCase())) {
+      keys.add(`${c.city}|${c.state}`)
+    }
+  }
+  return keys
+}
+
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function ResizableLayout({ cities }: { cities: any[] }) {
   const [chatWidth, setChatWidth] = useState(CHAT_DEFAULT)
@@ -33,8 +52,9 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
   const [seasonFilter,       setSeasonFilter]       = useState(new Set(['Summer', 'Winter']))
   const [medalFilter,        setMedalFilter]        = useState(new Set(['gold', 'silver', 'bronze', 'noMedal']))
   const [sportFilter,        setSportFilter]        = useState(new Set<string>())
-  const [selectedAthleteIds, setSelectedAthleteIds] = useState(new Set<number>())
-  const [selectedCityKeys,   setSelectedCityKeys]   = useState(new Set<string>())
+  const [selectedAthleteIds,   setSelectedAthleteIds]   = useState(new Set<number>())
+  const [selectedAthleteNames, setSelectedAthleteNames] = useState(new Set<string>())
+  const [selectedCityKeys,     setSelectedCityKeys]     = useState(new Set<string>())
   const [searchClearSignal,  setSearchClearSignal]  = useState(0)
 
   function handleAthleteSelect(id: number) {
@@ -59,6 +79,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
     setMedalFilter(new Set(['gold', 'silver', 'bronze', 'noMedal']))
     setSportFilter(new Set<string>())
     setSelectedAthleteIds(new Set<number>())
+    setSelectedAthleteNames(new Set<string>())
     setSelectedCityKeys(new Set<string>())
     setSearchClearSignal(prev => prev + 1)
   }
@@ -80,6 +101,21 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
     setSelectedAthleteIds(new Set(LA_PRESET.selectedAthleteIds))
     setSelectedCityKeys(new Set(LA_PRESET.selectedCityKeys))
     setShowContent(LA_PRESET.showContent)
+  }
+
+  function applyAgentFilters(filters: Record<string, string[]>) {
+    if ('game'    in filters) setGameFilter(new Set(filters.game))
+    if ('season'  in filters) setSeasonFilter(new Set(filters.season))
+    if ('medal'   in filters) setMedalFilter(new Set(filters.medal.map(mapMedalValue)))
+    if ('state'   in filters) setSelectedState(filters.state[0] ?? '')
+    if ('sport'   in filters) setSportFilter(new Set(filters.sport))
+    if ('athlete' in filters) {
+      setSelectedAthleteNames(new Set(filters.athlete))
+      setSelectedAthleteIds(new Set<number>())
+    }
+    if ('city' in filters) setSelectedCityKeys(buildCityKeys(filters.city, cities))
+    setShowContent(false)
+    setSearchClearSignal(prev => prev + 1)
   }
 
   const onMouseMove = useCallback((e: MouseEvent) => {
@@ -144,6 +180,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
         selectedAthleteIds={selectedAthleteIds}
         onAthleteSelect={handleAthleteSelect}
         onAthleteRemove={handleAthleteRemove}
+        selectedAthleteNames={selectedAthleteNames}
         selectedCityKeys={selectedCityKeys}
         onCitySelect={handleCitySelect}
         onCityRemove={handleCityRemove}
@@ -165,7 +202,7 @@ export default function ResizableLayout({ cities }: { cities: any[] }) {
       </div>
 
       <div style={{ width: chatWidth }} className="flex-shrink-0 h-full">
-        <Chat onApplyPreset={applyPreset} />
+        <Chat onApplyPreset={applyPreset} onApplyFilters={applyAgentFilters} />
       </div>
     </main>
   )

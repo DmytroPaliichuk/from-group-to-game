@@ -41,6 +41,7 @@ interface MapContentSliderProps {
   selectedAthleteIds: Set<number>
   onAthleteSelect: (id: number) => void
   onAthleteRemove: (id: number) => void
+  selectedAthleteNames?: Set<string>
   selectedCityKeys: Set<string>
   onCitySelect: (key: string) => void
   onCityRemove: (key: string) => void
@@ -65,6 +66,7 @@ export default function MapContentSlider({
   selectedAthleteIds,
   onAthleteSelect,
   onAthleteRemove,
+  selectedAthleteNames = new Set<string>(),
   selectedCityKeys,
   onCitySelect,
   onCityRemove,
@@ -101,6 +103,7 @@ export default function MapContentSlider({
             selectedAthleteIds={selectedAthleteIds}
             onAthleteSelect={onAthleteSelect}
             onAthleteRemove={onAthleteRemove}
+            selectedAthleteNames={selectedAthleteNames}
             selectedCityKeys={selectedCityKeys}
             onCitySelect={onCitySelect}
             onCityRemove={onCityRemove}
