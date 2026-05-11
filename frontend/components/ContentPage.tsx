@@ -18,7 +18,7 @@ export default function ContentPage({
         </div>
       ) : (
         <div style={{ flex: 1, overflowY: 'auto', padding: '24px 32px' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: 16 }}>
             {athletes.map((a, i) => (
               <AthleteCard key={i} athlete={a} />
             ))}
