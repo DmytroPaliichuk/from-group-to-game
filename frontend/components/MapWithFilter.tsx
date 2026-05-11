@@ -1,10 +1,8 @@
 'use client'
 
 import { useState, useRef, useEffect, useMemo } from 'react'
-import Image from 'next/image'
 import UsMap from './UsMap'
-import AthleteSearch, { AthleteEntry } from './AthleteSearch'
-import CitySearch, { CityEntry, STATE_NAMES } from './CitySearch'
+import type { AthleteEntry } from './AthleteSearch'
 import topStateCities from '@/public/topStateSities.json'
 
 export interface FlatAthlete {
@@ -41,76 +39,30 @@ interface City {
   }[]
 }
 
-const SUMMER_SPORTS = [
-  '3x3 Basketball', 'Archery', 'Artistic Gymnastics', 'Artistic Swimming',
-  'Badminton', 'Baseball', 'Basketball', 'Beach Volleyball', 'Boccia',
-  'Bowling', 'Boxing', 'Breaking', 'Canoe/Kayak', 'Cycling', 'Diving',
-  'Equestrian', 'Fencing', 'Field Hockey', 'Goalball', 'Golf', 'Gymnastics',
-  'Judo', 'Karate', 'Modern Pentathlon', 'Para Archery', 'Para Judo',
-  'Para Powerlifting', 'Para Shooting', 'Para Swimming', 'Para Table Tennis',
-  'Para Taekwondo', 'Para Track and Field', 'Para-Cycling', 'Para-Equestrian',
-  'Para-Rowing', 'Paracanoe', 'Paratriathlon', 'Racquetball', 'Rifle Shooting',
-  'Rugby', 'Sailing', 'Shooting', 'Short Track Speedskating', 'Sitting Volleyball',
-  'Skateboarding', 'Soccer', 'Soccer 7-A-Side', 'Softball', 'Sport Climbing',
-  'Squash', 'Surfing', 'Swimming', 'Table Tennis', 'Taekwondo', 'Team Handball',
-  'Tennis', 'Track and Field', 'Triathlon', 'Volleyball', 'Water Polo',
-  'Waterski/Wakeboard', 'Weightlifting', 'Wheelchair Basketball',
-  'Wheelchair Fencing', 'Wheelchair Rugby', 'Wheelchair Tennis', 'Wrestling',
-]
-
-const WINTER_SPORTS = [
-  'Alpine Skiing', 'Biathlon', 'Bobsled', 'Cross-Country Skiing', 'Curling',
-  'Figure Skating', 'Freestyle Skiing', 'Ice Hockey', 'Luge', 'Nordic Combined',
-  'Para Alpine Skiing', 'Para Biathlon', 'Para Nordic Skiing', 'Para Snowboarding',
-  'Rowing', 'Skeleton', 'Ski Jumping', 'Ski Mountaineering', 'Sled Hockey',
-  'Snowboarding', 'Speedskating', 'Wheelchair Curling',
-]
-
-function SportCheckbox({ sport, checked, onChange }: { sport: string; checked: boolean; onChange: () => void }) {
-  return (
-    <button
-      onClick={onChange}
-      className="flex items-center gap-1.5 py-[3px] w-full text-left"
-    >
-      <span
-        className="flex-shrink-0 w-3.5 h-3.5 rounded-sm border"
-        style={{
-          backgroundColor: checked ? '#0284c7' : '#334155',
-          borderColor: checked ? '#0284c7' : '#475569',
-        }}
-      />
-      <span className="text-[#e2e8f0] text-xs truncate">{sport}</span>
-    </button>
-  )
-}
-
 export default function MapWithFilter({
   cities,
-  onContentPage,
   onFilteredChange,
   selectedState,
   onStateSelect,
   gameFilter,
-  onGameFilter,
+  onGameFilter: _onGameFilter,
   seasonFilter,
-  onSeasonFilter,
+  onSeasonFilter: _onSeasonFilter,
   medalFilter,
-  onMedalFilter,
+  onMedalFilter: _onMedalFilter,
   sportFilter,
-  onSportFilter,
+  onSportFilter: _onSportFilter,
   selectedAthleteIds,
-  onAthleteSelect,
-  onAthleteRemove,
+  onAthleteSelect: _onAthleteSelect,
+  onAthleteRemove: _onAthleteRemove,
   selectedAthleteNames,
   selectedCityKeys,
-  onCitySelect,
-  onCityRemove,
-  onClearAllFilters,
-  searchClearSignal,
+  onCitySelect: _onCitySelect,
+  onCityRemove: _onCityRemove,
+  searchClearSignal: _searchClearSignal,
   onCityDotClick,
 }: {
   cities: City[]
-  onContentPage?: () => void
   onFilteredChange?: (athletes: FlatAthlete[]) => void
   selectedState: string
   onStateSelect: (s: string) => void
@@ -129,17 +81,13 @@ export default function MapWithFilter({
   selectedCityKeys: Set<string>
   onCitySelect: (key: string) => void
   onCityRemove: (key: string) => void
-  onClearAllFilters: () => void
   searchClearSignal: number
   onCityDotClick?: (city: string, state: string) => void
 }) {
-  // Sport panel UI state stays local — only the committed sportFilter is lifted
-  const [pendingSports, setPendingSports] = useState(new Set<string>())
-  const [sportOpen, setSportOpen] = useState(false)
-  const dropdownRef = useRef<HTMLDivElement>(null)
   const [notification, setNotification] = useState<string | null>(null)
   const notifTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
+  // Kept locally so selectedAthleteKeys can map IDs → composite keys for filtering.
   const allAthletes = useMemo<AthleteEntry[]>(() => {
     const entries: AthleteEntry[] = []
     let id = 0
@@ -158,26 +106,6 @@ export default function MapWithFilter({
     return entries
   }, [cities])
 
-  const allCities = useMemo<CityEntry[]>(() => {
-    const seen = new Set<string>()
-    const entries: CityEntry[] = []
-    for (const c of cities) {
-      const key = `${c.city}|${c.state}`
-      if (!seen.has(key)) {
-        seen.add(key)
-        entries.push({
-          key,
-          city: c.city,
-          state: c.state,
-          label: `${STATE_NAMES[c.state] ?? c.state} — ${c.city}`,
-        })
-      }
-    }
-    return entries
-  }, [cities])
-
-  // null means no athlete restriction; Set means restrict to these composite keys.
-  // Both ID-based (UI search) and name-based (agent filter) selections contribute via OR.
   const selectedAthleteKeys = useMemo<Set<string> | null>(() => {
     const hasIds = selectedAthleteIds.size > 0
     const hasNames = selectedAthleteNames && selectedAthleteNames.size > 0
@@ -185,7 +113,7 @@ export default function MapWithFilter({
     const keys = new Set<string>()
     for (const id of selectedAthleteIds) {
       const e = allAthletes[id]
-      keys.add(`${e.firstName}|${e.lastName}|${e.city}|${e.state}`)
+      if (e) keys.add(`${e.firstName}|${e.lastName}|${e.city}|${e.state}`)
     }
     if (hasNames) {
       for (const e of allAthletes) {
@@ -196,77 +124,6 @@ export default function MapWithFilter({
     }
     return keys
   }, [selectedAthleteIds, selectedAthleteNames, allAthletes])
-
-  function toggleGame(type: string) {
-    const next = new Set(gameFilter)
-    next.has(type) ? next.delete(type) : next.add(type)
-    onGameFilter(next)
-  }
-
-  function toggleSeason(type: string) {
-    const next = new Set(seasonFilter)
-    next.has(type) ? next.delete(type) : next.add(type)
-    onSeasonFilter(next)
-  }
-
-  function toggleMedal(type: string) {
-    const next = new Set(medalFilter)
-    next.has(type) ? next.delete(type) : next.add(type)
-    onMedalFilter(next)
-  }
-
-  function openSportPanel() {
-    setPendingSports(new Set(sportFilter))
-    setSportOpen(true)
-  }
-
-  function closeSportPanel() {
-    setSportOpen(false)
-  }
-
-  function applyAndClose() {
-    onSportFilter(new Set(pendingSports))
-    setSportOpen(false)
-  }
-
-  function clearAllFilters() {
-    setPendingSports(new Set())
-    setSportOpen(false)
-    onClearAllFilters()
-  }
-
-  function handleCityDotClick(city: { city: string; state: string }) {
-    const match = filtered.find(c => c.city === city.city && c.state === city.state)
-    if (!match || match.athletes.length === 0) {
-      if (notifTimerRef.current) clearTimeout(notifTimerRef.current)
-      setNotification(`No athletes from ${city.city} match the current filters.`)
-      notifTimerRef.current = setTimeout(() => setNotification(null), 2500)
-      return
-    }
-    onCityDotClick?.(city.city, city.state)
-  }
-
-  function togglePending(sport: string) {
-    setPendingSports(prev => {
-      const next = new Set(prev)
-      next.has(sport) ? next.delete(sport) : next.add(sport)
-      return next
-    })
-  }
-
-  useEffect(() => {
-    if (!sportOpen) return
-    const handler = (e: MouseEvent) => {
-      if (!dropdownRef.current?.contains(e.target as Node)) setSportOpen(false)
-    }
-    document.addEventListener('mousedown', handler)
-    return () => document.removeEventListener('mousedown', handler)
-  }, [sportOpen])
-
-  const sportLabel =
-    sportFilter.size === 0 ? 'All Disciplines'
-    : sportFilter.size === 1 ? [...sportFilter][0]
-    : `${sportFilter.size} Disciplines`
 
   const filtered = useMemo(() =>
     (selectedState ? cities.filter(c => c.state === selectedState) : cities)
@@ -293,7 +150,6 @@ export default function MapWithFilter({
     [cities, selectedState, selectedCityKeys, gameFilter, seasonFilter, medalFilter, sportFilter, selectedAthleteKeys]
   )
 
-  // Push flat athlete list to parent whenever the filtered set changes
   useEffect(() => {
     if (!onFilteredChange) return
     onFilteredChange(
@@ -315,232 +171,59 @@ export default function MapWithFilter({
     )
   }, [filtered]) // eslint-disable-line react-hooks/exhaustive-deps
 
+  function handleCityDotClick(city: { city: string; state: string }) {
+    const match = filtered.find(c => c.city === city.city && c.state === city.state)
+    if (!match || match.athletes.length === 0) {
+      if (notifTimerRef.current) clearTimeout(notifTimerRef.current)
+      setNotification(`No athletes from ${city.city} match the current filters.`)
+      notifTimerRef.current = setTimeout(() => setNotification(null), 2500)
+      return
+    }
+    onCityDotClick?.(city.city, city.state)
+  }
+
   const stateCities = selectedState ? (topStateCities[selectedState as keyof typeof topStateCities] ?? []) : []
 
   return (
-    <div className="relative w-full h-full flex flex-col bg-[#0f172a] rounded-lg border border-[#1A1A1A] p-4 gap-3 overflow-hidden">
-      {/* Row 1: primary filters + content page button */}
-      <div className="flex items-center gap-8 flex-shrink-0 border-b border-[#334155] pb-2">
-        {/* Game toggle */}
-        <div className="flex items-center gap-2">
-          <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Game</span>
-          <div className="flex gap-0.5 p-0.5 bg-[#0f172a] rounded-lg">
-            {(['Olympian', 'Paralympian'] as const).map((type, i) => (
-              <button
-                key={type}
-                onClick={() => toggleGame(type)}
-                className={`w-12 h-12 rounded-full overflow-hidden border-2 transition-all
-                  ${gameFilter.has(type) ? 'border-[#06B6D4] opacity-100' : 'border-[#475569] opacity-55'}`}
-              >
-                <Image
-                  src={i === 0 ? '/images/opympian_games.png' : '/images/paralympian_games.png'}
-                  width={48}
-                  height={48}
-                  className="w-full h-full object-cover"
-                  alt={type}
-                />
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* Season toggle */}
-        <div className="flex items-center gap-2">
-          <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Season</span>
-          <div className="flex gap-0.5 p-0.5 bg-[#0f172a] rounded-lg">
-            {(['Summer', 'Winter'] as const).map((season, i) => (
-              <button
-                key={season}
-                onClick={() => toggleSeason(season)}
-                className={`w-12 h-12 rounded-md overflow-hidden border-2 bg-white transition-all
-                  ${seasonFilter.has(season) ? 'border-[#06B6D4] opacity-100' : 'border-transparent opacity-30'}`}
-              >
-                <Image
-                  src={i === 0 ? '/images/summer_games_emblem_dark_mode.png' : '/images/winter_games_emblem_dark_mode.png'}
-                  width={48}
-                  height={48}
-                  className="w-full h-full object-contain"
-                  alt={season}
-                />
-              </button>
-            ))}
-          </div>
-        </div>
-
-        {/* Medal toggle */}
-        <div className="flex items-center gap-2">
-          <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Medals</span>
-          <div className="flex gap-0.5 p-0.5 bg-[#0f172a] rounded-lg items-center">
-            {([
-              { key: 'gold',   src: '/images/generated-1778004985438.png' },
-              { key: 'silver', src: '/images/generated-1778004981207.png' },
-              { key: 'bronze', src: '/images/generated-1778004987440.png' },
-            ] as const).map(({ key, src }) => (
-              <button
-                key={key}
-                onClick={() => toggleMedal(key)}
-                className={`w-12 h-12 rounded-full overflow-hidden border-2 transition-all
-                  ${medalFilter.has(key) ? 'border-[#06B6D4] opacity-100' : 'border-[#475569] opacity-55'}`}
-              >
-                <Image
-                  src={src}
-                  width={48}
-                  height={48}
-                  className="w-full h-full object-cover"
-                  alt={key}
-                />
-              </button>
-            ))}
-            <button
-              onClick={() => toggleMedal('noMedal')}
-              className={`w-12 h-12 rounded-full border-2 bg-[#1e293b] flex items-center justify-center transition-all
-                ${medalFilter.has('noMedal') ? 'border-[#06B6D4] opacity-100' : 'border-[#475569] opacity-55'}`}
-            >
-              <span className="text-[#E2E8F0] text-xl font-semibold">Ø</span>
-            </button>
-          </div>
-        </div>
-
-        {/* Sport Disciplines panel */}
-        <div ref={dropdownRef} className="relative flex items-center gap-2">
-          <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>Sport</span>
-          <button
-            onClick={openSportPanel}
-            className="flex items-center gap-1 h-[30px] bg-[#1A1A1A] rounded px-2 cursor-pointer"
-          >
-            <span className="text-[#f1f5f9] text-sm">{sportLabel}</span>
-            <span className="text-[#71717A] text-xs">▾</span>
-          </button>
-
-          {sportOpen && (
-            <div
-              className="absolute top-full mt-2 left-0 z-50 flex flex-col rounded-xl overflow-hidden"
-              style={{ width: 340, backgroundColor: '#1e293b' }}
-            >
-              {/* Header */}
-              <div
-                className="flex items-center justify-between px-4 py-3 flex-shrink-0"
-                style={{ borderBottom: '1px solid #334155' }}
-              >
-                <span className="text-[#f1f5f9] text-sm font-semibold">Sport Disciplines</span>
-                <button
-                  onClick={closeSportPanel}
-                  className="flex items-center justify-center w-6 h-6 rounded-md text-[#94a3b8] text-xs hover:bg-[#475569] transition-colors"
-                  style={{ backgroundColor: '#334155' }}
-                >
-                  ✕
-                </button>
-              </div>
-
-              {/* Content area */}
-              <div className="overflow-y-auto flex-1" style={{ maxHeight: 420 }}>
-                <div className="flex flex-col gap-0.5 px-3 py-2">
-                  {/* Summer section */}
-                  <div className="flex items-center gap-1.5 pt-1 pb-2">
-                    <span className="text-[#f59e0b] text-sm font-semibold">☀</span>
-                    <span className="text-[#f59e0b] text-[11px] font-semibold tracking-wide">SUMMER</span>
-                    <div className="flex-1 h-px bg-[#334155]" />
-                  </div>
-                  <div className="grid grid-cols-2 gap-x-4">
-                    {SUMMER_SPORTS.map(sport => (
-                      <SportCheckbox
-                        key={sport}
-                        sport={sport}
-                        checked={pendingSports.has(sport)}
-                        onChange={() => togglePending(sport)}
-                      />
-                    ))}
-                  </div>
-
-                  {/* Winter section */}
-                  <div className="flex items-center gap-1.5 pt-3 pb-2">
-                    <span className="text-[#7dd3fc] text-sm font-semibold">❄</span>
-                    <span className="text-[#7dd3fc] text-[11px] font-semibold tracking-wide">WINTER</span>
-                    <div className="flex-1 h-px bg-[#334155]" />
-                  </div>
-                  <div className="grid grid-cols-2 gap-x-4">
-                    {WINTER_SPORTS.map(sport => (
-                      <SportCheckbox
-                        key={sport}
-                        sport={sport}
-                        checked={pendingSports.has(sport)}
-                        onChange={() => togglePending(sport)}
-                      />
-                    ))}
-                  </div>
-                </div>
-              </div>
-
-              {/* Footer */}
-              <div
-                className="flex items-center gap-2 px-4 py-3 flex-shrink-0"
-                style={{ borderTop: '1px solid #334155' }}
-              >
-                <button
-                  onClick={() => setPendingSports(new Set())}
-                  className="flex-1 h-8 rounded-lg text-[#94a3b8] text-sm flex items-center justify-center hover:opacity-80 transition-opacity"
-                  style={{ backgroundColor: '#334155' }}
-                >
-                  Clear All
-                </button>
-                <button
-                  onClick={applyAndClose}
-                  className="flex-1 h-8 rounded-lg text-white text-sm font-semibold flex items-center justify-center hover:opacity-90 transition-opacity"
-                  style={{ backgroundColor: '#0284c7' }}
-                >
-                  Apply
-                </button>
-              </div>
-            </div>
-          )}
-        </div>
-
-        {/* Clear all filters */}
-        <button
-          onClick={clearAllFilters}
-          className="text-sm text-[#94a3b8] hover:text-[#e2e8f0] transition-colors"
-          style={{ fontFamily: "'Geist', sans-serif" }}
-        >
-          Clear All Filters
-        </button>
-
-        {/* Content page button — right-aligned */}
-        {onContentPage && (
-          <button
-            onClick={onContentPage}
-            className="ml-auto h-12 bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium px-6 rounded-full transition-colors flex-shrink-0"
-          >
-            Content Page &gt;&gt;
-          </button>
-        )}
-      </div>
-
-      {/* Row 2: search inputs, each filling half the width */}
-      <div className="flex gap-4 flex-shrink-0 pt-2">
-        <AthleteSearch
-          className="flex-1 min-w-0"
-          athletes={allAthletes}
-          selectedIds={selectedAthleteIds}
-          onSelect={onAthleteSelect}
-          onRemove={onAthleteRemove}
-          clearSignal={searchClearSignal}
-        />
-        <CitySearch
-          className="flex-1 min-w-0"
-          cities={allCities}
-          selectedKeys={selectedCityKeys}
-          onSelect={onCitySelect}
-          onRemove={onCityRemove}
-          clearSignal={searchClearSignal}
+    <div className="relative w-full h-full flex">
+      <div style={{
+        flex: 1,
+        background: '#fff',
+        borderRadius: 30,
+        border: '1px solid rgba(14,15,12,0.10)',
+        padding: 18,
+        position: 'relative',
+        overflow: 'hidden',
+      }}>
+        <UsMap
+          cities={filtered}
+          selectedState={selectedState || undefined}
+          stateCities={stateCities}
+          onStateSelect={onStateSelect}
+          onCityDotClick={handleCityDotClick}
         />
       </div>
 
       {notification && (
-        <div className="absolute top-[96px] left-1/2 -translate-x-1/2 z-50 bg-[#1e293b] border border-[#334155] text-[#e2e8f0] text-sm px-4 py-2 rounded-full shadow-lg pointer-events-none whitespace-nowrap">
+        <div style={{
+          position: 'absolute',
+          top: 16,
+          left: '50%',
+          transform: 'translateX(-50%)',
+          zIndex: 50,
+          background: '#fff',
+          border: '1px solid rgba(14,15,12,0.15)',
+          color: '#0e0f0c',
+          fontSize: 13,
+          padding: '8px 18px',
+          borderRadius: 9999,
+          boxShadow: 'rgba(14,15,12,0.12) 0 0 0 1px',
+          pointerEvents: 'none',
+          whiteSpace: 'nowrap',
+        }}>
           {notification}
         </div>
       )}
-      <UsMap cities={filtered} selectedState={selectedState || undefined} stateCities={stateCities} onStateSelect={onStateSelect} onCityDotClick={handleCityDotClick} />
     </div>
   )
 }

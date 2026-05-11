@@ -73,19 +73,21 @@ export default function CitySearch({ cities, selectedKeys, onSelect, onRemove, c
 
   return (
     <div ref={containerRef} className={`relative flex items-center gap-2 ${className ?? ''}`}>
-      <span className="text-sm text-[#71717A]" style={{ fontFamily: "'Geist', sans-serif" }}>City</span>
+      <span className="text-sm text-[#454745]" style={{ fontFamily: 'Inter, sans-serif', fontWeight: 500 }}>City</span>
 
-      <div className="flex items-center gap-1 flex-wrap bg-[#1A1A1A] rounded px-2 h-[30px] min-w-[160px] flex-1 overflow-hidden">
+      <div className="flex items-center gap-1 flex-wrap rounded-lg px-3 h-9 min-w-[160px] flex-1 overflow-hidden"
+        style={{ background: '#fff', border: '1px solid rgba(14,15,12,0.12)', boxShadow: 'rgba(14,15,12,0.06) 0 1px 3px' }}>
         {[...selectedKeys].map(key => {
           const c = cities.find(c => c.key === key)
           if (!c) return null
           return (
-            <span key={key} className="flex items-center gap-1 bg-[#334155] text-[#e2e8f0] text-xs rounded px-1.5 py-0.5 flex-shrink-0">
+            <span key={key} className="flex items-center gap-1 text-xs rounded-full px-2 py-0.5 flex-shrink-0"
+              style={{ background: '#e2f6d5', color: '#163300' }}>
               {c.city}
               <button
                 aria-label={`Remove ${c.city}`}
                 onClick={() => onRemove(key)}
-                className="text-[#94a3b8] hover:text-white leading-none"
+                className="leading-none opacity-60 hover:opacity-100"
               >
                 ×
               </button>
@@ -97,20 +99,24 @@ export default function CitySearch({ cities, selectedKeys, onSelect, onRemove, c
           placeholder={selectedKeys.size === 0 ? 'Search cities…' : ''}
           value={query}
           onChange={handleChange}
-          className="bg-transparent text-[#f1f5f9] text-sm outline-none min-w-[80px] flex-1"
+          className="bg-transparent text-sm outline-none min-w-[80px] flex-1"
+          style={{ color: '#0e0f0c' }}
         />
       </div>
 
       {isOpen && (
-        <div className="absolute top-full mt-2 left-0 z-50 rounded-xl min-w-[200px] overflow-hidden"
-          style={{ backgroundColor: '#1e293b', border: '1px solid #334155' }}>
+        <div className="absolute top-full mt-1 left-0 z-50 rounded-2xl min-w-[200px] overflow-hidden"
+          style={{ background: '#fff', border: '1px solid rgba(14,15,12,0.10)', boxShadow: 'rgba(14,15,12,0.12) 0 4px 16px' }}>
           {matches.length === 0
-            ? <span className="block text-[#94a3b8] text-sm italic px-3 py-2">No results</span>
+            ? <span className="block text-sm italic px-3 py-2" style={{ color: '#868685' }}>No results</span>
             : matches.map(c => (
                 <button
                   key={c.key}
                   onClick={() => handleSelect(c.key)}
-                  className="block w-full text-left text-[#e2e8f0] text-sm px-3 py-1.5 hover:bg-[#334155] transition-colors"
+                  className="block w-full text-left text-sm px-3 py-2 transition-colors"
+                  style={{ color: '#0e0f0c' }}
+                  onMouseEnter={e => (e.currentTarget.style.background = '#fafaf7')}
+                  onMouseLeave={e => (e.currentTarget.style.background = '')}
                 >
                   {c.label}
                 </button>

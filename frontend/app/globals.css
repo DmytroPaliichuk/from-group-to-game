@@ -1,14 +1,30 @@
 @import "tailwindcss";
 
+:root {
+  --bg-canvas: #fafaf7;
+  --bg-surface: #ffffff;
+  --fg-1: #0e0f0c;
+  --fg-2: #454745;
+  --fg-3: #868685;
+  --accent-green: #9fe870;
+  --dark-green: #163300;
+  --mint: #e2f6d5;
+  --border-subtle: rgba(14, 15, 12, 0.10);
+  --shadow-ring: rgba(14, 15, 12, 0.12) 0 0 0 1px;
+  --font-display: 'Archivo Black', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
 body {
-  background: #020617;
-  color: #e2e8f0;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--bg-canvas);
+  color: var(--fg-1);
+  font-family: var(--font-body);
   min-height: 100vh;
 }
 
+/* D3 map state paths */
 .state {
-  fill: #334155;
-  stroke: #475569;
+  fill: #eef2ec;
+  stroke: rgba(14, 15, 12, 0.15);
   stroke-width: 0.5;
 }
