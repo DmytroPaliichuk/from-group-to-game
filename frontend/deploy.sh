@@ -42,7 +42,8 @@ fi
 echo "Building image: $IMAGE"
 gcloud builds submit . \
   --project="$PROJECT_ID" \
-  --tag="$IMAGE"
+  --config=cloudbuild.yaml \
+  --substitutions="_IMAGE=${IMAGE},_NEXT_PUBLIC_API_URL=${API_URL}"
 
 # --- Deploy ---
 echo "Deploying to Cloud Run..."
