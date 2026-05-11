@@ -14,7 +14,8 @@ from us_olympics_agent.agent import root_agent
 SCRIPT_DIR = Path(__file__).parent
 ENV_FILE = SCRIPT_DIR / "us_olympics_agent" / ".env"
 
-DISPLAY_NAME = "us-olympics-agent"
+# DISPLAY_NAME = "us-olympics-agent"
+DISPLAY_NAME = "us-olympics-agent-rag-structured-output"
 REQUIREMENTS = [
     "google-cloud-aiplatform[adk,agent_engines]",
     "chromadb>=0.6.0",
