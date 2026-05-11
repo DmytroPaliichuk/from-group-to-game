@@ -1,0 +1,975 @@
+{
+  "entries": [
+    {
+      "first_name": "Zach",
+      "last_name": "LaVine",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1995-03-10T00:00:00",
+        "hometown": {
+          "city": "Renton",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.4829,
+          "longitude": -122.217
+        },
+        "education": "Bothell High School (Bothell, Wash.) ‘13 University of California, Los Angeles",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Cheryl Johnson-LaVine and Paul LaVine</li><li>Has three sisters – Chandi Leishman, Linda Carter and Camryn LaVine</li><li>His father played American football professionally in the United States Football League (USFL) and National Football League (NFL), and his mother was a softball player</li><li>Donated $10,000 from his Slam Dunk Contest winnings to the Metro Deaf School to complete a new kitchen.</li></ul><h5>Career Highlights</h5><ul><li>Named as a finalist for the 2021 USA National Team and U.S. Olympic Men's Basketball Team on March 11, 2021</li><li>Named as a member of the 2016 USA Select Team that trained with and against 2016 U.S. Olympic Team during team's Las Vegas training camp</li><li>Recorded 13 points (5-10 FGs, 2-6 3pt FGs), 4 rebounds, 3 assists and 3 steals in 28 minutes for Team Durant in the 2021 NBA All-Star Game</li><li>Two-time NBA Slam Dunk Champion (2015 and 2016).</li><li>One of only four Chicago Bull players in team history to score 1,500 points-or-more within the team’s first 60 games of a campaign</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006509/TeamUSA%20Assets/Athlete%20Profiles/Zach%20LaVine%201217600/LaVine_Zach.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zach LaVine 1217600"
+        }
+      ]
+    },
+    {
+      "first_name": "Lucas",
+      "last_name": "Lacamp",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-06-04T00:00:00",
+        "hometown": {
+          "city": "Hong Kong",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 22.3193,
+          "longitude": 114.1694
+        },
+        "education": "University of California, Los Angeles",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Attributes his father for introducing him to rugby sevens</p></li><li>Was raised in both Hong Kong and England</li><li>Made his HBSC Rugby Sevens debut in 2022</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 11th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 11th – 2022 (Team - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 8th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720474111/TeamUSA%20Assets/Athlete%20Profiles/Lucas%20Lacamp%201235895/lacamp_l_bio_1235895.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720474087/TeamUSA%20Assets/Athlete%20Profiles/Lucas%20Lacamp%201235895/lacamp_l_hero_1235895.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720474087/TeamUSA%20Assets/Athlete%20Profiles/Lucas%20Lacamp%201235895/lacamp_l_hero_1235895.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720474087/TeamUSA%20Assets/Athlete%20Profiles/Lucas%20Lacamp%201235895/lacamp_l_hero_1235895.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rugby"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Lucas Lacamp"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Lachenauer",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1971-04-14T00:00:00",
+        "hometown": {
+          "city": "Reno",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 39.5296,
+          "longitude": -119.8138
+        },
+        "education": "Abington Heights (Clarks Summit, Pa.) ‘89 University of Pittsburgh ‘94, Creative Nonfiction Writing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Lachenauer broke his back during a motocross race after mistiming a jump and spilling off the track in 2008. He had been cycling competitively for less than two seasons when he earned his first national titles. He won both the road race and time trial in his class at the 2012 USA Cycling Road National Championships. Since then, Lachenauer has gone on to earn three world championship medals and multiple world cup podium finishes as well</li><li>Married to Tanya Lachenauer</li><li>Has two daughters, Deja and Uma</li><li>Hobbies include getting beat by his daughters at chess. He wishes he had taught them checkers instead.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (Team Relay - Mixed), 5th (H3 - Time Trial - Men), 12th (H3 - Road Race - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – silver (Team Relay - Open), 7th (H3 - Time Trial - Men), 8th (H3 - Road Race - Men)</li><li>Years of participation: H3 - Road Race - Men 2014, 2015; H3 - Time Trial - Men 2014, 2015; Team Relay - Open 2013, 2014, 2015; H2 - Road Race - Men 2013; H2 - Time Trial - Men 2013</li><li>Medals: 4 (3 silver, 1 bronze)</li><ul><li>Silver – 2015 (Team Relay - Open);  2014 (Team Relay - Open);  2013 (Team Relay - Open)</li><li>Bronze – 2014 (H3 - Time Trial - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "MH3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346483/TeamUSA%20Assets/Migration/Athlete%20Profiles/Will%20Lachenauer/Lauchenauer_william_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Lachenauer"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Lachina",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1994-09-15T00:00:00",
+        "hometown": {
+          "city": "Thousand Oaks, Calif. ",
+          "state": "CA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Thousand Oaks High School (Thousand Oaks, Calif.) United States Military Academy ’18, Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Phillip Lachina</li><li>Enjoys hiking, going to the beach, fishing and playing sports</li><li>Played rugby for West Point for four years</li><li>Favorite movies include Crazy Rich Asians, Star Wars and Marvel movies</li><li>Christmas is his favorite holiday.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346435/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jake%20Lachina/Lachina_Jake_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jake Lachina"
+        }
+      ]
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Lacy",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1991-01-22T00:00:00",
+        "hometown": {
+          "city": "Aspen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.1911,
+          "longitude": -106.8175
+        },
+        "education": "Aspen High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Biscotti baking and kombucha brewing. Avid river swimmer and mountain scrambler. Passionate cat dad.<p></p><h5>Career Highlights</h5><ul><li>4th US Biathlon Nationals Pursuit, 2022</li><li>27th IBUC Sprint, Lenzerheide, SUI, 2022</li><li>1st US Biathlon Western Finals Sprint, 2021</li><li>NCAA All-American 2013</li><li>Varsity Dartmouth Ski Team 2009-2013</li><li>FIS U18 Scando Trip, 2008 &amp; 2009</li></ul><h5>More</h5>After a strong FIS ski career ending post college, Scott fully retired from ski racing for 6 years. &nbsp;Returning at age 28, Scott found biathlon and has been enjoying professional racing at a higher level every year and is proud to be a part of USBA on the international stage now.",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134452/NGB%20Biathlon/Migration/Athlete%20Profiles/Scott%20Lacy%201250120/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134453/NGB%20Biathlon/Migration/Athlete%20Profiles/Scott%20Lacy%201250120/Scott-Lacy_No-Background_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Scott Lacy 1250120"
+        }
+      ]
+    },
+    {
+      "first_name": "Alexis",
+      "last_name": "Lagan",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1993-01-25T00:00:00",
+        "hometown": {
+          "city": "Boulder City",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 35.9786,
+          "longitude": -114.8325
+        },
+        "education": "Boulder City High School (Boulder City, Nev.) ‘11 University of Utah (Salt Lake City, Utah) '17, Pre-Law Physics ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Barry and Jill Lagan</li><li>Married to Jacob Peterson</li><li>Active member of the Church of Jesus Christ of Latter Day Saints</li><li>Started shooting at age 15</li><li>First Olympian from Boulder City, Nevada and first Olympic Marksman from University of Utah</li><li>Hobbies include singing, dancing, camping, hiking, gardening and organizing her planner</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 25th (10m Air Pistol - Women)</li><li>Olympic Games Tokyo 2020, 16th (10m Air Pistol - Team - Mixed), 18th (25m Pistol - Women), 38th (10m Air Pistol - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 12th (10m Air Pistol - Women), 40th (25m Pistol - Women)</li><li>Years of participation: 10m Air Pistol - Women 2018, 2022, 2023; 25m Pistol - Women 2018, 2022, 2023; 10m Air Pistol - Team - Mixed 2018, 2022; 10m Air Pistol - Team - Women 2022; 25m Pistol - Team - Women 2022</li><li>Top finish: 7th – 2022 (10m Air Pistol - Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006452/TeamUSA%20Assets/Athlete%20Profiles/Alexis%20Lagan%201000946/Lagan_Alexis_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alexis Lagan 1000946"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Shooting"
+        }
+      ]
+    },
+    {
+      "first_name": "Bernard",
+      "last_name": "Lagat",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1974-12-12T00:00:00",
+        "hometown": {
+          "city": "Tucson",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 32.2217,
+          "longitude": -110.9265
+        },
+        "education": "Kaptel Secondary School (Kaptel, Kenya) ‘94 Washington State ‘01, Management Information System and Decision Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Richard and Marsalina Leting</li><li>Has three brothers, William, Nathan and Robert, and six sisters, Violah, Irine, Evertine, Tecla, Mary and Angelina</li><li>Married Gladys Tom on Oct. 10, 2004</li><li>Has a daughter, Gianna, and a son, Miika</li><li>At age 41, is the oldest member of the 2016 U.S. Olympic Track and Field Team</li><li>Donated all bonus earnings from the 2010 indoor season to the Haiti Relief Fund</li><li>Ran 1.5 miles to and from school in Kenya</li><li>In 2007, became the first American to win an outdoor world championship gold medal in the 1,500-meter, marking the first Olympic or world championships gold medal in the event for the U.S. since 1908.</li></ul><h5>Olympic Experience </h5><ul><li>5-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (5000m - Men)</li><li>Olympic Games London 2012, 4th (5000m - Men)</li><li>Olympic Games Beijing 2008, 9th (5000m - Men), 12th (1500m - Men)</li><li>Olympic Games Athens 2004, silver (1500m - Men)</li><li>Olympic Games Sydney 2000, bronze (1500m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 7th (Half Marathon Team - Men), 31th (Half Marathon - Men)</li><li>Years of participation: Half Marathon - Men 2018; Half Marathon Team - Men 2018; 3000m (Indoor) - Men 2001, 2004, 2010, 2012; 1500m - Men 2001, 2003, 2007, 2009; 5000m - Men 2007, 2009</li><li>Medals: 8 (5 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2012 (3000m (Indoor) - Men);  2010 (3000m (Indoor) - Men);  2007 (1500m - Men, 5000m - Men);  2004 (3000m (Indoor) - Men)</li><li>Silver – 2009 (5000m - Men);  2001 (1500m - Men)</li><li>Bronze – 2009 (1500m - Men)</li></ul></ul><h5>More</h5>USA Track &amp; Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717923/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bernard%20Lagat%20911878/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717926/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bernard%20Lagat%20911878/Lagat_Bernard_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bernard Lagat 911878"
+        }
+      ]
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Lagerstrom",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1989-07-12T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "Warner Pacific College",
+        "fun_fact": "",
+        "biography": "<div></div>\n<div></div>\n<div><br>\n\n<p><strong>Career Highlight<br>\n</strong>\nUSA Triathlon National Team Member<br>\n2015 Bridgetown CAMTRI Sprint Triathlon American Cup Champion<br>\n2015 Sarasota CAMTRI Sprint Triathlon American Cup Champion<br>\n2015 Clermont CAMTRI Sprint Triathlon American Cup Runner-Up<br>\n2015 Escape from Alcatraz Champion<br>\n2013 USA Triathlon Elite Sprint National Champion</p>\n<p><strong>Elite Triathlon Career</strong><br>\n<strong>2015: </strong>Captured the win at the non-draft Escape from Alcatraz on June 7 &bull; Raced to wins at the Sarasota CAMTRI Sprint Triathlon American Cup on March 14 and the Bridgetown CAMTRI Sprint Triathlon American Cup on April 18 &bull; Second at his season opener at the Clermont CAMTRI Sprint Triathlon American Cup &bull; 12th at the Chengdu ITU World Cup on May 9</p>\n<p><strong>2014:</strong> Fourth overall and third American at the Super Sprint Triathlon Grand Prix in Las Vegas, which also served as the USA Triathlon Elite Sprint National Championships &bull; Fourth at the Kelowna PATCO Sprint Triathlon Pan American Cup &bull; Sixth at the Sarasota PATCO Sprint Triathlon Pan American Championships &bull; On the silver-medal winning U.S. team for the Sarasota PATCO Mixed Relay Pan American Championships</p>\n<p><strong>2013:</strong> Finished ninth at the Sarasota ITU Pan American Cup on March 16 and 11th at the March 9 Mazatlan ITU Pan American Cup &bull; Placed 12th at the Bridgetown ITU Sprint Triathlon Pan American Cup &bull; Finished 23rd at the Edmonton ITU World Cup &bull; Finished 31st at the Geneva ITU Triathlon European Cup&nbsp;<strong> <br>\n<br>\n2012: </strong>Placed third at the 2012 F1 Super Sprint San Diego &bull;&nbsp;Was ninth at 2012 USA Triathlon Elite Nationals &bull; Represented the U.S. at the 2012 ITU Under-23 World Championships and placed 33rd. </p>\n<strong>Amateur Triathlon Career: </strong>Won the 18-19 age group title at the 2008 USA Triathlon Age Group National Championships and was third at 2008 ITU Worlds &bull;&nbsp;First-ever triathlon was the 2002 Blue Lake Triathlon. <br>\n<br>\n<strong>Athletic Background: </strong>Grew up as a swimmer and took up triathlon at age 12 &bull;&nbsp;Was a collegiate runner at Warner Pacific in Portland, Ore.\n<p><strong style=\"font-size: large;\"><br>\n</strong></p>\n<p><h5>Quick Facts</h5>\nSon of Joseph and Melanie Lagerstrom&nbsp;\n</p><p><h5>More</h5>Personal Website&nbsp;<br>\n\n</p></div><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Olympic Distance - Men)</li><li>Under 23 World Championships, Auckland, 2012 (Olympic Distance - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006477/TeamUSA%20Assets/Athlete%20Profiles/Eric%20Lagerstrom%20875810/Eric-Lagerstrom-2015.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eric Lagerstrom 875810"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Timothy",
+      "last_name": "Lam",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1997-08-24T00:00:00",
+        "hometown": {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3861,
+          "longitude": -122.0839
+        },
+        "education": " Cal Poly Pomona (2018)",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Began training at 6 years old</li><li>Developed a professional interest in badminton when he joined Raju Rai and Bob Malaythong’s training program at CBA during his first year in the U17 age category</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019: Sudirman Cup Team, Cuba International Bronze</li>\r\n                            <li>Pan American Championships Silver (team event)</li>\r\n                            <li>2018: Bahrain International Silver, Guatemala International Silver</li>\r\n                            <li>2017: Sudirman Cup Team, Pan American Championships Bronze</li>\r\n                            <li>2014: BWF World Junior Championships</li>\r\n                            <li>7-time US Junior National Champion (2007, 2011, 2013)</li>\r\n                            <li>3-time Pan American Junior Champion (2009, 2014)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 15th (Singles - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 33th (Singles - Men)</li><li>Years of participation: Singles - Men 2021</li><li>Top finish: 33th – 2021 (Singles - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661994/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lam_t_bio_1143645.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Badminton",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006529/TeamUSA%20Assets/Athlete%20Profiles/Timothy%20Lam%201143645/Lam_Timothy_150x250.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006529/TeamUSA%20Assets/Athlete%20Profiles/Timothy%20Lam%201143645/Lam_Timothy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Timothy Lam 1143645"
+        }
+      ]
+    },
+    {
+      "first_name": "Noelle",
+      "last_name": "Lambert",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1997-01-24T00:00:00",
+        "hometown": {
+          "city": "Manchester",
+          "state": "NH",
+          "country": "United States",
+          "latitude": 42.9956,
+          "longitude": -71.4547
+        },
+        "education": "University of Massachusetts Lowell ’19, Criminal Justice",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Geoffrey and Judy Lambert. Has three older siblings and 29 first cousins</li><li>Played lacrosse at University of Massachusetts Lowell, where she majored in criminal justice</li><li>Was a contestant on season 43 of the CBS reality show, Survivor. She finished in 8th place</li><li>Named the inaugural recipient of the America East Inspiration Award</li><li>2019 Boston Celtics’ Heroes Among Us Award winner</li><li>Lists Gossip Girl as her favorite TV show</li><li><span>Favorite teams include the Patriots, Celtics and Bruins and n</span>ames Tom Brady as her favorite athlete</li><li>Founded the Born to Run Foundation, which provides specialized prosthetics to younger adults and children that will allow them to live a fun and fulfilling life</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 4th (Long Jump T63 - Women), 7th (100m T63 - Women)</li><li>Paralympic Games Tokyo 2020, 6th (100m T63 - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – 4th (Banked Slalom - Lower Limb 1 Impaired - Women)</li><li>Years of participation: Banked Slalom - Lower Limb 1 Impaired - Women 2022; 100m T63 - Women 2019</li><li>Top finish: 4th – 2019 (100m T63 - Women), 2022 (Banked Slalom - Lower Limb 1 Impaired - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662032/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/lambert_n_bio_1181228.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T63",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721764016/TeamUSA%20Assets/Migration/Athlete%20Profiles/Noelle%20Lambert/Lambert_N_thumbnail_1181228.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721764016/TeamUSA%20Assets/Migration/Athlete%20Profiles/Noelle%20Lambert/Lambert_N_thumbnail_1181228.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noelle Lambert"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Rich",
+      "last_name": "Lambourne",
+      "bio": {
+        "height": "6'3  (190cm)\"",
+        "birthday": "1975-05-06T00:00:00",
+        "hometown": {
+          "city": "Tustin",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7489,
+          "longitude": -117.8217
+        },
+        "education": "Foothill High School (Tustin, Calif.) BYU",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born  Richard Edward Lambourne in 1975 in Louisville, Ky</li><li>Parents are Paul and Ann Lambourne</li><li>Has one brother, Stuart,  and two sisters, Gwen and Tracy</li><li>Enjoys golf, beach volleyball and tennis</li><li>Majored in Japanese at BYU</li><li>Appeared on the Bonnie Hunt Show after winning the gold medal at the 2008 Olympic Games in Beijing</li><li>Was badly injured during a bike accident when he was 6. He skinned his shoulder  to the bone and mangled the right side of his face. Says of the accident,  &quot;I could have been much uglier but due to my loving parents and medical  science, I am only mostly unattractive&quot;</li><li>Lists his mom as his most admired person because of her  &quot;strength of character, conviction and faith&quot;</li><li>Says he is  &quot;super sarcastic.&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>MAJOR  INTERNATIONAL EXPERIENCE  2012 –: Olympic Games</li>\r\n                            <li>MAJOR  INTERNATIONAL EXPERIENCE  2012 –: FIVB World  League (Silver Medal)</li>\r\n                            <li>MAJOR  INTERNATIONAL EXPERIENCE  2012 –: NORCECA Olympic Qualification Tournament (Gold Medal).</li>\r\n                            <li>2012: – Started all 97 sets in which the top U.S. Men’s National Team  competed in 2012. Led team in digs with 144 (1.48 per set)</li>\r\n                            <li>2012: Played in all 21  sets of the Olympic Games. Credited with 31 digs and 86 excellent receptions.  Finished seventh among all diggers and eighth among all liberos</li>\r\n                            <li>2012: Played in all  60 World League sets. Finished with a total of 75 digs (1.25 digs per set).  Finished pool play fourth among all liberos. Was fourth in digs during pool  play with an average of 2.02 per set</li>\r\n                            <li>2012: Played in 16 sets of the NORCECA  Olympic Qualifier where the U.S. men won gold</li>\r\n                            <li>2012: Led the team in digs with 38  (2.38 digs per set).</li>\r\n                            <li>2011: FIVB  World Cup</li>\r\n                            <li>2011: NORCECA Men&#39;s Continental Championship (Silver Medal)</li>\r\n                            <li>2011: FIVB  World League.</li>\r\n                            <li>2011: – Finished  the season as the team’s leading digger with 180 in 107 sets played (1.68 digs  per set)</li>\r\n                            <li>2011: Competed in 31 sets of the FIVB World Cup and finished as the team’s  leading digger and seventh overall with 61 digs</li>\r\n                            <li>2011: Played in all 18 sets of the  NORCECA Championship in Mayaguez, Puerto Rico where the U.S. Men finished  second to Cuba. Credited with 97 receptions and 27 digs</li>\r\n                            <li>2011: . Played in all 58  sets of the 2011 FIVB World League where the U.S. Men advanced to the Final Round  and finished seventh. Finished pool play ranked third among all liberos. Led  the team in digs in pool play with 132 in 214 attempts and an average of 2.93  per set</li>\r\n                            <li>2011: . In the Final Round, led the team in digs with 45 in 13 sets for an  average of 3.46 per set</li>\r\n                            <li>2011: He had 146 receptions on 248 attempts in pool  play</li>\r\n                            <li>2011: In the final round, Rich had 42 receptions for an average of 3.23 per  set. Rich joined Fart Kielce in Poland in the winter of 2011.</li>\r\n                            <li>2010: FIVB  World Championship</li>\r\n                            <li>2010: FIVB World League.</li>\r\n                            <li>2010: – Finished 2010 having played  in 80 sets for the U.S. Men. He finished with 114 digs (1.42 digs per set). He  was also credited with one point on a kill</li>\r\n                            <li>2010: Rich started all 33 of the United  States&#39; sets at the FIVB World Championship in Italy where the U.S. Men  finished sixth. Rich finished fifth among all liberos with 199  &quot;excellents&quot; and 39 faults for an average of 6.03 per set. Rich was  the U.S. Men&#39;s leading digger and sixth overall with 76 digs and 30 faults on  115 attempts for an average of 2.30 per set. He was also the team&#39;s leading  receiver and ninth overall with 123 excellents and nine faults on 192 attempts  for an efficiency percentage of 59.38</li>\r\n                            <li>2010: Rich played in 45 sets over the course  of the FIVB World League Intercontinental Round and led the team with 64 digs  (1.31 per set). He also ranked 11th amongst the League&#39;s best in both digs and  liberos, where he tallied 150 &quot;excellents&quot;. He averaged 3.06  &quot;excellents&quot; per set.</li>\r\n                            <li>2009: – NORCECA Continental Championship (Silver Medal)</li>\r\n                            <li>2009: Brazil  Tour</li>\r\n                            <li>2009: 2010 FIVB World Championship Qualifier for NORCECA Group F (Gold  Medal)</li>\r\n                            <li>2009: – Finished  the season with 137 digs in 71 sets for an average of 1.93 digs per set</li>\r\n                            <li>2009: . Joined  the U.S. Team for the Brazil Tour in which they played five exhibition matches  in Brazil</li>\r\n                            <li>2009: Was the United States&#39; best digger and second overall at the  NORCECA Continental Championship. Credited with 40 digs (2.35 per set) and 23  faults on 85 attempts. Ranked the third-best libero overall</li>\r\n                            <li>2009: Helped the U.S.  win the 2010 FIVB World Championship Qualifier on Aug. 15-17 in Irvine, Calif.  Won Best Digger (0.89 digs per set), Best Receiver (23 excellents and no faults  in 29 attempts) and Best Libero (31 excellents and four faults in 64 attempts)</li>\r\n                            <li>2009: Was the United States’ starting libero in every match but one of the 2009 FIVB  World League</li>\r\n                            <li>2009: Averaged 1.84 digs per set in pool play and had 94 excellent receptions  on 294 attempts. Fourth among liberos in the final round with 24 “excellents”  on 48 attempts and an average of four per set.</li>\r\n                            <li>2008: –  America&#39;s Cup</li>\r\n                            <li>2008: Olympic Games (Gold Medal)</li>\r\n                            <li>2008: FIVB World League (Gold  Medal)</li>\r\n                            <li>2008: Four Nations&#39; Tournament (Gold Medal)</li>\r\n                            <li>2008: NORCECA Continental Olympic  Qualifying Championship (Gold Medal).</li>\r\n                            <li>2008: – Played with the U.S. Men&#39;s  Team that finished fifth at the America&#39;s Cup in Brazil</li>\r\n                            <li>2008: Played in every set  of the Olympic Games and helped the U.S. Men to the gold medal. He was credited  with 64 digs and 147 &quot;excellent&quot; service receptions on 230 total  attempts for a success percentage of 63.91</li>\r\n                            <li>2008: Played in every set of the FIVB  World League and was named best libero of the final round as the U.S. Men won  their first World League title. Finished the final round with 45 digs and 25  faults in 74 total attempts for an average of three digs per set. He was also  credited with 76 &quot;excellent&quot; receptions on 131 attempts for an  efficiency percentage of 55</li>\r\n                            <li>2008: Played in all 15 sets for the U.S. Men at the NORCECA  Olympic Qualifier as Team USA won and qualified for the 2008 Olympic Games. Credited  with 59 receptions and 29 digs. He was named Best Libero and Best Receiver of  the tournament.</li>\r\n                            <li>2007: – FIVB World Cup</li>\r\n                            <li>2007: NORCECA Continental Championship (Gold  Medal)</li>\r\n                            <li>2007: Americas&#39; Cup (Gold Medal)</li>\r\n                            <li>2007: Pan American Games (Silver Medal)</li>\r\n                            <li>2007: FIVB World League (Bronze Medal).</li>\r\n                            <li>2007: – Played  in 147 sets for the U.S. Men, which was every set played in the season. He  finished the year with 337 digs, averaging 2.29 digs per set</li>\r\n                            <li>2007: Ranked fourth  among all liberos at the 2007 World Cup, finishing with 229  &quot;excellent&quot; receptions in 369 attempts for a success percentage of  59.62</li>\r\n                            <li>2007: Third best digger of the NORCECA Continental Championship with 25  digs, 22 receptions and six faults in 53 attempts</li>\r\n                            <li>2007: Named the Best Libero of  the 2007 World League. He finished the final round with an average of 1.79 digs  per set and 42 &quot;excellent&quot; serve receptions out of 87 attempts. Finished  second among all World League &quot;serve receivers&quot; in pool play with a  65.47 efficiency percentage.</li>\r\n                            <li>2006: – FIVB  World Championships</li>\r\n                            <li>2006: Pan American Cup (Gold Medal)</li>\r\n                            <li>2006: Argentina Tour.</li>\r\n                            <li>2006: – Was  the starting libero for all U.S. matches in 2006 and played 119 sets</li>\r\n                            <li>2006: Led the  team in digs with 264</li>\r\n                            <li>2006: Helped the team remain undefeated (4-0) during the  inaugural Pan American Cup in June and was named the tournament&#39;s best  digger</li>\r\n                            <li>2006: Played on the Argentina tour when the team went 4-1.</li>\r\n                            <li>2005: –  Pacific Northwest Tour vs. Netherlands</li>\r\n                            <li>2005: USOC International Sports  Invitational (Silver Medal)</li>\r\n                            <li>2005: FIVB World Championship Qualifying Tournament (Gold Medal)</li>\r\n                            <li>2005: NORCECA  Continental Championships (Gold Medal)</li>\r\n                            <li>2005: World Grand Champions Cup (Silver  Medal).</li>\r\n                            <li>2005: – Was the team&#39;s starting  libero all season</li>\r\n                            <li>2005: Played every set of every match (119 sets overall) and led  the team in digs with 283</li>\r\n                            <li>2005: Rich capped the 2005 season as a member of the USA  squad that captured the silver medal at the FIVB World Grand Champions Cup in  November in Japan</li>\r\n                            <li>2005: The Americans, who lost to defending Olympic gold medalist  Brazil in the first match of the tournament, lost just one set the rest of the  way as they defeated Japan (3-1), 2004 Olympic silver medalist Italy (3-0),  Egypt (3-0) and China (3-0) en route to their fifth medal in five events this  season</li>\r\n                            <li>2005: Earned &quot;Best Libero&quot; honors as the USA Men stunned the  world&#39;s best team when it defeated 2004 Olympic gold medalist Brazil in five  sets to win the America&#39;s Cup tournament in Brazil on Aug. 7</li>\r\n                            <li>2005: Earned a gold  medal as Team USA won its second-straight NORCECA Continental Championship with  a four-set victory over Cuba on Sept. 15</li>\r\n                            <li>2005: The USA Men qualified for the FIVB  World Grand Champions Cup with the win</li>\r\n                            <li>2005: Named &quot;Best Receiver&quot; and  earned a gold medal in August at the FIVB World Championship Qualifying  Tournament as the USA Men qualified for the 2006 World Championships.</li>\r\n                            <li>2004: – Was one of six alternates for  the 2004 USA Men&#39;s Olympic Volleyball Team.</li>\r\n                            <li>2003: –  Colorado/Nebraska Tour</li>\r\n                            <li>2003: Canada Tour</li>\r\n                            <li>2003: Japan Tour (Training Team)</li>\r\n                            <li>2003: NORCECA  Zone Championships (Gold Medal).</li>\r\n                            <li>2003: – Started for the United  States in the NORCECA Zone Championships in Mexico as Team USA captured the  gold medal and a berth in the 2003 World Cup, the first Olympic qualifier.</li>\r\n                            <li>2002: – Louisville  Tour.</li>\r\n                            <li>2002: – Competed with teammate Erik  Sullivan for the starting libero position</li>\r\n                            <li>2002: Played in just one tour during the  year (Louisville Tour vs. Australia and Canada)</li>\r\n                            <li>2002: Played in 29 totals sets  during the year and racked up 76 digs (2.62 per set).</li>\r\n                            <li>2001: - Japan  Tour</li>\r\n                            <li>2001: NORCECA Zone Championships.</li>\r\n                            <li>2001: –&#160; Captured the Best Digger award at the NORCECA  Zone Championships in August as the U.S. earned the silver medal</li>\r\n                            <li>2001: Finished  third on the team in digs with 102</li>\r\n                            <li>2001: Played professionally with the Vienna  HotVolleys in Austria after the National Team season ended.</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, 5th (Team - Men)</li><li>Olympic Games Beijing 2008, gold (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2010 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2006, 2010</li><li>Top finish: 6th – 2010 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346403/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rich%20Lambourne/Web-Rich-Lambourne.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rich Lambourne"
+        }
+      ]
+    },
+    {
+      "first_name": "Jocelyne",
+      "last_name": "Lamoureux-Davidson",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1989-07-03T00:00:00",
+        "hometown": {
+          "city": "Grand Forks",
+          "state": "ND",
+          "country": "United States",
+          "latitude": 47.92526,
+          "longitude": -97.03285
+        },
+        "education": "Shattuck-St. Mary's School (Faribault, Minn.) University of North Dakota ‘13, Physical Education",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jean-Pierre and Linda Lamoureux</li><li>Has four brothers, Jean-Philippe, Jacques, Pierre-Paul and Mario, and a twin sister, Monique, who is also a member of Team USA</li><li>Father, Jean-Pierre, played hockey for North Dakota (1979-82)</li><li>Currently pursuing her master’s degree in kinesiology</li><li>Hobbies include soccer and golf.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li><li>Olympic Games Sochi 2014, silver (Team - Women)</li><li>Olympic Games Vancouver 2010, silver (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (Team - Women)</li><li>Years of participation: Team - Women 2009, 2011, 2012, 2013, 2015, 2016, 2017</li><li>Medals: 7 (6 gold, 1 silver)</li><ul><li>Gold – 2017 (Team - Women);  2016 (Team - Women);  2015 (Team - Women);  2013 (Team - Women);  2011 (Team - Women);  2009 (Team - Women)</li><li>Silver – 2012 (Team - Women)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717876/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jocelyne%20Lamoureux-Davidson%20860103/lamoureux_jocelyne_1200x300_2.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717877/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jocelyne%20Lamoureux-Davidson%20860103/lamoureux_jocelyne_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jocelyne Lamoureux-Davidson 860103"
+        }
+      ]
+    },
+    {
+      "first_name": "Monique",
+      "last_name": "Lamoureux-Morando",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1989-07-03T00:00:00",
+        "hometown": {
+          "city": "Grand Forks",
+          "state": "ND",
+          "country": "United States",
+          "latitude": 47.92526,
+          "longitude": -97.03285
+        },
+        "education": "Shattuck-St. Mary's School (Faribault, Minn.) ‘08 University of North Dakota ’13, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jean-Pierre and Linda Lamoureux</li><li>Has four brothers, Jean-Philippe, Jacques, Pierre-Paul and Mario, and a twin sister, Jocelyne, who is also a member of Team USA</li><li>Father, Jean-Pierre, played hockey for North Dakota (1979-82)</li><li>Also enjoys soccer.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Helped the Boston Blades of the CWHL earn the 2015 Clarkson Cup</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li><li>Olympic Games Sochi 2014, silver (Team - Women)</li><li>Olympic Games Vancouver 2010, silver (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (Team - Women)</li><li>Years of participation: Team - Women 2009, 2011, 2012, 2013, 2015, 2016, 2017</li><li>Medals: 7 (6 gold, 1 silver)</li><ul><li>Gold – 2017 (Team - Women);  2016 (Team - Women);  2015 (Team - Women);  2013 (Team - Women);  2011 (Team - Women);  2009 (Team - Women)</li><li>Silver – 2012 (Team - Women)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717901/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monique%20Lamoureux-Morando%20835623/Lamoureux-Morando_Monique_040717_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717903/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monique%20Lamoureux-Morando%20835623/lamoureux_monique_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Monique Lamoureux-Morando 835623"
+        }
+      ]
+    },
+    {
+      "first_name": "Kendra",
+      "last_name": "Lancaster",
+      "bio": {
+        "height": "5’7”",
+        "birthday": "1987-07-02T00:00:00",
+        "hometown": {
+          "city": "Westfield",
+          "state": "IN",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Westfield Washington High School (Indiana) Purdue University (BA in animal sciences; MA in youth development and agricultural education)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born Kendra Lynn Lancaster in 1987, in Indianapolis, Ind</li><li>Parents are Kent and Karen Lancaster</li><li>Has one sister, Kelsie</li><li>Married to Ben Hall</li><li>Born without a left arm</li><li>Played standing volleyball, soccer and basketball while growing up</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Served as team captain as the U.S. Women won the silver medal at the 2012 Paralympic Games in London</li>\r\n                            <li>Helped U.S. Women to 4-0 record and a gold medal at the 2012 Volleyball Masters in The Netherlands</li>\r\n                            <li>Missed much of the 2011 season after being seriously injured in a car accident in May</li>\r\n                            <li>Appeared in 24 sets at the 2010 Sitting Volleyball World Championships where she tallied 12 service aces, 0.50 per set, good enough for fourth place among the U.S. Women</li>\r\n                            <li>Was 17 when she won a bronze medal in sitting volleyball at the 2014 Paralympic Games in Athens</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (2 silver, 1 bronze)</li><ul><li>Paralympic Games London 2012, silver (Team - Women)</li><li>Paralympic Games Beijing 2008, silver (Team - Women)</li><li>Paralympic Games Athens 2004, bronze (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>2010 World Championship (Silver medal)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346509/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kendra%20Lancaster/Kendra-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendra Lancaster"
+        }
+      ]
+    },
+    {
+      "first_name": "Austin",
+      "last_name": "Landis",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1991-07-21T00:00:00",
+        "hometown": {
+          "city": "Corvallis",
+          "state": "MT",
+          "country": "United States",
+          "latitude": 46.3685,
+          "longitude": -114.0957
+        },
+        "education": " Belmont University",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>HEIGHT</strong> 6'1\"<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t\t</span><strong>WEIGHT</strong> 231 lbs</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Follow Landis on Twitter and Instagram @austinraylandis and on Facebook by searching \"Austin Landis\"!</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Austin Landis was born in Hamilton, Mont. on&nbsp;Sunday, July 21, 1991. The native of Corvallis, Mont. participated in football, soccer, basketball and track and field while in high school. Upon graduation, he attended Belmont University, where he was a member of the track and field team. Landis obtained his degree in management information systems.</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Landis was first introduced to the sport of bobsled by his father,&nbsp;Mike Maniscalco.</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br>\n</span></p>\n<span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>FUN FACTS</strong>\n</span>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br>\n</span>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He&nbsp;gained 40 pounds in a semester.&nbsp;</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He had a football injury in ninth grade that almost ended his athletic career.&nbsp;</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He could eat sushi everyday.\n</span>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br>\n</span></p>\n<p><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">CAREER HIGHLIGHTS</span></strong></p>\n<p style=\"color: #141414; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;\"><span><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">World Championship Highlights:</span></strong></span></p>\n<ul>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2017 Four-Man with pilot Justin Olsen - </strong>11th in Koenigssee (2/17)</span></li>\n</ul>\n<p style=\"color: #141414; margin: 0px;\"><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br>\n</span></p>\n<p style=\"color: #141414; margin: 0px;\"><span style=\"font-family: 'times new roman';\"><strong><span style=\"font-size: 18px;\">World Cup Highlights:</span></strong></span></p>\n<ul>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2016-2017 Four-Man for pilot Justin Olsen -&nbsp;</strong>12th in Lake Placid (12/16); 18th in Winterberg (1/17); 19th in St. Moritz (1/17); 26th in Koenigssee (1/17); 21st in Igls (2/17)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2016-2017 Two-Man with pilot Justin Olsen -&nbsp;</strong>23rd in St. Moritz (1/17)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2015-2016 Two-Man with pilot Codie Bascue -</strong>&nbsp;13th in Park City #1 (1/16)</span></li>\n</ul>\n<p style=\"color: #141414; margin: 0px;\"><span style=\"font-family: 'times new roman';\"><strong><span style=\"font-size: 18px;\">&nbsp;</span></strong></span></p>\n<p style=\"color: #141414; margin: 0px;\"><span style=\"font-family: 'times new roman';\"><strong><span style=\"font-size: 18px;\">North America's Cup Highlights:</span></strong></span></p>\n<ul>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2016-2017 Four-Man for pilot Justin Olsen -</strong>&nbsp;BRONZE in Calgary #1 (11/16); SILVER in Calgary #2 (11/16); 15th in PyeongChang (3/17)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2016-2017 Two-Man with pilot Justin Olsen -</strong>&nbsp;BRONZE in Calgary #1 (11/16)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2015-2016 Four-Man for pilot Dakarai Kongela&nbsp;-</strong>&nbsp;4th in Park City #1 (2/16); BRONZE in Park City #2 (2/16)<br>\n    </span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2015-2016 Two-Man with pilot Dakarai Kongela&nbsp;-</strong>&nbsp;9th in Calgary #1 (11/15); 5th in Whistler #1 (11/15); 6th in Park City #2 (2/16)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2</strong><strong style=\"font-weight: bold;\">015-2016 Four-Man for pilot Geoff Gadbois -&nbsp;</strong>9th in Calgary #1 (11/15); 8th in Calgary #2 (11/15); 8th in Calgary #3 (11/15)<br>\n    </span></li>\n</ul>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 11th (4-Man Competition - Open)</li><li>Years of participation: 4-Man Competition - Open 2017</li><li>Top finish: 11th – 2017 (4-Man Competition - Open)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717949/TeamUSA%20Assets/Migration/Athlete%20Profiles/Austin%20Landis%20865123/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717950/TeamUSA%20Assets/Migration/Athlete%20Profiles/Austin%20Landis%20865123/Landis.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Austin Landis 865123"
+        }
+      ]
+    },
+    {
+      "first_name": "Hagan",
+      "last_name": "Landry",
+      "bio": {
+        "height": "4'10\"",
+        "birthday": "1994-07-14T00:00:00",
+        "hometown": {
+          "city": "Delcambre",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 29.9705,
+          "longitude": -91.9804
+        },
+        "education": "Delcambre High School (Delcambre, La.) ‘14 Louisiana State University, Human Movement Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Shan Pearson and Robert Landry</li><li>Has two siblings, Brennan and Sarah</li><li>Began competing in Paralympic track and field in 2013</li><li>Hobbies include hunting, fishing and hanging out with family</li><li>Left LSU to pursue track and field and move to the Chula Vista Elite Athlete Center</li><li>Enjoys traveling the world, learning new languages and experiencing different cultures.</li></ul><h5>Career Highlights</h5><ul><li>2019 Arizona Grand Prix, gold (shot put)</li><li>2018 Berlin Grand Prix, silver (shot put)</li><li>2018 Arizona Grand Prix, gold (shot put)</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Tokyo 2020, silver (Shot Put F41 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Shot Put F41 - Men), 6th (Javelin Throw F41 - Men)</li><li>Years of participation: Javelin Throw F41 - Men 2023; Shot Put F41 - Men 2019, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Shot Put F41 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "F41",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006447/TeamUSA%20Assets/Athlete%20Profiles/Hagan%20Landry%20921808/Landry_Hagan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hagan Landry 921808"
+        }
+      ]
+    },
+    {
+      "first_name": "Bailey",
+      "last_name": "Landry",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1995-09-25T00:00:00",
+        "hometown": {
+          "city": "Prairieville",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 30.3013,
+          "longitude": -90.9698
+        },
+        "education": "Louisiana State University",
+        "fun_fact": null,
+        "biography": "<p><span><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?h=100&amp;w=100&amp;la=en&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\">  <img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?h=100&amp;w=100&amp;la=en&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\"># 26<br>\nHeight: 5'8\"<br>\nPosition: Outfield<br>\nB/T: L/R<br>\nHometown: Prairieville, La.<br>\nSchool: LSU<br>\nGraduation: 2017</span></p>\n<p><strong><span><img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/WNT-Gallery/Bailey-Landry/Landry4.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=BAB28912BC31EB0F26137AEB3CB3DE99AD35B5AA\" ></span></strong></p>\n<span><strong><span>EXPERIENCE</span></strong><br>\n<span><strong>2016 Women's Elite Team Member</strong></span><br>\n<span>- World Cup of Softball participant</span><br>\n<span>&nbsp; - Hit .750 (6-for-8) with five runs scored</span><br>\n<br>\n<span><strong><span>AT LSU</span></strong><br>\n<span>2016 USA Softball Collegiate National Player of the Year Top 50 Watch List<br>\n2016 NFCA All-South Region Second Team<br>\n2016 NCAA All-Baton Rouge Regional Team<br>\n2016 LSWA All-Louisiana Second Team</span><br>\n<span>2015 SEC Co-Player of the Week</span><br>\n<span>2015 Second Team All-SEC</span><br>\n<span>2015 NFCA All-South Region First Team</span><br>\n<span>2015 NCAA All-Baton Rouge Regional Team</span><br>\n<span>2015 NCAA All-Baton Rouge Super Regional Team</span><br>\n<span>2015 NFCA All-American Second Team</span><br>\n<span>2015 LSWA All-Louisiana First Team</span><br>\n<span>2014 SEC All-Freshman Team</span><br>\n<span>2014 SEC All-Tournament Team</span><br>\n<span>2014 LSWA All-Louisiana Honorable Mention</span></span><br>\n<div class=\"DataText\"><span><br>\n</span></div>\n<span><strong><span>GETTING TO KNOW LANDRY</span></strong><br>\n<strong>Parents: </strong>Darrell and Robin Landry<br>\n<strong>Dream job: </strong>Working with young people<br>\n<strong>Favorite sport besides softball: </strong>Baseball, football, gymnastics<br>\n<strong>What it means to represent the United States: </strong>It means so much because I get to be a part of the standard setting organization/country of softball in the world. I have also looked up to so many who have worn the uniform before and it means the world that I am entrusted to carry on what they started and the opportunities they fought to give the next generation.<br>\n<strong>What she loves about softball: </strong>I enjoy the team atmosphere and having friends so close to you all the time. I also love the competitiveness of the game and how so many different outcomes can happen. I enjoy the late, close games when everyone is pouring their hearts out to try to win it. Also, the ways it has helped myself and those around me grow as strong women.<br>\n<br>\n<strong><span>FUN FACTS:</span></strong><br>\n<strong>My favorite activities include: </strong>Reading, learning, photography, traveling, fishing and being outdoors<br>\n<strong>My favorite meal or snack: </strong>My dads boiled crawfish!<br>\n<strong>My cellphone wallpaper is: </strong>Create in me a pure heart, Psalms 51:10 with floral designs<br>\n<strong>My favorite music to listen to is:&nbsp;</strong>Country and Christian - it's upbeat and lively and talks about things that matter<br>\n<strong>Best advice I've ever received: </strong>To full trust God, because He works all things for our good<br>\n</span>\n<div id=\"radePasteHelper\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\"></div>\n<div><span><br>\n<strong><span>ONE LAST THING:</span></strong><br>\n<strong>Last gift I bought:&nbsp;</strong>Some candy for a teammates birthday<br>\n<strong>Last home cooked meal:&nbsp;</strong>Boiled crawfish<br>\n<strong>My last splurge:&nbsp;</strong>Had a few extra creamers in my coffee<br>\n<strong>Last guilty pleasure:&nbsp;</strong>A chocolate sprinkled donut<br>\n<strong>Last joke I laughed at:&nbsp;</strong>A \"yo-momma\" joke told by one of my teammates</span></div>\n<div id=\"radePasteHelper\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\"></div>\n<div><br>\n</div>\n</span>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346463/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bailey%20Landry/LandryBailey.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bailey Landry"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Landsteiner",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1990-05-19T00:00:00",
+        "hometown": {
+          "city": "Mapleton",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 43.9583,
+          "longitude": -93.9583
+        },
+        "education": "University of Minnesota Duluth ’13, Civil Engineering",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Currently works as an Integrity Engineer for Lake Superior Consulting</li><li>Married to Kelsey Landsteiner</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Beijing 2022, 4th (Team - Men)</li><li>Olympic Games Pyeongchang 2018, gold (Team - Men)</li><li>Olympic Games Sochi 2014, 9th (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2024 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2015, 2016, 2017, 2019, 2021, 2023, 2024</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2016 (Team - Men)</li></ul></ul><h5>More</h5>USA Curling",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662012/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/J_Landsteiner_bio_817278.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662481/TeamUSA%20Assets/Athlete%20Profiles/John%20Landsteiner%20817278/landsteiner_j_hero_817278.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006542/TeamUSA%20Assets/Athlete%20Profiles/John%20Landsteiner%20817278/Landsteiner_John_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Landsteiner 817278"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    }
+  ]
+}

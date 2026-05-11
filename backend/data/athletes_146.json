@@ -1,0 +1,771 @@
+{
+  "entries": [
+    {
+      "first_name": "Teasia",
+      "last_name": "Stewart",
+      "bio": {
+        "height": "5'4",
+        "birthday": "1997-09-27T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "Clover Hill High School United States Military Academy at West Point/ Johns Hopkins University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Tamara</li><li>Played basketball, volleyball, rugby, and ran track</li><li>Recent West Point graduate working at Johns Hopkins Applied Physics Laboratory</li><li>Studying chemical and biomolecular engineering at Johns Hopkins</li><li>Enjoys eating different foods, experiencing new challenges, and fostering an inclusive space for everyone around her.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021: Named to U.S. Women&#39;s National Team for North American and Caribbean Handball Confederation (NACHC) Women&#39;s Championships</li>\r\n                            <li>2019 USATH Collegiate National Championships – 1st (Chapel Hill, North Carolina)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361598/TeamUSA%20Assets/Migration/Athlete%20Profiles/Teasia%20Stewart/T_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Teasia Stewart"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelsey",
+      "last_name": "Stewart",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1994-08-15T00:00:00",
+        "hometown": {
+          "city": "Wichita",
+          "state": "KS",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Maize High School Florida - 2016",
+        "fun_fact": null,
+        "biography": "<p><span><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\"># 7<br>\nHeight: 5'6\"<br>\nPosition: Utility<br>\nB/T: L/R<br>\nHometown: Wichita, Kan.<br>\nSchool: Florida<br>\nGraduation: 2016</span></p>\n<p><span><strong><span>A FEW ACCOMPLISHMENTS</span></strong><br>\n</span><span>2015 SEC Player of the Year</span><span><br>\n</span><span>Two-time NFCA All-American</span><span><br>\n<span>Two-time NCAA WCWS Champion</span><br>\n<br>\n<span>\nPlayed for Wichita Mutangs</span><br>\n<span>\n- 2012 ASA 18-Under GOLD Nationals -25th place</span><br>\n<span>\n- 2011 ASA 18 -Under GOLD Nationals - 5th place</span><br>\n<span>\n- 2010 ASA 18-Under GOLD Nationals - 17th place</span></span></p>\n<p><span><br>\n</span><img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/WNT-Gallery/Kelsey-Stewart/Stewart8.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=F3EABE4E9735F27CD06AD09A904D52001B289396\"><span><br>\n</span><span>\n<strong><span><br>\n</span></strong></span></p>\n<div><span><strong><span>TEAM USA EXPERIENCE</span></strong><br>\n<strong>2017 Women's National Team Member</strong><br>\n- Pan American Championship Gold Medalist<br>\n<span>\t</span>- Hit .231 (6-26) with seven RBI and 14 runs scored<br>\n- World Cup of Softball XII Silver Medalist<br>\n<span>\t</span>- Hit .474 (9-19) with seven RBI and six runs scored<br>\n<br>\n<strong>2016 Women's National Team Member</strong><br>\n- World Cup of Softball Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .333 (7-for-21) with 7 RBI and 4 runs scored<br>\n- WBSC Women's World Championship Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .440 (11-for-25) with 1 home run, 8 RBI and 10 runs scored<br>\n- Japan Cup Silver Medalist<br>\n<br>\n<strong>2015 Women's National Team Member</strong><br>\n- World Cup of Softball Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .350 (7-for-20) with three RBI, seven runs scored and a .458 on-base percentage<br>\n- Pan American Games Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .263 (5-for-19) with two RBI, four runs scored and a .300 on-base percentage<br>\n- Japan Cup Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .273 (3-for-11) with two RBI and two runs scored<br>\n<br>\n<strong>2014 Women's National Team Member</strong><br>\n- World Cup of Softball Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .231 (3-for-13) with two RBI and six runs scored<br>\n- ISF Women's World Championship Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Led the team with a .500 (12-for-24) average with 11 runs scored, a double and one triple<br>\n<br>\n<strong>2013 Junior Women's National Team Member</strong><br>\n- ISF Junior Women's World Championship Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Hit .450 (9-for-20) with four RBI, three triples and seven runs scored<br>\n<br>\n<strong><span>AT FLORIDA</span><br>\n</strong></span><span>2016 SEC All-Tourament Team<br>\n</span><span>2015 NFCA First Team All-American<br>\n2015 NFCA All-Southeast Region Second Team<br>\n2015 SEC Player of the Year<br>\n2015 All-SEC First Team<br>\n2015 SEC All-Defensive Team<br>\n2015 WCWS All-Tournament Team</span><span><br>\n</span><span>2014 NCAA WCWS All-Tournament Team<br>\n</span><span></span><span>2014 NFCA All-American</span><span><br>\n</span><span></span><span>2014 All-SEC First Team<br>\n</span><span></span><span>2013 SEC All-Freshman Team<br>\n</span><span>2013 SEC All-Tournament Team&nbsp;</span><span>A All-American</span>\n<p><span>\n<strong><span>GETTING TO KNOW STEWART</span></strong><br>\n<span><strong>Parents: </strong>Chris and Lori Stewart</span><br>\n<span><strong>Siblings: </strong>Kendall, Caitlyn</span><br>\n<span><strong>Favorite sport besides softball: </strong>Football</span><br>\n<span><strong>What it means to represent the United States:&nbsp;</strong>To represent the United States softball team it is so much bigger than myself. It is where all the long practicies, missed dances, and sore bodies pay off. it is literally everything, there is nothing like putting USA across your chest</span><br>\n<span><strong>What she loves about softball:</strong>&nbsp;The failure part of the game. Softball loves to tell you that you aren't getting the job done, but you mentally have to get over it and push through. It has prepared me for so much outside of the game</span><br>\n<span><strong>On why she chose to attend Florida: </strong>I chose Florida really because of Coach Walton. I loved every thing about the school and how it felt like a family.</span><br>\n<br>\n<span><strong>TRIPLE PLAY:</strong></span><br>\n<span><strong>Three people I'd love to have dinner with: </strong>Derek Jeter, Trey Songz, Channing Tatum</span><br>\n<span><strong>Three things I love doing: </strong>Dancing, Traveling, Spend time with family</span><br>\n<span><strong>Three favorite movies: </strong>A league of their own, Finding Nemo, Love &amp; Basketball</span><br>\n<span><strong>Three favorite TV shows:&nbsp;</strong>Criminal Minds, Chopped, and ESPN</span><br>\n<span><strong>Three TV characters I wish were real so I could hang out with them: </strong>Timon, Pumba and Olaf</span><br>\n<span><strong>Three favorite things about playing USA Softball: </strong>Representing something bigger then myself, Wearing USA across my chest and the people I get to be around</span><br>\n<span><strong>Three things I must have when I leave the house: </strong>Cell Phone, Wallet, Chapstick</span></span></p>\n<p><span><span><strong>ONE LAST THING</strong><br>\n<strong>Last person I had dinner with:&nbsp;</strong>my best friend<br>\n<strong>Last splurge:&nbsp;</strong>Louis Vuitton bag<br>\n</span><strong>Last home cooked meal:&nbsp;</strong>Chicken and noodles with mashed potatoes<br>\n<strong>Last thing I forgot:&nbsp;</strong>my email password<br>\n</span></p>\n<p><span><strong>FUN FACTS</strong><br>\n<strong>Favorite color:&nbsp;</strong>Blue<br>\n<strong>Favorite Movie:&nbsp;</strong>Love and Basketball<br>\n<strong>Best Advice ever received:&nbsp;</strong>Control the controllables<br>\n<strong>Favorite Cereal:&nbsp;</strong>Honycombs<br>\n<strong>If I could choose anyone to be my mentor, it would be...</strong>Will Smith<br>\n<strong>Three words my friends would use to describe me:&nbsp;</strong>Funny, honest, genuine</span></p>\n</div><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (Team - Women)</li><li>Years of participation: Team - Women 2014, 2016, 2018</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2018 (Team - Women);  2016 (Team - Women)</li><li>Silver – 2014 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009290/TeamUSA%20Assets/Athlete%20Profiles/Kelsey%20Stewart%20828819/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009291/TeamUSA%20Assets/Athlete%20Profiles/Kelsey%20Stewart%20828819/StewartKelsey-Stewart.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelsey Stewart 828819"
+        }
+      ]
+    },
+    {
+      "first_name": "Breanna",
+      "last_name": "Stewart",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1994-08-27T00:00:00",
+        "hometown": {
+          "city": "North Syracuse",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.1095,
+          "longitude": -76.1402
+        },
+        "education": "University of Connecticut",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><ul><li>Daughter of Brian and Heather Stewart</li><li>Has one brother, Connor</li><li>Nickname is “Stewie\"</li><li><p>Married 2016 Olympic silver medalist (basketball) from Spain, Marta Xargay</p></li><li>Has two children; Ruby and Theo</li><li>Two-time NCAA National Player of the Year (2014-15)</li><li>Became the first woman to earn four NCAA Final Four Most Outstanding Player honors and only the fourth freshman in history to earn the honor</li><li>Is the only athlete, male or female, to win four Naismith Trophies, having won three in college and one in high school</li><li>Is one of 11 athletes who have earned Olympic gold, FIBA World Cup gold, WNBA and NCAA championships</li><li>Earned MVP honors at the 2018 FIBA World Cup</li><li>Three-time USA Basketball Female Athlete of the Year.</li></ul></li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – gold</li><li>Years of Participation: 2014, 2018</li><li>Medals: 2 (2 golds)</li><li>Gold – 2018; 2014</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712536001/TeamUSA%20Assets/Media%20Summit%20Athletes/Breanna%20Stewart/Stewart_Breanna_GettyLA.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697153757/TeamUSA%20Assets/Athlete%20Profiles/Breanna%20Stewart%20816374/stewart_b_hero_874690.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009406/TeamUSA%20Assets/Athlete%20Profiles/Breanna%20Stewart%20816374/Stewart_Breanna.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Breanna Stewart 816374"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Ray",
+      "last_name": "Stewart II",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1989-04-05T00:00:00",
+        "hometown": {
+          "city": "Oakland",
+          "state": "AR",
+          "country": "United States",
+          "latitude": 36.3923,
+          "longitude": -92.4085
+        },
+        "education": "University of California, Berkeley",
+        "fun_fact": "",
+        "biography": "<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n<strong>\n</strong>\n<br>\n\n<div>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2015 USATF Outdoor Championships, 7th (100-meter hurdles)</li>\n    <li>2014 USATF Indoor Championships, 7th (110-meter hurdles)</li>\n    <li>2013 Pac-12 Outdoor Championships, 1st (110-meter hurdles), 5th (4x100-meter)</li>\n    <li>2013 NCAA Indoor Championships, 8th (60-meter hurdles)</li>\n    <li>2013 Pac-10 Championships, 1st (110-meter hurdles)</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Tamas and Darlene Stewart</li><li>Has two sisters, Bianca and Briana</li><li>Lettered in football, basketball, and track and field at James Logan High School.</li><li>Competed at Merritt College before transferring to University of California, Berkeley</li><li>Began competing in track at age 13.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ray Stewart II"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Resi",
+      "last_name": "Stiegler",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1985-11-14T00:00:00",
+        "hometown": {
+          "city": "Jackson Hole",
+          "state": "WY",
+          "country": "United States",
+          "latitude": 43.5833,
+          "longitude": -110.6667
+        },
+        "education": "Winter Sports School (Park City, Utah) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Carrie and Pepi</li><li>Father, Pepi is an Austrian Olympic medalist in alpine skiing</li><li>Younger brother, Seppi, also skis</li><li>Started skiing at age 2</li><li>Enjoys photography, hiking, surfing and windsurfing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2007 FIS World Cup Standings, 5th (combined)</li>\r\n                            <li>2005 FIS World Cup Standings, 8th (combined)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018,  (Slalom - Women), 36th (Giant Slalom - Women)</li><li>Olympic Games Sochi 2014,  (Slalom - Women), 29th (Giant Slalom - Women)</li><li>Olympic Games Turin 2006, 11th (Combination - Women), 12th (Slalom - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 –  (Giant Slalom - Women), 9th (Team - Mixed), 11th (Slalom - Women)</li><li>Years of participation: Giant Slalom - Women 2007, 2017; Slalom - Women 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017; Team - Mixed 2007, 2017; Super Combined - Women 2007; Combination - Women 2003, 2005</li><li>Top finish:  – 2007 (Super Combined - Women), 2015 (Slalom - Women), 2017 (Giant Slalom - Women)</li></ul><h5>More</h5><p>Personal Website</p>\n<p>U.S. Ski &amp; Snowboard</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009226/TeamUSA%20Assets/Athlete%20Profiles/Resi%20Stiegler%20798438/stiegler_resi_031916_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009227/TeamUSA%20Assets/Athlete%20Profiles/Resi%20Stiegler%20798438/stiegler_resi_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Resi Stiegler 798438"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Stitt",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1981-09-28T00:00:00",
+        "hometown": {
+          "city": "McLean",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9333,
+          "longitude": -77.1667
+        },
+        "education": "Rutgers University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n<strong>\n\n</strong><div><br>\n<br>\n</div>\n<div>\n<p><h5>Olympic Experience</h5></p>\n<ul>\n    <li>Beijing 2008 Olympic Games, 5th (Quadruple sculls)</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Elizabeth and David Stitt</li><li>Brother of Rachel Santino</li><li>Considers qualifying for the U.S. National Rowing Team in 2005 to be his most memorable sporting achievement</li><li>Hobbies include surfing and playing video games.</li></ul><br>\n</p>\n<p><h5>More</h5>USRowing&nbsp;<br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361763/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sam%20Stitt/Rowing_Stitt_Sam.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Stitt"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Stoa",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1987-04-13T00:00:00",
+        "hometown": {
+          "city": "Bloomington",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.8404,
+          "longitude": -93.3122
+        },
+        "education": "Bloomington Kennedy High School (Bloomington, Minn.) University of Minnesota",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married to Clare</li><li>Drafted 34th overall by the Colorado Avalanche in the 2005 NHL Draft</li><li>Hobbies include fishing and hunting.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Tied for highest scoring rookie in the AHL with 23 goals in 2010</li>\r\n                            <li>2007 IIHF World Junior Championship, bronze</li>\r\n                            <li>2005 IIHF U18 World Championship, gold</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719080/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Stoa%201086740/Stoa_Ryan_081206_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719081/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Stoa%201086740/stoa_ryan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Stoa 1086740"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Stockman",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1988-06-06T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "Doherty High School (Colo.) Wichita State, '09 exercise science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Graduated from Wichita State in 2009 with a degree in exercise science</li><li>Works as a personal trainer in Hermosa Beach</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Won gold at 2017 FIVB Langkawi 1-Star with Kimberly DiCello</li>\r\n                            <li>Two-time All-American at Wichita State</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW?</li>\r\n                            <li>Played in two 2019 FIVB World Tour events with Kelley Larsen. Best finish was 5th at Las Vegas four-star</li>\r\n                            <li>Placed third with Kelley Larsen at the 2018 NORCECA Tour event in Boca Chica, DR</li>\r\n                            <li>Played nine 2018 FIVB World Tour events with Kelley Larsen, won the one-star in Thailand and placed 3rd at three-star in Lucerne. Placed fifth at five-stars in Gstaad and Vienna</li>\r\n                            <li>Paired with Kelley Larsen in March 2018 and won the FIVB one-star in Thailand in their first tournament together</li>\r\n                            <li>Won gold at 2017 FIVB Langkawi 1-Star with DiCello, their first FIVB gold and became the first team in &#39;17 to collect two Top 5 finishes</li>\r\n                            <li>In 2017, had one second and one third place finish on the AVP Tour</li>\r\n                            <li>Made her FIVB World Tour debut in 2014, finishing ninth; had a then career-best finish of fifth in 2016 in Brazil, beating the 2015 World Champions of Brazil in the process</li>\r\n                            <li>Won the 2016 NORCECA St. Lucia event with Caitlin Ledoux, marking her first career gold</li>\r\n                            <li>From 2013-16 on the NORCECA Tour, has one gold and two bronze medals</li>\r\n                            <li>Made her international debut in 2013 on the NORCECA Continental Tour</li>\r\n                            <li>Has played consistently on the AVP Tour since 2013; between 2013-16 earned two bronze medals and nine Top 5 finishes</li>\r\n                            <li>Made her professional beach debut in 2009 at the domestic AVP Manhattan Beach Open</li>\r\n                            <li>Played professionally indoors in France, Finland, Sweden and Switzerland following college</li>\r\n                            <li>Inducted into the Wichita State Sports Hall of Fame in 2016</li>\r\n                            <li>Transferred to Wichita State for her sophomore through senior years (07-09), was a two-time All-American for the Shockers and the 2008 Missouri Valley Conference Player of the Year</li>\r\n                            <li>Played her freshman collegiate season at Winthrop, where they advanced to the NCAA Tournament in 2007</li>\r\n                            <li>Member of the 2005 Junior Olympic All-Tournament team</li>\r\n                            <li>Played volleyball, basketball, tennis and track and field in high school; finished eighth at the state high jump</li>\r\n                    </ul><h5>More</h5>View Emily Stockman's full career results at bvbinfo<h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 17th (Team - Women)</li><li>Years of participation: Team - Women 2019, 2022</li><li>Top finish: 17th – 2019 (Team - Women), 2022 (Team - Women)</li></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361475/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Stockman/2019-Emily-Stockman.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Stockman"
+        }
+      ]
+    },
+    {
+      "first_name": "Melissa",
+      "last_name": "Stockwell",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1980-01-31T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": " University of Colorado",
+        "fun_fact": null,
+        "biography": "<p></p><h5>Quick Facts</h5><p></p><p>After graduating from the University of Colorado at Boulder in 2002, Melissa Stockwell was commissioned as a Second Lieutenant in the United States Army’s transportation corps. One month after being deployed to Iraq, in April 2004, she became the first female American soldier in history to lose a limb in active combat after her vehicle was hit by a roadside bomb. She was later honored with a Purple Heart and a Bronze Star for her service. Four years later, she became the first Iraq War veteran to qualify for the Paralympic Games, competing in swimming at the Beijing 2008 Paralympics. She was selected to be the flag bearer for Team USA at the Beijing closing ceremonies.</p><p>After Beijing, Stockwell shifted her focus to triathlon because she enjoyed the variety that it gave her.&nbsp; She made her elite ITU debut in 2009, and went on to earn three consecutive world titles from 2010-2012. In 2016, she earned a spot on the inaugural U.S. paratriathlon team for the 2016 Paralympic Games in Rio, which featured the sport as a medal event for the first time. She earned a bronze medal in the PTS2 category, sharing the podium as part of a U.S. sweep with silver medalist Hailey Danz and gold medalist Allysa Seely. She also competed in the Tokyo 2020 Paralympic Games and finished fifth overall.&nbsp;</p><p>Stockwell is a co-founder of the Chicago-based Dare2tri Paratriathlon Club with Keri Serota and Dan Tun. She is a USA Triathlon Level I certified coach, and serves as a mentor and friend to her fellow Dare2tri athletes as they train and compete. She also serves on the board of directors for the Wounded Warriors Project and the USA Triathlon Women’s Committee. She is also a member of the USA Triathlon Foundation Board of Trustees<strong>.</strong>&nbsp;She is a licensed prosthetist but is currently training for triathlon full-time at the U.S. Olympic &amp; Paralympic Training Center in Colorado Springs, Colorado. One of her pre-race rituals is that she always has to eat gummy worms the night before a race. She is married to Brian Tolsma and has two children, Dallas and Millie.&nbsp;</p><p></p><h5>Career Highlights</h5><p>2016 Paralympic Bronze Medalist, Paratriathlon<br>Three-time ITU Paratriathlon World Champion (2012, 2011, 2010)<br>12-time World Paratriathlon Event medalist (4 golds, 6 silvers, 2 bronzes)<br>Four-time USA Paratriathlon National Champion (2018, 2013, 2012, 2011)<br>Five-time ITU Paratriathlon World Cup medalist (4 golds, 1 silver)<br>2013 ITU Paratriathlon World Championships silver medalist<br>2015 ITU Paratriathlon World Championships bronze medalist<br>Completed her first IRONMAN in Arizona on Nov. 17, 2013<br>2008 U.S. Paralympic Team, Swimming</p><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, 5th (PTS2 - Women)</li><li>Paralympic Games Tokyo 2020, 5th (PTS2 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, bronze (PT2 - Women)</li><li>Paralympic Games Beijing 2008, 11th (400m Freestyle S9 - Women), 17th (100m Freestyle S9 - Women), 18th (100m Butterfly S9 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (PTS2 - Women)</li><li>Years of participation: PTS2 - Women 2018, 2022, 2023; PT2 - Women 2015; TRI-2 - Women 2012, 2013</li><li>Medals: 4 (1 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2012 (TRI-2 - Women)</li><li>Silver – 2022 (PTS2 - Women);  2013 (TRI-2 - Women)</li><li>Bronze – 2015 (PT2 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697154054/TeamUSA%20Assets/Athlete%20Profiles/Melissa%20Stockwell%20800533/stockwell_m_bio_834413.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Paratriathlon",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697154164/TeamUSA%20Assets/Athlete%20Profiles/Melissa%20Stockwell%20800533/stockwell_m_hero_834413.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680794596/Melissa-Stockwell-210828Kusumoto020.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683142469/NGB%20Triathlon/Migration/Athlete%20Profiles/Melissa%20Stockwell%20800533/Stockwell_Melissa_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Melissa Stockwell 800533"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Paratriathlon"
+        }
+      ]
+    },
+    {
+      "first_name": "Corinne",
+      "last_name": "Stoddard",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2001-08-15T00:00:00",
+        "hometown": {
+          "city": "Tacoma",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.2529,
+          "longitude": -122.4443
+        },
+        "education": "University of Utah",
+        "fun_fact": "She began roller skating in kindgarten, switched to speedskating on ice around 11",
+        "biography": "<h5>Quick Facts</h5><ul><li>Began roller skating in kindgarten, switched to speedskating on ice around 11</li><li>World junior champion in inline skating<span></span></li><li>Three-time world medalist in short track speedskating</li><li>Enjoys hiking and being a dog mom to her mini golden doodle, Mylo</li></ul><h5>Biographical Information</h5><p><span>Corinne Stoddard grew up in Federal Way, Washington, the same area where other U.S. short track stars like Apolo Ohno and J.R. Celski were also raised. Stoddard began roller skating in kindergarten, eventually switching to inline skating a year later at the encouragement of the owner of the local skating rink. When she was around 11 years old, her mother convinced her to try speedskating because inline skating was not an Olympic sport. Stoddard still says about inline skating: “It is my number one passion. It’s just not in the Olympics.”</span></p><p><span>At 17, she moved to Salt Lake City to train full-time with the national team and finished 10th at the U.S. trials before the Olympic Winter Games PyeongChang 2018. At the time, Stoddard was still competing in inline skating and would go on to become the world junior champion in the 10k elimination race at the 2019 World Roller Games. The following year, she would win two medals in short track speed skating at the world junior championships.&nbsp;</span></p><p><span>Stoddard made her Olympic debut at the Olympic Winter Games Beijing 2022, where she broke her nose in her first Olympic race. She still competed in the rest of her races at the Beijing Games, unable to breathe out of one nostril, with her best finish coming in the 1000m, where she finished 7th.</span></p><p><span>Two years later, Stoddard became a three-time world medalist at the 2024 short track world championships. Stoddard won silver in the women’s relay, bronze in the mixed relay, and bronze in the women’s 1500m. Stoddard and teammate Kristen Santos-Griswold both ended up on the podium in the women’s 1500m, marking the first time two U.S. women made the podium of the same individual event at worlds since short track became an Olympic medal sport in 1992.&nbsp;</span></p><p><span>Off the ice, Corie, as she is known to her friends, enjoys being a dog mom to her mini golden doodle, Mylo.&nbsp; She enjoys hikes around the Wasatch Range or Sunday brunches with teammate and training partner Santos-Griswold. The two have created a social media account called \"Fast But Unstable,\" a play on the word \"unstable\" and how the short track can challenge an athlete both physically and mentally.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Milan 2026, bronze (1500m - Women), 8th (2000m Relay - Mixed, 3000m Relay - Women), 24th (1000m - Women), 31th (500m - Women)</li><li>Olympic Games Beijing 2022, 7th (1000m - Women), 8th (2000m Relay - Mixed, 3000m Relay - Women), 18th (1500m - Women), 32th (500m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – silver (3000m Relay - Women), bronze (1500m - Women, 2000m Relay - Mixed), 7th (1000m - Women)</li><li>Years of participation: 1000m - Women 2021, 2023, 2024; 1500m - Women 2021, 2023, 2024; 2000m Relay - Mixed 2023, 2024; 3000m Relay - Women 2021, 2023, 2024; 500m - Women 2021, 2023; Overall - Women 2021; Road - Marathon - Women 2016, 2018, 2019</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2024 (3000m Relay - Women)</li><li>Bronze – 2024 (1500m - Women, 2000m Relay - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765551519/TeamUSA%20Assets/Athlete%20Profiles/Corinne%20Stoddard%201084411/c_stoddard_1084411_bio2.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        },
+        {
+          "title": "Short Track Speedskating",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771625568/Stoddard_C_main_1084411.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771625568/Stoddard_C_featured_1084411.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765551504/TeamUSA%20Assets/Athlete%20Profiles/Corinne%20Stoddard%201084411/c_stoddard_1084411_bio1.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Corinne Stoddard 1084411"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "Short Track Speedskating"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Gevvie",
+      "last_name": "Stone",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1985-07-11T00:00:00",
+        "hometown": {
+          "city": "Newton",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.337,
+          "longitude": -71.2092
+        },
+        "education": "The Winsor School (Boston, Mass.) ‘03 Princeton University ‘07, History; Tufts University ‘14, Doctor of Medicine",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Gregg Stone and Lisa Hansen, both of whom were previously members of the U.S. National Rowing Team</li><li>Has one sister Phoebe and one brother Robbie</li><li>Enjoys baking, gardening, sailing, hiking, reading, cross-country skiing, eating ice cream and sleeping</li><li>Says she may have one of the most stretched out student-athlete careers ever, now extending into her 20th year of rowing and learning</li><li>Lists her sports heroes as Michelle Kwan, who showed true sports(wo)manship at the highest stages of her skating career and then went on to use her brain to help the world, Billie Jean King for being not just an athlete but also a voice for positive change, and also Tom Brady, because GOAT.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Was named USRowing’s Female Athlete of the Year in 2016</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>Three-time Olympian (2012, 2016, 2020); one-time Olympic medalist (silver)</li><li>Olympic Games Tokyo 2020, 5th (double sculls)</li><li>Olympic Games Rio 2016, silver (single sculls)</li><li>Olympic Games London 2012, 7th (single sculls)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (double sculls)</li><li>Years of Participation: Single Sculls – 2011, 2014, 2015; Double Sculls – 2019 </li><li>Medals: 1 (1 silver)</li><li>Silver – 2016</li></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361661/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gevvie%20Stone/Stone_Genevra_080916_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361664/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gevvie%20Stone/Stone_gevvie_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gevvie Stone"
+        }
+      ]
+    },
+    {
+      "first_name": "Eliza",
+      "last_name": "Stone",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1990-12-31T00:00:00",
+        "hometown": {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        },
+        "education": "Princeton University ’13, Political Theory ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Full name is Anne-Elizabeth Stone</li><li>Daughter to Cynthia and Robert Stone</li><li>Has two siblings, Robert and Gracie, who also competed in fencing for Princeton</li><li>Began fencing at age 9 after her father saw a flier for a fencing club in a pizza restaurant in New York</li><li>Served as a volunteer assistant coach for the men’s fencing team at Princeton after graduation</li><li>Hobbies include reading.</li></ul><h5>Career Highlights</h5><ul><li>2013 NCAA Fencing Championships, 1st (women’s individual saber), 1st (team)</li><li>2012 NCAA Fencing Championships, 3rd (women’s individual saber), 2nd (team)</li><li>2011 NCAA Fencing Championships, 2nd (women’s individual saber)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team Sabre - Women), 19th (Individual Sabre - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – 8th (Team Sabre - Women), 13th (Individual Sabre - Women)</li><li>Years of participation: Individual Sabre - Women 2013, 2014, 2015, 2017, 2018, 2019, 2022; Team Sabre - Women 2013, 2014, 2015, 2017, 2018, 2019, 2022</li><li>Medals: 4 (1 gold, 3 bronze)</li><ul><li>Gold – 2014 (Team Sabre - Women)</li><li>Bronze – 2018 (Individual Sabre - Women);  2015 (Team Sabre - Women);  2013 (Team Sabre - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361462/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eliza%20Stone/stone_eliza.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eliza Stone"
+        }
+      ]
+    },
+    {
+      "first_name": "Hugo",
+      "last_name": "Storer",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1963-09-29T00:00:00",
+        "hometown": {
+          "city": "Greensboro",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 36.07264,
+          "longitude": -79.79197
+        },
+        "education": "University of Puerto Rico",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>His favorite foods are Oreo Cookies and Cap’n Crunch cereal</li><li>His happiest moments in life were the births of his children, daughter Camila and son Hugo Sebastian</li></ul><h5>Career Highlights</h5><ul><li>2016: ParaVolley Intercontinental Cup (6th Place)</li><li>2015: Parapan American Games (Silver)</li><li>2011: Continental Cup</li><li>2010: WOVD World Cup (5th Place); Parapan American Championship (Silver)</li><li>2009: Parapan American Championship (Gold)</li><li>2007: Parapan American Games (Silver)</li><li>---</li><li>DID YOU KNOW</li><li>Lost his right leg above the knee after he was hit by a car</li><li>While in college he played on teams that were the men’s volleyball champion in 1981 and 1982; he also served as an assistant coach on teams that won that honor in 2001 and 2002</li><li>Joined the Sitting Volleyball team in 1997</li><li>Started playing volleyball in 1975</li><li>He was a member of the 2000 Paralympic Standing Volleyball Team</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Sydney 2000, 4th (Team - Standing - Men)</li><li>Paralympic Games Atlanta 1996, 8th (Shot Put F42 - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2014 – 10th (Team - Men)</li><li>Years of participation: Team - Men 2014</li><li>Top finish: 10th – 2014 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 1996, 2000",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361715/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hugo%20Storer/Hugor-Storer_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hugo Storer"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Stoyanoff",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2000-05-04T00:00:00",
+        "hometown": {
+          "city": "Trophy Club",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 33.0031,
+          "longitude": -97.2003
+        },
+        "education": " University of North Texas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite Quote:  “Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible.” – Francis of Assisi</li><li>Favorite Meal: Chicken Parmesan</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Burnaby, 2016 (Flyweight 42-44kg - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2016\tJunior World Taekwondo Championships (-44kg)\tRound of 32</li></ul><h5>More</h5><p><strong><strong>Hobbies:</strong>&nbsp;&nbsp; </strong>Sydney likes spending time with family and friends.&nbsp;&nbsp;She is a member of Kappa Delta National Sorority.&nbsp;&nbsp;Sydney enjoys scuba diving and swimming and spending time on the beach.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719127/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sydney%20Stoyanoff%20798422/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Sydney Stoyanoff 798422"
+        }
+      ]
+    }
+  ]
+}

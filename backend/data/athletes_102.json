@@ -1,0 +1,917 @@
+{
+  "entries": [
+    {
+      "first_name": "Chuck",
+      "last_name": "Melton",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1978-08-20T00:00:00",
+        "hometown": {
+          "city": "Richview",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 38.3181,
+          "longitude": -89.2637
+        },
+        "education": "Southern Illinois University Carbondale",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>In 2002, Melton acquired a C7 spinal cord injury from a diving accident</li><li>Five years after his accident, he began to play wheelchair rugby</li><li>Son of Rick and Karen Melton</li><li>Has one sibling, Candice</li><li>Married to Kelly Melton</li><li>Has three children, Allison, Bailey and Blake</li><li>Enjoys fishing, hunting, spending as much time as possible with family.</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (3 silver)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Mixed)</li><li>Paralympic Games Tokyo 2020, silver (Team - Mixed)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (Team - Mixed)</li><li>Years of participation: Team - Mixed 2014, 2018, 2022</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2022 (Team - Mixed)</li><li>Bronze – 2018 (Team - Mixed);  2014 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662811/TeamUSA%20Assets/Athlete%20Profiles/Chuck%20Melton/Melton_c_hero_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 3
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "2.0",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347290/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chuck%20Melton/Melton_Charles_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chuck Melton"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Miranda",
+      "last_name": "Melville",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1989-03-20T00:00:00",
+        "hometown": {
+          "city": "Rush",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.9723,
+          "longitude": -77.6328
+        },
+        "education": "Rush Henriette Senior High School (Henriette, N.Y.) ‘07 University of Wisconsin, Parkside '11, Psychology and Biology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of David and Carla Melville</li><li>Has one brother, Alexander</li><li>Interests include reading, researching, hiking, learning new languages, eating ice cream and enjoying the outdoors</li><li>Voracious reader</li><li>Loves “The Office”</li><li>Enjoys hiking and adventures.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, 10th (20K race walk)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 34th (20km Walk - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 35th (35km Walk - Women)</li><li>Years of participation: 35km Walk - Women 2023; 20km Walk - Women 2015, 2016, 2017, 2018; 20km Walk Team - Women 2016, 2018</li><li>Top finish: 12th – 2018 (20km Walk Team - Women)</li></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347337/TeamUSA%20Assets/Migration/Athlete%20Profiles/Miranda%20Melville/Melville_M.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Miranda Melville"
+        }
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Mendez",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2003-06-30T00:00:00",
+        "hometown": {
+          "city": "Lighthouse Point",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.2734,
+          "longitude": -80.0878
+        },
+        "education": "Pine Crest (2022)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kevin and Kellie</li><li>He enjoys sports</li><li>Kevin trains three hours a day, five hours a week</li><li>He volunteers for Joshua&#39;s Heart Foundation and participates in church activities</li><li>He began diving at age five</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347212/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kevin%20Mendez/2019-Mendez-Kevin-headshot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kevin Mendez"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyle",
+      "last_name": "Merber",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1990-11-19T00:00:00",
+        "hometown": {
+          "city": "Dix Hills",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7998,
+          "longitude": -73.3601
+        },
+        "education": "University of Texas ",
+        "fun_fact": "",
+        "biography": "<div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (1500m - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Victoria and Mitchell Merber</li><li>Works in marketing and PR for a running shoe company.</li><li><p>Half Hollows West High School (Dix Hills, N.Y.) ‘08 ;Columbia University ’12, Philosophy (undergraduate); University of Texas ’13, Advertising (graduate)</p></li></ul><br /><br /><h5>More</h5><p>Personal Website</p><br /><p>USA Track and Field</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kyle Merber"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Mo",
+      "last_name": "Mercado",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1995-08-14T00:00:00",
+        "hometown": {
+          "city": "Temecula",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.4939,
+          "longitude": -117.1481
+        },
+        "education": "Great Oak High School Arizona - 2017",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 11</li><li>Parents are David and Jill Mercado</li><li>Sister Danica played on the 2013 Junior Women&#39;s National Team</li><li>Personal motto: BE MORE. In whatever aspect of life you are in, you have more in the tank. Give more, push more and get uncomfortable. Be more than average, be more than normal, BE MORE and leave your mark wherever you step foot</li><li>Three words to describe her are: charismatic, straight forward and passionate</li><li>On what it means to play for USA Softball: &quot;Since I can remember, I have dreamed of having the opportunity to have USA across my chest. Representing your country is a huge, humbling experience that I take such pride in. Being a part of Team USA is a dream come true and an experience I can&#39;t wait to live.&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 Japan All-Star Series; Hit .286 (2-for-7) with one RBI</li>\r\n                            <li>2018 USA Softball International Cup; Hit .412 (7-for-17) with two RBI</li>\r\n                    </ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:&nbsp;</strong>NFCA Second Team All-American...First Team All-Pac-12...Pac-12 All Defensive Team...Drafted No. 9 overall in NPF draft</p>\n<p><strong>2016:</strong>&nbsp;Second Team All-Pac-12...NFCA First Team All-West Region</p>\n<p><strong>2015:</strong>&nbsp;NFCA Third Team All-West Region...Honorable Mention All-Pac-12...Second Team All-Pac-12 Academic</p>\n<p><strong>2014:</strong>&nbsp;NFCA First Team All-West Region....Honorable Mention All-Pac-12...Pac-12 All Freshman</p>\n<p><strong>Click here to view Mo Mercado's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347226/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mo%20Mercado/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347228/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mo%20Mercado/MercadoMo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mo Mercado"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Merren",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1984-05-29T00:00:00",
+        "hometown": {
+          "city": "Fort Wayne",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 41.0793,
+          "longitude": -85.1394
+        },
+        "education": "Western Michigan University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Robert and Susan Merren</li><li><p>Married to Leanne and has four children. <span>His son, Mason, who is sighted, coaches his parents, who are both legally blind</span></p></li><li><p>Diagnosed with retinitis pigmentosa as a teenager, a degenerative eye disease which causes gradual deterioration in sight</p></li><li><p>Introduced to goalball in 1999 at a sports education camp hosted by U.S. Association of Blind Athletes at Western Michigan University</p></li><li><p>His wife plays goalball with him on a recreational team in Florida</p></li><li><p>Works as a personal trainer, motivational speaker and founder of ReVision Training LLC</p></li><li><p>Hobbies include spending time with his family, reading, playing guitar, rollerblading and playing sports</p></li><li>Recipient of the 2022 Team USA Community Champions in partnership with Comcast award</li></ul><h5>Paralympic Experience</h5><ul><li>5-time Paralympian; 2-time Paralympic medalist (1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, 6th (Team - Men)</li><li>Paralympic Games Tokyo 2020, 4th (Team - Men)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Men)</li><li>Paralympic Games Beijing 2008, 4th (Team - Men)</li><li>Paralympic Games Athens 2004, bronze (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 9th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2014 (Team - Men)</li></ul></ul><h5>More</h5><p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662047/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Merren_T_bio_843830.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "B2",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662743/TeamUSA%20Assets/Athlete%20Profiles/Tyler%20Merren%20843830/Merren_T_hero_843830.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006816/TeamUSA%20Assets/Athlete%20Profiles/Tyler%20Merren%20843830/Tyler_Merren_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyler Merren 843830"
+        },
+        {
+          "title": "Paralympic Games Paris 2024"
+        },
+        {
+          "title": "Goalball"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Trenten",
+      "last_name": "Merrill",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1990-05-18T00:00:00",
+        "hometown": {
+          "city": "San Juan Capistrano",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.4939,
+          "longitude": -117.662
+        },
+        "education": "Azusa Pacific University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Grew up in Southern California, where he could be found surfing, playing soccer, and riding dirt bikes</li><li>While riding as a passenger on his friend’s dirt bike, a car struck them, injuring them both</li><li>That accident led to the amputation of Merrill’s right leg, just below his knee</li><li>Went under the care of his first prosthetist, Gary Yamamoto, who encouraged him to attend an Össur Challenged Athletes Foundation sponsored running clinic for athletes</li><li>Made his Team USA debut at the 2015 IPC Athletics World Championships</li><li>Has been previously coached by Gary Cablayan, Dan Pfaff, and Nic Taylor. His current coach is Jeremy Fischer</li><li>Has worked with prosthetists Gary Yamamoto, Mike Pack and currently works with Francois Van Der Watt</li><li>Currently the American record holder in long jump for his classification and a member of Team Össur</li><li>Enjoys coffee, reading, surfing, 4x4 off-roading, and camping</li><li>His hero is his grandfather Bob Merrill</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, 9th (Long Jump T64 - Men)</li><li>Paralympic Games Tokyo 2020,  (200m T64 - Men), bronze (Long Jump T64 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 4th (Long Jump T44 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – bronze (Long Jump T64 - Men)</li><li>Years of participation: Long Jump T64 - Men 2019, 2023, 2024; 100m T44 - Men 2015; 200m T44 - Men 2015; 4 x 100m Relay T42-47 - Men 2015</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2015 (4 x 100m Relay T42-47 - Men)</li><li>Bronze – 2024 (Long Jump T64 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684928821/TeamUSA%20Assets/Migration/Pages/Merrill_Trenten_061821_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T64",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684928818/TeamUSA%20Assets/Migration/Merrill_Trenten_090121_1440x810_03.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010958/TeamUSA%20Assets/Athlete%20Profiles/Trenten%20Merrill%20811473/Merrill_Trenten250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Trenten Merrill 811473"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Maggie",
+      "last_name": "Merriman",
+      "bio": {
+        "height": "5' 4\"",
+        "birthday": "2000-06-29T00:00:00",
+        "hometown": {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.53834,
+          "longitude": -81.37924
+        },
+        "education": "Colquitt County High School Purdue University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Maggie is the daughter of David and Shelly Merriman</li><li>She has two older siblings, Alex and Sarah</li><li>Maggie started diving at age 9 and now trains five hours a day, five days a week</li><li>Her favorite dive is 407C on 10-meter, and she likes to listen to rap music when she competes</li><li>Her favorite diver is Olympic champion David Boudia</li><li>Maggie enjoys fishing and surfing when she's not diving</li><li>She's involved in student government, National English Honor Society and Fellowship of Christian Athletes</li></ul><h5>Career Highlights</h5><ul><li>Four-time junior national champion (three platform titles, one synchronized platform title)</li><li>2014, 2016 Junior World Championships team member</li><li>2013 Junior Pan Am Championships silver medalist on platform</li></ul><h5>World Championships Experience</h5><ul><li>2022: 15th, 10-meter</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010249/TeamUSA%20Assets/Athlete%20Profiles/Maggie%20Merriman%20879176/Maggie-Merriman-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maggie Merriman 879176"
+        }
+      ]
+    },
+    {
+      "first_name": "Kirsti",
+      "last_name": "Merritt",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1994-07-19T00:00:00",
+        "hometown": {
+          "city": "Lake Panasoffkee",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.8,
+          "longitude": -82.15
+        },
+        "education": "South Sumter High School Florida - 2016",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Wears No. 24<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (Team - Women)</li><li>Years of participation: Team - Women 2018</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2018 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2016:&nbsp;</strong>NFCA First Team All-Southeast Region...Second Team All-SEC...SEC Academic Honor Roll</p>\n<p><strong>2015:</strong>&nbsp;First Team All-SEC...NFCA First Team All-Southeast Region...SEC Academic Honor Roll...NCAA WCWS Champion</p>\n<p><strong>2014:</strong>&nbsp;NFCA Third Team All-Southeast Region...NCAA WCWS All-Tournament Team...SEC Academic Honor Roll...NCAA WCWS Champion</p>\n<p><strong>2013:</strong>&nbsp;SEC All-Freshman Team...SEC Tournament MVP...SEC All-Tournament Team...SEC First Year Honor Roll</p>\n<p><strong>Click here to view Kirsti Merritt's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718193/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kirsti%20Merritt%201106845/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718194/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kirsti%20Merritt%201106845/MerrittKirsti.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kirsti Merritt 1106845"
+        }
+      ]
+    },
+    {
+      "first_name": "Aries",
+      "last_name": "Merritt",
+      "bio": {
+        "height": "6’1”",
+        "birthday": "1985-07-24T00:00:00",
+        "hometown": {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.7488,
+          "longitude": -84.3877
+        },
+        "education": "Wheeler High School '03 (Marietta, Ga.) University of Tennessee '07, Sports Management",
+        "fun_fact": null,
+        "biography": "<div>\n<table style=\"text-align: right;\" align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-fLogo-online.jpg?h=50&amp;la=en&amp;w=50&amp;hash=814E6EFBD0070E849FF229E6AB33CE509C3EA740\"><br>\n            </td>\n            <td style=\"text-align: right;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&amp;la=en&amp;w=50&amp;hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\" style=\"text-align: right; height: 50px; width: 50px;\"><br>\n            </td>\n        </tr>\n        <tr>\n            <td style=\"text-align: right; vertical-align: top;\">&nbsp;</td>\n            <td style=\"text-align: right;\"><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div style=\"text-align: right;\"><strong>\n</strong></div>\n<div><div></div>\n<div></div>\n<div></div>\n<div></div>\n<div>\n<div><strong><strong><br>\n</strong></strong></div>\n<div><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, gold (110m Hurdles - Men)</li></ul></ul></div>\n<div>\n<ul>\n</ul>\n<h5>Career Highlights</h5><ul>\n    <li>2012 U.S. Olympic Trials champion</li>\n    <li>2012 world indoor champion</li>\n    <li>2012 national indoor champion&nbsp;</li>\n    <li>2011 USA Outdoor Championships, 2nd</li>\n    <li>2009 USA Outdoor Championships, 3rd</li>\n    <li>2006 NCAA champion</li>\n    <li>Seven-time NCAA All-American</li>\n    <li>2005 world junior champion</li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Aries likes to watch TV, play video games, and make people laugh. He was also one of eight hurdlers named to USA Today's All-USA High School Team.<br>\n</p>\n<p><strong style=\"font-weight: bold; font-size: large;\">Learn more:</strong><strong>&nbsp;</strong><br>\n<span style=\"font-size: large;\">Facebook</span>&nbsp;<br>\n<span style=\"font-size: large;\">Twitter</span>&nbsp;<br>\nUSA Track and Field</p>\n<br class=\"Apple-interchange-newline\">\n</div>\n<div>\n<div class=\"NoSpacing\"><br>\n</div>\n</div>\n</div>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 4th (60m Hurdles (Indoor) - Men)</li><li>Years of participation: 60m Hurdles (Indoor) - Men 2012, 2018; 110m Hurdles - Men 2009, 2015, 2017</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2012 (60m Hurdles (Indoor) - Men)</li><li>Bronze – 2015 (110m Hurdles - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006803/TeamUSA%20Assets/Athlete%20Profiles/Aries%20Merritt%20907878/head.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aries Merritt 907878"
+        }
+      ]
+    },
+    {
+      "first_name": "LaShawn",
+      "last_name": "Merritt",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1986-06-27T00:00:00",
+        "hometown": {
+          "city": "Portsmouth",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 36.8354,
+          "longitude": -76.2988
+        },
+        "education": "Woodrow Wilson High School (Portsmouth, Va.) ‘04 East Carolina University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Owen Eugene and Brenda Merritt</li><li>Has one sister, Antionesha</li><li>In 2007, became the ninth man ever to break the 44-second barrier in the men&#39;s 400-meter</li><li>As a high school senior, ran what was then the second-fastest indoor 400 time ever in 44.93</li><li>Turned professional at age 18 following his freshman indoor season at East Carolina University</li><li>Interests include traveling.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 4-time Olympic medalist (3 gold, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 400m Relay - Men), bronze (400m - Men), 6th (200m - Men)</li><li>Olympic Games London 2012,  (400m - Men)</li><li>Olympic Games Beijing 2008, gold (4 x 400m Relay - Men, 400m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 20th (400m - Men)</li><li>Years of participation: 400m - Men 2007, 2009, 2015, 2017; 4 x 400m Relay - Men 2005, 2007, 2009, 2015; 4 x 400m Relay (Indoor) - Men 2006; 400m (Indoor) - Men 2006</li><li>Medals: 8 (6 gold, 2 silver)</li><ul><li>Gold – 2015 (4 x 400m Relay - Men);  2009 (4 x 400m Relay - Men, 400m - Men);  2007 (4 x 400m Relay - Men);  2006 (4 x 400m Relay (Indoor) - Men);  2005 (4 x 400m Relay - Men)</li><li>Silver – 2015 (400m - Men);  2007 (400m - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718208/TeamUSA%20Assets/Migration/Athlete%20Profiles/LaShawn%20Merritt%20836605/Merritt_Lashawn_082016_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718209/TeamUSA%20Assets/Migration/Athlete%20Profiles/LaShawn%20Merritt%20836605/Merritt_LeShawn_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "LaShawn Merritt 836605"
+        }
+      ]
+    },
+    {
+      "first_name": "Alice",
+      "last_name": "Merryweather",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1996-10-05T00:00:00",
+        "hometown": {
+          "city": "Hingham",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.2357,
+          "longitude": -70.8892
+        },
+        "education": "Dartmouth College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Elizabeth and Hugh Merryweather</li><li>Has one brother, Simon</li><li>Enjoys hiking, playing tennis, spending time outdoors and playing the piano.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 FIS Junior World Championships, gold (downhill)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 9th (Team - Mixed), 15th (Super Combined - Women), 42th (Slalom - Women)</li></ul></ul><h5>More</h5>U.S. Ski &amp; Snowboard<h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 18th (Super Combined - Women), 22th (Downhill - Women, Super G - Women)</li><li>Years of participation: Downhill - Women 2019; Super Combined - Women 2019; Super G - Women 2019</li><li>Top finish: 18th – 2019 (Super Combined - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662031/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Merryweather_a_bio_1105408.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662742/TeamUSA%20Assets/Athlete%20Profiles/Alice%20Merryweather%201105408/merryweather_a_hero_1105408.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006756/TeamUSA%20Assets/Athlete%20Profiles/Alice%20Merryweather%201105408/Merryweather_Alice_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alice Merryweather 1105408"
+        }
+      ]
+    },
+    {
+      "first_name": "Kristie",
+      "last_name": "Mewis",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1991-02-25T00:00:00",
+        "hometown": {
+          "city": "Hanson",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.0793,
+          "longitude": -70.8756
+        },
+        "education": "Boston College ‘13, Human Development",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Robert and Melissa Mewis</li><li>Her younger sister Samantha is also a member of the U.S. Women’s National Team</li><li>Their parents who both played soccer</li><li>Created their own Harpoon beer “Team MEW-S-A Citrus IPA</li><li>A portion of proceeds for every 4-pack sold will be donated to the Boys &amp; Girls Club of Dorchester – the charity of Kristie and Sam’s choice.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 SheBelieves Cup</li>\r\n                            <li>2020 NWSL Challenge Cup Champions</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li></ul></ul><h5>More</h5><p>U.S. Soccer<h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (Team - Women)</li><li>Years of participation: Team - Women 2023</li><li>Top finish: 9th – 2023 (Team - Women)</li></ul></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662007/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_Mewis_bio_813222OR854232.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347231/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kristie%20Mewis/Mewis_Kristie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kristie Mewis"
+        }
+      ]
+    },
+    {
+      "first_name": "Samantha",
+      "last_name": "Mewis",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1992-10-09T00:00:00",
+        "hometown": {
+          "city": "Hanson",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.0793,
+          "longitude": -70.8756
+        },
+        "education": "University of California at Los Angeles (Los Angeles, Calif.) ‘14, English",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Robert and Melissa Mewis</li><li>Sam is the younger sister of the United States Women’s National Soccer Team player Samantha Mewis</li><li>The Mewis sisters are two years apart and grew up competing in everything</li><li>Created their own Harpoon beer “Team MEW-S-A Citrus IPA</li><li>A portion of proceeds for every 4-pack sold will be donated to the Boys &amp; Girls Club of Dorchester – the charity of Kristie and Sam’s choice.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2019</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2019 (Team - Women)</li></ul></ul><h5>More</h5><p>U.S. Soccer</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662073/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/S_Mewis_bio_842789.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662605/TeamUSA%20Assets/Athlete%20Profiles/Samantha%20Mewis%20842789/S_Mewis_hero_842789.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006750/TeamUSA%20Assets/Athlete%20Profiles/Samantha%20Mewis%20842789/Mewis_Samantha_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Samantha Mewis 842789"
+        }
+      ]
+    },
+    {
+      "first_name": "Lindsay",
+      "last_name": "Meyer",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1988-09-23T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "Stanford University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div>Stanford University &rsquo;13, Human Biology\n<p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 5th (Quadruple Sculls - Women)</li></ul></ul><h5>Quick Facts</h5><ul><li>Daughter of Carol Nagy and Edward Meyer</li><li>Has one sister, Tavi Meyer</li><li>Hobbies include running, cycling and cooking</li><li>Plans to attend medical school following her rowing career.</li></ul><br>\n\n<p><h5>More</h5>USRowing&nbsp;<br>\n\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – 10th (Single Sculls - Women)</li><li>Years of participation: Single Sculls - Women 2010</li><li>Top finish: 10th – 2010 (Single Sculls - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347249/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lindsay%20Meyer/Rowing_Meyer_Lindsay.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lindsay Meyer"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "Meyer",
+      "bio": {
+        "height": "4'0\"",
+        "birthday": "1974-03-02T00:00:00",
+        "hometown": {
+          "city": "Frisco",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.5736,
+          "longitude": -106.095
+        },
+        "education": "West Bend West HS (West Bend, Wis.) ‘92 University of Wisconsin Whitewater ‘01, Pre-med",
+        "fun_fact": null,
+        "biography": "<p><strong>Sport</strong>: Alpine Skiing<br>\n<strong>Height</strong>: 4-0<br>\n<strong>Weight</strong>: 135<br>\n<strong>Classification</strong>: LW12-1, Sitting<br>\n<strong>Date of Birth</strong>: March 2, 1974<br>\n<strong>Birthplace</strong>: West Bend, Wis.<br>\n<strong>Hometown</strong>: Frisco, Colo.<br>\n<strong>Current Residence</strong>: Frisco, Colo.<br>\n<strong>High School</strong>: West Bend West HS (West Bend, Wis.) &lsquo;92<br>\n<strong>College</strong>: University of Wisconsin Whitewater &lsquo;01, Pre-med<br>\n<strong>Coach</strong>: Kevin Jardine</p>\n<p><strong>Career Highlights<br>\n</strong></p>\n<ul>\n    <li>2014: Paralympic Winter Games competitor, slalom</li>\n    <li>2013: NorAm Copper Mountain, 13th giant slalom</li>\n    <li>2012: World Cup St. Moritz, 9th slalom, 11th giant slalom; NorAm Copper Mountain, 6th slalom run 1, 5th slalom run 2 and giant slalom; NorAm Winter Park, 16th super-G</li>\n    <li>2011: IPC Alpine Skiing World Championships, 14th giant slalom; NorAm Kimberley, Canada, 11th super-G run 1, 9th super-G run 2, 10th downhill run 1, 6th downhill run 2</li>\n    <li>2010: World Cup Aspen, 12th super combined, 17th super-G</li>\n</ul>\n<p><strong>Personal<br>\n</strong></p>\n<p>Scott Meyer grew up playing ice hockey for 15 years and dreaming of one day competing against the best in the world. But his dream took a detour when he was 19-years-old. While working unloading cargo from semi-trucks, he was pinned between the loading dock and a semi-truck. Meyer suffered a lumbar spinal cord injury and underwent nearly 100 surgeries in the two years following his accident.</p>\n<p> It may not be ice hockey, but now Meyer is competing against the best in the world in alpine skiing. He has been competitive on the international stage since 2010 but will make his Paralympic Winter Games debut in Sochi. Off the snow, Meyer is interested in science and the culinary arts. He also enjoys traveling, something he gets to fulfill each winter during the world cup season.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347368/TeamUSA%20Assets/Migration/Athlete%20Profiles/Scott%20Meyer/Alpine_Meyer_Scott_2014USOC_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Scott Meyer"
+        }
+      ]
+    },
+    {
+      "first_name": "Austin",
+      "last_name": "Meyer",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1990-06-23T00:00:00",
+        "hometown": {
+          "city": "Cohoes",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.7876,
+          "longitude": -73.7001
+        },
+        "education": "Harvard University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><br /></td></tr></tbody></table><br /><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Lightweight Double Sculls - Men, Quadruple Sculls - Men)</li><li>World Championships Under 23, Trakai, 2012 (Lightweight Double Sculls - Men)</li><li>World Championships Under 23, Brest, 2010 (Lightweight Four - Men)</li><li>World Championships Under 23, Racice, 2009 (Lightweight Four - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Liz and Chris Meyer</li><li>Trains out of Cambridge Boat Club and Boston University’s strength and conditioning center under Glenn Harris</li><li>Began rowing at age 14</li><li>Also competed in swimming ,baseball, wrestling and triathlon in high school</li><li>Hobbies include outdoor activities, cooking, cycling, competing in triathlons and studying energy economics</li><li><p>Shaker High School (Latham, N.Y.) ‘08 Harvard University ’13, Public Policy and Environmental Science</p></li><li>Speaks basic Russian and intermediate French.</li></ul><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USRowing</p>&nbsp;<br /><p>&nbsp;</p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 5th (Lightweight Quadruple Sculls - Men)</li><li>Years of participation: Lightweight Quadruple Sculls - Men 2015; Lightweight Double Sculls - Men 2013, 2014; Lightweight Eight - Men 2011</li><li>Top finish: 5th – 2011 (Lightweight Eight - Men), 2015 (Lightweight Quadruple Sculls - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347294/TeamUSA%20Assets/Migration/Athlete%20Profiles/Austin%20Meyer/Rowing_Meyer_Christopher.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Austin Meyer"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    }
+  ]
+}

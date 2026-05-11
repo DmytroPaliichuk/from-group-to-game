@@ -1,0 +1,1031 @@
+{
+  "entries": [
+    {
+      "first_name": "Josh",
+      "last_name": "Prenot",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1993-07-28T00:00:00",
+        "hometown": {
+          "city": "Santa Maria",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.953,
+          "longitude": -120.4358
+        },
+        "education": "Family Partnership Charter School (Orcutt, Calif.) ‘11 University of California, Berkeley ‘17, Physics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of William and Tammy Prenot</li><li>Father, Bill, served in the U.S. Air Force for 20 years</li><li>Interests include hiking, camping, rock climbing, cycling, photography, cooking, baking and slacklining</li><li>Favorite professional sports teams are the Green Bay Packers (NFL) and Chicago Blackhawks (NHL).</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 NCAA Championships, 1st (400-yard medley); 2nd (200-yard breast, 200-yard medley)</li>\r\n                            <li>2015 World University Games, gold (200m breast); silver (200m medley, 400m medley)</li>\r\n                            <li>2015 U.S. National Championships, 10th (100m breast)</li>\r\n                            <li>2014 Pan Pacific Championships, 4th (200m breast)</li>\r\n                            <li>2014 U.S. National Championships, 3rd (200m breast, 400m medley); 6th (200m medley)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, silver (200m Breaststroke - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Swimming<h5>World Championships Experience</h5><ul><li>Most recent: 2018 – silver (200m Individual Medley (SC) - Men), 5th (200m Breaststroke (SC) - Men)</li><li>Years of participation: 200m Breaststroke (SC) - Men 2016, 2018; 200m Individual Medley (SC) - Men 2016, 2018; 4 x 100m Medley Relay (SC) - Men 2016; 400m Individual Medley (SC) - Men 2016</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2018 (200m Individual Medley (SC) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718461/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Prenot%20917023/prenot_josh_081016_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718464/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Prenot%20917023/Prenot_Josh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Prenot 917023"
+        }
+      ]
+    },
+    {
+      "first_name": "Tara",
+      "last_name": "Prentice",
+      "bio": {
+        "height": "6'0",
+        "birthday": "1997-12-20T00:00:00",
+        "hometown": {
+          "city": "Temecula",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.4939,
+          "longitude": -117.1481
+        },
+        "education": "University of California, Irvine",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Graduated from UC Irvine in 2020 with a double major in Criminology, Law &amp; Society and Psychological Sciences</li><li>Earned a Master's Degree in Innovation and Entrepreneurship from UC Irvine.</li><li>Hobbies include reading, watching soccer, spending time at the beach with friends and family</li><li>Favorite food is pizza</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2022, 2023</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2022 (Team - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Women)</li><li>World Cup, Long Beach, 2023 (Team - Women)</li><li>World Cup - Division 1, Rotterdam, 2023 (Team - Women)</li><li>World Cup - Division 1, Athens, 2023 (Team - Women)</li><li>World Junior Championship, Guadalajara, 2015 (Team - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717188429/Prentice_Tara_Headshot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717188612/Prentice_Tara_Worlds24.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717188429/Prentice_Tara_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Water Polo"
+        }
+      ]
+    },
+    {
+      "first_name": "Nzingha",
+      "last_name": "Prescod",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1992-08-14T00:00:00",
+        "hometown": {
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.6782,
+          "longitude": -73.9442
+        },
+        "education": "Stuyvesant High School (New York, N.Y.) '10 Columbia University '15, Political Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Homer Richardson and Marva Prescod</li><li>Has one sister, Tekeya</li><li>Interests include shopping, baking, Pilates and trying new foods</li><li>Started fencing at the Peter Westbrook Foundation at age 9</li><li>Earned her first senior world medal at age 15</li><li>After qualifying for six consecutive cadet/junior world championship teams, and three consecutive senior teams, she concluded her final year competing at the junior level in 2012 when she qualified to represent Team USA at the London 2012 Olympic Games at age 19.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, silver (team)</li>\r\n                            <li>2011 Pan American Games, gold (team); silver (individual)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 11th (Individual Foil - Women)</li><li>Olympic Games London 2012, 6th (Team Foil - Women), 22th (Individual Foil - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – bronze (Team Foil - Women), 22th (Individual Foil - Women)</li><li>Years of participation: Individual Foil - Women 2009, 2010, 2011, 2013, 2014, 2015, 2018, 2019; Team Foil - Women 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2018, 2019</li><li>Medals: 3 (1 gold, 2 bronze)</li><ul><li>Gold – 2018 (Team Foil - Women)</li><li>Bronze – 2019 (Team Foil - Women);  2015 (Individual Foil - Women)</li></ul></ul><h5>More</h5>USA Fencing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011127/TeamUSA%20Assets/Athlete%20Profiles/Nzingha%20Prescod%20813742/prescod_nzingha_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nzingha Prescod 813742"
+        }
+      ]
+    },
+    {
+      "first_name": "Christen",
+      "last_name": "Press",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1988-12-29T00:00:00",
+        "hometown": {
+          "city": "Palos Verdes Estates",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.79,
+          "longitude": -118.3887
+        },
+        "education": "Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Harry and Stacy Press</li><li>Has two sisters, Channing and Tyler</li><li>While at Stanford University, set the all-time scoring record for the Cardinal (71 goals) and was named the recipient of the 2010 Hermann Trophy Award as the top college soccer player</li><li>Named the Pac-10&#39;s 2010 Scholar-Athlete of the Year</li><li>Wrote a blog for SoccerAmerica.com and has done freelance writing for several magazines</li><li>Speaks some Spanish and some Swedish</li><li>Meditates daily and actively practices yoga</li><li>Enjoys hiking and playing with her two dogs.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2015, 2019</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2019 (Team - Women);  2015 (Team - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nU.S. Soccer",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661963/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/C_Press_bio_851415.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662486/TeamUSA%20Assets/Athlete%20Profiles/Christen%20Press%20851415/C_Press_hero_851415.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008770/TeamUSA%20Assets/Athlete%20Profiles/Christen%20Press%20851415/Press_Christen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christen Press 851415"
+        }
+      ]
+    },
+    {
+      "first_name": "Bryan",
+      "last_name": "Price",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1981-03-09T00:00:00",
+        "hometown": {
+          "city": "Leeton",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.5997,
+          "longitude": -93.7505
+        },
+        "education": "Leeton High School (Leeton, Missouri) '00",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Retired Army Staff Sergeant Bryan Price was nominated to the 2014 Paralympic Team without having ever been on the U.S. Paralympics Nordic Skiing National Team</li><li>Price served in the United States Army from 2000-07</li><li>Married to Siqi Zhou</li><li>Has one daughter, Ashlynn</li><li>Off the snow, Price enjoys hunting, scuba diving, woodworking and playing basketball and softball.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018, 16th (12.5km Middle - Sitting - Men), 20th (7.5km Sprint - Sitting - Men), 26th (7.5km - Sitting - Men)</li><li>Paralympic Games Sochi 2014, 9th (4 x 2.5km Relay Open - Open), 19th (15km - Sitting - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 11th (15km - Sitting - Men), 12th (15km Individual - Sitting - Men), 15th (10km - Sitting - Men), 16th (12.5km Middle - Sitting - Men, 7.5km Sprint - Sitting - Men), 17th (1km Sprint - Sitting - Men)</li><li>Years of participation: 10km - Sitting - Men 2015; 12.5km Middle - Sitting - Men 2015; 15km - Sitting - Men 2015; 15km Individual - Sitting - Men 2015; 1km Sprint - Sitting - Men 2015; 7.5km Sprint - Sitting - Men 2015</li><li>Top finish: 11th – 2015 (15km - Sitting - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "LW11.5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366195/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bryan%20Price/Price_Bryan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bryan Price"
+        }
+      ]
+    },
+    {
+      "first_name": "Markeith",
+      "last_name": "Price",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1990-05-19T00:00:00",
+        "hometown": {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.2904,
+          "longitude": -76.6122
+        },
+        "education": "Mount Saint Joseph High School (Baltimore, Md.) ‘08 Tennessee State University '12, Family and Consumer Science, Fashion Merchandising",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Keith and Marcella Price</li><li>Has one sister, Octavia</li><li>Married to Jessica</li><li>Hobbies include reading, biking, painting, fashion, technology, hanging out with his friends and helping others</li><li>Diagnosed with optic nerve atrophy at the age of three, a condition that affects the optic nerve which carries impulses from the eye to the brain</li><li>President and founder of the I C You Foundation, Inc., an organization that provides financial support to visually-impaired students across the United States since 2014</li><li>Serves as a Classroom Champions mentor since 2016</li><li>Enjoys dancing, fashion, mentoring and motivational speaking.</li></ul><h5>Career Highlights </h5><ul><li>Parapan American Games Santiago 2023, bronze (javelin throw)</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 5th (400m T13 - Men), 10th (100m T13 - Men)</li><li>Paralympic Games London 2012,  (4 x 100m Relay T11-13 - Men), 6th (Long Jump T13 - Men), 8th (400m T13 - Men), 14th (200m T13 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 5th (400m T13 - Men), 8th (Long Jump T13 - Men)</li><li>Years of participation: 400m T13 - Men 2011, 2013, 2015, 2019; Long Jump T13 - Men 2011, 2013, 2019; 100m T13 - Men 2015; 4 x 100m Relay T11-13 - Men 2013; 200m T13 - Men 2011</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2013 (4 x 100m Relay T11-13 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T13/F13",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011116/TeamUSA%20Assets/Athlete%20Profiles/Markeith%20Price%20858137/Price_Markeith250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Markeith Price 858137"
+        }
+      ]
+    },
+    {
+      "first_name": "DeAnna",
+      "last_name": "Price",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1993-06-08T00:00:00",
+        "hometown": {
+          "city": "Old Monroe/Troy, Missouri",
+          "state": "MO",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Southern Illinois University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Daniel and Ann Price, she has two brothers, Marcus and Steven. Married to James Lambert</li><li>In 2015, became only the fifth woman in NCAA history to win back-to-back hammer throw titles, and the first since 2007</li><li>Set a new world record in the indoor weight throw in 2023 (26.02 meters)</li><li>Her 80.31-meter (263 ft., 5 in.) hammer throw during the 2021 Olympic Trials still stands as the American record and ranked her as the No. 2 women's thrower in history</li><li><p>Deanna has only one kidney and has endured several injuries throughout her career, including a dislocated shoulder, broken scapula, torn abdominal, torn MCL, and a stretched ACL and PCL</p></li><li><p>Her interests include painting, walking her dog, playing softball and hunting</p></li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Paris 2024, 11th (Hammer Throw - Women)</li><li>Olympic Games Tokyo 2020, 8th (Hammer Throw - Women)</li><li>Olympic Games Rio de Janeiro 2016, 8th (Hammer Throw - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Hammer Throw - Women)</li><li>Years of participation: Hammer Throw - Women 2015, 2017, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Hammer Throw - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684895941/TeamUSA%20Assets/Migration/Price_DeAnna_112119_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662248/TeamUSA%20Assets/Athlete%20Profiles/DeAnna%20Price%20880939/price_d_hero_880939.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008774/TeamUSA%20Assets/Athlete%20Profiles/DeAnna%20Price%20880939/Price_Deanna.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "DeAnna Price 880939"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Brianna",
+      "last_name": "Pritchard",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1991-11-24T00:00:00",
+        "hometown": {
+          "city": "Anchorage",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 61.2181,
+          "longitude": -149.9003
+        },
+        "education": "South Anchorage High School (Anchorage, Alaska) Concordia University Chicago (Online), Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>B-girl name: &quot;Snap 1&quot;</li><li>I was born and raised in Anchorage, Alaska, and I am a Tlingit Alaskan Native. I have been breaking for 15 years and started with my hometown crew Elements of Rice (EOR). I was the only female in the crew and the only B-girl in Alaska for well over 12 years. I was still the only B-girl in Alaska upon leaving the state in 2022. My style is heavily male influence, which makes me stand out amongst my peers. Today I am a member of an all female crew called Flooristas</li><li>In my professional career, I am a UH-60 Blackhawk helicopter mechanic, crew chief, and instructor for the National Guard. Being a Blackhawk mechanic has been my full-time job since 2013. I was also the first female to complete the instructors course and the first person to graduate that course with honors from the state of Alaska. I deployed to Iraq with my husband in 2021-2022, where I continued to train to the best of my ability for the upcoming Team USA qualifiers.</li><li>Ever since I watched the movie &#39;Miracle&#39; about the 1980 Team USA Olympic hockey team, it has always been a dream to make Team USA. I had once given up that dream by walking away from my collegiate-bound sports to solely pursue breaking. Now, I have finally made my dreams come true by being one of the first members of the first ever Team USA Breaking. I attribute this accomplishment to always reminding myself; &quot;If you do what is easy, your life will be hard. If you do what is hard, your life will be easy.&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Korea 2022 Top 100</li>\r\n                            <li>2022 Breaking For Gold Regional Qualifiers: Las Vegas, NV (1st Place); Austin, TX (3rd Place); Minneapolis, MN (2nd place); Orlando, FL (3rd place); Nationals (4th place)</li>\r\n                            <li>2020: Red Bull Ebattle International Competition, top 16</li>\r\n                            <li>2019: Red Bull BC One USA Nationals, Semi-Finalist; Outbreak International Competition, ranked 17</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Breaking",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367237/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brianna%20Pritchard/pritchard_brianna_2023_BioHeadshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brianna Pritchard"
+        }
+      ]
+    },
+    {
+      "first_name": "Cali",
+      "last_name": "Prochaska",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "2002-10-22T00:00:00",
+        "hometown": {
+          "city": "Fort Wayne",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 41.0793,
+          "longitude": -85.1394
+        },
+        "education": "R. Nelson Snider High School (Fort Wayne, Ind.) '21 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with proximal femoral focal disorder in her left leg and hip, Cali first began swimming as a form of physical therapy following Van Ness Rotationplasty surgery in 2008. She then began swimming competitively in 2013</li><li>Daughter of Brian and Melissa Prochaska</li><li>Has two brothers, Tanner and Connor, and three sisters, Jana, Faith and Lauren</li><li>Hobbies include swimming, listening to music and reading.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (100m Butterfly S9 - Women, 200m Individual Medley SM9 - Women, 400m Freestyle S9 - Women, 100m Breaststroke SB8 - Women)</li><li>ParaPan American Games, Lima, 2019 (100m Butterfly S9 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S9, SB8, SM9",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008765/TeamUSA%20Assets/Athlete%20Profiles/Cali%20Prochaska%201149150/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cali Prochaska 1149150"
+        }
+      ]
+    },
+    {
+      "first_name": "Tara",
+      "last_name": "Profitt",
+      "bio": {
+        "height": "5’9”",
+        "birthday": "1965-07-26T00:00:00",
+        "hometown": {
+          "city": "Apollo Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.7606,
+          "longitude": -82.4009
+        },
+        "education": "Central Connecticut State University",
+        "fun_fact": "",
+        "biography": "<div><strong></strong></div>\n\n<div><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games London 2012, 5th (Singles Class 1-2 - Women), 9th (Team Class 1-3 - Women)</li></ul></ul><h5>Career Highlights</h5>\n<ul>\n    <li>2014 Copa Costa Rica Bronze in Singles class 1-2</li>\n    <li>2013 Para Pan American Championships Bronze in Teams class 1-3&nbsp;<br>\n    </li>\n    <li>2011 Para Pan American Games, 4th place (Women&rsquo;s singles)</li>\n    <li>2011 Para Pan American Games Silver in Teams class 1-3&nbsp;</li>\n    <li>2011 Brazil Open Gold in Teams class 1-5&nbsp;</li>\n    <li>2011 Copa Costa Rica Silver in Singles class 1-2&nbsp;</li>\n    <li>2011 Copa Costa Rica Bronze in Teams class 2-4&nbsp;<br>\n    </li>\n    <li>2009 Para Pan American Championships, gold medal (Women&rsquo;s team)</li>\n    <li>2009 Para Pan American Championships Gold in Teams class 1-3 <br>\n    </li>\n</ul>\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011120/TeamUSA%20Assets/Athlete%20Profiles/Tara%20Profitt%20877833/Desktop-Image-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Table Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011123/TeamUSA%20Assets/Athlete%20Profiles/Tara%20Profitt%20877833/taraprofitt.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tara Profitt 877833"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Briana",
+      "last_name": "Provancha",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1989-04-25T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Point Loma High School (San Diego, Calif.) ‘07 Boston College ’12, Marketing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bill Ferguson and AnnMarie Provancha</li><li>Has one sister, Alexa</li><li>Began sailing at age 8</li><li>Hobbies include playing tennis</li><li>Was the valedictorian of her high school</li><li>At Boston College,  led the Eagles to two co-ed national titles, one team race national title, two women’s national titles and two Fowle Trophies</li><li>Served as a part-time sales associate at Cole Haan through the Team USA Career Program.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 7th (470 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – 6th (470 - Women)</li><li>Years of participation: 470 - Women 2009, 2013, 2014, 2015, 2016; 29er - Open 2007; 420 - Women 2005, 2006</li><li>Top finish: 6th – 2016 (470 - Women)</li></ul><h5>More</h5>Personal Website<br>\nUS Sailing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718438/TeamUSA%20Assets/Migration/Athlete%20Profiles/Briana%20Provancha%201000334/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718439/TeamUSA%20Assets/Migration/Athlete%20Profiles/Briana%20Provancha%201000334/Provancha_Briana_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Briana Provancha 1000334"
+        }
+      ]
+    },
+    {
+      "first_name": "Conner",
+      "last_name": "Pruitt",
+      "bio": {
+        "height": "5' 11\"",
+        "birthday": "2000-04-08T00:00:00",
+        "hometown": {
+          "city": "Opelika",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 32.64652,
+          "longitude": -85.37856
+        },
+        "education": "Auburn University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Debra and Lance Pruitt</li><li>Has three older siblings: Will, Jennifer and Ashley</li><li>Enjoys tennis and grilling</li><li>Plays piano</li><li>Favorite dive is 5337D</li><li>Blinks on the second step of his hurdle</li><li>Focused a lot on visualization and meditation in 2021 while recovering from a fractured wrist</li><li>Wants to be a coach</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367719/TeamUSA%20Assets/Migration/Athlete%20Profiles/Conner%20Pruitt/Conner-Pruitt-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Conner Pruitt"
+        }
+      ]
+    },
+    {
+      "first_name": "Jason",
+      "last_name": "Pryor",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1987-09-26T00:00:00",
+        "hometown": {
+          "city": "South Euclid",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.52,
+          "longitude": -81.52
+        },
+        "education": "Lyndhurst Brush High School (Lyndhurst, Ohio) ‘05 Ohio State University '09, English",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Brenda and Eric Pryor</li><li>Has one brother, Jared, and one sister, Lilian</li><li>Hobbies include screenwriting, eating and sleeping</li><li>Favorite foods include chicken and waffles.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 22th (Individual Epee - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 8th (Team Epee - Men), 107th (Individual Epee - Men)</li><li>Years of participation: Individual Epee - Men 2013, 2014, 2015, 2017, 2018; Team Epee - Men 2013, 2014, 2015, 2017, 2018</li><li>Top finish: 8th – 2018 (Team Epee - Men)</li></ul><h5>More</h5>USA Fencing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011137/TeamUSA%20Assets/Athlete%20Profiles/Jason%20Pryor%20819781/Pryor_Jason_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jason Pryor 819781"
+        }
+      ]
+    },
+    {
+      "first_name": "Kory",
+      "last_name": "Puderbaugh",
+      "bio": {
+        "height": "4'1\"",
+        "birthday": "1996-04-02T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Eagle High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>A natural-born quad amputee. In high school, he excelled in wrestling</li><li>Moved to California to join the San Diego Sharp wheelchair team</li><li>Son of John and Trudi Cochrane</li><li>Has two siblings, Alex and Bailey</li><li>Spent the early part of his childhood in a Polish orphanage</li><li>Enjoys Aviation, chess, business, learning.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 silver)</li><ul><li>Paralympic Games Tokyo 2020, silver (Team - Mixed)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Mixed)</li></ul></ul><h5>More</h5>USA Wheelchair Rugby<h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (Team - Mixed)</li><li>Years of participation: Team - Mixed 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2022 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662023/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_Puderbaugh_bio_1026897.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "3.0",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003778/TeamUSA%20Assets/Athlete%20Profiles/Kory%20Puderbaugh%201026897/Puderbaugh_Kory_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kory Puderbaugh 1026897"
+        }
+      ]
+    },
+    {
+      "first_name": "Camden",
+      "last_name": "Pulkinen",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2000-03-25T00:00:00",
+        "hometown": {
+          "city": "Mesa ",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Hamilton High School (Chandler, Arizona ) ‘18 ",
+        "fun_fact": "",
+        "biography": "<h5>Personal</h5><div><div><ul><li>Son of and Arthur and Jeri Pulkinen</li><li>Began skating at age 5</li><li>Hobbies include playing club soccer, golf, ping pong and riding skateboards</li><li>Is a featured soloist in the Ice Den Chandler’s annual ice show and the Fairmont Princess’s Christmas show in Scottsdale, Arizona</li><li>Trains with Karen Gesell, Olympians Ben Agosto and Steven Cousins, and Douglas Razzano.</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 20th (Singles - Men)</li><li>Years of participation: Singles - Men 2022, 2024</li><li>Top finish: 5th – 2022 (Singles - Men)</li></ul></div><h5>Career Highlights</h5><ul><li>World Junior Championships, Zagreb, 2019 (Singles - Men)</li><li>World Junior Championships, Sofia, 2018 (Singles - Men)</li></ul></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742609959/TeamUSA%20Assets/Migration/Athlete%20Profiles/Camden%20Pulkinen%20832518/Pulkinen_C_bio_832518.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742609742/TeamUSA%20Assets/Migration/Athlete%20Profiles/Camden%20Pulkinen%20832518/Pulkinen_C_hero_832518.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742609581/TeamUSA%20Assets/Migration/Athlete%20Profiles/Camden%20Pulkinen%20832518/Pulkinen_C_thumbnail_832518.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Camden Pulkinen 832518"
+        },
+        {
+          "title": "Figure Skating"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Lindsey",
+      "last_name": "Pulliam",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1999-08-06T00:00:00",
+        "hometown": {
+          "city": "Silver Spring",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.0026,
+          "longitude": -77.0249
+        },
+        "education": "Our Lady of Good Counsel Catholic High School (Olney, Md.) ‘17 Northwestern University ‘21, Communications Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Onzilo and Susan Pulliam</li><li>Member of honor roll throughout high school.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003769/TeamUSA%20Assets/Athlete%20Profiles/Lindsey%20Pulliam%201163602/pulliam_lindsey.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lindsey Pulliam 1163602"
+        }
+      ]
+    },
+    {
+      "first_name": "Amy",
+      "last_name": "Purdy",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1979-11-07T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "Cimarron Memorial High School (Las Vegas, Nev.)  ‘98 ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Amy Purdy began snowboarding at age 15, but in 1999, she contracted bacterial meningitis at the age of 19 and had less than a two percent chance of living. She was able to survive the infection, but lost both of her legs below the knee and would later require a kidney from her father the week before her 21st birthday</li><li>Co-founded Adaptive Action Sports in 2005, a non-profit organization and branch of Disabled Sports USA that is dedicated to introducing people with physical challenges to action sports</li><li>Instrumental in advocating for the inclusion of adaptive snowboarding to the 2014 Paralympic Games</li><li>Works as a motivational speaker, model and actress</li><li>Spokesperson for the Challenged Athletes Foundation, an organization that provides grants for training, competition and equipment for athletes with disabilities</li><li>Featured in a Madonna music video and a photo shoot with Nikki Sixx, and she made her film debut in What’s Buggin’ Seth, a movie by Eli Steele, in 2005</li><li>Competed on Dancing With the Stars</li><li>Contestant on the 21st season of The Amazing Race with partner Daniel Gale</li><li>Married to Gale</li><li>Co-author of &quot;On My Own Two Feet&quot;</li><li>Hobbies include exploring the outdoors, writing, wakeboarding, mountain biking and cooking.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 3-time Paralympic medalist (1 silver, 2 bronze)</li><ul><li>Paralympic Games Pyeongchang 2018, silver (Snowboard Cross - Lower Limb 1 Impaired - Women), bronze (Banked Slalom - Lower Limb 1 Impaired - Women)</li><li>Paralympic Games Sochi 2014, bronze (Snowboardcross - Standing - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 –  (Snowboard Cross - Lower Limb 1 Impaired - Women), bronze (Banked Slalom - Lower Limb 1 Impaired - Women)</li><li>Years of participation: Banked Slalom - Lower Limb 1 Impaired - Women 2017; Snowboard Cross - Lower Limb 1 Impaired - Women 2017; Snowboardcross - Standing - Women 2012</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2012 (Snowboardcross - Standing - Women)</li><li>Bronze – 2017 (Banked Slalom - Lower Limb 1 Impaired - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003761/TeamUSA%20Assets/Athlete%20Profiles/Amy%20Purdy%20803389/Purdy_Amy_121613_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "SB-LL1",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003764/TeamUSA%20Assets/Athlete%20Profiles/Amy%20Purdy%20803389/Purdy_Amy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Amy Purdy 803389"
+        }
+      ]
+    },
+    {
+      "first_name": "Elle",
+      "last_name": "Purrier St. Pierre",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1995-02-20T00:00:00",
+        "hometown": {
+          "city": "Montgomery",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 44.8833,
+          "longitude": -72.6
+        },
+        "education": "University of New Hampshire ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married longtime boyfriend Jamie St. Pierre in 2020</li><li>Grew up on a dairy farm in Vermont</li><li>Three-time Vermont Gatorade Cross Country Athlete of the Year in high school</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 8th (1500m - Women)</li><li>Olympic Games Tokyo 2020, 10th (1500m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (3000m (Indoor) - Women), 22th (1500m - Women)</li><li>Years of participation: 1500m - Women 2022; 3000m (Indoor) - Women 2022; 5000m - Women 2019</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2022 (3000m (Indoor) - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662042/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/PurrierSt.Pierre_e_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662179/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/purrierstpierre_e_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921221/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elle%20Purrier%20St.%20Pierre/Purrier_Elinor.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elle Purrier St. Pierre"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Ivan",
+      "last_name": "Puskovitch",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "2001-02-28T00:00:00",
+        "hometown": {
+          "city": "West Chester",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.9597,
+          "longitude": -75.6058
+        },
+        "education": "West Virginia University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Attended both the University of Southern California and West Virginia University</li><li>Son of Robin Rabinovitch</li></ul><h5>Career Highlights</h5><ul><li>2024 World Aquatics Championship, 14th in 10k race</li><li>Fifth US male in history to qualify for the Olympics in open water swimming</li><li>First athlete from the West Virginia University Swim and Dive program to qualify for the Olympic Games.</li><li>U.S. Junior National Champion in open water and pool</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 19th (10km Freestyle - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 14th (10km Freestyle - Men), 30th (5km Freestyle - Men)</li><li>Years of participation: 10km Freestyle - Men 2024; 5km Freestyle - Men 2024</li><li>Top finish: 14th – 2024 (10km Freestyle - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707327745/Puskovitch_Ivan_Worlds24.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707327745/Puskovitch_Ivan_Worlds24.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707327745/Puskovitch_Ivan_Worlds24.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707327745/Puskovitch_Ivan_Worlds24.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        },
+        {
+          "title": "Ivan Puskovitch"
+        }
+      ]
+    }
+  ]
+}

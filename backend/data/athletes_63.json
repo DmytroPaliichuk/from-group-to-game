@@ -1,0 +1,992 @@
+{
+  "entries": [
+    {
+      "first_name": "Robert",
+      "last_name": "Healy",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2002-02-06T00:00:00",
+        "hometown": {
+          "city": "Chevy Chase",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9832,
+          "longitude": -77.0571
+        },
+        "education": "Bethesda Chevy Chase High School (Bethesda, Md.) and Escola Americano do Rio de Janeiro (Rio de Janeiro, Brazil) ‘20",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Rebecca and Langdon</li><li>Mother is a diplomat for the U.S. Department of State</li><li>Has lived in Mexico City, Belfast and Washington D.C., and now resides in Rio de Janeiro</li><li>Began kayaking at age 11</li><li>Hobbies include surfing, rowing, swimming and reading about current events.</li></ul><h5>Career Highlights</h5><ul><li>World Junior & U23 Championships, Ljubljana, 2021 (K1 Team - Men, K1 - Men)</li><li>World Junior & U23 Championships, Ivrea, 2018 (C1 Team - Men, C1 - Men)</li><li>World Junior & U23 Championships, Bratislava, 2017 (C1 Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328243/TeamUSA%20Assets/Migration/Athlete%20Profiles/Robert%20Healy/healy_robert.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Robert Healy"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Hearn",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1959-04-17T00:00:00",
+        "hometown": {
+          "city": "Bethesda",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9847,
+          "longitude": -77.0947
+        },
+        "education": "University of Massachusetts, Amherst",
+        "fun_fact": null,
+        "biography": "<p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px;\"><b>David Carter \"Davey\" Hearn</b>&nbsp;(born April 17, 1959 in Bethesda, Maryland) is a former&nbsp;Canoe Slalom athlete&nbsp;who competed from the late 1970s to the early 2000s (decade). He won seven medals in the C1 event at the ICF Canoe Slalom World Championships&nbsp;with two Gold medals (1985 and 1995) and five Silver medals (1979, 1981, 1983, 1987, 1989). He also won six consecutive world championship gold medals in the C1 team event (1979-1989).</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px;\">Hearn competed in three Summer Olympics, earning his best finish of ninth at the 1996 Atlanta Olympic Games.</p><p style=\"margin-top: 0.5em; margin-bottom: 0.5em; line-height: 22.3999996185303px; color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px;\">Hearn's sister,&nbsp;Cathy also competed for the United States in Canoe Slalom and won a World Championship title in 1979.</p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Sydney 2000, 12th (C1 - Men)</li><li>Olympic Games Atlanta 1996, 9th (C1 - Men)</li><li>Olympic Games Barcelona 1992, 11th (C1 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 1999 – 10th (C1 Team - Men), 25th (C1 - Men)</li><li>Years of participation: C1 - Men 1979, 1981, 1983, 1985, 1987, 1989, 1993, 1995, 1997, 1999; C1 Team - Men 1979, 1981, 1983, 1985, 1987, 1989, 1997, 1999</li><li>Medals: 13 (8 gold, 5 silver)</li><ul><li>Gold – 1995 (C1 - Men);  1989 (C1 Team - Men);  1987 (C1 Team - Men);  1985 (C1 - Men, C1 Team - Men);  1983 (C1 Team - Men);  1981 (C1 Team - Men);  1979 (C1 Team - Men)</li><li>Silver – 1989 (C1 - Men);  1987 (C1 - Men);  1983 (C1 - Men);  1981 (C1 - Men);  1979 (C1 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992, 1996, 2000",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328190/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20Hearn/David-Hearn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Hearn"
+        }
+      ]
+    },
+    {
+      "first_name": "Tobin",
+      "last_name": "Heath",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1988-05-29T00:00:00",
+        "hometown": {
+          "city": "Basking Ridge",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.7026,
+          "longitude": -74.5563
+        },
+        "education": "University of North Carolina ‘09, Communications",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jeffrey and Cindy Heath</li><li>Has three siblings, Jeffrey, Katherine and Perry</li><li>Selected No. 1 overall in the 2010 WPS Draft by the expansion Atlanta Beat</li><li>Nickname is “Tobs”</li><li>Enjoys playing any sport, spending time outdoors, playing tennis and skateboarding</li><li>Is a self-proclaimed vagabond, and prefers to drift from place to place while visiting friends and family around the world.</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 3-time Olympic medalist (2 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li><li>Olympic Games London 2012, gold (Team - Women)</li><li>Olympic Games Beijing 2008, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2011, 2015, 2019</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2019 (Team - Women);  2015 (Team - Women)</li><li>Silver – 2011 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662086/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/T_Heath_bio_842530.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662496/TeamUSA%20Assets/Athlete%20Profiles/Tobin%20Heath%20842530/T_Heath_hero_842530.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012733/TeamUSA%20Assets/Athlete%20Profiles/Tobin%20Heath%20842530/Tobin_Heath_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tobin Heath 842530"
+        }
+      ]
+    },
+    {
+      "first_name": "Garrett",
+      "last_name": "Heath",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1985-11-03T00:00:00",
+        "hometown": {
+          "city": "Winona",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.0522,
+          "longitude": -91.6376
+        },
+        "education": " Stanford University",
+        "fun_fact": "",
+        "biography": "<strong></strong><p>&nbsp;</p><div><p><strong ><br bold=\"[object Object]\"/></strong></p><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (5000m - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Linda and Bob Heath</li><li>Has one brother, Elliott, who also competes in track</li><li>Was a two-time Minnesota high school state champion in Nordic skiing</li><li>Hobbies include road tripping, hiking, cross-country skiing, golfing and camping.</li><li><p>Winona Senior High School (Winona, Minn.) '04 Stanford University '09, Management Science and Engineering</p></li></ul><br /><br /><h5>More</h5><p>USA Track and Field</p><br /><br /></div><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – 7th (1500m (Indoor) - Men)</li><li>Years of participation: 1500m (Indoor) - Men 2010</li><li>Top finish: 7th – 2010 (1500m (Indoor) - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328161/TeamUSA%20Assets/Migration/Athlete%20Profiles/Garrett%20Heath/Athletics_Heath_Garrett.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Garrett Heath"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Heavirland",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1995-02-25T00:00:00",
+        "hometown": {
+          "city": "Whitefish",
+          "state": "MT",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Phillips Exeter Academy Army West Point, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began playing rugby at the age of 15, quickly falling in love with the sport and flexing her natural ability to excel</li><li>Played women’s basketball during her first semester at Army West Point before making an official transition to their rugby team in Spring of 2015</li><li>That same year, she was also named a U.S. Military Academy All-American</li><li>Was selected as a reserve for the Olympic Games Rio 2016 and though she didn't compete, the selection was a clear indication of her growth in rugby</li><li>Transitioned to 15s in 2017 and suited up for the 2017 Women's Rugby World Cup in Ireland, helping the Women's National Team advance to the Semifinals</li><li>Later that year, she returned to sevens as a Captain for the 2017-2018 HSBC Series</li><li>Enjoys Fly-Fishing, hunting, skiing, snowboarding, water skiing, coffee drinking, bike riding, wake surfing, cooking and yoga.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2018, 2022</li><li>Top finish: 4th – 2018 (Team - Women), 2022 (Team - Women)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721754329/TeamUSA%20Assets/Athlete%20Profiles/Nicole%20Heavirland%20919942/Heavirland_N_bio_919942.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721754348/TeamUSA%20Assets/Athlete%20Profiles/Nicole%20Heavirland%20919942/Heavirland_N_thumbnail_919942.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721754348/TeamUSA%20Assets/Athlete%20Profiles/Nicole%20Heavirland%20919942/Heavirland_N_thumbnail_919942.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicole Heavirland 919942"
+        },
+        {
+          "title": "Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Joshua",
+      "last_name": "Hedberg",
+      "bio": {
+        "height": "5' 4\"",
+        "birthday": "2007-01-29T00:00:00",
+        "hometown": {
+          "city": "Noblesville",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 40.0456,
+          "longitude": -86.0136
+        },
+        "education": "Indiana Connections Academy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Alina and Mark Hedberg</li><li>He has an older brother, Jacob, who was also a diver</li><li>Joshua likes to work out and listen to music</li><li>He trains five hours a day, five days a week</li><li>Started out as in trampoline and tumbling at age before starting to compete in diving at age 8</li><li>When he qualified for trampoline/tumbling nationals and diving junior nationals in the same year, his parents asked him to choose, and he decided diving would be his focus moving forward</li><li>He competed in her first diving junior nationals in 2016</li><li>His favorite dive is 407C on 10-meter</li><li>Likes to listen to alternative rock between dives (particularly Bilmuri, Don Broco, and Foster The People)</li><li>His favorite diver is David Boudia, and his favorite book is Boudia's Greater Than Gold</li><li>He would love to meet Greg Louganis because they share the same birthday</li><li>Has a gluten allergy and says it can sometimes be challenging to find appropriate meals when away at competitions</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Rio de Janeiro, 2024 (Team Event - Mixed, 10m Platform - Men)</li><li>World Cup, Berlin, 2022 (10m Platform - Men)</li><li>World Junior Championships, Montreal, 2022 (Team Event - Mixed, 10m Platform Synchro - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 11th (10m Platform - Men)</li><li>Years of participation: 10m Platform - Men 2022</li><li>Top finish: 11th – 2022 (10m Platform - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367657/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joshua%20Hedberg/Josh-Hedberg_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joshua Hedberg"
+        }
+      ]
+    },
+    {
+      "first_name": "Margaret",
+      "last_name": "Hedeman",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2000-09-01T00:00:00",
+        "hometown": {
+          "city": "Concord",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.46092,
+          "longitude": -71.35339
+        },
+        "education": "Yale University '23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Began rowing in 2014 at Community Rowing, Inc. (CRI) on the Charles River in Boston</p></li><li>Mother rowed for Yale and her younger sister, Lizzie, is on the Under 19 National Team. Older sister, Catlin, is in law school in Minnesota</li><li>Was a 2020, 2022, and 2023 CRCA Scholar Athlete and a 2023 First-Team All-Ivy selection</li><li>Is the recipient of Yale University’s 2019 Chris Ernst Award and 2023 Anne Warner Award</li><li>Is the recipient of Yale's 2023 Robert D. Gries prize for senior thesis in history</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Eight - Women)</li><li>Years of participation: Eight - Women 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Eight - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li><p>2022 World Rowing Under 23 Championships, gold (Eight)</p></li><li>Island Challenge Cup at the 2022 Henley Royal Regatta, final</li><li>2021 World Rowing Under 23 Championships, 9th (Quadruple Sculls)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 5th (Eight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713456021/TeamUSA%20Assets/Athlete%20Profiles/Margaret%20Hedeman%201115131/Hedeman_m_bio_1115131.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713455940/TeamUSA%20Assets/Athlete%20Profiles/Margaret%20Hedeman%201115131/Hedeman_m_hero_1115131_01.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713455940/TeamUSA%20Assets/Athlete%20Profiles/Margaret%20Hedeman%201115131/Hedeman_m_hero_1115131_01.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713455940/TeamUSA%20Assets/Athlete%20Profiles/Margaret%20Hedeman%201115131/Hedeman_m_hero_1115131_01.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Margaret Hedeman 1115131"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Alexander",
+      "last_name": "Hedge",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1997-05-11T00:00:00",
+        "hometown": {
+          "city": "Morristown",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.7965,
+          "longitude": -74.4807
+        },
+        "education": "Columbia University",
+        "fun_fact": "",
+        "biography": "<h5>International Experience</h5><p><strong>Olympic Games</strong></p><ul><li>2024 Olympic Team Alternate</li></ul><p><strong>World Championships</strong></p><ul><li>2025 World Rowing Championships — Bronze Medal, Men’s 8+</li><li>2023 World Rowing Championships — 6th Place, Men’s 8+</li></ul><p><strong>World Cup</strong></p><ul><li>2024 World Rowing Cup — 11th Place, Men’s 2-</li><li>2025 World Rowing Cup — 5th Place, Men’s 4-</li></ul><p><strong>Pan American Games</strong></p><ul><li>2023 Pan American Games — Gold Medal, Mixed 8+</li><li>2023 Pan American Games — Gold Medal, Men’s 2-</li></ul><h5>Domestic Competitions</h5><p><strong>U.S. Olympic Trials</strong></p><ul><li>2024 U.S. Olympic Trials — 2nd Place, Men’s 2-</li></ul><p><strong>Head of the Charles Regatta</strong></p><ul><li>2022 Head of the Charles — Winner &amp; Course Record, Championship Men’s 8+</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769447278/PS_769427.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769448018/0925ShanghaiThurRow2k073.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769447277/2258491_13605.jpg"
+        }
+      ],
+      "content_tags": []
+    },
+    {
+      "first_name": "Courtney",
+      "last_name": "Heeley",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1992-03-18T00:00:00",
+        "hometown": {
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.44838,
+          "longitude": -112.07404
+        },
+        "education": "Greenway High School University of Illinois at Chicago (UIC)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to David &amp; Rosa, Sister to Mary, Valerie, Natalie &amp; Buddy</li><li>Auntie to 9 nieces and nephews</li><li>4 year letterwoman in softball at UIC</li><li>Horizon League Conference Champions 2011</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 ANOC World Beach Games - 10th (Doha, Qatar)</li>\r\n                            <li>2019 North American &amp; Caribbean (NORCA) Beach Handball Championships - 1st (Trinidad &amp; Tobago)</li>\r\n                            <li>2018 IHF Beach Handball World Championships - 14th (Kazan, Russia)</li>\r\n                            <li>2018 Pan American Beach Handball Championships - 6th (Oceanside, California)</li>\r\n                            <li>2015 American Open Beach Handball Championships - 1st (Gulf Shores, AL)</li>\r\n                            <li>2014: Named to the U.S. Women&#39;s Senior National Team Player Pool  </li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010149/TeamUSA%20Assets/Athlete%20Profiles/Courtney%20Heeley%20906143/Heeley-Hero-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010152/TeamUSA%20Assets/Athlete%20Profiles/Courtney%20Heeley%20906143/Heeley-Head-Shot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Courtney Heeley 906143"
+        }
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Hefner",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1992-07-02T00:00:00",
+        "hometown": {
+          "city": "Gainesville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.2979,
+          "longitude": -83.8241
+        },
+        "education": "University of North Georgia - Bachelors of Science in Physics",
+        "fun_fact": null,
+        "biography": "<p><strong></strong></p>\n<span style=\"font-family: tahoma;\"><strong>Event/Discipline</strong>: Canoe Sprint, C1 and C2<strong><br>\n</strong>\n<strong>Birthdate</strong>: 7/2/1992<br>\n<strong>Height</strong>: 6'5\"<br>\n<strong>Hometown</strong>: Gainesville, Georgia<br>\n<strong>College</strong>: University of North Georgia - Bachelors of Science in Physics<br>\n<strong>Club</strong>: Lanier Canoe and Kayak Club (LCKC)<br>\n<br>\n<em><br>\n</em></span>\n<div><span style=\"font-family: tahoma;\"><em>2015 U.S. Senior National Team and U23 World Championships Team Member</em><br>\n<br>\n<br>\n<strong>Recent Results</strong>:<br>\n</span>\n<ul>\n    <li><span style=\"font-family: tahoma;\">2015 ICF Canoe Sprint and Paracanoe World Championships: 31st overall in C1 200m&nbsp;</span></li>\n    <li><span style=\"font-family: tahoma;\">2015 ICF Canoe Sprint Junior and U23 World Championships: 9th in C1 U23 1000m semifinal, 7th in C1 U23 200m heats</span></li>\n    <li><span style=\"font-family: tahoma;\">2015 World Cup No. 2: 9th in C1 200m semifinal, 8th in C1 500m heats</span></li>\n    <li><span style=\"font-family: tahoma;\">2015 World Cup No. 1: 7th in C1 200m semifinal, 8th in C1 1000m heats</span></li>\n    <li><span style=\"font-family: tahoma;\">2013 Junior World Championships: 17th in U-23 C1 200m</span></li>\n    <li><span style=\"font-family: tahoma;\">2013 Lake Placid International: 3rd in C1 200m, 1st in C2 1000m with Ian Ross</span></li>\n    <li><span style=\"font-family: tahoma;\">2013 U.S. National Team Trials in Oklahoma City, Okla.: 1st in C2 1000m, 2nd in C1 200m, 3rd in C1 1000m</span></li>\n    <li><span style=\"font-family: tahoma;\">2012 U.S. National Championships in Seattle, Wash.: 1st in C2 500m, C2 1000m, C4 1000m</span></li>\n    <li><span style=\"font-family: tahoma;\">2012 Bochum U23 International Regatta in Germany: 1 Gold in C2 200m (with Ian Ross) and 2 Silver in C2 500m &amp; 1000m</span></li>\n    <li><span style=\"font-family: tahoma;\">2012 World Cup No. 2 in Duisburg, Germany: 18th in C2 1000m reached semifinals in 200m and 500m</span></li>\n    <li><span style=\"font-family: tahoma;\">2012 U.S. Olympic Team Trials in Oklahoma City, Okla.: 2nd in C1 200m</span></li>\n    <li><span style=\"font-family: tahoma;\">2011 World Championships in Szeged, Hungary: 8th in C4 1000m A Final, 7th in C1 200m B Final, 9th in C1 1000m semifinals, 8th in C2 500m heats</span></li>\n    <li><span style=\"font-family: tahoma;\">2011 World Cup No. 3 in Duisburg, Germany: reached semifinal in C-1 200m (9th in semi) and 500m (8th in semi), knocked out in heats for C-1 1000m (9th in heat)</span></li>\n    <li><span style=\"font-family: tahoma;\">2011 World Cup No. 2 in Racice, Czech Republic: reached semifinal in C-1 500m (9th in semi), knocked out in heats for C-1 200m (8th in heat)</span></li>\n    <li><span style=\"font-family: tahoma;\">2011 US Sprint Team Trials: 1st in C1 1000m, 2nd in C1 200m</span></li>\n    <li><span style=\"font-family: tahoma;\">2X 2011 National Champion: C-2 500m; C-4 1000m</span></li>\n</ul>\n<span style=\"font-family: tahoma;\"><strong>Career Highlights</strong>:<br>\n</span>\n<ul>\n    <li><span style=\"font-family: tahoma;\">2010 U.S. National Championships - 7 gold medals</span></li>\n    <li><span style=\"font-family: tahoma;\">4-time Member of US Junior National Sprint Team: 2006, 2008, 2009, 2010</span></li>\n    <li><span style=\"font-family: tahoma;\">competed in C2/C1 at the 2009 ICF Junior Canoe Sprint World Championship in Moscow</span></li>\n    <li><span style=\"font-family: tahoma;\">competed in Senior and Junior races at 2010 Pan American Championships in Mexico City</span></li>\n</ul>\n<span style=\"font-family: tahoma;\"><br>\n<strong>Honors</strong>:<br>\n&bull;\t2010 LCKC Male Paddler of the Year<br>\n&bull;\t3-time LCKC Junior Paddler of the Year: 2007-2009<br>\n&bull;\t2009 LCKC Sportsmanship Award<br>\n&bull;\tEagle Scout<br>\n&bull;\tGeorgia Merit Scholar<br>\n<br>\n<strong>Personal</strong>:<br>\n&bull;\t<strong>Job</strong>: After school engineering teacher<br>\n&bull;\t<strong>Hobbies</strong>: Camping, hunting, reading, and recreational sports<br>\n&bull;\t<strong>Quote</strong>: &ldquo;There are two types of things you get, those you are given and those you take.&nbsp; And people do not easily give that which they work hard to get.&rdquo;&nbsp;<br>\n&bull;\t<strong>Role Model:</strong> Claudiu&nbsp;Ciur, Buzz Aldrin&nbsp;<br>\nthat, academically, I was in the top 5% of all seniors in Georgia who graduated in 2010.</span>\n<div><span style=\"font-family: tahoma;\"><br>\n</span>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>At what age did you start paddling and how did you become involved in the sport?&nbsp; </strong>I started out kayaking in 2005 at the age of 13, in the middle school program, at the Lanier Canoe and Kayak Club.&nbsp; In 2006 my coaches, Dave and Devri Robertson, encouraged me to try canoeing.&nbsp; It was definitely the right decision. <strong>&nbsp;&nbsp; </strong><br>\n<br>\n<strong>Where and when was your first competition, and how did you do?&nbsp; </strong>My first competition was the Sprint Canoe/Kayak National championships in 2006 in Georgia. I won the Bantam 1000m and 500m.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What has inspired you to train and compete at an International level?&nbsp; </strong><strong>&nbsp;</strong>My love of the sport and my commitment to excellence fuels my desire to compete internationally. In this sport, in order to be competitive at the World Championships and to make the Olympic team, I have to compete internationally. <strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What is your preference - individual or team boats, and why?&nbsp; </strong>I enjoy both. I enjoy C1 because of the self-satisfaction and individual accomplishment you experience in a single boat. I enjoy C2 with my current partner, Ian Ross, because of the brotherhood and camaraderie that comes from working and winning in a team boat. Ian and I are both committed to winning and work well together.<strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What race distance do you prefer, and why</strong>? I prefer the 1000m because it is more tactical and my height has given me an advantage in this race.<strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What has been your biggest accomplishment(s) in the sport?&nbsp;</strong>At the Bochum U23 Regatta in the summer of 2012, Ian and I won gold in the 200m C2 and silver in both the 500m and 1000m C2 races.</span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What is the best advice you have been given and who offered it to you?&nbsp;</strong>I have been given a lot of great advice over the years.&nbsp; However, I think the best advice has come from my coach Claudiu Cuir. I have always had a hard time learning to recover from a tough loss. After a particularly tough race day, he told me that I can&rsquo;t always get upset every time I don&rsquo;t come in first. I have to learn to move on and focus on the next race.&nbsp; <strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>Tell us about your current training schedule? Describe an average day for you?&nbsp;</strong>On a typical Monday, I get up for a 7 am paddle followed by a one hour weight circuit. I have another intense training session on the water at 10 am. After lunch and a short break, I have another training session on the water from 4 to 6 pm.&nbsp; This is followed by a running workout.&nbsp; <strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What do you do for fun and relaxation?</strong>&nbsp;I enjoy reading, watching movies, cooking, playing intramural sports, playing video games and hanging out with my girlfriend.<strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong style=\"line-height: 15pt;\">What would you like to do after your Canoe/Kayak career is over?&nbsp;</strong><span style=\"line-height: 15pt; background-color: white;\">I plan to continue my studies in physics/engineering. My ultimate dream is to one day become an astronaut.&nbsp;</span></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong></strong></span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What is your favorite thing about the sport of Canoe/Kayak?&nbsp; Do you have any special memory that you would like to share?&nbsp;</strong>My favorite thing about the sport is the international traveling and the variety of people that I have had the pleasure of meeting. I will always treasure the friends I have made and the experiences I have had abroad. One special memory was at the Junior World Championships in Moscow in 2009. We made friends with some Japanese paddlers and they took a picture of Ian and me with a couple of their athletes. Two years later, at the next Junior Worlds in Germany, the Japanese coach gave the picture to the USA coach to bring back to us. It really meant a lot to have them think enough of us to save that picture for two years and make sure we got it. &nbsp;&nbsp;</span></p>\n<p style=\"margin: 0in 0in 12pt; line-height: 15pt; background-color: white;\"><span style=\"font-family: tahoma;\"><strong>What is your dream goal?&nbsp;</strong>To one day go to the Olympics and represent the United States with the utmost honor, integrity, and excellence in the sport.</span></p>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2011 – 8th (C4 1000m - Men), 12th (C1 4 x 200m Relay - Men), 16th (C2 200m - Men, C2 500m - Men), 26th (C2 1000m - Men)</li><li>Years of participation: C1 4 x 200m Relay - Men 2011; C2 1000m - Men 2011; C2 200m - Men 2011; C2 500m - Men 2011; C4 1000m - Men 2011</li><li>Top finish: 8th – 2011 (C4 1000m - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Junior & Under 23 Championships, Szeged, 2014 (C1 200m - Men)</li><li>World Junior & Under 23 Championships, Welland, 2013 (C1 200m - Men)</li><li>World Junior Championships, Moscow, 2009 (C2 500m - Men, C1 1000m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328338/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Hefner/Ben-Hefner.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Hefner"
+        }
+      ]
+    },
+    {
+      "first_name": "Adrian",
+      "last_name": "Hegyvary",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1984-01-05T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "University of Washington ’05, B.A. Comparative History of Ideas and ‘14 J.D.",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married to Rushlee Buchanan, an Olympic cyclist for New Zealand</li><li>Splits his time between Ashville, North Carolina and Cambridge, New Zealand</li><li>Formerly competed for Hungary, and has earned national titles in both Hungary and the U.S</li><li>Enjoys building bike wheels, metal work, cooking, backpacking, skiing, snowboarding and spending time with his dog Pablo</li><li>Has citizenship in Hungary as well</li><li>Also speaks Spanish and French.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 12th (Madison - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2020 –  (Madison - Men), 6th (Scratch - Men)</li><li>Years of participation: Madison - Men 2018, 2019, 2020; Scratch - Men 2019, 2020; Team time trial - Men 2015; Individual time trial - Men 2006</li><li>Top finish:  – 2018 (Madison - Men), 2020 (Madison - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697142044/TeamUSA%20Assets/Athlete%20Profiles/Adrian%20Hegyvary%201083006/hegyvary_a_bio_987988.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697142142/TeamUSA%20Assets/Athlete%20Profiles/Adrian%20Hegyvary%201083006/hegyvary_a_hero_987988.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012973/TeamUSA%20Assets/Athlete%20Profiles/Adrian%20Hegyvary%201083006/Hegyvary_Adrian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adrian Hegyvary 1083006"
+        }
+      ]
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Heid",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "2000-11-21T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "Seattle Preparatory School (Seattle, Wash.) ‘19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began rowing at 8 years old</li><li>Hobbies include rowing, photography, cars, traveling and flying drones.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 U.S. Youth National Championships, 3rd (1x)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328320/TeamUSA%20Assets/Migration/Athlete%20Profiles/Max%20Heid/heid_max.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Max Heid"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Heims",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1998-12-11T00:00:00",
+        "hometown": {
+          "city": "Swisher",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 41.85,
+          "longitude": -91.68
+        },
+        "education": "University of Northern Iowa ‘21, Biology",
+        "fun_fact": null,
+        "biography": "<p><h5>Quick Facts</h5><ul><li>Daughter of Kris and Glen Heims. Has two sisters, Beth and Nicole</li><li>Born with amniotic band syndrome, a condition where tissue, or bands, from floating parts of the amniotic sac wrap around and compromise an unborn babies’ limbs</li><li>Had her left leg amputated below the knee</li><li>Started in track and field at age 10, following in her sister’s footsteps</li><li>Her role model had always been Olympian Steve Prefontaine until she met Paralympic teammate Scout Bassett, who helped her get involved in Para track and field when she was 11</li><li>Since then, she has grown immensely in the sport, earning a spot on the University of Northern Iowa Track and Field Team. </li><li>Enjoys listening to Broadway musicals, reading, learning about science and reading the Bible</li><li>Leader for the Fellowship of Christian Athletes organization at her university</li><li>Fan of the Captain America movie series by Marvel</li><li>Named homecoming queen at her high school in Iowa</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 5th (400m T44 - Women, Discus Throw F44 - Women)</li><li>Years of participation: 400m T44 - Women 2015; Discus Throw F44 - Women 2015</li><li>Top finish: 5th – 2015 (400m T44 - Women), 2015 (Discus Throw F44 - Women)</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 6th (Discus Throw F64 - Women)</li><li>Paralympic Games Tokyo 2020, 5th (Discus Throw F64 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 7th (400m T44 - Women), 8th (Discus Throw F44 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662004/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/heims_j_bio_814071.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T64/F64",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013104/TeamUSA%20Assets/Athlete%20Profiles/Jessica%20Heims%20814071/Heims_Jessica250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Heims 814071"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Zoe",
+      "last_name": "Hein",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2003-08-06T00:00:00",
+        "hometown": {
+          "city": "La Jolla",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.8328,
+          "longitude": -117.271
+        },
+        "education": "The Bishop's School (La Jolla, Calif.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Jennifer and Charlie</li><li>Hobbies include traveling and hanging out with friends.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 USA Canoe/Kayak Sprint National Championships, 1st (C-2 Bantam 200m) </li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328164/TeamUSA%20Assets/Migration/Athlete%20Profiles/Zoe%20Hein/hein_zoe.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zoe Hein"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Heise",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2000-03-17T00:00:00",
+        "hometown": {
+          "city": "Lake City",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.4497,
+          "longitude": -92.2707
+        },
+        "education": "University of Minnesota",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong></strong><span><strong>Position:</strong> Forward</span></li><li>Daughter of Amy and Tony Heise</li><li>Two brothers, Nathan and Ryan</li><li><span>2022 Patty Kazmaier Memorial Award winner, an award&nbsp;</span><span>given to the top player in women’s hockey</span></li><li>Learned how to juggle as a child; she still uses the skill to center herself before hockey games</li></ul><h5>Biographical Information</h5><p>Taylor Heise grew up in Lake City, Minnesota, a small town with just over 5,000 people. In the first grade, she found a note in my backpack about an opportunity to try hockey for free and fell in love with the sport.&nbsp;</p><p>Heise attended the University of Minnesota to play hockey, where she won the 2022 Patty Kazmaier Memorial Award, given to the top player in women's hockey. Heise was the first overall pick in the 2023 PWHL Draft, staying with her home state team, the Minnesota Frost. &nbsp;She is now a two-time Walter Cup winner with the Frost and was named the 2024 PWHL Playoffs MVP.</p><p>Heise would make her IIHF World Championship debut with the U.S. women's hockey team at the 2022 IIHF World Championships and, four years later, would be selected for her first Olympic team.</p><p>Off the ice, she learned to juggle as a kid when her dad offered $100 to the first of his children to learn the skill. Heise still uses her juggling skills today to center herself before hockey games.&nbsp;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2022, 2023, 2024, 2025</li><li>Medals: 4 (2 gold, 2 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women)</li><li>Silver – 2024 (Team - Women);  2022 (Team - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770230916/Heise_T_main_839606.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770166197/Heise_T_thumbnail_83906.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Taylor Heise"
+        }
+      ]
+    },
+    {
+      "first_name": "Connor",
+      "last_name": "Hellebuyck",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1993-05-19T00:00:00",
+        "hometown": {
+          "city": "Commerce",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.560038,
+          "longitude": -83.47966
+        },
+        "education": "University of Massachusetts-Lowell",
+        "fun_fact": "First American-born goaltender to ever win the Hart Trophy, given to the NHL's most valuable player",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Goalie</li><li>&nbsp;Son of Chuck and Erin Hellebuyck</li><li>Won Mike Richter Award, given to the top goalie in NCAA Division I in 2014</li><li>First American-born goaltender to ever win the Hart Trophy, given to the NHL's most valuable player</li><li>Only member of Team USA at the 2025 4 Nations Face-Off that didn't play in the USHL (top U.S. junior league), World Juniors or for the U.S. National Team Development Program</li></ul><h5>Biographical Information</h5><p>Connor Hellebuyck grew up in Michigan and was introduced to hockey by playing roller hockey with his cousins. Hellebuyck played goalie for his high school hockey team at Walled Lake Northern High and spent his final high school season playing Tier II junior hockey with the Odessa (TX) Jackalopes of the North American Hockey League. &nbsp;</p><p>Hellebuyck was not heavily recruited out of high school, and despite not cracking the NHL Central Scouting's list of the top 36 North American goalies eligible for the 2012 NHL Draft, he was selected by the Winnipeg Jets in the fifth round. Helleybuyck on getting drafted: \"I wasn’t focused on that, I was focused on playing and taking the next step (to college). But late in the year the (NHL) scouts started coming around and saying: ‘Hey, we want to meet you.’ You know they’re in the stands, and that’s a motivation to play well.\" Hellebuyck still spent two seasons at UMass-Lowell, where he won the inaugural&nbsp;Mike Richter Award as the top goalie in NCAA Division I in 2014.&nbsp;</p><p>After excelling during the 2024-25 season, Hellebuyck was named the winner of the Hart Trophy, given to the NHL's most valuable player, becoming the first American-born goaltender to ever win the award. Hellebuyck also won his third Vezina Trophy, given to the NHL's best goaltender that season, and his second-consecutive William M. Jennings Trophy, presented annually to the goalies who play a minimum of 25 games for the team allowing the fewest goals during the regular season.</p><p>Hellebuyck has played for the U.S. men's hockey team at three world championships, winning bronze in 2015. Hellebuyck was the starting goalie for the U.S. at the 2025 4 Nations Face-Off. He was the only member of Team USA who didn’t play in the USHL, World Juniors, or for the U.S. National Team Development Program. He was named to his first Olympic roster for the Olympic Winter Games Milano Cortina 2026.</p><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 5th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2015, 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2015 (Team - Men)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770592874/Hellebuyck_C_bio_1078933.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770940339/Hellebuyck_C_main_1078933.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771006483/Hellebuyck_C_featured_1078933.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770680611/Hellebuyck_C_thumbnail_1078933.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Connor Hellebuyck"
+        }
+      ]
+    },
+    {
+      "first_name": "Drew",
+      "last_name": "Helleson",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "2001-03-26T00:00:00",
+        "hometown": {
+          "city": "Farmington",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.6475,
+          "longitude": -93.1499
+        },
+        "education": " Boston College ‘23, Management ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ryan and Kim Helleson</li><li>Has one sister, Olivia</li><li>Chosen in the second round, 47th overall, by the Colorado Avalanche in the 2019 NHL Draft.</li></ul><h5>Career Highlights</h5><ul><li>2019 IIHF Under-18 Men’s World Championship, bronze</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009919/TeamUSA%20Assets/Athlete%20Profiles/Drew%20Helleson%201237336/helleson_drew_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Drew Helleson 1237336"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Danielle",
+      "last_name": "Henderson",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1977-01-29T00:00:00",
+        "hometown": {
+          "city": "Commack",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.856762,
+          "longitude": -73.262619
+        },
+        "education": "UMass - 1999",
+        "fun_fact": null,
+        "biography": "<p>#4<br>\nHeight: 6'1\"<br>\nPosition: Pitcher - R/R<br>\nHometown: Commack, N.Y.<br>\nSchool: UMass<br>\nGraduation: 1999</p>\n<p><strong><img alt=\"\" height=\"450\" width=\"300\" src=\"/-/media/USA_Softball/Images/Womens-National-Team/2000/Action/Henderson_300x450.jpg?la=en&amp;hash=126AAC81ADA95D40EE259B78412D816D3E09AA68\"><br>\n</strong></p>\n<p><strong>A FEW ACCOMPLISHMENTS</strong></p>\nOlympic Gold Medalist (2000)<br>\nPan American Gold Medalist (1999) <br>\n<br>\n<p><strong>EXPERIENCE</strong></p>\n2000: Gold medalist at Olympic Games in Sydney, Australia<br>\n1999: Gold medalist at Pan American Games, U.S. Olympic Cup and Canada Cup<br>\n- Pitched two perfect games; went 3-0 with 0.00 ERA and 42 strikeouts (Pan Am)<br>\n- Struck out 16 at U.S. Olympic Cup<br>\n- Went 3-0 with 1.50 ERA and 28 strikeouts<br>\n<p><strong>AT UMASS</strong></p>\nNFCA All-American (1999)<br>\nHonda Award winner for softball (1999)<br>\nThree-time NCAA Regional All-Tournament Team<br>\nFour-time Atlantic-10 and A-10 Tournament MVP<br>\nLed UMass to 1998 NCAA WCWS<br>\n<p><strong>GETTING TO KNOW HENDERSON</strong></p>\nASA All-American<br>\nTwo-time participant at USA Softball WNT Festival<br>\nBorn on January 29, 1977<h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Sydney 2000, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328307/TeamUSA%20Assets/Migration/Athlete%20Profiles/Danielle%20Henderson/Henderson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Danielle Henderson"
+        }
+      ]
+    }
+  ]
+}

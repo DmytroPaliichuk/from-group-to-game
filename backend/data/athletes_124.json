@@ -1,0 +1,1039 @@
+{
+  "entries": [
+    {
+      "first_name": "Yarisel",
+      "last_name": "Ramirez",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1999-12-11T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "Abilene Christian University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2019 Pan American Games - 3rd</li>\r\n                            <li>2019 Standja Tournament - 3rd</li>\r\n                            <li>2018 Western Elite Qualifier - 1st</li>\r\n                            <li>2017 Youth Open - 1st</li>\r\n                            <li>2016 USA Boxing Youth National Championships -1st</li>\r\n                            <li>2015 USA Boxing Junior National Championships - 1st</li>\r\n                            <li>2015 National Junior Golden Gloves - 1st</li>\r\n                            <li>2014 USA Boxing Junior National Championships - 2nd</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 33th (Featherweight - Women)</li><li>Years of participation: Featherweight - Women 2019</li><li>Top finish: 33th – 2019 (Featherweight - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 17th (Featherweight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Boxing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008779/TeamUSA%20Assets/Athlete%20Profiles/Yarisel%20Ramirez%201046402/yariselbio.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Yarisel Ramirez 1046402"
+        }
+      ]
+    },
+    {
+      "first_name": "Daniella",
+      "last_name": "Ramirez",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2001-10-06T00:00:00",
+        "hometown": {
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 25.7617,
+          "longitude": -80.1918
+        },
+        "education": "Florida Virtual School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Is a third-generation synchronized swimmer behind her grandmother, mother, and sister</li><li><p>Her father and brother were both swimmers and divers</p></li><li><span>The person she credits most for her involvement in synchro is her sister</span></li><li>W<span>ants to study architecture after completing her artistic swimming career</span></li><li><p>Her favorite celebrity is Elvira Khasyanova</p></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 11th (Team Free Routine - Women, Team Technical Routine - Women)</li><li>Years of participation: Team Free Routine - Women 2019; Team Technical Routine - Women 2019</li><li>Top finish: 11th – 2019 (Team Free Routine - Women), 2019 (Team Technical Routine - Women)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Open)</li><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>World Junior Championships, Budapest, 2018 (Free Routine Combination - Women, Team Free Routine - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Team - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685225307/NGB%20Artistic%20Swimming/Photos/2023_France_World_Cup1.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685222943/NGB%20Artistic%20Swimming/Athlete%20Profiles/SNT%2023/23_Dani_Ramirez.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683140526/NGB%20Artistic%20Swimming/Migration/Athlete%20Profiles/Daniella%20Ramirez/Ramirez.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Daniella Ramirez"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Artistic Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Ramrup",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1988-03-05T00:00:00",
+        "hometown": {
+          "city": "Queens",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7282,
+          "longitude": -73.7949
+        },
+        "education": "Bronx HS of Science Long Island University (B.S. 2013), Queens College (M.S. 2015), West Texas A&M University (M.B.A. 2016)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I started karate because I I loved Dragon Ball Z and wanted to be just like Goku. So what better way to be like Goku than learn Karat&#233;. In all actuality I was a very overweight kid and my mom probably only obliged to get me fit</li><li>Leaving a positive impact on those I impact in my Karat&#233; journey, both my personal students and the younger athletes who I can hopefully inspire to be themselves, not be confined or restricted by “the box” and conventional thinking, to be willing to outwork others, and most importantly to never give up</li><li>Three things people may not know about me: I&#39;m a savvy shopper and love finding deals. I was born on my grandmother&#39;s 50th birthday.  Lastly, my middle name is John</li><li>&quot;Everything negative - pressure, challenges - is all an opportunity for me to rise.&quot; - Kobe Bryant</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>5x USA National Champion</li>\r\n                            <li>2x Pan American Bronze Medalist</li>\r\n                            <li>Jr PKF Gold Medalist</li>\r\n                            <li>3x North American Champion</li>\r\n                            <li>2x US Open Silver Medalist, 5x Bronze Medalist</li>\r\n                            <li>Wasquehal Open Bronze Medalist</li>\r\n                            <li>Pan American Championships Silver Medalist (2012)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 21th (-67kg Kumite - Men)</li><li>Years of participation: -67kg Kumite - Men 2012, 2016, 2021, 2023; Team Kumite - Men 2010, 2016, 2021; -60kg Kumite - Men 2008</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2012 (-67kg Kumite - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008841/TeamUSA%20Assets/Athlete%20Profiles/Brian%20Ramrup%20849392/Ramrup-Brian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Ramrup 849392"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Ramsey",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1991-07-26T00:00:00",
+        "hometown": {
+          "city": "Boynton Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.5245,
+          "longitude": -80.0667
+        },
+        "education": "Western Kentucky University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Antoine and Angela Ramsey</li><li>Has two brothers, Josh and Tony</li><li>Hobbies include eating, fishing, weightlifting, going to the beach, getting her nails and toes done, playing with dogs, working with children, playing football and basketball and swimming.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Braganca Paulista Grand Prix, 1st (shot put)</li>\r\n                            <li>2019 Kingston Grand Prix, 2nd (shot put)</li>\r\n                            <li>2019 Pan Am Games, shot put, bronze (shot put)</li>\r\n                            <li>2018 NACAC Championships, 3rd (shot put)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 12th (Shot Put - Women)</li></ul></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662067/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/ramsey_j_bio_916781.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662193/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/ramsey_j_hero_916781.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008876/TeamUSA%20Assets/Athlete%20Profiles/Jessica%20Ramsey%20916781/Ramsey_Jessica_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Ramsey 916781"
+        }
+      ]
+    },
+    {
+      "first_name": "Ariana",
+      "last_name": "Ramsey",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2000-03-25T00:00:00",
+        "hometown": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.95258,
+          "longitude": -75.16522
+        },
+        "education": "Dartmouth College ‘22 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Andrew Ramsey</li><li>Started playing rugby during her sophomore year of high school</li><li>Formerly cheered for six years and ran track for four years</li><li>Is a certified personal trainer</li><li>Speaks French and Mandarin Chinese</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Women)</li><li>Olympic Games Tokyo 2020, 6th (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721752141/TeamUSA%20Assets/Athlete%20Profiles/Ariana%20Ramsey%201149365/Ramsey_A_bio_1149365.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721752141/TeamUSA%20Assets/Athlete%20Profiles/Ariana%20Ramsey%201149365/Ramsey_A_thumbnail_1149365.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721752141/TeamUSA%20Assets/Athlete%20Profiles/Ariana%20Ramsey%201149365/Ramsey_A_thumbnail_1149365.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ariana Ramsey 1149365"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Kikkan",
+      "last_name": "Randall",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1982-12-31T00:00:00",
+        "hometown": {
+          "city": "Anchorage",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 61.2181,
+          "longitude": -149.9003
+        },
+        "education": "East Anchorage High School (Anchorage, Alaska) '01 Alaska Pacific University '17, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ronn and Deborah Randall</li><li>Has one brother, Tanner, and one sister, Kalli</li><li>Has one child, Breck, with husband Jeff</li><li>Niece of U.S. Olympic Nordic skiers Chris Haines (1976) and Betsy Haines (1980)</li><li>Lead U.S. Ambassador for Fast and Female, an empowerment workshop program for young girls</li><li>Began skiing to stay in shape for cross-country running.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014 FIS World Cup Standings, 1st (sprint), 6th (overall)</li>\r\n                            <li>2013 FIS World Cup Standings, 1st (sprint), 3rd (overall), 10th (distance)</li>\r\n                            <li>2012 FIS World Cup Standings, 1st (sprint), 5th (overall)</li>\r\n                            <li>2011 FIS World Cup Standings, 3rd (sprint), 10th (overall)</li>\r\n                            <li>FIrst U.S. woman to achieve a top-three overall FIS Cross-Country World Cup ranking</li>\r\n                            <li>Became the first American woman to win world cup titles in individual and team sprint (with Jessie Diggins)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>5-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Pyeongchang 2018, gold (Team Sprint Freestyle - Women), 5th (4 x 5km Relay - Women), 16th (10km Freestyle - Women), 40th (2 x 7.5km Skiathlon - Women)</li><li>Olympic Games Sochi 2014, 7th (Team Sprint Classic Style - Women), 8th (4 x 5km Relay - Women), 18th (Sprint Freestyle - Women), 28th (30km Freestyle - Women)</li><li>Olympic Games Vancouver 2010, 6th (Team Sprint Freestyle - Women), 8th (Sprint Classic Style - Women), 11th (4 x 5km Relay - Women), 23th (30km Classic Style - Women)</li><li>Olympic Games Turin 2006, 9th (Sprint Freestyle - Women), 10th (Team Sprint Classic Style - Women), 14th (4 x 5km Relay - Women), 53th (10km Classic Style - Women)</li><li>Olympic Games Salt Lake City 2002,  (5km Pursuit Freestyle - Women), 44th (Sprint Freestyle - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (Sprint Freestyle - Women), 4th (4 x 5km Relay - Women), 17th (2 x 7.5km Skiathlon - Women), 26th (10km Classic Style - Women)</li><li>Years of participation: 10km Classic Style - Women 2003, 2009, 2011, 2017; 2 x 7.5km Skiathlon - Women 2007, 2015, 2017; 4 x 5km Relay - Women 2001, 2005, 2007, 2009, 2011, 2013, 2017; Sprint Freestyle - Women 2001, 2003, 2009, 2011, 2017; 10km Freestyle - Women 2005, 2013, 2015; Sprint Classic Style - Women 2005, 2007, 2013, 2015; Team Sprint Freestyle - Women 2005, 2007, 2013; 30km Freestyle - Women 2011; Team Sprint Classic Style - Women 2009, 2011; 2 x 5km Skiathlon - Women 2003</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2013 (Team Sprint Freestyle - Women)</li><li>Silver – 2009 (Sprint Freestyle - Women)</li><li>Bronze – 2017 (Sprint Freestyle - Women)</li></ul></ul><h5>More</h5><p>Personal website<br>\nU.S. Ski and Snowboard Association</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687348014/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kikkan%20Randall/randall_kikkan_1200x300_2.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cross-Country Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2002, 2006, 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687348015/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kikkan%20Randall/randall_kikkan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kikkan Randall"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Randall",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1974-02-07T00:00:00",
+        "hometown": {
+          "city": "Ontario",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.78033,
+          "longitude": -82.59794
+        },
+        "education": " North Central State College, associate degree in Business Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>David Randall began handcycling as a way of staying in shape, but soon realized the enjoyment that the sport brought to his life. Randall has always been a competitive person, so once he competed in his first race, he was hooked on to the sport. In an effort to find competitive opportunities, Randall searched the internet and found the United States Handcycling Federation (USHF) website and realized that there were races that he could compete in</li><li>Hobbies include swimming, reading and learning to play the guitar.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 –  (H3 - Road Race - Men), gold (Team Relay - Open), 18th (H3 - Time Trial - Men)</li><li>Years of participation: H3 - Road Race - Men 2015, 2017, 2018; H3 - Time Trial - Men 2015, 2017, 2018; Team Relay - Open 2018; H2 - Road Race - Men 2010; H2 - Time Trial - Men 2010; HCB - Road Race - Men 2009; HCB - Time Trial - Men 2009</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2018 (Team Relay - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008789/TeamUSA%20Assets/Athlete%20Profiles/David%20Randall%20799402/Randall_David_headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Randall 799402"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Raney",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-06-02T00:00:00",
+        "hometown": {
+          "city": "Manhattan Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8842,
+          "longitude": -118.4106
+        },
+        "education": "Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2017, 2022, 2023</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2022 (Team - Women);  2017 (Team - Women)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Water Polo"
+        }
+      ]
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Rapinoe",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1985-07-05T00:00:00",
+        "hometown": {
+          "city": "Redding",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 40.5865,
+          "longitude": -122.3917
+        },
+        "education": "University of Portland ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 12pt;\"><strong>Position</strong></span><span style=\"font-size: 12pt;\">: Forward</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Megan Rapinoe is a retired soccer player, well known for playmaking skills and expertise in free kicks. Rapinoe is a World Cup champion, Olympic gold medalist and an inductee into the Shasta County Sports Hall of Fame. She joined the National Women’s Soccer Team in 2006 and has played over 200 international matches.</span></p><p><span style=\"font-size: 11pt;\">In 2019, she and her teammates were honored with a ticker-tape parade in New York City and celebrated in Seattle for their World Cup win. Rapinoe's final season in 2023 was marked by a record attendance at her last Seattle Reign home match, where a special ceremony was held to honor her illustrious career.</span></p><p><span style=\"font-size: 11pt;\">Rapinoe began playing soccer at age three, inspired by her older brother. Today, she is renowned for her advocacy in LGBTQ+ rights, racial equality and gender equity. She received the Presidential Medal of Freedom and wrote an autobiography \"One Life,\" a New York Times bestseller. She is also the subject of an upcoming Netflix documentary about her team's journey during the 2023 FIFA Women's World Cup. She secured numerous endorsements, aligning with brands that share her values and commitment to social impact</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Rapinoe's Olympic history is marked by memorable moments that established her as a key player for the U.S. Women's National Team (USWNT).&nbsp;</span></p><p><span style=\"font-size: 11pt;\">The USWNT dominated the tournament in the London 2012 Olympic Games, winning all their games. She led the team with four assists and scored three goals, including an assist on Carli Lloyd's second goal in the final match. Rapinoe became the first player to score directly from a corner kick (Olimpico) twice in the Olympics.</span></p><p><span style=\"font-size: 11pt;\">During the Tokyo 2020 Olympic Games, the USWNT finished third after losing to Canada in the semifinals, ultimately winning the bronze medal. Rapinoe showcased her continued set-piece expertise by scoring a memorable goal directly from a corner kick against Australia in the bronze medal match.</span></p><h5>Club Highlights</h5><p><span style=\"font-size: 11pt;\">In the inaugural season of Women's Professional Soccer (WPS) in 2009, Megan Rapinoe emerged as a standout player for the Chicago Red Stars. Because of the league’s instability, Philadelphia Independence and MagicJack.</span></p><p><span style=\"font-size: 11pt;\">Rapinoe expanded her horizons by joining Sydney FC then went on to play for the Seattle Sounders Women.</span></p><p><span style=\"font-size: 11pt;\">She moved to France to join a dominant team in Europe, contributing eight goals in 28 matches across various competitions then returned to the United States to play for the Seattle Reign before completing her second season with Lyon.</span></p><p><span style=\"font-size: 11pt;\">With Seattle Reign in 2013, she became the team's leading scorer with numerous accolades, including the NWSL Player of the Week and Month honors. Under her co-captaincy in 2021, Rapinoe scored six goals, solidifying her status as a Reign legend. Her tenure culminated in winning the NWSL Shield in 2014 and multiple playoff appearances.</span></p><h5><span>Early Career</span></h5><p><span style=\"font-size: 11pt;\">Rapinoe's collegiate career at the University of Portland laid the groundwork for her professional success.</span><span style=\"font-size: 11pt;\"><strong> </strong></span><span style=\"font-size: 11pt;\">During her freshman year, Rapinoe played a pivotal role in the Portland Pilots' undefeated season and NCAA Championship victory. Her knack for scoring and assisting earned her Freshman of the Year honors and All-American recognition. Rapinoe scored 25 goals and 15 assists in two seasons. Her resilience and skill earned her West Coast Conference Player of the Year accolades and continued national recognition.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li><li>Olympic Games London 2012, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (Team - Women)</li><li>Years of participation: Team - Women 2011, 2015, 2019, 2023</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2019 (Team - Women);  2015 (Team - Women)</li><li>Silver – 2011 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662067/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Rapinoe_M_bio_876533.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662130/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/rapinoe_m_hero_876533.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008880/TeamUSA%20Assets/Athlete%20Profiles/Megan%20Rapinoe%20876533/Rapinoe_Megan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megan Rapinoe 876533"
+        },
+        {
+          "title": "Soccer"
+        }
+      ]
+    },
+    {
+      "first_name": "Summer",
+      "last_name": "Rappaport",
+      "bio": {
+        "height": "5'9”",
+        "birthday": "1991-07-25T00:00:00",
+        "hometown": {
+          "city": "Thornton",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.9011,
+          "longitude": -104.9736
+        },
+        "education": "Villanova ",
+        "fun_fact": null,
+        "biography": "<p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 7.5pt;margin-left: 0in;\"><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 14th (Olympic Distance - Women)</li></ul></ul><h5>Career Highlights</h5>2020 U.S. Olympian, 14th<br>2019 ITU World Triathlon Series overall rankings, 5th<br>6-time ITU World Triathlon Series medalist (1 gold, 3 silvers, 2 bronze)<br>14-time World Triathlon World Cup medalist (8 golds, 4 silvers, 2 bronze)<br>2-time ITU World Mixed Relay Series bronze medalist<br>3-time CAMTRI/PATCO American Cup medalist (1 gold, 2 silvers, 1 bronze)<br>2-time ETU Triathlon European Cup gold medalist<br>2014 Brasilia FISU World University Triathlon Championships team gold medalist<p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 7.5pt;margin-left: 0in;\"><h5>Quick Facts</h5><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 8pt;margin-left: 0in;\">Summer Rappaport, the first athlete to qualify for the 2020 U.S. Olympic Triathlon Team, was a member of the NCAA Division I swim and cross-country teams at Villanova University. As a collegiate swimmer, Rappaport placed in the top eight of the Big East Championship in each of her four years. Throughout her cross-country career, she earned 2011-12 Academic honors, 2012 All-Mid-Atlantic Region, 2012 All-Big East, and placed fourth at the 2013 Big East Championships in the 5,000. After college, she joined the USA Triathlon Collegiate Recruitment Program, and began competing as an elite triathlete in March 2014. She says triathlon appeals to her because “training for three sports keeps things interesting and less repetitive,” and running is her favorite discipline. &nbsp;Rappaport trains with The Triathlon Squad, an elite international training group coached by Paulo Sousa.<br><br><strong>Elite Triathlon Career</strong><br></p><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 8pt;margin-left: 0in;\"><strong>2022:&nbsp;</strong>Began her season by competing at the&nbsp;2022 Europe Triathlon Cup Quarteira on March 26, but had a DNF finish&nbsp;• Placed 46th at the&nbsp;2022 World Triathlon Championship Series Leeds in Great Britian on June 11&nbsp;• Had a top-ten finish by placing fifth at the&nbsp;2022 World Triathlon Sprint &amp; Relay Championships Montreal in Canada on June 25&nbsp;• Earned the bronze medal as a part of the Team USA Mixed Relay team alongside Seth Rider, Taylor Spivey and Kevin McDowell at Relay Championships in Montreal, Canada on June 26&nbsp;• Only July 9 she placed 26th at the World Triathlon Championship Series event in Hamburg, Germany&nbsp;• Claimed the bronze medal at the&nbsp;2022 Europe Triathlon Mixed Relay Club Championships Banyoles in Spain as a member of Team Metz Triathlon on August 27&nbsp;• Competed in her first World Triathlon Cup of the season in Valencia, Spain on September 3 and finished sixth&nbsp;• Claimed the bronze medal at the World Triathlon Cup Karlovy Vary, Czech Republic on September 11&nbsp;• Placed 27th at the World Triathlon Championship Series Cagliari in Italy on October 8&nbsp;• Finished 25th on November 6 at the World Triathlon Championship Series in Bermuda&nbsp;• Ended her season placing 28th at the 2022 World Triathlon Championship Series World Championship in Abu Dhabi, UAE on November 25.</p><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 8pt;margin-left: 0in;\"><strong>2021:&nbsp;</strong>Started the season with a sixth-place finish at the Europe Triathlon Cup Melilla on April 18&nbsp;• Earned a silver medal at the World Triathlon Championship Series in Yokohama, Japan, on May 15, sharing the podium with gold medalist and U.S. teammate Taylor Knibb • Took ninth at the World Triathlon Cup Lisbon on May 23&nbsp;• &nbsp;Placed 14th in her Olympic debut at the 2020 Tokyo Olympic Games &nbsp;on July 27 • Finished 16th at the World Triathlon Championship Series Final in Edmonton, Canada on August 21&nbsp;• &nbsp;Claimed the bronze medal at the HAMBURG WASSER 2021 World Triathlon Championship Series Hamburg on Sept. 18, with points counting toward the 2022 WTCS rankings&nbsp;• &nbsp;Was part of the mixed relay team who placed fifth at the HAMBURG WASSER 2021 World Triathlon Championship Series on Sept. 19 alongside Erika Ackerlund, Chase McQueen and Austin Hindman with points counting towards the 2022 WTCS mixed relay rankings • Finished 17th at the World Triathlon Championship Series Abu Dhabi on November 5, with all points earned tallied towards the 2022 WTCS season rankings<br><br><strong>2020:</strong>&nbsp;Raced once in the shortened 2020 season, placing 17th at the Hamburg World Triathlon Championships on Sept. 5</p><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 7.5pt;margin-left: 0in;\"><strong>2019:&nbsp;</strong>Started the season strong with a silver-medal performance at the Cape Town ITU Triathlon World Cup on Feb. 10 • Finished in 35th at the ITU World Triathlon&nbsp;Abu Dhabi&nbsp;on March 8&nbsp;• Finished&nbsp;in 12th at the ITU World Triathlon Bermuda on April 27 • Earned a silver medal at the ITU World Triathlon Yokohama as part of a USA podium sweep on May 18 • Earned a gold medal at the Huatulco ITU Triathlon World Cup on June 9 • Placed 3rd at the Hamburg Wasser World Triathlon on July 6 • Earned silver at the ITU World Triathlon Edmonton on July 20 • Teamed up with Taylor Knibb, Morgan Pearson, and Seth Rider to win bronze at the ITU World Triathlon Mixed Relay Series Edmonton on July 21&nbsp;• Qualified for the 2020 U.S. Olympic Triathlon Team with a fifth-place finish at the Tokyo ITU World Olympic Qualification Event held at Odaiba Marine Park on Aug. 15&nbsp;• Teamed up with Seth Rider, Tamara Gorman and Ben Kanute to earn bronze in the ITU World Mixed Relay Series event in Tokyo on Aug. 18&nbsp;• Placed 16th at the ITU World Triathlon Grand Final in Lausanne, Switzerland, on Aug. 31, securing a fifth-place finish in the 2019 ITU World Triathlon Series overall standings</p><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 7.5pt;margin-left: 0in;\"><strong>2018:&nbsp;</strong>Closed her season with a win at the Miyazaki ITU Triathlon World Cup on Nov. 10, marking her seventh career ITU World Cup victory •&nbsp;Placed 41st at the ITU World Triathlon Grand Final in Gold Coast, Australia, on Sept. 15, finishing the Series ranked 25th overall&nbsp;• Finished 25th at ITU World Triathlon Montreal on August 25&nbsp;• Placed 8th at ITU World Triathlon Edmonton on July 27&nbsp;•&nbsp;Finished 21st in the ITU World Triathlon Hamburg on July 14&nbsp;• Claimed a victory at the Antwerp ITU Triathlon World Cup on June 17&nbsp;•&nbsp;Finished sixth at ITU World Triathlon Yokohama on May 12&nbsp;• Took 19th at ITU World Triathlon Bermuda on April 28&nbsp;• Placed 21st at the New Plymouth ITU Triathlon World Cup on March 25</p><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 7.5pt;margin-left: 0in;\"><strong>2017: </strong>Finished the season with two consecutive ITU World Cup wins in Tongyeong, South Korea, on Oct. 28, and Miyazaki, Japan, on Nov. 4 •&nbsp;Placed ninth at the ITU World Triathlon Grand Final in Rotterdam, the Netherlands, on Sept. 14, placing 10th overall in the 2017 ITU World Triathlon Series&nbsp;•&nbsp;Earned bronze at the Karlovy Vary ITU Triathlon World Cup on Sept. 3 •&nbsp;Came away with the victory at the Yucatan ITU Triathlon World Cup on Aug. 12 •&nbsp;Recorded a fourth-place finish at ITU World Triathlon Edmonton on July 28 •&nbsp;Placed 29th at ITU World Triathlon Hamburg on July 15 •&nbsp;Earned a gold medal at the Altafulla ETU Triathlon European Cup on July 2 • Placed 12th at both ITU World Triathlon Gold Coast on April 8 and ITU World Triathlon Yokohama on May 13 •&nbsp;Took sixth at the New Plymouth ITU Triathlon World Cup on April 2 •&nbsp;Opened the season with a 23rd-place finish at ITU World Triathlon Abu Dhabi on March 3</p><p style=\"margin-top: 0in;margin-right: 0in;margin-bottom: 7.5pt;margin-left: 0in;\"><strong>2016: </strong>Won silver at the Miyazaki ITU Triathlon World Cup on Oct. 29, marking her third consecutive World Cup podium •&nbsp;Took the win at the Tongyeong ITU Triathlon World Cup on Oct. 22 •&nbsp;Earned a silver medal at the Salinas ITU Triathlon World Cup on Sept. 25 •&nbsp;Reached the WTS podium for the first time with a gold-medal performance at ITU World Triathlon Edmonton on Sept. 3 • Took 26th at the Montreal ITU Triathlon World Cup on Aug. 7 • Placed 14th at ITU World Triathlon Yokohama on May 14 •&nbsp;Won her first career ITU World Cup title on April 16 in Chengdu, China • Finished eighth at the New Plymouth ITU World Cup on April 3 • Opened her ITU season with a 39th place effort at the Mooloolaba World Cup<br><br><strong>2015: </strong>Closed out the year with two podium finishes, first at the Alanya ITU World Cup on Oct. 17, where she won silver, followed by a gold medal at the Catania ETU Triathlon European Cup on Oct. 25 • Was 10th at the Cozumel ITU World Cup on Oct. 4 • Took the silver medal at the Dallas CAMTRI Sprint Triathlon American Cup on June 6 • Finished fourth at the Chengdu ITU World Cup on May 9 • Won the Sarasota CAMTRI Sprint Triathlon American Cup just one week after finishing second at the Clermont CAMTRI Sprint Triathlon American Cup in March<br><br><strong>2014: </strong>Made her ITU World Cup debut on Sept. 27 in Alanya, finishing 33rd, and then raced an ITU World Cup event in Cartagena on Oct. 12, finishing 32nd • Posted a string of top-five finishes at ITU Continental Cup events, including fourth in Toronto on July 12, third in Mogog on July 19, fourth in Kelowna on Aug. 17 and fifth in Monterrey on Sept. 7 • Made her ITU debut at the Dallas PATCO Triathlon Pan American Championships on May 31, finishing eighth among Under-23 women and 13th overall • Finished fifth at the Brasilia FISU World University Triathlon Championships on April 20&nbsp;<strong><br></strong></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 121th (Individual Ranking - Women)</li><li>Years of participation: Individual Ranking - Women 2021, 2022, 2023, 2024, 2025; Olympic Distance - Women 2021, 2022, 2023, 2024; Super Sprint Distance - Women 2022, 2023; Team Relay - Mixed 2022, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2022 (Team Relay - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928834/NGB%20Triathlon/Elite%20Athlete%20Profiles/Summer_Rappaport.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928834/NGB%20Triathlon/Elite%20Athlete%20Profiles/Summer_Rappaport.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683142422/NGB%20Triathlon/Migration/Athlete%20Profiles/Summer%20Rappaport%20859633/rappaport-usat-photoshoot-35.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Summer Rappaport 859633"
+        }
+      ]
+    },
+    {
+      "first_name": "Claire",
+      "last_name": "Rasmus",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1996-12-10T00:00:00",
+        "hometown": {
+          "city": "Atlantic Beach",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 30.3347,
+          "longitude": -81.3912
+        },
+        "education": "The Bolles School (Jacksonville, Fla.) ‘15  Texas A&M University ’20, Mechanical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Paul and Laurie Rasmus</li><li>Favorite show is White Collar</li><li>Favorite city to visit is New Orleans.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (200m Freestyle - Women, 4 x 100m Freestyle Relay - Mixed, 4 x 100m Freestyle Relay - Women, 4 x 200m Freestyle Relay - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008872/TeamUSA%20Assets/Athlete%20Profiles/Claire%20Rasmus%201144915/Rasmus_Claire.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Claire Rasmus 1144915"
+        }
+      ]
+    },
+    {
+      "first_name": "Brent",
+      "last_name": "Rasmussen",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1977-04-22T00:00:00",
+        "hometown": {
+          "city": "Omaha",
+          "state": "NE",
+          "country": "United States",
+          "latitude": 41.25654,
+          "longitude": -95.9345
+        },
+        "education": "Nebraska-Omaha",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born in Omaha, Neb. in 1977</li><li>Parents are Brad and Diane Rasmussen</li><li>Also has one brother: Shawn</li><li>Has a son named Drew who was born in 2008</li><li>Served as captain of the U.S. Men&#39;s Sitting Volleyball Team</li><li>Graduated from the University of Nebraska-Omaha in 2001 with a degree in small business management. He is the president of Mortgage Specialists, LLC</li><li>Played baseball for four years at Nebraska-Omaha. His senior year, he served as captain and he made the NCC All-Conference team and became a free agent with the Omaha Royals, the Triple A affiliate of the Kansas City Royals</li><li>In February 2002, was driving between Omaha and Lincoln and noticed a car that had slid off the road. He pulled over and got out to help the driver get her car back on the pavement when he was struck by another vehicle. He lost his left foot. His right ankle was shattered, and he ended up with a 16&quot; rod in his right leg</li><li>In 2003, joined the Nebraska Barons Wheelchair Softball Team and broke records for home runs, doubles, intentional walks, and on-base percentage at the 2003 National Wheelchair Softball Tournament (NWST). He was named MVP three times by NWST as he led the Barons to four national titles in six years</li><li>Joined the U.S. Men&#39;s Sitting Volleyball Team in 2003</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>MAJOR INTERNATIONAL COMPETITION  2011: – Parapan American Games in Guadalajara, Mexico (Silver Medal).</li>\r\n                            <li>2011: – Competed in July in the 2011 Continental Cup in Kettering, England</li>\r\n                            <li>2011: Competed in May with the U.S. Men’s Sitting Team in the Sarajevo Open in Bosnia-Herzegovina. Brent was part of the team that competed in two exhibition matches against Canada in a joint training camp that won both matches.</li>\r\n                            <li>2010: – Helped the U.S. Men&#39;s Sitting Team to 10th place at Sitting World Championships in Oklahoma</li>\r\n                            <li>2010: Parapan American Championship in Denver, Colo. (Silver Medal)</li>\r\n                            <li>2010: WOWD World Cup in Port Said, Egypt (Fifth Place).</li>\r\n                            <li>2010: – Brent was one of the only players for the U.S. men, along with Duda, to start in all 26 sets of the Sitting World Championships. As team captain, he tallied 49 kills, 1.88 per set, which was second best on the squad. He also posted eight blocks, 0.31 per set, 10 digs, 1.85 per set, and three service aces, 0.12 per set.</li>\r\n                            <li>2009: –  Parapan American Championship in Montreal, Canada (Gold Medal).</li>\r\n                            <li>2007: – Parapan American Games in Rio de Janiero, Brazil (Silver Medal).</li>\r\n                            <li>2006: – Sitting World Championship in Roermond, Netherlands (ninth).</li>\r\n                            <li>2004: – Paralympic Games in Athens, Greece (sixth).</li>\r\n                            <li>2003: – Parapan American Games in Edmonton, Alberta (Gold Medal).</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Athens 2004, 6th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>2010 World Championship (10th)</li><li>2006 World Championship (9th)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687348009/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brent%20Rasmussen/SitMen_BrentRasmussen150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brent Rasmussen"
+        }
+      ]
+    },
+    {
+      "first_name": "Jasna",
+      "last_name": "Rather",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1970-12-20T00:00:00",
+        "hometown": {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7767,
+          "longitude": -96.797
+        },
+        "education": "Oakland University",
+        "fun_fact": null,
+        "biography": "<div>Birthplace: Foca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>\nHometown: Zagreb&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br>\nCurrent Residence: Fort Worth<br>\nHandedness: Right<br>\nGrip: Shake hand<br>\nStyle of Play: All-around<br>\nRubbers: Hammond - Nittaku<br>\nClub Affiliation: Texas Wesleyan University Table Tennis Club<br>\n<br>\nPersonal:<br>\n2000 - Bachelor&rsquo;s degree in Political Science from Oakland University in Rochester, Michigan <br>\n2009 - Master&rsquo;s degree in Education from Texas Wesleyan Univ. in Fort Worth, TX<br>\n<br>\nCompetition Record:<br>\n<br>\nOlympic Games<br>\n1988:&nbsp; Olympic Bronze Medal - Women&rsquo;s Doubles (Seoul, Korea)<br>\n1988, 1992:&nbsp; former Yugoslavia Olympic Team<br>\n2000, 2004:&nbsp; U.S. Olympic Team<br>\n<br>\nContinental Championships<br>\n2005, 2001&nbsp; North American Champion:&nbsp; Women&rsquo;s Doubles<br>\n1992:&nbsp; European Champion:&nbsp; Women&rsquo;s Doubles<br>\n1988:&nbsp; European Champion:&nbsp; Mixed Doubles<br>\n1988, 1990, 1992:&nbsp; Bronze Medal:&nbsp; European Team Championships<br>\n<br>\nPan Am Games<br>\n2003:&nbsp; Pan-American Champion:&nbsp; Women&rsquo;s Doubles<br>\nNational Championships<br>\n2005, 2003:&nbsp; U.S. National Champion:&nbsp; Women&rsquo;s Singles<br>\n2003, 2002, 2001:&nbsp; U.S. National Champion:&nbsp; Women&rsquo;s Doubles<br>\n2003:&nbsp; U.S. National Champion:&nbsp; Mixed Doubles<br>\n<span style=\"font-size: medium; line-height: normal; border-collapse: collapse; font-family: times; color: #000000;\" mce_style=\"color: #000000; font-family: Times; font-size: medium; line-height: normal; border-collapse: collapse; \"></span></div><h5>Olympic Experience</h5><ul><li>4-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Athens 2004, 25th (Doubles - Women), 33th (Singles - Women)</li><li>Olympic Games Sydney 2000, 25th (Doubles - Women), 33th (Singles - Women)</li><li>Olympic Games Barcelona 1992, 9th (Doubles - Women), 17th (Singles - Women)</li><li>Olympic Games Seoul 1988, bronze (Doubles - Women), 17th (Singles - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2009 – 65th (Doubles - Mixed, Singles - Women)</li><li>Years of participation: Doubles - Mixed 2005, 2009; Singles - Women 1991, 2005, 2009; Team - Women 1987, 1991, 2004, 2006; Doubles - Women 1991, 2003, 2005</li><li>Top finish: 8th – 1987 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008858/TeamUSA%20Assets/Athlete%20Profiles/Jasna%20Rather%20920861/Desktop-Image-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Table Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1988, 1992, 2000, 2004",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008860/TeamUSA%20Assets/Athlete%20Profiles/Jasna%20Rather%20920861/JasnaRather_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jasna Rather 920861"
+        }
+      ]
+    },
+    {
+      "first_name": "Casey",
+      "last_name": "Ratzlaff",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1998-09-07T00:00:00",
+        "hometown": {
+          "city": "Wichita, Kan.",
+          "state": "KS",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Wichita State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Craig and Tammy</li><li>Has two siblings, Chelsey and Taylor</li><li>Born with spina bifida, a condition that affects the lower limbs</li><li>Tried a number of sports (wheelchair basketball, sled hockey, etc.) before deciding on tennis</li><li>Started playing tennis at age 12</li><li>Hobbies include fishing, snow skiing, knee boarding, tubing, gaming and target shooting</li><li>Is the middle school head coach at the Classical School of Wichita</li><li>Trains with the Wichita State men’s tennis team</li><li>Hobbies include fishing, snow skiing, knee boarding, tubing, gaming, shooting sporting clays, and target shooting.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>World Cup Team Member (2019)</li>\r\n                            <li>US Open GS debut as a wildcard - 2020</li>\r\n                            <li>Two-time Junior World Team Cup Champion - 2015, 2016</li>\r\n                            <li>2019 Indian Wells Tennis Garden Wheelchair Championships -  1st singles</li>\r\n                            <li>2019  Siruis Open in Zagreb, Croatia - 1st  singles </li>\r\n                            <li>2019 Camozzi Open in Brescia, Italy  - 1st singles </li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 17th (Doubles - Men, Singles - Men)</li><li>Paralympic Games Tokyo 2020, 9th (Doubles - Men), 17th (Singles - Men)</li></ul></ul><h5>More</h5>International Tennis Federation",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "Not Applicable",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008837/TeamUSA%20Assets/Athlete%20Profiles/Casey%20Ratzlaff%201008958/Ratzlaff_casey_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Casey Ratzlaff 1008958"
+        },
+        {
+          "title": "Wheelchair Tennis"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Josef",
+      "last_name": "Rau",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1991-03-17T00:00:00",
+        "hometown": {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        },
+        "education": "Elmhurst College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Rick and Lisa Rau</li><li>Has two brothers, Ray and Jack, and one sister, Julie</li><li>Hobbies include skateboarding, singing, stand-up comedy, traveling, reading, anything outdoors, drinking coffee, eating new foods.</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 19th (97kg - Men)</li><li>Years of participation: 97kg - Men 2023; 87kg - Men 2019; 80kg (2014-2018) - Men 2014</li><li>Top finish: 16th – 2019 (87kg - Men)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (97kg - Men)</li><li>Pan American Games, Lima, 2019 (87kg - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (97kg - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697748553/NGB%20Wrestling/Athlete%20Profiles/Josef%20Rau/RauJosef_PandG.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697748454/NGB%20Wrestling/Athlete%20Profiles/Josef%20Rau/rau_j_thumbnail_1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wrestling"
+        },
+        {
+          "title": "Josef Rau"
+        }
+      ]
+    },
+    {
+      "first_name": "Ella",
+      "last_name": "Rau",
+      "bio": {
+        "height": "5'3",
+        "birthday": "2005-01-27T00:00:00",
+        "hometown": {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.3062,
+          "longitude": -111.8413
+        },
+        "education": "Laurel Springs School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She has been skiing since she was five years old</li><li>She has visited 10 European countries</li><li>She has driven a canal cruise boat in Amsterdam</li><li>Her great grandmother was also an artistic swimmer</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 junior national team athlete</li>\r\n                            <li>2022 U.S. Junior National Championships: 3rd (Team)</li>\r\n                            <li>2021 U.S. Junior National Championships: 2nd (Team)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366007/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ella%20Rau/Ella-Rau.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ella Rau"
+        }
+      ]
+    },
+    {
+      "first_name": "Arielle",
+      "last_name": "Rausin",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1993-09-16T00:00:00",
+        "hometown": {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0195,
+          "longitude": -118.4912
+        },
+        "education": "North Fort Myers High School (North Fort Myers, Fla.) ‘12 University of Illinois at Urbana Champaign ‘16, Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Eric and Krista Rausin</li><li>Has a brother, Kai</li><li>Involved in a car accident in November 2003 that paralyzed her from the waist down at age 10</li><li>Founded Ingenium Manufacturing in August 2016, a company that develops wheelchair racing gloves from 3D printers</li><li>Her mother is an author and has published two children’s fantasy books, crediting her daughter as the inspiration for the books as the stories’ main protagonists are young girls that use a wheelchair</li><li>Saw another wheelchair racer for the first time while running a 15K in Tampa where she met University of Illinois coach and Paralympian Adam Bleakney</li><li>Hobbies include reading, writing, drinking coffee and creating new recipes.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 9th (Marathon T54 - Women), 10th (5000m T54 - Women)</li><li>Years of participation: 5000m T54 - Women 2019; Marathon T54 - Women 2019</li><li>Top finish: 9th – 2019 (Marathon T54 - Women)</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (5000m T54 - Women, 1500m T54 - Women, 800m T54 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T54",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008891/TeamUSA%20Assets/Athlete%20Profiles/Arielle%20Rausin%201006953/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Arielle Rausin 1006953"
+        }
+      ]
+    },
+    {
+      "first_name": "Morgan",
+      "last_name": "Ray",
+      "bio": {
+        "height": "4'5\"",
+        "birthday": "2002-08-02T00:00:00",
+        "hometown": {
+          "city": "St. Augustine",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 29.9012,
+          "longitude": -81.3125
+        },
+        "education": "University of North Florida ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Morgan dreamed of being a Paralympian since he was very young</li><li>He was born with achondroplasia, the most common form of short-stature or dwarfism</li><li>Began&nbsp;swimming&nbsp;at 5 years old, following his older brother Mason into the sport</li><li>Son of Matt and Mary Ray</li><li>Has three brothers, Mason, Michael and Maddox</li><li>Enjoys playing guitar, playing pickleball, spending time with his&nbsp;family, and sharing his story with others</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019</li><li>Won both his events (100 breast and 200 I.M.) at the 2024 U.S. Paralympic Team Trials – Swimming</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (100m Breaststroke SB6 - Men), 5th (4 x 100m Medley Relay 34 Points - Mixed), 8th (200m Individual Medley SM6 - Men)</li><li>Years of participation: 100m Breaststroke SB6 - Men 2022, 2023; 200m Individual Medley SM6 - Men 2022, 2023; 4 x 100m Medley Relay 34 Points - Mixed 2022, 2023; 400m Freestyle S6 - Men 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2022 (100m Breaststroke SB6 - Men)</li></ul></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Paris 2024, silver (4 x 50m Medley Relay 20 Points - Mixed), 4th (100m Breaststroke SB6 - Men), 6th (4 x 100m Medley Relay 34 Points - Mixed), 13th (200m Individual Medley SM6 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1743634036/NGB%20Para%20Swimming/20240905_Morgan_Ray_SWIMMING-KUS009_1.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S6, SB6, SM6",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1743633940/NGB%20Para%20Swimming/GettyImages-2170414683.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1743633772/NGB%20Para%20Swimming/Ray_Headshot.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Morgan Ray"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Molly",
+      "last_name": "Reckford",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1992-10-09T00:00:00",
+        "hometown": {
+          "city": "Short Hills",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.739,
+          "longitude": -74.331
+        },
+        "education": "Dartmouth College '15",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Has two older siblings and a pet cockatiel</p></li><li><p>Her grandfather, Bill Spencer, was a two-time Olympian and longtime coach for Team USA in Biathlon.</p></li><li>Earned a spot on Dartmouth‘s open weight rowing team as a walk-on</li><li><p>Credits her big dreams and love of sport to her grandparents, and her competitive nature to her sister and father</p></li><li>Hobbies include cooking, cycling, reading, sculling, cross-country skiing and indoor rowing</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 6th (Lightweight Double Sculls - Women)</li><li>Olympic Games Tokyo 2020, 5th (Lightweight Double Sculls - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 11th (Quadruple Sculls - Women)</li><li>Years of participation: Quadruple Sculls - Women 2023; Lightweight Double Sculls - Women 2022; Lightweight Quadruple Sculls - Women 2019</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2022 (Lightweight Double Sculls - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712768283/TeamUSA%20Assets/Migration/Athlete%20Profiles/Molly%20Reckford/Reckford_m_bio_1188787.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712768267/TeamUSA%20Assets/Migration/Athlete%20Profiles/Molly%20Reckford/Reckford_m_hero_1188787.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712768267/TeamUSA%20Assets/Migration/Athlete%20Profiles/Molly%20Reckford/Reckford_m_hero_1188787.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687349286/TeamUSA%20Assets/Migration/Athlete%20Profiles/Molly%20Reckford/Reckford_Molly_150x250-1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Molly Reckford"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    }
+  ]
+}

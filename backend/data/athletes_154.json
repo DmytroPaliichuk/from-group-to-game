@@ -1,0 +1,714 @@
+{
+  "entries": [
+    {
+      "first_name": "Kasia",
+      "last_name": "Trzopek",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1981-05-06T00:00:00",
+        "hometown": {
+          "city": "Pacifica",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.61382,
+          "longitude": -122.48636
+        },
+        "education": "Warsaw Uprising High School Number 19 Penn State University '06, Philosophy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Malgorzata and Marian Trzopek</li><li>Married to Mehmet Yorukoglu</li><li>Two-time NCAA Champion</li><li>Hobbies include hiking, sewing, embroidery and photography</li><li>Speaks Italian and Polish.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Barcelona Senior World Cup, 62nd</li>\r\n                            <li>2014 October North American Cup, 1st</li>\r\n                            <li>2014 Leipzig World Cup, 48th</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324780/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kasia%20Trzopek/Trzopek_Kasia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kasia Trzopek"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Tsives",
+      "bio": {
+        "height": "5'3",
+        "birthday": "2008-01-31T00:00:00",
+        "hometown": {
+          "city": "Saratoga",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.2639,
+          "longitude": -122.0236
+        },
+        "education": "Saratoga High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She lived in Shanghai for four years when she was in elementary school</li><li>She knows three languages</li><li>When she was a baby she was terrified of the water, especially the ocean</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 13-15 national team athlete</li>\r\n                            <li>2022 U.S. 13-15 Championship and 12U Invitational: Finalist (Duet), Finalist (Solo), 2nd (Combo), 1st (Team)</li>\r\n                            <li>2021 Junior Olympic Championship: 3rd (Combo)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA Youth World Championships: 3rd (Combo)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366044/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sophia%20Tsives/Sophia-Tsives.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sophia Tsives"
+        }
+      ]
+    },
+    {
+      "first_name": "Samantha",
+      "last_name": "Tubbs",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1999-02-22T00:00:00",
+        "hometown": {
+          "city": "King George",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.2996,
+          "longitude": -77.1997
+        },
+        "education": "Homeschooled DeVry University, Business ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Samantha was born without her left hand. After several years playing soccer, she started to swim in 2013 before moving to the U.S. Olympic &amp; Paralympic Training Center</li><li>Daughter of Ray Tubbs</li><li>Hobbies include reading, swimming, watching movies and hanging out with friends</li><li>Volunteers at a local YMCA teaching grade schoolers how to swim</li><li>Additionally volunteers at a local physical therapy office focusing on water therapy for patients</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (100m Breaststroke SB9 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S9, SB9, SM9",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009548/TeamUSA%20Assets/Athlete%20Profiles/Samantha%20Tubbs%20880211/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Samantha Tubbs 880211"
+        }
+      ]
+    },
+    {
+      "first_name": "Mary",
+      "last_name": "Tucker",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2001-07-20T00:00:00",
+        "hometown": {
+          "city": "Sarasota",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.3364,
+          "longitude": -82.5307
+        },
+        "education": "Sarasota Military Academy (Sarasota, Fla.) ‘19 University of Kentucky '23, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jennifer Tucker Mogensen</li><li>One younger brother, Reece</li><li>Hobbies include riding horses</li><li>Picked up rifle shooting in high school, training most days in her family’s garage</li><li>Once referred to as the “rebel child” of shooting, she quit her high school team and learned to teach herself via YouTube videos and online resources</li><li>Named Rookie Shooter of the Year as a freshman at University of Kentucky</li><li>Athlete of the Year sophomore year</li><li>First UK athlete to sweep gold in both events at NCAA Championships (Air and Smallbore Rifle)</li><li>Less than a week later, competed at ISSF World Cup New Delhi where she won gold, silver and bronze medal</li><li>Has a cat named Trigger</li><li>Doesn't have a sense of smell</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, 13th (10m Air Rifle - Team - Mixed), 25th (50m Rifle 3 Positions - Women), 32th (10m Air Rifle - Women)</li><li>Olympic Games Tokyo 2020, silver (10m Air Rifle - Team - Mixed), 6th (10m Air Rifle - Women), 13th (50m Rifle 3 Positions - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 13th (10m Air Rifle - Women), 33th (50m Rifle Prone - Women), 49th (50m Rifle 3 Positions - Women)</li><li>Years of participation: 10m Air Rifle - Women 2022, 2023; 50m Rifle 3 Positions - Women 2023; 50m Rifle Prone - Women 2022, 2023; 10m Air Rifle - Team - Women 2022; 50m Rifle 3 Positions - Team - Mixed 2022; 50m Rifle 3 Positions - Team - Women 2022; 50m Rifle Prone - Team (Mixed) - Mixed 2022</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2022 (10m Air Rifle - Team - Women)</li><li>Bronze – 2022 (50m Rifle Prone - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009538/TeamUSA%20Assets/Athlete%20Profiles/Mary%20Tucker%201147783/tucker_mary_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mary Tucker 1147783"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Shooting"
+        }
+      ]
+    },
+    {
+      "first_name": "Aliphine",
+      "last_name": "Tuliamuk",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1989-04-05T00:00:00",
+        "hometown": {
+          "city": "Flagstaff",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 35.1983,
+          "longitude": -111.6513
+        },
+        "education": "Wichita State University ’13",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>One of 32 siblings, all of whom share a father</li><li>Became a U.S. citizen in 2016</li><li>Hobbies include sewing and watching movies</li><li>Calls herself a people person</li><li>Has worked as an Uber driver</li><li>Avid crocheter having made and sold more than 1,000 beanies on Etsy.</li></ul><h5>Olympic Experience </h5><ul><li>One-time Olympian (2020)</li><li>Olympic Games Tokyo 2020, no result (marathon)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 15th (cross country)</li><li>Years of Participation: 2017</li><li>Top finish: 15th – 2017 (cross country)</li></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684929712/TeamUSA%20Assets/Migration/Pages/Tuliamuk_Aliphine_022920_1440x810_02.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662167/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/tuliamuk_a_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362097/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aliphine%20Tuliamuk/Tuliamuk_Aliphine_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aliphine Tuliamuk"
+        }
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Tuma",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2002-08-16T00:00:00",
+        "hometown": {
+          "city": "St. Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "Nova Classical Academy (Saint Paul, Minn.) ‘20 University of Minnesota '25, Mathematics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Youngest Son of Randy and Katie Tuma</li><li>I have 4 sisters and a brother and grew up in Saint Paul Minnesota</li><li>Hobbies include baseball, card games and video games.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championship, Füssen, 2023 (Team - Men)</li><li>World Junior Championship, Krasnoyarsk, 2020 (Team - Men)</li></ul><h5> World Championship Experience</h5><ul><li>2020 Junior World Championships, 6th (alternate)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kevin Tuma"
+        }
+      ]
+    },
+    {
+      "first_name": "Marcus",
+      "last_name": "Tupuola",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1995-10-05T00:00:00",
+        "hometown": {
+          "city": "Carson",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8314,
+          "longitude": -118.2706
+        },
+        "education": "Notre Dame College (South Euclid, Ohio) ’18",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Monica Tupuola</li><li><p>Began playing rugby at age 13</p></li><li><p>Volunteers within the rugby community</p></li><li><p>Enjoys cooking new recipes</p></li><li><p>Favorite movies are Holes, Roll Bounce and The Goonies</p></li><li><p>Christmas is his favorite holiday</p></li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 8th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1692727381/TeamUSA%20Assets/Make%20Your%20Mark%202023/Tupuola_Marcus_02_GettyImages.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472232/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marcus%20Tupuola%201134234/tupola_m_hero_1134234.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472232/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marcus%20Tupuola%201134234/tupola_m_hero_1134234.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720472232/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marcus%20Tupuola%201134234/tupola_m_hero_1134234.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marcus Tupuola 1134234"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Turek",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1979-04-12T00:00:00",
+        "hometown": {
+          "city": "Council Bluffs",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 41.2586,
+          "longitude": -95.8614
+        },
+        "education": "Abraham Lincoln High School (Council Bluffs, Iowa) ‘97 Southwest Minnesota State University '02, Political Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Raised in a basketball family</li><li>Son of John and Luellen Turek</li><li>Married to Jaralon</li><li>Has four siblings, Ulette Bonner, Rachell, John and Elisha</li><li>Shoots basketball every day for an hour and lifts four times a week</li><li>Continued the tradition of playing the sport at the highest level at Southwest Minnesota State University as the program’s most prolific scorer in history</li><li>He, his brother John, and sister Elisha, all played collegiately across the United States and professionally in Europe</li><li>Was first introduced to the sport through a wheelchair sports camp in Omaha, Nebraska</li><li>Made his first national team in 2004 before his Paralympic Games debut in Athens later that year</li></ul><h5>Paralympic Experience </h5><ul><li>4-time Paralympian; 3-time Paralympic medalist (2 gold, 1 bronze)</li><ul><li>Paralympic Games Tokyo 2020, gold (Team - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Men)</li><li>Paralympic Games London 2012, bronze (Team - Men)</li><li>Paralympic Games Athens 2004, 7th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – silver (Team - Men)</li><li>Years of participation: Team - Men 2014</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "3.5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009544/TeamUSA%20Assets/Athlete%20Profiles/Josh%20Turek%20839425/Turek_Josh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Turek 839425"
+        }
+      ]
+    },
+    {
+      "first_name": "Ashley",
+      "last_name": "Twichell",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1989-06-16T00:00:00",
+        "hometown": {
+          "city": "Fayetteville",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.0298,
+          "longitude": -76.0002
+        },
+        "education": "Fayetteville-Manlius High School (Manlius, N.Y.)  Duke University ’11, Psychology",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Terry and Deirdre Twichell</li><li>Has three siblings, Brandon, Ryan and Carly</li><li>Began swimming at age three, when they all joined the local swim team</li><li>Underwent shoulder surgery in 2014</li><li>Enjoys reading, crafting, cooking, baking and going to the beach.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 7th (10km Freestyle - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2019 – bronze (5km - Team Relay - Mixed), 6th (10km Freestyle - Women), 7th (5km Freestyle - Women)</li><li>Years of participation: 10km Freestyle - Women 2017, 2019; 5km - Team Relay - Mixed 2017, 2019; 5km Freestyle - Women 2011, 2015, 2017, 2019; 400m Freestyle (SC) - Women 2016; 800m Freestyle (SC) - Women 2016; 25km Freestyle - Women 2015; 5km - Team Time Trial - Mixed 2011, 2015</li><li>Medals: 6 (2 gold, 2 silver, 2 bronze)</li><ul><li>Gold – 2017 (5km Freestyle - Women);  2011 (5km - Team Time Trial - Mixed)</li><li>Silver – 2017 (5km - Team Relay - Mixed);  2016 (800m Freestyle (SC) - Women)</li><li>Bronze – 2019 (5km - Team Relay - Mixed);  2011 (5km Freestyle - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335632/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ashley%20Twichell/twichell_ashley_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ashley Twichell"
+        }
+      ]
+    },
+    {
+      "first_name": "Carson",
+      "last_name": "Tyler",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2004-06-09T00:00:00",
+        "hometown": {
+          "city": "Moultrie",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 31.1799,
+          "longitude": -83.7885
+        },
+        "education": "Indiana University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Charlton and Laura Tyler</li><li>He has three sisters: Carey, Cate and Caroline</li><li>Caroline is also a diver</li><li>He enjoys video games and sports</li><li>Between he dives, Carson likes to relax and enjoy the moment</li><li>His favorite dive is a 5337 on 3-meter</li><li>Doesn't like to listen to music when he competes, but would like to be a DJ because he loves music</li><li>His favorite diver is Mark Lenzi</li><li>Describes himself as ambitious, funny and persistent</li><li>Would like to meet Kanye West</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Berlin, 2022 (3m Springboard - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – bronze (10m Platform Synchro - Mixed), 31th (3m Springboard - Men)</li><li>Years of participation: 10m Platform Synchro - Mixed 2022; 3m Springboard - Men 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2022 (10m Platform Synchro - Mixed)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (3m Springboard - Men), 19th (10m Platform - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719129617/Tyler_Carson_TrialsPodium.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367665/TeamUSA%20Assets/Migration/Athlete%20Profiles/Carson%20Tyler/Carson-Tyler-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Carson Tyler"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Diving"
+        }
+      ]
+    },
+    {
+      "first_name": "Ebiye",
+      "last_name": "Udo-Udoma",
+      "bio": {
+        "height": "6'1",
+        "birthday": "1993-06-10T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "Lakeridge High School Oregon State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Loretta Mabinton and Ayanti Udo-Udoma</li><li>Was a high school four-sport varsity letter winner in wrestling, tennis, football and track</li><li>Won the 2012 Harlem Globetrotters&#39; talent search contest</li><li>Was the leading try-scorer of the 2019 USA Touch Rugby Men’s Open World Cup Team</li><li>Was elected to the USA Team Handball Board of Directors as the Beach Athlete Representative in March 2021</li><li>Saved a penalty shot from Kevin Hart</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2023 Mexican Vulc&#225;n Cup All-Star Game - 1st Place, Captain</li>\r\n                            <li>2022 USA Team Handball Men’s Beach Athlete of the Year</li>\r\n                            <li>2022 Desafio Internacional De Handebol De Praia - 2nd, Captain (Rio De Janiero, Brazil)</li>\r\n                            <li>2022 So. Cal Beach Handball Championships - 2nd, Captain</li>\r\n                            <li>2022 Polish Beach Handball Club Championships - 3rd, Best Right Wing Nomination (Plock, Poland)</li>\r\n                            <li>2022 IWGA World Games - 4th, Assists Leader (Birmingham, USA)</li>\r\n                            <li>2022 Egypt Pre-WC series - 2nd, Captain (Cairo, Egypt)</li>\r\n                            <li>2022 North American &amp; Caribbean Handball Confederation (NACHC) Championships - 1st, Captain (Acapulco, Mexico)</li>\r\n                            <li>2022 Copa Internacional de Balonmano Playa Volcán - 2nd, Captain</li>\r\n                            <li>2021 European Handball Federation Champions Cup - 2nd (Isola delle Femmine, Italy)</li>\r\n                            <li>2021 USA vs Europe All-Star Game - 1st, Captain</li>\r\n                            <li>2021 So. Cal Beach Handball Championships - 2nd, Captain</li>\r\n                            <li>2021 Arena Handball Tour Nazaré, Portugal - Quarterfinals</li>\r\n                            <li>2021 Arena Handball Tour Orihuela, Spain</li>\r\n                            <li>2021 Torneo Internacional De Espa&#241;a Gran Canaria - 5th (Gran Canary Islands, Spain)</li>\r\n                            <li>2021 European Beach Handball Tour - 3rd (M&#225;laga, Spain)</li>\r\n                            <li>International World Games Association - Athlete Of The Month (June 2020)</li>\r\n                            <li>2020 Copa Internacional de Balonmano Playa Volc&#225;n - 1st, Captain, MVP</li>\r\n                            <li>2019 Brazilian Beach Handball National Championships - 5th </li>\r\n                            <li>2019 ANOC World Beach Games - 11th, Assists Leader (Doha, Qatar)</li>\r\n                            <li>2019 So. Cal Beach Handball Championships - 1st, Captain</li>\r\n                            <li>2019 North American &amp; Caribbean Handball Confederation (NORCA) Championships - 1st, MVP (Trinidad &amp; Tobago)</li>\r\n                            <li>2019 Copa Internacional de Balonmano Playa Volc&#225;n - 3rd, MVP</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 1st, MVP</li>\r\n                            <li>2018 Chinese Beach Handball National Championships - 1st, Captain</li>\r\n                            <li>2018 Pan American Beach Handball Championships - 3rd</li>\r\n                            <li>2018 Ta&#231;a Kika Invitational - Quarterfinals (Jo&#227;o Pessoa, Brazil)</li>\r\n                            <li>2017 So. Cal Beach Handball Championships - 3rd</li>\r\n                            <li>2017: Named to the International World Games Association Most Important Beach Handball Players’ List</li>\r\n                            <li>2017 Prague Open Beach Handball Championships - 2nd </li>\r\n                            <li>2017 Australian Beach Handball National Championships - 2nd</li>\r\n                            <li>2017 Ta&#231;a Kika Invitational - Quarterfinals (Jo&#227;o Pessoa, Brazil)</li>\r\n                            <li>2017 Beach Games Seynois – 2nd (La Seyne, France)</li>\r\n                            <li>2016 So. Cal Beach Handball Championships - 2nd, MVP</li>\r\n                            <li>2016 Pan American Beach Handball Championships – 1st (Vargas, Venezuela)</li>\r\n                            <li>2015: Named to Senior Men’s National Team</li>\r\n                            <li>2015 American Open Beach Handball Championships - 2nd</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 IHF Beach Handball World Championships - 12th (Crete, Greece)</li><li>2018 IHF Beach Handball World Championships - 12th (Kazan, Russia)</li><li>2016 IHF Beach Handball World Championships – 11th (Budapest, Hungary)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011329/TeamUSA%20Assets/Athlete%20Profiles/Ebiye%20Udo-Udoma%201173266/Ebiye_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011330/TeamUSA%20Assets/Athlete%20Profiles/Ebiye%20Udo-Udoma%201173266/Ebiyeheadshot2_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ebiye Udo-Udoma 1173266"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicolette",
+      "last_name": "Udria",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1995-07-21T00:00:00",
+        "hometown": {
+          "city": "Covina",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0917,
+          "longitude": -117.8906
+        },
+        "education": "Mater Dei High School Oregon - 2017",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 28</li><li>Parents are Rolando and Stacy Udria</li><li>Father previously played for USA Baseball Junior National Team</li><li>Personal motto: Everything happens for a reason</li><li>Three words to describe her are: confident, passionate and loyal</li><li>What non-softball sport would she like to try: I would love to play volleyball</li><li>On what it means to play for USA Softball: &quot;It is an absolute honor to represent the United States and to be able to play the highest level of softball possible.&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 USA Softball International Cup; Hit .333 (4-for-12) with one HR, six RBI and five runs scored </li>\r\n                    </ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:</strong>&nbsp;NFCA First Team All-American...First Team All-Pac-12...Pac-12 All-Defensive Team</p>\n<p><strong>2016:</strong>&nbsp;NFCA Second Team All-American...First Team All-Pac-12</p>\n<p><strong>2015:</strong>&nbsp;NFCA Third Team All-Pacific Region...Second Team All-Pac-12</p>\n<p><strong>2014:</strong>&nbsp;Pac-12 All Freshman</p>\n<p><strong>Click here to view Nicolette Udria' full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700532/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nicolette%20Udria%201106849/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700534/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nicolette%20Udria%201106849/UdriaNikki.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicolette Udria 1106849"
+        }
+      ]
+    },
+    {
+      "first_name": "Katie",
+      "last_name": "Uhlaender",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1984-07-17T00:00:00",
+        "hometown": {
+          "city": "Breckenridge",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.4817,
+          "longitude": -106.0384
+        },
+        "education": " Colorado Mountain College",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Uhlaender loves to ski, snowboard, kite board and craves speed, which is one of the reasons she began skeleton.</li><li>Began competing in skeleton in 2004</li><li>She \"loves the feeling of getting power off the start block.\"</li><li>Uhlaender also enjoys photography, writing, film, and her favorite book is \"The Fountainhead.\"</li><li>After her sliding career, Katie would like to become a producer or writer so that she can combine her \"writing and photographic skills in a creative way.\"</li></ul><h5>Career Highlights</h5><ul><li>2017-2018 World Cup- 9th in Lake Placid (11/17); 7th in Park City (11/17); 9th in Whistler (11/17); 8th in Winterberg (12/17); 28th in Igls (12/17); 10th in St. Moritz (1/18); 8th in Koenigssee (1/18);</li><li>2017-2018 Intercontinental Cup - SILVER in St. Moritz #1 (1/18); GOLD in St. Moritz #2 (1/18);</li><li>2016-2017 World Cup - 12th in Altenberg (1/17); 20th in Winterberg (1/17); 12th in St. Moritz (1/17); 8th in Koenigssee (1/17); 14th in Igls (2/17); 8th in PyeongChang (3/17)</li><li>2015-2016 Intercontinental Cup - GOLD in Lake Placid #1 (11/15); GOLD in Lake Placid #2 (11/15); BRONZE in Whistler #1 (12/15); SILVER in Whistler #2 (12/15); BRONZE in Igls #1 (1/16); BRONZE in Igls #2 (1/16)</li><li>2015-2016 North American Cup- GOLD in Whistler #2 (11/15)</li><li>2013-2014 World Cup- 12th in Calgary (11/13), 14th in Park City (12/13), 14th in Lake Placid #1 (12/13),9th in Lake Placid #2 (12/13), DNS Winterberg (1/14), 6th in St. Moritz (1/14), 12th in Igls (1/14), 11th in Koenigssee (1/14)</li><li>2012-2013 World Cup- 5th in Lake Placid (11/12), GOLD in Park City (11/12), 7th in Whistler (11/12), 21st in Winterberg (12/12), 5th Team Event in Winterberg (12/12), GOLD in La Plagne (12/12), SILVER Altenberg (1/13), 9th in Konigssee (1/13), 10th in Igls (1/13), BRONZE Team Event in Igls (1/13), SILVER in Sochi (2/13)</li><li>2011-2012 World Cup- 6th overall; DNS Igls (12/11), BRONZE in La Plagne (12/11), 5th in Winterberg (12/11), 6th in Altenberg (1/12), 5th in Koenigssee (1/12), 13th in St. Moritz (1/12), 8th in Calgary (1/12)</li><li>2011-2012 Intercontinental Cup- BRONZE in Calgary #1 (2/12), 6th in Calgary #2 (2/12)</li><li>2010-2011 World Cup- 24th overall; 5th in St. Moritz (1/11), 10th in Cesana (1/11)</li><li>2010-2011 Intercontinental Cup- 6th in La Plagne #1 (12/10), 7th in La Plagne #2 (12/10), BRONZE in Whistler #1 (1/11), 5th in Whistler #2 (1/11)</li><li>2009-2010 World Cup- 7th overall; 7th in Park City (11/09), 12th in Lake Placid (11/09), 5th in Cesana (12/09), 12th in Winterberg (12/09), 13th in Altenberg (12/09), 7th in Konigssee (1/10), 6th in St. Moritz (1/10), 8th in Igls (1/10)</li><li>2008-2009 World Cup- 3rd overall; 4th in Winterberg (11/08), 4th in Altenberg (12/08), 5th in Igls (12/08), 11th in Konigssee (1/09) 6th in St. Moritz (1/09), 4th at Whistler (2/09), 5th in Park City #1 (2/09), SILVER in Park City #2 (2/09)</li><li>2007-2008 World Cup- 7th in Calgary (11/07), SILVER in Park City (12/07), GOLD in Lake Placid (12/07), 4th in Cesana #1 (1/08), GOLD in Cesana #2 (1/08), GOLD in St. Moritz (1/08), GOLD in Königssee (2/08), BRONZE at Winterberg (2/08)</li><li>2006-2007 World Cup - GOLD in Calgary (11/06), GOLD in Park City (12/06), GOLD in Lake Placid (12/06), GOLD in Nagano (01/07), SILVER in Igls (01/07), 5th in Cesana Pariol (02/07), GOLD in Winterberg (02/07), 6th in Königssee (02/07)</li><li>2005-2006 World Cup- 4th overall; 3rd in Calgary (11/05), 3rd in Lake Placid (11/05), 7th in Igls (12/05), 10th in Sigulda (12/05), 11th in Königssee (01/06), 9th in St. Moritz (01/06), 12th in Altenberg (01/06)</li><li>2004-2005 World Cup- 6th overall; 6th in Winterberg (11/04), 4th in Altenberg (12/04), 7th in Igls (12/04), 4th in Sigulda (12/04), 12th in Cesana Pariol (01/05), 8th in St. Moritz (01/05), SILVER in Lake Placid (02/05)</li><li>2003-2004 North American Cup - GOLD in Park City (12/03), GOLD in Calgary (12/03), SILVER in Lake Placid (01/04), SILVER in World Junior Championships (02/04)</li></ul><h5>Olympic Experience</h5><ul><li>5-time Olympian</li><ul><li>Olympic Games Beijing 2022, 6th (Individual - Women)</li><li>Olympic Games Pyeongchang 2018, 13th (Individual - Women)</li><li>Olympic Games Sochi 2014, 4th (Individual - Women)</li><li>Olympic Games Vancouver 2010, 11th (Individual - Women)</li><li>Olympic Games Turin 2006, 6th (Individual - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 13th (Individual - Women)</li><li>Years of participation: Individual - Women 2005, 2007, 2008, 2009, 2011, 2012, 2013, 2016, 2021, 2025; Team Competition - Mixed 2008, 2009, 2011, 2012, 2013, 2016</li><li>Medals: 6 (2 gold, 1 silver, 3 bronze)</li><ul><li>Gold – 2012 (Individual - Women, Team Competition - Mixed)</li><li>Silver – 2008 (Individual - Women)</li><li>Bronze – 2009 (Team Competition - Mixed);  2008 (Team Competition - Mixed);  2007 (Individual - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697155377/TeamUSA%20Assets/Migration/Athlete%20Profiles/Katie%20Uhlaender/uhaelander_k_bio_1119584.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Skeleton",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697155513/TeamUSA%20Assets/Migration/Athlete%20Profiles/Katie%20Uhlaender/uhlaender_k_hero_1119584.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683646782/Uhlaender.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683646782/Uhlaender.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Katie Uhlaender"
+        },
+        {
+          "title": "Skeleton"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    }
+  ]
+}

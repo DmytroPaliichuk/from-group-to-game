@@ -1,0 +1,556 @@
+{
+  "entries": [
+    {
+      "first_name": "Cyrus",
+      "last_name": "Hostetler",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1986-08-08T00:00:00",
+        "hometown": {
+          "city": "Newberg",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.3007,
+          "longitude": -122.9654
+        },
+        "education": "Newberg High School (Newberg, Ore.) ‘05 University of Oregon ‘10, Art",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Karina Sackrider</li><li>Has one brother, David, and one sister, Fayth</li><li>Two-time NCAA All-American</li><li>Began competing in the javelin throw in 2005</li><li>Works as a website/graphic designer</li><li>Worked for the project management team for the 2012 U.S. Olympic Team Trials – Track and Field, where he did front-end web design and graphic design</li><li>Interests include cooking, digital arts, painting and hiking.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 Pan American Games, silver</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 20th (Javelin Throw - Men)</li><li>Olympic Games London 2012, 31th (Javelin Throw - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 18th (Javelin Throw - Men)</li><li>Years of participation: Javelin Throw - Men 2017</li><li>Top finish: 18th – 2017 (Javelin Throw - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006300/TeamUSA%20Assets/Athlete%20Profiles/Cyrus%20Hostetler%20823318/Hostetler_Cyrus_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cyrus Hostetler 823318"
+        }
+      ]
+    },
+    {
+      "first_name": "Shelby",
+      "last_name": "Houlihan",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1993-02-08T00:00:00",
+        "hometown": {
+          "city": "Sioux City",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 42.4925,
+          "longitude": -96.4002
+        },
+        "education": "East High School (Sioux City, Iowa) ‘11 Arizona State University ‘15, Interdisciplinary Studies, Business and Computational Mathematical Sciences",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bob and Connie Houlihan</li><li>Has one brother, Rob, and five sisters, Callie, Chloe, Kelly, Ryann and Shayla</li><li>Twelve-time NCAA All-American</li><li>Interests include running, reading, playing the piano and video games</li><li>Born with Spherocytosis, hereditary blood disease.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 11th (5000m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 4th (1500m (Indoor) - Women), 5th (3000m (Indoor) - Women)</li><li>Years of participation: 1500m (Indoor) - Women 2018; 3000m (Indoor) - Women 2018; 5000m - Women 2017</li><li>Top finish: 4th – 2018 (1500m (Indoor) - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930060/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shelby%20Houlihan/Houlihan_Shelby_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shelby Houlihan"
+        }
+      ]
+    },
+    {
+      "first_name": "Rhyne",
+      "last_name": "Howard",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "2000-04-29T00:00:00",
+        "hometown": {
+          "city": "Cleveland",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 35.157,
+          "longitude": -84.8766
+        },
+        "education": "University of Kentucky '22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Rhvonja \"RJ\" Avery and James Howard</li><li>Sister to RaShawn Avery, James Howard, Jr., Love Howard and Takema Sexton</li><li>Selected No. 1 overall by Atlanta in 2022.</li><li>Has played two WNBA seasons with the Atlanta Dream</li></ul><h5>Career Highlights</h5><ul><li>World Championship U-19, Bangkok, 2019 (Team - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718403923/TeamUSA%20Assets/Athlete%20Profiles/Rhyne%20Howard%201155925/howard_r_bio_1155925.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "3x3 Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718403909/TeamUSA%20Assets/Athlete%20Profiles/Rhyne%20Howard%201155925/howard_r_hero_1155925.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718403909/TeamUSA%20Assets/Athlete%20Profiles/Rhyne%20Howard%201155925/howard_r_hero_1155925.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718403909/TeamUSA%20Assets/Athlete%20Profiles/Rhyne%20Howard%201155925/howard_r_hero_1155925.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rhyne Howard"
+        },
+        {
+          "title": "Basketball"
+        },
+        {
+          "title": "3x3 Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Marisa",
+      "last_name": "Howard",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1992-08-10T00:00:00",
+        "hometown": {
+          "city": "Pasco, Wash. ",
+          "state": "WA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Pasco High School (Pasco, Wash.) ‘10 Boise State University ‘15, Nursing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mark and Darleen Vander Malle</li><li>Has two siblings, Andrea and Kyle</li><li>Married to Jeff Howard</li><li>Works part-time as a school nurse</li><li>Working to receive her master’s degree in nutrition and human performance</li><li>Loves trying new recipes and sharing them with friends and family</li><li>Hobbies include reading, cooking and baking</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 6th (Team Cross Country Relay - Mixed)</li><li>Years of participation: Team Cross Country Relay - Mixed 2017</li><li>Top finish: 6th – 2017 (Team Cross Country Relay - Mixed)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (3000m Steeplechase - Women)</li><li>Pan American Games, Lima, 2019 (3000m Steeplechase - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 24th (3000m Steeplechase - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006316/TeamUSA%20Assets/Athlete%20Profiles/Marisa%20Howard%20913932/Howard_M.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marisa Howard 913932"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Howe",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1989-09-09T00:00:00",
+        "hometown": {
+          "city": "Gilford",
+          "state": "NH",
+          "country": "United States",
+          "latitude": 43.58,
+          "longitude": -71.36
+        },
+        "education": "Gilford High School University of Vermont '12",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Junior World Championships, Tarvisio, 2007 (4 x 5km Relay - Men, Sprint Classic Style - Men, 10km Freestyle - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 19th (4 x 7.5km Relay - Men), 84th (20km Individual - Men)</li><li>Years of participation: 20km Individual - Men 2019; 4 x 7.5km Relay - Men 2019</li><li>Top finish: 19th – 2019 (4 x 7.5km Relay - Men)</li></ul><h5>More</h5><strong>Home Town:</strong>&nbsp;Gilford, New Hampshire<br>\n<strong>Current Location:</strong>&nbsp;Craftsbury, Vermont &nbsp;\n<p></p>\n<strong>Did you know&hellip;.?<br>\n</strong>\n<p>My dream vacation spot is&hellip;. New Zealand&nbsp;<br>\nWhen traveling, the thing I miss the most is&hellip;.. my dog, Gunner&nbsp;<br>\nMy favorite meal is&hellip;. grass fed, bacon cheeseburger&nbsp;<br>\nI never leave the house without&hellip;.. my leatherman&nbsp;<br>\nIf I were not an athlete, I would&hellip;..have a cattle, pig and turkey farm</p>\n<p><strong>MORE ON ALEX:</strong>&nbsp;Alex started skiing in middle school for Gilford Middle School and Gunstock Nordic. He was a multiple-time junior national champion and represented the U.S. at the J1 Scandinavian Cup and the Junior World Chmpionships. He went on to ski for the University of Vermont and helped the Catamounts win a NCAA Championship. Alex studied Ecological Agriculture at UVM. He joined the Craftsbury Green Racing Project in May of 2012 and raced his first biathlon races in February 2015. Following the 15/16 season, he was named to U.S. Biathlon's development program. He raced his first IBU Cup in Martell, Italy, in January of 2017.</p>\n<p><strong>SPORT DATA</strong>&nbsp;<br>\n<br>\n<strong>Biathlon Since:</strong>&nbsp;2015, cross-country ski racing since: 2003<br>\n<strong>Skis:</strong>&nbsp;&nbsp;Salomon&nbsp;&nbsp;<br>\n<strong>Boots:</strong>&nbsp;&nbsp;Salomon&nbsp;<br>\n</p>\n<p><strong>WORLD CUP TOP RESULTS (INCL. OWG AND WCH.)&nbsp;<br>\n</strong></p>\n<table>\n    <tbody>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\"><strong>POS</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>COMP.</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>SEASON</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>EVENT</strong></td>\n        </tr>\n        <tr>\n            <td>68</td>\n            <td>SP</td>\n            <td>2017/18</td>\n            <td>Kontiolahti (FIN) WC</td>\n        </tr>\n        <tr>\n            <td>74</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Hochfilzen (AUT) WC</td>\n        </tr>\n        <tr>\n            <td>79</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Annecy (FRA) WC</td>\n        </tr>\n        <tr>\n            <td>81</td>\n            <td>IN</td>\n            <td>2019/20</td>\n            <td>Ostersund (SWE) WC</td>\n        </tr>\n        <tr>\n            <td>81</td>\n            <td>SP</td>\n            <td>2018/19</td>\n            <td>Soldier Hollow (USA) WC</td>\n        </tr>\n        <tr>\n            <td>84</td>\n            <td>IN</td>\n            <td>2018/19</td>\n            <td>Ostersund (SWE) WCH</td>\n        </tr>\n        <tr>\n            <td>89</td>\n            <td>SP</td>\n            <td>2017/18</td>\n            <td>Oslo (NOR) WC</td>\n        </tr>\n        <tr>\n            <td>104</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Ostersund (SWE) WC</td>\n        </tr>\n    </tbody>\n</table>\n<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930086/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Howe/Howe131219nm155_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686930088/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Howe/Alex-Howe-2019_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Howe"
+        }
+      ]
+    },
+    {
+      "first_name": "Mary Morgan",
+      "last_name": "Howell",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2002-12-15T00:00:00",
+        "hometown": {
+          "city": "Dothan",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 31.2232,
+          "longitude": -85.3905
+        },
+        "education": "Ridgecrest Christian School (Dothan, Ala.) ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of John and Heather Howell</li><li>Hobbies include weightlifting, cross training and yoga.</li></ul><h5>Career Highlights</h5><ul><li>2022 Masters - Women's Wakeboarding Champion</li><li>2022 Moomba Masters - Women's Wakeboarding Champion</li><li>2021 Masters - Women's Wakeboarding Champion</li><li>2019 Pan American Games, silver (wakeboard)</li><li>2017 IWWF Junior World Championships, gold (wakeboard)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Waterski/Wakeboard",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010541/TeamUSA%20Assets/Athlete%20Profiles/Mary%20Morgan%20Howell%20850019/howell_marymorgan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mary Morgan Howell 850019"
+        }
+      ]
+    },
+    {
+      "first_name": "Allison",
+      "last_name": "Howell",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1999-09-23T00:00:00",
+        "hometown": {
+          "city": "Chagrin Falls",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.4306,
+          "longitude": -81.3936
+        },
+        "education": "University of Wisconsin-Milwaukee",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Position: Second&nbsp;</li><li>Brother, Tom, is also a member of the U.S. national team</li><li>Two-time national junior champion</li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"color: rgb(0, 36, 76);font-size: 11pt;\">Allison Howell was born in New Jersey and started curling alongside her brother Tom at age 4.&nbsp;</span></p><p><span style=\"color: rgb(0, 36, 76);font-size: 11pt;\">Like her brother Tom, she was a two-time national junior champion.</span></p><p><span style=\"color: rgb(0, 36, 76);font-size: 11pt;\">Howell, as a member of Team Cousins, was the 2025 national runner-up and qualified for her second U.S. Olympic Trials.&nbsp;</span></p><p><span style=\"color: rgb(0, 36, 76);font-size: 11pt;\">Howell graduated from the University of Wisconsin-Milwaukee in 2022 with a degree in nutritional science and is currently a graduate student at UWM, aiming to become a registered dietitian.</span></p><h5>Career Highlights</h5><ul><li>World Junior Championship, Aberdeen, 2018 (Team - Women)</li><li>World Junior Championship, Pyeongchang, 2017 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011064/TeamUSA%20Assets/Athlete%20Profiles/Allison%20Howell%20913825/Allison-Howell.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allison Howell 913825"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Curling"
+        }
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Howell",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1994-10-14T00:00:00",
+        "hometown": {
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.0389,
+          "longitude": -87.9065
+        },
+        "education": "Marquette University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Position: Third</li><li>Speciality: Men's Curling</li><li>Introduced to curling when his parents would slide him down the ice in a car seat while they were practicing at their local curling club</li><li>Hobbies: hiking, golfing, and boating</li></ul><h5>Biographical Information&nbsp;</h5><p>Tom Howell grew up in New Jersey and was introduced to the sport when his parents, Bob and Rachel, would slide him down the ice in a car seat while they were practicing at their local curling club.<br><br>At age 17, Howell participated for Team USA in curling at the Winter Youth Olympic Games Innsbruck 2012, competing in two events (mixed doubles and mixed team). Four years later, Howell would win a silver medal at the world junior men's curling championships on a team with two of his current teammates, Korey Dropkin and Mark Fenner.&nbsp;</p><p>&nbsp;</p><p>Howell has been a national champion twice in men's curling, earning the right to represent the United States at the 2022 and 2025 world championships, both times with Dropkin as the team's skip. &nbsp;Howell has been on the runner-up team at two straight U.S. Olympic Team Trials in men's curling, in 2017 and 2021.&nbsp;</p><p>&nbsp;</p><p>Howell graduated from Marquette University with a degree in economics and business. He currently resides in Wisconsin, working as a financial advisor, balancing his job with the demands of being an elite curler. In his free time, he enjoys spending time with his wife, Hanna, and Australian Shepherd dog, Oslo, as well as hiking, golfing, boating and traveling.&nbsp;</p><h5>World Championship Experience</h5><ul><li>Most recent: 2025 – 11th (Team - Men)</li><li>Years of participation: Team - Men 2022, 2025</li><li>Top finish: 4th – 2022 (Team - Men)</li></ul><h5>&nbsp;</h5><p>&nbsp;</p><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>World Cup, Jönköping, 2019 (Team - Men)</li><li>World Junior Championship, Tårnby, 2016 (Team - Men)</li><li>World Junior Championship, Sochi, 2013 (Team - Men)</li><li>World Junior Championship, Östersund, 2012 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761264357/TeamUSA%20Assets/Athlete%20Profiles/Thomas%20Howell%20851286/howell_t_bio2_851286.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761264361/TeamUSA%20Assets/Athlete%20Profiles/Thomas%20Howell%20851286/howell_t_851286_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761264357/TeamUSA%20Assets/Athlete%20Profiles/Thomas%20Howell%20851286/howell_t_851286_bio.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Thomas Howell 851286"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Howes",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1988-01-01T00:00:00",
+        "hometown": {
+          "city": "Golden",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.75554,
+          "longitude": -105.2211
+        },
+        "education": "Golden high School (Golden, Colo.) '06 University of Colorado, Boulder",
+        "fun_fact": null,
+        "biography": "<div>\n<table style=\"text-align: right;\" align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-fLogo-online.jpg?h=50&amp;la=en&amp;w=50&amp;hash=814E6EFBD0070E849FF229E6AB33CE509C3EA740\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&amp;la=en&amp;w=50&amp;hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\" style=\"width: 50px; height: 50px;\"></td>\n            <td style=\"text-align: right;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?la=en&amp;h=50&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\">\n            </td>\n        </tr>\n    </tbody>\n</table>\n<span style=\"font-weight: bold; font-size: 18px;\"></span><span style=\"font-size: 18px;\">Alex Howes</span>\n<div><span style=\"font-size: 18px;\"><span style=\"font-weight: bold;\"></span>Road<br>\n</span>\n<div><span style=\"font-size: 18px;\"><strong>&nbsp;</strong>5-11</span></div>\n<div><span style=\"font-size: 18px;\"><strong>&nbsp;</strong>144</span></div>\n<div><span style=\"font-size: 18px;\"><strong>&nbsp;</strong>1/1/1988</span></div>\n<div><span style=\"font-size: 18px;\"><strong>&nbsp;</strong>Golden, Colo.</span></div>\n<div><span style=\"font-size: 18px;\"><strong>&nbsp;</strong>Golden high School (Golden, Colo.) '06</span></div>\n<div><span style=\"font-size: 18px;\"><span style=\"font-size: large;\">University of Colorado, Boulder</span><br>\n</span></div>\n<p style=\"font-weight: bold;\"><span style=\"font-size: 18px;\"><br>\n</span>\n</p>\n<p style=\"font-weight: bold;\"><span style=\"font-size: 18px;\"><h5>Career Highlights</h5></span></p>\n<p style=\"font-weight: bold;\">\n</p>\n<ul>\n    <li><span style=\"font-size: 18px;\">2014 Volkswagen USA Cycling Professional Road National Championships- Pro Men's Road Race, 3rd</span></li>\n    <li><span style=\"font-size: 18px;\">2014 USA Pro Challenge, Stage 7, 1st</span></li>\n    <li><span style=\"font-size: 18px;\">2014 USA Pro Challenge, Stages 1 &amp;2, 2nd</span></li>\n    <li><span style=\"font-size: 18px;\">2014 Tour de France finisher</span></li>\n</ul>\n<span style=\"font-weight: bold; font-size: 18px;\"><h5>Quick Facts</h5></span>\n<p><span style=\"font-size: 18px;\">Got involved in Cycling through his father... Favorite places to train are Boulder, Colorado, and Girona, Spain... Considers Danny Pete his hero and role model.</span></p>\n<p style=\"font-weight: bold;\"><span style=\"font-size: 18px;\"><h5>More</h5></span></p>\n<p style=\"font-weight: bold;\"><span style=\"font-size: 18px;\">Facebook<br>\nTwitter<br>\nInstagram<br>\nUSA Cycling<br>\n<br>\n</span></p>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2019 –  (Road race - Men)</li><li>Years of participation: Road race - Men 2009, 2010, 2012, 2013, 2014, 2015, 2017, 2019; Individual - Men 2006</li><li>Top finish:  – 2009 (Road race - Men), 2019 (Road race - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717026/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Howes%20976624/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682717032/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Howes%20976624/Cycling_Howes_Alex_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Howes 976624"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Hoyle",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1994-04-15T00:00:00",
+        "hometown": {
+          "city": "Wallingford",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.9076,
+          "longitude": -75.4013
+        },
+        "education": "Strath Haven High School (Wallingford, Penn.) '12 Columbia University ’16, Economics and Business Management",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Introduced to the sport when one of his middle school clubs held fencing lessons</li><li>Began setting up fencing strips on the floor of his school cafeteria to practice with friends</li><li>In February 2019, became the first American man to win two medals on the world cup circuit in a single season since Seth Kelsey in 2010</li><li>Lifelong fan of the Philadelphia Eagles.</li></ul><h5>Career Highlights</h5><ul><li>Back-to-back NCAA men’s individual epee champion (2015, 2016)</li><li>2015 Pan American Games, gold (team) and bronze (individual)</li></ul><h5>Olympic Experience</h5><ul><li>One-time Olympian (2020)</li><li>Olympic Games Tokyo 2020, 9th (team), 26th (individual)</li></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2018 – 8th (team), 64th (individual)</li><li>Years of Participation: 2018</li><li>Top finish: 8th – 2018 (team)</li></ul><p>&nbsp;</p><p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Fencing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929786/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jake%20Hoyle/hoyle_jake.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jake Hoyle"
+        }
+      ]
+    }
+  ]
+}

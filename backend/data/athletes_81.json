@@ -1,0 +1,827 @@
+{
+  "entries": [
+    {
+      "first_name": "Christian",
+      "last_name": "King",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1999-10-17T00:00:00",
+        "hometown": {
+          "city": "Virginia Beach",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 36.8529,
+          "longitude": -75.978
+        },
+        "education": "Tidewater Community College",
+        "fun_fact": null,
+        "biography": "<h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 6th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 9th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 9th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1723829717/TeamUSA%20Assets/Athlete%20Profiles/Christian%20King%201239255/King_C_bio.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "B3",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1723829710/TeamUSA%20Assets/Athlete%20Profiles/Christian%20King%201239255/King_C_hero.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1723829826/TeamUSA%20Assets/Athlete%20Profiles/Christian%20King%201239255/King_C_thumbnail.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Goalball"
+        },
+        {
+          "title": "Paralympic Games Paris 2024"
+        },
+        {
+          "title": "Christian King"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "King",
+      "bio": {
+        "height": "6'0",
+        "birthday": "1991-01-08T00:00:00",
+        "hometown": {
+          "city": "Kansas City",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 39.0997,
+          "longitude": -94.5786
+        },
+        "education": "Rockhurst High School St. John’s University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Joanne and Dennis King</li><li>Has two siblings, John and Betsy</li><li>Played NCAA ice hockey and lacrosse at St. John&#39;s University in Minnesota</li><li>Began playing handball in 2017</li><li>Currently a JD Candidate at Northwestern University Law School</li><li>Currently serving as Co-Chair of the USATH Athlete Advisory Council as the Men’s National Team Representative</li><li>Is an avid reader and stathead in his free time.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 North American &amp; Caribbean Handball Confederation SuperGlobe Qualifier - 3rd</li>\r\n                            <li>2018 North American and Caribbean Championships - 5th (Mexico City, Mexico)</li>\r\n                            <li>2018 U.S. Open National Championships (Los Angeles Team Handball) - 1st</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328417/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20King/MichaelK_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael King"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyree",
+      "last_name": "King",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1994-07-09T00:00:00",
+        "hometown": {
+          "city": "Ontario",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.06334,
+          "longitude": -117.65088
+        },
+        "education": "University of Oregon",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 8th (4 x 100m Relay - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 14th (200m - Men)</li><li>Years of participation: 200m - Men 2017</li><li>Top finish: 14th – 2017 (200m - Men)</li></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Kyree King"
+        }
+      ]
+    },
+    {
+      "first_name": "Edward",
+      "last_name": "King",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1989-06-14T00:00:00",
+        "hometown": {
+          "city": "Ironton",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 37.6167,
+          "longitude": -90.625
+        },
+        "education": "Arcadia Valley (Ironton, Mo.) ‘07 United States Naval Academy ‘11, Oceanography",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Edward and Tertia King</li><li>Has two sisters, Edwina and Luise</li><li>Enjoys surfing, running, swimming, skiing and outdoor activities</li><li>Will become the first rower from the U.S. Naval Academy to race at the Olympic Games since 1988</li><li>Is an active duty U.S. naval officer</li><li>Nickname is “Mix.”</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Lightweight Four - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 7th (Lightweight Four - Men)</li><li>Years of participation: Lightweight Four - Men 2014, 2015; Lightweight Eight - Men 2011</li><li>Top finish: 5th – 2011 (Lightweight Eight - Men)</li></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320841/TeamUSA%20Assets/Migration/Athlete%20Profiles/Edward%20%20King/King_Edward_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Edward King"
+        }
+      ]
+    },
+    {
+      "first_name": "Marlena",
+      "last_name": "King",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2003-02-05T00:00:00",
+        "hometown": {
+          "city": "Clayton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.9466,
+          "longitude": -121.933
+        },
+        "education": "Clayton Valley Charter High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Marlena is a member of the 2019 Junior National Team</li><li>She swims for the Walnut Creek Aquanuts</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 UANA Pan American Artistic Swimming Championships</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320909/TeamUSA%20Assets/Migration/Athlete%20Profiles/Marlena%20King/IMG_0959.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marlena King"
+        }
+      ]
+    },
+    {
+      "first_name": "Morghan",
+      "last_name": "King",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1985-10-08T00:00:00",
+        "hometown": {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6736,
+          "longitude": -122.1215
+        },
+        "education": "Notre Dame de Namur University",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: verdana; font-size: 13px;\">Name: Morghan King<br>\n<br>\nTeam: Unattached<br>\n<br>\nCoach: Dean Kruse and Zygmunt Smalcerz<br>\n<br>\nHometown: Seattle, Wash.<br>\n<br>\nCurrent Residence: Colorado Springs, CO<br>\n<br>\nYear of birth: 1985<br>\n<br>\nWeight class: 48kg and 53kg<br>\n<br>\nHeight: 5-0<br>\n<br>\nWhat year did you being lifting? Full time in 2012<br>\n<br>\nHow did you get involved? Crossfit<br>\n<br>\nFavorite Competition Lift? Snatch<br>\n<br>\nFavorite Training Lift? Snatch<br>\n<br>\nEducation: BA in Graphic Design<br>\n<br>\n</span></p>\n<p><span style=\"font-family: verdana; font-size: 13px;\">Personal Goals: Never settle for anything less than my best<br>\n<br>\nFavorite Food: Sushi and club&nbsp;sandwiches<br>\n<br>\nFavorite Book: <em>Girl with the Dragon Tattoo</em> Series<br>\n<br>\nFavorite TV Show: <em>New Girl</em>, <em>Mindy Project</em><br>\n<br>\nFavorite Song: <em>Watch the Throne</em> album, too many really.<br>\n<br>\nHobbies/Interested outside of Weightlifting: Snowboarding, painting and football<br>\n<br>\nMost people don&rsquo;t know that&hellip;. I've run the Hood to Coast Relay</span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 6th (48kg - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 7th (49kg - Clean & Jerk - Women), 8th (49kg - Women), 9th (49kg - Snatch - Women)</li><li>Years of participation: 49kg - Clean & Jerk - Women 2019; 49kg - Snatch - Women 2019; 49kg - Women 2019; 48kg - Clean & Jerk - Women 2013, 2014, 2015; 48kg - Snatch - Women 2013, 2014, 2015; 48kg - Women 2013, 2014, 2015</li><li>Top finish: 7th – 2019 (49kg - Clean & Jerk - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694746/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morghan%20King%20871253/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694748/TeamUSA%20Assets/Migration/Athlete%20Profiles/Morghan%20King%20871253/King-Morghan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Morghan King 871253"
+        }
+      ]
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Kinney",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1988-11-09T00:00:00",
+        "hometown": {
+          "city": "Stockbridge",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.5415,
+          "longitude": -84.2327
+        },
+        "education": " Georgetown University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began bobsledding in 2016, but competed in his first combine in 2014</li><li>He loves Pok&#232;mon and still plays the games</li><li>He likes to sing in he streets, while working out or competing</li><li>He can quote almost every episode of FRIENDS word for word.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017-2018 Four-Man World Cup for pilot Nick Cunningham- T-12th in Park City #1 (11/17); 16th in Park City #2 (11/17); 20th in Winterberg (12/17); 23rd in Igls (12/17)</li>\r\n                            <li>2017-2018 Two-Man North American Cup for pilot Nick Cunningham - GOLD in Park City #1 (11/17)</li>\r\n                            <li>2017-2018 Four-Man North American Cup for pilot Nick Cunningham - SILVER in Park City #1 (11/17); GOLD in Park City #2 (11/17); GOLD in Lake Placid #1 (1/18); SILVER in Lake Placid #2 (1/18)</li>\r\n                            <li>2016-2017 Four-Man World Cup for pilot Codie Bascue - 15th in Whistler (12/16); 13th in Winterberg (1/17); 30th in St. Moritz (1/17); 21st in Koenigssee (1/17); 25th in Igls (2/17)</li>\r\n                            <li>2016-2017 Two-Man World Cup with pilot Codie Bascue - 12th in Whistler (12/16); 17th in Altenberg (1/17)</li>\r\n                            <li>2015-2016 Four-Man North American Cup for pilot Geoff Gadbois -  9th in Calgary #1 (11/15)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 19th (4-Man Competition - Open)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 11th (4-Man Competition - Open), 19th (2-Man Competition - Men)</li><li>Years of participation: 2-Man Competition - Men 2019; 4-Man Competition - Open 2017, 2019</li><li>Top finish: 11th – 2019 (4-Man Competition - Open)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003302/TeamUSA%20Assets/Athlete%20Profiles/Chris%20Kinney%20832043/Kinney.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chris Kinney 832043"
+        }
+      ]
+    },
+    {
+      "first_name": "Shadrack",
+      "last_name": "Kipchirchir",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1989-02-22T00:00:00",
+        "hometown": {
+          "city": "Beaverton",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.4874,
+          "longitude": -122.8035
+        },
+        "education": "Kipkabus Secondary School (Kenya) Oklahoma State University ’14, Construction Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Rose Tirop</li><li>Is the middle child of nine children</li><li>Born in Kenya and moved to the United States to attend school at Western Kentucky University before transferring to Oklahoma State University</li><li>Had no experience running competitively until he moved to the United States, but earned All-America honors in his second year at Western Kentucky</li><li>Following in his brothers footsteps, enlisted in the U.S. Army in October 2014 and joined the U.S. Army World Class Athlete Program shortly after</li><li>Interests includes watching movies</li><li>Assisted with the Red Cross</li><li>Also played soccer as a child.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, 4th (10,000m)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 19th (10000m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 12th (3000m (Indoor) - Men)</li><li>Years of participation: 3000m (Indoor) - Men 2018; 10000m - Men 2015, 2017; Individual Cross Country Long Distance - Men 2017; Team Cross Country Long Distance - Men 2017</li><li>Top finish: 5th – 2017 (Team Cross Country Long Distance - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694924/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shadrack%20Kipchirchir%20819373/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694925/TeamUSA%20Assets/Migration/Athlete%20Profiles/Shadrack%20Kipchirchir%20819373/Athletics_Kipchirchir_Shadrack.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shadrack Kipchirchir 819373"
+        }
+      ]
+    },
+    {
+      "first_name": "Sally",
+      "last_name": "Kipyego",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1985-12-19T00:00:00",
+        "hometown": {
+          "city": "Eugene",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 44.0521,
+          "longitude": -123.0868
+        },
+        "education": "Texas Tech University Health Sciences Center",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married Kevin Chelimo in 2008</li><li>Became a U.S. citizen in 2017</li><li>Represented Kenya at the London Games</li><li>Mother to Emma and Jerop</li><li>First Kenyan to capture an NCAA cross country individual championship and the first female in Division I history to capture three consecutive NCAA cross country titles</li><li>Grows her own food when in Kenya</li><li>Speaks Swahili</li><li>Hobbies include reading and cooking</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, 17th (Marathon - Women)</li><li>Olympic Games London 2012, silver (10000m - Women), 4th (5000m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 5th (10000m - Women)</li><li>Years of participation: 10000m - Women 2015</li><li>Top finish: 5th – 2015 (10000m - Women)</li></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662027/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/kipyego_s_bio_1198343.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012766/TeamUSA%20Assets/Athlete%20Profiles/Sally%20Kipyego%201198343/Kipyego_Sally.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sally Kipyego 1198343"
+        }
+      ]
+    },
+    {
+      "first_name": "Karch",
+      "last_name": "Kiraly",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1960-11-03T00:00:00",
+        "hometown": {
+          "city": "Santa Barbara",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4208,
+          "longitude": -119.6902
+        },
+        "education": "Santa Barbara High School (Santa Barbara, Calif.) UCLA",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Played in his first beach volleyball tournament at 11 years old</li><li>Earned his AAA rating in beach volleyball at age 17</li><li>Joined the U.S. Men’s National Indoor Volleyball Team in 1981</li><li>Attended UCLA where he won three NCAA championships under head coach Al Scates</li><li>Was the youngest player on the 1984 U.S. Olympic gold medal indoor volleyball team</li><li>Was named the top volleyball player in the world by the Federation Internationale de Volleyball (FIVB) in 1986 and 1988</li><li>Won at least one tournament in 24 out of the 28 season he played beach volleyball professionally</li><li>Claimed titles with 13 different partners in beach volleyball</li><li>First began coaching at St. Margaret&#39;s Episcopal High School</li><li>Served as an assistant coach of the 2012 U.S. Olympic Women’s National Indoor Volleyball Team</li><li>Named head coach of the 2012 U.S. Women’s National Indoor Volleyball Team</li><li>First person to win a world championship gold medal as both a player and a coach</li><li>Honored by the FIVB as the greatest volleyball player of the 20th century</li><li>Has two children, Kristian and Kory.</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Atlanta 1996, gold (Team - Men)</li><li>Olympic Games Seoul 1988, gold (Team - Men)</li><li>Olympic Games Los Angeles 1984, gold (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 1999 – 5th (Team - Men)</li><li>Years of participation: Team - Men 1986, 1987, 1988, 1997, 1999</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 1988 (Team - Men);  1986 (Team - Men)</li><li>Silver – 1987 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240302/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Karch%20Kiraly/Kiraly_Cover.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Beach Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        },
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1984, 1988, 1996",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240304/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Karch%20Kiraly/Kiraly_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Karch Kiraly"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2008"
+        },
+        {
+          "title": "Olympian"
+        }
+      ]
+    },
+    {
+      "first_name": "Kristi",
+      "last_name": "Kirshe",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1994-10-14T00:00:00",
+        "hometown": {
+          "city": "Franklin",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.0945,
+          "longitude": -71.4028
+        },
+        "education": "Williams College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><ul><li>Daughter of Greg and Kathy Kirshe</li><li>Began playing rugby at age 23</li><li>Played soccer at Williams College</li><li>Favorite movie is Good Will Hunting and her favorite TV show is the Office</li><li>Fourth of July is her favorite holiday</li><li>She also enjoys rollerblading and watching the NFL</li></ul></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Women)</li><li>Olympic Games Tokyo 2020, 6th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2022</li><li>Top finish: 4th – 2022 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721753457/TeamUSA%20Assets/Athlete%20Profiles/Kristi%20Kirshe%201147760/Kirshe_K_bio_1147760.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721753444/TeamUSA%20Assets/Athlete%20Profiles/Kristi%20Kirshe%201147760/Kirshe_K_thumbnail_1147760.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721753444/TeamUSA%20Assets/Athlete%20Profiles/Kristi%20Kirshe%201147760/Kirshe_K_thumbnail_1147760.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kristi Kirshe 1147760"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Austin",
+      "last_name": "Kleba",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1999-07-27T00:00:00",
+        "hometown": {
+          "city": "Campton Hills",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.9545,
+          "longitude": -88.4206
+        },
+        "education": "Salt Lake Community College",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality</strong>: 500m, Team Sprint</li><li><p>Played hockey until 2014 when shoulder problems convinved him to transition to speedskating</p></li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"font-size: 11pt;\">Austin Kleba grew up in Glen View, Ill., and began ice skating at age three for ice hockey, a sport he played competitively until he was a teenager, when shoulder problems led him to switch to speedskating. Two years later, Kleba competed at the Youth Winter Olympic Games Lillehammer 2016 in speedskating, winning a silver medal in the mixed team sprint.</span></p><p><span style=\"font-size: 11pt;\">Six years later, Kleba would make his Olympic debut at the Olympic Winter Games Beijing 2022, competing in the 500m and 1,000m.&nbsp;Kleba won a bronze medal at the 2025 ISU World Speed Skating Single Distance Championships with teammates Cooper McLeod and Zach Stoppelmoor. The trio had previously set the world record in the event, which is not currently on the Olympic program, at an earlier ISU World Cup event in Calgary.</span></p><p><span style=\"font-size: 11pt;\">Off the ice, Kleba enjoys making music, something he has done since age 14. Kleba enjoys the recording aspect of making music and cites the late rapper Mac Miller as one of his main inspirations.</span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 27th (500m - Men), 29th (1000m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – bronze (Team Sprint - Men)</li><li>Years of participation: Team Sprint - Men 2023, 2024, 2025; Sprint Combination - Men 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2025 (Team Sprint - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767038965/TeamUSA%20Assets/Athlete%20Profiles/Austin%20Kleba%20847601/a_kleba_847601_bio_new.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767038971/TeamUSA%20Assets/Athlete%20Profiles/Austin%20Kleba%20847601/a_kleba_847601_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767038971/TeamUSA%20Assets/Athlete%20Profiles/Austin%20Kleba%20847601/a_kleba_847601_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767038964/TeamUSA%20Assets/Athlete%20Profiles/Austin%20Kleba%20847601/a_kleba_847601_bio.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Austin Kleba 847601"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "Long Track Speedskating"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Klecker",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1996-11-16T00:00:00",
+        "hometown": {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9778,
+          "longitude": -93.265
+        },
+        "education": "University of Colorado",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Barney and Janis Klecker</li><li>His father owns the U.S. record for the 50-mile ultramarathon (4:51:25)</li><li>His mother competed at the 1992 Summer Olympics (marathon) and won two U.S. marathon national championships</li><li>Both ran track and cross country in college</li><li>Klecker is one of six children</li><li>Three of his siblings run in college: Mary at Augsburg, John at Augustana (S.D.), and Sarah at Minnesota</li><li>His two other siblings, Elizabeth and James, are in high school.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2020 U.S. Olympic Team Trials, bronze (10,000-meter)</li>\r\n                            <li>2019 NCAA Cross Country Championships, 2nd </li>\r\n                            <li>2019 Pac-12 Cross Country Championships, gold</li>\r\n                            <li>2018 NCAA Indoor Championships, 2nd (5,000-meter), 3rd (3,000-meter)</li>\r\n                            <li>2018 NCAA Cross Country Championships, 8th</li>\r\n                            <li>2017 Pac-12 Cross Country Championship, 2nd</li>\r\n                            <li>2017 NCAA DI Indoor Track and Field Championships, 4th (3,000-meter)</li>\r\n                            <li>2017 NCAA DI Outdoor Track and Field Championships, 7th (5,000-meter)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 16th (10000m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 20th (10000m - Men)</li><li>Years of participation: 10000m - Men 2023</li><li>Top finish: 20th – 2023 (10000m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662027/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/klecker_j_bio_1139630.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330238/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joe%20%20Klecker%201139630/Klecker_Joseph_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joe Klecker 1139630"
+        }
+      ]
+    },
+    {
+      "first_name": "Marius",
+      "last_name": "Kleinas",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2002-02-11T00:00:00",
+        "hometown": {
+          "city": "Marstons Mills",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 41.675,
+          "longitude": -70.4
+        },
+        "education": "Barnstable High School (Hyannis, Mass.) '20 Minneapolis Community and Technical College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Lauren and Arunas Kleinas</li><li>Has one older brother, Dalius</li><li>Began curling at age 5</li><li>Hobbies are golf, cooking, reading, fitness, traveling</li><li>Went to school in Philadelphia, PA in 2020</li><li>Moved to Bloomington, MN in August 2021</li><li>Loves going home to Cape Cod to spend time with friends and family, loves going to the beach</li><li>Heading to Fussen, Germany for 2023 World Junior Curling Championship in February.</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championship, Füssen, 2023 (Team - Men)</li><li>World Junior Championship, Jönköping, 2022 (Team - Men)</li></ul><h5> World Championship Experience</h5><ul><li>2022 World Junior Curling Championships (6th place)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marius Kleinas"
+        }
+      ]
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Kleist",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1996-11-03T00:00:00",
+        "hometown": {
+          "city": "Appleton",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 44.2619,
+          "longitude": -88.415
+        },
+        "education": "Kimberly High School Oregon - 2019",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 22</li><li>Parents are Mike and Brenda Kleist</li><li>Three words to describe her would be shy, perfectionist, and artistic/creative</li><li>Her biggest supporter is Mike Roberts and her family (Mom, Dad, brother and Grandma)</li><li>Most admires her mom because, &quot;She&#39;s literally a superhero and I&#39;m forever thankful for her.&quot;</li><li>On what it means to play for USA Softball: &quot;A dream come true. It&#39;s been a dream since I was little and to finally be a part of it is completely surreal.&quot;</li><li>First memory of USA Softball/Olympics was watching Cat Osterman</li><li>Got started playing softball because, &quot;My parents thought I was great at throwing a football and softball tryouts were the following week so they signed me up!&quot;</li><li>Best piece of advice she has received: &quot;Take everything a pitch at a time.&quot;</li><li>Her personal motto: &quot;Kia kaha, meaning always strong and powerful.&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>First Time Team USA member</li>\r\n                    </ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2018:&nbsp;</strong>NFCA First Team All-American...First Team All-Pac-12...Pac-12 Pitcher of the Year...USA Softball Player of the Year Top 10 Finalist... NFCA All-Pacific Region First Team.</p>\n<p><strong>2017:&nbsp;</strong>NFCA Second Team All-American...First Team All-Pac-12...Pac-12 All-Academic First Team.</p>\n<p><strong>2016:</strong>&nbsp;NFCA Third Team All-Pacific Region...Pac-12 Co-Freshman of the Year...Pac-12 All-Freshman Team...NFCA Scholar Athlete.</p>\n<p><strong>Click here to view Megan Kleist's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696222/TeamUSA%20Assets/Migration/Athlete%20Profiles/Megan%20Kleist%201106844/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696224/TeamUSA%20Assets/Migration/Athlete%20Profiles/Megan%20Kleist%201106844/KleistMegan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megan Kleist 1106844"
+        }
+      ]
+    }
+  ]
+}

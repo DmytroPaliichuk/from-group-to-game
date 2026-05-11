@@ -1,0 +1,708 @@
+{
+  "entries": [
+    {
+      "first_name": "John",
+      "last_name": "Tanguay",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1998-04-03T00:00:00",
+        "hometown": {
+          "city": "Pennington",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.34955,
+          "longitude": -74.80072
+        },
+        "education": "Hopewell Valley High School Columbia University, ‘20",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>John enjoys reading, eating, and playing with his dog.<h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Tokyo 2020, silver (PR3 Coxed Four - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – silver (PR3 Coxed Four - Mixed)</li><li>Years of participation: PR3 Coxed Four - Mixed 2019</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2019 (PR3 Coxed Four - Mixed)</li></ul></ul><h5>More</h5><p>US Rowing</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009478/TeamUSA%20Assets/Athlete%20Profiles/John%20Tanguay%201180022/Tanguey_John_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Tanguay 1180022"
+        }
+      ]
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Tappe",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2003-07-22T00:00:00",
+        "hometown": {
+          "city": "New Canaan",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.1462,
+          "longitude": -73.5004
+        },
+        "education": "New Canaan High School",
+        "fun_fact": null,
+        "biography": "",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361880/TeamUSA%20Assets/Migration/Athlete%20Profiles/Megan%20Tappe/TappeM.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megan Tappe"
+        }
+      ]
+    },
+    {
+      "first_name": "Naya",
+      "last_name": "Tapper",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1994-08-03T00:00:00",
+        "hometown": {
+          "city": "Beaufort",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 34.7196,
+          "longitude": -76.6633
+        },
+        "education": "University of North Carolina",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Juanita Nater-Tapper</li><li>Began playing rugby at the age of 18</li><li>Loves turtles</li><li>Fluent in Spanish as well</li><li>Favorite movies are Scary Movie 2, Step Brothers and Bridesmaids</li><li>Christmas is her favorite holiday</li><li><span>Hobbies include shopping, spending time with family, and going out to dance and listen to music with friends</span></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Women)</li><li>Olympic Games Tokyo 2020, 6th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2018, 2022</li><li>Top finish: 4th – 2018 (Team - Women), 2022 (Team - Women)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721754069/TeamUSA%20Assets/Athlete%20Profiles/Naya%20Tapper%20915264/Tapper_N_bio_915264.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721754060/TeamUSA%20Assets/Athlete%20Profiles/Naya%20Tapper%20915264/Tapper_N_thumbnail_915264.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721754060/TeamUSA%20Assets/Athlete%20Profiles/Naya%20Tapper%20915264/Tapper_N_thumbnail_915264.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Naya Tapper 915264"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Jevon",
+      "last_name": "Tarantino",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1984-01-30T00:00:00",
+        "hometown": {
+          "city": "Boca Raton",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.3587,
+          "longitude": -80.1013
+        },
+        "education": " University of Tennessee",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Personal: Son of Anthony and Birgit Tarantino</li><li>Personal: has one sister, Thea</li><li>Personal: enjoys playing golf, surfing and basketball</li><li>Personal: runs his own business</li><li>Personal: started diving at age 10.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Four-time national champion (3-meter synchro 2007, 2008</li>\r\n                            <li>1-meter 2005, 2007)Two-time World Championships team member2008 World Cup team memberBronze medalist on 3-meter at last three national championships (twice in 2007, one in 2008)Gold medalist in 3-meter synchro at 2007 Italian Grand Prix</li>\r\n                            <li>2008 Olympic Team member (fourth in synchronized 3-meter)</li>\r\n                            <li>Four-time national champion (3-meter synchro 2007, 2008</li>\r\n                            <li>1-meter 2005, 2007)</li>\r\n                            <li>Two-time World Championships team member</li>\r\n                            <li>2008 World Cup team member</li>\r\n                            <li>Bronze medalist on 3-meter at last three national championships (twice in 2007, one in 2008)</li>\r\n                            <li>Gold medalist in 3-meter synchro at 2007 Italian Grand Prix</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 4th (3m Springboard Synchro - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2007 – 20th (1m Springboard - Men)</li><li>Years of participation: 1m Springboard - Men 2005, 2007</li><li>Top finish: 5th – 2005 (1m Springboard - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719147/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jevon%20Tarantino%20914714/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719148/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jevon%20Tarantino%20914714/TARANTINO-JEVON.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jevon Tarantino 914714"
+        }
+      ]
+    },
+    {
+      "first_name": "Macy",
+      "last_name": "Tarlton",
+      "bio": {
+        "height": "5'4''",
+        "birthday": "1995-11-20T00:00:00",
+        "hometown": {
+          "city": "Woodstock",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.1026,
+          "longitude": -84.5194
+        },
+        "education": "American Intercontinental University",
+        "fun_fact": "",
+        "biography": "",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        },
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366652/TeamUSA%20Assets/Migration/Athlete%20Profiles/Macy%20Tarlton/mt.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Macy Tarlton"
+        },
+        {
+          "title": "Bobsled"
+        }
+      ]
+    },
+    {
+      "first_name": "Jeneba",
+      "last_name": "Tarmoh",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1989-09-27T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Mt. Pleasant High School (San Hose, Calif.) '07 Texas A&M '11, Psychology",
+        "fun_fact": null,
+        "biography": "<div><strong></strong></div>\n\n<div><strong><strong><br>\n</strong></strong></div>\n<div><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games London 2012, gold (4 x 100m Relay - Women)</li></ul></ul></div>\n<div>\n<ul>\n</ul>\n<h5>Career Highlights</h5><ul>\n    <li>2011 USA Outdoor Championships, 3rd (200-meter)</li>\n    <li>2011 NCAA Outdoor Championships, 2nd (200-meter)</li>\n    <li>2010 North American, Central American and Caribbean U-23 Championships, 1st (100-meter)</li>\n    <li>2010 NCAA Outdoor Championships, 2nd (200-meter)</li>\n    <li>2008 junior world champion (100-meter, 4x100 meter)</li>\n    <li>2006 junior world champion (4x100-meter)</li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Jeneba made her first international team at age 16<br>\n</p>\n<p><strong>Learn more:</strong>&nbsp;<br>\nUSA Track and Field</p>\n<br class=\"Apple-interchange-newline\">\n</div>\n<div>\n<div class=\"NoSpacing\"><br>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 6th (200m - Women)</li><li>Years of participation: 200m - Women 2015</li><li>Top finish: 6th – 2015 (200m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719187/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jeneba%20Tarmoh%20821377/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719190/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jeneba%20Tarmoh%20821377/tarmoh.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jeneba Tarmoh 821377"
+        }
+      ]
+    },
+    {
+      "first_name": "Jayson",
+      "last_name": "Tatum",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1998-03-03T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": "Duke University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Basketball</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Event:</strong></span><span style=\"font-size: 11pt;\"> Small forward / power forward</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Jayson Tatum is an American basketball player recognized for his exceptional scoring ability, versatility, and leadership. Since entering the NBA in 2017, Tatum has become one of the league’s top forwards, known for his offensive game.</span></p><p><span style=\"font-size: 11pt;\">Tatum is connected to his hometown of St. Louis and has been involved in various charitable activities, particularly those supporting youth in his community, including the Jayson Tatum Foundation.&nbsp;</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Tatum represented Team USA in the Tokyo 2020 Olympic Games, as a key component to the team’s offense. He played six games in the Tokyo 2020 Games, averaging 15.2 points, 3.3 rebounds, 1.2 assists and 1.2 blocks per game, achieving his first gold medal.</span></p><p><span style=\"font-size: 11pt;\">Tatum was also selected for Team USA in the Paris 2024 Olympic Games. He played in the final against France, helping Team USA secure the gold medal. He averaged 5.3 points, 5.3 rebounds, 1.3 assists and 1.0 steals per game.</span></p><h5>NBA Highlights</h5><p><span style=\"font-size: 11pt;\">Tatum was drafted third overall by the Boston Celtics in the 2017 NBA Draft and immediately helped lead the team to the Eastern Conference Finals in his rookie season. He has developed into one of the league’s premier players, earning multiple All-Star selections and leading the Celtics deep into the playoffs. In 2022, he was named the Eastern Conference Finals MVP, and in 2024, he led the Boston Celtics to their 18th NBA Championship.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">Tatum attended Chaminade College Preparatory School in St. Louis where he was a McDonald’s All-American and earned Gatorade National Player of the Year honors. During his high school career, Tatum played in the 2014 FIBA Under-17 World Championship and 2015 FIBA Under-19 World Championship games, winning two gold medals.</span></p><p><span style=\"font-size: 11pt;\">Tatum played one season of college basketball at Duke University before being drafted by the NBA. He averaged 16.8 points, 7.3 rebounds, and 2.1 assists per game in the 2016-2017 season, leading the Blue Devils to the ACC Tournament Championship and a berth in the NCAA Tournament.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Men)</li><li>Olympic Games Tokyo 2020, gold (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 7th</li><li>Years of participation: 2019</li><li>Top finish: 7th – 2019</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713359939/Tatum_Jayson_TokyoMedal.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713804836/TeamUSA%20Assets/Athlete%20Profiles/Jayson%20Tatum%201193016/Tatum_j_hero_1193016.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713359939/Tatum_Jayson_TokyoMedal.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009508/TeamUSA%20Assets/Athlete%20Profiles/Jayson%20Tatum%201193016/Tatum_Jayson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jayson Tatum 1193016"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Diana",
+      "last_name": "Taurasi",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1982-06-11T00:00:00",
+        "hometown": {
+          "city": "Chino",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0133,
+          "longitude": -117.6889
+        },
+        "education": "University of Connecticut '04",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mario Taurasi, who was born in Italy and raised in Argentina, and Liliana Taurasi, a native Argentinian</li><li>Has one older sister, Jessika</li><li>Family moved to southern California before she was born</li><li>Father, Mario, played professional soccer as a goalie</li><li>Speaks Spanish</li><li>Married to two-time Olympic silver medalist from Australia, Penny Taylor, and the two have a son, Leo, born in 2018</li><li>Four-time USA Basketball Female Athlete of the Year</li><li>Nicknamed White Mamba by Kobe Bryant</li></ul><h5>Olympic Experience</h5><ul><li>6-time Olympian; 6-time Olympic medalist (6 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Olympic Games London 2012, gold (Team - Women)</li><li>Olympic Games Beijing 2008, gold (Team - Women)</li><li>Olympic Games Athens 2004, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – gold (Team - Women)</li><li>Years of participation: Team - Women 2006, 2010</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2010 (Team - Women)</li><li>Bronze – 2006 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662069/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Taurasi_D_bio_915847.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 6,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684896597/TeamUSA%20Assets/Migration/Pages/taurasi_diana_080821_003_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009489/TeamUSA%20Assets/Athlete%20Profiles/Diana%20Taurasi%20915847/Taurasi_Diana.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Diana Taurasi 915847"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Julia",
+      "last_name": "Taylor",
+      "bio": {
+        "height": "5'8",
+        "birthday": "1989-12-04T00:00:00",
+        "hometown": {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.7796,
+          "longitude": -78.6382
+        },
+        "education": "St. David's School University of North Carolina-Chapel Hill (B.A. '12) & University of Paris-Diderot (M.S. '17)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born in Boston, MA and moved to North Carolina at the age of seven</li><li>Has four brothers and one sister</li><li>Is bilingual in English/French and is working on her third and fourth languages (Spanish and Arabic)</li><li>First discovered handball at UNC-Chapel Hill, where she studied International Relations</li><li>Took a semester off school to attend the Idr&#230;tsh&#248;jskolen Handball Academy in Aarhus, Denmark</li><li>Spent 1.5 years in the Auburn Residency Program</li><li>Moved to a suburb of Paris, France and signed a semi-pro contract with Aulnay Handball</li><li>Earned a Master&#39;s of Science in Sociology at the University of Paris-Diderot</li><li>Currently works for an NGO in the Paris area</li><li>Lover of hip-hop and science-fiction</li><li>Is a passionate foodie.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361827/TeamUSA%20Assets/Migration/Athlete%20Profiles/Julia%20Taylor/Julia_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Julia Taylor"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Taylor",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1979-11-12T00:00:00",
+        "hometown": {
+          "city": "Wichita",
+          "state": "KS",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Wichita West High School (Wichita, Kan.) ’98 Wichita State University ’04, Management Information Systems; Wichita State University ’05, Sports Management; Wichita State University ’07, Master’s Degree in Sports Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Taylor has won more than a dozen Grand Slam titles and been ranked in the top three in the world for the past 14 years. Taylor was driven to be competitive from an early age and it started with battling a rare congenital disease: arthrogryposis. This severely limits Taylor’s range of motion and thus he must use an electric wheelchair to compete against the best in the world.</li><li>Son of Bill Taylor and Sherrie Bieberle</li><li>Has two brothers, Jordan and Malik</li><li>Earned a master’s degree in Sports Management from Wichita State University in 2007</li><li>Volunteer Assistant Coach for Men’s able-bodied tennis team at Wichita State University</li><li>Hobbies include koi-carp, and playing with his three dogs Minnie, Mighty and Millie.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 British Open Super Series Doubles Champion</li>\r\n                            <li>2010 U.S. Open Grand Slam Doubles Champion</li>\r\n                            <li>2010 U.S. Open Super Series Doubles Champion</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 5-time Paralympic medalist (3 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (Quad Doubles - Open), 5th (Quad Singles - Open)</li><li>Paralympic Games London 2012, gold (Quad Doubles - Open), bronze (Quad Singles - Open)</li><li>Paralympic Games Beijing 2008, gold (Quad Doubles - Open), 4th (Quad Singles - Open)</li><li>Paralympic Games Athens 2004, gold (Quad Doubles - Open), 4th (Quad Singles - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "BC4",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361941/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Taylor/Taylor_Nicholas_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Taylor"
+        }
+      ]
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Taylor",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1990-06-18T00:00:00",
+        "hometown": {
+          "city": "Fayettville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.4487,
+          "longitude": -84.4502
+        },
+        "education": "Sandy Creek High School (Tyrone, Ga.) ‘08 University of Florida, '13 Hospitality and Tourism",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ian and Stephanie Taylor</li><li>Has one sister, Kaitlyn</li><li>Scratched on his first two jumps at the London 2012 Olympic Games before delivering in dramatic fashion to win the gold medal on his final attempt</li><li>Won the 2011 world outdoor title with the third-best American performance of all-time and was the youngest jumper to advance to the final (21)</li><li>10-time NCAA All-American and three-time NCAA champion (outdoor-2010; indoor-2009-10).</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Triple Jump - Men)</li><li>Olympic Games London 2012, gold (Triple Jump - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (Triple Jump - Men)</li><li>Years of participation: Triple Jump - Men 2012, 2015, 2017</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2017 (Triple Jump - Men);  2015 (Triple Jump - Men)</li><li>Silver – 2012 (Triple Jump - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field\n<strong><br clear=\"all\">\n</strong>\n<p><strong></strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009468/TeamUSA%20Assets/Athlete%20Profiles/Christian%20Taylor%20915111/Taylor_Christian_081017_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009469/TeamUSA%20Assets/Athlete%20Profiles/Christian%20Taylor%20915111/Taylor_Christian_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christian Taylor 915111"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Taylor",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1990-12-05T00:00:00",
+        "hometown": {
+          "city": "Graham",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.0906,
+          "longitude": -83.9261
+        },
+        "education": "Penn State",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of David and Kathy Taylor</li><li>Has one sister, Alex</li><li>Married to Kendra Kennedy</li><li>Has two daughters, London and Ivy&nbsp;</li></ul><h5><strong>Olympic Experience</strong>&nbsp;</h5><ul><li>2020 Olympic Games (Gold at 86 kg)&nbsp;</li></ul><h5>&nbsp;<strong>World Championships Experience</strong>&nbsp;</h5><ul><li>2023 Senior Worlds (Gold at 86 kg)</li><li>2022 Senior Worlds (Gold at 86 kg)</li><li>2021 Senior Worlds (Silver at 86 kg)</li><li>2018 Senior Worlds (Gold at 86 kg)&nbsp;</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712871991/Taylor_David_LAGettyShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684890322/TeamUSA%20Assets/Migration/Pages/Taylor_David_080521_1440x810.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690570171/NGB%20Wrestling/Athlete%20Profiles/David%20Taylor/PJ5A1518_copy.jpg"
+        }
+      ],
+      "content_tags": []
+    },
+    {
+      "first_name": "Maren",
+      "last_name": "Taylor",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-08-02T00:00:00",
+        "hometown": {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.881,
+          "longitude": -77.094
+        },
+        "education": "University of Texas",
+        "fun_fact": "",
+        "biography": "<strong></strong><div><p>Maren is the daughter of Tony and Pamela Taylor&nbsp;and&nbsp;has one brother, Reid. She started diving in 1996 and was also a gymnast until her sophomore year in high school. Her favorite dive is 405B. She was away from diving for nearly a year after dislocating her elbow at the 2011 NCAA Championships.</p><p>Maren would like to become an environmental lawyer. She began attending the Lyndon B. Johnson School of Public Affairs, a graduate program at the University of Texas, in the fall of 2015. She has also been accepted to the University of Colorado Law School and plans to defer enrollment until 2016 in order to continue training.&nbsp;</p><p>When she is not on the springboards, Maren enjoys scuba diving and skiing.</p></div><div><p><strong><br bold=\"[object Object]\"></strong><strong>Highlights:</strong><strong><br bold=\"[object Object]\"></strong></p><p></p><ul><li>Three-time senior national champion (3-meter, synchronized 3-meter at 2013 USA Diving Winter National Championships, 1-meter at 2013 AT&amp;T National Diving Championships)</li><li>Made her international debut at the 2013 World Championships, where she was a finalist on 3-meter</li><li>2014 FINA World Cup team member</li><li>Won 3-meter bronze at 2014 FINA Grand Prix in Puerto Rico</li><li>Won synchronized 3-meter bronze at 2014 FINA Grand Prix meets in Canada and Malaysia</li><li>Runner-up on 1-meter and 3-meter at 2014 NCAA Championships</li></ul><p></p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 11th (3m Springboard - Women)</li><li>Years of participation: 3m Springboard - Women 2013</li><li>Top finish: 11th – 2013 (3m Springboard - Women)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (3m Springboard Synchro - Women, 3m Springboard - Women)</li><li>World Cup, Shanghai, 2014 (3m Springboard - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361839/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maren%20Taylor/Taylor-Maren-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maren Taylor"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    }
+  ]
+}

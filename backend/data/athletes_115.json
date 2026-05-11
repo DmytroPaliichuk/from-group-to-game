@@ -1,0 +1,713 @@
+{
+  "entries": [
+    {
+      "first_name": "Ruben",
+      "last_name": "Padilla",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2001-01-05T00:00:00",
+        "hometown": {
+          "city": "Oakley, Calif. ",
+          "state": "CA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Herriman High School (Herriman, Utah) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Nelia Padilla</li><li>Began gymnastics at age 5</li><li>His mother enrolled him in a gymnastics class because he always used furniture as gym equipment when he was a child</li><li>Hobbies include traveling, meeting new people, learning about different cultures, reading, swimming, playing video games, listening to music, hiking, gym training and spending time with his family</li><li>Volunteers at a non-profit organization at least 20 hours a week</li><li>Helps his mom make projects and activities for the special needs children that she works with</li><li>Fluent in Spanish.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – gold (All Around Team - Mixed, Double Mini Trampoline - Men, Double Mini Trampoline Team - Men), silver (Synchro - Men), 5th (Trampoline Team - Men), 23th (Individual Trampoline - Men)</li><li>Years of participation: All Around Team - Mixed 2018, 2019, 2021, 2022, 2023; Double Mini Trampoline - Men 2018, 2019, 2021, 2022, 2023; Double Mini Trampoline Team - Men 2019, 2021, 2022, 2023; Individual Trampoline - Men 2019, 2022, 2023; Synchro - Men 2021, 2023; Trampoline Team - Men 2019, 2022, 2023</li><li>Medals: 13 (4 gold, 7 silver, 2 bronze)</li><ul><li>Gold – 2023 (All Around Team - Mixed, Double Mini Trampoline - Men, Double Mini Trampoline Team - Men);  2022 (Double Mini Trampoline - Men)</li><li>Silver – 2023 (Synchro - Men);  2022 (All Around Team - Mixed);  2021 (All Around Team - Mixed);  2019 (All Around Team - Mixed, Double Mini Trampoline - Men, Double Mini Trampoline Team - Men);  2018 (Double Mini Trampoline - Men)</li><li>Bronze – 2022 (Double Mini Trampoline Team - Men);  2021 (Double Mini Trampoline - Men)</li></ul></ul><h5>More</h5>USA Gymnastics<h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Synchro - Men, Individual Trampoline - Men)</li><li>Pan American Games, Lima, 2019 (Individual Trampoline - Men)</li><li>World Junior Championships, St. Petersburg, 2018 (Individual Trampoline - Men, Synchro - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327624/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ruben%20Padilla/Padilla_Ruben.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ruben Padilla"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Pagano",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1991-07-23T00:00:00",
+        "hometown": {
+          "city": "Ringwood, N.J. ",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Immaculate Heart High School (Washington, N.J.) ‘09 Syracuse University ‘14, Biochemistry, Nutrition Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Joe and Debbie Pagano</li><li>Has one brother, Joe</li><li>Hobbies include cooking and baking.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 5th (Team Cross Country Long Distance - Women), 30th (Individual Cross Country Long Distance - Women)</li><li>Years of participation: Individual Cross Country Long Distance - Women 2017; Team Cross Country Long Distance - Women 2017</li><li>Top finish: 5th – 2017 (Team Cross Country Long Distance - Women)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (10000m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327667/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Pagano/Pagano_S.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Pagano"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Page",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2002-08-01T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": "Winter Sports School ",
+        "fun_fact": "Inspired to pursue moguls after watching Bryon Wilson (who later became his coach) win bronze at the 2010 Vancouver Winter Olympics",
+        "biography": "<h5><span style=\"font-size: 11pt;\">Quick Facts</span></h5><ul><li><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\">&nbsp;Men's moguls</span></li><li><span style=\"font-size: 11pt;\">Parents are Mike and Sheri Page</span></li><li><span style=\"font-size: 11pt;\">Began skiing at 2 years old and joined Wasatch Freestyle at 7 years old</span></li><li><span style=\"font-size: 11pt;\">2020 FIS World Cup Rookie of the Year</span></li><li><span style=\"font-size: 11pt;\">Inspired to pursue moguls after watching Bryon Wilson win bronze at the 2010 Vancouver Winter Olympics; Wilson later became his coach</span></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Nick Page first strapped on skis at the age of 2. At 7, he joined Wasatch Freestyle, and a year later, watching Bryon Wilson claim bronze in moguls at the 2010 Vancouver Winter Olympics changed everything. Page knew exactly where he wanted to be, and years later, Wilson would become not only his coach but also his mentor and friend at Wasatch Freestyle.</span></p><p><span style=\"font-size: 11pt;\">The technical demands of moguls skiing captivated Page from the start. The discipline requires athletes to navigate steep, bumpy terrain at high speeds while performing aerial tricks and maintaining precise turning technique. Page's determination to master these skills led him to log hundreds of repetitions at the Utah Olympic Park's water ramps before ever attempting tricks on snow. His father, Mike, with whom he trained extensively, instilled a philosophy that shaped his work ethic: \"You can never get any of the days back.\"</span></p><p><span style=\"font-size: 11pt;\">Page's competitive breakthrough came at age 16 when he won a NorAm competition at Apex, British Columbia, becoming the youngest man ever to win a NorAm event, edging out legend Jeremy Bloom by just months. That same season, he placed second at the U.S. nationals and earned a nomination to the U.S. Freestyle Ski Team. His rise continued through the world cup circuit, where in 2020 he earned his first podium with a third-place finish in Idre Fjäll, Sweden, and was named FIS World Cup Rookie of the Year. At the Olympic Winter Games Beijing 2022, Page finished fifth in moguls, becoming the youngest male to compete in the medal round over the previous decade.</span></p><p><span style=\"font-size: 11pt;\">The 2022-23 season marked a historic milestone when Page captured his first world cup victory in Idre Fjäll, Sweden, defeating three-time Olympic medalist Mikael Kingsbury and Olympic champion Walter Wallberg. The win ended a six-year drought for American men in moguls world cup competition, the longest in U.S. history. Page's tricks score of 16.26 was the best in the field, showcasing the aerial prowess that has become his signature.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Page has represented Team USA at multiple world championships. At the 2025 world championships in Engadin, Switzerland, he posted his career-best championship result with a fourth-place finish in moguls. Throughout the 2024-2025 season, he secured six top-5 world cup finishes and ranked as high as third in the world in moguls.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 7th (Moguls - Men), 15th (Dual Moguls - Men)</li><li>Olympic Games Beijing 2022, 5th (Moguls - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 4th (Moguls - Men), 14th (Dual Moguls - Men)</li><li>Years of participation: Dual Moguls - Men 2021, 2023, 2025; Moguls - Men 2021, 2023, 2025</li><li>Top finish: 4th – 2025 (Moguls - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662035/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/N_Page_bio_1086714.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662803/TeamUSA%20Assets/Athlete%20Profiles/Nick%20Page%201086714/N_Page_hero_1086714.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662035/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/N_Page_bio_1086714.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923801/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Page/page_nick_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Page"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Abigail",
+      "last_name": "Page",
+      "bio": {
+        "height": "5'9",
+        "birthday": "2001-02-16T00:00:00",
+        "hometown": {
+          "city": "Mankato",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.1694,
+          "longitude": -93.9994
+        },
+        "education": "Mankato East High School",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>Junior National Championships: 2018</li>\r\n                            <li>U18 National Championships: 2018</li>\r\n                            <li>2018 Minnesota U18 champion</li>\r\n                    </ul><h5>More</h5><p>Teammates: Mackenzie Page, Scottie Berg, Jordan Hein</p>\n<p>Curls out of: Mankato CC</p>\n<p>Began curling in 2007</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327575/TeamUSA%20Assets/Migration/Athlete%20Profiles/Abigail%20Page/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Abigail Page"
+        }
+      ]
+    },
+    {
+      "first_name": "Mackenzie",
+      "last_name": "Page",
+      "bio": {
+        "height": "5'5",
+        "birthday": "1998-06-19T00:00:00",
+        "hometown": {
+          "city": "Mankato",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.1694,
+          "longitude": -93.9994
+        },
+        "education": "Minnesota State University, Mankato",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Works as a lifeguard and deli clerk while attending college<h5>Career Highlights</h5><ul>\r\n                            <li>Junior National Championships: 2018</li>\r\n                    </ul><h5>More</h5><p>Teammates: Scottie Berg, Abigail Page, Jordan Hein</p>\n<p>Curls out of: Mankato Curling Club</p>\n<p>Started curling in 2007</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327527/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mackenzie%20Page/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mackenzie Page"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Page",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1994-06-18T00:00:00",
+        "hometown": {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 30.3322,
+          "longitude": -81.6557
+        },
+        "education": "Florida State College at Jacksonville",
+        "fun_fact": "",
+        "biography": "<p><h5>Career Highlights</h5><strong>&bull;\t2015 American Open Championships<br>\n&bull;\tMember of the U.S. Powerlifting World Team, 2014 IPC Powerlifting World Championships in Dubai, UAE<br>\n&bull;\tMedaled at each of the last three powerlifting nationals, Endeavor Games</strong><br>\n<br>\n<h5>Quick Facts</h5>\nDavid Page competes in the 65kg weight class as a bilateral above the knee amputee. He got his start in powerlifting in high school. While he also competed in football and wrestling, his passion for powerlifting grew. He began lifting heavier and heavier weights and pushed himself in every training session. From there, he went on to compete in the Endeavor Games, which exposed him to tougher and tougher competition. Since then, he&rsquo;s qualified for the U.S. team that competed in the 2014 world championships, the 2015 American Open Championships and the 2015 Parapan American Games. Page hopes his next stop will be Rio de Janeiro in 2016. <br>\n<br>\n<br>\n<strong>Connect</strong><br>\nFacebook: David Page</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Powerlifting",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "65kg",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327485/TeamUSA%20Assets/Migration/Athlete%20Profiles/David%20%20Page/Page.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Page"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Page",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-03-10T00:00:00",
+        "hometown": {
+          "city": "Lancaster",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.9,
+          "longitude": -78.6333
+        },
+        "education": "St. Mary’s High School (Lancaster, N.Y.) ‘10 Medaille College, Sports Management ‘15",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Growing up watching hockey, Page always wanted the opportunity to play. He was born with hydrocephalus and spina bifida, a birth defect caused by incomplete formation of the vertebrae. Having undergone 10 surgeries, he did not let his disability stop him. He began playing at the age of six with the Buffalo Sabres. After a season on the U.S. National Junior Sled Hockey Team, Page made his debut on the 2007-08 U.S. National Sled Hockey Team as the youngest member of the squad at age 15. He quickly built an impressive list of athletic accomplishments, making his first Paralympic Team in 2010. Following the Paralympic Winter Games Vancouver 2010, he co-founded the Sled Hockey Foundation, a non-profit organization that provides individuals with impairments the opportunity to take part in Para ice hockey</li><li>Son of Norman and Sandy Page</li><li>His father served as a national Para ice hockey representative for USA Hockey</li><li>Hobbies include monoskiing, swimming, wheelchair lacrosse, watching movies, hockey and football; going to concerts, Disney World and playing golf</li><li>Favorite genre of food is Italian</li><li>Favorite band is Florida Georgia Line</li><li>Idols include Austrian ice hockey player, Thomas Vanek, U.S. ice hockey player, Nathan Gerbe and Canadian ice hockey player, Tyler Ennis</li><li>The most influential person in his life is Paralympic sled hockey coach, Bob O’Connor.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (3 gold)</li><ul><li>Paralympic Games Pyeongchang 2018, gold (Team - Mixed)</li><li>Paralympic Games Sochi 2014, gold (Team - Mixed)</li><li>Paralympic Games Vancouver 2010, gold (Team - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2012 – gold (Team - Men)</li><li>Years of participation: Team - Men 2008, 2009, 2012</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2012 (Team - Men);  2009 (Team - Men)</li><li>Bronze – 2008 (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2010, 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920306/TeamUSA%20Assets/Migration/Athlete%20Profiles/Adam%20Page/Page_Adam.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adam Page"
+        }
+      ]
+    },
+    {
+      "first_name": "Caleb",
+      "last_name": "Paine",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1990-11-15T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Point Loma High School (San Diego, Calif.) ‘09 Mesa College ’05, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Stuart Lancing and Constances Paine</li><li>Has one brother, Olin</li><li>Began sailing at age 7</li><li>Hobbies include skating, skiing, cycling and going to the beach.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Finn - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 25th (Finn - Men)</li><li>Years of participation: Finn - Men 2010, 2011, 2012, 2013, 2014, 2015, 2018, 2019; Finn - Open 2009</li><li>Top finish: 7th – 2014 (Finn - Men)</li></ul><h5>More</h5>Personal Website<br>\nUS Sailing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697571/TeamUSA%20Assets/Migration/Athlete%20Profiles/Caleb%20Paine%20860258/paine_caleb_081616_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697573/TeamUSA%20Assets/Migration/Athlete%20Profiles/Caleb%20Paine%20860258/Paine_Caleb_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Caleb Paine 860258"
+        }
+      ]
+    },
+    {
+      "first_name": "Krysta",
+      "last_name": "Palmer",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-06-13T00:00:00",
+        "hometown": {
+          "city": "Gardnerville",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 38.9499,
+          "longitude": -119.7435
+        },
+        "education": " University of Nevada",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Krysta is the daughter of Mitch and Vicki Palmer, and she has one sibling, Devin</li><li>Her grandfather Norman Palmer was on the U.S. national ski team.</li><li>Krysta did not start diving until age 20</li><li>She participated in gymnastics for seven years and trampoline for eight years prior to starting her diving career</li><li>She competed for the U.S. internationally in trampoline in Belgium, the Netherlands, France and Russia</li><li>Injuries (torn patellar tendon in her left knee and torn ACL, MCL and LCL in right knee) restricted her from reaching her full potential and she has since switched to diving</li><li>She competed in her first senior nationals in 2015, and her favorite dive is 5154B</li><li>She says the hardest part about her training is keeping her legs strong. </li><li>Krysta would describe herself as positive, vibrant and easy going</li><li>If Krysta could meet anyone, it would be Ellen DeGeneres</li><li>A typical pre-competition meal for Krysta is eggs with some type of carbohydrate (toast, bagel, etc.) and some fruit</li><li>Krysta is a volunteer Assistant Diving Coach and Club Diving for University of Nevada, Reno and Nevada Diving</li><li>For the 2019 season, she is working with TeamV to benefit in weight training, sports psychology and medical recovery. Krysta's goals for 2019 include perform in her first World Series competition and to qualify for World Championships</li><li>Outside of competition, her favorite meal is a burrito. Breakfast burritos are easily her favorite food</li><li>In her spare time, Krysta speaks to youth elementary schools about sports, work ethic and health</li><li>She would like to one day perform with Cirque du Soleil and become a collegiate diving coach. </li><li>If Krysta could do any other profession, she would be a professional snowboarder</li><li>Her favorite diver is Tania Cagnotto</li><li>Something people would be surprised to learn about Krysta is that she's done a 24-hour motorcycle ride in one day and covered 1,200 miles</li></ul><h5>Career Highlights</h5><ul><li>2018 World Cup team member (5th on 3-meter, bronze medalist on mixed team event)</li><li>2019 national champion, 3-meter synchro</li><li>2019 FINA USA Grand Prix, gold medalist on women's 3-meter synchro</li><li>2018 Bolzano FINA Grand Prix silver medalist on women's 3-meter synchro</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 10th (3m Springboard Synchro - Women)</li><li>Years of participation: 3m Springboard Synchro - Women 2019; 3m Springboard - Women 2017; Team Event - Mixed 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Team Event - Mixed)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (3m Springboard - Women), 8th (3m Springboard Synchro - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662022/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/palmer_k_bio_997631.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684882006/TeamUSA%20Assets/Migration/Palmer_Krysta_080121_1440x810.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012253/TeamUSA%20Assets/Athlete%20Profiles/Krysta%20Palmer%20997631/Palmer_Krysta_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Krysta Palmer 997631"
+        }
+      ]
+    },
+    {
+      "first_name": "Krysta",
+      "last_name": "Palmer",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-06-13T00:00:00",
+        "hometown": {
+          "city": "Gardnerville",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 38.9499,
+          "longitude": -119.7435
+        },
+        "education": "University of Nevada",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Krysta is the daughter of Mitch and Vicki Palmer, and she has one sibling, Devin</li><li>Her grandfather Norman Palmer was on the U.S. national ski team.</li><li>Krysta did not start diving until age 20</li><li>She participated in gymnastics for seven years and trampoline for eight years prior to starting her diving career</li><li>She competed for the U.S. internationally in trampoline in Belgium, the Netherlands, France and Russia</li><li>Injuries (torn patellar tendon in her left knee and torn ACL, MCL and LCL in right knee) restricted her from reaching her full potential and she has since switched to diving</li><li>She competed in her first senior nationals in 2015, and her favorite dive is 5154B</li><li>She says the hardest part about her training is keeping her legs strong.</li><li>Krysta would describe herself as positive, vibrant and easy going</li><li>If Krysta could meet anyone, it would be Ellen DeGeneres</li><li>A typical pre-competition meal for Krysta is eggs with some type of carbohydrate (toast, bagel, etc.) and some fruit</li><li>Krysta is a volunteer Assistant Diving Coach and Club Diving for University of Nevada, Reno and Nevada Diving</li><li>For the 2019 season, she is working with TeamV to benefit in weight training, sports psychology and medical recovery. Krysta&#39;s goals for 2019 include perform in her first World Series competition and to qualify for World Championships</li><li>Outside of competition, her favorite meal is a burrito. Breakfast burritos are easily her favorite food</li><li>In her spare time, Krysta speaks to youth elementary schools about sports, work ethic and health</li><li>She would like to one day perform with Cirque du Soleil and become a collegiate diving coach.</li><li>If Krysta could do any other profession, she would be a professional snowboarder</li><li>Her favorite diver is Tania Cagnotto</li><li>Something people would be surprised to learn about Krysta is that she&#39;s done a 24-hour motorcycle ride in one day and covered 1,200 miles</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, St. Petersburg, 2009 (Individual Trampoline - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330071/TeamUSA%20Assets/Migration/Athlete%20Profiles/Krysta%20Palmer%201214571/Palmer_Krysta_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": null
+        }
+      ]
+    },
+    {
+      "first_name": "Amanda",
+      "last_name": "Palyo",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "2001-07-27T00:00:00",
+        "hometown": {
+          "city": "Castle Pines",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.45,
+          "longitude": -104.87
+        },
+        "education": "Rock Canyon High School (Highlands Ranch, Colo.) '19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of John and Lisa Palyo</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (100m Backstroke S9 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697538/TeamUSA%20Assets/Migration/Athlete%20Profiles/Amanda%20Palyo%201136101/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S9, SB9, SM9",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697540/TeamUSA%20Assets/Migration/Athlete%20Profiles/Amanda%20Palyo%201136101/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Amanda Palyo 1136101"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Pannek",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1995-12-29T00:00:00",
+        "hometown": {
+          "city": "Plymouth",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0069,
+          "longitude": -93.4547
+        },
+        "education": "University of Minnesota",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Forward</li><li>Won b<span>ack-to-back National Championships with University of Minnesota and back-to-back Walter Cups with the Minnesota Frost (PWHL)</span></li><li>Daughter of Molly and Todd Pannek</li><li>Has two older sisters, Allie and Amy, and one younger brother, Billy</li></ul><h5>Biographical Information</h5><p><span>Kelly Pannek grew up in Minnesota and started rollerblading around her house before eventually asking her dad to play hockey. Pannek played multiple sports growing up, including soccer and basketball, but decided on hockey and went on to play college hockey at the University of Minnesota, winning back-to-back national championships with the Golden Gophers in 2015 and 2016.</span></p><p><span>Pannek made her IIHF World Championship debut at the 2017 IIHF Women’s World Championships, where the U.S. won gold.&nbsp;She then made her Olympic debut with the U.S. women’s hockey team, which won gold at the Olympic Winter Games PyeongChang 2018. Pannek has been a fixture on the U.S. women’s hockey team, playing in seven straight world championships in addition to the Rivalry Series and multiple Four Nations Cups. H</span><span>er selection for the Olympic Winter Games Milano Cortina 2026 will mark her third Olympic team.</span></p><p><span>Pannek plays professionally for the Minnesota Frost, where she won back-to-back Walter Cups in 2024 and 2025.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (2 gold, 1 silver)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li><li>Olympic Games Beijing 2022, silver (Team - Women)</li><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2017, 2019, 2021, 2022, 2023, 2024, 2025</li><li>Medals: 7 (4 gold, 3 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women);  2019 (Team - Women);  2017 (Team - Women)</li><li>Silver – 2024 (Team - Women);  2022 (Team - Women);  2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697150111/TeamUSA%20Assets/Athlete%20Profiles/Kelly%20Pannek%20825781/pannek_k_bio_1101378.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697150228/TeamUSA%20Assets/Athlete%20Profiles/Kelly%20Pannek%20825781/pannek_k_hero_1101378.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004782/TeamUSA%20Assets/Athlete%20Profiles/Kelly%20Pannek%20825781/pannek_kelly_beijing_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelly Pannek 825781"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Nefeli",
+      "last_name": "Papadakis",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1998-10-02T00:00:00",
+        "hometown": {
+          "city": "Gurnee",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.3736,
+          "longitude": -87.9356
+        },
+        "education": "College of Lake County (Gurnee, Ill.)",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2019 Pan American Games; Lima, Peru</li>\r\n                            <li>2019 Pan American Championships; Lima, Peru; Bronze Medal</li>\r\n                            <li>2018 Pan American Championships; San Jose, Costa Rica; Seventh Place</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – 17th (78kg - Women)</li><li>Years of participation: 78kg - Women 2019, 2021</li><li>Top finish: 17th – 2019 (78kg - Women), 2021 (78kg - Women)</li></ul><h5>More</h5>\nInternational Judo Federation Profile: &nbsp;Nefeli Papadakis IJF Profile<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 17th (78kg - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662060/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Papadakis_n_bio_989532.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012276/TeamUSA%20Assets/Athlete%20Profiles/Nefeli%20Papadakis%20989532/Nefeli_Papadakis_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nefeli Papadakis 989532"
+        }
+      ]
+    }
+  ]
+}

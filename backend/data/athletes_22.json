@@ -1,0 +1,1013 @@
+{
+  "entries": [
+    {
+      "first_name": "Chris",
+      "last_name": "Carlson",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1997-03-14T00:00:00",
+        "hometown": {
+          "city": "Bedford",
+          "state": "NH",
+          "country": "United States",
+          "latitude": 42.9606,
+          "longitude": -71.5167
+        },
+        "education": "University of Washington",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has rowed for both Marist and the University of Washington</li><li>Named to six national teams in his career, but Paris 2024 will be his first Olympic team</li><li>Named the 2018 PAC-12 Conference Newcomer of the Year</li><li>Previously rowed in the men's four in international competitions</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 6th (Eight - Men)</li><li>Years of participation: Eight - Men 2022, 2023</li><li>Top finish: 4th – 2022 (Eight - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Championships Under 23, Sarasota, 2019 (Eight - Men)</li><li>World Championships Under 23, Poznan, 2018 (Eight - Men)</li><li>World Championships Under 23, Plovdiv, 2017 (Eight - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Eight - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717004048/TeamUSA%20Assets/Athlete%20Profiles/Chris%20Carlson%201187398/Carlson_C_bio_1187398.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717003745/TeamUSA%20Assets/Athlete%20Profiles/Chris%20Carlson%201187398/Carlson_c_thumbnail_1187398.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717003745/TeamUSA%20Assets/Athlete%20Profiles/Chris%20Carlson%201187398/Carlson_c_thumbnail_1187398.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717003745/TeamUSA%20Assets/Athlete%20Profiles/Chris%20Carlson%201187398/Carlson_c_thumbnail_1187398.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rowing"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Chris Carlson 1187398"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Carlyle",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1989-11-24T00:00:00",
+        "hometown": {
+          "city": "West Nyack",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 41.09,
+          "longitude": -73.96
+        },
+        "education": "Clarkstown High School South (West Nyack, N.Y.) ‘07 University of South Carolina ‘11, Sport Management and Marketing; DeVry University ‘14, International Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Keith and Annmarie Carlyle</li><li>Has one brother, Matthew, and one sister, Taylor</li><li>Played softball at University of South Carolina</li><li>Competed as a body builder and figure competitor in 2007.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2013, 2018</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2013 (Team - Women)</li></ul></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700493/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Carlyle%20851671/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700494/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Carlyle%20851671/carlyle_ryan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Carlyle 851671"
+        }
+      ]
+    },
+    {
+      "first_name": "Tommy",
+      "last_name": "Carmody",
+      "bio": {
+        "height": "6'10\"",
+        "birthday": "1992-11-24T00:00:00",
+        "hometown": {
+          "city": "Orland Park",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.60003,
+          "longitude": -87.85395
+        },
+        "education": "Carl Sandburg High School Pacific (2011-14); Pepperdine (2016)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Tammy and Joe Carmody</li><li>Has two sisters named  Erin and Allison</li><li>Graduated from Pacific in 2015. He played one year for Pepperdine while working on his master&#39;s of science in global business</li><li>Majored in engineering management at Pacific</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919420/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tommy%20Carmody/2020TommyCarmody.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tommy Carmody"
+        }
+      ]
+    },
+    {
+      "first_name": "Freddy",
+      "last_name": "Carmona",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1985-09-04T00:00:00",
+        "hometown": {
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.4241,
+          "longitude": -98.4936
+        },
+        "education": "Eastern New Mexico University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite sport besides softball is baseball</li><li>Three favorite movies are Troy, Gladiator, and American Sniper</li><li>Favorite TV shows are Sports Center and MLB Tonight</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 9th (Team - Men)</li><li>Years of participation: Team - Men 2015</li><li>Top finish: 9th – 2015 (Team - Men)</li></ul><h5>More</h5><strong>What it means to represent the United States:</strong><br>\nHaving these three letters across my chest bring so much honor,&nbsp;respect, and gratitude. Knowing how proud my family is of me for reaching my goals is the best feeling in the world.&nbsp;I hope to be able to continue to strive in order to make my wife, children and family proud with everything that I do.<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919661/TeamUSA%20Assets/Migration/Athlete%20Profiles/Freddy%20Carmona/CarmonaFreddy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Freddy Carmona"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Carpenter",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1994-04-13T00:00:00",
+        "hometown": {
+          "city": "North Reading",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.5859,
+          "longitude": -71.0967
+        },
+        "education": " Boston College ",
+        "fun_fact": "Ranks in the top 10 in NCAA women’s hockey in career points, goals and assists",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Forward</li><li>Daughter of 18-year NHL star,&nbsp;Bobby Carpenter</li><li><span>Mom, Julie, is a former competitive figure skater</span></li><li><span>Brother, Robert “Bobo”, played college hockey at Boston University</span></li><li><span>Brother, Brendan, played college football at Endicott College (Beverly, Mass.)&nbsp;</span></li><li><span>Ranks in the top 10 in NCAA women’s hockey in career points, goals and assists</span><span></span></li></ul><h5>Biographical Information</h5><p><span>Alex Carpenter was born into a hockey family. Her father, Bobby Carpenter, is an 18-year NHL veteran who was the first&nbsp;</span><span>U.S.-born player to score 50 goals in a single season.&nbsp;Carpenter grew up playing hockey in New Jersey, where her dad was an assistant coach with the Devils, and after the NHL team practiced, she would take a few shots on goal at NHL Hall of Fame goalie Martin Brodeur.&nbsp;At age 10,&nbsp; she wrote an essay saying she would be an Olympian, and as Carpenter remembers: “</span><span>I couldn't even spell Olympics at that time. I think I put a K in it.\"</span></p><p><span>Carpenter attended Boston College to play college hockey and left the school as the career leader in points, goals and assists.&nbsp;Carpenter made her IIHF World Championship debut for the U.S. women’s hockey team at the 2013 IIHF Women’s World Championships and has played in 10 world championships, being named the best forward at the 2024 IIHF Women’s World Championships.</span></p><p><span>Carpenter has also represented the&nbsp;U.S. at four Four Nations Cups, and&nbsp;</span><span>her selection for the Olympic Winter Games Milano Cortina 2026 will mark her third Olympic team.&nbsp;Carpenter was the first overall pick in the 2015 NWHL Draft, and after one season playing for the Boston Pride, she spent four seasons playing in China. She has since returned to play in North America and now plays professionally in PWHL for the Seattle Torrent.&nbsp;</span></p><p><span>In 2023, Carpenter married Steph Klein, one of the first female equipment managers in men’s hockey who worked in both the KHL and AHL. &nbsp;</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li><li>Olympic Games Beijing 2022, silver (Team - Women)</li><li>Olympic Games Sochi 2014, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2013, 2015, 2016, 2017, 2019, 2021, 2022, 2023, 2024, 2025</li><li>Medals: 10 (7 gold, 3 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women);  2019 (Team - Women);  2017 (Team - Women);  2016 (Team - Women);  2015 (Team - Women);  2013 (Team - Women)</li><li>Silver – 2024 (Team - Women);  2022 (Team - Women);  2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661966/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/carpenter_a_bio_984148.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662302/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Carpenter%20984148/carpenter_a_hero_984148.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661966/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/carpenter_a_bio_984148.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004733/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Carpenter%20984148/carpenter_alex_beijing_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Carpenter 984148"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Carr",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1998-09-08T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "Cheyenne Mountain High School (Colorado Springs, Colo.)  University of California, Berkeley ‘21, Business Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bryan Carr</li><li>Hobbies include skiing, frisbee, hiking and watching Netflix.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (100m Backstroke - Men, 200m Backstroke - Men, 4 x 100m Medley Relay - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919357/TeamUSA%20Assets/Migration/Athlete%20Profiles/Daniel%20Carr/Carr_Daniel.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Daniel Carr"
+        }
+      ]
+    },
+    {
+      "first_name": "Rocky",
+      "last_name": "Carson",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1979-05-21T00:00:00",
+        "hometown": {
+          "city": "Ladera Ranch",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.5939,
+          "longitude": -117.6206
+        },
+        "education": "Valley Christian Academy (Santa Maria, Calif.) ‘97",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of R.O. and Lauren Carson</li><li>Married to wife, Jennifer Carson</li><li>Has two children, Jasmine and Christian</li><li>Obtained the No. 1 world ranking during the 2007-08 season</li><li>Personally trains and teaches a junior racquetball program at the Renaissance Club Sports in Aliso Viejo, California</li><li>Hobbies include spending time with family and surfing</li><li>Named IRF Most Decorated Man in 2016</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Doubles - Men, Team - Men)</li><li>Pan American Games, Toronto, 2015 (Singles - Men, Team - Men)</li><li>Pan American Games, Guadalajara, 2011 (Singles - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – silver (Singles - Men), bronze (Team - Men, Team - Mixed)</li><li>Years of participation: Singles - Men 2010, 2012, 2014, 2016, 2022; Team - Men 2022; Team - Mixed 2022; Doubles - Men 2018</li><li>Medals: 8 (4 gold, 2 silver, 2 bronze)</li><ul><li>Gold – 2016 (Singles - Men);  2014 (Singles - Men);  2012 (Singles - Men);  2010 (Singles - Men)</li><li>Silver – 2022 (Singles - Men);  2018 (Doubles - Men)</li><li>Bronze – 2022 (Team - Men, Team - Mixed)</li></ul></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365663/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rocky%20Carson/RockyJumpCharlieHit.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Racquetball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365668/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rocky%20Carson/RockyCarson_2022Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rocky Carson"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Carter",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-01-16T00:00:00",
+        "hometown": {
+          "city": "Topton",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.4904,
+          "longitude": -75.7602
+        },
+        "education": "Brandywine Heights High School ‘12 and DeVry University",
+        "fun_fact": null,
+        "biography": "<h5><strong>Quick Facts</strong></h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Specialty</strong></span><span style=\"font-size: 11pt;\">: Giant Slalom, Standing Slalom and Standing</span></p></li><li><p><span style=\"font-size: 11pt;\">Son of Edward and Suzanne Carter</span></p></li><li><p><span style=\"font-size: 11pt;\">He has one brother, Jackson</span></p></li><li><p><span style=\"font-size: 11pt;\">Born with Fibular Hemimelia and had his right leg amputated as an infant&nbsp;</span></p></li><li><p><span style=\"font-size: 11pt;\">Began skiing at age eight through the Pennsylvania Center for Adapted Sports</span></p></li><li><p><span style=\"font-size: 11pt;\">Serves as an Athlete Mentor for Classroom Champions, a non-profit organization partnering Olympic and Paralympic athletes with students and teachers in underprivileged communities, and is a motivational speaker</span></p></li><li><p><span style=\"font-size: 11pt;\">Enjoys yoga, hiking and watching movies</span></p></li><li><p><span style=\"font-size: 11pt;\">All-around athlete, participating in basketball, swimming, tennis, dance and karate as a child</span></p></li></ul><h5><strong>Biographical Information</strong></h5><p><span style=\"font-size: 11pt;\">Tyler Carter is a retired Paralympic alpine skier known for his resilience and dedication to Para sports. Born in Reading, Pennsylvania, and raised in Topton, he had his right leg amputated below the knee as an infant after being born without a fibula. Carter discovered skiing at age eight through the Pennsylvania Center for Adapted Sports, quickly developing a passion for the sport.</span></p><p><span style=\"font-size: 11pt;\">He made his Paralympic debut at the Paralympic Winter Games Sochi 2014, competing in the giant slalom. Carter went on to represent Team USA in the Paralympic Winter Games PyeongChang 2018 and the Paralympic Winter Games Beijing 2022, participating in multiple alpine skiing events. In recognition of his leadership and commitment, he was selected as a flag bearer for Team USA during the Opening Ceremonies of the Paralympic Winter Games Beijing 2022.</span></p><p><span style=\"font-size: 11pt;\">Beyond his athletic achievements, Carter is a strong advocate for healthy and active lifestyles. He serves as an Athlete Mentor for Classroom Champions, a nonprofit organization that partners Olympic and Paralympic athletes with students and teachers in underserved communities to inspire and motivate the next generation. Off the slopes, Carter enjoys yoga, hiking and watching movies. He also acts as a motivational speaker, sharing his passions and journey.</span></p><h5>Paralympic Experience</h5><ul><li>Three-time Paralympian (2014, 2018, 2022)</li><li>Paralympic Winter Games Beijing 2022, 31st (downhill), 33rd (giant slalom), DNF (super-G), DNF (super combined)</li><li>Paralympic Winter Games PyeongChang 2018, 19th (slalom)</li><li>Paralympic Winter Games Sochi 2014, 27th (giant slalom)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 14th (slalom), 24th (giant slalom)</li><li>Years of Participation: 2015</li><li>Top Finish: 2015 – 14th (slalom)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "LW4",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362496/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tyler%20Carter/Carter_Tyler_Headshot_2022_150x250.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyler Carter"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Alpine Skiing"
+        }
+      ]
+    },
+    {
+      "first_name": "Kindrick",
+      "last_name": "Carter",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1999-10-07T00:00:00",
+        "hometown": {
+          "city": "Warrington",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.2598,
+          "longitude": -75.1485
+        },
+        "education": "21st Century Cyber Charter High School ",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>HEIGHT</strong> 6'0\"<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t\t</span><strong>WEIGHT</strong> 148 lbs</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Follow Carter on Twitter @KindrickUSA, on Instagram @Kindrick1 and on Facebook by searching \"Kindrick Carter\"!<br />\n</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Kindrick Carter was born on&nbsp;Thursday, October 7, 1999 in Rapid City, S.D. The native of Warrington, Pa. was first introduced to the sport of skeleton during the 2014 Sochi Winter Olympic Games. It took him only 20 seconds to realize that skeleton was the sport for him. Less than two years later, he is a hopeful for the 2016 Youth Olympic Games in Lillehammer, Norway.</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Carter is currently a sophomore at the&nbsp;21st Century Cyber Charter High School in Warrington. He&nbsp;loves speed. Whether it's being&nbsp;the fastest kid on the&nbsp;playground, to being the first to finish a math quiz, speed is his&nbsp;obsession. His other interests include snowboarding, piano, music, surfing&nbsp;and working with engines. One day, he hopes to design and build cars of the future.</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br />\n</span></p>\n<p><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\"></span></strong></p>\n<strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">FUN FACTS</span></strong>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br />\n</span>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He once built a go kart, which he promptly sold for money to use for a car.</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He plans to attend college for automotive engineering.</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He played the trumpet for five years. He now plays the piano.</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He started going to Linkin' Park concerts when he was 10 years old.</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\">- He enjoys music and his favorite band is Flux Pavillion.</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br />\n</span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>CAREER HIGHLIGHTS</strong></span></div>\n<div><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong><br />\n</strong></span></div>\n<div>\n<ul>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2015-2016 Youth Olympic Games Qualification Series in skeleton</strong>&nbsp;- SILVER in Lake Placid #1 (10/15); GOLD in Lake Placid #2 (10/15)</span></li>\n</ul>\n<p><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\"></span></strong></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><br />\n</span></p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709329/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kindrick%20Carter%20807557/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Skeleton",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709330/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kindrick%20Carter%20807557/carterheadshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kindrick Carter 807557"
+        }
+      ]
+    },
+    {
+      "first_name": "Anthony",
+      "last_name": "Carter",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1986-04-04T00:00:00",
+        "hometown": {
+          "city": "Lawrence",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.9571,
+          "longitude": -83.9874
+        },
+        "education": "Parkview High School (Lilburn, Ga.) Georgia Perimeter College ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Drafted by the Chicago White Sox in the 26th round of the 2005 MLB June Amateur Draft.<h5>Career Highlights</h5><ul>\r\n                            <li>2018 MEX Mid-Season All-Star</li>\r\n                            <li>2013 INT Mid-Season All-Star</li>\r\n                            <li>2010 AFL Rising Star</li>\r\n                            <li>2010 Southern League All-Star </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919348/TeamUSA%20Assets/Migration/Athlete%20Profiles/Anthony%20Carter/Carter_Anthony_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anthony Carter"
+        }
+      ]
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "Carter",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1985-10-12T00:00:00",
+        "hometown": {
+          "city": "Red Oak",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.5276,
+          "longitude": -96.8097
+        },
+        "education": "Red Oak High School (Red Oak, Texas) '03 University of Texas ‘17, Youth and Community Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Michael and Sandra Carter</li><li>Has one brother, Michael Jr., and one sister, D’Andra</li><li>Father, Mike, won the men’s shot put silver medal while representing Team USA at the Los Angeles 1984 Olympic Games and also played professional American football for the San Francisco 49ers from 1984-1992, winning three Super Bowls and earning three Pro Bowl team selections</li><li>2006 NCAA indoor champion</li><li>Enjoys singing,&#160;baking, styling hair and makeup</li><li>Competed at the state level in high school choir.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 Pan American Games, bronze</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Shot Put - Women)</li><li>Olympic Games London 2012, 4th (Shot Put - Women)</li><li>Olympic Games Beijing 2008, 13th (Shot Put - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (Shot Put - Women)</li><li>Years of participation: Shot Put - Women 2009, 2010, 2012, 2015, 2016, 2017</li><li>Medals: 4 (1 gold, 1 silver, 2 bronze)</li><ul><li>Gold – 2016 (Shot Put - Women)</li><li>Silver – 2012 (Shot Put - Women)</li><li>Bronze – 2017 (Shot Put - Women);  2015 (Shot Put - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003333/TeamUSA%20Assets/Athlete%20Profiles/Michelle%20Carter%20858818/Carter_Michelle_082215_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003334/TeamUSA%20Assets/Athlete%20Profiles/Michelle%20Carter%20858818/Carter_Michelle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michelle Carter 858818"
+        }
+      ]
+    },
+    {
+      "first_name": "Triston",
+      "last_name": "Casas",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "2000-01-15T00:00:00",
+        "hometown": {
+          "city": "Pembroke Pines",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.00703,
+          "longitude": -80.34283
+        },
+        "education": "American Heritage School (Pembroke Pines, Fla.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jose Casas</li><li>Drafted by the Boston Red Sox in the 1st round (26th overall) of the 2018 MLB June Amateur Draft</li><li>Hobbies include playing piano, bass fishing and video games</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 SAL Post-Season All-Star</li>\r\n                            <li>2019 SAL Mid-Season All-Star</li>\r\n                            <li>2017 U-18 Baseball World Cup Most Valuable Player</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003312/TeamUSA%20Assets/Athlete%20Profiles/Triston%20Casas%201219654/Casas_Triston_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Triston Casas 1219654"
+        }
+      ]
+    },
+    {
+      "first_name": "Jeremy",
+      "last_name": "Casebeer",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1989-01-03T00:00:00",
+        "hometown": {
+          "city": "Santa Barbara",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4208,
+          "longitude": -119.6902
+        },
+        "education": "Santa Barbara UCLA ('12 political science)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Graduated from UCLA in 2012 with a degree in political science</li><li>Born in 1989</li><li>Married to Brazilian beach volleyball player Maria Clara Salgado. The couple has a son</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championships, Brighton, 2008 (Team - Men)</li></ul><h5>More</h5>View Jeremy Casebeer's full results at bvbinfo.com",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686919665/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jeremy%20Casebeer/Jeremy-Casebeer-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jeremy Casebeer"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Casey",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1983-08-01T00:00:00",
+        "hometown": {
+          "city": "Reedsport, Ore. ",
+          "state": "OR",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": " Des Moines University ‘12, D.O.",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Wendy Bean</li><li>Married to Patrick Casey</li><li>Placed sixth in 20km race walk at the 2008 U.S. Olympic Trials</li><li>Nine-time national championships race walk competitor.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (20km Walk - Women)</li><li>Pan American Games, Lima, 2019 (50km Walk - Women)</li><li>World Race Walking Cup, Chihuahua, 2010 (20km Walk - Women)</li><li>World Race Walking Cup, Cheboksary, 2008 (20km Walk - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 –  (35km Walk - Women)</li><li>Years of participation: 35km Walk - Women 2022, 2023</li><li>Top finish:  – 2023 (35km Walk - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003356/TeamUSA%20Assets/Athlete%20Profiles/Stephanie%20Casey%20920322/Casey_S.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephanie Casey 920322"
+        }
+      ]
+    },
+    {
+      "first_name": "Conor",
+      "last_name": "Casey",
+      "bio": {
+        "height": "5' 10\"",
+        "birthday": "1999-12-08T00:00:00",
+        "hometown": {
+          "city": "Annandale",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.834,
+          "longitude": -77.1997
+        },
+        "education": "Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ann and Brian Casey</li><li>Has one sibling, Declan</li><li>Enjoys watching premier league soccer and Formula 1 racing</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 World University Games team member</li>\r\n                            <li>2019 national champion on 1-meter</li>\r\n                    </ul><h5>More</h5><strong>Results:<br>\n</strong>\n<iframe src=\" https://docs.google.com/spreadsheets/d/e/2PACX-1vQFE7vn3gvpkSZf4gRb1pfCV1klYSHfGW8m0Rq0NM1J9XAOGD1hEmKEHlX44VV4qMVglm_nNFDvaE31/pubhtml \" width=\"650\" height=\"600\" frameborder=\"0\"></iframe>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Conor Casey"
+        }
+      ]
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Cash",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1989-05-09T00:00:00",
+        "hometown": {
+          "city": "Overland",
+          "state": "MT",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "University of Missouri-St. Louis, Finance ‘15",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Don and Tracy Cash</li><li>Has three brothers, Donny, James and Mike</li><li>Hobbies include camping, hiking, tennis, working out and traveling</li><li>Is a licensed banker</li><li>Makes his own hockey sticks</li><li>Inducted into the USOPC Hall of Fame, Class of 2025</li></ul><h5>Biographical Information</h5><p>Steve Cash is a legendary figure in sled hockey, celebrated as a three-time Paralympic gold medalist and five-time world champion. Widely regarded as one of the greatest goaltenders in the sport’s history, Cash made history at the Paralympic Winter Games Vancouver 2010 by becoming the only goalie ever to record five shutouts in a single tournament. He holds virtually every major goaltending record in sled hockey, both for Team USA and internationally, including most minutes played, highest save percentage, and the second-lowest goals-against average.</p><p>Off the ice, Cash continues to shape the future of the sport through coaching and mentorship. He has developed specialized training programs for sled hockey goaltenders and remains deeply committed to nurturing the next generation of athletes. He is a passionate advocate for mental health, working to break down the stigma surrounding psychological challenges among elite athletes.</p><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 4-time Paralympic medalist (3 gold, 1 bronze)</li><ul><li>Paralympic Games Pyeongchang 2018, gold (Team - Mixed)</li><li>Paralympic Games Sochi 2014, gold (Team - Mixed)</li><li>Paralympic Games Vancouver 2010, gold (Team - Mixed)</li><li>Paralympic Games Turin 2006, bronze (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2012 – gold (Team - Men)</li><li>Years of participation: Team - Men 2008, 2009, 2012</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2012 (Team - Men);  2009 (Team - Men)</li><li>Bronze – 2008 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745885910/TeamUSA%20Assets/Athlete%20Profiles/Steve%20Cash%20808503/cash_s_bio_808503.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2006, 2010, 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745885895/TeamUSA%20Assets/Athlete%20Profiles/Steve%20Cash%20808503/cash_s_hero_808503.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746457745/TeamUSA%20Assets/Hall%20of%20Fame%20Headshots/2025%20Hall%20of%20Fame%20Assets/HOF-Inductee-DEP-Card-SteveCash.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003625/TeamUSA%20Assets/Athlete%20Profiles/Steve%20Cash%20808503/Cash_Steve.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Steve Cash 808503"
+        },
+        {
+          "title": "Sled Hockey"
+        },
+        {
+          "title": "Hall of Fame, Class of 2025"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        }
+      ]
+    },
+    {
+      "first_name": "Keely",
+      "last_name": "Cashman",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1999-04-04T00:00:00",
+        "hometown": {
+          "city": "Strawberry",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.1835,
+          "longitude": -120.0999
+        },
+        "education": "University of Utah",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Specialty:</strong> Women's Giant Slalom, Super-G, Downhill</li><li>Daughter of John and Christy Cashman</li><li>Has two siblings, Jordan and Noah</li><li>Hails from a town with a population of 86</li><li>Serves as a barista at her family’s coffee shop</li><li>Plays the guitar</li><li>Hobbies include road biking, paddle boarding, playing basketball, hiking, camping, hunting, playing guitar, drawing and baking</li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Keely Cashman learned to ski at Dodge Ridge, a small family-owned resort where her father coached her and her two brothers. She credits her father as her biggest inspiration, noting he taught her everything about the sport.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Cashman's talent emerged early. In 2014, she competed as the only U-16 American woman at the second annual Future Ski Champions event. Two years later, she represented the United States at the Youth Olympic Winter Games Lillehammer 2016. Her progression continued as she earned her first U.S. Ski Team nomination to the Development Team for the 2018 season.</span></p><p><span style=\"font-size: 11pt;\">In January 2021, Cashman suffered a season-ending crash during super-G training at Garmisch-Partenkirchen, Germany. She spent eight days hospitalized with the accident causing a traumatic brain injury, concussion, strained MCL, hematomas in both hips and temporary loss of feeling in her foot. Remarkably, she returned to training that spring, though another crash at Mammoth Mountain in May resulted in severe facial cuts. Her determination to overcome these setbacks demonstrated the mental toughness that defines her career.</span></p><p><span style=\"font-size: 11pt;\">Cashman made her Olympic debut at the Olympic Winter Games Beijing 2022, where she finished as the top American in downhill with a 17th-place finish and placed 27th in super-G. The 2024-25 season marked a breakthrough as she scored her best world cup results to date, highlighted by a sixth-place finish in the Garmisch super-G and a fifth-place finish in Tarvisio.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Beyond skiing, Cashman participates in the annual Yosemite Facelift, volunteering to pick up trash throughout the national park. Her family opened The Serene Bean coffee shop in Pinecrest in 1998, with Keely working as a barista during the offseason.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 15th (Super G - Women, Team Alpine Combined - Women)</li><li>Olympic Games Beijing 2022,  (Super Combined - Women), 17th (Downhill - Women), 27th (Super G - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 24th (Super G - Women)</li><li>Years of participation: Super G - Women 2025</li><li>Top finish: 24th – 2025 (Super G - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661961/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/cashman_k_bio_914546.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662173/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/cashman_k_hero_914546.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004820/TeamUSA%20Assets/Athlete%20Profiles/Keely%20Cashman%20914546/cashman_keely_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keely Cashman 914546"
+        },
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Danny",
+      "last_name": "Casper",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "2001-06-17T00:00:00",
+        "hometown": {
+          "city": "Briarcliff Manor",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 41.1509,
+          "longitude": -73.8304
+        },
+        "education": "University of Minnesota ",
+        "fun_fact": "His father, Jeff, got him into the sport of curling",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Skip</li><li><strong>Speciality:</strong> Men's Curling</li><li>Diagnosed with autoimmune <span style=\"color: rgb(74, 74, 74);font-size: 10.5pt;\">Guillain-Barré Syndrome- has struggled at times with walking and use of his hands because of the disease</span></li></ul><h5>Biographical Information&nbsp;</h5><p><span>Danny Casper was born and raised in&nbsp;</span><span>Briarcliff Manor, New York and</span><span>&nbsp; starting curling at the age of 11 at Ardsley Curling Club (</span><span>Ardsley-On-Hudson, NY). After his father, Jeff, got him into the sport, he was tutored by former U.S. national champion Bill Stopera, who lived in the area and also coached Casper’s future national team teammate at the same curling club, his son, Andrew.</span></p><p><span>Casper would skip the U.S. team at the 2023</span><span>&nbsp;FISU World University Games in Lake Placid where the team would win a silver medal. It was the U.S.'s second medal all-time at the Winter World University Games in men’s curling, joining a gold medal won in 2007, by a team with John Shuster as the skip.</span></p><p><span>Following the World University Games medal, Casper’s team would finish with two second-place finishes at the national championships (2023, 2025) and on the professional circuit with two Grand Slam of Curling Tier 2 wins in their first three professional seasons.</span></p><p><span>Casper missed a portion of the 2024-2025 curling season after being diagnosed with autoimmune disease,&nbsp;</span><span>Guillain-Barré Syndrome. Some of the effects of the disease have caused Casper to struggle at times to walk and use his hands. His teammates will assist him with cleaning his rock on the ice if he is having trouble with his hands during the curling competition.&nbsp;</span></p><p><span>Danny Casper graduated from the University of Minnesota with a degree in strategic communications. He stayed in Minnesota after college, working as a business development consultant and training at the USA Curling National Training Center in Chaska.</span></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771021507/Casper_Danny_Snoop_Dogg.jpg"
+        }
+      ],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Danny Casper"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "2026 U.S. Olympic Curling Team"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    }
+  ]
+}

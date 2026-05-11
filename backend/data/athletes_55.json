@@ -1,0 +1,853 @@
+{
+  "entries": [
+    {
+      "first_name": "Jasper",
+      "last_name": "Good",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1996-05-10T00:00:00",
+        "hometown": {
+          "city": "Steamboat Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.4844,
+          "longitude": -106.8317
+        },
+        "education": "University of Utah ‘22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son to Jeff and Nancy Good</li><li>Has one sister, Sierra</li><li>Played soccer through high school</li><li>Hobbies include mountain biking, ski touring, trail running, camping and riding his unicycle.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022, 6th (Team Large Hill / 4 x 5km - Men), 34th (Gundersen Large Hill / 10km - Men)</li><li>Olympic Games Pyeongchang 2018, 43th (Gundersen Large Hill / 10km - Men), 45th (Gundersen Normal Hill / 10km - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 41th (Gundersen Large Hill / 10km - Men), 43th (Gundersen Normal Hill / 10km - Men)</li><li>Years of participation: Gundersen Large Hill / 10km - Men 2019, 2021; Gundersen Normal Hill / 10km - Men 2019, 2021</li><li>Top finish: 41th – 2021 (Gundersen Large Hill / 10km - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662000/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/J_Good_bio_1085692.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Nordic Combined",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662228/TeamUSA%20Assets/Athlete%20Profiles/Jasper%20Good%201085692/J_Good_hero_1085692.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005861/TeamUSA%20Assets/Athlete%20Profiles/Jasper%20Good%201085692/Good_Jasper_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jasper Good 1085692"
+        },
+        {
+          "title": "Nordic Combined"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Chelsea",
+      "last_name": "Goodacre",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1993-09-26T00:00:00",
+        "hometown": {
+          "city": "Temecula",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.4939,
+          "longitude": -117.1481
+        },
+        "education": "Arizona - 2015",
+        "fun_fact": null,
+        "biography": "<p><span>Height: 5'4\"<br />Position: Catcher - L/R<br /></span></p><span><strong>A FEW ACCOMPLISHMENTS</strong><br />2011 ISF Junior World Champion<br />2010 Pan American (18-Under) Gold Medalist<br /><br /><strong>EXPERIENCE</strong><br />2011 ISF World Champion<br />- Hit .400 with one RBI and four runs scored<br />- 2010 Pan American (18-Under) Games Champion<br />- Started in two of seven games played<br />- Went 3-for-6 (.500) with two RBI and two runs scored<br />- Went 2-for-2 in stolen bases<br /><br /><strong>ASA/USA SOFTBALL EXPERIENCE</strong><br />Played for Fury Softball<br /></span><br /><h5>Career Highlights</h5><ul><li>Junior World Championship, Cape Town, 2011 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927659/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chelsea%20Goodacre/GoodacreChelsea.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chelsea Goodacre"
+        }
+      ]
+    },
+    {
+      "first_name": "Laura",
+      "last_name": "Goodkind",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1986-04-22T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "The Forman School (Litchfield, Conn.) ‘04 Crafton Hills College ’09, Psychology, Liberal Studies, EMT-1; Southern California University of Health Sciences ’13, Chemistry; Whittier College ’16, Medical Practice and Policy/Positive Psychology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Athlete ambassador for Angel City Sports</li><li>Taught herself ukulele and likes to head to the ocean weekly and take pictures</li><li>Belongs to an amazing spiritual community, IKAR.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 10th (PR2 Double Sculls - Mixed)</li><li>Paralympic Games Rio de Janeiro 2016, 10th (Trunk & Arms Double Sculls - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 8th (PR2 Double Sculls - Mixed)</li><li>Years of participation: PR2 Double Sculls - Mixed 2017, 2018, 2019; PR2 Single Sculls - Women 2018</li><li>Top finish: 5th – 2017 (PR2 Double Sculls - Mixed)</li></ul><h5>More</h5><p>US Rowing</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Not Applicable",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927624/TeamUSA%20Assets/Migration/Athlete%20Profiles/Laura%20Goodkind/Goodkind_Laura150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Laura Goodkind"
+        }
+      ]
+    },
+    {
+      "first_name": "Joseph",
+      "last_name": "Goodpaster",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1997-08-21T00:00:00",
+        "hometown": {
+          "city": "Hershey ",
+          "state": "PA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Seton Home Study School (Front Royal, Virginia) ‘15 University of South Florida, mechanical engineering",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-f-Logo__blue_100_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=C19357865BB1BF4A1FAD45443CFC1A477E15D161\" ></td>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\" ></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div></div>\n<div>\n<p><strong><br>\n</strong><h5>Career Highlights</h5></p>\n<ul>\n    <li>2016 Eastern Sectional Figure Skating Championship, 2nd (junior pairs)</li>\n    <li>2015&nbsp;U.S. Figure Skating Championships, 2nd (novice pairs)&nbsp;</li>\n    <li>2015&nbsp;USA Junior Grand Prix, 7th (pairs) &nbsp;</li>\n    <li>2015 Eastern Sectional Figure Skating Championship, 2nd (novice pairs) &nbsp;<br>\n    </li>\n    <li>2014&nbsp;Eastern Sectional Figure Skating Championship, 7th (intermediate men)&nbsp;</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Robert and Christine Goodpaster</li><li>Has six siblings, Benjamin, David, John, Maria, Michael and Rachel</li><li>Began skating at age 12, and skating with figure skating partner, Sarah Rose, in 2014</li><li>Grew up on a farm in Pennsylvania and raised sheep, goats, chickens, rabbits, and ducks</li><li>Hobbies include swimming, baking, and playing ping pong and tennis</li><li>Volunteers at Knights Helping Knights Food Pantry and teaches Learn to Skate classes with Rose.&nbsp;</li></ul><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716371/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joseph%20Goodpaster%20867682/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716372/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joseph%20Goodpaster%20867682/FigureSkating_Goodpaster_Joseph_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joseph Goodpaster 867682"
+        }
+      ]
+    },
+    {
+      "first_name": "Gabriel",
+      "last_name": "Goodreau",
+      "bio": {
+        "height": "6'2",
+        "birthday": "1986-10-02T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "Loyola High School DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Eva</li><li>One of five children</li><li>Married to Ashley DeAtley</li><li>Discovered the sport of handball after seeing it on television during the Beijing 2008 Olympic Games</li><li>Played with the Los Angeles Team Handball Club for five years</li><li>Spent a season training and playing with Sg Nussloch Handball Club in Nussloch, Germany</li><li>Trained full-time as part of the USA Team Handball Residency Program in Auburn, Alabama</li><li>Moved back to California in May of 2018</li><li>Is a big sports fan, specifically a fan of the Dodgers, Kings, Lakers and Steelers.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 So. Cal Beach Handball Championships - 1st, Most Valuable Goalkeeper</li>\r\n                            <li>2019 U.S. Open National Championships - 3rd, Elite Division</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 1st</li>\r\n                            <li>2018 Pan American Beach Handball Championships - 3rd</li>\r\n                            <li>2017 U.S. Open National Championships - 2nd, Elite Division</li>\r\n                            <li>2016 Pan American Championships - 8th (Buenos Aires, Argentina)</li>\r\n                            <li>2016 U.S. Open National Championships - 3rd, Elite Division</li>\r\n                            <li>2015 &quot;Last-Chance&quot; Pan American Games Qualifier - 2nd </li>\r\n                            <li>2014 U.S. Open National Championships - 2nd, Elite Division</li>\r\n                            <li>2014 Pan American Championships - 6th (Canelones, Uruguay)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2018 IHF Beach Handball World Championships - 12th (Kazan, Russia)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716335/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gabriel%20Goodreau%20908198/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716337/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gabriel%20Goodreau%20908198/Goodreau_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gabriel Goodreau 908198"
+        }
+      ]
+    },
+    {
+      "first_name": "Benjamin",
+      "last_name": "Goodrich",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1992-11-26T00:00:00",
+        "hometown": {
+          "city": "St. Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "University of Minnesota",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Competed in wrestling, track and field and football in high school, but excelled in wrestling where he was named the team MVP as a senior, totaling a 35-3 record that season.</p></li><li><p>Introduced to judo through a physical education class at the University of Minnesota as a freshman in 2011.</p></li><li>E<span>arned degrees in finance and accounting from the University of Minnesota, worked as a sales tax technician for the City of Colorado Springs while training for the Olympic Games Tokyo 2020.</span></li><li><p>Made his first international team in 2013</p></li><li><span>Resides in Sweden where he trains along with his wife, Nicolina Pernheim.</span></li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Tokyo 2020, silver (100kg - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 9th (+100kg - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>Parapan American Games Lima 2019, silver medal</li><li>Three-time Pan American Championships medalist</li><li>Three-time Judo Grand Prix medalist</li><li>2013 Youth World Championships, gold medal</li></ul><h5>More</h5><p>USA Judo</p><p></p><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 17th (J2 90kg - Men)</li><li>Years of participation: J2 90kg - Men 2022; 100kg - Men 2014, 2018</li><li>Top finish: 5th – 2018 (100kg - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700242722/TeamUSA%20Assets/Athlete%20Profiles/Benjamin%20Goodrich%20814306/Goodrich_b_bio_814306.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Judo",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "J2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011341/TeamUSA%20Assets/Athlete%20Profiles/Benjamin%20Goodrich%20814306/BenGoodrich.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Benjamin Goodrich 814306"
+        },
+        {
+          "title": "Para Judo"
+        }
+      ]
+    },
+    {
+      "first_name": "Christopher",
+      "last_name": "Gordon",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1986-07-17T00:00:00",
+        "hometown": {
+          "city": "Elmhurst",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7387,
+          "longitude": -73.8829
+        },
+        "education": "University of Oklahoma High School (Norman, Okla.) ‘08 ",
+        "fun_fact": "",
+        "biography": "<strong></strong><p>&nbsp;</p><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Doubles - Men, Team - Men, Singles - Men)</li><li>Pan American Games, Guadalajara, 2011 (Doubles - Men, Team - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Albert and Kathleen Gordon</li><li>Has one younger sister, Megan</li><li>Began playing squash at age 8</li><li>Turned professional in 2002</li><li>Hobbies include playing ice hockey, learning foreign languages and going to Connecticut Whale ice hockey games.</li></ul></div><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 33th (Singles - Men)</li><li>Years of participation: Singles - Men 2013, 2021, 2022; Team - Men 2009, 2011, 2013</li><li>Top finish: 7th – 2011 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716388/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christopher%20Gordon%20909139/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Squash",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716391/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christopher%20Gordon%20909139/Squash_Gordon_Christopher.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christopher Gordon 909139"
+        }
+      ]
+    },
+    {
+      "first_name": "Marcus",
+      "last_name": "Gore",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "2000-08-07T00:00:00",
+        "hometown": {
+          "city": "Vail",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6403,
+          "longitude": -106.3742
+        },
+        "education": "Vail Ski and Snowboard Academy ",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2019 US Biathlon National Championships (Jericho, Vt.) - 3rd in youth sprint / 1st in youth pursuit / 4th in youth mass start</li>\r\n                            <li>2018 Biathlon National Championships (Soldier Hollow, UT) - 3rd in Sprint</li>\r\n                            <li>2018 Colorado Biathlon State Champion – Men</li>\r\n                            <li>2017 US Biathlon National Championships (Jericho, VT) - 1st in Sprint / 2nd in Pursuit / 3rd in Mass Start</li>\r\n                            <li>2016, 2017 &amp; 2018 Cross Country Junior Nationals  – Rocky Mountain Nordic Team</li>\r\n                    </ul><h5>More</h5>\n<p dir=\"ltr\">Marcus Gore was born in Vail and grew up ski racing in the Ski &amp; Snowboard Club Vail program. At the age of 14, he decided to pursue cross-country skiing instead. </p>\n<br>\n\n<p dir=\"ltr\">He discovered biathlon in the same way as many young nordic skiers in the West, through the West Yellowstone biathlon clinics hosted by Marc Sheppard. He never gets tired of hearing targets drop. Now as part of the team, Marcus has high hopes and big goals for the coming seasons.</p>\n<br>\n",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005825/TeamUSA%20Assets/Athlete%20Profiles/Marcus%20Gore%201085987/marcus-gore_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005827/TeamUSA%20Assets/Athlete%20Profiles/Marcus%20Gore%201085987/Marcus-Gore_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Marcus Gore 1085987"
+        }
+      ]
+    },
+    {
+      "first_name": "Jade",
+      "last_name": "Gortarez",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1998-07-08T00:00:00",
+        "hometown": {
+          "city": "Riverside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9806,
+          "longitude": -117.3755
+        },
+        "education": "Arizona State University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div></div>\n<div><br>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2014 IBAF Women's Baseball World Cup, 2nd</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Gilbert Gortarez</li><li>Hobbies include running and playing basketball.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927584/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jade%20Gortarez/Baseball_Women_Gortarez_Jade.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jade Gortarez"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Anthony",
+      "last_name": "Gose",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1990-09-10T00:00:00",
+        "hometown": {
+          "city": "Bellflower",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8806,
+          "longitude": -118.117
+        },
+        "education": "Bellflower High School (Bellflower, Calif.) ‘08",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Malinda and Steve Gose</li><li>In high school, he also competed in track and field</li><li>Drafted by the Philadelphia Phillies in the 2nd round of the 2008 MLB June Amateur Draft</li><li>Previously played for the Toronto Blue Jays and the Detroit Tigers</li><li>Changed positions from center fielder to pitcher following the 2016 season</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Two-time MiLB.com Toronto Blue Jays Organization All-Star (2011, 2012)</li>\r\n                            <li>2012 Futures Game Selection</li>\r\n                            <li>2011 AFL Rising Star</li>\r\n                            <li>2011 EAS Post-Season All-Star</li>\r\n                            <li>2010 FSL Post-Season All-Star</li>\r\n                            <li>2009 SAL Post-Season All-Star</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927527/TeamUSA%20Assets/Migration/Athlete%20Profiles/Anthony%20Gose/Gose_Anthony_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anthony Gose"
+        }
+      ]
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Gouge",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1985-11-03T00:00:00",
+        "hometown": {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7767,
+          "longitude": -96.797
+        },
+        "education": "Rolesville High School (Wake Forest, N.C.) University of Texas at Arlington ‘09, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Gouge started playing wheelchair basketball when he was 11 with a local team in Raleigh, North Carolina. After a couple years, he started playing competitively for the Charlotte Hornets. He went on to play at the University of Texas at Arlington. Following college, he played professionally in France for two years</li><li>Son of Roger and Nancy Gouge</li><li>Has one older sister, Amber</li><li>Married to Amber Gouge</li><li>In 2007, the Mayor of Arlington officially declared November 2 as “Aaron Gouge Day”</li><li>Used to compete in track and field and weightlifting where he broke several junior weightlifting records</li><li>Hopes to get into coaching</li><li>Favorite college basketball team is the North Carolina Tar Heels</li><li>Enjoys hanging out with friends, watching movies and sports, and traveling.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 gold)</li><ul><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – silver (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2018 (Team - Men);  2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "2.0",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927648/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Gouge/Gouge_Aaron_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aaron Gouge"
+        }
+      ]
+    },
+    {
+      "first_name": "Delanie",
+      "last_name": "Gourley",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1995-04-13T00:00:00",
+        "hometown": {
+          "city": "Lakeside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.8584,
+          "longitude": -116.92
+        },
+        "education": "El Capitan High School Florida - 2017",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 31</li><li>Parents are David and Denise Gourley</li><li>Personal motto: Be where your feet are. Live and embrace each moment you&#39;re in and what you get to experience at that very second</li><li>Three words to describe her are: friendly, easy going and optimistic</li><li>If she wasn&#39;t playing softball she would be: If I wasn&#39;t playing softball I&#39;d be living at the beach and surfing much better than I surfed when I attempted to the first time!</li><li>On what it means to represent the United States in softball: &quot;Having the opportunity to represent the US is such an honor. I am so grateful and thankful to play for the best country in the world. I cant thank the sport of softball enough for giving me chances like this.&quot;</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2016 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (Team - Women)</li><li>Years of participation: Team - Women 2016</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2016 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:&nbsp;</strong>NFCA All-American...USA Softball Collegiate Player of the Year Finalist...Senior CLASS Award Finalist...First Team All-SEC</p>\n<p><strong>2016:</strong>&nbsp;NFCA All-American ...USA Softball Player of the Year Top 10 Finalist...First Team All-SEC</p>\n<p><strong>2015:</strong>&nbsp;NCAA WCWS Champion...Tossed a scoreless seventh to earn the save in&nbsp;Game 1 of the WCWS Championship Series&nbsp;against Michigan</p>\n<p><strong>2014:&nbsp;</strong>NCAA WCWS Champion</p>\n<p><strong>Click here to view Delanie Gourley's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716330/TeamUSA%20Assets/Migration/Athlete%20Profiles/Delanie%20Gourley%201045829/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716331/TeamUSA%20Assets/Migration/Athlete%20Profiles/Delanie%20Gourley%201045829/GourleyDelanie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Delanie Gourley 1045829"
+        }
+      ]
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Gowey",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1997-10-03T00:00:00",
+        "hometown": {
+          "city": "Urbandale",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 41.6308,
+          "longitude": -93.7027
+        },
+        "education": "University of Florida",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"/></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Women, Uneven Bars - Women, Beam - Women, Individual All-Around - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Rhonda and Jerry Gowey</li><li>Has two siblings, Taylor and Emma</li><li>Began gymnastics in 2003</li><li>Hobbies include spending time with friends</li><li>Favorite foods are fruit and steak tacos.&nbsp;</li><li><p>Johnston High School (Johnston, Iowa) ‘16</p></li></ul><br /><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>USA Gymnastics</p>&nbsp;<br /><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927645/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rachel%20Gowey/Gymnastics_Artistic_Women_Gowey_Rachel.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rachel Gowey"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Kate",
+      "last_name": "Grace",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1988-10-24T00:00:00",
+        "hometown": {
+          "city": "Santa Monica",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0195,
+          "longitude": -118.4912
+        },
+        "education": "Marlborough High School (Los Angeles, Calif.) ‘07 Yale University ‘11, Bachelor of Arts",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Stephen Grace and Kathy Smith</li><li>Has one sister, Perrie.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2013 USA Outdoor Championships, 4th (800m)</li>\r\n                            <li>2014 USA Outdoor Championships, 11th (1,500m)</li>\r\n                            <li>2014 USA Indoor Championships, 19th (1,500m)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 8th (800m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 23th (1500m - Women)</li><li>Years of participation: 1500m - Women 2017</li><li>Top finish: 23th – 2017 (1500m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005927/TeamUSA%20Assets/Athlete%20Profiles/Kate%20Grace%20919834/Grace_Kate_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kate Grace 919834"
+        }
+      ]
+    },
+    {
+      "first_name": "Jacob",
+      "last_name": "Grace",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1995-04-21T00:00:00",
+        "hometown": {
+          "city": "Morgan Hill",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.1333,
+          "longitude": -121.65
+        },
+        "education": "Phoenix High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Favorite Taekwondo Athlete: Daewoon Lee</li><li>Biggest Inspiration: His mother</li><li>Favorite Books: The &quot;Harry Potter&quot; series and the &quot;Lord of the Rings&quot; series</li><li>Favorite TV Show: &quot;Fresh Prince of Bel Air&quot;</li><li>Favorite Movies: &quot;Saving Private Ryan&quot;, &quot;The Internship&quot; and &quot;Gran Torino&quot;</li><li>Favorite Bands/Singers: DJ Kool Herc, DJ Grandmaster Flash, Hopsin, A Tribe Called Quest, Wu-Tang Clan, Tupac, Notorious B.I.G., and Ice Cube</li><li>Favorite Quote: &quot;I hated every minute of training, but I said &#39;Don&#39;t quit. Suffer now and live the rest of your life a champion.&#39;&quot; - Muhammad Ali</li><li>Proudest Moment in Taekwondo: Winning the 2012 National Championships and becoming a Junior National Team member</li><li>Favorite Foods: Korean BBQ, Hawaiian, chicken adobo, spam and eggs, Pho and Italian food</li><li>Hobbies: filmmaking, breakdancing, music production, and food</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018: U.S. Senior National Team Member (Feather -68kg)</li>\r\n                            <li>2018: U.S. Senior National Team Trials (Feather -68kg): 1st</li>\r\n                            <li>2017: U.S. Senior National Team Member (Feather -68kg)</li>\r\n                            <li>2017: U.S. Senior National Team Trials (Feather -68kg): 1st</li>\r\n                            <li>2017: New Zealand Open (-68kg): BRONZE</li>\r\n                            <li>2016: U.S. Senior National Team Member (Feather)</li>\r\n                            <li>2016: U.S. Open (-68kg): Quarterfinals</li>\r\n                            <li>2015: USAT National Championships (-68kg): GOLD</li>\r\n                            <li>2015: U.S. Open (-68kg): Round of 16</li>\r\n                            <li>2014: USAT National Championships (-68kg): GOLD</li>\r\n                            <li>2014: Mexico Open (-68kg): BRONZE</li>\r\n                            <li>2013: CUTA State Games (Jr. Lt. Middle): GOLD</li>\r\n                            <li>2013: CUTA State Games (Sr. Feather): GOLD</li>\r\n                            <li>2012&#160; USAT Junior National Team Member (Jr. Lt. Middle)</li>\r\n                            <li>2012: USAT National Championships (Jr. Lt. Middle): GOLD</li>\r\n                            <li>2012: 6th World Taekwondo Culture Expo - Muju, Korea (Jr. Lt. Middle): GOLD</li>\r\n                            <li>2012: CUTA Team Trials - Fresno, Calif. (Jr. Lt. Middle): GOLD</li>\r\n                            <li>2012: USAT Western&#160;Regional Qualifier - San Jose, Calif. (Jr. Lt. Middle): GOLD</li>\r\n                            <li>2012: USAT Western&#160;Regional Qualifier - San Jose, Calif. (Sr. Feather): SILVER</li>\r\n                            <li>2011: USAT National Qualifier - San Diego, Calif. (Jr. Bantam): SILVER</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 9th (Featherweight 63-68kg - Men)</li><li>Years of participation: Featherweight 63-68kg - Men 2017</li><li>Top finish: 9th – 2017 (Featherweight 63-68kg - Men)</li></ul><h5>More</h5><strong>Did You Know?: </strong>Jacob loves old-school music and used to be in a break dance crew.",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716481/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jacob%20Grace%20831637/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716483/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jacob%20Grace%20831637/Jacob-Grace_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jacob Grace 831637"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Grady",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1996-10-22T00:00:00",
+        "hometown": {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.44062,
+          "longitude": -79.99589
+        },
+        "education": "Cornell University ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Tracy Grady. Has two sisters and one brother.</li><li>Is a twin</li><li>Found the sport of rowing though his father</li><li>Admires Carlos Dinares for his enthusiasm towards the sport of rowing</li><li>Hobbies include beekeeping and solving Rubik's Cubes</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Four - Men)</li><li>Olympic Games Tokyo 2020, 5th (Four - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Four - Men)</li><li>Years of participation: Four - Men 2023; Pair - Men 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Four - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661996/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/grady_m_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662283/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/grady_m_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662283/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/grady_m_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927813/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20Grady/Grady_Michael_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Grady"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    }
+  ]
+}

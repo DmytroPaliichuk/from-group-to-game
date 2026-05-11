@@ -1,0 +1,718 @@
+{
+  "entries": [
+    {
+      "first_name": "Evan",
+      "last_name": "Olson",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1997-07-26T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "University of Washington '19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Discovered rowing in 2014 after reading \"The Boys In The Boat,\" and wondered if he could be a good rower someday</li><li>Wants to become a rowing coach or join the Army OCF/Rangers after his career is finished</li><li>C<span>oached the junior team at Pocock Rowing Center for two years</span></li><li>Hobbies include <span>boxing, jiu-jitsu, rock climbing and mountaineering</span></li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Eight - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Pair - Men)</li><li>Years of participation: Pair - Men 2023</li><li>Top finish: 5th – 2023 (Pair - Men)</li></ul><h5>Career Highlights</h5><ul><li><span>2024 World Rowing Final Olympic &amp; Paralympic Qualification Regatta, 1st (Men's Eight)</span></li><li><span>2023 Henley Royal Regatta, 1st (Ladies Challenge Plate)</span></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717093038/TeamUSA%20Assets/Athlete%20Profiles/Evan%20Olson%201188777/Olson_e_bio_1188777.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717093039/TeamUSA%20Assets/Athlete%20Profiles/Evan%20Olson%201188777/Olson_e_hero_1188777.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717093038/TeamUSA%20Assets/Athlete%20Profiles/Evan%20Olson%201188777/Olson_e_bio_1188777.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717093036/TeamUSA%20Assets/Athlete%20Profiles/Evan%20Olson%201188777/Olson_e_thumbnail_1188777.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rowing"
+        },
+        {
+          "title": "Evan Olson 1188777"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Oman",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1979-02-05T00:00:00",
+        "hometown": {
+          "city": "Barron",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 45.4055,
+          "longitude": -91.8535
+        },
+        "education": "Barron HS (Barron, Wis.) ‘97 University of Minnesota ‘01, Mathematics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>While John Oman is relatively new to the Paralympic Nordic skiing scene, he has a history of competitive success in adaptive sports. An above-elbow amputee, he played for the United States at the 2010 Amputee Hockey World Championships.</li><li>Oman stays active no matter the season, as he also enjoys hiking, biking, running, camping, canoeing, softball, hunting and fishing</li><li>Oman earned his degree in Mathematics at the University of Minnesota and now works as a pricing manager at Medtronic, a tech company that specializes in medical devices and therapies.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014: Paralympic Winter Games, 18th 20km, 31st 1km sprint, 32nd 10km</li>\r\n                            <li>2013: World Cup Cable, Wis., 6th 12.5km biathlon, 10th 15km; World Cup Canmore, 11th 15km biathlon, 13th 7.5km and 12.5km biathlons, 15th 20km, 19th 10km, 20th 1km</li>\r\n                            <li>2014: Paralympic Winter Games, 18th 20km, 31st 1km sprint, 32nd 10km</li>\r\n                            <li>2013: World Cup Cable, Wis., 6th 12.5km biathlon, 10th 15km</li>\r\n                            <li>World Cup Canmore, 11th 15km biathlon, 13th 7.5km and 12.5km biathlons, 15th 20km, 19th 10km, 20th 1km</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Sochi 2014, 18th (20km Classic Style - Standing - Men), 31th (1km Sprint Freestyle - Standing - Men), 32th (10km Freestyle - Standing - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719852/TeamUSA%20Assets/Migration/Athlete%20Profiles/John%20Oman%20857368/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719854/TeamUSA%20Assets/Migration/Athlete%20Profiles/John%20Oman%20857368/Nordic_Oman_John_2014-USOC_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Oman 857368"
+        }
+      ]
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Onaga",
+      "bio": {
+        "height": "4'10\"",
+        "birthday": "2005-04-30T00:00:00",
+        "hometown": {
+          "city": "Valencia",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.4279,
+          "longitude": -118.5587
+        },
+        "education": "Rio Norte Jr High ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Just finished 7th grade</li><li>Made Honor roll every quarter</li><li>Only child</li><li>Practice karate 20 hrs per week</li><li>depending on homework</li><li>Practice 30 hours per week when school is out</li></ul><h5>Career Highlights</h5><ul><li>World Junior, Cadet & U21 Championships, Konya, 2022 (-55kg Kumite (Junior) - Men)</li></ul><h5>More</h5><p><strong>When did you start karate and why?</strong></p>\n<p>I started when I was 5 (almost 6). My dad wrestled in HS and college and wanted me to do some type of combate sport. At the time, there was no high school wrestling in my area so he had me try Karate.</p>\n<p><strong>Name three things people might not know about you:</strong></p>\n<p>I like to draw<br>\nI like to build things<br>\nI like to ski</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696800/TeamUSA%20Assets/Migration/Athlete%20Profiles/Troy%20Onaga%201224356/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696802/TeamUSA%20Assets/Migration/Athlete%20Profiles/Troy%20Onaga%201224356/Troy-Onaga.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Troy Onaga 1224356"
+        }
+      ]
+    },
+    {
+      "first_name": "Michaela",
+      "last_name": "Onyenwere",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1999-08-10T00:00:00",
+        "hometown": {
+          "city": "Aurora",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7294,
+          "longitude": -104.8319
+        },
+        "education": "Grandview High School (Aurora, Colo.) ‘17 University of California, Los Angeles ‘21, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Edith and Peter Onyenwere</li><li>Sister to U.K., Zach, Patrick and Jordan</li><li>Father competed in the Olympic Games in track and field for Nigeria and ran track at the University of Missouri</li><li>Won the Colorado High School 5A Championships with the Grandview wolves</li><li>Enjoys shopping and watching scary movies</li><li>Admires Russell Westbrook, Maya Moore and Elena Delle Donne.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003681/TeamUSA%20Assets/Athlete%20Profiles/Michaela%20Onyenwere%201155862/oneyenwere_michaela.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michaela Onyenwere 1155862"
+        }
+      ]
+    },
+    {
+      "first_name": "Joane",
+      "last_name": "Orbon",
+      "bio": {
+        "height": "5'5''",
+        "birthday": "1994-10-05T00:00:00",
+        "hometown": {
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.5816,
+          "longitude": -121.4944
+        },
+        "education": "Columbia Southern University ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>I started karate when I was 7. My family moved to Stockton from the Bay Area in 2001, so my mom searched for activities my brother and I would be able to do together in the Yellow Pages and found karate and swimming. Three things you may not know about me are that I am a big sports fan and can probably watch ESPN all day, I love sushi and can eat it everyday, and my go to app is Pinterest.</li><li>I&#39;m a big sports fan and can probably watch ESPN all day.  I love sushi and can eat it every day. My go-to app is Pinterest.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>3x PKF Champion</li>\r\n                            <li>USA Karate Female Athlete of the Year 2015</li>\r\n                            <li>10x US Champion</li>\r\n                            <li>Pan Am Games US Team (2015)</li>\r\n                            <li>Senior US National Team (2014, 2015, 2017)</li>\r\n                            <li>Junior US National Team (2008-2014)</li>\r\n                            <li>Sr National Silver Medalist (2015, 2017)</li>\r\n                            <li>Sr National Champion (2016)</li>\r\n                            <li>Jr National Champion (2008-2014)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Jr PKF Gold Medalist (2008, 2013, 2014)</li><li>Jr PKF Bronze Medalist (2010, 2011)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700545/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joane%20Orbon%201103563/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682700548/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joane%20Orbon%201103563/Joane-Orbon.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joane Orbon 1103563"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Keturah",
+      "last_name": "Orji",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1996-03-05T00:00:00",
+        "hometown": {
+          "city": "Mount Olive",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.8806,
+          "longitude": -74.7821
+        },
+        "education": "University of Georgia ‘18, Financial Planning",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Anthony and Nicole Orji</li><li>Has one brother, Anthony, and two sisters, Linda and Rachel</li><li>Three-time NCAA triple jump champion</li><li>Aspired to be an Olympic gymnast as a child and credits her youth participation in gymnastics in part for her early success in track and field</li><li>Eight-time NCAA champion</li><li>Hobbies include reading two books every month, learning Spanish, playing sand volleyball, blogging, card games and board games</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (Triple Jump - Women)</li><li>Olympic Games Tokyo 2020, 7th (Triple Jump - Women)</li><li>Olympic Games Rio de Janeiro 2016, 4th (Triple Jump - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (Triple Jump - Women)</li><li>Years of participation: Triple Jump - Women 2016, 2018, 2023</li><li>Top finish: 4th – 2016 (Triple Jump - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662039/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Orji_k_bio_905365.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719170528/TeamUSA%20Assets/Keturah%20Orgi%20905365/orgi_k_hero_905365.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719170528/TeamUSA%20Assets/Keturah%20Orgi%20905365/orgi_k_hero_905365.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330266/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keturah%20%20Orji%20905365/orji_keturah_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keturah Orji 905365"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Orozco",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1992-12-30T00:00:00",
+        "hometown": {
+          "city": "Bronx",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.8448,
+          "longitude": -73.8648
+        },
+        "education": "Felisa Ricon De Gautier Institute for Law And Public Policy (Bronx, N.Y.) ‘10 DeVry University ‘15, Business Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of William and the late Damaris Orozco</li><li>Has three brothers, Erik, Emmanuel and Jason, and one sister, Jessica</li><li>Is a second-generation American</li><li>His parents are the biggest influence on his gymnastics career</li><li>His father, William, worked overtime to provide for his family and his mother, who passed away in 2015, attended every competitions and drive him 30-45 minutes to practice, sometimes twice per day</li><li>Aspires to study music and film production in Los Angeles after his gymnastics career</li><li>Served as an extra in three episodes on NBC’s Law &amp; Order</li><li>Is also a talented singer and dancer and enjoys performing funny voices and impersonations</li><li>His lucky charm is his white rosary</li><li>Hobbies include acting, singing, dancing, making music, photography and cinematography.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games London 2012, 5th (Team - Men), 8th (Individual All-Around - Men), 10th (Horizontal Bar - Men), 12th (Pommel Horse - Men), 14th (Rings - Men), 16th (Floor Exercise - Men), 41th (Parallel Bars - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – bronze (Team - Men), 11th (Parallel Bars - Men), 12th (Horizontal Bar - Men), 23th (Rings - Men), 39th (Pommel Horse - Men), 45th (Floor Exercise - Men), 141th (Individual All-Around - Men)</li><li>Years of participation: Floor Exercise - Men 2011, 2014; Horizontal Bar - Men 2011, 2013, 2014; Individual All-Around - Men 2011, 2014; Parallel Bars - Men 2011, 2013, 2014; Pommel Horse - Men 2011, 2013, 2014; Rings - Men 2011, 2014; Team - Men 2011, 2014</li><li>Medals: 3 (3 bronze)</li><ul><li>Bronze – 2014 (Team - Men);  2013 (Parallel Bars - Men);  2011 (Team - Men)</li></ul></ul><h5>More</h5>USA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004234/TeamUSA%20Assets/Athlete%20Profiles/John%20Orozco%20865213/john_orozco_cr120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Orozco 865213"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Osborn",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1999-02-10T00:00:00",
+        "hometown": {
+          "city": "Hampton",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 37.0293,
+          "longitude": -76.3452
+        },
+        "education": "West Virginia University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div>\n<p><strong><br>\n</strong></p>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2015 Changwon World Cup, 36th (air)</li>\n    <li>2014 Winter Airgun Championships, 2nd (air)</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Stephen and Michelle Osborn</li><li>Began shooting at age 8</li><li>Hobbies include jet skiing and kayaking</li><li>Speaks Spanish.</li></ul></p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rifle Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924631/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Osborn/Shooting_Osborn_Sarah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Osborn"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "T.J.",
+      "last_name": "Oshie",
+      "bio": {
+        "height": "5’11”",
+        "birthday": "1986-12-23T00:00:00",
+        "hometown": {
+          "city": "Warroad",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 48.908,
+          "longitude": -95.3094
+        },
+        "education": " University of North Dakota",
+        "fun_fact": "Nicknamed \"T.J. Sochi\" for making 4-of-6 shootout attempts vs Russia during the Winter Olympic Games Sochi 2014",
+        "biography": "<h5>Quick Facts</h5><ul><li>Wife, Lauren</li><li>Four children, Campblel, Lyla, Leni and Lucy</li><li>Nicknamed \"T.J. Sochi\" for making 4-of-6 shootout attempts vs Russia during the Olympic Winter Games Sochi 2014</li></ul><h5>Biographical Information</h5><p>T.J. Oshie grew up in Everett, Washington, playing both hockey and basketball. When a high school basketball coach asked him to choose a sport, Oshie handed in his basketball jersey and turned to hockey full-time. He and his dad moved to Warroad, Minnesota, also known as \"Hockeytown USA\", to pursue his dreams of being a professional hockey player. In three seasons with Warroad, Oshie experienced nearly as many state titles (two) as losses (five) and was picked by the St. Louis Blues in the first round of the 2005 NHL draft.&nbsp;</p><p>Oshie would make his Olympic debut for Team USA at the Olympic Winter Games Sochi 2014. Oshie earned the nickname \"T.J. Sochi\" after going 4-for-6 in shootout attempts in the U.S.'s preliminary round win over the host country, Russia, in that tournament. The U.S. men's hockey team would finish fourth, after losing to Canada in the semifinals, 1-0, and Finland in the bronze medal game, 5-0.</p><p>After the Sochi Winter Games, Oshie was traded from the Blues to the Washington Capitals, where in 2018 helped the Capitals win their first Stanley Cup.</p><p>Oshie retired from hockey following the 2024-25 season. Upon retirement, he has moved back to Minnesota full-time, with his wife, Lauren, and four children, Campbell, Lyla, Leni and Lucy.</p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Sochi 2014, 4th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – bronze (Team - Men)</li><li>Years of participation: Team - Men 2009, 2010, 2013</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2013 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763582253/Oshie_t_bio2_909484.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763582474/TeamUSA%20Assets/Athlete%20Profiles/T.J.%20Oshie%20909484/Oshie_t_hero_909484.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763582239/Oshie_t_bio1_909484.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "T.J. Oshie 909484"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Cat",
+      "last_name": "Osterman",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1983-04-16T00:00:00",
+        "hometown": {
+          "city": "Houston",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7604,
+          "longitude": -95.3698
+        },
+        "education": "Texas - 2006",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2019 Japan Cup Gold Medalist; Went 1-0 in the circle with 7 strikeouts and a 0.00 ERA in 5.1 innings pitched</li>\r\n                            <li>2019 Pan American Games Gold Medalist; Went 1-1 in the circle with 18 strikeouts and a 2.25 ERA in 9.1 innings pitched</li>\r\n                            <li>2007 Pan American Games Gold Medalist</li>\r\n                            <li>2003 Pan American Games Gold Medalist</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Women)</li><li>Olympic Games Beijing 2008, silver (Team - Women)</li><li>Olympic Games Athens 2004, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2010 – gold (Team - Women)</li><li>Years of participation: Team - Women 2006, 2010</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2010 (Team - Women);  2006 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>AT TEXAS</strong><br>\nLed the Longhorns to three Women's College World Series appearances (2003, 2005 &amp; 2006)<br>\nEarned WCWS all tournament honors two times<br>\nOnly three-time winner of the USA Softball Collegiate Player of the Year (2003, 2005 &amp; 2006)<br>\nFour-time NFCA First-team All American<br>\n2005 &amp; 2006 ESPY Award winner as the Top Collegiate Female Athlete<br>\n2005 &amp; 2006 Honda Award Winner for softball<br>\nFour-time Big 12 Pitcher of the Year<br>\nHolds Big 12 record with 25 \"Pitcher of the Week\" honors</p>\n<p><strong>Click here to view Cat Osterman's full collegiate bio &raquo;</strong></p>\n<p><strong>Visit Cat Osterman's website&nbsp;&raquo;</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335497/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cat%20Osterman/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335498/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cat%20Osterman/OstermanCat-Osterman.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cat Osterman"
+        }
+      ]
+    },
+    {
+      "first_name": "Allie",
+      "last_name": "Ostrander",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1996-12-24T00:00:00",
+        "hometown": {
+          "city": "Kenai, Alaska ",
+          "state": "AK",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Kenai Central High School (Kenai, Alaska) ‘15 Boise State University ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Paul Ostrander and Teresa Farris</li><li>Two-time NCAA Mountain West Female Athlete of the Year.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (3000m Steeplechase - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 17th (3000m Steeplechase - Women)</li><li>Years of participation: 3000m Steeplechase - Women 2019</li><li>Top finish: 17th – 2019 (3000m Steeplechase - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715323/TeamUSA%20Assets/Migration/Athlete%20Profiles/Allie%20Ostrander%201032725/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715325/TeamUSA%20Assets/Migration/Athlete%20Profiles/Allie%20Ostrander%201032725/Ostrander_A.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allie Ostrander 1032725"
+        }
+      ]
+    },
+    {
+      "first_name": "Payton",
+      "last_name": "Otterdahl",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1996-04-02T00:00:00",
+        "hometown": {
+          "city": "Rosemount",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.7469,
+          "longitude": -93.1305
+        },
+        "education": "North Dakota State University ‘19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Cory and Shannon Otterdahl</li><li>Has two younger brothers, Trevor and Max</li><li>Brother Trevor is a thrower on the NDSU track and field team</li><li>Competed in football and wrestling in high school</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (Shot Put - Men)</li><li>Olympic Games Tokyo 2020, 10th (Shot Put - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Shot Put - Men)</li><li>Years of participation: Shot Put - Men 2023</li><li>Top finish: 5th – 2023 (Shot Put - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662061/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Otterdahl_p_bio_1187869.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662570/TeamUSA%20Assets/Athlete%20Profiles/Payton%20Otterdahl%201187869/Otterdahl_p_hero_1187869.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012721/TeamUSA%20Assets/Athlete%20Profiles/Payton%20Otterdahl%201187869/Otterdahl_Payton.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Payton Otterdahl 1187869"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Danielle",
+      "last_name": "Ovadia",
+      "bio": {
+        "height": "5'8",
+        "birthday": "2006-04-18T00:00:00",
+        "hometown": {
+          "city": "Danville",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.8216,
+          "longitude": -121.9994
+        },
+        "education": "Monte Vista High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She was once on the radio because a park ranger thought her family was lost in a national park</li><li>She has gone cliff jumping into the ocean in Hawaii over 60 feet high</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 13-15 national team athlete</li>\r\n                            <li>2021 National Championships, 1st (Duet)</li>\r\n                            <li>2021 National Championships, 1st (Combo)</li>\r\n                            <li>2021 National Championships, 1st (Team)</li>\r\n                            <li>2019 Junior Olympics, 1st (Combo)</li>\r\n                            <li>2019 National Championships, 1st (Combo)</li>\r\n                            <li>2019 National Championships, 1st (Team)</li>\r\n                            <li>2019 West Zone Championships, 1st (Team)</li>\r\n                            <li>2018 Junior Olympics, 1st (Duet)</li>\r\n                            <li>2018 Junior Olympics, 1st (Team)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923703/TeamUSA%20Assets/Migration/Athlete%20Profiles/Danielle%20Ovadia/Danielle-Ovadia.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Danielle Ovadia"
+        }
+      ]
+    }
+  ]
+}

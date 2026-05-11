@@ -1,0 +1,799 @@
+{
+  "entries": [
+    {
+      "first_name": "Steven",
+      "last_name": "Gluckstein",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1990-06-24T00:00:00",
+        "hometown": {
+          "city": "Atlantic Highlands",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.4304,
+          "longitude": -74.0385
+        },
+        "education": " State University of New Jersey",
+        "fun_fact": "",
+        "biography": "<strong><br bold=\"[object Object]\"></strong><div><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games London 2012, 16th (Individual Trampoline - Men)</li></ul></ul><h5>Career Highlights</h5><ul><li>2015 USA Gymnastics Championships, 1st (individual)</li><li>2015 Elite Challenge, 1st (individual), 3rd (synchronized)</li><li>2014 USA Gymnastics Championships, 1st (synchronized)&nbsp;</li><li>2014 U.S. Elite Challenge, 1st (synchronized)</li><li>2014 Pan American Championships, team, 1st (synchronized), 2nd (individual)</li><li>2012 USA Gymnastics Trampoline Championships, 1st (individual)</li><li>2011 U.S. Elite Championships, 4th (individual)</li><li>2010 Visa Championships, 1st (individual)</li><li>2008 Stars and Stripes Cup, 1st (individual)<br></li><li>2005 Men's Junior Olympic National Championships, 1st (individual)<br></li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Son of Loretta and Steven Gluckstein</li><li>Has one older sister, Amanda, and a younger brother, Jeffrey, who also competes in trampoline</li><li>Began gymnastics in 2000</li><li>Hobbies include Crossfit, snowboarding, bike riding, hiking and kayaking</li><li>Speaks Russian.&nbsp;</li><li><p>Henry Hudson Regional High School Rutgers, the State University of New Jersey - Newark '15, Business Management</p></li></ul><br><p>&nbsp;</p><p><strong>Learn more:</strong><br>USA Gymnastics</p><p><br></p></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 6th (Trampoline Team - Men), 8th (Synchro - Men), 31th (Individual Trampoline - Men)</li><li>Years of participation: Individual Trampoline - Men 2007, 2009, 2010, 2011, 2013, 2015; Synchro - Men 2007, 2009, 2010, 2011, 2013, 2015; Trampoline Team - Men 2007, 2009, 2011, 2013, 2015</li><li>Top finish: 4th – 2009 (Trampoline Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714441/TeamUSA%20Assets/Migration/Athlete%20Profiles/Steven%20Gluckstein%20840311/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714444/TeamUSA%20Assets/Migration/Athlete%20Profiles/Steven%20Gluckstein%20840311/Gymnastics_Trampoline_Gluckstein_Steven.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Steven Gluckstein 840311"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Tessa",
+      "last_name": "Gobbo",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1990-12-08T00:00:00",
+        "hometown": {
+          "city": "Chesterfield",
+          "state": "NH",
+          "country": "United States",
+          "latitude": 42.8987,
+          "longitude": -72.4495
+        },
+        "education": "Northfield Mount Hermon School (Mount Hermon, Mass.) ‘09 Brown University ‘13, Sociology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ken and Linda Gobbo</li><li>Has a twin brother, Andre</li><li>Grew up playing ice hockey and Nordic skiing.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Eight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (Eight - Women)</li><li>Years of participation: Eight - Women 2015; Four - Women 2013, 2014</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2015 (Eight - Women);  2013 (Four - Women)</li><li>Silver – 2014 (Four - Women)</li></ul></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716355/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tessa%20Gobbo%20856351/womens8_080816_1200x300_1.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716356/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tessa%20Gobbo%20856351/Gobbo_Tessa_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tessa Gobbo 856351"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Godfrey",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1964-08-08T00:00:00",
+        "hometown": {
+          "city": "Dublin",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.0835,
+          "longitude": -98.3406
+        },
+        "education": "Tarleton State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Patricia and Jack Godfrey, Godfrey studied Agriculture at the Tarleton State University.</li><li>A former professional bull rider, he spends time raising buck stock on his family’s Texas ranch and enjoys ranching in his spare time.</li><li>One of six children</li><li>His siblings include Jack, Laurie, Joshua, Casey and Dylan.</li><li>He is married to wife Kristine Godfrey.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 Para Pan Am US Team Member</li>\r\n                            <li>2018 US National Para Team Member</li>\r\n                            <li>2018 IPTTC U.S. Open Mens Class 1 Singles - Silver</li>\r\n                            <li>2017 IPTTC U.S. Open Mens Class 1 Singles - Silver</li>\r\n                            <li>2017 Butterfly Texas State Table Tennis Championship Wheelchair Singles - Gold</li>\r\n                            <li>2015 Para Pan Am US Team Member</li>\r\n                            <li>2014 Copa Costa Rica, bronze (Singles class 1)</li>\r\n                            <li>2012 Mike Dempsey Memorial Tournament, bronze (Singles class 1)</li>\r\n                            <li>2014 Copa Costa Rica, bronze (Singles class 1)</li>\r\n                            <li>2012 Mike Dempsey Memorial Tournament, bronze (Singles class 1)</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 5th (Team Class 3 - Men), 9th (Singles Class 1  - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661987/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/godfrey_m_bio_798584.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Table Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "TT1",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662610/TeamUSA%20Assets/Athlete%20Profiles/Michael%20Godfrey%20798584/godfrey_m_hero_798584.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005866/TeamUSA%20Assets/Athlete%20Profiles/Michael%20Godfrey%20798584/Godfrey.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Godfrey 798584"
+        }
+      ]
+    },
+    {
+      "first_name": "Elija",
+      "last_name": "Godwin",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1999-07-01T00:00:00",
+        "hometown": {
+          "city": "Covington",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.5962,
+          "longitude": -83.8605
+        },
+        "education": "Newton High School (Covington, Ga.) University of Georgia",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ginger Luby</li><li>Involved in the community service efforts of his church parish throughout the year.</li></ul><h5>Career Highlights</h5><ul><li>Ran a personal best of 44.61 at 2021 SEC Outdoor Championships</li><li>2021 NCAA Outdoor Championships, 4th (400-meter)</li><li>2021 NCAA Indoor Championships, 9th (400-meter)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (4 x 400m Relay - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – gold (4 x 400m Relay - Men), bronze (4 x 400m Relay - Mixed)</li><li>Years of participation: 4 x 400m Relay - Men 2022; 4 x 400m Relay - Mixed 2022</li><li>Medals: 2 (1 gold, 1 bronze)<ul><li>Gold – 2022 (4 x 400m Relay - Men)</li><li>Bronze – 2022 (4 x 400m Relay - Mixed)</li></ul></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005832/TeamUSA%20Assets/Athlete%20Profiles/Elija%20Godwin%201139238/Godwin_Elija.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elija Godwin 1139238"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Goepper",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1994-03-14T00:00:00",
+        "hometown": {
+          "city": "Lawrenceburg",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.0964,
+          "longitude": -84.8502
+        },
+        "education": " Windells Academy ‘12",
+        "fun_fact": "Favorite movie is Star Wars: The Empire Strikes Back and he has a rebel alliance tattoo on his right arm",
+        "biography": "<h5><strong>Quick Facts:</strong></h5><ul><li><strong>Specialty: </strong>Halfpipe</li><li>Son of Chris and Linda</li><li>Has three siblings, Kasey, Braddee and Jason</li><li>Began skiing at age five and started competing by 11</li><li>Hobbies include carpenty, snowmobiling and history</li><li><span>Creates furniture in his home workshop, including his kitchen table</span></li><li><span>Bought a 40-acre property in the Nevada desert and built “Rollerblade Ranch” where he trains, complete with a 13-foot ramp and 50-foot airbag</span></li><li><span>Finished ninth at the 2022 World Skate Games in roller freestyle park (rollerblading)</span></li><li>Favorite movie is Star Wars: The Empire Strikes Back, and he has a rebel alliance tattoo on his right arm</li></ul><h5><strong>Biographical Information</strong></h5><p>Nick Goepper was raised in Lawrenceburg, Indiana, where he began skiing at the age of five at Perfect North Slopes, a local resort.&nbsp;At age 15, Goepper relocated to Sandy, Oregon, to train at Windells Academy (now Wy'East Mountain Academy) on a full scholarship, where he trained alongside professional skiers.</p><p>Goepper earned a bronze medal at the Olympic Winter Games Sochi 2014, contributing to a historic U.S. podium sweep in men's slopestyle skiing. He continued his success with silver medals at both the Olympic Winter Games PyeongChang 2018 and the Olympic Winter Games Beijing 2022. After the Beijing Games, Goepper retired from freestyle skiing only to return 10 months later to compete in the halfpipe and not slopestyle, where he was a three-time Olympic medalist and four-time X Games champion. Goepper quickly established himself as one of the best in the world in halfpipe, winning gold at the 2025 X Games and a silver at the 2025 FIS Freestyle Ski World Championships.</p><p>Goepper also has spoken openly about his struggles with anxiety and depression, sharing how he’s overcome these obstacles in the face of athletic stardom.</p><h5>Olympic Experience</h5><ul><li>4-time Olympian; 3-time Olympic medalist (2 silver, 1 bronze)</li><ul><li>Olympic Games Milan 2026, 4th (Halfpipe - Men)</li><li>Olympic Games Beijing 2022, silver (Slopestyle - Men), 22th (Big Air - Men)</li><li>Olympic Games Pyeongchang 2018, silver (Slopestyle - Men)</li><li>Olympic Games Sochi 2014, bronze (Slopestyle - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – silver (Halfpipe - Men)</li><li>Years of participation: Halfpipe - Men 2025; Big Air - Men 2019; Slopestyle - Men 2013, 2019</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2025 (Halfpipe - Men)</li><li>Bronze – 2019 (Slopestyle - Men);  2013 (Slopestyle - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661995/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/goepper_n_bio_906502.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662387/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/goepper_n_hero_906502.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662387/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/goepper_n_hero_906502.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927519/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Goepper/goepper_nick_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Goepper"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Gold",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1993-11-17T00:00:00",
+        "hometown": {
+          "city": "Steamboat Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.4844,
+          "longitude": -106.8317
+        },
+        "education": "University of Colorado",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has a sister, Arielle, who is also a snowboarder</li><li>Hobbies include playing guitar, trampolining, slacklining and mountain biking.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Halfpipe - Men)</li><li>Olympic Games Sochi 2014, 14th (Halfpipe - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 8th (Halfpipe - Men)</li><li>Years of participation: Halfpipe - Men 2011, 2013, 2021; Big Air - Men 2011</li><li>Top finish: 8th – 2021 (Halfpipe - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661980/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Gold_t_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684898939/TeamUSA%20Assets/Migration/Pages/Gold_Taylor_020922_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927494/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylor%20Gold/Snowboarding_Gold_Taylor_site_2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylor Gold"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Snowboarding"
+        }
+      ]
+    },
+    {
+      "first_name": "Arielle",
+      "last_name": "Gold",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1996-05-04T00:00:00",
+        "hometown": {
+          "city": "Steamboat Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.4844,
+          "longitude": -106.8317
+        },
+        "education": "Steamboat Springs High School (Steamboat Springs, Colo.) University of Colorado Boulder, Veterinary Medicine",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ken and Patricia Gold</li><li>Has a brother, Taylor, who is also a professional snowboarder</li><li>Learned to snowboard at age 7</li><li>Hobbies include riding her horse, mountain biking and spending time with friends.</li></ul><h5>Career Highlights</h5><ul><li>2017 FIS World Cup Standings, 6th (halfpipe)</li><li>2016 X Games Aspen, silver (superpipe)</li><li>2016 X Games Oslo, bronze (superpipe)</li><li>2015 FIS World Cup Standings, 2nd (halfpipe), 6th (overall)</li><li>2014 FIS World Cup Standings, 9th (halfpipe)</li><li>2013 FIS World Cup Standings, 6th (halfpipe, overall)</li><li>2013 X Games Tignes, bronze (superpipe)</li><li>2013 X Games Aspen, bronze (superpipe)</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Pyeongchang 2018, bronze (Halfpipe - Women)</li><li>Olympic Games Sochi 2014,  (Halfpipe - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (Halfpipe - Women)</li><li>Years of participation: Halfpipe - Women 2013, 2017, 2019</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2013 (Halfpipe - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005843/TeamUSA%20Assets/Athlete%20Profiles/Arielle%20Gold%20814883/gold_arielle_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005844/TeamUSA%20Assets/Athlete%20Profiles/Arielle%20Gold%20814883/gold_arielle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Arielle Gold 814883"
+        }
+      ]
+    },
+    {
+      "first_name": "Gracie",
+      "last_name": "Gold",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1995-08-17T00:00:00",
+        "hometown": {
+          "city": "Redondo Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8475,
+          "longitude": -118.3884
+        },
+        "education": "University of Missouri High School ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Carl and Denise Gold</li><li>Has a twin sister, Carly, who is also a competitive figure skater</li><li>Began skating at age 8</li><li>Calms her nerves by juggling before she competes</li><li>Was named 2014 L.A. Sportswoman of the Year</li><li>Hobbies include cooking, baking, reading, juggling, playing tennis and listening to music.</li></ul><h5>Career Highlights</h5><ul><li>2015 ISU Grand Prix Final, 5th (individual)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Sochi 2014, bronze (Team - Mixed), 4th (Singles - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2016 – 4th (Singles - Women)</li><li>Years of participation: Singles - Women 2013, 2014, 2015, 2016</li><li>Top finish: 4th – 2015 (Singles - Women), 2016 (Singles - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005850/TeamUSA%20Assets/Athlete%20Profiles/Gracie%20Gold%20867758/Figure_Skating_Gold_Gracie_site.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gracie Gold 867758"
+        }
+      ]
+    },
+    {
+      "first_name": "Jared",
+      "last_name": "Goldberg",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1991-06-17T00:00:00",
+        "hometown": {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.7608,
+          "longitude": -111.891
+        },
+        "education": "University of Utah ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Don and Annette</li><li>Started snowboarding at age 6</li><li>Plays the ukelele, harmonica and drums</li><li>Hobbies include surfing, mountain biking, kiteboarding, rock climbing, building furniture and welding</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 20th (Downhill - Men), 24th (Super G - Men), 36th (Super Combined - Men)</li><li>Olympic Games Sochi 2014, 11th (Super Combined - Men), 19th (Giant Slalom - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 24th (Downhill - Men), 25th (Super G - Men)</li><li>Years of participation: Downhill - Men 2015, 2017, 2021, 2023, 2025; Super G - Men 2021, 2025; Super Combined - Men 2015, 2017, 2021</li><li>Top finish:  – 2021 (Super Combined - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742502726/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jared%20Goldberg/goldberg_j_bio_811685.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742502711/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jared%20Goldberg/goldberg_j_hero_811685.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742502711/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jared%20Goldberg/goldberg_j_hero_811685.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927505/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jared%20Goldberg/goldberg_jared_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jared Goldberg"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Brittany",
+      "last_name": "Gomez",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1994-04-08T00:00:00",
+        "hometown": {
+          "city": "New Braunfels",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7033,
+          "longitude": -98.1247
+        },
+        "education": "Iowa State University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div></div>\n<div><br>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2014 All-Big 12 Second Team</li>\n    <li>2013 All-Big 12 Second Team</li>\n    <li>2013 Easton Classic All-Tournament Team</li>\n    <li>2009 Texas Newcomer of the Year</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Ruben and Gina Gomez</li><li>Has three younger siblings, Jalen, Alaina, and Brandon.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927603/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brittany%20Gomez/Baseball_Women_Gomez_Brittany.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brittany Gomez"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Joel",
+      "last_name": "Gomez",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2003-07-29T00:00:00",
+        "hometown": {
+          "city": "Encinitas",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.036,
+          "longitude": -117.292
+        },
+        "education": "Classical Academy (Escondido, Calif.) ‘21 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Rynn Whitley Gomez and Carlos Gomez</li><li>Born with a rare genetic disorder called blue cone monochromacy</li><li>Began running track with the Speed to Burn Track club in California when he was nine years old</li><li>Broke the five-minute mile barrier at age 13 while competing with the San Diego Waves club</li><li>Discovered Paralympic track and field at age 14</li><li>Has a running dog, Trixie</li><li>Enjoys music, playing instruments and singing</li><li>Teaches ukulele at his public library</li><li>Hobbies include flying drones and cinematography</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 7th (1500m T13 - Men)</li><li>Paralympic Games Tokyo 2020, 10th (1500m T13 - Men), 11th (400m T13 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 7th (1500m T13 - Men)</li><li>Years of participation: 1500m T13 - Men 2019, 2023, 2024</li><li>Top finish: 6th – 2023 (1500m T13 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661987/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/gomez_j_bio_1153651.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T13",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662719/TeamUSA%20Assets/Athlete%20Profiles/Joel%20Gomez%201153651/gomez_j_hero_1153651.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005814/TeamUSA%20Assets/Athlete%20Profiles/Joel%20Gomez%201153651/Gomez_Joel_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joel Gomez 1153651"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Linnea",
+      "last_name": "Gonzales",
+      "bio": {
+        "height": "5' 9\"",
+        "birthday": "1997-08-15T00:00:00",
+        "hometown": {
+          "city": "Bel Air",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.5376,
+          "longitude": -76.3527
+        },
+        "education": "University of Maryland ('19)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Angel and Robin Gonzales</li><li>Has two siblings, Abrielle and Landon</li><li>Best Words of Advice: &quot;Whatever you do, do it with heart.&quot;</li><li>Started playing the sport in third grade. She originally played soccer, but her sister starting playing and she wanted to give it a try.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Women)</li><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>Junior World Cup, Santiago, 2016 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2019 FIH Hockey Olympic Qualifier (Bhubaneswar, India)</li><li>Silver - 2016 Women's Junior Pan American Games (Trinidad & Tobago)</li><li>Bronze - 2019 Pan American Games (Lima, Peru)</li><li>8th - 2016 Women’s Hockey Junior World Cup (Santiago, Chile)</li><li>9th - 2020-21 FIH Pro League (worldwide)</li><li>9th - 2019 FIH Pro League (worldwide)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011211/TeamUSA%20Assets/Athlete%20Profiles/Linnea%20Gonzales%20804524/Gonzales_1200x514.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011212/TeamUSA%20Assets/Athlete%20Profiles/Linnea%20Gonzales%20804524/Gonzales_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Linnea Gonzales 804524"
+        }
+      ]
+    },
+    {
+      "first_name": "Ixhelt",
+      "last_name": "Gonzalez",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "2004-06-01T00:00:00",
+        "hometown": {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        },
+        "education": "St. Francis de Sales High School (Chicago, Illinois) ‘22 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Daughter of Tomasa Gonzalez</p></li><li>Diagnosed with femoral anteversion, which causes her hips and feet to twist inward but does not require her to use a wheelchair in her daily life.</li><li><p>Her basketball journey began when she watched her big brother play, who has cerebral palsy.</p></li><li>Made the 2018 U.S. women's wheelchair basketball national team roster at age 13.  </li><li>Plays wheelchair softball in the offseason</li><li>Hobbies include singing, drawing, writing, gardening and traveling.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Women)</li><li>Paralympic Games Tokyo 2020, bronze (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2018, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661988/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/gonzalez_i_bio_1097224.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "4.5",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662820/TeamUSA%20Assets/Athlete%20Profiles/Ixhelt%20Gonzalez%201097224/gonzalez_i_hero_1097224.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712078330/TeamUSA%20Assets/Athlete%20Profiles/Ixhelt%20Gonzalez%201097224/Gonzalez_i_featured_1097224.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005854/TeamUSA%20Assets/Athlete%20Profiles/Ixhelt%20Gonzalez%201097224/Gonzalez_Ixhelt_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ixhelt Gonzalez 1097224"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Melissa",
+      "last_name": "Gonzalez",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1989-01-24T00:00:00",
+        "hometown": {
+          "city": "Mohegan Lake",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 41.3,
+          "longitude": -73.8667
+        },
+        "education": "Lakeland High School University of Connecticut",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Daughter of Felix and Yolanda Gonzalez<h5>Career Highlights</h5><ul>\r\n                            <li>2018: Retired from the U.S. Women&#39;s National Team with 241 international caps</li>\r\n                            <li>2018: Series against The Netherlands (Palo Alto, Calif.), Series against Canada (Chula Vista, Calif.), Series against Chile (Lancaster, Pa.), Series against Argentina (Tucuman, Argentina)</li>\r\n                            <li>2017 : The Hawke&#39;s Bay Cup (4th, Hawke&#39;s Bay, New Zealand), Series against Ireland (Lancaster, Pa.), Named MVP of Series against Ireland, International Festival of Hockey (4th, Melbourne, Australia), Named to 2017 Pan American Elite Team, Nominated for 2017 FIH Hockey Stars Awards Female Athlete of the Year</li>\r\n                            <li>2016: Series against Canada (Chula Vista, Calif.), Series against Chile (Lancaster, Pa.), Series against Holland (Hilversum, The Netherlands), Citi Rio Send-Off Series (Lancaster, Pa.)</li>\r\n                            <li>2015: Series against Argentina (Lancaster, Pa.), 8 Nations Tournament (5th, Hawke&#39;s Bay, New Zealand), Series against Ireland (Lancaster, Pa.), Series against Great Britain (Marlow, England), Series against Japan (Lancaster, Pa.)</li>\r\n                            <li>2013: Four Nations (Auckland, New Zealand)</li>\r\n                            <li>2010: Big East Conference Defensive Player of the Year, 2010 Finalist for the Honda Sports Award for Field Hockey, First Team All-American (UConn)</li>\r\n                            <li>2009: All-BIG EAST First Team, BIG EAST Defensive Player of the Year, NFHCA All-Mideast First Team, NFHCA All-America First Team (UConn), U.S. Junior World Cup Team</li>\r\n                            <li>2008: Member of the U.S. U-21 National Team, Junior National Camp Selection, Enters collegiate season as UConn&#39;s top returning scorer, NFHCA All-America Third Team, All-BIG EAST First Team (UConn)</li>\r\n                            <li>2007: BIG EAST All-Tournament Team, All-BIG EAST Second Team, NCAA All-Final Four Team, NFHCA All-Mideast Second Team (UConn)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li><li>Olympic Games London 2012, 12th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Gold - 2017 World League Semifinals (Johannesburg, South Africa), Named Best Player of the Tournament</li><li>Gold - 2015 Pan American Games (Toronto, Canada)</li><li>Gold - 2014 Champions Challenge (Glasgow, Scotland)</li><li>Gold - 2013 World League Round 2 (Rio de Janeiro, Brazil)</li><li>Gold - 2011 Pan American Games (Guadalajara, Mexico)</li><li>Silver - 2012 Champions Challenge I (Dublin, Ireland)</li><li>Bronze - 2017 Pan American Cup (Lancaster, Pa.)</li><li>Bronze - 2016 Champions Trophy (London, England)</li><li>4th - 2014 Rabobank Hockey World Cup (The Hague, The Netherlands)</li><li>5th - 2015 World League Round Semifinals (Valencia, Spain)</li><li>7th - 2017 World League Final (Auckland, New Zealand)</li><li>14th - 2018 Vitality Hockey Women's World Cup (London, England)</li></ul><h5>More</h5><p>The former University of Connecticut field hockey star earned her pivotal spot on the National Team in 2010. Gonzalez verified her importance at the 2011 Pan American Games by being a part of an outcome that made USA Field Hockey history. Gonzalez made her first Olympic Games appearance in the London 2012 Games and was a part of the 2014 Rabobank Hockey World Cup squad that impressed the world with a fourth place finish.</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927499/TeamUSA%20Assets/Migration/Athlete%20Profiles/Melissa%20Gonzalez/Gonzalez_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Melissa Gonzalez"
+        }
+      ]
+    }
+  ]
+}

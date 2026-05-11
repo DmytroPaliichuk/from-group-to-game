@@ -1,0 +1,1220 @@
+{
+  "entries": [
+    {
+      "first_name": "Lisa",
+      "last_name": "Fernandez",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1971-02-22T00:00:00",
+        "hometown": {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7701,
+          "longitude": -118.1937
+        },
+        "education": "Saint Joseph High School (Long Beach, Calif.) UCLA",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Emilia and Antonio Fernandez</li><li>Played both softball and basketball while attending UCLA</li><li>Was the first softball player to win the Honda-Broderick Cup in 1993, given to the most outstanding collegiate female athlete in all sports</li><li>Established an Olympic single-game strikeout record with 25 in a round-robin game at the Olympic Games Sydney 2000</li><li>Posted a .545 batting average, an Olympic record, during the Olympic Games Athens 2004</li><li>Coaches softball at her alma mater, UCLA</li><li>Has two sons, Antonio and Cruz.</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Athens 2004, gold (Team - Women)</li><li>Olympic Games Sydney 2000, gold (Team - Women)</li><li>Olympic Games Atlanta 1996, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2002 – gold (Team - Women)</li><li>Years of participation: Team - Women 1994, 1998, 2002</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2002 (Team - Women);  1998 (Team - Women);  1994 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240345/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20Lisa%20Fernandez/Fernandez_Cover.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000, 2004",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240347/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20Lisa%20Fernandez/Fernandez_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2012"
+        },
+        {
+          "title": "Olympian"
+        },
+        {
+          "title": "Lisa Fernandez 913356"
+        }
+      ]
+    },
+    {
+      "first_name": "Anthony",
+      "last_name": "Ferraro",
+      "bio": {
+        "height": "5'8\" ",
+        "birthday": "1995-03-24T00:00:00",
+        "hometown": {
+          "city": "Spring Lake",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.1587,
+          "longitude": -74.0435
+        },
+        "education": "St. John Vianney High School College of New Jersey",
+        "fun_fact": null,
+        "biography": "<h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 20th (73kg - Men)</li><li>Years of participation: 73kg - Men 2018</li><li>Top finish: 20th – 2018 (73kg - Men)</li></ul><h5>More</h5><p>A wrestler all four years in high school, Ferraro went on to compete at the College of New Jersey for two years before being forced to walk away from the sport and withdraw from college after a concussion. In 2017, Ferraro was introduced to judo with the goal of competing at the Paralympic Games.&nbsp;</p>\n<p>In 2012, the documentary film maker Christopher Suchorsky began interviewing and filming Ferraro wrestling journey and life story. This film ultimately became know as \"A Shot in the Dark.\" The film was released on Christmas Day 2018 and is now available for rent or purchase on Amazon Prime.</p>\n<p>Ferraro is an accomplished guitar player and motivational speaker. He supports himself by playing music at various dinner clubs and at select social engagements and by speaking engagements through the country. In his spare time he enjoys reading, music and the outdoors.&nbsp;</p>\n<p>In 2020, posted his first TikTok video (@asfvision) which soon went viral. With 1.2 mil followers, Ferraro has found himself a new audience within social media as he spreads his message of \"One Love!\"&nbsp;</p>\n<p><strong>Competition Highlights</strong>:</p>\n<p><strong>\n2022</strong>:</p>\n<p><strong>\n</strong></p>\n<li>Gold - USA Judo Blind and Visually Impaired National Championships</li>\n<p><strong><br>\n2019</strong>:</p>\n<p><strong>\n</strong></p>\n<li>Silver - USA Judo Blind and Visually Impaired National Championships&nbsp;</li>\n<p><strong><br>\n2018</strong>:</p>\n<li>Bronze - IBSA Infraero Grand Prix&nbsp;</li>\n<li>Bronze - German Open for the Blind and Visually Impaired</li>\n<p><strong><br>\n2017</strong>:</p>\n<p><strong>\n</strong></p>\n<li>Gold - USA Judo President's Cup (Visually Impaired)</li><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (J1/J2 73kg - Men)</li><li>ParaPan American Games, Lima, 2019 (73kg - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "J1",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367178/TeamUSA%20Assets/Migration/Athlete%20Profiles/Anthony%20Ferraro/ferraro_profile_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anthony Ferraro"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Ferreira",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1994-08-14T00:00:00",
+        "hometown": {
+          "city": "Aspen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.1911,
+          "longitude": -106.8175
+        },
+        "education": "Colorado Mountain College ‘21",
+        "fun_fact": "First skied moguls before switching to halfpipe",
+        "biography": "<h5><strong>Quick Facts:</strong></h5><ul><li><p><strong>Specialty: </strong>Halfpipe</p></li><li><p>Son of Marcelo and Colleen Ferreira</p></li><li><p>Began skiing at age three and started competitive skiing by age 10</p></li><li><p>First skied moguls before switching to halfpipe</p></li><li><p>Enjoys trampolining, hiking, biking, running, traveling and woodworking</p></li></ul><h5><strong>Biographical Information</strong></h5><p>Alex Ferreira began skiing at a young age, influenced by his parents' athletic backgrounds. His father, Marcelo, was a professional soccer player and his mother, Colleen, is a long-time marathon runner. He began competitive freeskiing at the age of 10 when his mother enrolled him in an aerials event without informing him.</p><p>Ferreira is a two-time Olympic medalist winning a silver medal at the Olympic Winter Games PyeongChang 2018 and a bronze medal at the Olympic Winter Games Beijing 2022. He has also secured multiple medals at the Winter X Games, including golds in Aspen in 2019, 2020 and 2024. In the 2023-24 season, Ferreira made history by becoming the first halfpipe skier to win every competition he entered, sweeping five world cups, X Games Aspen, and the Dew Tour.<wbr></p><p>Off the halfpipe, Ferreria loves the outdoor and cross-trains through a variety of exercises in cross-country skiing, rollerblading, mountain biking, cycling, trampoline and yoga. He also runs a YouTube channel in which he dresses up and skis as an older man who goes by the name of Hotdog Hans.</p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 1 silver, 1 bronze)</li><ul><li>Olympic Games Milan 2026, gold (Halfpipe - Men)</li><li>Olympic Games Beijing 2022, bronze (Halfpipe - Men)</li><li>Olympic Games Pyeongchang 2018, silver (Halfpipe - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – bronze (Halfpipe - Men)</li><li>Years of participation: Halfpipe - Men 2019, 2021, 2023, 2025</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2025 (Halfpipe - Men);  2023 (Halfpipe - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747367009/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Ferreira%20808012/ferreria_a_hero2_932763.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771618882/Ferreira_A_main_932763.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771618882/Ferreira_A_featured_932763.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747366676/TeamUSA%20Assets/Athlete%20Profiles/Alex%20Ferreira%20808012/ferreira_a_bio_932763_png.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Ferreira 808012"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Jenna",
+      "last_name": "Fesemyer",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1997-01-31T00:00:00",
+        "hometown": {
+          "city": "Ravenna",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.1578,
+          "longitude": -81.2415
+        },
+        "education": " University of Illinois at Urbana Champaign ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of David and Cindy Fesemyer</li><li>Born a triplet with brother Jonathan and sister Jessica</li><li>Born without a left leg and hip socket because of a rare congenital disease called proximal femoral focal deficiency</li><li>Got involved in wheelchair track in 2013 when the Ohio High School Athletic Association added wheelchair events to the state track meet</li><li>Grew up playing basketball and other sports with a prosthetic</li><li>Played varsity golf in high school</li><li>Hobbies include playing guitar, reading, being with her family and getting involved in school activities.</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 9th (5000m T54 - Women), 13th (Marathon T54 - Women), 15th (1500m T54 - Women)</li><li>Paralympic Games Tokyo 2020, 7th (5000m T54 - Women), 11th (Marathon T54 - Women), 12th (1500m T54 - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>2017 U.S Paralympic Track &amp; Field National Championships, 4th (100m, 200m, 400m, 800m)</li><li>2016 U.S. Paralympic Trials Team Trials – Track and Field, 4th (100m, 400m), 6th (800m)</li><li>2015 U.S. Paralympics Track &amp; Field National Championships, gold (discus), 5th place (200m), 6th (100m, 400m), 7th (800m)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661980/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/fesemyer_j_bio_860228.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T54",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686875062/NGB%20Para%20Track%20and%20Field/Migration/_Jenna-Fesemyer-REIS-1309.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003967/TeamUSA%20Assets/Athlete%20Profiles/Jenna%20Fesemyer%20860228/Fesemyer_Jenna_150x250_2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jenna Fesemyer 860228"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Kupono",
+      "last_name": "Fey",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1995-01-21T00:00:00",
+        "hometown": {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        },
+        "education": " Punahou School (2013) University of Hawaii (2017)",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Men)</li><li>Junior World Championships, 2015 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921635/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kupono%20Fey/2019-KuponoFey.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kupono Fey"
+        }
+      ]
+    },
+    {
+      "first_name": "Megumi",
+      "last_name": "Field",
+      "bio": {
+        "height": "5'6",
+        "birthday": "2005-10-15T00:00:00",
+        "hometown": {
+          "city": "Wilmington",
+          "state": "DE",
+          "country": "United States",
+          "latitude": 39.7459,
+          "longitude": -75.5466
+        },
+        "education": "Laurel Springs ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Megumi is half-Japanese.</li><li>Moved from coast to coast, from Delaware to California, with her mom for artistic swimming, she also has two younger sisters.</li><li><p>Started synchronized swimming at five years old</p></li><li><p>Participated in gymnastics, ballet and speed swimming before turning to synchronized swimming</p></li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Team - Open), 10th (Duet - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>2023 - Bronze medal (Technical Team), 7th Place (Technical Duet)</li></ul><h5>Career Highlights</h5><ul><li>2023 Canada World Cup: 2nd (Technical Team), 5th (Technical Duet)</li><li>2022 FINA World Series Super Final: 1st (Tech Team), 3rd (Tech Duet), 4th (Free Duet)</li><li>2022 FINA Artistic Swimming World Series Virtual Australia: 1st (Tech Team), 1st (Free Duet)</li><li>2022 FINA Artistic Swimming World Series Paris: 1st (Tech Team), 1st (Free Duet)</li><li>2022 FINA Artistic Swimming World Series Virtual USA/Canada: 1st (Highlight), 1st (Free Duet)</li><li>2022 U.S. senior national team duet squad</li><li>2021 Junior Pan American Games: 2nd (Team), 2nd (Highlight), 2nd (Duet)</li><li>2020-22 U.S. senior national team</li><li>2020-22 U.S. junior national team</li><li>2019 U.S. National Championships: 3rd (Combo)</li><li>2018 U.S. National Championships: 1st (Duet), 2nd (Figures), 3rd (Team), 3rd (Combo)</li><li>2017 UANA Pan American Championships: 2nd (Team), 1st (Duet), 1st (Solo), 1st (Figures)</li><li>2017 Junior Olympics 12U Grand Slam</li><li>2016 UANA Pan American Championships: 1st (Team)</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699115246/NGB%20Artistic%20Swimming/National%20Team/2023/Senior/PAG%20Photos/20231102_Ruby_Remati_Megumi_Field_KUSUMOTO-001-2.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685222946/NGB%20Artistic%20Swimming/Athlete%20Profiles/SNT%2023/23_Megumi_Field.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683140543/NGB%20Artistic%20Swimming/Migration/Athlete%20Profiles/Megumi%20Field/Field.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megumi Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Artistic Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Jacob",
+      "last_name": "Fielding",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2000-09-06T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "Ohio State University (2022)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bobbi and James Fielding</li><li>He has one sister, Myka</li><li>Jacob enjoys bowling and rock climbing</li><li>He in majoring in psychology</li><li>His mom and sister used to dive competitively</li><li>His mom trained with the Dumais brothers when she dove competitively</li><li>He started diving at age 3</li><li>Jacob shattered his elbow when he was six years old, so he is unable to extend it and bend it all the way. Through the help of both his parents and the Ohio State training staff, he has slowly regained the use of his elbow. He has also suffered from two ankle injuries</li><li>He competed in his first junior nationals in 2008 and his first senior nationals in 2015</li><li>He was crowned high school state champion in 2017 (California)</li><li>His favorite dive is a 5154B in the 3-meter event</li><li>Jacob changed his diet in preparation for the 2020 season and says he is probably in the best shape of his life</li><li>He considers the early mornings the hardest part about training</li><li>Before competition, Jacob will likely eat some fruit and some light carbs.</li><li>Outside of competition, he enjoys pizza</li><li>If Jacob was 8\" taller, he says he would be play football</li><li>He describes himself as dedicated, willing and committed</li><li>If Jacob could meet anyone , it would be Tom Hanks</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Kyiv, 2018 (1m Springboard - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325493/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jacob%20Fielding/JacobFieldingHeadshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jacob Fielding"
+        }
+      ]
+    },
+    {
+      "first_name": "Connor",
+      "last_name": "Fields",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1992-09-14T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "Green Valley High School (Henderson, Nev.) '10 University of Nevada, Las Vegas '18, Marketing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Michael and Lisa Fields</li><li>Began competing in BMX at age 7 after his mother saw a flyer advertising the local BMX track at a bike shop near their home in Las Vegas</li><li>His parents drove him to practice five nights per week, sometimes driving five hours so he could try new tracks and race against different people</li><li>Is a second-generation American</li><li>Has overcome multiple injuries, including a spleen laceration in 2009 and torn ligament in 2012</li><li>Met Canadian BMXer Tory Nyhaug at summer camp at age 8, and they have been best friends ever since</li><li>Supports the Make-a-Wish Foundation and JoyProm, which organizes proms for kids with special needs</li><li>Interests include playing fantasy football, cooking and snowboarding</li><li>His go-to indulgent snacks are donuts and fried chicken</li><li>Won the geography bee in 5th grade with the answer to the final question being Rio de Janeiro.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, 8th (Individual - Men)</li><li>Olympic Games Rio de Janeiro 2016, gold (Individual - Men)</li><li>Olympic Games London 2012, 7th (Individual - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 11th (Individual - Men)</li><li>Years of participation: Individual - Men 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019; Time trial - Men 2011, 2012, 2013, 2014, 2015</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2013 (Time trial - Men);  2012 (Time trial - Men)</li><li>Bronze – 2015 (Time trial - Men)</li></ul></ul><h5>More</h5><p>USA Cycling</p>\n<p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012410/TeamUSA%20Assets/Athlete%20Profiles/Connor%20Fields%20830316/Fields_Connor_081916_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012411/TeamUSA%20Assets/Athlete%20Profiles/Connor%20Fields%20830316/fields_connor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Connor Fields 830316"
+        }
+      ]
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Filia",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1992-07-06T00:00:00",
+        "hometown": {
+          "city": "Huntington Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6902,
+          "longitude": -118.0074
+        },
+        "education": "Edison High School (Huntington Beach, Calif.) ‘11 University of California, Los Angeles ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Selected in the 20th round of the 2016 MLB draft by the Seattle Mariners.<h5>Career Highlights</h5><ul>\r\n                            <li>Two-time MiLB.com Seattle Mariners Organization All-Star (2016, 2017)</li>\r\n                            <li>2017 AFL All-Prospect Team</li>\r\n                            <li>2017 AFL Dernell Stenson Sportsmanship Award</li>\r\n                            <li>2017 CAL Post-Season All-Star</li>\r\n                            <li>2016 NWL Post-Season All-Star</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012862/TeamUSA%20Assets/Athlete%20Profiles/Eric%20Filia%201220359/Filia_Eric_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eric Filia 1220359"
+        }
+      ]
+    },
+    {
+      "first_name": "Jennie",
+      "last_name": "Finch",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1980-09-03T00:00:00",
+        "hometown": {
+          "city": "La Mirada",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9106,
+          "longitude": -118.0106
+        },
+        "education": "University of Arizona",
+        "fun_fact": null,
+        "biography": "<p><strong>HEIGHT</strong> 6'1\"</p>\n<p><strong>COLLEGE </strong>University of Arizona</p>\n<p><strong>RETIRED </strong>Summer of 2010</p>\n<p>Visit Jennie Finch-Daigle's Website</p>\n<p><img alt=\"\" height=\"450\" width=\"300\" src=\"/-/media/USA_Softball/Images/Womens-National-Team/2008/Finch_300x450.jpg?la=en&amp;hash=7DBFF525A9456F638F5808ECF613528ED369F64F\"></p>\n<p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Beijing 2008, silver (Team - Women)</li><li>Olympic Games Athens 2004, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – gold (Team - Women)</li><li>Years of participation: Team - Women 2002, 2006, 2010</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2010 (Team - Women);  2006 (Team - Women);  2002 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325536/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jennie%20Finch/Finch.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jennie Finch"
+        }
+      ]
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Finch",
+      "bio": {
+        "height": "6'4",
+        "birthday": "1991-12-16T00:00:00",
+        "hometown": {
+          "city": "Ann Arbor",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.2808,
+          "longitude": -83.743
+        },
+        "education": "Auburn University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Majored in Wireless Engineering Hardware at Auburn University</li><li>Graduated in 2015 after learning about the sport by joining the Auburn Club team and men’s residency program</li><li>Competed with both the indoor and beach handball teams in 2019</li><li>Now focuses his athletic efforts on the beach team while working in the tech industry in Austin, Texas</li><li>Spends his free time training, reading, and roasting specialty coffee.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 ANOC World Beach Games - 11th (Doha, Qatar)</li>\r\n                            <li>2019 Elite National Championships - 4th</li>\r\n                            <li>2019 North American and Caribbean Handball Confederation Emerging Nations Tournament - 2nd (Dominican Republic)</li>\r\n                            <li>2019 Mexican Vulc&#225;n Cup - 3rd</li>\r\n                            <li>2018 North American and Caribbean Handball Confederation Championships - 5th</li>\r\n                            <li>2018 California Cup - 2nd</li>\r\n                            <li>2017 Carolina Blue Cup - 2nd</li>\r\n                            <li>2017 Elite National Championships - 5th</li>\r\n                            <li>2017 California Cup - 1st</li>\r\n                            <li>2016 Open National Championships - 2nd, Most Valuable Goalie</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325544/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eric%20Finch/Eric_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325546/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eric%20Finch/Eric_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eric Finch"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Finchum",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1989-12-01T00:00:00",
+        "hometown": {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.7684,
+          "longitude": -86.1581
+        },
+        "education": "Belmont University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>OLYMPIC EXPERIENCE: 2008</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 5th (10m Platform Synchro - Men), 12th (10m Platform - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2009 – silver (10m Platform Synchro - Men)</li><li>Years of participation: 10m Platform Synchro - Men 2007, 2009; 10m Platform - Men 2005, 2007</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2009 (10m Platform Synchro - Men)</li><li>Bronze – 2007 (10m Platform Synchro - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697246/TeamUSA%20Assets/Migration/Athlete%20Profiles/Thomas%20Finchum%20905132/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697248/TeamUSA%20Assets/Migration/Athlete%20Profiles/Thomas%20Finchum%20905132/FINCHUM-THOMAS.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Thomas Finchum 905132"
+        }
+      ]
+    },
+    {
+      "first_name": "Nic",
+      "last_name": "Fink",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1993-07-03T00:00:00",
+        "hometown": {
+          "city": "Morristown",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.7965,
+          "longitude": -74.4807
+        },
+        "education": "University of Georgia ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Peter and Danielle Fink</li><li>Swam at the University of Georgia for four years.</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 3-time Olympic medalist (1 gold, 2 silver)</li><ul><li>Olympic Games Paris 2024, gold (4 x 100m Medley Relay - Mixed), silver (100m Breaststroke - Men, 4 x 100m Medley Relay - Men)</li><li>Olympic Games Tokyo 2020, 5th (200m Breaststroke - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (4 x 100m Medley Relay - Men), silver (100m Breaststroke - Men, 50m Breaststroke - Men), bronze (4 x 100m Medley Relay - Mixed)</li><li>Years of participation: 100m Breaststroke - Men 2013, 2015, 2023; 4 x 100m Medley Relay - Men 2013, 2023; 4 x 100m Medley Relay - Mixed 2023; 50m Breaststroke - Men 2023; 100m Breaststroke (SC) - Men 2016, 2021, 2022; 200m Breaststroke (SC) - Men 2016, 2021, 2022; 4 x 100m Medley Relay (SC) - Men 2016, 2021, 2022; 4 x 50m Medley Relay (SC) - Men 2021, 2022; 4 x 50m Medley Relay (SC) - Mixed 2021, 2022; 50m Breaststroke (SC) - Men 2021, 2022; 100m Individual Medley (SC) - Men 2021; 200m Breaststroke - Men 2015, 2017</li><li>Medals: 16 (8 gold, 6 silver, 2 bronze)</li><ul><li>Gold – 2023 (4 x 100m Medley Relay - Men);  2022 (100m Breaststroke (SC) - Men, 4 x 100m Medley Relay (SC) - Men, 4 x 50m Medley Relay (SC) - Mixed, 50m Breaststroke (SC) - Men);  2021 (200m Breaststroke (SC) - Men, 4 x 50m Medley Relay (SC) - Men, 50m Breaststroke (SC) - Men)</li><li>Silver – 2023 (100m Breaststroke - Men, 50m Breaststroke - Men);  2022 (200m Breaststroke (SC) - Men, 4 x 50m Medley Relay (SC) - Men);  2021 (4 x 100m Medley Relay (SC) - Men, 4 x 50m Medley Relay (SC) - Mixed)</li><li>Bronze – 2023 (4 x 100m Medley Relay - Mixed);  2021 (100m Breaststroke (SC) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662793/TeamUSA%20Assets/Athlete%20Profiles/Nic%20Fink%20798772/Fink_N_Bio_798772.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662603/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Fink_N_Hero_798772.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330104/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nic%20Fink/fink_nic_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nic Fink"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Bobby",
+      "last_name": "Finke",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1999-11-06T00:00:00",
+        "hometown": {
+          "city": "Clearwater",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9659,
+          "longitude": -82.8001
+        },
+        "education": "University of Florida",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jeanne and Joe Finke</li><li>His mother swam for Ball State University and his father is a swim coach with St. Petersburg Aquatics</li><li>He has two older sisters; Autumn who swam for the University of Florida and Ariel who swam for Florida State University</li><li>Hobbies include playing video games and table tennis</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 4-time Olympic medalist (3 gold, 1 silver)</li><ul><li>Olympic Games Paris 2024, gold (1500m Freestyle - Men), silver (800m Freestyle - Men)</li><li>Olympic Games Tokyo 2020, gold (1500m Freestyle - Men, 800m Freestyle - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (1500m Freestyle - Men), bronze (800m Freestyle - Men)</li><li>Years of participation: 1500m Freestyle - Men 2017, 2023; 800m Freestyle - Men 2023</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2023 (1500m Freestyle - Men)</li><li>Bronze – 2023 (800m Freestyle - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712594087/TeamUSA%20Assets/Media%20Summit%20Athletes/Bobby%20Finke/Finke_Bobby_GettyLAShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662283/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/finke_b_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330245/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bobby%20Finke/finke_bobby_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bobby Finke"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "Finley",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1990-10-07T00:00:00",
+        "hometown": {
+          "city": "Chaffee County",
+          "state": "CO",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "University of Wyoming ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jared and Lisa Finley</li><li>Has two sisters, Matia and Rebecca</li><li>Joined the University of Wyoming in the summer of 2012 after three years at the University of Kansas</li><li>Eight-time NCAA All-American</li><li>Won gold medals in both the shot put and discus throw at the 2009 Pan American Junior Championships</li><li>Favorite professional sport teams are the Kansas City Chiefs (NFL), Denver Nuggets (NBA) and Kansas City Royals (MLB).</li></ul><h5>Career Highlights</h5><ul><li>2014 NCAA Outdoor Championships, 6th (discus throw)</li><li>2014 NCAA Indoor Championships, 4th (shot put)</li><li>2014 NCAA Outdoor Championships, 2nd (discus throw)</li><li>2012 NCAA Outdoor Championships, 6th (shot put)</li></ul><h5>More</h5><p>USA Track and Field</p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 23th (Discus Throw - Men)</li><li>Olympic Games Rio de Janeiro 2016, 11th (Discus Throw - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – bronze (Discus Throw - Men)</li><li>Years of participation: Discus Throw - Men 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Discus Throw - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662236/TeamUSA%20Assets/Athlete%20Profiles/Mason%20Finley%20874910/Finley_M_Bio_874910.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662675/TeamUSA%20Assets/Athlete%20Profiles/Mason%20Finley%20874910/Finley_M_Hero_874910.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012498/TeamUSA%20Assets/Athlete%20Profiles/Mason%20Finley%20874910/finley_mason_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mason Finley 874910"
+        }
+      ]
+    },
+    {
+      "first_name": "Aleah",
+      "last_name": "Finnegan",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2003-01-04T00:00:00",
+        "hometown": {
+          "city": "Lees Summit",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.91,
+          "longitude": -94.383
+        },
+        "education": "Summit Christian Academy (Lees Summit, Mo.) ‘21 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Daughter of Don Finnegan.<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women, Floor Exercise - Women, Vault - Women)</li></ul><h5>More</h5>USA Gymnastics<h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 18th (Vault - Women), 32th (Individual All-Around - Women), 34th (Floor Exercise - Women), 38th (Beam - Women), 73th (Uneven Bars - Women)</li><li>Years of participation: Beam - Women 2023; Floor Exercise - Women 2023; Individual All-Around - Women 2023; Uneven Bars - Women 2023; Vault - Women 2023</li><li>Top finish: 18th – 2023 (Vault - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 17th (Vault - Women), 37th (Floor Exercise - Women), 47th (Individual All-Around - Women), 58th (Uneven Bars - Women), 71th (Beam - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721427/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aleah%20Finnegan%201144393/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682721428/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aleah%20Finnegan%201144393/finnegan_aleah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aleah Finnegan 1144393"
+        }
+      ]
+    },
+    {
+      "first_name": "Aria",
+      "last_name": "Fischer",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1999-03-02T00:00:00",
+        "hometown": {
+          "city": "Laguna Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.542,
+          "longitude": -117.783
+        },
+        "education": "Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Leslie and Erich Fischer</li><li>Has one sister, Makenzie, who is also a fellow 2016 Olympic gold medalist and competes with Aria at Stanford and on the U.S. Women’s National Water Polo Team</li><li>Father represented Team USA at the 1992 Olympic Games in water polo</li><li>Mother played for the Stanford Cardinal women's water polo team when it was a club sport</li><li>Enjoys creative writing, reading and traveling.</li></ul><p></p><h5>More</h5><p>USA Water Polo</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2017, 2019</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2019 (Team - Women);  2017 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661995/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/fischer_a_bio_880624.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662453/TeamUSA%20Assets/Athlete%20Profiles/Aria%20Fischer%20880624/fischer_a_hero_880624.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012796/TeamUSA%20Assets/Athlete%20Profiles/Aria%20Fischer%20880624/Fischer_Aria_150x250_tokyo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aria Fischer 880624"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Fischer",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1990-09-01T00:00:00",
+        "hometown": {
+          "city": "Simi Valley",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.2694,
+          "longitude": -118.7815
+        },
+        "education": " Loyola Marymount - 2012",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: arial;\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\" style=\"width: 100px; height: 100px; float: right;\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\" style=\"width: 100px; height: 100px; float: right;\"># 52<br>\nHeight: 5' 11\"\n<br>\nPosition: Infield\n<br>\nHometown: Simi Valley, Calif.\n<br>\nSchool: Loyola Marymount\n<br>\nGraduation: 2012</span></p>\n<p><span style=\"font-family: arial;\"><img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/WNT-Gallery/Sam-Fischer/Fischer7.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=A1F1AFB73C95FCBFA25C55D2A4D4D0C716EA4287\"><br>\n<br>\n<iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/_JSc7uhiK5A\" frameborder=\"0\"></iframe>\n<br>\n<br>\n<strong style=\"font-family: arial;\"><span style=\"font-size: 24px; color: #7f7f7f;\">EXPERIENCE</span></strong><br style=\"font-family: arial;\">\n<strong style=\"font-family: arial;\">2016 Women's Elite Team Member&nbsp;</strong><br style=\"font-family: arial;\">\n- World Cup of Softball participant<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .267 (4-for-15) with one home run, three RBI and two runs scored<br style=\"font-family: arial;\">\n<br>\n<strong style=\"font-family: arial;\">2015 Women's National Team Member&nbsp;</strong><br style=\"font-family: arial;\">\n- World Cup Gold Medalist<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .400 (2-for-5) with one home run, three RBI and one run scored<br style=\"font-family: arial;\">\n- Japan Cup Gold Medalist<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .600 (3-for-5) with one RBI<br style=\"font-family: arial;\">\n<br>\n<strong style=\"font-family: arial;\">2014 Women's National Team Member&nbsp;</strong><br style=\"font-family: arial;\">\n- World Cup Gold Medalist<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .200 (3-for-15) with one run scored and three singles<br style=\"font-family: arial;\">\n- Silver Medalist at ISF World Championship<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .348 (8-for-23) with two HR, nine RBI and four runs scored<br style=\"font-family: arial;\">\n<br>\n<strong style=\"font-family: arial;\">2012 Women's National Team Member&nbsp;</strong><br style=\"font-family: arial;\">\n- Silver Medalist at ISF World Championships<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .282 (6-for-20) with two HR, eight RBI and seven runs scored<br style=\"font-family: arial;\">\n- World Cup of Softball Champion<br style=\"font-family: arial;\">\n<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>- Hit .412 (7-for-17) with two HR, seven RBI and two runs scored<br>\n<span style=\"font-size: 24px; color: #7f7f7f;\"><br>\n<strong>AT LOYOLA MARYMOUNT</strong></span><br>\n2012 Second Team NFCA All-American<br>\n2012 PCSC Coastal Division Player of the Year<br>\n2012 Unanimous First Team PCSC<br>\n2011 First Team All-PCSC<br>\n2010 PCSC Coastal Division Co-Player of the Year<br>\n2010 First Team All-PCSC<br>\n2009 Second Team All-PCSC<br>\n<span style=\"font-size: 24px; color: #7f7f7f;\"><br>\n<strong>GETTING TO KNOW FISCHER</strong></span><br>\nThree things I hate doing: Washing dishes, waking up early, eating vegetables<br>\nThree favorite athletes: Josh Hamilton, Derek Jeter, Saquille O'Neal<br>\nThree favorite books: Harry Potter, The Truth about Forever, The Last Song<br>\n</span>\n</p><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – silver (Team - Women)</li><li>Years of participation: Team - Women 2012, 2014</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2014 (Team - Women);  2012 (Team - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697224/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sam%20Fischer%20907857/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697226/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sam%20Fischer%20907857/FischerSam_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Fischer 907857"
+        }
+      ]
+    },
+    {
+      "first_name": "Makenzie",
+      "last_name": "Fischer",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-03-29T00:00:00",
+        "hometown": {
+          "city": "Laguna Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.542,
+          "longitude": -117.783
+        },
+        "education": "Stanford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Leslie and Erich Fischer</li><li>Has one sister, Aria, who is also a fellow 2016 Olympic gold medalist and competes with Makenzie at Stanford and on the U.S. Women’s National Water Polo Team</li><li>Father represented Team USA at the 1992 Olympic Games in water polo</li><li>Mother played for the Cardinal women's water polo team when it was a club sport</li><li>Passionate about the environment</li><li>Nickname is “Fish.”</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games Toronto 2015, gold</li></ul><h5>More</h5><p>USA Water Polo</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women)</li><li>Years of participation: Team - Women 2015, 2017, 2019</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2019 (Team - Women);  2017 (Team - Women);  2015 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661996/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/fischer_m_bio_863460.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335540/TeamUSA%20Assets/Migration/Athlete%20Profiles/Makenzie%20Fischer%20%20863460/Fischer_Mackenzie_150x250_tokyo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Makenzie Fischer 863460"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Fischnaller",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1993-03-16T00:00:00",
+        "hometown": {
+          "city": "Lake Placid",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 44.279,
+          "longitude": -73.9794
+        },
+        "education": " ",
+        "fun_fact": "Married to Italian men’s luger and Olympic medalist Dominik Fischnaller",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Larry and Suzan Sweeney</li><li>Older sister, Megan, competed in luge at the Olympic Winter Games Vancouver 2010</li><li>Dad's side of the family grew up near Lake Placid, New York<ul><li>Her grandmother drove the Swiss bobsled team from the Olympic village to the bobsled track during the Olympic Winter Games Lake Placid 1980</li></ul></li></ul><ul><li>Favorite movies include <span>Miracle and Molly’s Game</span></li></ul><ul><li>Big fan of Taylor Swift and Kelly Clarkson</li><li>Hobbies: Cooking and being in nature</li></ul><h5>Biographical Information</h5><p>Emily Fischnaller (née Sweeney) started luge at age 10 when she was found in a \"slider search\" by USA Luge in Rhode Island. She made her debut on the FIL World Cup tour at age 16 and just missed making the 2010 U.S. Olympic Team when Sweeney lost in a special run-off against her older sister, Megan for the final U.S. Olympic women's luge spot to the Olympic Winter Games Vancouver 2010.</p><p>Sweeney made her Olympic debut in 2018 and crashed on her fourth and final run in the women’s singles event fracturing both her back and neck. Sweeney did not resume training until six months after the crash while also dealing with depression saying: \"<span>It (the crash) broke me in a lot of ways. After that, I had fear.\" In the season she returned to the track, she would win a bronze medal at the 2019 FIL World Championship, a result she would repeat 2025 FIL World Championships, becoming only the second American to claim multiple singles medals in luge.</span></p><p><span>Sweeney is an U.S. Army veteran, serving 10+ years in New York and Colorado. She started a non-profit, Champions 4 Changes, which connects Olympians and&nbsp;</span>Paralympians with programs for individuals with disabilities to empower through movement through virtual exercise.</p><p><span>She married&nbsp;</span><span>Italian men’s luger and 2022 Olympic bronze medalist Dominik Fischnaller in May 2025, and they built a house together in Meransen, Italy.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Milan 2026, 12th (Single - Women)</li><li>Olympic Games Beijing 2022, 26th (Single - Women)</li><li>Olympic Games Pyeongchang 2018,  (Single - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – bronze (Single - Women), 4th (Team - Relay - Mixed)</li><li>Years of participation: Single - Women 2013, 2015, 2016, 2017, 2019, 2021, 2024, 2025; Team - Relay - Mixed 2019, 2025; Sprint - Single - Women 2017, 2019</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2025 (Single - Women);  2019 (Single - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662066/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Sweeney_e_bio_809580.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Luge",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662547/TeamUSA%20Assets/Athlete%20Profiles/Emily%20Sweeney%20809580/sweeney_e_hero_809580.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1701368013/TeamUSA%20Assets/News/Sweeney_Emily_Innsbruck_2022.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747362700/TeamUSA%20Assets/Athlete%20Profiles/Emily%20Sweeney%20809580/sweeney_emily_809580_bio.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Luge"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Megan",
+      "last_name": "Fisher",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1983-03-01T00:00:00",
+        "hometown": {
+          "city": "Missoula",
+          "state": "MT",
+          "country": "United States",
+          "latitude": 46.8721,
+          "longitude": -113.994
+        },
+        "education": "Hinsdale Central High School (Hinsdale, Ill.) ’01 University of Montana ’06, Athletic Training; University of Washington ’14, Doctorate in Physical Therapy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>A natural athlete, Fisher played able-bodied tennis as a freshman the University of Montana and lettered in tennis, basketball and softball in high school. When she was 19 years old, Megan was involved in a tragic car accident that stole the life of her best friend and the lower half of her left leg. At the 2013 UCI Para-Cycling Road World Championships in Baie-Comeau, Canada, Fisher claimed both the road race and time trial titles, and just 11 days later, she raced to victory at the International Triathlon Union Paratriathlon World Championships in London. Her outstanding cycling fitness was evident, as she recorded the fastest bike split of all TRI-5 competitors by more than three minutes</li><li>Daughter of Brooks and Sara Fisher</li><li>Hobbies include playing with her dog (Betsy), hiking, mountain biking, cross country skiing, sledding, rollerblading, fishing, reading, and making crepes.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 4-time Paralympic medalist (1 gold, 2 silver, 1 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (C4 - Time Trial - Women), bronze (C4 - 3km Pursuit - Women), 9th (C4-5 - 500m Time Trial - Women), 12th (C4-5 - Road Race - Women)</li><li>Paralympic Games London 2012, gold (C4 - Time Trial - Women), silver (C4 - 3km Pursuit - Women), 9th (C4-5 - 500m Time Trial - Women), 15th (C4-5 - Road Race - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – 4th (C4 - 3km Pursuit - Women), 5th (C4 - 500m Time Trial - Women), 13th (C1-5 Team Sprint - Open)</li><li>Years of participation: C1-5 Team Sprint - Open 2015, 2016; C4 - 3km Pursuit - Women 2015, 2016; C4 - 500m Time Trial - Women 2015, 2016; C4 - Road Race - Women 2010, 2011, 2013, 2014, 2015; C4 - Time Trial - Women 2010, 2011, 2013, 2014, 2015; TRI-5 - Women 2013</li><li>Medals: 10 (6 gold, 2 silver, 2 bronze)</li><ul><li>Gold – 2014 (C4 - Time Trial - Women);  2013 (C4 - Road Race - Women, C4 - Time Trial - Women, TRI-5 - Women);  2010 (C4 - Road Race - Women, C4 - Time Trial - Women)</li><li>Silver – 2015 (C4 - 3km Pursuit - Women);  2011 (C4 - Time Trial - Women)</li><li>Bronze – 2015 (C4 - Time Trial - Women);  2011 (C4 - Road Race - Women)</li></ul></ul><h5>More</h5><p>Personal Website</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697240/TeamUSA%20Assets/Migration/Athlete%20Profiles/Megan%20Fisher%20840402/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "WC4",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697241/TeamUSA%20Assets/Migration/Athlete%20Profiles/Megan%20Fisher%20840402/Fisher_Megan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Megan Fisher 840402"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Fithian",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1985-12-13T00:00:00",
+        "hometown": {
+          "city": "McPherson",
+          "state": "KS",
+          "country": "United States",
+          "latitude": 38.3667,
+          "longitude": -97.6667
+        },
+        "education": "McPherson High School Binghamton University & Emporia State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Grew up in Kansas</li><li>Graduated from his high school as the all-time leading scorer and a state champion in basketball, as well as a two-time state champion soccer goalkeeper</li><li>Attended Binghamton University and played basketball for two years</li><li>Became a two-sport athlete at Emporia State University, playing both basketball and baseball (a career .500 hitter)</li><li>Was named Mr. Kansas Basketball and Kansas Gatorade Player of the Year in 2004</li><li>Began playing handball with the New England Freeze (now the Boston Team Handball Club) in 2008</li><li>Moved to Germany in 2009 to play professionally for three years</li><li>Moved up a German handball league each year until he decided to move back to the States to start a family</li><li>Still trains full-time and represents the New York Athletic Club&#39;s handball team</li><li>Works for the world’s #1 handball sports apparel company, Hummel</li><li>Resides in New Hampshire with wife Jennifer and two children, Charlotte Mae and Jackson.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Guadalajara, 2011 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697233/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jordan%20Fithian%20910862/Jordan_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697234/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jordan%20Fithian%20910862/Fithian_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jordan Fithian 910862"
+        }
+      ]
+    }
+  ]
+}

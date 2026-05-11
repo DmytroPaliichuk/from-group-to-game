@@ -1,0 +1,964 @@
+{
+  "entries": [
+    {
+      "first_name": "Jacob",
+      "last_name": "Welsh",
+      "bio": {
+        "height": "6' 0\"",
+        "birthday": "2006-02-24T00:00:00",
+        "hometown": {
+          "city": "Atherton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4616,
+          "longitude": -122.2008
+        },
+        "education": "Dwight Global",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Anne and Joe Welsh</li><li>His twin brother, Zach, is also a diver</li><li>Enjoys surfing, skateboarding, drawing, and rubix cubing</li><li>Favorite dive is an inward dive pike</li><li>The hardest part about training for him is getting over the fear of learning new dives, especially on platform</li><li>Likes to have a big meal the night before a meet (his favorite meal is Japanese food)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362484/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jacob%20Welsh/Jake-Welsh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jacob Welsh"
+        }
+      ]
+    },
+    {
+      "first_name": "Zach",
+      "last_name": "Welsh",
+      "bio": {
+        "height": "5' 9\"",
+        "birthday": "2006-02-24T00:00:00",
+        "hometown": {
+          "city": "Atherton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4616,
+          "longitude": -122.2008
+        },
+        "education": "Dwight Global",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Anne and Joe Welsh</li><li>His twin brother, Jake, is also a diver</li><li>Enjoys surfing, skiing and video games</li><li>Started diving at age 8 and used to be a competitive swimmer</li><li>Favorite dive is 5152B on 3-meter</li><li>Listens to a mix of rap and pop music while at competitions</li><li>The hardest part of training for Zach is the mental aspect of the sport</li><li>Favorite diver is Brandon Loschiavo</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362487/TeamUSA%20Assets/Migration/Athlete%20Profiles/Zach%20Welsh/Zachary-Welsh_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zach Welsh"
+        }
+      ]
+    },
+    {
+      "first_name": "Zach",
+      "last_name": "Werenski",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1997-07-19T00:00:00",
+        "hometown": {
+          "city": "Grosse Pointe Woods",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.4317,
+          "longitude": -82.9099
+        },
+        "education": "University of Michigan",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Defenseman</li><li>Son of Kristen and Ken Werenski</li></ul><h5>Biographical Information</h5><p>Zach Werenski grew up in Grosse Pointe, Michigan, and after playing youth hockey in Detroit, played one season with USA Hockey’s National Team Development Program in nearby Ann Arbor. Werenski then attended the University of Michigan for two seasons, where he was the Big Ten Defensive Player of the Year and NCAA First Team All-American in his final season with the Wolverines.&nbsp;</p><p>Werenski was a first-round pick (eighth overall) by the Columbus Blue Jackets in the 2015 NHL Draft and has played his whole NHL career with the team.&nbsp;</p><p>Werenski made his IIHF World Championship debut with the U.S. in 2019 and was a member of the gold medal team at the 2025 IIHF Men's World Championships. Werenski also played for the U.S. at the 2025 4 Nations Face-Off.&nbsp;</p><p>Werenski had a career season in 2024-25, finishing as the runner-up for the 2025 Norris Trophy. He set Blue Jackets single-season records at the position in points, goals, assists and average ice time.</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Men)</li><li>Years of participation: Team - Men 2019, 2024, 2025</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2025 (Team - Men)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770597872/Werenski_Z_bio_804107.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770597873/Werenski_Z_main_804107.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770597873/Werenski_Z_thumbnail_804107.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Zach Werenski"
+        }
+      ]
+    },
+    {
+      "first_name": "Wendy",
+      "last_name": "Werthaiser",
+      "bio": {
+        "height": "4'11\"",
+        "birthday": "1969-04-15T00:00:00",
+        "hometown": {
+          "city": "Ashland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 42.194,
+          "longitude": -122.7094
+        },
+        "education": "Smoky Hill High School (Aurora, Colo.) ‘87 University of Northern Colorado ‘92, Communications and Education; Southern Oregon University '06, Language Arts",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Sharp began losing her eyesight from a degenerative disease called Cone-Rod Dystrophy. She is a middle school teacher</li><li>Daughter of Martin Werthaiser and Ellen Haskell</li><li>Has one sister, Nichole</li><li>Has three children, Anna, Asher and Noah.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (Tandem B - 1000m Time Trial - Women, Tandem B - 3km Pursuit - Women, Tandem B - Road Race - Women, Tandem B - Time Trial - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "WB",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012000/TeamUSA%20Assets/Athlete%20Profiles/Wendy%20Werthaiser%201150780/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Wendy Werthaiser 1150780"
+        }
+      ]
+    },
+    {
+      "first_name": "Kendall",
+      "last_name": "Wesenberg",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1990-08-23T00:00:00",
+        "hometown": {
+          "city": "Modesto",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.6391,
+          "longitude": -120.9969
+        },
+        "education": " University of Colorado at Boulder, Business Administration",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Began sliding in 2010 after watching the Vancouver Olympics, but then took time off to finish school before returning to the ice</li><li>Became first American woman to win European Cup during 2014-2015 season</li><li>Has two fake teeth</li><li>Skis and snowboards</li><li>Bungee jumped off of the Bloukrans Bridge</li><li>Her college friends made up a game called &quot;Biscuit Challenges.&quot; She currently has eight biscuits.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019-2020 Women&#39;s Skeleton World Cup- 6th in Lake Placid #1 (12/19); 5th in Lake Placid #2 (12/19); 17th in Winterberg (1/20); 17th in La Plagne (1/20); 14th in Igls (1/20); 14th in Koenigssee (1/20)</li>\r\n                            <li>2018-2019 Women&#39;s Skeleton World Cup- 11th in Sigulda (12/18); 15th in Winterberg (12/18); 9th in Altenberg (1/19); 12th in Igls (1/19); 7th in St. Moritz (1/19); BRONZE in Lake Placid (2/19); 8th in Calgary #1 (2/19); 9th in Calgary #2 (2/19)</li>\r\n                            <li>2018-2019 Women&#39;s Skeleton North American Cup- 5th in Whistler (11/18); GOLD in Whistler (11/18)</li>\r\n                            <li>2017-2018 Women&#39;s Skeleton World Cup- T-14th in Lake Placid (11/17); 12th in Park City (11/17); 15th in Whistler (11/17); 25th in Winterberg (12/17); 8th in Igls (12/17)</li>\r\n                            <li>2016-2017 Women&#39;s Skeleton World Cup -&#160;19th in Whistler (12/16); 13th in Lake Placid (12/16); 14th in Altenberg (1/17); 10th in Winterberg (1/17); SILVER in St. Moritz (1/17); 19th in Koenigssee (1/17); 18th in Igls (2/17); 11th in PyeongChang (3/17)</li>\r\n                            <li>2015-2016 Women&#39;s Skeleton World Cup -&#160;18th in Altenberg (11/15); 12th in Winterberg (12/15); 14th in Koenigssee (12/15); 9th in Lake Placid (1/16);  5th in Park City (1/16); 16th in Whistler (1/16); 8th in St. Moritz (2/16)</li>\r\n                            <li>2014-2015 Women&#39;s Skeleton European Cup -&#160;9th in Igls #2 (1/15); 8th in Igls #1 (1/15); SILVER in St. Moritz (1/15); SILVER in Winterberg (12/14); 4th in Koenigssee #2 (11/14); 4th in Koenigssee #1 (11/14); 4th in Lillehammer #2 (11/14); GOLD in Lillehammer #1 (11/14)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 17th (Individual - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 13th (Individual - Women)</li><li>Years of participation: Individual - Women 2016, 2017, 2019, 2020, 2021, 2023; Team Competition - Mixed 2016, 2017, 2019, 2020</li><li>Top finish: 4th – 2019 (Team Competition - Mixed)</li></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Skeleton",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694887/JKR_5653_1.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694887/JKR_5653_1.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682694887/JKR_5653_1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendall Wesenberg 803349"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Greg",
+      "last_name": "West",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1985-06-13T00:00:00",
+        "hometown": {
+          "city": "Springfield",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 37.2153,
+          "longitude": -93.2982
+        },
+        "education": "Baker University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>2018 USA Skeleton men&#39;s National Champion</li><li>Began sliding skeleton in 2011 after watching the 2010 Vancouver Olympics</li><li>Has surfed the three major oceans</li><li>Self-proclaimed Ping Pong aficionado</li><li>Go kart savant</li><li>Putt putt golf connoisseur</li><li>Amateur travel agent</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2019 (Individual - Men)</li><li>World Cup, 2018 (Individual - Men)</li><li>World Cup, 2012 (Individual - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – bronze (Team Competition - Mixed), 16th (Individual - Men)</li><li>Years of participation: Individual - Men 2019; Team Competition - Mixed 2019</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2019 (Team Competition - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Skeleton",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686329265/TeamUSA%20Assets/Migration/Athlete%20Profiles/Greg%20West/mollychomaphoto-USABS2018Headshots-46.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Greg West"
+        }
+      ]
+    },
+    {
+      "first_name": "Tucker",
+      "last_name": "West",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1995-06-15T00:00:00",
+        "hometown": {
+          "city": "Ridgefield",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.2751,
+          "longitude": -73.4904
+        },
+        "education": "Union College (New York)",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul><li>3 World Cup victories; 10 World Cup medals total</li><li>9-time National Indoor Start Champion</li><li>In 2011, youngest to ever win a national championship</li><li>Gold medal in team relay at 2012 Youth Olympic Games</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Beijing 2022, 13th (Single - Men)</li><li>Olympic Games Pyeongchang 2018, 26th (Single - Men)</li><li>Olympic Games Sochi 2014, 22th (Single - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 12th (Single - Men)</li><li>Years of participation: Single - Men 2015, 2016, 2017, 2019, 2020, 2021, 2023, 2024, 2025; Sprint - Single - Men 2016, 2017, 2021, 2023, 2024; Team - Relay - Mixed 2017, 2020, 2021, 2023, 2024</li><li>Medals: 3 (2 silver, 1 bronze)</li><ul><li>Silver – 2024 (Team - Relay - Mixed);  2017 (Team - Relay - Mixed)</li><li>Bronze – 2020 (Team - Relay - Mixed)</li></ul></ul><h5>More</h5><p><strong>BEST EVER RESULTS</strong></p><ul><li>3 World Cup gold medals in singles; 10 total World Cup singles medals to date</li><li>Silver medal in 2019 Lake Placid World Cup singles race</li><li>Silver medal in 2019 Lake Placid World Cup sprint race</li><li>Silver medal in 2017 World Championship team relay</li><li>10 World Cup team relay medals (2 more in World Championships)</li><li>9-time Norton USA Luge Start Champion, including youngest ever</li><li>Gold medal in team relay at 2012 Youth Olympic Games</li><li>U23 gold medal at 2016 Koenigssee World Championships (singles)</li><li>Silver medal in 2017 Igls, Austria World Championship team relay</li><li>Silver medals in 2020 Oberhof, Germany and Koenigssee, Germany World Cup team relays (with Summer Britcher, Chris Mazdzer/Jayson Terdiman)</li><li>Bronze medal in 2020 Sochi, Russia World Championship team relay (with Summer Britcher, Chris Mazdzer/Jayson Terdiman)</li></ul><p><strong><br bold=\"[object Object]\"></strong><strong>PERSONAL INFO</strong></p><ul><li>Saw luge on TV during 2002 Winter Olympics; father, Brett, then built a backyard track for Tucker at home</li><li>Finished 22nd at the 2014 Olympic Winter Games in Sochi, Russia</li><li>Finished 26th at the 2018 Olympic Winter Games in Pyeongchang, South Korea</li><li>3 World Cup victories</li><li>Completed degree from University of Fla.</li></ul><p>&nbsp;</p><p><strong>2021-2022</strong></p><ul><li>Won team record 9th Norton USA Luge Start Championship</li><li>Won fall national team seeding races</li><li>21st place in Beijing, China World Cup singles race</li><li>Silver medal in Beijing, China World Cup team relay (with Ashley Farquharson, Chris Mazdzer, Jayson Terdiman)</li><li>17th place in Sochi, Russia (1) World Cup singles race</li><li>8th place in Sochi, Russia (1) World Cup team relay (with Summer Britcher, Chris Mazdzer, Jayson Terdiman)</li><li>16th place in Sochi, Russia (2) World Cup singles race</li><li>24th place in Altenberg, Germany World Cup singles race</li><li>17th place in Igls, Austria World Cup singles race</li><li>DNQ for Igls, Austria World Cup sprint race</li><li>23rd place in Winterberg, Germany World Cup singles race</li><li>Bronze medal in Winterberg, Germany World Cup team relay (with Summer Britcher, Chris Mazder, Jayson Terdiman)</li><li>DNF in Sigulda, Latvia World Cup singles race</li><li>19th place in Oberhof, Germany World Cup singles race</li><li>DNQ for St.Moritz, Switzerland World Cup singles race</li><li><strong>13th place in Beijing Olympic singles race</strong></li></ul><p><strong><br bold=\"[object Object]\"></strong><strong>2020-2021 (team only competed second half of season)</strong></p><ul><li>Won team record 8th Norton USA Luge Start Championship</li><li>Although exempt from fall qualifying, Tucker finished runner-up in the series</li><li>Did not qualify for Koenigssee, Germany World Cup</li><li>12th in Sigulda, Latvia World Cup singles race</li><li>24th in Oberhof, Germany World Cup singles race</li><li>DNF in Igls, Austria World Cup 2 singles race (was headed for a top 10 result at time of crash)</li><li>DNQ in Igls, Austria World Cup 2 sprint race</li><li>14th place in Koenigssee, Germany World Championship singles race</li><li>12th place in Koenigssee, Germany World Championship sprint race</li><li>4th place in Koenigssee, Germany World Championship team relay (with Summer Britcher, Chris Mazdzer, Jayson Terdiman)</li><li>17th place in St. Moritz, Switzerland World Cup singles race<br><strong><br bold=\"[object Object]\"></strong></li></ul><strong>2019-20 SEASON</strong><ul><li>17th place in Igls, Austria World Cup singles race</li><li>Silver medal in Lake Placid World Cup singles race</li><li>Silver medal in Lake Placid World Cup sprint race</li><li>8th place in Whistler, Canada World Cup singles race</li><li>6th place in Whistler, Canada World Cup sprint race</li><li>21st place in Altenberg, Germany World Cup singles race</li><li>17th place in Lillehammer, Norway World Cup singles race</li><li>17th place in Sigulda, Latvia World Cup singles race</li><li>30th place in Oberhof, Germany World Cup singles race</li><li>Silver medal in Oberhof, Germany World Cup team relay (with Summer Britcher, Chris Mazdzer/Jayson Terdiman)</li><li>14th place in Sochi, Russia World Championship singles race</li><li>Bronze medal in Sochi, Russia World Championship team relay (with Summer Britcher, Chris Mazdzer/Jayson Terdiman)</li><li>DNR in Winterberg, Germany World Cup</li><li>12th place in Koenigssee, Germany World Cup singles race</li><li>Silver medal in Koenigssee, Germany World Cup team relay (with Summer Britcher, Chris Mazdzer/Jayson Terdiman)<br></li></ul><p><strong>2018-19 SEASON</strong></p><ul><li>14th place in Sochi, Russia World Cup singles race</li><li>14th place in Sochi, Russia World Cup sprint race</li><li>6th place in Oberhof, Germany World Cup team relay (with Summer Britcher, Chris Mazdzer, Jayson Terdiman)</li><li>14th place in Oberhof, Germany World Cup singles race</li><li>29th place in Altenberg, Germany World Cup singles race (shortened to one heat due to heavy snowfall)</li><li>9th place in Winterberg, Germany World Championships singles race</li><li>DNQ for Winterberg, Germany World Championship sprint race</li><li>22nd place in Sigulda, Latvia World Cup singles race</li><li>4th place in Sigulda, Latvia World Cup Team Relay (with Summer Britcher, Chris Mazdzer, Jayson Terdiman)</li><li>Bronze medal in Koenigssee, Germany World Cup Team Relay (with Chris Mazdzer, Jayson Terdiman, Summer Britcher)</li><li>8th place in Koenigssee, Germany World Cup singles race</li><li>10th place in Lake Placid, NY World Cup sprint race</li><li>10th place in Lake Placid, NY World Cup singles race</li><li>Silver medal in Calgary, Canada World Cup team relay (with Summer Britcher, Chris Mazdzer/Jayson Terdiman)</li><li>8th place in Calgary, Canada World Cup singles race</li><li>19th place in Whistler, Canada World Cup singles race</li><li>19th place in Igls, Austria World Cup singles race</li><li>First place in Norton USA Luge Start Championship</li><li>Second place in pre-season Lillehammer Cup</li></ul><p><strong><br bold=\"[object Object]\"></strong><strong>2017-18</strong> <strong>SEASON</strong></p><ul><li>26th place in Olympic Winter Games in Pyeongchang, South Korea (holds start record set in first run of Olympic race)</li><li>13th place in Sigulda, Latvia World Cup sprint race</li><li>10th place in Sigulda, Latvia World Cup singles race</li><li>15th place in Lillehammer, Norway World Cup sprint race</li><li>11th place in Lillehammer, Norway World Cup singles race</li><li>15th place in Oberhof, Germany World Cup singles race</li><li>Silver medal in Koenigssee, Germany World Cup team relay (with Summer Britcher, Matt Mortensen/Jayson Terdiman)</li><li>6th place in Koenigssee, Germany World Cup singles race</li><li>Bronze medal in Lake Placid World Cup singles race</li><li>5th place in Lake Placid World Cup sprint race</li><li>16th place in Calgary, Canada World Cup singles race</li><li>27th place in Altenberg, Germany World Cup singles race</li><li>10th place in Winterberg, Germany World Cup singles race</li><li>15th place in Winterberg, Germany World Cup sprint race</li><li>16th place in Igls, Austria World Cup singles race</li><li>4th place in Igls, Austria World Cup team relay</li></ul><p><strong><br bold=\"[object Object]\"></strong><strong>2016-17 SEASON (Finished 7th in overall World Cup standings)</strong><strong><br bold=\"[object Object]\"></strong></p><ul><li>Silver medal in pre-season Lillehammer Cup</li><li>Swept all 4 fall competitions in Oct and Nov (Norton National Championship and 3 seeding races)</li><li>Disqualified (overweight) in Winterberg World Cup singles (resulted in lost point opportunity in singles and sprint race)</li><li>Gold medal in Lake Placid World Cup singles race</li><li>Bronze medal in Lake Placid World Cup team relay (with Britcher, Mortensen/Terdiman)</li><li>Gold medal in shortened Whistler World Cup singles race</li><li>4th place in Park City World Cup singles race</li><li>6th place in Park City World Cup sprint race</li><li>9th place in Koenigssee, Germany World Cup singles race</li><li>Silver medal in Koenigssee, Germany World Cup team relay (with Erin Hamlin, Matt Mortensen/Jayson Terdiman)</li><li>9th place in Sigulda, Latvia World Cup singles race</li><li>10th place in Sigulda, Latvia World Cup sprint race</li><li>15th place in World Championship singles race (Igls, Austria)</li><li>14th place in World Championship sprint race (Igls, Austria)</li><li>Silver medal in World Championship team relay (with Erin Hamlin, Matt Mortensen/Jayson Terdiman) (Igls, Austria)</li><li>12th place in Oberhof, Germany World Cup singles race</li><li>22nd place in Pyeongchang, South Korea pre-Olympic World Cup singles race</li><li>4th place in Altenberg, Germany World Cup singles race<br></li></ul><p><strong>2015-16 SEASON (Finished 7th in overall World Cup standings)</strong><strong><br bold=\"[object Object]\"></strong></p><ul><li>Gold medal in the first fall seeding race</li><li>Won the annual USA Luge Start Championship</li><li>7th place in Igls, Austria World Cup</li><li>Silver medal at 2015 Lake Placid World Cup</li><li>9th place in 2015 Park City World Cup (singles)</li><li>5th place in 2015 Park City World Cup (sprint)</li><li>7th place in 2015 Calgary World Cup (singles)</li><li>12th place in 2015 Calgary World Cup (sprint)</li><li>Bronze medal in 2016 Sigulda World Cup (singles)</li><li>15th place in Oberhof World Cup (singles)</li><li>14th place in Oberhof World Cup (sprint)</li><li>U23 gold medal in 2016 Koenigssee World Championships (singles)</li><li>15th place in 2016 Koenigssee World Championships (sprint)</li><li>6th place in 2016 Koenigssee World Championships (singles)</li><li>13th place in 2016 Altenberg World Cup (singles)</li><li>20th place in 2016 Winterberg World Cup (singles)</li></ul><p><strong>2014-15 SEASON</strong></p><ul><li>Gold medal at Lake Placid World Cup</li><li>Bronze medal at Team Relay in Lake Placid World Cup</li><li>Silver medal in Calgary, Canada FIL-Sprint World Cup</li><li>7th in Calgary, Canada World Cup</li><li>10th in Koenigssee, Germany World Cup</li><li>Bronze medal at Winterberg, Germany World Cup</li><li>6th place in Team Relay at Winterberg, Germany World Cup</li><li>5th place in Lillehammer, Norway World Cup</li><li>Silver medal at Jr. World Championship in Lillehammer, Norway</li><li>4th place in Team Relay&nbsp;Jr. World Championships in Lillehammer, Norway</li><li>21st in Altenberg, Germany World Cup</li><li>16th in Sochi, Russia World Cup</li></ul><p><strong>2013-14 SEASON</strong></p><p></p><ul><li>Finished 22nd at the 2014 XXII Olympic Winter Games in Sochi, Russia</li><li>Silver medal in team relay at Junior World Championships in Igls, Austria</li><li>9th place at Junior World Championships in Igls, Austria</li><li>Silver medal in team relay in Oberhof, Germany Junior World Cup</li><li>Bronze medal in Oberhof, Germany Junior World Cup</li><li>19th place in Oberhof, Germany World Cup</li><li>23rd in Koenigssee, Germany World Cup</li><li>16th place in Park City, Utah World Cup</li><li>11th place in Whistler World Cup</li><li>Part of silver medal relay team in Winterberg, Germany</li><li>Tie 11th place in Winterberg, Germany World Cup</li><li>Gold medal in Igls, Austria Nations Cup</li><li>26th place in Igls, Austria World Cup</li><li>28th place in Lillehammer World Cup</li><li>2013 Silver medalist in Norton Nat'l Championships</li></ul><p><strong></strong></p><p><strong>2012-13 SEASON</strong></p><ul><li>2013 Norton Junior National Championship silver medalist</li><li>10th in Junior World Championships in Park City, Utah</li><li>22nd in Igls, Austria Junior World Cup</li><li>15th in Winterberg, Germany Junior World Cup</li><li>3rd in Team Relay at Park City, Utah Junior World Championship</li><li>13th in Lillehammer, Norway Junior World Cup</li><li>17th in Koenigssee, Germany Junior World Cup</li><li>Tied for Norton Nat'l Championship (with Chris Mazdzer)</li></ul><strong></strong>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662090/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/West_t_bio_868177.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Luge",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662236/TeamUSA%20Assets/Athlete%20Profiles/Tucker%20West%20868177/West_t_hero_868177.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010576/TeamUSA%20Assets/Athlete%20Profiles/Tucker%20West%20868177/Tucker.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tucker West 868177"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Luge"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Jamie",
+      "last_name": "Westbrook",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-06-18T00:00:00",
+        "hometown": {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.3062,
+          "longitude": -111.8413
+        },
+        "education": "Basha High School (Gilbert, Ariz.) ‘13 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Committed to play college baseball at Pepperdine University before signing with the Arizona Diamondbacks</li><li>Selected in the 5th round (150th overall) of the 2013 MLB draft by the Diamondbacks</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 SOU Mid-Season All-Star</li>\r\n                            <li>2018 SOU Post-Season All-Star</li>\r\n                            <li>2018 SOU Mid-Season All-Star</li>\r\n                            <li>2015 MiLB.com Arizona Diamondbacks Organization All-Star</li>\r\n                            <li>2015 CAL Post-Season All-Star</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012895/TeamUSA%20Assets/Athlete%20Profiles/Jamie%20Westbrook%201229006/Westbrook_Jamie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jamie Westbrook 1229006"
+        }
+      ]
+    },
+    {
+      "first_name": "Bjorn",
+      "last_name": "Westervelt",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-10-28T00:00:00",
+        "hometown": {
+          "city": "Stowe",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 44.4656,
+          "longitude": -72.6876
+        },
+        "education": " University of Vermont (majoring in Mechanical Engineering)",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Shchuchinsk, 2023 (4 x 7.5km Relay - Men, 10km Sprint - Men, 12.5km Pursuit - Men, 15km Individual - Men)</li><li>World Youth/Junior Championships, Salt Lake City, 2022 (4 x 7.5km Relay - Men)</li></ul><h5>World Championship Experience</h5><ul><li>2023 Junior World Championships (Shchuchinsk, KAZ): 28th in individual / 4th in men's relay / 18th in sprint / 24th in pursuit</li><li>2022 IBU Junior World Championships (Soldier Hollow, Utah): 69th in individual / 30th in sprint / 18th in pursuit / 7th in junior men's relay (w/ Maxime Germain, Wes Campbell &amp; Vincent Bonacci)</li><li>2021 IBU Youth/Junior World Championships (Obertilliach, Austria) - 92nd in junior individual / 61st in junior sprint / 8th in junior relay</li><li>2020 IBU Youth/Junior World Championships (Lenzerheide, Switzerland) - 32nd in youth individual / 13th in youth relay / 9th in youth sprint / 27th in youth pursuit</li><li>2019 Youth World Championships (Osrblie, Slovakia) - 76th in individual / 15th in relay / 54th in sprint / 47th in pursuit</li></ul><h5>More</h5>Son of Todd and Karen Westervelt...Bjorn grew up in Stowe, VT...Younger sister, Annalise Westervelt...He began biathlon at the age of 13 in Craftsbury...He is now training with Craftsbury Biathlon and Algis Shalna...Bjorn enjoys&nbsp;backcountry&nbsp;skiing, mountain biking, mountain running, playing with his dog, and eating!",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134542/NGB%20Biathlon/Migration/Athlete%20Profiles/Bjorn%20Westervelt%20838599/Westervelt_DSC_6554-1_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134543/NGB%20Biathlon/Migration/Athlete%20Profiles/Bjorn%20Westervelt%20838599/Bjorn-Westervelt-2019-headshot_150x250.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683134543/NGB%20Biathlon/Migration/Athlete%20Profiles/Bjorn%20Westervelt%20838599/Bjorn-Westervelt-2019-headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bjorn Westervelt 838599"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Biathlon"
+        }
+      ]
+    },
+    {
+      "first_name": "Avaleigh",
+      "last_name": "Westfall",
+      "bio": {
+        "height": "5' 2\"",
+        "birthday": "2008-05-30T00:00:00",
+        "hometown": {
+          "city": "Ann Arbor",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.2808,
+          "longitude": -83.743
+        },
+        "education": "Fusion Global Academy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ali and Ken Westfall</li><li>Started diving on her eighth birthday (says it was her best birthday present ever)</li><li>As a small child, she hated getting wet and her mother was afraid Avaleigh would drown in the pool in their backyard</li><li>It took two years of swim lessons for her to get her face in the water and she wore goggles her first year of diving</li><li>Likes to read in between dives at competitions</li><li>Favorite dive is 205C on 3-meter</li><li>Enjoys piano, writing, reading, anything Disney, being outside, and sketching costume designs</li><li>Is interested in a career in preserving historic landmarks</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 Junior Pan American Championships team member (5th, platform)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362480/TeamUSA%20Assets/Migration/Athlete%20Profiles/Avaleigh%20Westfall/Avaleigh-Westfall_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Avaleigh Westfall"
+        }
+      ]
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Weyant",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2001-12-24T00:00:00",
+        "hometown": {
+          "city": "Sarasota",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.3364,
+          "longitude": -82.5307
+        },
+        "education": "University of Virginia ‘24",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Specialties:</strong></span><span style=\"font-size: 11pt;\"> Individual medley and distance freestyle</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Emma Weyant is an American swimmer known for her exceptional performances in individual medley and distance freestyle events.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Weyant comes from a supportive family that has encouraged her swimming career from a young age. She has expressed interest in pursuing a career in medicine after her swimming career.</span></p><p><span style=\"font-size: 11pt;\">Weyant studied at the University of Virginia before transferring to the University of Florida to study political science and international relations.&nbsp;</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">At Weyant's Olympic debut in Tokyo, she secured a silver medal in the 400-meter individual medley with a time of 4:32.76, finishing behind Japan's Yui Ohashi.</span></p><p><span style=\"font-size: 11pt;\">Weyant went on to the Paris 2024 Olympic Games and achieved a bronze medal in the 400m individual medley with a time of 4:34.93.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">As a junior swimmer, Weyant's breakthrough came at the 2019 world junior championships, where she won gold in the 400m individual medley. This performance signaled her potential on the international stage and set the stage for her transition to senior-level competition.</span></p><p><span style=\"font-size: 11pt;\">Weyant secured several ACC titles during her time at Virginia, as well as SEC championship victories in both the 500-yard freestyle and 400m individual medley. She played a vital role in helping the team at Virginia secure an NCAA championship title. While at the University of Florida, Weyant won the 2024 NCAA championship in the 800 free relay.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 silver, 1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (400m Individual Medley - Women)</li><li>Olympic Games Tokyo 2020, silver (400m Individual Medley - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – silver (4 x 200m Freestyle Relay (SC) - Women), 4th (400m Individual Medley (SC) - Women), 7th (800m Freestyle (SC) - Women), 13th (400m Freestyle (SC) - Women)</li><li>Years of participation: 4 x 200m Freestyle Relay (SC) - Women 2021; 400m Freestyle (SC) - Women 2021; 400m Individual Medley (SC) - Women 2021; 800m Freestyle (SC) - Women 2021</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2021 (4 x 200m Freestyle Relay (SC) - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662860/TeamUSA%20Assets/Athlete%20Profiles/Emma%20Weyant%201113342/Weyant_E_Bio_1113342.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662912/TeamUSA%20Assets/Athlete%20Profiles/Emma%20Weyant%201113342/Weyant_E_Hero_1113342.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012271/TeamUSA%20Assets/Athlete%20Profiles/Emma%20Weyant%201113342/weyant_emma_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emma Weyant 1113342"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Weymuller",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2003-03-01T00:00:00",
+        "hometown": {
+          "city": "Winthrop",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 48.4796,
+          "longitude": -120.1862
+        },
+        "education": "Laurel Springs Private Online School",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Lenzerheide, 2020 (3 x 6km Relay - Women, 6km Sprint - Women, 10km Individual - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2020 IBU Youth/Junior World Championships (Lenzerheide, Switzerland) - 86th in youth individual; 17th in youth relay; 81st in youth sprint</li></ul><h5>More</h5><p>When I'm not training you can find me... Painting anything/everything, baking sourdough bread, running, biking, hiking, DH/backcountry skiing, swimming, sewing, drawing, eating chocolate, exploring the great outdoors, pushing the limits of comfortable fashion, drinking tea, dancing, sleeping, or contemplating life! On any given day I will likely have any or all of these necessities on my person: tea, glitter, snacks, some sort of leftovers from a trip such as spare rounds, half eaten bars/gels, my start/zero time written on my hand, or unpredictable bursts of excitement and joy- often conveyed by random bouncing around, goofy dancing, or seemingly non contextual questions.</p>\n<p dir=\"ltr\">Eva Weymuller is the daughter to E.A. and Rachelle, the younger sister to Hannah Weymuller of Winthrop, Washington.&nbsp;</p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\">She began skiing early and when old enough and joined the Methow Valley Nordic ski Team and the Loup Loup Alpine Team enjoying both and racing Alpine until she was about 12 when she aged out of her local alpine program. At that point Eva switched to compete in Nordic. She was first introduced to Biathlon at the age of seven while living in Chamonix France with her family for a season. It wasn't until she was 13 (2016) when she tried Biathlon again and her first competition was at the impressive Whistler, BC Olympic venue in the Callahan Valley a year later in 2017.&nbsp;</p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\">Blog:&nbsp;https://evaweymuller.blog/</p>\n&nbsp;\n<br>\n\n<p><br>\n</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923559/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eva%20Weymuller/Weymuller_83745194_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923561/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eva%20Weymuller/Eva-Weymuller-2020_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eva Weymuller"
+        }
+      ]
+    },
+    {
+      "first_name": "Lindsay",
+      "last_name": "Whalen",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1982-05-09T00:00:00",
+        "hometown": {
+          "city": "Hutchinson",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.05,
+          "longitude": -94.375
+        },
+        "education": "Hutchinson High School (Hutchinson, Minn.) '00 University of Minnesota '04, Sports Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Neil and Kathy Whalen</li><li>Has four siblings</li><li>Married University of Minnesota All-American golfer Ben Greve on Oct. 6, 2008</li><li>Became the first woman to be named the Minneapolis Star Tribune Sportsperson of the Year in 2004.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Olympic Games London 2012, gold (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2010 – gold (Team - Women)</li><li>Years of participation: Team - Women 2010</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2010 (Team - Women)</li></ul></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698759/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lindsay%20Whalen%20910001/whalen_lindsay_081616_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698760/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lindsay%20Whalen%20910001/Whalen_Lindsay_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lindsay Whalen 910001"
+        }
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Wheeler",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1980-04-14T00:00:00",
+        "hometown": {
+          "city": "Tucson",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 32.2217,
+          "longitude": -110.9265
+        },
+        "education": "Days Creek High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>In 2006, Wheeler was struck by a car while on his motorcycle and broke his neck and lost function of his lower body, part of the function of his right arm and hand</li><li>He is married to Stephanie Wheeler</li><li>Son of Theresa Sexton and Steven (Sam) Wheeler and stepdad Kurt Sexton</li><li>Has five brothers and five sisters</li><li>Fluent in Spanish</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (3 silver)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Mixed)</li><li>Paralympic Games Tokyo 2020, silver (Team - Mixed)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – silver (Team - Mixed)</li><li>Years of participation: Team - Mixed 2014, 2018, 2022</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2022 (Team - Mixed)</li><li>Bronze – 2018 (Team - Mixed);  2014 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662073/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Wheeler_j_bio_912991.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 3
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "2.5",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662862/TeamUSA%20Assets/Athlete%20Profiles/Josh%20Wheeler%20912991/Wheeler_j_hero_912991.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335708/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20%20Wheeler%20912991/Wheeler_Joshua_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Wheeler 912991"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Lance",
+      "last_name": "Wheeler",
+      "bio": {
+        "height": "6'0",
+        "birthday": "1984-12-26T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "St. John's University (BA); University of Minnesota (MS and PhD)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 12pt;\"><strong>Sport:</strong></span><span style=\"font-size: 12pt;\"> Curling</span></p></li><li><p><span style=\"font-size: 12pt;\"><strong>Position: </strong></span><span style=\"font-size: 12pt;\">Second</span></p></li><li><p><span style=\"font-size: 12pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 12pt;\"> Men's Curling, Mixed Doubles</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 12pt;\">Lance Wheeler discovered curling during graduate school after a friend suggested he try the sport due to his background as a hockey player at St. John’s University in Minnesota. Born and raised in Golden, Colorado, Wheeler transitioned to curling in 2013, quickly finding a passion for the strategy and skill the sport demands.</span></p><p><span style=\"font-size: 12pt;\">In addition to his curling career, Wheeler works as a Staff Scientist at the National Renewable Energy Laboratory (NREL) in Golden. Specializing in nanoparticles and photovoltaic window development, he balances his demanding career in renewable energy with competitive curling. He values curling for its inclusivity and the welcoming community at clubs worldwide. Wheeler is involved with the Denver Curling Club, a charitable organization committed to teaching, developing, promoting, and encouraging the spirit of curling. Outside of work and sport, he enjoys hiking, camping, exploring craft breweries and seeking out spicy foods.&nbsp;</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 12pt;\">Lance Wheeler’s journey toward the Olympics began with a strong performance at the 2022 U.S. Olympic Trials, where his men’s team came close to earning a spot in the Beijing 2022 Olympic Games. Undeterred, Wheeler continues to pursue his Olympic aspirations. His mixed doubles team, Moores/Wheeler, secured a berth at the 2026 U.S. Mixed Doubles Trials after finishing with a 7-2 record at the 2024 pre-trials.</span></p><h5>Early Career</h5><p><span style=\"font-size: 12pt;\">Wheeler’s competitive spirit was honed during his high school and college years, where he played hockey and lacrosse. His time as a student-athlete at St. John’s University laid the foundation for his later success in curling, combining his experience on the ice with the strategic mindset he developed through his academic and professional pursuits.</span></p><h5>Career Highlights</h5><ul><li>U.S. Mixed Doubles National Championship: 2019, 2018 (7th)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 5th (Team - Mixed)</li><li>Years of participation: Team - Mixed 2025</li><li>Top finish: 5th – 2025 (Team - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lance Wheeler"
+        }
+      ]
+    },
+    {
+      "first_name": "Stephanie",
+      "last_name": "Wheeler",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1981-01-16T00:00:00",
+        "hometown": {
+          "city": "Norlina",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 36.4607,
+          "longitude": -78.1694
+        },
+        "education": "University of Illinois",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Was a member of the U.S. National Women's Wheelchair Basketball Team from 2001-2010</li><li>Entering Beijing, Wheeler was one of a handful of players returning from a U.S. team that won gold in Athens, Greece</li><li>Started throughout the 2008 Paralympic Games, Wheeler once again led Team USA to a gold medal</li><li>Coached Team USA to a gold medal in women's wheelchair basketball at the Paralympic Games Rio 2016</li><li>Is a graduate of the University of Illinois, where she received a bachelor's degree in kinesiology and was a member of three wheelchair basketball national championship teams</li><li>Is the current head coach for the women's wheelchair basketball team at Illinois (as of 2025)</li><li>Is working on her Ph.D. in Adapted Physical Education</li><li>Is an Athlete Ally Ambassador and an advocate for LGBTQ+ rights</li><li>Inducted into the USOPC Hall of Fame, Class of 2025</li></ul><h5>Biographical Information</h5><p>The U.S. women’s wheelchair basketball team won its first gold medal in 22 years at the Paralympic Games Athens 2004. Christina (Ripp) Schwab and Stephanie Wheeler went on to coach future national teams, Wheeler in 2016, and Schwab in 2024. Both are members of the National Wheelchair Basketball Association Hall of Fame. Six members of the 2004 team (Emily Hoskins, Patty Cisneros Prevo, Carlee Hoffman-Schwarz, Wheeler, Schwab and Jennifer Warkins) returned to win gold again at the Beijing 2008 Paralympic Games, marking the first back-to-back titles for the program. In 2004, the U.S. defeated five-time defending champion Canada in the semifinal and avenged a narrow group-stage loss to Australia with a 56–44 victory in the gold-medal game, setting the stage for continued success in future Paralympic Games.</p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 gold)</li><ul><li>Paralympic Games Beijing 2008, gold (Team - Women)</li><li>Paralympic Games Athens 2004, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2010 – gold (Team - Women)</li><li>Years of participation: Team - Women 2002, 2006, 2010</li><li>Medals: 3 (1 gold, 2 silver)</li><ul><li>Gold – 2010 (Team - Women)</li><li>Silver – 2006 (Team - Women);  2002 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745341595/TeamUSA%20Assets/Hall%20of%20Fame%20Headshots/2025%20Profile%20Photos/Wheeler_S_bio_2008.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745341302/TeamUSA%20Assets/Hall%20of%20Fame%20Headshots/2025%20Profile%20Photos/Wheeler_S_hero_2008.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330054/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stephanie%20Wheeler/Wheeler__S_WBasketball120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stephanie Wheeler"
+        },
+        {
+          "title": "Wheelchair Basketball"
+        },
+        {
+          "title": "Hall of Fame, Class of 2025"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        }
+      ]
+    },
+    {
+      "first_name": "Derrick",
+      "last_name": "White",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1994-07-02T00:00:00",
+        "hometown": {
+          "city": "Parker",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.5144,
+          "longitude": -104.7622
+        },
+        "education": "University of Colorado, Colorado Springs '15; University of Colorado, Boulder '17",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Basketball</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\"> Point guard / shooting guard</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Derrick White is a professional basketball player known for his versatility, court vision, and defending skills. He has remained dedicated to his journey from Division II college basketball to the NBA and has become an asset to the Boston Celtics. White became an Olympic gold medalist when the U.S. men's basketball team beat France in the Paris 2024 Olympic Games gold medal game.</span></p><p><span style=\"font-size: 11pt;\">White grew up as a fan of the Denver Nuggets and always dreamed of playing in the NBA. Off the court, White is known for his humility and work ethic, often credited to his parents. White is also passionate about giving back to the community and participating in various charitable initiatives.</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">White played in nearly all of Team USA’s Olympic matches in the Paris 2024 Olympic Games, averaging 3.8 points, 1.4 rebounds, 1.6 assists and 1.4 steals per game. His highlight performance came against South Sudan when he scored 10 points on three made 3-pointers and tallied three steals, contributing to their 103-86 point win and gold medal.&nbsp;</span></p><h5>NBA Highlights</h5><p><span style=\"font-size: 11pt;\">White was drafted 29th overall by the San Antonio Spurs in the 2017 NBA Draft. After showing promise with the Spurs, White was traded to the Boston Celtics in 2022, where he quickly became a key player. He won his first championship when the Celtics beat the Dallas Mavericks in the NBA finals in 2024.</span></p><p><span style=\"font-size: 11pt;\">Known for his high basketball IQ and defensive tenacity, White has played a critical role in the Celtics' backcourt, often tasked with guarding the opposing team's best perimeter players.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">White attended Legend High School in Parker, Colorado. Despite a strong high school career, he was lightly recruited and opted to attend the University of Colorado-Colorado Springs (UCCS), where he grew significantly both in height and skill. His development at the collegiate level led him to the University of Colorado and later to the NBA.</span></p><p><span style=\"font-size: 11pt;\">White transferred to the University of Colorado for his senior year after playing three seasons at Division II UCCS. At Colorado, White led the Buffaloes in scoring, assists, and blocks, earning First-Team All-Pac-12 honors in 2017. His impressive performances caught the attention of NBA scouts, leading to his first-round selection in the draft.</span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019</li><li>Years of participation: 2019</li><li>Top finish: 2019 – 7th</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720646676/TeamUSA%20Assets/Athlete%20Profiles/Derrick%20White%201193023/white_d_bio_1193023.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720646574/TeamUSA%20Assets/Athlete%20Profiles/Derrick%20White%201193023/white_d_hero_1193023.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720646574/TeamUSA%20Assets/Athlete%20Profiles/Derrick%20White%201193023/white_d_hero_1193023.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720646574/TeamUSA%20Assets/Athlete%20Profiles/Derrick%20White%201193023/white_d_hero_1193023.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Basketball"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Derrick White"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "entries": [
+    {
+      "first_name": "Brody",
+      "last_name": "Malone",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2000-01-07T00:00:00",
+        "hometown": {
+          "city": "Summerville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.4747,
+          "longitude": -85.3508
+        },
+        "education": "Stanford University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Tracy Malone</li><li>Has three siblings: Cooper, Tyler and Briley</li><li>Hobbies include hunting, fishing and rodeo.</li></ul><h5>Career Highlights</h5><ul><li>2021 U.S. all-around and vault champion and earned silver on still rings and high bar</li><li>Seven-time NCAA champion</li><li>2020 Winter Cup, bronze (all-around)</li><li>2018 International Junior Team Cup, 2nd (horizontal bar), 3rd (team, still rings), 5th (vault) and 6th (all-around, parallel bars)</li><li>2017 International Junior Gymnastics Competition, 2nd (horizontal bar), 4th (all-around, parallel bars) and 6th (vault)</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men), 14th (Rings - Men), 18th (Parallel Bars - Men), 30th (Individual All-Around - Men), 55th (Pommel Horse - Men), 59th (Horizontal Bar - Men), 61th (Floor Exercise - Men)</li><li>Olympic Games Tokyo 2020, 4th (Horizontal Bar - Men), 5th (Team - Men), 10th (Individual All-Around - Men), 19th (Rings - Men), 28th (Pommel Horse - Men), 29th (Parallel Bars - Men), 39th (Floor Exercise - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – gold (Horizontal Bar - Men), 4th (Individual All-Around - Men), 5th (Team - Men), 23th (Rings - Men), 27th (Pommel Horse - Men), 36th (Parallel Bars - Men), 84th (Floor Exercise - Men)</li><li>Years of participation: Floor Exercise - Men 2022; Horizontal Bar - Men 2021, 2022; Individual All-Around - Men 2022; Parallel Bars - Men 2022; Pommel Horse - Men 2022; Rings - Men 2022; Team - Men 2022</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2022 (Horizontal Bar - Men)</li><li>Bronze – 2021 (Horizontal Bar - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712522806/TeamUSA%20Assets/Media%20Summit%20Athletes/Brody%20Malone/Malone_Brody_GettyLAShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1708720580/Malone_Brody_LAShoot2023.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347174/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brody%20Malone/Malone_Brody.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brody Malone"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Gymnastics"
+        }
+      ]
+    },
+    {
+      "first_name": "Maggie",
+      "last_name": "Malone-Hardin",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1993-12-30T00:00:00",
+        "hometown": {
+          "city": "Geneva",
+          "state": "NE",
+          "country": "United States",
+          "latitude": 40.52,
+          "longitude": -97.59
+        },
+        "education": "Fillmore Central High School (Geneva, Neb.) ‘12 Texas A&M University ‘17, Human Resources",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Danny Malone and Nancy Kindig-Malone</li><li>Has one brother, Callahan, and one sister, Audrey</li><li>Ran track at the University of Nebraska before transferring to Texas A&amp;M</li><li>In 2016, became the first female javelin thrower to win an NCAA title and U.S. Olympic Team Trials title in the same season</li><li>Hobbies include playing competitive team sports – volleyball, basketball and softball – watching movies and singing</li><li>Broke her femur and chipped her growth plate when she was in kindergarten and the doctors thought her leg would never grow again</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Paris 2024, 24th (Javelin Throw - Women)</li><li>Olympic Games Tokyo 2020, 10th (Javelin Throw - Women)</li><li>Olympic Games Rio de Janeiro 2016, 25th (Javelin Throw - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 18th (Javelin Throw - Women)</li><li>Years of participation: Javelin Throw - Women 2023</li><li>Top finish: 18th – 2023 (Javelin Throw - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346988/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maggie%20Malone/malone_maggie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maggie Malone"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Maloy",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1985-12-20T00:00:00",
+        "hometown": {
+          "city": "Wildwood Crest",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Wildwood Catholic High School",
+        "fun_fact": null,
+        "biography": "<p><strong>&nbsp;</strong>Somers Point, N.J.<br>\n<strong>&nbsp;</strong>Wildwood Crest, N.J.<br>\n<strong>Current Residence</strong>: San Diego, Calif.<br>\n<strong>&nbsp;</strong>Boston College '08, English; '10 Administration</p>\n<h5>Career Highlights</h5>\n2016 U.S. Olympic Triathlon Team Member<br>\nUSA Triathlon National Team Member<br>\n2016 ITU Triathlon Mixed Relay World Champion<br>\n2014 USA Triathlon Elite National Champion<br>\n2014 Cozumel ITU World Cup bronze medalist<br>\n2013 USA Triathlon Elite Nationals runner-up\n<div><br>\n<div>&nbsp;\n<p><strong>Elite Triathlon Career</strong><strong><br>\n<strong>2016:</strong>&nbsp;</strong>Anchored the U.S. team at the ITU Triathlon Mixed Relay World Championships, aiding the U.S. in its first world title in the event&nbsp;&bull; Finished 28th at World Triathlon Hamburg on July 16&nbsp;&bull;&nbsp;Qualified for the 2016 U.S. Olympic Triathlon Team on May 14 with an 11th-place finish at World Triathlon Yokohama, becoming the top-ranked man in the USA Triathlon Objective Rankings System&nbsp;&bull;&nbsp;Placed a career-best sixth place at ITU World Triathlon Gold Coast on April 9&nbsp;&bull; Finished 18th at the New Plymouth ITU World Cup on April 3<br>\n<br>\n<strong>2015:</strong><strong>&nbsp;</strong>Finished his season with a seventh-place finish at the Cozumel ITU World Cup, followed by an 11th place effort at the Tongyeong ITU World Cup, both in October&nbsp;&bull; Was the fourth American and 54th overall at the ITU World Triathlon Grand Final Chicago&nbsp;&bull; Was 22nd at ITU World Triathlon Stockholm on Aug. 22&nbsp;&bull; Finished as the second American and 16th overall at the Rio de Janeiro ITU World Olympic Qualification Event&nbsp;&bull; Raced to 20th place at ITU World Triathlon Auckland on March 28&nbsp;&bull; Opened his season with a 10th place finish at the New Plymouth ITU World Cup<br>\n<br>\n</p>\n<p><strong>2014:</strong><strong>&nbsp;</strong>Posted back-to-back top-10 finishes at late season ITU World Cup events, first winning bronze in Cozumel and then finishing seventh in Tongyeong two weeks later&nbsp;&bull; Finished 17th at ITU World Triathlon Grand Final Edmonton&nbsp;&bull; Was 11th at the Jiayuguan ITU World Cup on July 26&nbsp;&bull; Claimed the 2014 USA Triathlon Elite Nationals title as the top U.S. finisher at ITU World Triathlon Chicago on June 28, where he finished 17th overall&nbsp;&bull; Raced to 19th place at ITU World Triathlon Yokohama&nbsp;&bull; Finished 11th at the Chengdu ITU World Cup on May 10<br>\n<br>\n<strong>2013: </strong>Raced the Tongyeong ITU World Cup on Oct. 12 and finished fifth&nbsp;&bull; Was the top American at the ITU World Triathlon Grand Final London, finishing 36th overall&nbsp;&bull; Finished 19th at the Tiszaujvaros ITU World Cup on Aug. 10&nbsp;&bull; Logged a 21st-place finish at ITU World Triathlon Hamburg&nbsp;&bull; Finished ninth at the Edmonton ITU World Cup&nbsp;&bull; Finished fourth at an ITU Continental Cup in Dallas, Texas, on June 1&nbsp;&bull; Won the silver medal at USA Triathlon's Elite National Championships, held in conjunction with ITU World Triathlon San Diego, where he finished 20th overall&nbsp;&bull; Opened his season at ITU Continental Cup events in Florida, finishing 12th in Clermont on March 9 and sixth in Sarasota on March 16<br>\n<br>\n<strong>2012 and earlier:&nbsp;</strong>Placed third at 2012 USA Triathlon Elite Nationals in Buffalo, N.Y. &bull; Finished third at the 2012 Kelowna ITU Premium Pan American Cup for his fourth career Pan American Cup podium finish &bull;&nbsp;Made ITU World Triathlon Series debut at the 2012 Dextro Energy World Triathlon Hamburg, placing 54th &bull; Placed 11th in the first semifinal of the 2012 Tiszaujvaros ITU World Cup &bull; Was 13th at the 2012 Holten ITU Premium European Cup &bull;&nbsp;Finished third at the 2012 Dallas ITU Pan American Cup &bull; Recorded podium finishes at the Cartagena (second) and Lima (third) ITU Pan American Cups in 2011 &bull; Also placed 10th in Valparaiso and ninth in Salinas in 2011 &bull; Finished 18th at 2010 USA Triathlon Elite Nationals in Tuscaloosa, Ala. &bull; Was 16th in his ITU Pan American Cup debut in Mazatlan in 2010</p>\n<p><strong>Amateur Triathlon Career: </strong>Was the overall winner at the 2009 USA Triathlon Age Group National Championships in Tuscaloosa, Ala. &bull;&nbsp;Also recorded 2009 wins at the Wilkes-Barre Triathlon, Sunset Triathlon, Killington Triathlon and Hammonton Triathlon</p>\n<p><h5>Quick Facts</h5>Parents are Joe and Mary Maloy &bull; Has one brother, John &bull; Swam at Boston College from 2004-08 and served as the team's assistant coach from 2008-10 &bull; Earned 12 varsity letters in cross country, swimming, track &amp; field and tennis at Wildwood Catholic High School, and set school records in the 3,200m and 5k &bull; Trains with the Triathlon Squad&nbsp;&bull; Completed his first triathlon when he was in sixth grade and fell off his bike&nbsp;&bull; His first triathlon as an adult was the 2008 Bellplain (N.J.) Sprint Triathlon&nbsp;&bull; His favorite race is Tri the Wildwoods, because it's in his hometown and \"has an awesome post-race buffet\"&nbsp;&bull; Says the post-race party is his favorite triathlon discipline&nbsp;&bull; Favorite workout is a tossup between an ocean swim and a long, building run&nbsp;&bull; Enjoys spending time with family and friends, reading and spending time at the beach&nbsp;&bull; Also claims to be very good at hula hooping&nbsp;&bull; Favorite movies are <em>The Big Lebowski</em>, <em>Dumb and Dumber</em>&nbsp;and <em>Rocky I-IV</em>&nbsp;&bull; Favorite meal to make is s'mores&nbsp;&bull; Roots for all the Philadelphia area sports teams&nbsp;&bull; Says his parents are his biggest role models\n</div>\n</div><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 23th (Olympic Distance - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – gold (Team Relay - Mixed)</li><li>Years of participation: Team Relay - Mixed 2016</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2016 (Team Relay - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365316/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joe%20Maloy/Joe_Maloy_2015.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joe Maloy"
+        }
+      ]
+    },
+    {
+      "first_name": "Rosie",
+      "last_name": "Mancari",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1994-01-22T00:00:00",
+        "hometown": {
+          "city": "Anchorage",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 61.2181,
+          "longitude": -149.9003
+        },
+        "education": " University of Alaska Anchorage",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Angel and Steve Mancari</li><li>Has two sisters, Ashley and Sarina, and one brother, Levi</li><li>Started snowboarding at age 14</li><li>Hobbies include wake surfing, sand volleyball, mountain biking, fishing and hunting.</li></ul><h5>Olympic Experience</h5><ul><li>Olympian (2018)</li></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2017 – 18th (Snowboardcross - Women)</li><li>Years of participation: Snowboardcross - Women 2017</li><li>Top finish: 18th – 2017 (Snowboardcross - Women)</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2021 (Snowboardcross - Women)</li><li>World Cup, 2020 (Snowboardcross - Women)</li><li>World Cup, 2018 (Snowboardcross - Women)</li><li>World Cup, 2017 (Snowboardcross - Women)</li><li>World Cup, 2016 (Snowboardcross - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006613/TeamUSA%20Assets/Athlete%20Profiles/Rosie%20Mancari%201047230/mancari_rosie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rosie Mancari 1047230"
+        }
+      ]
+    },
+    {
+      "first_name": "Julia",
+      "last_name": "Mancuso",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1984-03-09T00:00:00",
+        "hometown": {
+          "city": "Palisades Tahoe",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 39.1977,
+          "longitude": -120.2366
+        },
+        "education": "The Winter Sports School (Park City, Utah) '00 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ciro Mancuso and Andrea Tuffanelli</li><li>Has one older sister, April, and one younger sister, Sara</li><li>Hobbies include surfing, stand-up paddle boarding, yoga and doing philanthropic work</li><li>Owns an underwear clothing line, opened a fitness center and supported a charitable campaign for victims of the 2011 tsunami in Japan.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2013 FIS World Cup Standings, 2nd (super-G)</li>\r\n                            <li>2012 FIS World Cup Standings, 2nd (super-G)</li>\r\n                            <li>2011 FIS World Cup Standings, 3rd (downhill, super-G)</li>\r\n                            <li>2007 FIS World Cup Standings, 3rd (overall), 2nd (combined, downhill)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 4-time Olympic medalist (1 gold, 2 silver, 1 bronze)</li><ul><li>Olympic Games Sochi 2014,  (Giant Slalom - Women), bronze (Super Combined - Women), 8th (Downhill - Women, Super G - Women)</li><li>Olympic Games Vancouver 2010, silver (Downhill - Women, Super Combined - Women), 8th (Giant Slalom - Women), 9th (Super G - Women)</li><li>Olympic Games Turin 2006, gold (Giant Slalom - Women), 7th (Downhill - Women), 9th (Combination - Women), 11th (Super G - Women)</li><li>Olympic Games Salt Lake City 2002, 13th (Combination - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 5th (Team - Mixed), 9th (Super G - Women), 15th (Super Combined - Women), 16th (Downhill - Women), 26th (Giant Slalom - Women)</li><li>Years of participation: Downhill - Women 2007, 2011, 2013, 2015; Giant Slalom - Women 2005, 2007, 2009, 2011, 2013, 2015; Super Combined - Women 2007, 2009, 2011, 2013, 2015; Super G - Women 2003, 2005, 2007, 2009, 2011, 2013, 2015; Team - Mixed 2005, 2011, 2015; Slalom - Women 2003, 2005, 2011; Combination - Women 2003, 2005</li><li>Medals: 5 (2 silver, 3 bronze)</li><ul><li>Silver – 2011 (Super G - Women);  2007 (Super Combined - Women)</li><li>Bronze – 2013 (Super G - Women);  2005 (Giant Slalom - Women, Super G - Women)</li></ul></ul><h5>More</h5><p>Personal website<br>\nU.S. Ski and Snowboard Association</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010336/TeamUSA%20Assets/Athlete%20Profiles/Julia%20Mancuso%20871528/mancuson_julia_030217_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2002, 2006, 2010, 2014",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010339/TeamUSA%20Assets/Athlete%20Profiles/Julia%20Mancuso%20871528/manusco_julia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Julia Mancuso 871528"
+        }
+      ]
+    },
+    {
+      "first_name": "Salif",
+      "last_name": "Mane",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "2001-12-12T00:00:00",
+        "hometown": {
+          "city": "Bronx",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.8448,
+          "longitude": -73.8648
+        },
+        "education": "Fairleigh Dickinson University",
+        "fun_fact": null,
+        "biography": "<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 6th (Triple Jump - Men)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Salif Mane"
+        }
+      ]
+    },
+    {
+      "first_name": "Tricia",
+      "last_name": "Mangan",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1997-03-07T00:00:00",
+        "hometown": {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.8803,
+          "longitude": -78.8786
+        },
+        "education": "Nardin Academy ‘15 Dartmouth College , Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Martha and David</li><li>Has five siblings</li><li>Family is all rowers, three brothers and parents all raced in college</li><li>Began skiing at age two with twin brother William and has been racing her siblings since</li><li>Hobbies include running, kite boarding, reading, breading and recreational water sports</li><li>Hopes to inspire others to step out of tradition and find new ways to create their own speed in ski racing and life</li><li>Inspired by surfer John John Florence for his humbleness and perspective while being the best in the world</li><li>Has worked with Fast and Female and Winter 4 Kids which are both great communities and supports their missions to empower girls and get kids outside, also a proud supporter of the High Fives Foundation which has an unreal community and provides support to SCI athletes</li></ul><p></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Beijing 2022, 11th (Super Combined - Women)</li><li>Olympic Games Pyeongchang 2018,  (Giant Slalom - Women), 9th (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 –  (Super Combined - Women, Super G - Women), 23th (Downhill - Women)</li><li>Years of participation: Downhill - Women 2023; Super Combined - Women 2023; Super G - Women 2023</li><li>Top finish:  – 2023 (Super Combined - Women), 2023 (Super G - Women)</li></ul><h5>Career Highlights</h5><ul><li>2022 FIS World Cup (Cortina d’Ampezzo), 46th (downhill)</li><li>2022 FIS World Cup (Zauchensee), 43rd (super-G)</li><li>2018 FIS Junior World Ski Championships, 4th (super-G)</li></ul><h5>More</h5>Personal Website<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365178/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tricia%20Mangan/Mangan_Tricia_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tricia Mangan"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        }
+      ]
+    },
+    {
+      "first_name": "Holley",
+      "last_name": "Mangold",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1989-12-22T00:00:00",
+        "hometown": {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 39.961176,
+          "longitude": -82.998794
+        },
+        "education": " Ursuline College",
+        "fun_fact": "",
+        "biography": "<strong>Birth Year:</strong> 1989<br>\n<p></p>\n<strong>\nWhat year did you being lifting?</strong> 2008<br>\n<br>\n<hr>\n<br>\n<br>\n<br>\n<br>\n<h5>Quick Facts</h5> To break the American Records and make an Olympic team<br>\n<br>\n<strong>\nFavorite Food:</strong>&nbsp;Steak<strong><br>\n</strong>\n<br>\n<strong>\nFavorite Book:&nbsp;</strong>Sookie Stackhouse novels<strong><br>\n</strong>\n<br>\n<strong>\nFavorite TV Show:</strong> Family Guy Favorite song that gets you motivated: Dog Days are Over<br>\n<br>\n<strong>\nHobbies/Interested outside of Weightlifting: </strong>I love volunteering, swimming, hanging out with friends and beach volleyball.<br>\n&nbsp;<br>\n<strong>\nMost people don&rsquo;t know</strong> that&hellip;. that I was speed rollerskating champion of Ohio when i was 5.<h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games London 2012, 9th (+75kg - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 20th (+75kg - Clean & Jerk - Women), 21th (+75kg - Women), 23th (+75kg - Snatch - Women)</li><li>Years of participation: +75kg - Clean & Jerk - Women 2014, 2015; +75kg - Snatch - Women 2014, 2015; +75kg - Women 2014, 2015</li><li>Top finish: 10th – 2014 (+75kg - Clean & Jerk - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720001/TeamUSA%20Assets/Migration/Athlete%20Profiles/Holley%20Mangold%20817798/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720003/TeamUSA%20Assets/Migration/Athlete%20Profiles/Holley%20Mangold%20817798/Holley_Mangold_cr120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Holley Mangold 817798"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Alyssa",
+      "last_name": "Manley",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1994-05-27T00:00:00",
+        "hometown": {
+          "city": "Lititz",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.1545,
+          "longitude": -76.3072
+        },
+        "education": "Warwick High School Syracuse University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Donald and Nancy Manley</li><li>Has two brothers Nick and Chris</li><li>Nickname is Shed</li><li>Began playing field hockey in 2008</li><li>Game Day Mantra: &quot;Give it my all so that at the end of the game I am not wishing that I did more.&quot;</li><li>Best Words of Advice: &quot;Stick to what keeps taking you tot he next level.&quot;</li><li>Favorite Sports Quote: &quot;It&#39;s not the will to win, but the will to prepare to win that makes the difference.&quot; - Paul Bryant</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019: Series against Canada (Lancaster, Pa.), Series against Chile (Santiago, Chile)</li>\r\n                            <li>2018: Series against The Netherlands (Palo Alto, Calif.), Series against Canada (Chula Vista, Calif.), Series against Chile (Lancaster, Pa.), Series against Argentina (Tucuman, Argentina), Four Nations Women&#39;s Ibaraki International Tournament (4th, Osaka, Japan), Series against Belgium (Lancaster, Pa.)</li>\r\n                            <li>2017 : The Hawke&#39;s Bay Cup (4th, Hawke&#39;s Bay, New Zealand), Series against Ireland (Lancaster, Pa.), International Festival of Hockey (4th, Melbourne, Australia)</li>\r\n                            <li>2016: Series against Canada (Chula Vista, Calif.), Series against Chile (Lancaster, Pa.), Series against Holland (Hilversum, The Netherlands), Citi Rio Send-Off Series (Lancaster, Pa.)</li>\r\n                            <li>2015: Recorded first cap February 14 in Series against Argentina (Lancaster, Pa.), Series against Ireland (Lancaster, Pa.)</li>\r\n                            <li>2015: Joined U.S. Women&#39;s National Team</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>2019 FIH Hockey Olympic Qualifier (Bhubaneswar, India)</li><li>Gold - 2017 World League Semifinals (Johannesburg, South Africa)</li><li>Gold - 2015 Pan American Games (Toronto, Canada)</li><li>Bronze - 2019 Pan American Games (Lima, Peru)</li><li>Bronze - 2017 Pan American Cup (Lancaster, Pa.)</li><li>Bronze - 2016 Champions Trophy (London, England)</li><li>5th - 2015 World League Round Semifinals (Valencia, Spain)</li><li>7th - 2017 World League Final (Auckland, New Zealand)</li><li>9th - 2019 FIH Pro League (worldwide)</li><li>14th - 2018 Vitality Hockey Women's World Cup (London, England)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720010/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alyssa%20Manley%20908271/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720012/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alyssa%20Manley%20908271/Manley_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alyssa Manley 908271"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Mann",
+      "bio": {
+        "height": "6'6\"",
+        "birthday": "1985-06-27T00:00:00",
+        "hometown": {
+          "city": "Newport Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6189,
+          "longitude": -117.9289
+        },
+        "education": "Corona Del Mar High School (Newport Beach, Calif.) ‘03 University of California, Berkeley ‘08, International Relations Foreign Language",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Dianna Mann</li><li>Has one sister, Natalie</li><li>Has competed for a France-based club, C.N. Marseille, since 2014</li><li>Aided University of California, Berkeley to the 2006 NCAA title</li><li>Selected 2006 Peter J. Cutino Award winner</li><li>Hobbies include traveling and listening to music.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FINA World League Super Final, silver</li>\r\n                            <li>2015 Pan American Games, gold</li>\r\n                            <li>2015 FINA World League Super Final, 4th</li>\r\n                            <li>2014 FINA World League Super Final, 5th</li>\r\n                            <li>2014 FINA World Cup, 4th</li>\r\n                            <li>2013 FINA World League Super Final, 4th</li>\r\n                            <li>2012 FINA World League Super Final, 4th</li>\r\n                            <li>2011 FINA World League Super Final, 4th</li>\r\n                            <li>2009 FINA World League Super Final, 4th</li>\r\n                            <li>2008 FINA World League Super Final, silver</li>\r\n                            <li>2007 Pan American Games, gold</li>\r\n                            <li>2007 FINA World League Super Final, 5th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Team - Men)</li><li>Olympic Games London 2012, 8th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2013, 2015</li><li>Top finish: 7th – 2015 (Team - Men)</li></ul><h5>More</h5>Personal Website<br>\nUSA Water Polo",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010354/TeamUSA%20Assets/Athlete%20Profiles/John%20Mann%20802787/Mann_John_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Mann 802787"
+        }
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Mann",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1987-07-09T00:00:00",
+        "hometown": {
+          "city": "Eden Prairie",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.8544,
+          "longitude": -93.4677
+        },
+        "education": "Bethel University '10, Business/Entrepreneurship",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Mann has always been an advocate for action sports growing up having participated in wakeboarding, and wake surfing. In 2013, he was involved in a boating accident that resulted in the amputation of both of his legs below the knee, but that didn&#39;t slow him down. As an avid snowboarder growing up, he immediately took up the sport once again. Since making his Para snowboarding debut, Mann has made his mark on the national and international stage</li><li>Hobbies include playing basketball, wake surfing, and road and mountain biking</li><li>Son of Mark and Nance Mann</li><li>Has three siblings: Anna, Joe and Olivia</li><li>Married to Rachael Mann</li><li>Serves as a board member for Wiggle Your Toes, a non-profit organization in Bloomington, Minnesota, that offers support to people who have limb deficiencies or have suffered limb loss.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018, 5th (Snowboard Cross - Lower Limb 1 Impaired - Men), 8th (Banked Slalom - Lower Limb 1 Impaired - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (Snowboard Cross - Lower Limb 1 Impaired - Men), 4th (Banked Slalom - Lower Limb 1 Impaired - Men)</li><li>Years of participation: Banked Slalom - Lower Limb 1 Impaired - Men 2017; Snowboard Cross - Lower Limb 1 Impaired - Men 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Snowboard Cross - Lower Limb 1 Impaired - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "SB-LL1 ",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347126/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mark%20Mann/Mann_Mark.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mark Mann"
+        }
+      ]
+    },
+    {
+      "first_name": "Strauss",
+      "last_name": "Mann",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1998-08-18T00:00:00",
+        "hometown": {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.0266,
+          "longitude": -73.6283
+        },
+        "education": "Brunswick School (Greenwich, Conn.) ‘17 University of Michigan ’22, Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Anthony and Sally Mann</li><li>Leadership Ambassador for Leadership Development Team (LDT)</li><li>Member of Student-Athlete Advisory Committee (SAAC)</li><li>First goalie to be a captain for Michigan hockey in 78 years</li><li>Tom Brady is his favorite Michigan athlete.</li></ul><h5>Career Highlights</h5><ul><li>2018 USHL Clark Cup Champion</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 4th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010378/TeamUSA%20Assets/Athlete%20Profiles/Strauss%20Mann%201237339/mann_strauss_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Strauss Mann 1237339"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Becca",
+      "last_name": "Mann",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1997-11-26T00:00:00",
+        "hometown": {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.2904,
+          "longitude": -76.6122
+        },
+        "education": "Home schooled ‘16 University of Southern California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Beth Mann</li><li>As a 10-year-old, Mann became the youngest person to cross the Maui Channel, completing the 9.9 mile stretch in 6:26:46</li><li>Comes from a family of triathletes and has competed in the sport as well</li><li>Self-published her own novel in 2014 called The Stolen Dragon Of Quanx, the first part of a planned trilogy.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 7th (25km Freestyle - Women)</li><li>Years of participation: 25km Freestyle - Women 2017; 10km Freestyle - Women 2013, 2015; 800m Freestyle - Women 2015; 5km Freestyle - Women 2013; 400m Individual Medley (SC) - Women 2012; 800m Freestyle (SC) - Women 2012</li><li>Top finish: 6th – 2012 (800m Freestyle (SC) - Women)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (1500m Freestyle - Women, 800m Freestyle - Women, 400m Freestyle - Women, 10km Freestyle - Women)</li><li>World Cup, 2017 (10km Freestyle - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347171/TeamUSA%20Assets/Migration/Athlete%20Profiles/Becca%20Mann/Mann_Becca.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Becca Mann"
+        }
+      ]
+    },
+    {
+      "first_name": "Dana",
+      "last_name": "Mann",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1984-09-06T00:00:00",
+        "hometown": {
+          "city": "Alexandria",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.8048,
+          "longitude": -77.0469
+        },
+        "education": "Aaniiih Nakoda College",
+        "fun_fact": null,
+        "biography": "<p><strong>DANA MANN</strong> (born Beňu&scaron;ov&aacute;)</p>\n<p> </p>\n<p><strong>Hometown</strong>: Bratislava, Slovakia<br>\n<strong> Current residence</strong>: Washington, DC<br>\n<strong> Birthday</strong>: 09/06/1984<br>\n<strong>Discipline/Event</strong>: Canoe Slalom, K1 Women<br>\n<strong>Height</strong>: 5'7\"<br>\n<strong>School</strong>: Comenius University, Bratislava, Slovakia. Master&rsquo;s (2010) and Bachelor&rsquo;s degree in International relations and European Studies <br>\n<strong>Team</strong>: Potomac Whitewater Racing Club, Bethesda, Maryland</p>\n<p>\n<strong></strong></p>\n<strong>Career Highlights:</strong><br>\n<ul>\n    <li>2014 U.S. National Champion</li>\n    <li>2013 - 5th at World Championships</li>\n    <li>2011 - World Champion in Team race (for Slovakia)</li>\n    <li>2011 - 2nd in the Overall World Cup Ranking (for Slovakia)</li>\n    <li>2011 and 2012 - Ranked 5th in the World (for Slovakia)</li>\n    <li>2008 University World Champion (for Slovakia)</li>\n</ul>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><strong>Other Results:&nbsp;</strong></p>\n<ul>\n    <li>2016 U.S. Olympic Canoe/Kayak Team Trials Event 1: 2nd in K1W</li>\n    <li>2016 Oceana Championships: 23rd in K1W</li>\n    <li>2016 Australian Open: 40th in K1W</li>\n    <li>2015 World Championships: 45th in K1W and 13th in Team Race</li>\n    <li>2014 World Championships: 23rd in K1W</li>\n    <li>2014 World Cup No 4: 28th in K1W</li>\n    <li>2014 World Cup No. 3: 29th in K1W</li>\n    <li>2014 World Cup No. 1: 13th in K1W&nbsp;</li>\n    <li>2014 U.S. Team Trials: 1st in K1W</li>\n    <li>2014 U.S. Open: 1st in K1W</li>\n    <li>2013 World Cup Final: 27th in K1W</li>\n    <li>2013 World Cup No. 3: 26th in K1W</li>\n    <li>2013 World Cup No. 2: 14th in K1W</li>\n    <li>2013 U.S. Team Trials: 1st in K1W</li>\n    <li>2012 European Championships: BRONZE in the K1W team race</li>\n    <li>2011 World Championships: 8th in K1W</li>\n    <li>2011 World Cup, Slovenia: SILVER in K1W</li>\n    <li>2011 World Cup, France: 4th in K1 W&nbsp;</li>\n    <li>2011 World Cup, Czech Republic: 6th in K1W</li>\n    <li>2011 World Championships: 8th in K1W</li>\n    <li>2011 US Open and Charlotte Open: 1st in K1W&nbsp;</li>\n    <li>2011 and 2012 Slovak National Champion&nbsp;</li>\n    <li>2010 US Open and Charlotte Open: 1st in K1W</li>\n    <li>2010 World Championships: 11th in K1W</li>\n    <li>2010 World Cup, Czech Republic: 7th in K1W</li>\n    <li>2010 World Cup, Spain: 9th in K1W</li>\n    <li>2009 World Series US Open: 1st in K1W</li>\n    <li>2005 European Under-23 Championships: <strong>BRONZE</strong> in K1W</li>\n</ul>\n<p><strong>Nickname</strong>: Danka</p>\n<p><strong>Blog</strong>: <span style=\"text-decoration: underline;\">http://danabenus.blogspot.com/</span> </p>\n<p> </p>\n<p><strong>Getting started</strong>: My mom was my coach since I was little (and she was on the Czechoslovak team), so I have always paddled with my brother and sister. I was on the Slovak national team from 1999 to 2012. In 2013, I qualified as a US team member. <br>\n<br>\n<br>\n</p><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 13th (K1 Team - Women), 44th (K1 - Women)</li><li>Years of participation: K1 - Women 2010, 2011, 2013, 2014, 2015; K1 Team - Women 2010, 2011, 2014, 2015</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2011 (K1 Team - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>World Cup, 2014 (K1 - Women)</li><li>World Cup, 2013 (K1 - Women)</li><li>World Cup, 2012 (K1 - Women)</li><li>World Cup, 2011 (K1 - Women)</li><li>World Cup, 2010 (K1 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720082/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dana%20Mann%20998151/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720084/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dana%20Mann%20998151/IMG_1664.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dana Mann 998151"
+        }
+      ]
+    },
+    {
+      "first_name": "Staci",
+      "last_name": "Mannella",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1996-04-25T00:00:00",
+        "hometown": {
+          "city": "Randolph",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.8526,
+          "longitude": -74.5763
+        },
+        "education": "Morris County School of Technology (Denville, N.J) ‘14 Dartmouth College '19, Anthropology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Mannella was born with achromatopsia, a congenital condition that seriously limits her visual acuity to three feet and causes extreme sensitivity to light</li><li>When she was only four years old, she was skiing down the slopes holding onto a bamboo pole between two sighted skiers</li><li>By the time Mannella was in fifth grade, she started racing and joined the Adaptive Sports Foundation Race Team at Windham Mountain Ski Resort in New York shortly after</li><li>Mannella started skiing with the Paralympics in mind after meeting members of the U.S. Paralympics Alpine Skiing team at the Hartford Ski Spectacular in 2008</li><li>Unique to her training, Mannella cross-trains in equestrian while in the off-season</li><li>Daughter of Arron Manella and Susan Arnold</li><li>Has two siblings, Matthew and Rachel</li><li>Horseback riding also serves as her hobby</li><li>Recipient of the 2023 Team USA Community Champions in partnership with Comcast award</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018,  (Super Combined - Visually Impaired - Women), 9th (Slalom - Visually Impaired - Women), 10th (Giant Slalom - Visually Impaired - Women, Super-G - Visually Impaired - Women)</li><li>Paralympic Games Sochi 2014, 6th (Giant Slalom - Visually Impaired - Women, Slalom - Visually Impaired - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 –  (Giant Slalom - Visually Impaired - Women, Slalom - Visually Impaired - Women), bronze (Super Combined - Visually Impaired - Women), 5th (Super-G - Visually Impaired - Women)</li><li>Years of participation: Giant Slalom - Visually Impaired - Women 2017; Slalom - Visually Impaired - Women 2017; Super Combined - Visually Impaired - Women 2017; Super-G - Visually Impaired - Women 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Super Combined - Visually Impaired - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "B3, Visually Impaired",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010382/TeamUSA%20Assets/Athlete%20Profiles/Staci%20Mannella%20814436/Mannella_Staci.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Staci Mannella 814436"
+        }
+      ]
+    },
+    {
+      "first_name": "Christine",
+      "last_name": "Mansour",
+      "bio": {
+        "height": "5'11",
+        "birthday": "1993-05-30T00:00:00",
+        "hometown": {
+          "city": "Naples",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.142,
+          "longitude": -81.7948
+        },
+        "education": "Barron Collier High School\t Harvard University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Studied Behavioral Economics at Harvard, where she played Division I basketball</li><li>Moved to San Diego after graduation and began training with the U.S. National Beach Handball Team</li><li>Currently works as a freelance content creator (www.cmnarrative.com) and moved to the Netherlands to play professional indoor handball for KRAS/Volendam, a Dutch team in the first division (Eredivisie)</li><li>Is starting the first ever U.S./Dutch beach handball team to compete in the European Beach Handball tour for summer 2021</li><li>Hobbies include playing all kinds of sports (including basketball, surfing, beach volleyball, and spikeball), traveling (34 countries and counting), reading (favorite book is The Prophet), learning about different cultures and videography.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021: Creating the first U.S./Dutch beach handball team to compete in the European Beach Handball tour (Netherlands)</li>\r\n                            <li>2020-2021: Played professional indoor handball for KRAS/Volendam in first division - Eredivisie League (Netherlands)</li>\r\n                            <li>2019: MVP of NORCA World Championship Qualifying Tournament - 1st, U.S. top scorer (Trinidad &amp; Tobago)</li>\r\n                            <li>2019 ANOC World Beach Games - 10th, U.S. top scorer (Doha, Qatar)</li>\r\n                            <li>2019 Karacho Beach Cup - 5th, U.S. top scorer (Kelkeim, Germany)</li>\r\n                            <li>2019 Training Camp with Greek and French National Teams (Paros, Greece)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006607/TeamUSA%20Assets/Athlete%20Profiles/Christine%20Mansour%20874277/Christine_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006609/TeamUSA%20Assets/Athlete%20Profiles/Christine%20Mansour%20874277/Christine_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christine Mansour 874277"
+        }
+      ]
+    },
+    {
+      "first_name": "Simone",
+      "last_name": "Manuel",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-08-02T00:00:00",
+        "hometown": {
+          "city": "Sugar Land",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.6194,
+          "longitude": -95.6311
+        },
+        "education": "Stanford University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Marc and Sharron Manuel. Has two older brothers, Christopher and Ryan</li><li>Enjoys listening to upbeat music when working out and gospel music always motivates her</li><li>If she wasn’t a competitive swimmer, she would be either a singer or dancer</li><li>Hobbies include baking and cooking because it relaxes her</li><li>Other interests include traveling, and collecting sunglasses and pictures.</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 7-time Olympic medalist (2 gold, 4 silver, 1 bronze)</li><ul><li>Olympic Games Paris 2024, silver (4 x 100m Freestyle Relay - Women, 4 x 200m Freestyle Relay - Women), 18th (50m Freestyle - Women)</li><li>Olympic Games Tokyo 2020, bronze (4 x 100m Freestyle Relay - Women), 11th (50m Freestyle - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (100m Freestyle - Women, 4 x 100m Medley Relay - Women), silver (4 x 100m Freestyle Relay - Women, 50m Freestyle - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – gold (100m Freestyle - Women, 4 x 100m Freestyle Relay - Mixed, 4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Mixed, 4 x 100m Medley Relay - Women), bronze (50m Freestyle - Women)</li><li>Years of participation: 100m Freestyle - Women 2015, 2017; 4 x 100m Freestyle Relay - Mixed 2015, 2017; 4 x 100m Freestyle Relay - Women 2013, 2015, 2017; 4 x 100m Medley Relay - Mixed 2017; 4 x 100m Medley Relay - Women 2015, 2017; 50m Freestyle - Women 2013, 2015, 2017</li><li>Medals: 9 (7 gold, 2 bronze)</li><ul><li>Gold – 2017 (100m Freestyle - Women, 4 x 100m Freestyle Relay - Mixed, 4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Mixed, 4 x 100m Medley Relay - Women);  2015 (4 x 100m Freestyle Relay - Mixed);  2013 (4 x 100m Freestyle Relay - Women)</li><li>Bronze – 2017 (50m Freestyle - Women);  2015 (4 x 100m Freestyle Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662062/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/manuel_s_bio_819323.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 4
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718215901/TeamUSA%20Assets/News/Manuel_S_TYR_2024.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010350/TeamUSA%20Assets/Athlete%20Profiles/Simone%20Manuel%20819323/manuel_simone_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Simone Manuel 819323"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Leo",
+      "last_name": "Manzano",
+      "bio": {
+        "height": "5’5”",
+        "birthday": "1984-09-12T00:00:00",
+        "hometown": {
+          "city": "Austin",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 30.2672,
+          "longitude": -97.7431
+        },
+        "education": "Marble Falls High School (Marble Falls High School) '04; University of Texas",
+        "fun_fact": null,
+        "biography": "<div><strong></strong><div><div><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games London 2012, silver (1500m - Men)</li><li>Olympic Games Beijing 2008, 23th (1500m - Men)</li></ul></ul></div><div><ul><li>2008 Olympic Games, 12th (1,500)</li></ul><h5>Career Highlights</h5></div><div><ul><li>2012 Olympic Trials, silver (1,500-meter)</li><li>2012 U.S. Olympic Team Trials 1500-meter champion</li><li>2007 USA &amp; NCAA Outdoors 1500-meter runner-up</li><li>3rd at 2006 USA Outdoors</li><li>2006 NCAA Indoor mile champion</li><li>2005 NCAA Outdoor champion<br></li></ul><p><strong>Fun Facts:&nbsp;</strong>Born in Mexico, Manzano moved with his family to Texas at the age of four where he soon began running ... After a standout high school career for Marble Falls High School (Marble Falls, Texas), where he won a total of nine Texas 4A state championships, Manzano competed for the University of Texas ...&nbsp;In Austin, he became the first ever Longhorn to make the U.S. Olympic squad in the 1,500-meter<br></p><p></p><h5>More</h5><span>Facebook</span><br><span>Twitter</span><br>Instagram&nbsp;<br>USA Track &amp; Field<br class=\"Apple-interchange-newline\"></div><p><br></p></div></div><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 10th (1500m - Men)</li><li>Years of participation: 1500m - Men 2007, 2009, 2015</li><li>Top finish: 10th – 2015 (1500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365264/TeamUSA%20Assets/Migration/Athlete%20Profiles/Leo%20Manzano/head.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Leo Manzano"
+        }
+      ]
+    },
+    {
+      "first_name": "Wiley",
+      "last_name": "Maple",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1990-05-25T00:00:00",
+        "hometown": {
+          "city": "Aspen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.1911,
+          "longitude": -106.8175
+        },
+        "education": "Aspen High School (Aspen, Colo.) ‘08 Westminster College, Philosophy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Julie and Mike Maple</li><li>Has one sister, Alex</li><li>Father Mike helped University of Colorado Boulder to two NCAA ski racing titles</li><li>Sister Alex also skied at University of Colorado Boulder</li><li>Hobbies include hiking, biking and rock climbing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2010 FIS Junior World Championships, 9th (downhill)</li>\r\n                            <li>2009 FIS Junior World Championships, 6th (downhill) </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 30th (Downhill - Men)</li></ul></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006659/TeamUSA%20Assets/Athlete%20Profiles/Wiley%20Maple%20879915/Maple_Wiley_121317_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006660/TeamUSA%20Assets/Athlete%20Profiles/Wiley%20Maple%20879915/maple_wiley_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Wiley Maple 879915"
+        }
+      ]
+    },
+    {
+      "first_name": "Cameron",
+      "last_name": "Maramenides",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2002-06-04T00:00:00",
+        "hometown": {
+          "city": "Anna Maria",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.5253,
+          "longitude": -82.7398
+        },
+        "education": " Saint Stephens Episcopal School (West Bradenton, Fla.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of professional kiteboarder Dimitri Maramenides</li><li>Brother to Tiger</li><li>Went kiting for the first time when he was just months old on his dad’s shoulders</li><li>Began kitesurfing solo at age six</li><li>Also plays soccer.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 TT:R Youth Slalom World Champion</li>\r\n                    </ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 21th (Formula Kite - Men)</li><li>Years of participation: Formula Kite - Men 2022, 2023, 2024</li><li>Top finish: 19th – 2023 (Formula Kite - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian;</li><ul><li>Olympic Games Paris 2024, 11th (Formula Kite - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006674/TeamUSA%20Assets/Athlete%20Profiles/Cameron%20Maramenides%201112702/maramenides_cameron.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cameron Maramenides 1112702"
+        }
+      ]
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Marcotte",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1980-02-08T00:00:00",
+        "hometown": {
+          "city": "Marquette",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 46.5458,
+          "longitude": -87.3956
+        },
+        "education": "Northern Michigan University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-f-Logo__blue_100_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=C19357865BB1BF4A1FAD45443CFC1A477E15D161\" ></td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div>\n<p><strong><br>\n</strong></p>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2015 USA Cycling National Criterium Championships, 1st</li>\n    <li>2014 USA Cycling Professional Road Race Championships, 1st</li>\n    <li>2013 USA Cycling Nature Valley Grand Prix, 3rd</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Jill Pennala and Daniel Marcotte</li><li>Has one brother, Jason</li><li>Hobbies include hiking, photography and outdoor activities.</li></ul></p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687346969/TeamUSA%20Assets/Migration/Athlete%20Profiles/Eric%20Marcotte/marcotte_eric.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Eric Marcotte"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Melanie",
+      "last_name": "Margalis",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1991-12-30T00:00:00",
+        "hometown": {
+          "city": "Clearwater",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9659,
+          "longitude": -82.8001
+        },
+        "education": "Countryside High School (Clearwater, Fla.) ‘10 University of Georgia ‘14, Fashion Merchandising",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bob and Caryn Margalis</li><li>Has two siblings, Robert and Stephanie.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 200m Freestyle Relay - Women), 4th (200m Individual Medley - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – silver (4 x 200m Freestyle Relay (SC) - Women), bronze (400m Individual Medley (SC) - Women), 4th (200m Individual Medley (SC) - Women), 7th (100m Individual Medley (SC) - Women), 13th (200m Breaststroke (SC) - Women)</li><li>Years of participation: 100m Individual Medley (SC) - Women 2012, 2014, 2018, 2021; 200m Breaststroke (SC) - Women 2014, 2021; 200m Individual Medley (SC) - Women 2012, 2014, 2018, 2021; 4 x 200m Freestyle Relay (SC) - Women 2018, 2021; 400m Individual Medley (SC) - Women 2018, 2021; 4 x 100m Medley Relay (SC) - Women 2018; 200m Individual Medley - Women 2015, 2017; 4 x 200m Freestyle Relay - Women 2017; 100m Breaststroke (SC) - Women 2014</li><li>Medals: 8 (2 gold, 4 silver, 2 bronze)</li><ul><li>Gold – 2018 (4 x 100m Medley Relay (SC) - Women);  2017 (4 x 200m Freestyle Relay - Women)</li><li>Silver – 2021 (4 x 200m Freestyle Relay (SC) - Women);  2018 (200m Individual Medley (SC) - Women, 4 x 200m Freestyle Relay (SC) - Women, 400m Individual Medley (SC) - Women)</li><li>Bronze – 2021 (400m Individual Medley (SC) - Women);  2014 (200m Individual Medley (SC) - Women)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718106/TeamUSA%20Assets/Migration/Athlete%20Profiles/Melanie%20Margalis%20802616/margalis_melanie_080816_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718108/TeamUSA%20Assets/Migration/Athlete%20Profiles/Melanie%20Margalis%20802616/Margalis_Melanie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Melanie Margalis 802616"
+        }
+      ]
+    },
+    {
+      "first_name": "Carly",
+      "last_name": "Margulies",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1997-12-24T00:00:00",
+        "hometown": {
+          "city": "Mammoth Lakes",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.6485,
+          "longitude": -118.9721
+        },
+        "education": "Westminster College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Carly was only 15 when she podiumed for the first time</li><li>She loves science - neuro, psychology, and anything to do with the brain.</li></ul><h5>Career Highlights</h5><ul><li>2018 U.S. Grand Prix, 4th (halfpipe)</li><li>2018 FIS World Cup (Tignes), 4th (halfpipe)</li><li>2018 FIS World Cup (Mammoth Mountain), 4th (halfpipe)</li><li>2016 RevTour, gold (halfpipe)</li><li>2015 RevTour, gold (halfpipe)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 11th (Halfpipe - Women)</li></ul></ul><h5>More</h5>U.S. Ski and Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661998/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/margulies_c_bio_996935.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010404/TeamUSA%20Assets/Athlete%20Profiles/Carly%20Margulies%20996935/marguiles_carly_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Carly Margulies 996935"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        }
+      ]
+    }
+  ]
+}

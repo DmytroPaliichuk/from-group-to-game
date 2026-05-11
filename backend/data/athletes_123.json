@@ -1,0 +1,867 @@
+{
+  "entries": [
+    {
+      "first_name": "Jonathan",
+      "last_name": "Quick",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1986-01-21T00:00:00",
+        "hometown": {
+          "city": "Milford",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.2223,
+          "longitude": -73.054
+        },
+        "education": "University of Massachusetts",
+        "fun_fact": null,
+        "biography": "<p><strong>Goaltender</strong></p>\n<p><em>Height: </em><strong><em>6&rsquo;1&rdquo; (185) </em></strong><strong><em>| </em></strong><em>Weight: </em><strong><em>216 (98)</em></strong></p>\n<p><em>Catches: </em><strong><em>Left </em></strong></p>\n<p><em>2008-09 Team: </em><st1:place w:st=\"on\"><st1:city w:st=\"on\"><strong><em>Los Angeles</em></strong></st1:city></st1:place><strong><em> Kings</em></strong></p>\n<p><strong>Olympic Experience</strong></p>\n<ul>\n    <li><span>2014 Olympic Winter Games, 4th</span></li>\n    <li><span>2010 Olympic Winter Games, silver medalist</span></li>\n</ul>\n<p><strong>NHL EXPERIENCE</strong></p>\n<p><strong>With <st1:city w:st=\"on\"><st1:place w:st=\"on\">Los Angeles</st1:place></st1:city>: </strong></p>\n<p><strong>2008-09: </strong>Appeared in 44 games with the National Hockey League&rsquo;s Los Angeles Kings &hellip; Posted a 21-18-2 record with two shutouts &hellip; Ranked third among rookie goalies in wins (21), goals-against average (2.48), save percentage (.914) and shutouts (4).</p>\n<p><strong>2007-08: </strong>Played in three games and compiled a 1-2 record &hellip; Recorded a 3.83 goals-against average and .855 save percentage.</p>\n<p><strong>ADDITIONAL EXPERIENCE:</strong></p>\n<p>Split time during the 2007-08 season with the Reading Royals of the ECHL and the Manchester Monarchs of the American Hockey League &hellip; Appeared in 19regular-season games for Manchester and posted an 11-8-0 record &hellip; Compiled a 2.32 goals against average, three shutouts and .922 save percentage &hellip; Skated in one playoff game &hellip; Played in 38 games with Reading and posted a 23-11-3 record with a 2.79 goals-against average, .905 save percentage and one shutout &hellip; Became second goaltender in ECHL history to record first win, shutout and score first goal in same game &hellip; Played two seasons (2005-07) with the University of Massachusetts of the Hockey East Association &hellip; In 2006-07, led UMass Amherst to its first-ever NCAA tournament bid &hellip; Posted team single-season records with wins (19), appearances (37), saves (1,046) and minutes played (2,224) &hellip; Compiled a 19-12-5 record with three shutouts, a 2.16 goals-against average and a .929 save percentage &hellip; Ranked fifth in nation in save percentage (.929) &hellip; Appeared in 17 games for UMass as a freshman and posted a 4-10- 1 record &hellip; Compiled a 2.98 goals-against average and a .920 save percentage &hellip; Named Hockey East Defensive Player of the Week twice and Hockey East Goaltender of the Month for November 2005.</p>\n<p><strong>PERSONAL: </strong>Selected by the Los Angeles Kings in the third round (72nd overall) in the 2005 NHL Entry Draft &hellip; Born in 1986, in <st1:place w:st=\"on\"><st1:city w:st=\"on\">Milford</st1:city>, <st1:state w:st=\"on\">Conn.<br>\n<br>\n</st1:state></st1:place></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Sochi 2014, 4th (Team - Men)</li><li>Olympic Games Vancouver 2010, silver (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686928330/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jonathan%20Quick/Mens_Ice_Hockey_Quick_Jonathan_Site.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jonathan Quick"
+        }
+      ]
+    },
+    {
+      "first_name": "Colleen",
+      "last_name": "Quigley",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1992-11-20T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": "Florida State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Gaylerd and Ann Quigley</li><li><p>Has one brother, Daniel, and one sister, Erin</p></li><li><p>Nine-time NCAA All-American</p></li><li><p>Hobbies include knitting, sewing, cooking, reading and hiking</p></li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 8th (3000m Steeplechase - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 9th (1500m (Indoor) - Women)</li><li>Years of participation: 1500m (Indoor) - Women 2018; 3000m Steeplechase - Women 2015, 2017</li><li>Top finish:  – 2017 (3000m Steeplechase - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662025/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/quigly_c_bio_920475.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662554/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/quigly_c_hero_920475.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716764/TeamUSA%20Assets/Migration/Athlete%20Profiles/Colleen%20Quigley%20920475/Quigley_Colleen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Colleen Quigley 920475"
+        }
+      ]
+    },
+    {
+      "first_name": "Ian",
+      "last_name": "Quinn",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1993-07-21T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": " University of Utah",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>At 8 years old, Ian picked up skating, but he also competed in golf, cross country and track as he grew up in St. Louis. His St. Louis ties run deep as a huge supporter of the Cardinals (MLB) and Blues (NHL). Out of all the places that he has speed skated, his favorite place that he has competed is Spain. Although he enjoys his yearly Halloween tradition by eating his mom’s chili, his tru favorite food is curry. He lives by the quote, “Hurt now, win later.”<h5>Career Highlights</h5><ul><li>2022 World Cup Final - Mass Start 8th</li><li>2022 Olympic Team Trials - Mass Start Gold; 1000m 10th</li><li>2021-22 World Cup 4 - Mass Start 12th</li><li>2021-22 World Cup 1 - Mass Start 9th</li><li>2021-22 Long Track Fall World Cup Team</li><li>2015-22 Long Track National Training Program</li><li>2020-21 World Cup 2 - Mass Start 13th Place; 5000m (B) 19th</li><li>2020-21 World Cup 1 - Mass Start 11th</li><li>2015-16 Canada Cup - 10000m Bronze</li><li>2015-16 American Cup Final - 5000m Gold; 1500m Bronze</li><li>2014-15 American Cup Final - 5000m Silver</li><li>2014-15 CanAm International - 5000m Bronze</li><li>University Games Short Track Team Member</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 25th (Mass Start 16 Laps - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2021 – 21th (Mass Start 16 Laps - Men)</li><li>Years of participation: Mass Start 16 Laps - Men 2020, 2021; Team Pursuit 8 Laps - Men 2020</li><li>Top finish: 5th – 2020 (Team Pursuit 8 Laps - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662008/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/I_Quinn_bio_987988.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662693/TeamUSA%20Assets/Athlete%20Profiles/Ian%20Quinn%20987988/I_Quinn_hero_987988.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683142952/NGB%20Speedskating/Migration/Athlete%20Profiles/Ian%20Quinn%20987988/Ian.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683142952/NGB%20Speedskating/Migration/Athlete%20Profiles/Ian%20Quinn%20987988/Ian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ian Quinn 987988"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "Long Track Speedskating"
+        }
+      ]
+    },
+    {
+      "first_name": "Pieter",
+      "last_name": "Quinton",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1998-02-11T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "Harvard University '20; University of Washington (M.A.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Rowed at Harvard University before transferring to the University of Washington as a graduate student</li><li>Has been on five national teams in his career, but Paris 2024 will be his Olympic debut</li><li>Hobbies include cycling, skiing, hiking and reading</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 6th (Eight - Men)</li><li>Years of participation: Eight - Men 2022, 2023</li><li>Top finish: 4th – 2022 (Eight - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Rotterdam, 2016 (Coxed Four - Men)</li><li>World Junior Championships, Rio de Janeiro, 2015 (Coxed Four - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Eight - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717000740/TeamUSA%20Assets/Athlete%20Profiles/Pieter%20Quinton%201056211/Quinton_p_bio_1056211.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717000624/TeamUSA%20Assets/Athlete%20Profiles/Pieter%20Quinton%201056211/Quinton_p_hero_1056211.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717000624/TeamUSA%20Assets/Athlete%20Profiles/Pieter%20Quinton%201056211/Quinton_p_hero_1056211.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717000624/TeamUSA%20Assets/Athlete%20Profiles/Pieter%20Quinton%201056211/Quinton_p_hero_1056211.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rowing"
+        },
+        {
+          "title": "Pieter Quinton 1056211"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Matthew",
+      "last_name": "Ra",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2005-07-25T00:00:00",
+        "hometown": {
+          "city": "Rochester",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.1566,
+          "longitude": -77.6088
+        },
+        "education": "Pittsford Sutherland High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Joanna Ra</li><li>Two older siblings, Hailey and Luke Ra</li><li>Has a dog named Bori</li><li>Born in Los Angeles, California</li><li>Started Taekwondo at the age of 1, under his father</li><li>Competed in Sparring and Poomsae at first, began Freestyle Poomsae in 2019</li><li>Also trained in Hapkido, Kumdo, and Judo</li><li>Favorite athletes are Mike Tyson and Kobe Bryant</li></ul><ul><li>Favorite taekwondo athletes are Master John Ra, Master Sung, Eddie, and James Park</li></ul><ul><li>Favorite TV show is Kickin'it</li><li>Favorite movies are Rocky III, Heat, the Godfather</li><li>Favorite quote is \"There is no tomorrow\" - Apollo Creed</li><li>Proudest moment in Taekwondo was representing Team USA at the world championships in Hong Kong with his sister, Hailey, and cheering for their friends/teammates in the stands</li></ul><h5>Career Highlights</h5><ul><li><p>2024 U.S. National Taekwondo Team Trials, silver (Over 17 Freestyle Pair)</p></li><li>2024 Pan American Taekwondo Championships, bronze (Over 17 Freestyle Pair)</li><li>2023 U.S. Taekwondo National Championships, gold (Over 17 Freestyle Pair), bronze (Over 17 Freestyle Individual)</li><li>2022 U.S. Taekwondo National Championships, silver (Under 17 Freestyle Team)</li><li>2021 U.S. Taekwondo National Championships, bronze (Under 17 Freestyle Individual, Under 17 Freestyle Team)</li><li>2024 Team USA National Member</li><li>2023 Team USA Wildcard</li><li>2022 Team USA Alternate</li><li>3x U.S. Open Medalist</li><li>5x U.S. National Championships Medalist</li><li>8x International Medalist</li><li>17x State/Regional Medalist</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746127128/TeamUSA%20Assets/Athlete%20Profiles/Matthew%20Ra/ra_m_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746127069/TeamUSA%20Assets/Athlete%20Profiles/Matthew%20Ra/ra_m_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746127128/TeamUSA%20Assets/Athlete%20Profiles/Matthew%20Ra/ra_m_bio.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746127069/TeamUSA%20Assets/Athlete%20Profiles/Matthew%20Ra/ra_m_hero.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taekwondo"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Matthew Ra"
+        }
+      ]
+    },
+    {
+      "first_name": "Meaghan",
+      "last_name": "Raab",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-03-25T00:00:00",
+        "hometown": {
+          "city": "Nashville",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 36.1627,
+          "longitude": -86.7816
+        },
+        "education": "Hershey High School (Hershey, Penn.) ‘14   University of Georgia ‘18, Journalism ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Greg and Jamie Raab</li><li>Mother swam at Stanford University</li><li>Has four siblings: Tim, Allie, Shannon and Luke</li><li>Tim swims at the University of Tennessee and Allie is committed to swim at Stanford</li><li>Began swimming at age 6</li><li>Volunteers in guest services at her local church</li><li>Collects her favorite movies</li><li>Enjoys reading, cooking and hanging out with friends.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (4 x 200m Freestyle Relay - Women, 200m Freestyle - Women, 4 x 100m Medley Relay - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008794/TeamUSA%20Assets/Athlete%20Profiles/Meaghan%20Raab%201144932/Raab_Meghan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Meaghan Raab 1144932"
+        }
+      ]
+    },
+    {
+      "first_name": "Brooke",
+      "last_name": "Raboutou",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "2001-04-09T00:00:00",
+        "hometown": {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.015,
+          "longitude": -105.2705
+        },
+        "education": "University of San Diego '23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Sport climbing</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Event: </strong></span><span style=\"font-size: 11pt;\">Bouldering, lead and speed</span></p></li></ul><h5><strong>Biographical Information&nbsp;</strong></h5><p><span style=\"font-size: 11pt;\">Brooke Raboutou is an elite French-American sport climber, known for her excellence in bouldering, lead, and speed climbing. Her natural ability and extensive training have earned her global recognition and a key role in promoting the growth of sport climbing.</span></p><p><span style=\"font-size: 11pt;\">Raboutou was born into a legendary climbing family. Her mother, Robyn Erbesfield-Raboutou, is a four-time World Cup champion, and her father, Didier Raboutou, is a renowned climber who has won multiple international titles. Her brother, Shawn Raboutou, is also a professional climber specializing in bouldering. Growing up in Boulder, Colorado, Brooke had access to world-class training from a young age.</span></p><h5><strong>Olympic Highlights</strong></h5><p><span style=\"font-size: 11pt;\">Raboutou made her Olympic debut at the Tokyo 2020 Olympic Games, where sport climbing was first introduced as an Olympic event. She qualified for the games as one of the top 20 climbers worldwide and finished in 5th place in the women's combined event.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">In 2024, Raboutou secured a spot for the combined event at the Paris 2024 Olympic Games by placing first in the rankings of the boulder combined event at the Olympic Qualifier Series. She won the silver medal in the combined bouldering and lead climbing event, becoming the first American woman to earn an Olympic medal in sport climbing.</span></p><h5><strong>World Cup Highlights</strong></h5><p><span style=\"font-size: 11pt;\">In 2019, Raboutou qualified for multiple finals in both bouldering and lead climbing at the IFSC Climbing World Cup. Then in the 2021 IFSC World Cup events, she earned a bronze medal in bouldering at the Salt Lake City World Cup. The following year, Raboutou earned silver in the bouldering category at the Innsbruck World Cup. Her breakthrough moment came in April 2023 when she secured her first IFSC Climbing World Cup gold medal in the boulder event in Hachioji, Japan. Later that year in October, Raboutou completed the second female ascent of 'Box Therapy', a boulder problem originally graded V16 (8C+), though she proposed a downgrade to V15 (8C) based on her experience.</span></p><h5><strong>Early Career</strong></h5><p><span style=\"font-size: 11pt;\">By the time she was a teenager, Raboutou had already set several records and won multiple Youth World Championship medals. Her transition from the youth to professional ranks was seamless, and she quickly became a standout competitor in both bouldering and lead climbing on the IFSC World Cup circuit.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">At 9 years old, Raboutou became the youngest female climber to complete a 5.13b route, and by age 11, she was the youngest climber to complete a 5.14b route. By 13, Raboutou had scaled multiple 5.14b routes.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Bouldering & Lead Combined - Women)</li><li>Olympic Games Tokyo 2020, 5th (Combined - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Bouldering - Women), 4th (Bouldering & Lead Combined - Women), 5th (Lead - Women)</li><li>Years of participation: Bouldering - Women 2018, 2019, 2021, 2023; Bouldering & Lead Combined - Women 2023; Lead - Women 2018, 2019, 2021, 2023; Combined - Women 2018, 2019; Speed - Women 2018, 2019</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Bouldering - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712867715/Raboutou_Brooke_LAGettyShoot.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sport Climbing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662430/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/raboutou_b_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687348039/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brooke%20Raboutou/Raboutou_Brooke.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brooke Raboutou"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sport Climbing"
+        }
+      ]
+    },
+    {
+      "first_name": "River",
+      "last_name": "Radamus",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1998-02-12T00:00:00",
+        "hometown": {
+          "city": "Edwards",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6403,
+          "longitude": -106.592
+        },
+        "education": "TEAM Academy ",
+        "fun_fact": "Idol is Nikola Jokić",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Also and Sara Radamus</li><li>Mother, Sara Radamus was a NCAA champion, decorated Pro Tour racer, and world class coach for decades</li><li>Father, Aldo Radamus is the former US Ski Team coach, former Ski and Snowboard Club Vail Director, and was involved in every level of the sport</li><li>Motivated by Ted Ligety</li><li>Idol is Nikola Jokić</li><li>Claims he learned to ski before he could walk</li><li>Advocate for the Protect our Winters foundation, which advocates for climate action and legislation to slow and reverse the effects of climate change</li><li>In the process of creating his own foundation to improve access and affordability to the sport of ski racing</li><li>Hobbies include photography, playing video games, surfing, mountain biking and traveling</li><li>Speaks Spanish</li></ul><h5><span style='font-size: 11pt;'>Biographical Information</span></h5><p><span style='font-size: 11pt;'>River Radamus was born into a family deeply embedded in ski coaching and racing. His father, Aldo Radamus, served as U.S. Ski Team development director, U.S. Ski Team coach and executive director of Ski &amp; Snowboard Club Vail, where he was inducted into the Colorado Ski &amp; Snowboard Hall of Fame. His mother, Sara Radamus, has coached at numerous programs including Ski &amp; Snowboard Club Vail, Steamboat Springs Winter Sports Club and the Puerto Rican Ski Team at the Olympic Winter Games PyeongChang 2018, while also conducting elite ski camps globally in locations from British Columbia to New Zealand. Growing up in Edwards, Colorado, Radamus learned to ski on the slopes of Vail, and his parents' hands-off approach allowed him to develop a natural love for the sport while providing extensive support behind the scenes.</span></p><p><span style='font-size: 11pt;'>Radamus burst onto the international stage at age 18 at the Winter Youth Olympic Winter Games Lillehammer 2016. He dominated the alpine skiing competition by winning three consecutive gold medals in super-G, combined and giant slalom—becoming the first skier or snowboarder in history to win three individual gold medals at a Youth Olympic Games.&nbsp;</span></p><p><span style='font-size: 11pt;'>Following his Youth Olympic success, Radamus joined the U.S. Ski Team in 2016 and continued to excel at the junior level, winning two gold medals at the 2019 junior world championships in giant slalom and super-G, along with a silver medal in the team event. That same year, he captured the NorAm overall title. Radamus made his world cup debut in 2017 and earned his first world cup points in 2018 at Alta Badia, Italy.&nbsp;</span></p><p><span style='font-size: 11pt;'>Radamus made his Olympic debut at the Olympic Winter Games Beijing 2022, where he delivered a career-defining performance in the men's giant slalom. Sporting zebra-striped hair—dyed to remind himself to enjoy the experience and not let pressure take away his love of skiing—he finished fourth, just 0.26 seconds off the bronze medal. The 24-year-old moved up from ninth place after the first run, skiing through heavy snowfall to post Team USA's best result in the men's giant slalom. He also competed in the team parallel event at Beijing 2022, where the U.S. narrowly missed bronze. The following year, Radamus won gold in the team parallel event at the 2023 world championships.</span></p><p><span style='font-size: 11pt;'>The 2023-2024 season marked Radamus's breakthrough on the world cup circuit. He earned his first career world cup podium on home snow at the Stifel Palisades Tahoe Cup with a third-place finish in giant slalom. He also expanded his success beyond giant slalom, earning his first world cup slalom points and recording a top-10 finish in super-G. Throughout his career, Radamus has demonstrated his commitment to environmental advocacy, donating prize winnings to Protect Our Winters, a nonprofit dedicated to climate action. He is an advocate for improved access and affordability in ski racing. Off the snow, Radamus maintains balance through diverse interests including surfing in Central America, mountain biking and photography, embodying his parents' philosophy that skiing should enhance life rather than consume it.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026,  (Slalom - Men, Super G - Men), 17th (Giant Slalom - Men), 19th (Team Alpine Combined - Men)</li><li>Olympic Games Beijing 2022, 4th (Giant Slalom - Men, Team - Mixed), 15th (Super G - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 –  (Slalom - Men), 4th (Parallel Team - Mixed), 17th (Giant Slalom - Men), 19th (Super G - Men)</li><li>Years of participation: Giant Slalom - Men 2021, 2023, 2025; Parallel Team - Mixed 2025; Slalom - Men 2025; Super G - Men 2023, 2025; Parallel - Men 2021, 2023; Super Combined - Men 2023; Team - Mixed 2021, 2023</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2023 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1730142612/Radamus_River_DH102624.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742495864/TeamUSA%20Assets/Athlete%20Profiles/River%20Radamus%20907423/radamus_r_hero_907423.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1768245824/TeamUSA%20Assets/Qualification%20Cards/Radamus_River_QualCard.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008919/TeamUSA%20Assets/Athlete%20Profiles/River%20Radamus%20907423/radamus_river_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "River Radamus 907423"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Ragona",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1992-11-03T00:00:00",
+        "hometown": {
+          "city": "Des Plaines",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.0334,
+          "longitude": -87.8895
+        },
+        "education": "Maine West High School Elmhurst College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>I started karate when I was 10 years old. I quit after the first session because I was also enjoying baseball at the time. I rejoined when I was 12 or 13 and I have been doing it since. I think why I got back into it was because I just needed an outlet to build my self-esteem. I was picked on during my childhood and karate was a place I could get away from that. Three things you may not know about me are that I enjoy stand-up comedy, I used to be a cross country runner, and I also used to do a little bit of acting in high school.<h5>Career Highlights</h5><ul>\r\n                            <li>2017 First Place Kumite Sr. -60kg</li>\r\n                            <li>2016 2nd Place Kumite Sr. -60kg</li>\r\n                            <li>2013 2nd Place Kumite Sr. -60kg</li>\r\n                            <li>2013 3rd Place Kumite Jr. -68kg</li>\r\n                            <li>2011 World Shotokan Team Kumite Champion</li>\r\n                            <li>2010 3rd Place Kata Champion</li>\r\n                            <li>2010 National Champion Kumite Jr.</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>WSKA World Team Champion Kumite: Gold </li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008800/TeamUSA%20Assets/Athlete%20Profiles/Andrew%20Ragona%20850114/Ragona-Andrew.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Andrew Ragona 850114"
+        }
+      ]
+    },
+    {
+      "first_name": "Paige",
+      "last_name": "Railey",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1987-05-15T00:00:00",
+        "hometown": {
+          "city": "Clearwater",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9659,
+          "longitude": -82.8001
+        },
+        "education": "Clearwater High School (Clearwater, Fla.) ‘05 University of South Florida ’10, Business Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ann and Dan Railey</li><li>Has one brother, Zach, who is also an Olympic sailor and has a twin sister, Brooke</li><li>Hobbies include rock climbing, mountain biking, road biking, triathlons, shopping, fashion, reading, going to the beach and studying</li><li>Has been named the US Sailing’s Olympic Athlete of the Year (2011-12), US Sailing’s SportsWoman of the Year (2010) and the ISAF World Sailor of the Year (2006)</li><li>Was introduced to the sport during a summer learn to sail program with her brother</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, gold</li>\r\n                            <li>2011 Pan American Games, bronze</li>\r\n                            <li>2007 Pan American Games, gold </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 37th (Laser Radial - Women)</li><li>Olympic Games Rio de Janeiro 2016, 10th (Laser Radial - Women)</li><li>Olympic Games London 2012, 8th (Laser Radial - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2020 – 14th (Laser Radial - Women)</li><li>Years of participation: Laser Radial - Women 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2018, 2019, 2020</li><li>Medals: 5 (1 gold, 1 silver, 3 bronze)</li><ul><li>Gold – 2005 (Laser Radial - Women)</li><li>Silver – 2016 (Laser Radial - Women)</li><li>Bronze – 2013 (Laser Radial - Women);  2011 (Laser Radial - Women);  2010 (Laser Radial - Women)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008846/TeamUSA%20Assets/Athlete%20Profiles/Paige%20Railey%20806043/Railey_Paige_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paige Railey 806043"
+        }
+      ]
+    },
+    {
+      "first_name": "Aly",
+      "last_name": "Raisman",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1994-05-25T00:00:00",
+        "hometown": {
+          "city": "Needham",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.2808,
+          "longitude": -71.2306
+        },
+        "education": "Needham High School (Needham, Mass.) ‘12 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Lynn and Rick Raisman</li><li>Has two sisters, Madison and Chloe, and one brother, Brett</li><li>Favorite event is floor exercise</li><li>Began gymnastics in 1996, after repeatedly watching a recording of the 1996 Olympic Games, in which the U.S. won the women’s team gold medal</li><li>Took a break from competitive gymnastics following the 2012 Olympic Games, returning to competition in March 2015 to pursue her second Olympic berth</li><li>Finished fourth on the 16th season of “Dancing with the Stars” in 2013</li><li>Supports the Uniting Against Lung Cancer organization in memory of her grandmother, who passed away from the disease</li><li>Plans to pursue a career in fashion and expand her signature line of leotards and socks</li><li>Hobbies include practicing hot yoga</li><li>Volunteers with Special Olympics.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 6-time Olympic medalist (3 gold, 2 silver, 1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women), silver (Floor Exercise - Women, Individual All-Around - Women), 9th (Beam - Women), 22th (Uneven Bars - Women)</li><li>Olympic Games London 2012, gold (Floor Exercise - Women, Team - Women), bronze (Beam - Women), 4th (Individual All-Around - Women), 23th (Uneven Bars - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (Team - Women), 10th (Floor Exercise - Women), 17th (Beam - Women), 25th (Individual All-Around - Women), 68th (Uneven Bars - Women)</li><li>Years of participation: Beam - Women 2010, 2011, 2015; Floor Exercise - Women 2010, 2011, 2015; Individual All-Around - Women 2010, 2011, 2015; Team - Women 2010, 2011, 2015; Uneven Bars - Women 2010, 2011, 2015</li><li>Medals: 4 (2 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2015 (Team - Women);  2011 (Team - Women)</li><li>Silver – 2010 (Team - Women)</li><li>Bronze – 2011 (Floor Exercise - Women)</li></ul></ul><h5>More</h5>USA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008865/TeamUSA%20Assets/Athlete%20Profiles/Aly%20Raisman%20905581/raisman_aly_080416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008866/TeamUSA%20Assets/Athlete%20Profiles/Aly%20Raisman%20905581/Raisman_Aly_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aly Raisman 905581"
+        }
+      ]
+    },
+    {
+      "first_name": "Rhonda",
+      "last_name": "Rajsich",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1978-10-07T00:00:00",
+        "hometown": {
+          "city": "Fountain Hills",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.6003,
+          "longitude": -111.7204
+        },
+        "education": "Thunderbird High School (Phoenix, Ariz.) Stephen F. Austin State University, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Personal:&#160;Only child of of Dennis Rajsich and Deneen Thurow (now Bronner)</li><li>In a relationship with Lea Waide</li><li>Full-time professional racquetball player, aspiring pro basketball player and speaker</li><li>Hobbies include exploring the world, delicious food and drinks, movies, music, anything Apple, and training.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Doubles - Women, Team - Women, Singles - Women)</li><li>Pan American Games, Toronto, 2015 (Team - Women, Doubles - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – bronze (Team - Mixed, Team - Women), 5th (Singles - Women)</li><li>Years of participation: Singles - Women 2010, 2012, 2014, 2016, 2018, 2021, 2022; Team - Mixed 2022; Team - Women 2022; Doubles - Women 2012, 2018, 2021</li><li>Medals: 8 (1 gold, 2 silver, 5 bronze)</li><ul><li>Gold – 2010 (Singles - Women)</li><li>Silver – 2021 (Doubles - Women);  2014 (Singles - Women)</li><li>Bronze – 2022 (Team - Mixed, Team - Women);  2021 (Singles - Women);  2012 (Doubles - Women, Singles - Women)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Racquetball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010668/TeamUSA%20Assets/Athlete%20Profiles/Rhonda%20Rajsich%20819366/RhondaRajsich_2022Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rhonda Rajsich 819366"
+        }
+      ]
+    },
+    {
+      "first_name": "Christie",
+      "last_name": "Raleigh Crossley",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1987-06-20T00:00:00",
+        "hometown": {
+          "city": "Toms River",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 39.9537,
+          "longitude": -74.2085
+        },
+        "education": "Florida State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Grew up playing a multitude of sports, including playing in the boy's leagues for basketball and baseball, where she was the only girl</li><li>In middle school, made the decision to focus on swimming, with dreams of making the Atlanta 1996 Olympic Games</li><li>Moved to Florida when she was 15 to attend Pine Crest School in hope of achieving her Olympic dreams</li><li>Swam at Florida State University, where she was the Atlantic Coast Conference Freshman of the Year, an NCAA All-American and ACC Conference Meet MVP</li><li>After sustaining a neck and back injury in 2007 after being hit by a drunk driver, and then a brain injury in 2008 as a pedestrian in a hit and run, Raleigh Crossley left FSU and moved to Baltimore to train at North Baltimore Athletics Club</li><li>Took time off in 2010 to begin her family, then returned to the pool in 2012 at Rowan University to swim with her sister Lindsey, where she won an NCAA title</li><li>Lists one of her favorite swimming memories as being able to do her post-win media with her then-16-month-old daughter in her arms</li><li>When both of her kids were in school in 2018, Raleigh Crossley gave swimming one last try in hopes of making it to the Tokyo Olympic Games</li><li>On Dec. 12, 2018 on a ski trip, Raleigh Crossley experienced paralysis on her left side due to the bleeding of a previously unknown blood tumor in her brain</li><li>After realizing her Olympic dreams had likely ended with the tumor surgery, Raleigh Crossley saw Paralympic swimmer Michelle Konkoly during the Tokyo Olympic broadcast coverage, and looked into Paralympic sport eligibility</li><li>In early 2022, began training as a Para swimmer</li><li>Broke her first American Record in March 2022, which had previously been held by Konkoly</li><li> Hopes to be to others who Konkoly was to her, the person whose visibility in media informs someone else what possibilities they have</li><li>Outside of the pool, loves being a mom, photography, the New York Yankees, and anything that involves the water</li><li>Has two daughters, Apribella Noelle and Loughlin Calianna Kathleen, and one son, Raleigh Ailbe</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (100m Backstroke S9 - Women), 5th (4 x 100m Medley Relay 34 Points - Mixed)</li><li>Years of participation: 100m Backstroke S9 - Women 2023; 4 x 100m Medley Relay 34 Points - Mixed 2023</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2023 (100m Backstroke S9 - Women)</li></ul></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 5-time Paralympic medalist (2 gold, 2 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, gold (100m Backstroke S9 - Women, 100m Butterfly S9 - Women), silver (100m Freestyle S9 - Women, 50m Freestyle S10 - Women), bronze (4 x 100m Freestyle Relay 34 Points - Mixed), 6th (4 x 100m Medley Relay 34 Points - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694022553/NGB%20Para%20Swimming/Athlete%20Profiles/Raleigh_Crossley_20230805_WC-Para-Swimming_111748_026871.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694022553/NGB%20Para%20Swimming/Athlete%20Profiles/Raleigh_Crossley_20230805_WC-Para-Swimming_111800_026880.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694022553/NGB%20Para%20Swimming/Athlete%20Profiles/Raleigh_Crossley_20230805_WC-Para-Swimming_195151_029836.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        },
+        {
+          "title": "Christie Raleigh Crossley"
+        }
+      ]
+    },
+    {
+      "first_name": "Rajeev",
+      "last_name": "Ram",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1984-03-18T00:00:00",
+        "hometown": {
+          "city": "Carmel",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.9781,
+          "longitude": -86.1142
+        },
+        "education": "University of Illinois",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Raghav and Sushma Ram</li><li>Married to Zainab Saqib</li><li>Began playing tennis at age 4</li><li>Favorite surface is grass</li><li>In 2003, helped Illinois to a 32-0 season and the NCAA team title</li><li>Hobbies include ping pong, music and golf</li><li>Enjoys spending time with his family</li><li>Does volunteer work for his charity EntouRaj for Kids</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (2 silver)</li><ul><li>Olympic Games Paris 2024, silver (Doubles - Men)</li><li>Olympic Games Tokyo 2020, 9th (Doubles - Men, Doubles - Mixed)</li><li>Olympic Games Rio de Janeiro 2016, silver (Doubles - Mixed), 9th (Doubles - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662671/TeamUSA%20Assets/Athlete%20Profiles/Rajeev%20Ram%201195621/Rajeev_R_Bio_1195621.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662818/TeamUSA%20Assets/Athlete%20Profiles/Rajeev%20Ram%201195621/Rajeev_R_Hero_1195621.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008887/TeamUSA%20Assets/Athlete%20Profiles/Rajeev%20Ram%201195621/Ram_Rajeev_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rajeev Ram 1195621"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Tennis"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicholas",
+      "last_name": "Ramey",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "2001-04-30T00:00:00",
+        "hometown": {
+          "city": "Snellville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.8596,
+          "longitude": -84.0099
+        },
+        "education": "Brookwood High School ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Enjoys playing video games with friends and spending time outdoors and with friends and family.<h5>Career Highlights</h5><ul><li>World Junior Championships, Tampere, 2018 (4 x 400m Relay - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680008805/TeamUSA%20Assets/Athlete%20Profiles/Nicholas%20Ramey%201187484/ramey_nicholas.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicholas Ramey 1187484"
+        }
+      ]
+    }
+  ]
+}

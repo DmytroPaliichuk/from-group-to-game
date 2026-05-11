@@ -1,0 +1,1043 @@
+{
+  "entries": [
+    {
+      "first_name": "Ariel",
+      "last_name": "Torres",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1997-11-06T00:00:00",
+        "hometown": {
+          "city": "Hialeah",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 25.8584,
+          "longitude": -80.2787
+        },
+        "education": "West Hialeah Miami Dade",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>started karate at the age of 6. So 16 years total now. The doctor said I was hyper active and suggested they put me into a sport that would tire me and at the same time teach me decision. He said karate would be a great idea. So my mom took me to the nearest dojo to my house. (15 min walk)</li><li>I have a karate Vlog on YouTube @arielkarate1. I play the trumpet. I love ping pong and watch Anime</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>4x USA Karate SeniorTeam Member</li>\r\n                            <li>2x USA Karate National Champion</li>\r\n                            <li>Jr. National Champion 2014-2018</li>\r\n                            <li>Senior Pan American Champion (2019)</li>\r\n                            <li>Pan American Games Silver Medalist (2019)</li>\r\n                            <li>Pan American Bronze Medalists (2018)</li>\r\n                            <li>Jr. Pan American Silver Medalist (2015)</li>\r\n                            <li>Jr. Pan American Silver Medalist (2013)</li>\r\n                    </ul><h5>More</h5><br><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, bronze (Individual Kata - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Individual Kata - Men)</li><li>Years of participation: Individual Kata - Men 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Individual Kata - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013462/TeamUSA%20Assets/Athlete%20Profiles/Ariel%20Torres%201062978/Ariel-Torres.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ariel Torres 1062978"
+        }
+      ]
+    },
+    {
+      "first_name": "Matthew",
+      "last_name": "Torres",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2001-03-27T00:00:00",
+        "hometown": {
+          "city": "Ansonia",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.3404,
+          "longitude": -73.079
+        },
+        "education": "Fairfield University '23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with amniotic band syndrome, missing half his right leg, with deformities on both hands and has moderate hearing loss</li><li>Began swimming in 2008 after watching Michael Phelps at the Beijing Games</li><li>Son of Gil and Martha Torres</li><li>Fan of the Patriots and Real Madrid</li><li>Hobbies include swimming and stock market trading</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 bronze)</li><ul><li>Paralympic Games Paris 2024, bronze (4 x 100m Freestyle Relay 34 Points - Mixed), 5th (400m Freestyle S8 - Men), 10th (100m Backstroke S8 - Men), 15th (100m Freestyle S8 - Men)</li><li>Paralympic Games Tokyo 2020, bronze (400m Freestyle S8 - Men), 9th (4 x 100m Medley Relay 34 Points - Men), 10th (100m Backstroke S8 - Men, 100m Freestyle S8 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 8th (400m Freestyle S8 - Men), 12th (100m Freestyle S8 - Men)</li><li>Years of participation: 100m Freestyle S8 - Men 2022, 2023; 400m Freestyle S8 - Men 2022, 2023; 100m Backstroke S8 - Men 2022; 4 x 100m Freestyle Relay 34 Points - Mixed 2022</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2022 (4 x 100m Freestyle Relay 34 Points - Mixed, 400m Freestyle S8 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662099/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/torres_m_bio_906894.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S8, SB8, SM8",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662582/TeamUSA%20Assets/Athlete%20Profiles/Matthew%20Torres%20906894/torres_m_hero_906894.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010649/TeamUSA%20Assets/Athlete%20Profiles/Matthew%20Torres%20906894/torres_matthew_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matthew Torres 906894"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Calogero",
+      "last_name": "Torretta",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1994-06-30T00:00:00",
+        "hometown": {
+          "city": "Edison",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.5187,
+          "longitude": -74.4121
+        },
+        "education": "Cranford High School, Union County College",
+        "fun_fact": null,
+        "biography": "<center>\n<table cellspacing=\"0\" cellpadding=\"0\">\n    <tbody>\n        <tr>\n            <th>Home City and State</th>\n            <td>Edison NJ</td>\n        </tr>\n        <tr>\n            <th>Height</th>\n            <td>5\"8</td>\n        </tr>\n        <tr>\n            <th>Weight</th>\n            <td>132</td>\n        </tr>\n        <tr>\n            <th>Current Residence</th>\n            <td>Cranford</td>\n        </tr>\n        <tr>\n            <th>High School</th>\n            <td>Cranford High School</td>\n        </tr>\n        <tr>\n            <th>College</th>\n            <td>Union County College</td>\n        </tr>\n        <tr>\n            <th>Coaches</th>\n            <td>Christina Finegan,Billy Finegan,Yusuf Tuncel</td>\n        </tr>\n        <tr>\n            <th>Career Highlights (Please bullet point)</th>\n            <td>&bull;Junior PKF Champ<br>\n            &bull;North American Cup Champion<br>\n            &bull;USA Open Silver Medalist -60<br>\n            &bull; National Champion</td>\n        </tr>\n        <tr>\n            <th>Personal (Please bullet point)</th>\n            <td>&bull;God/Family First<br>\n            &bull;Believe in your surroundings&nbsp;<br>\n            &bull;Believe in yourself<br>\n            &bull;Always Listen<br>\n            &bull;Don't believe in Hype or Glory<br>\n            </td>\n        </tr>\n        <tr>\n            <th>Fun Fact</th>\n            <td>Had a dream when I was 3 years old. And my dream is becoming a reality.</td>\n        </tr>\n    </tbody>\n</table>\n</center><h5>World Championships Experience</h5><ul><li>Most recent: 2016 – 19th (Team Kumite - Men), 35th (-60kg Kumite - Men)</li><li>Years of participation: -60kg Kumite - Men 2016; Team Kumite - Men 2016</li><li>Top finish: 19th – 2016 (Team Kumite - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924689/TeamUSA%20Assets/Migration/Athlete%20Profiles/Calogero%20Torretta/TeamUSA-CalogeroTorretta1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Calogero Torretta"
+        }
+      ]
+    },
+    {
+      "first_name": "Philipp",
+      "last_name": "Toubia Scholz",
+      "bio": {
+        "height": "6'1",
+        "birthday": "2000-07-30T00:00:00",
+        "hometown": {
+          "city": "Fargo",
+          "state": "ND",
+          "country": "United States",
+          "latitude": 46.8772,
+          "longitude": -96.7898
+        },
+        "education": "Gymnasium Tulln Medical University Vienna",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started playing handball when he was eight</li><li>Played soccer, basketball and handball, but handball was always his top sport</li><li>Father was born in Magdeburg, Germany and had friends who were and are involved with the very successful handball team of Magdeburg (SC Magdeburg), so he was essentially born into the sport</li><li>Hobbies include training, skiing, playing basketball and playing video games</li><li>Has one younger brother, Oli</li><li>Serves as a junior coach of a U9 handball team</li><li>Graduated from high school in June 2018 and started studying nutritional science in October of 2018 at the University of Vienna</li><li>Applied to the Medical University of Vienna, passed the exam and started his first semester of medicine in October 2020.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 – Promotion to the 2nd division in Austria with the first team (Tulln, Austria)</li>\r\n                            <li>2018 – 5th top scorer in Austria’s U18 league (Austria)</li>\r\n                            <li>2017 – 3rd top scorer in Austria’s U16 league (Austria)</li>\r\n                            <li>2015 – Beach Handball State Championships – 4th (Tulln, Austria)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328406/TeamUSA%20Assets/Migration/Athlete%20Profiles/Philipp%20Toubia%20Scholz/Philipp_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Philipp Toubia Scholz"
+        }
+      ]
+    },
+    {
+      "first_name": "Kaylee",
+      "last_name": "Tow",
+      "bio": {
+        "height": "6'",
+        "birthday": "1999-02-26T00:00:00",
+        "hometown": {
+          "city": "Madisonville",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 37.3253,
+          "longitude": -87.5058
+        },
+        "education": " University of Alabama",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her favorite activities include attending concerts, reading, watching Netflix, going to church, and traveling</li><li>Her role model is her dad because he always does things the right way</li><li>Her goals in life include loving Jesus, being happy, and making a difference</li><li>Three words that her friends would use to describe her would be humble, loyal, and hardworking</li><li>Favorite sport besides softball is gymnastics</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2017 (Team - Women)</li></ul><h5>More</h5><p><strong>What it means to represent the United States:</strong></p>\n<p>Playing softball for the U.S. is a tremendous honor. I love this country and as a kid who grew up dreaming of playing for this team, I'm unable to put into words how blessed I feel.\"</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715365/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kaylee%20Tow%201086122/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715367/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kaylee%20Tow%201086122/TowKaylee.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kaylee Tow 1086122"
+        }
+      ]
+    },
+    {
+      "first_name": "Roderick",
+      "last_name": "Townsend",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1992-07-01T00:00:00",
+        "hometown": {
+          "city": "Stockton",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.9577,
+          "longitude": -121.2908
+        },
+        "education": "Boise State University '15 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jason and Mary Holloway</li><li><span>Was a member of Lincoln High School’s varsity football team where he played for two years, was the 2009 team captain and was selected as a San Jose Athletic Association First Team Defensive End and second team all-area</span></li><li><span>Was introduced to the Paralympic Movement by teammate Jeff Skiba, who encouraged him to compete for Team USA</span></li><li>Enjoys hiking, music, Netflix, community outreach, public service and spending time with family</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 5-time Paralympic medalist (4 gold, 1 silver)</li><ul><li>Paralympic Games Paris 2024, gold (High Jump T47 - Men), 4th (Long Jump T47 - Men)</li><li>Paralympic Games Tokyo 2020, gold (High Jump T47 - Men), silver (Long Jump T47 - Men), 11th (100m T47 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (High Jump T47 - Men, Long Jump T47 - Men), 5th (100m T47 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – gold (High Jump T47 - Men), 5th (Long Jump T47 - Men)</li><li>Years of participation: High Jump T47 - Men 2015, 2017, 2019, 2023, 2024; Long Jump T47 - Men 2015, 2017, 2019, 2023, 2024; 100m T47 - Men 2015, 2017, 2019; 4 x 100m Relay T42-47 - Men 2015; Triple Jump T47 - Men 2015</li><li>Medals: 10 (5 gold, 5 silver)</li><ul><li>Gold – 2024 (High Jump T47 - Men);  2023 (High Jump T47 - Men);  2019 (High Jump T47 - Men);  2017 (High Jump T47 - Men);  2015 (High Jump T47 - Men)</li><li>Silver – 2023 (Long Jump T47 - Men);  2019 (Long Jump T47 - Men);  2015 (4 x 100m Relay T42-47 - Men, Long Jump T47 - Men, Triple Jump T47 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662067/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/R_Townsend_bio_unknown.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T46/F46",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684894828/TeamUSA%20Assets/Migration/Townsend_Roderick_112119_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335742/TeamUSA%20Assets/Migration/Athlete%20Profiles/Roderick%20Townsend/Townsend_Roderick250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Roderick Townsend"
+        },
+        {
+          "title": "Para Track and Field"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Darian",
+      "last_name": "Townsend",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1984-08-28T00:00:00",
+        "hometown": {
+          "city": "Litchfield Park",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4939,
+          "longitude": -112.3596
+        },
+        "education": "University of Arizona",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-f-Logo__blue_100_100x100.jpg?h=50&la=en&w=50&hash=C19357865BB1BF4A1FAD45443CFC1A477E15D161\" style=\"width: 50;height: 50;\"/></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"/></td></tr></tbody></table><div></div><div></div><div><p>&nbsp;</p><h5>Olympic Experience</h5><p>&nbsp;</p><ul><li>Athens 2004 Olympic Games, gold (4x100m freestyle) - WR, 37th (200m individual medley)</li><li>Beijing 2008 Olympic Games, 7th (4x100m medley, 4x100m freestyle), 8th (4x200m freestyle), 11th (200m individual medley), 21st (200m freestyle)</li><li>London 2012 Olympic Games, 5th (4x100m freestyle), 7th (4x200m freestyle), 21st (200m individual medley)</li></ul><p>Education: Mairtzburg College (Pietermaritzburg, South Africa) University of Arizona '10, Sociology</p><h5>Quick Facts</h5><ul><li>Son of Ted and Rita Townsend</li><li>Has one sister, Cheryl</li><li>Previously represented his native South Africa at the Olympic Games in 2004, 2008 and 2012 before becoming a U.S. citizen in July 2014</li><li>Made his international debut as a U.S. citizen at the 2014 FINA World Short Course Championships</li><li>Competed in swimming at the University of Florida and the University of Arizona, winning seven NCAA titles</li><li>Speaks Dutch Afrikaans.</li></ul><br /><p>&nbsp;</p><p>&nbsp;</p><h5>More</h5><p>Personal Website</p><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686924670/TeamUSA%20Assets/Migration/Athlete%20Profiles/Darian%20Townsend/Swimming_Townsend_Darian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Darian Townsend"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Steven",
+      "last_name": "Toyoji",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1986-01-22T00:00:00",
+        "hometown": {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6736,
+          "longitude": -122.1215
+        },
+        "education": "Redmond High School (Redmond, Wash.) '04 University of Arizona '09; San Jose State University '15",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Steven Toyoji graduated from Redmond High School in 2004, where he competed in wheelchair basketball and track and field all four years</li><li>Toyoji continued competing in track at the University of Arizona, graduating in 2009 with a degree in Business Administration</li><li>In 2015, he received his MA in Child and Adolescent Development from San Jose State University</li><li>When not training or competing, Toyoji enjoys traveling, playing wheelchair rugby, fishing, reading, and watching Seattle Seahawks football.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 5th (1500m T52 - Men), 14th (400m T52 - Men)</li><li>Paralympic Games Beijing 2008,  (800m T52 - Men), 5th (Marathon T52 - Men), 7th (400m T52 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 4th (1500m T52 - Men)</li><li>Years of participation: 1500m T52 - Men 2006, 2013, 2015; 400m T52 - Men 2006, 2013; 800m T52 - Men 2006, 2013; 5000m T52 - Men 2006</li><li>Medals: 3 (1 silver, 2 bronze)</li><ul><li>Silver – 2013 (400m T52 - Men)</li><li>Bronze – 2013 (1500m T52 - Men, 800m T52 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715341/TeamUSA%20Assets/Migration/Athlete%20Profiles/Steven%20Toyoji%20850526/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T52",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715344/TeamUSA%20Assets/Migration/Athlete%20Profiles/Steven%20Toyoji%20850526/Toyoji_Steven250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Steven Toyoji 850526"
+        }
+      ]
+    },
+    {
+      "first_name": "Gakuji",
+      "last_name": "Tozaki",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-08-15T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Westview High School University of California, Davis",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I started karate when I was 9. I loved to watch kickboxing with my family, and my favorite fighter Andy Hug inspired me to start karate. I also had a friend who practiced karate, and he also motivated me to start practicing as well</li><li>In 2013 I graduated Japanese school Minato Gakuen attended for 12 years</li><li>In 2014 I graduated UC Davis with a Bachelor of Science in Exercise Biology</li><li>In 2016 I enrolled in Graduate school (University of St. Augustine) to pursue Doctorate degree in Physcial Therapy. Degree expected in 2021</li><li>Three things people may not know about me is that I have two great sponsors: Amino Vital and Phiten, I am a student of physical therapy, and my favorite/lucky food is curry.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>ANOC World Beach Games Bronze Medalist (2019)</li>\r\n                            <li>USA Open Bronze Medalist (2018)</li>\r\n                            <li>PASO Olympic Festival Silver Medalist (2014)</li>\r\n                            <li>Pan American Championships Bronze Medalist (2013)</li>\r\n                            <li>FISU World University Championships Bronze Medalist (2010)</li>\r\n                            <li>Pan American Bronze Medalist (Team Kata - 2009)</li>\r\n                            <li>US Team Trials -2020: Gold -2019: Bronze -2018: Bronze -2017: Bronze</li>\r\n                            <li>Nationals: -2019: Bronze -2018: Silver -2017: Bronze</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – 5th (Individual Kata - Men)</li><li>Years of participation: Individual Kata - Men 2021</li><li>Top finish: 5th – 2021 (Individual Kata - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697788/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gakuji%20Tozaki%201174053/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697789/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gakuji%20Tozaki%201174053/Gakuji-Tozaki.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gakuji Tozaki 1174053"
+        }
+      ]
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Tozier",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1992-04-01T00:00:00",
+        "hometown": {
+          "city": "Pattonsburg",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 39.98861,
+          "longitude": -94.00495
+        },
+        "education": "Pattonsburg High School (Pattonsburg, Mo.) ‘10 University of Central Missouri ’14, Finance; American Military University, Sports and Health Sciences (M.S.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Porter and Dana Hoover</li><li>Has one sister, Ashley</li><li>Specialist in the U.S. Army</li><li>Has competed in NANBF bodybuilding competitions</li><li>Hobbies include weightlifting, gaming, sewing and cooking</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Trap - Team - Mixed), 41th (Trap - Women)</li><li>Years of participation: Trap - Team - Mixed 2019, 2022, 2023; Trap - Women 2019, 2022, 2023; Trap - Team - Women 2019, 2022</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2019 (Trap - Team - Women)</li><li>Silver – 2023 (Trap - Team - Mixed)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 18th (Trap - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711566334/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rachel%20Tozier%201147781/Tozier_R_bio_1147775.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711566147/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rachel%20Tozier%201147781/Tozier_r_hero_1147781.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711566147/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rachel%20Tozier%201147781/Tozier_r_hero_1147781.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711565288/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rachel%20Tozier%201147781/Tozier_r_thumbnail_1147781.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rachel Tozier 1147781"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Shooting"
+        }
+      ]
+    },
+    {
+      "first_name": "Jaclyn",
+      "last_name": "Traina",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1991-11-05T00:00:00",
+        "hometown": {
+          "city": "Naples",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.142,
+          "longitude": -81.7948
+        },
+        "education": " University of Alabama",
+        "fun_fact": "",
+        "biography": "<p><span><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\">#33<br>\nHeight: 5' 11\"<br>\nPosition: Pitcher - R/R<br>\nHometown: Naples, Fla.<br>\nYear: Junior; Graduation date: 2014<br>\nSchool: University of Alabama<br>\n</span></p>\n<p><span><img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/WNT-Gallery/Jaclyn-Traina/Traina9.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=707F4F16317062FFB07E931225F95A6F2E6FAD55\"></span></p>\n<span><strong><span>TEAM USA EXPERIENCE</span><br>\n2016 Women's National Team Member</strong><br>\n- World Cup of Softball Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Pitched 3.1 innings with five strikeouts and one run allowed for a 2.10 ERA<br>\n- WBSC Women's World Championship Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Went 2-0 in the circle with 10 strikeouts and one run allowed in 7.2 innings pitched for a 0.91 ERA<br>\n- Japan Cup Silver Medalist<br>\n<br>\n<strong>2015 Women's National Team Member</strong><br>\n- World Cup of Softball Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Pitched 9.2 innings for the U.S. with a .72 ERA and 10 strikeouts. Finished with a 2-0 record.<br>\n- Pan American Games Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Went 0-1 in the circle with a .64 ERA and 15 strikeouts in 11 innings<br>\n- Japan Cup Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Went 1-0 in the circle with a 3.94 ERA and five strikeouts in 5.1 innings<br>\n<br>\n<strong>\n2014 Women's National Team Member</strong><br>\n- World Cup of Softball Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Pitched 3.1 innings for the U.S. with a 4.20 ERA and four strikeouts<br>\n- ISF Women's World Championship Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Went 3-0 in the circle with a .84 ERA and 29 strikeouts in 16.2 innings<br>\n<br>\n<strong>\n2012 Women's National Team Member</strong><br>\n- World Cup of Softball Gold Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Went 1-0 in the circle with a .68 ERA and 12 strikeouts in 10.1 innings<br>\n- ISF World Championships Silver Medalist<br>\n<span class=\"Apple-tab-span\">\t</span>- Went 2-1 with a .51 ERA and 20 strikeouts in 17 innings pitched<br>\n<br>\n<strong><span>AT ALABAMA</span></strong><br>\n2012 NCAA National Champion &amp; WCWS MVP<br>\nFour-time NFCA All-American<br>\nTwo-time SEC Pitcher of the Year<br>\nTwo-time All-SEC<br>\n2012 NFCA First Team All-South Region<br>\n2012 NCAA WCWS MVP<br>\n2011 NFCA First Team All-American<br>\n2011 NFCA First Team All-South Region<br>\n<br>\n<br>\n<span><strong>GET TO KNOW TRAINA:</strong></span><br>\n<strong>Parents: </strong>Lana Turner and Mark Traina<br>\n<strong>On what it means to represent the United States in softball: </strong>To have the privilege to represent our country is a honor that continues to amaze me every day.<br>\n<strong>What she enjoys most about softball:&nbsp;</strong>The competition!<br>\n<strong>How she got her start in softball:&nbsp;</strong>My neighbor asked me to play, and I never looked back!<br>\n<br>\n<span><strong>FUN FACTS:</strong></span><br>\n<strong>My favorite activity: </strong>Walking my Dogs<br>\n<strong>My favorite color is: </strong>Red<br>\n<strong>My favorite meal/snack:&nbsp;</strong>Mac N Cheese<br>\n<strong>The one thing I can't live without: </strong>My baby blanket<br>\n<strong>My favorite music to listen to:&nbsp;</strong>Slightly Stoopid, because it's beach music. <br>\n<strong>My cellphone wallpaper:&nbsp;</strong>A picture of my dog, CASH<br>\n<strong>Best advice I've ever received:&nbsp;</strong>Know your worth!<br>\n<br>\n<span><strong>ONE LAST THING:</strong></span><br>\n<strong>The last person I had dinner with: </strong>Makiko - Japanese Translator<br>\n<strong>The last gift I bought: </strong> A jacket for a friend<br>\n<strong>The last movie I watched:&nbsp;</strong>Staten Island Summer<br>\n<strong>Last splurge:&nbsp;</strong>ICE CREAM<br>\n<strong>Last home cooked meal:&nbsp;</strong>Chicken pasta<br>\n<strong>Last time I won something:&nbsp;</strong>A scratch off ticket!! Won $200<br>\n</span>\n<br><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (Team - Women)</li><li>Years of participation: Team - Women 2012, 2014, 2016</li><li>Medals: 3 (1 gold, 2 silver)</li><ul><li>Gold – 2016 (Team - Women)</li><li>Silver – 2014 (Team - Women);  2012 (Team - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>Pan American Games, Toronto, 2015 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709691/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jaclyn%20Traina%20909579/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709693/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jaclyn%20Traina%20909579/TrainaJaclyn.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jaclyn Traina 909579"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Trapp",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1988-07-10T00:00:00",
+        "hometown": {
+          "city": "Marstons Mills",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 41.675,
+          "longitude": -70.4
+        },
+        "education": "Barnstable High School (Barnstable, Mass.) ‘06",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Lee and Robert Trapp</li><li>Has one brother, Christopher</li><li>Married to Kelly</li><li>Began snowboarding at age 9 and competing at age 12</li><li>Works as a mechanic at a local car dealership</li><li>Hobbies include fishing, fixing cars and playing with anything motorized.</li></ul><h5>Olympic Experience </h5><ul><li>Olympian (2018)</li><li>PyeongChang 2018, 30th (parallel giant slalom)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 16th (parallel giant slalom), 20th (parallel slalom)</li><li>Years of Participation: 2011, 2013, 2015, 2017</li><li>Best Finish: 16th (parallel giant slalom) – 2017 </li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920439/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mike%20Trapp/trapp_mike_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mike Trapp"
+        }
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "Travis",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1993-05-26T00:00:00",
+        "hometown": {
+          "city": "Omaha ",
+          "state": "NE",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Florida Southern College",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>2023 Pan American Games Men's 3x3 Team - 1st </li><li>2023 FIBA 3x3 World Cup Men's Team - 2nd </li><li>2022 AmeriCup 3x3 Mens Team - 2nd </li><li>2021 USA 3x3 National Champion 3Ball Omaha</li><li>NCAA National Champion at Florida Southern College </li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 7th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711479158/20231023_Dylan_Travis_BASKETBALL_3v3_KUSUMOTO-003.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711479122/20231023_Dylan_Travis_BASKETBALL_3v3_KUSUMOTO-014.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1711479065/20231023_Men_BASKETBALL_3v3_KUSUMOTO-024.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Basketball"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Sabahudin",
+      "last_name": "Tricic",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1969-11-07T00:00:00",
+        "hometown": {
+          "city": "Fresno",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.7378,
+          "longitude": -119.7871
+        },
+        "education": "CSU Fresno",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Sabahudin Tricic was born and grew up in Rudo, Bosnia. He started practicing Karate at the age of 15 in a local school club. He trained there for two years, and was invited to Karate Club Priboj, where he practiced and competed in local tournaments in Kumite for another two years. Upon enrolling in college in Sarajevo, Bosnia, Sabahudin was invited to join Karate Club “Bosna,” university club at Faculty of Sarajevo, where he competed as U-21. There, he made the senior representation team, by winning the first place in National Championship in -75kg Elite Kumite, and third place in Elite Team Kumite at Balkan Championship. However, Sabahudin’s Kumite career was cut short by war in 1992, when he was blinded by a shrapnel</li><li>Tricic plays the accordion and fishes.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Sabahudin was evacuated to USA for medical treatment, where he continued his Karate career, training his children at the same time. He has competed in numerous local tournaments in Kata and won medals in a regular sighted category. Sabahudin has been a National champion in 18+ Male Elite Para-Kata Visually Impaired category six times, and PanAmerican Champion twice. At World Senior Championships, Sabahudin has placed 6th twice and 5th once. Sabahudin has also hosted the Bosnian team for USA Open Championship three times, providing the opportunity to youth born during the war to compete on an international level. Sabahudin is a 4th Dan in Shotokan and a brown belt in Yamani Ryu Kobudo and Daito Ryu Aiki Jitsu.</li>\r\n                            <li>PKF: 2017 1st place, Curacao</li>\r\n                            <li>PKF: 2018 2nd place, Santiago, Chile</li>\r\n                            <li>PKF: 2019 1st place, Panama City, Panama</li>\r\n                            <li>6x National Championships Gold Medalist</li>\r\n                            <li>2x National Championships Silver Medalist</li>\r\n                            <li>1x USA Open Championships Gold Medalist</li>\r\n                            <li>1x USA Open Championships Silver Medalist</li>\r\n                            <li>3x USA Open Championships Bronze Medalist</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2014 6th place, Bremen, Germany</li><li>2016 6th place, Linz, Austria</li><li>2018 5th place, Madrid, Spain</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Karate",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324791/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sabahudin%20Tricic/2017_US_Team_Sabahudin_Tricic.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sabahudin Tricic"
+        }
+      ]
+    },
+    {
+      "first_name": "Vincent",
+      "last_name": "Trocheck",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1993-07-11T00:00:00",
+        "hometown": {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.44062,
+          "longitude": -79.99589
+        },
+        "education": "Northwood University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Forward</li><li>Son of Rita and Vincent, Sr. Trocheck</li></ul><h5>Biographical Information</h5><p>Vincent Trocheck grew up in Pittsburgh where he played youth hockey with future U.S. and New York Rangers teammate J.T. Miller. &nbsp;</p><p>After playing junior hockey in Michigan, Trocheck was a third-round pick in the 2011 NHL Draft by the Florida Panthers. Trocheck made IIHF World Championship debut with the U.S. men's hockey team in 2014. He would return to the men's senior national team over a decade later when he was named to the 2025 4 Nations Face-Off roster.&nbsp;</p><p>Trocheck’s grandmother emigrated to the U.S. from Calabria,&nbsp;Italy and Sunday family dinners have been a tradition for Trocheck since he was a child. Trocheck's grandmother has hosted even his NHL teammates for a Sunday family dinner when his teams are in town visiting Pittsburgh for a game.</p><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2014</li><li>Top finish: 6th – 2014 (Team - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770580933/Trocheck_V_bio_1231981.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770569845/Trocheck_V_main_1231981.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770569934/Trocheck_V-thumbnail_2_1231981.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Vincent Trocheck"
+        }
+      ]
+    },
+    {
+      "first_name": "Murphy",
+      "last_name": "Troy",
+      "bio": {
+        "height": "6'8 (202 cm)\"",
+        "birthday": "1989-05-31T00:00:00",
+        "hometown": {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.627,
+          "longitude": -90.1994
+        },
+        "education": "University High School (St. Louis) USC (Physics, '11)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born Murphy Edward Troy in 1989 in St. Louis, Mo</li><li>Parents are John Troy and Sally Miller</li><li>Married Blair Tarnutzer in October 2016</li><li>Has a brother Phineas (1985) and a sister Sadie (1987)</li><li>Began playing volleyball in 1999 with Midwest Select Volleyball Club</li><li>Favorite book is Catcher in the Rye</li><li>Favorite sports team is the St. Louis Cardinals and favorite athlete is Albert Pujols</li><li>Hobbies include basketball and football</li><li>Most admired person is his mother</li><li>Was named a 2009 Marks Scholar</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Retired from the sport following the 2016 Olympic Games</li>\r\n                            <li>Helped the U.S. Men win the 2015 FIVB World Cup and qualify for the 2016 Olympic Games</li>\r\n                            <li>Named 2011 AVCA Men&#39;s Division I-II National Player of the Year and MPSF Player of the Year</li>\r\n                            <li>In 2015, finished as the Polish league&#39;s leading scorer and helped his team, Lotos Trefl Gdansk place second in the league championship </li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW?</li>\r\n                            <li>Helped the U.S. Men win the gold medal at the 2013 NORCECA Championship</li>\r\n                            <li>Was the third-leading scorer for the U.S. Men’s Team that won the 2012 Pan American Cup</li>\r\n                            <li>Played on the team that won silver at the 2011 Pan American Cup</li>\r\n                            <li>Competed for the U.S. at the 2011 World University Games</li>\r\n                            <li>Captain of the Men’s Junior National Team that took bronze at the 2008 NORCECA Championship</li>\r\n                            <li>Captain of the Boys’ Youth National Team that competed at the 2007 FIVB World Championship</li>\r\n                            <li>Member of the Boys’ Youth National Team that took silver at the 2006 NORCECA Championship</li>\r\n                            <li>Has competed for club teams in Italy and Poland</li>\r\n                            <li>Received the 2010-11 Pac-10 Tom Hansen Conference Medal for the exhibition of the greatest combination of performance and achievement in scholarship, athletics and leadership</li>\r\n                            <li>AVCA All-American First Team in 2011 and 2009</li>\r\n                            <li>Started all four years at USC</li>\r\n                            <li>Helped his St. Louis (Mo.) University High team to the 2007 Missouri Class 4 State Volleyball Championship</li>\r\n                            <li>2007 Volleyball Magazine All-American first team, Volleyball Magazine Fab 50 list and St. Louis Post-Dispatch All-Metro Player of the Year</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Men)</li></ul></ul><h5>More</h5><p><strong>The Quote<br>\n</strong>\"It's been a tough journey and a long one. But, it's something that I kept chipping at over the last four years. And, I've been getting better and I feel like I'm playing really good volleyball right now. Obviously, I'm just super excited to be a part of the team.\" - Murpy Troy in the Webster-Kirkwood Times</p>\n<p><strong>Related Links</strong><br>\nLong process pays off for Olympic volleyball player Murphy Troy - St. Louis Review<br>\nGlendale's Murphy Troy To Represent U.S. In Olympic Volleyball - Webster-Kirkwood Times<br>\nU.S. Men's Update: Murphy Troy Tells All<br>\nVolleyball Serving Challenge with the U.S. Men's Team\n</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920394/TeamUSA%20Assets/Migration/Athlete%20Profiles/Murphy%20Troy/USA9MurphyTroy2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Murphy Troy"
+        }
+      ]
+    },
+    {
+      "first_name": "Savana",
+      "last_name": "Trueb",
+      "bio": {
+        "height": "5' 5\"",
+        "birthday": "2001-03-26T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "Rutgers University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Lanning and Linda Trueb</li><li>Has one older sibling, Sydney</li><li>Started diving at age 15</li><li>Prior to diving, was a gymnast for six years</li><li>Her favorite dives are twisters</li><li>Between dives at competitions, she likes to blast her music in her headphones to block out noise (when she really wants to focus between dives, she prefers to listen to grunge music)</li><li>Enjoys art, woodworking, photography, design, skiing, traveling, working with animals, and trying different cuisines</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362593/TeamUSA%20Assets/Migration/Athlete%20Profiles/Savana%20Trueb/Savana-Trueb_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Savana Trueb"
+        }
+      ]
+    },
+    {
+      "first_name": "Karen",
+      "last_name": "Truelove",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1974-02-19T00:00:00",
+        "hometown": {
+          "city": "Winter Garden",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.5608,
+          "longitude": -81.5706
+        },
+        "education": "University of North Carolina, Chapel Hill",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married to water skier Freddy Krueger</li><li>Two sons, Dash and Ridge</li><li>Began skiing at age 3</li><li>Began competing at age 7</li><li>Sponsored by MasterCraft, D3, Speedo, Body Glove, Masterline, Bolle/Serengeti</li><li>Enjoys basketball, rollerblading, shopping, movies and volleyball</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santo Domingo, 2003 (Slalom - Women)</li><li>Pan American Games, Winnipeg, 1999 (Jumping - Women, Slalom - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 18th (Slalom - Women)</li><li>Years of participation: Slalom - Women 2005, 2007, 2009, 2011, 2017, 2021, 2023</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 2007 (Slalom - Women)</li><li>Bronze – 2005 (Slalom - Women)</li></ul></ul><h5>More</h5><p><em><strong>Records</strong></em></p>\n<ul>\n    <li>North Carolina State Girls 2 Jumping Record Holder (88 feet)</li>\n    <li>North Carolina State Girls 3 Slalom Record Holder (56-1/2 buoys)</li>\n    <li>North Carolina State Girls 3 Jumping Record Holder (104 feet)</li>\n    <li>North Carolina State Women 1 Slalom Record Holder (56-1/2 buoys)</li>\n</ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709687/TeamUSA%20Assets/Migration/Athlete%20Profiles/Karen%20Truelove%20915563/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Waterski/Wakeboard",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709688/TeamUSA%20Assets/Migration/Athlete%20Profiles/Karen%20Truelove%20915563/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Karen Truelove 915563"
+        }
+      ]
+    },
+    {
+      "first_name": "Roxanne",
+      "last_name": "Trunnell",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1985-04-26T00:00:00",
+        "hometown": {
+          "city": "Richland",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 46.2859,
+          "longitude": -119.285
+        },
+        "education": "Capella University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><p>Horses have always been a part of Roxanne “Roxie” Trunnell’s life. As a competitor in able-bodied dressage, Trunnell aspired to be an Olympian. When she was a teenager, she created her own business to help purchase her first dressage horse, Nice Touch or ‘Touché.' She earned a United States Dressage Federation (USDF) bronze medal and was close to obtaining a silver medal until contracting a virus in 2009 that caused swelling in her brain that changed her life forever. The virus put her in a coma and resulted in her requiring a wheelchair. Determined to ride Touché again, Trunnell elicited the help of her family and friends to get her back in the saddle and after a long recovery, slowly began to ride again. Sher entered the Tokyo Games as the highest-ranked Para Dressage athlete in the world, per the FEI Para Dressage World Individual Ranking. Additionally, Trunnell completed her Masters in Psychology with a focus in Equine-Assisted Psychotherapy.</p><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 5-time Paralympic medalist (3 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, gold (Team - Open), silver (Individual Championship Test - Grade I - Open), 5th (Individual Freestyle - Grade I - Open)</li><li>Paralympic Games Tokyo 2020, gold (Individual Championship Test - Grade I - Open, Individual Freestyle - Grade I - Open), bronze (Team - Open)</li><li>Paralympic Games Rio de Janeiro 2016, 10th (Individual Championship Test - Grade Ia - Open)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – bronze (grade I freestyle)</li><li>Years of Participation: 2014, 2018</li><li>Medals: 1 (1 bronze)</li></ul><p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690830350/TeamUSA%20Assets/Athlete%20Profiles/Roxanne%20Trunnell%201005835/Trunnell_R_bio_1005835.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Equestrian",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "Grade I ",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684897226/TeamUSA%20Assets/Migration/Pages/trunnell_roxanne_083021_01_tokyo_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335734/TeamUSA%20Assets/Migration/Athlete%20Profiles/Roxanne%20%20Trunnell%201005835/Tunnell_Roxanne_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Roxanne Trunnell 1005835"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para-Equestrian"
+        }
+      ]
+    }
+  ]
+}

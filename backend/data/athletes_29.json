@@ -1,0 +1,1068 @@
+{
+  "entries": [
+    {
+      "first_name": "Charles",
+      "last_name": "Conwell",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1997-11-02T00:00:00",
+        "hometown": {
+          "city": "Cleveland ",
+          "state": "OH",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Cleveland Heights High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Charles is one of nine siblings (he is the second youngest)</li><li>He graduated from Cleveland Heights High School three months after making the 2016 U.S. Olympic Team</li><li>He is the youngest member of the U.S. Olympic Boxing Team</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>AMERICAS OLYMPIC QUALIFIER CHAMPION</li>\r\n                            <li>2015 USA BOXING YOUTH MALE ATHLETE OF THE YEAR</li>\r\n                            <li>2016 U.S. OLYMPIC TRIALS CHAMPION</li>\r\n                            <li>TWO-TIME USA BOXING YOUTH NATIONAL CHAMPION</li>\r\n                            <li>2015 NATIONAL GOLDEN GLOVES CHAMPION</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 17th (Middleweight - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>2014 YOUTH WORLD CHAMPIONSHIPS PARTCIPANT</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715710/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charles%20Conwell%20869133/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Boxing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715712/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charles%20Conwell%20869133/Charles-website.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Charles Conwell 869133"
+        }
+      ]
+    },
+    {
+      "first_name": "Stacey",
+      "last_name": "Cook",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1984-07-03T00:00:00",
+        "hometown": {
+          "city": "Mammoth Lakes",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.6485,
+          "longitude": -118.9721
+        },
+        "education": " University of Reno, Nevada; DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Sharon and Dean Cook</li><li>Has two siblings, Gary and Ryan</li><li>Began skiing at age four</li><li>Volunteers with the Mammoth Mountain Community Foundation and runs a scholarship program for junior alpine skiers</li><li>Enjoys road and mountain biking, water sports, traveling and spending time with family.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2013 FIS World Cup Standings, 4th (downhill)</li>\r\n                            <li>2012 FIS World Cup Standings, 10th (downhill)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Sochi 2014,  (Super Combined - Women, Super G - Women), 17th (Downhill - Women)</li><li>Olympic Games Vancouver 2010, 11th (Downhill - Women)</li><li>Olympic Games Turin 2006, 19th (Downhill - Women), 23th (Giant Slalom - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 22th (Super Combined - Women)</li><li>Years of participation: Super Combined - Women 2009, 2013, 2017; Downhill - Women 2007, 2009, 2011, 2013, 2015; Super G - Women 2009, 2011, 2015; Team - Mixed 2013</li><li>Top finish:  – 2011 (Super G - Women)</li></ul><h5>More</h5><p>Personal Website<br>\nU.S. Ski &amp; Snowboard</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005393/TeamUSA%20Assets/Athlete%20Profiles/Stacey%20Cook%20839678/Cook_Stacey_031417_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005394/TeamUSA%20Assets/Athlete%20Profiles/Stacey%20Cook%20839678/Cook_Stacey_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stacey Cook 839678"
+        }
+      ]
+    },
+    {
+      "first_name": "Bryan",
+      "last_name": "Cook",
+      "bio": {
+        "height": "6’3",
+        "birthday": "1990-02-08T00:00:00",
+        "hometown": {
+          "city": "Redondo Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.8475,
+          "longitude": -118.3884
+        },
+        "education": "Bishop Montgomery High School The University of Arizona",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bob and Liz</li><li>Brother of Kristen and brother-in-law of Stephen</li><li>Previously played baseball in high school and college</li><li>Coached high school baseball</li><li>Hobbies include surfing, snowboarding, golf, baseball and voiceovers</li><li>Wants to be a beach handball English language commentator/announcer</li><li>Fourth-generation working at his family’s door and window company.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 ANOC World Beach Games - 11th (Doha, Qatar)</li>\r\n                            <li>2019 So. Cal Beach Handball Championships - 5th</li>\r\n                            <li>2018 Ta&#231;a Kika Invitational - Quarterfinals (Jo&#227;o Pessoa, Brazil)</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 2nd</li>\r\n                            <li>2017 Beach Games Seynois – 2nd (La Seyne, France)</li>\r\n                            <li>2017 Ta&#231;a Kika Invitational - Quarterfinals (Jo&#227;o Pessoa, Brazil)</li>\r\n                            <li>2017 Prague Open Championship – 2nd (Prague, Czech Republic)</li>\r\n                            <li>2017 So. Cal Beach Handball Championships - 3rd</li>\r\n                            <li>2016 So. Cal Beach Handball Championships - 2nd</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2018 IHF Beach Handball World Championships - 12th (Kazan, Russia)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926259/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bryan%20Cook/Bryan_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926261/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bryan%20Cook/Bryan_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bryan Cook"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Cook",
+      "bio": {
+        "height": "6'6 (198 cm)\"",
+        "birthday": "1992-06-01T00:00:00",
+        "hometown": {
+          "city": "Santa Cruz",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.9741,
+          "longitude": -122.0308
+        },
+        "education": "Stanford University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are David Cook and Susan Cook-Loustalot</li><li>Has a sister Karissa and a younger brother, Kobi</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Men)</li><li>Junior World Championships, 2011 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926265/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brian%20Cook/BrianCook150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Cook"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Mindy",
+      "last_name": "Cook",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1988-09-23T00:00:00",
+        "hometown": {
+          "city": "Celina",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.4806,
+          "longitude": -84.5794
+        },
+        "education": "Ohio State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span>Daughter of Bill and Jill Cook</span></li><li><p><span>Has two siblings, Lee and Kelsey</span></p></li><li><span>Works full-time as a contracting officer for the federal government, buying equipment to fulfill the nation’s military missions.</span></li><li><span>Diagnosed with aniridia, a rare genetic condition in which the iris does not develop in the eye</span></li><li>Got involved in goalball in 2016 when a co-worker invited her to a goalball practice at the Ohio State School for the Blind</li><li><p> Attended her first goalball tournament in Michigan as a pool player in 2017, where she fell in love with the sport and the goalball community and has been playing ever since</p></li><li><p>Hobbies include goalball, running, adventuring new places in Columbus, traveling, cooking, and being with friends and family</p></li><li><p>Is left-handed and enjoys a good cup of coffee.</p></li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Tokyo 2020, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Women)</li><li>Years of participation: Team - Women 2022</li><li>Top finish: 6th – 2022 (Team - Women)</li></ul><h5>More</h5><p>USABA</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700245423/TeamUSA%20Assets/News/Cook_Mindy_BrazilSaveTokyo_2021.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700247585/TeamUSA%20Assets/Athlete%20Profiles/Mindy%20Cook%201194044/Cook_m_bio_1194044.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926365/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mindy%20Cook/Mindy_Cook_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mindy Cook"
+        }
+      ]
+    },
+    {
+      "first_name": "Kassidy",
+      "last_name": "Cook",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1995-05-09T00:00:00",
+        "hometown": {
+          "city": "The Woodlands",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 30.1658,
+          "longitude": -95.461
+        },
+        "education": " Stanford University '18",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Kevin and Laura Cook. Has five siblings: Kevin, Kara, Kelsey, Kylie and Kendall</li><li>Started diving at the age of three, and her sister, Kara, was a diver at Purdue University</li><li>Says she is extremely good at Games of Thrones and Harry Potter trivia</li><li>Narrowly missed making the 2012 Olympic team by .42 points and then was away from competition for two years while recovering from shoulder and knee surgeries</li><li>Says the hardest part about training is the mental aspect</li><li>During competition, she likes to dance and listen to music. Migos, Cardi B, Travis Scott and Taylor Swift are among her favorites) between dives</li><li>Favorite dive is 305B</li><li>Hobbies include cooking, reading, hiking, watching Netflix and playing other sports</li><li>Current synchro partner is Sarah Bacon</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (3m Springboard Synchro - Women)</li><li>Olympic Games Rio de Janeiro 2016, 13th (3m Springboard - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2011 – 7th (3m Springboard Synchro - Women)</li><li>Years of participation: 3m Springboard Synchro - Women 2011</li><li>Top finish: 7th – 2011 (3m Springboard Synchro - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1718724821/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kassidy%20Cook%20908291/Cook_Bacon_DivingWC_2024.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715691/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kassidy%20Cook%20908291/Cook-Kassidy-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kassidy Cook 908291"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Diving"
+        }
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Coon",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1994-11-14T00:00:00",
+        "hometown": {
+          "city": "Fowlerville",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.6392,
+          "longitude": -83.918
+        },
+        "education": "University of Michigan",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Former professional football player for the Seattle Sea Dragons of the XFL, despite never playing football in college</li><li>Member of the 2021 Tennessee Titans practice squad</li><li>Also lettered in football and track and field in high school. State runner-up in discus and shot put</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 21th (130kg - Men)</li><li>Years of participation: 130kg - Men 2018, 2019; 100kg - Men 2011, 2011</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2011 (100kg - Men)</li><li>Silver – 2018 (130kg - Men)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 12th (130kg - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1691166845/NGB%20Wrestling/Athlete%20Profiles/Adam%20Coon/left-Adam_Jacob_COON_USA_df._Minseok_KIM_KOR_-by_VFA_7_-_0-6.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1691166883/NGB%20Wrestling/Athlete%20Profiles/Adam%20Coon/AdamCoon.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wrestling"
+        },
+        {
+          "title": "Adam Coon"
+        }
+      ]
+    },
+    {
+      "first_name": "Travis",
+      "last_name": "Cooper",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1996-09-11T00:00:00",
+        "hometown": {
+          "city": "Kenai",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 60.5544,
+          "longitude": -151.2583
+        },
+        "education": "Kenai Central High School",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Osrblie, 2017 (15km Individual - Men, 4 x 7.5km Relay - Men, 10km Sprint - Men, 12.5km Pursuit - Men)</li><li>World Youth/Junior Championships, Cheile Gradistei, 2016 (4 x 7.5km Relay - Men)</li></ul><h5> World Championship Experience</h5><ul><li>2017 Junior World Championships (Brezno, SVK): 14th in relay / 59th in pursuit / 49th in sprint</li><li>2016 Junior World Championships (Cheile Gradistei, ITA): 18th in relay / 86th in sprint / 84th in individual</li></ul><h5>More</h5><strong>Home Town:</strong>&nbsp;Kenai, Alaska<br>\n<strong>Current Location:</strong>&nbsp;Jericho, Vermont &nbsp;\n<p></p>\n<strong>Did you know&hellip;.?<br>\n</strong>\n<p>My dream vacation spot is&hellip;. somewhere warm, with grass huts on the beach&nbsp;<br>\nWhen traveling, the thing I miss the most is&hellip;.. good ol' 'merican food&nbsp;<br>\nMy favorite meal is&hellip;. home-cooked one&nbsp;<br>\nI never leave the house without&hellip;.. way too many layers&nbsp;<br>\nIf I were not an athlete, I would&hellip;..have to get a real job</p>\n<p><strong>MORE ON TRAVIS:</strong>&nbsp;Travis started competitively skiing in the seventh grade for his local middle school. He then skied 4 years varsity at Kenai Central High School along with three trips to the Junior National Cross Country Ski Championships representing Team Alaska. His&nbsp;biathlon career started when he joined the National Guard his senior year of high school. He has been training and racing on their team since October of 2015, making two junior world teams. He accredits the National Guard for his success in the last few years and continues to give them praise for the amount of support and commitment they have shown to him as an athlete.</p>\n<p>&nbsp;</p>\n<p><strong>WORLD CUP TOP RESULTS (INCLUDING OWG &amp; WCH)</strong></p>\n<table>\n    <tbody>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\"><strong>POS</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>COMP</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>SEASON</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>EVENT</strong></td>\n        </tr>\n        <tr>\n            <td>56</td>\n            <td>SP</td>\n            <td>2018-19</td>\n            <td>Nove Mesto (CZE) WC</td>\n        </tr>\n        <tr>\n            <td>58</td>\n            <td>PU</td>\n            <td>2018/19</td>\n            <td>Nove Mesto (CZE) WC</td>\n        </tr>\n        <tr>\n            <td>73</td>\n            <td>SI</td>\n            <td>2018/19</td>\n            <td>Canmore (CAN) WC</td>\n        </tr>\n        <tr>\n            <td>94</td>\n            <td>SP</td>\n            <td>2018/19</td>\n            <td>Oberhof (GER) WC</td>\n        </tr>\n        <tr>\n            <td>96</td>\n            <td>IN</td>\n            <td>2019/20</td>\n            <td>Oestersund (SWE) WC</td>\n        </tr>\n        <tr>\n            <td>99</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Hochfilzen (AUT) WC</td>\n        </tr>\n        <tr>\n            <td>100</td>\n            <td>SP</td>\n            <td>2018/19</td>\n            <td>Hochfilzen (AUT) WC</td>\n        </tr>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\">103</td>\n            <td rowspan=\"1\" colspan=\"1\">IN</td>\n            <td rowspan=\"1\" colspan=\"1\">2018/19</td>\n            <td rowspan=\"1\" colspan=\"1\">Pokljuka (SLO) WC</td>\n        </tr>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\">105</td>\n            <td rowspan=\"1\" colspan=\"1\">SP</td>\n            <td rowspan=\"1\" colspan=\"1\">2018/19</td>\n            <td rowspan=\"1\" colspan=\"1\">Pokljuka (SLO) WC<br>\n            </td>\n        </tr>\n        <tr>\n            <td>108</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Oestersund (SWE) WC</td>\n        </tr>\n    </tbody>\n</table>\n<br><h5>More</h5><strong>Home Town:</strong>&nbsp;Kenai, Alaska<br>\n<strong>Current Location:</strong>&nbsp;Jericho, Vermont &nbsp;\n<p></p>\n<strong>Did you know&hellip;.?<br>\n</strong>\n<p>My dream vacation spot is&hellip;. somewhere warm, with grass huts on the beach&nbsp;<br>\nWhen traveling, the thing I miss the most is&hellip;.. good ol' 'merican food&nbsp;<br>\nMy favorite meal is&hellip;. home-cooked one&nbsp;<br>\nI never leave the house without&hellip;.. way too many layers&nbsp;<br>\nIf I were not an athlete, I would&hellip;..have to get a real job</p>\n<p><strong>MORE ON TRAVIS:</strong>&nbsp;Travis started competitively skiing in the seventh grade for his local middle school. He then skied 4 years varsity at Kenai Central High School along with three trips to the Junior National Cross Country Ski Championships representing Team Alaska. His&nbsp;biathlon career started when he joined the National Guard his senior year of high school. He has been training and racing on their team since October of 2015, making two junior world teams. He accredits the National Guard for his success in the last few years and continues to give them praise for the amount of support and commitment they have shown to him as an athlete.</p>\n<p>&nbsp;</p>\n<p><strong>WORLD CUP TOP RESULTS (INCLUDING OWG &amp; WCH)</strong></p>\n<table>\n    <tbody>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\"><strong>POS</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>COMP</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>SEASON</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>EVENT</strong></td>\n        </tr>\n        <tr>\n            <td>56</td>\n            <td>SP</td>\n            <td>2018-19</td>\n            <td>Nove Mesto (CZE) WC</td>\n        </tr>\n        <tr>\n            <td>58</td>\n            <td>PU</td>\n            <td>2018/19</td>\n            <td>Nove Mesto (CZE) WC</td>\n        </tr>\n        <tr>\n            <td>73</td>\n            <td>SI</td>\n            <td>2018/19</td>\n            <td>Canmore (CAN) WC</td>\n        </tr>\n        <tr>\n            <td>94</td>\n            <td>SP</td>\n            <td>2018/19</td>\n            <td>Oberhof (GER) WC</td>\n        </tr>\n        <tr>\n            <td>96</td>\n            <td>IN</td>\n            <td>2019/20</td>\n            <td>Oestersund (SWE) WC</td>\n        </tr>\n        <tr>\n            <td>99</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Hochfilzen (AUT) WC</td>\n        </tr>\n        <tr>\n            <td>100</td>\n            <td>SP</td>\n            <td>2018/19</td>\n            <td>Hochfilzen (AUT) WC</td>\n        </tr>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\">103</td>\n            <td rowspan=\"1\" colspan=\"1\">IN</td>\n            <td rowspan=\"1\" colspan=\"1\">2018/19</td>\n            <td rowspan=\"1\" colspan=\"1\">Pokljuka (SLO) WC</td>\n        </tr>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\">105</td>\n            <td rowspan=\"1\" colspan=\"1\">SP</td>\n            <td rowspan=\"1\" colspan=\"1\">2018/19</td>\n            <td rowspan=\"1\" colspan=\"1\">Pokljuka (SLO) WC<br>\n            </td>\n        </tr>\n        <tr>\n            <td>108</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Oestersund (SWE) WC</td>\n        </tr>\n    </tbody>\n</table>\n<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926407/TeamUSA%20Assets/Migration/Athlete%20Profiles/Travis%20Cooper/Travis_Cooper_2018heroimage1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926410/TeamUSA%20Assets/Migration/Athlete%20Profiles/Travis%20Cooper/Travis_Cooper_2018headshot150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Travis Cooper"
+        }
+      ]
+    },
+    {
+      "first_name": "Kasey",
+      "last_name": "Cooper",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1995-04-07T00:00:00",
+        "hometown": {
+          "city": "Dothan",
+          "state": "AL",
+          "country": "United States",
+          "latitude": 31.2232,
+          "longitude": -85.3905
+        },
+        "education": " Auburn - 2017",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 13</li><li>Daughter of Jeff and Peppi Cooper</li><li>Dream job is to be a doctor or surgeon</li><li>Goals in life are to be happy, give back, inspire others, love, be a surgeon and LIVE a GODLY LIFE</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2016 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (Team - Women)</li><li>Years of participation: Team - Women 2016, 2018</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2018 (Team - Women);  2016 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2017:</strong>&nbsp;Academic All-SEC...All-SEC Second Team...CoSIDA Academic All-American...NFCA All-Southeast Region Second Team...Preseasn All-SEC...Senior CLASS Award Finalist</p>\n<p><strong>2016:</strong>&nbsp;SEC Player of the Year...Academic All-SEC...All-SEC First Team...CoSIDA Academic All-American...espnW Player of the Year...Top 3 Finalist for USA Softball Collegiate Player of the Year...NCAA Elite 90 Winner...NFCA First Team All-American...SEC All-Defensive Team...</p>\n<p><strong>2015:&nbsp;</strong>Academic All-SEC...All-SEC First Team...CoSIDA Academic All-American...NFCA First Team All-American...SEC All-Defensive Team...SEC All-Tournament Team</p>\n<p><strong>2014:</strong>&nbsp;All-SEC Second Team...NFCA Second Team All-American...SEC All-Freshman Team...NFCA Co-Freshman of the Year</p>\n<p><strong>Click here to view Kasey Cooper's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715773/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kasey%20Cooper%201045828/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715774/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kasey%20Cooper%201045828/CooperKasey.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kasey Cooper 1045828"
+        }
+      ]
+    },
+    {
+      "first_name": "Paula",
+      "last_name": "Cooper",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1999-01-08T00:00:00",
+        "hometown": {
+          "city": "Vail",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6403,
+          "longitude": -106.3742
+        },
+        "education": "Vail Ski and Snowboard Academy (Vail, Colorado) ‘17 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div></div>\n<div><br>\n\n<p><h5>Career Highlights</h5><ul><li>World Cup, 2016 (Halfpipe - Women, Overall - Women)</li><li>World Junior Championships, Chiesa in Valmalenco, 2015 (Halfpipe - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Howard and Anna Cooper</li><li>Has two siblings, Julia and Kate</li><li>Mother, Anna, is Russian</li><li>Speaks Russian and Spanish</li><li>Grew up ski racing in Vail, Colorado, and began freestyle skiing in sixth grade at the Vail Ski and Snowboard Academy</li><li>In primary school raised lambs for Four-H, an agricultural competition in the United States</li><li>Knows how to rope calves and has experience working on a cattle ranch</li><li>Hobbies include riding horses and fly fishing.&nbsp;</li></ul><br>\n\n</p><p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715650/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paula%20Cooper%20814761/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715652/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paula%20Cooper%20814761/FreestyleSkiing_Cooper_Paula_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paula Cooper 814761"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Cooper",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1993-11-01T00:00:00",
+        "hometown": {
+          "city": "Anchorage",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 61.2181,
+          "longitude": -149.9003
+        },
+        "education": "University of Nebraska Omaha ’16, Chemistry & Nursing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jeff and Cindy Cooper</li><li>Has one brother, Erik</li><li>Chosen in the fifth round, 127th overall, by the Anaheim Ducks in the 2012 NHL Entry Draft.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362499/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brian%20Cooper/cooperbrianHeadshot2022150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Cooper"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Zachary",
+      "last_name": "Cooper",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1998-04-15T00:00:00",
+        "hometown": {
+          "city": "Greenwood",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.6139,
+          "longitude": -86.1069
+        },
+        "education": "Indiana Connections Academy (2017) University of Miami",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Zach is the son of Bradley Cooper and Leslee Bohland</li><li>He has one younger brother, Jacob</li><li>Began diving at age 6</li><li>His favorite dive is a 6245D on the 10-meter platform</li><li>His favorite diver is David Dinsmore</li><li>Zach likes to listen to music in between dives</li><li>IamJakeHill, BBno$ and Young Gravy are among his favorites</li><li>Says the hardest part of his training is dealing with the heat from training outside</li><li>When he is not diving, he enjoys playing video games and going to the beach</li><li>Likes to manage money and would to work in a bank or become a stock analyst</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2024 (Trophy - Men)</li><li>World Cup, 2023 (Team Event - Mixed, 10m Platform Synchro - Men, 10m Platform - Men)</li><li>World Cup, Berlin, 2022 (Team Event - Mixed)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 8th (10m Platform Synchro - Men), 13th (10m Platform - Men)</li><li>Years of participation: 10m Platform - Men 2022; 10m Platform Synchro - Men 2022; 10m Platform Synchro - Mixed 2019</li><li>Top finish: 5th – 2019 (10m Platform Synchro - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005405/TeamUSA%20Assets/Athlete%20Profiles/Zachary%20Cooper%20822372/Cooper-Zach-headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zachary Cooper 822372"
+        }
+      ]
+    },
+    {
+      "first_name": "Kahleah",
+      "last_name": "Copper",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1994-08-28T00:00:00",
+        "hometown": {
+          "city": "Philladelphia",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.95258,
+          "longitude": -75.16522
+        },
+        "education": "Rutgers University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Named a McDonald's All-American for her high-school basketball achievements</li><li>Current Team (July 2024): Phoenix Mercury (WNBA)</li><li>Position: Shooting Guard/Small Forward</li></ul><h5>World Championship Experience</h5><ul><li>World Cup Sydney 2022, gold (Team - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Basketball"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Kahleah Copper"
+        }
+      ]
+    },
+    {
+      "first_name": "Michaela",
+      "last_name": "Corcoran",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2002-08-07T00:00:00",
+        "hometown": {
+          "city": "Bethesda",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9847,
+          "longitude": -77.0947
+        },
+        "education": "Holton-Arms High School (Bethesda, Md.) ‘20  ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Michael Corcoran and Suzy Sander</li><li>Has a twin sister, Madison, who competes in K1</li><li>Her father Michael competed in C1 slalom at the Olympic Games Barcelona 1992 and Atlanta 1996</li><li>Hobbies include playing ukulele and making ceramics</li><li>Dual citizenship in Ireland</li><li>Has a golden retriever named Tucker.</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2023 (C1 - Women)</li><li>World Junior & U23 Championships, Kraków, 2023 (C1 - Women)</li><li>World Cup, 2022 (C1 - Women)</li><li>World Junior & U23 Championships, Ivrea, 2022 (C1 - Women)</li><li>World Junior & U23 Championships, Ljubljana, 2021 (C1 - Women)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 40th (C1 - Women)</li><li>Years of participation: C1 - Women 2023</li><li>Top finish: 40th – 2023 (C1 - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 21th (C1 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005387/TeamUSA%20Assets/Athlete%20Profiles/Michaela%20Corcoran%201145214/corcoran_michaela.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michaela Corcoran 1145214"
+        }
+      ]
+    },
+    {
+      "first_name": "Kevin",
+      "last_name": "Cordes",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1993-08-13T00:00:00",
+        "hometown": {
+          "city": "Naperville",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.75,
+          "longitude": -88.15
+        },
+        "education": "Neuqua Valley High School (Naperville, Ill.) ‘11 University of Arizona ‘15, Finance",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bill and Kristin Cordes</li><li>Bill played football for Arizona</li><li>Has two siblings, Caroline and Jack.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Medley Relay - Men), 4th (100m Breaststroke - Men), 8th (200m Breaststroke - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – gold (4 x 100m Medley Relay - Men, 4 x 100m Medley Relay - Mixed), silver (100m Breaststroke - Men), 5th (50m Breaststroke - Men), 6th (200m Breaststroke - Men)</li><li>Years of participation: 100m Breaststroke - Men 2013, 2017; 200m Breaststroke - Men 2013, 2015, 2017; 4 x 100m Medley Relay - Men 2013, 2015, 2017; 4 x 100m Medley Relay - Mixed 2015, 2017; 50m Breaststroke - Men 2013, 2015, 2017; 100m Breaststroke (SC) - Men 2012; 4 x 100m Medley Relay (SC) - Men 2012; 50m Breaststroke (SC) - Men 2012</li><li>Medals: 9 (4 gold, 3 silver, 2 bronze)</li><ul><li>Gold – 2017 (4 x 100m Medley Relay - Men, 4 x 100m Medley Relay - Mixed);  2015 (4 x 100m Medley Relay - Men);  2012 (4 x 100m Medley Relay (SC) - Men)</li><li>Silver – 2017 (100m Breaststroke - Men);  2015 (200m Breaststroke - Men, 4 x 100m Medley Relay - Mixed)</li><li>Bronze – 2015 (50m Breaststroke - Men);  2012 (100m Breaststroke (SC) - Men)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005431/TeamUSA%20Assets/Athlete%20Profiles/Kevin%20Cordes%20908155/Cordes_Kevin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kevin Cordes 908155"
+        }
+      ]
+    },
+    {
+      "first_name": "Sheila",
+      "last_name": "Cornell Douty",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1962-02-26T00:00:00",
+        "hometown": {
+          "city": "Diamond Bar",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0289,
+          "longitude": -117.8106
+        },
+        "education": "UCLA - 1984",
+        "fun_fact": null,
+        "biography": "<p>#22<br>\nHeight: 5'10\"<br>\nPosition: 1B - R/R<br>\nHometown: Diamond Bar, California<br>\nSchool: UCLA<br>\nGraduation: 1984</p>\n<p><strong><img alt=\"\" height=\"188\" width=\"300\" src=\"/-/media/USA_Softball/Images/Womens-National-Team/1996/CornellDouty_300x188.jpg?la=en&amp;hash=F816B7AE192D6C95D5B6434C67A61CBA2B818EC5\" ><br>\n</strong></p>\n<p><strong>A FEW ACCOMPLISHMENTS</strong></p>\nTwo-time Olympic Gold Medalist (1996, 2000)<br>\nThree-time World Champion (1990, 1994, 1998) <br>\nFour-time Pan American Gold Medalist (1987, 1991, 1995, 1999)\nMember of the National Softball Hall of Fame and ISF Hall of Fame<br>\nEarned ASA All-American honors 16 times<br>\n<br>\n<p><strong>EXPERIENCE</strong></p>\n2000: Gold medalist at Olympic Games in Sydney, Australia<br>\n1999: Gold medalist at Pan American Games, U.S. Olympic Cup and Canada Cup<br>\n- Hit .355 with 11 hits, six RBI and four runs scored (Pan Am)<br>\n1998: Gold medalist at ISF World Championships<br>\n- Hit .345 with four home runs and 12 RBI<br>\n1997: Silver medalist at Superball in Columbus, Ga.<br>\n1996: Gold medalist at Olympic Games in Atlanta, Georgia<br>\n- Hit .393 with three home runs and nine RBI<br>\n1995: Gold medalist at Pan American Games and Superball in Columbus, Ga.<br>\n- Led hitters with .581 average and eight RBI (Pan Am)<br>\n1994: Gold medalist at ISF World Championships and Pan American Games Qualifier<br>\n- Hit .357 with two home runs and five RBI<br>\n1993: Gold medalist at Intercontinental Cup in Holland<br>\n1992: Gold medalist at Women's World Challenger Cup<br>\n1991: Gold medalist at Pan American Games<br>\n1990: Gold medalist at ISF World Championship<br>\n- Hit .536 with eight RBI<br>\n1987: Gold medalist at Pan American Games<br>\n- Hit .389 with six RBI<br>\n1983: Silver medalist at Pan American Games<br>\n- Hit .464 with nine RBI<br>\n<p><strong>AT UCLA</strong></p>\nTwo-time NCAA National Champion (1982, 1984)<br>\nNamed to Pac-10 All-Decade team<br>\n<p><strong>GETTING TO KNOW DOUTY</strong></p>\nNamed an ASA All-American 16 times during Women's Major Fast pitch career<br>\nSeven-time ASA National Champion<br>\nBorn on February 26, 1962",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1996, 2000",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926277/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sheila%20Cornell%20Douty/Douty.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sheila Cornell Douty"
+        }
+      ]
+    },
+    {
+      "first_name": "Jacob",
+      "last_name": "Cornish",
+      "bio": {
+        "height": "6' 2\"",
+        "birthday": "1998-02-25T00:00:00",
+        "hometown": {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        },
+        "education": "University of Texas",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>Silver medalist (10-meter) at 2018 FINA Grand Prix/Bolzano</li>\r\n                    </ul><h5>More</h5><strong>Results:<br>\n</strong>\n<iframe src=\" https://docs.google.com/spreadsheets/d/e/2PACX-1vS3BmFIsyMmlSDcktZkFgQT3RniXGg9bEJ1FWiXL5nq6G8DVwZWgoybRamBPfWcErl-0BAEe4hBD7ju/pubhtml \" width=\"650\" height=\"500\" frameborder=\"0\"></iframe>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jacob Cornish"
+        }
+      ]
+    },
+    {
+      "first_name": "Liam",
+      "last_name": "Corrigan",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1997-09-11T00:00:00",
+        "hometown": {
+          "city": "Old Lyme",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.3293,
+          "longitude": -72.3087
+        },
+        "education": "Harvard University '22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Took up rowing in high school</li><li>Participant in the 2014 Youth Olympic Games</li><li><p>Earned a master’s degree in financial economics at Oxford University in 2022</p></li><li>Hobbies include playing and listening to music, reading Russian literature and rock climbing</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Four - Men)</li><li>Olympic Games Tokyo 2020, 4th (Eight - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Four - Men)</li><li>Years of participation: Four - Men 2023; Eight - Men 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Four - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712252733/TeamUSA%20Assets/Athlete%20Profiles/Liam%20Corrigan%201187834/Corrigan_L_bio_1187834.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712254081/TeamUSA%20Assets/Athlete%20Profiles/Liam%20Corrigan%201187834/Corrigan_L_gero_1187834.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712252733/TeamUSA%20Assets/Athlete%20Profiles/Liam%20Corrigan%201187834/Corrigan_L_bio_1187834.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005358/TeamUSA%20Assets/Athlete%20Profiles/Liam%20Corrigan%201187834/Corrigan_Liam_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Liam Corrigan 1187834"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Lia",
+      "last_name": "Coryell",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1965-01-26T00:00:00",
+        "hometown": {
+          "city": "LaCrosse",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.8041,
+          "longitude": -91.2315
+        },
+        "education": "University of Wisconsin-Whitewater",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Made her Team USA debut in 2015, when she was selected to the World Archery Para Championships and Parapan American Championships teams</li><li>Shoots a compound bow in the W1 women's category, and is a proud United States Army Veteran</li><li>Learned about archery at a wounded warrior adaptive sports camp</li><li>Became a first-time Paralympian at the age of 51</li><li>Serves as a Level 4-NTS professional archery coach and sits on several Boards of Adaptive Sports programs</li><li>Published author and researcher</li><li>Has five younger brothers and three younger sisters</li><li>She loves to be outdoors</li></ul><h5>More</h5><p>World Archery</p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 4th (Individual W1 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 4th (Team Compound W1 - Mixed), 7th (Individual Compound W1 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 8th (Team W1 - Mixed), 9th (Individual W1 - Women)</li><li>Years of participation: Individual W1 - Women 2015, 2017, 2019; Team W1 - Mixed 2015, 2017, 2019; Team Compound Open - Women 2017</li><li>Top finish: 4th – 2015 (Team W1 - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Archery",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "W1",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662586/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/coryell_l_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926347/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lia%20Coryell/CoryellLia_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lia Coryell"
+        }
+      ]
+    },
+    {
+      "first_name": "Liz",
+      "last_name": "Costello",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1988-02-23T00:00:00",
+        "hometown": {
+          "city": "Phoenixville",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.12927,
+          "longitude": -75.52074
+        },
+        "education": "Princeton University",
+        "fun_fact": "",
+        "biography": "<strong></strong><p>&nbsp;</p><span></span><div><br /><div><p><span><strong>Career Highlights:</strong></span></p><ul><li><span>2015 USATF Outdoor Championships, 7th (10,000-meter)<br /></span></li><li><span>2012 U.S. Olympic Team Trials, 16th (10,000-meter)</span></li><li><span>2011 SEC Outdoor Championships, 1st (5,000-meter)</span></li><li><span>2011 Penn Relays, 2nd (distance medley)</span></li></ul><p><span><strong ><br bold=\"[object Object]\"/></strong><strong>Personal: </strong>Daughter of James and Dorothy Costello…Has one brother, James.<br />Education:&nbsp;</span>Conestoga High School (Berwyn, Pa.); Princeton University ’10, Chemical Engineering<span><br /></span></p></div></div><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (10000m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926269/TeamUSA%20Assets/Migration/Athlete%20Profiles/Liz%20Costello/Athletics_Costello_Liz.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Liz Costello"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    }
+  ]
+}

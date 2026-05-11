@@ -1,0 +1,1117 @@
+{
+  "entries": [
+    {
+      "first_name": "Erik",
+      "last_name": "Shoji",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1989-08-24T00:00:00",
+        "hometown": {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        },
+        "education": "Stanford University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Dave and Mary Shoji</li><li>Father retired as the University of Hawaii women's volleyball coach in 2016 where he won four national titles in 34 seasons and left coaching with the most wins in NCAA DI women’s volleyball history</li><li>Mary played basketball at the University of Hawaii</li><li>Older brother, Kawika, also played volleyball for Stanford and they are now teammates on the U.S. Men’s National Volleyball Team</li><li>Has an older sister, Cobey</li><li>Began playing volleyball in 1998 with Outrigger Canoe Club</li><li>Favorite book is To Kill a Mockingbird</li><li>Favorite food is sushi</li><li>Favorite athletes are Marat Safin and Serena Williams</li><li>Has his own coaching and consulting business, which he runs by video chat even when he is out of the country</li><li>Competes most of the year in Novy Urengoy, Russia for Volleyball Club Fakel Novy Urengoy</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li><li>Olympic Games Tokyo 2020, 10th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, bronze (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul><h5>More</h5>USA Volleyball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662055/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/shoji_e_bio_806753.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662289/TeamUSA%20Assets/Athlete%20Profiles/Erik%20Shoji%20806753/shoji_e_hero_806753.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009118/TeamUSA%20Assets/Athlete%20Profiles/Erik%20Shoji%20806753/2017-Erik-Shoji.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Erik Shoji 806753"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Shore",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1992-09-26T00:00:00",
+        "hometown": {
+          "city": "Denver",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        },
+        "education": "University of Denver ‘13",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has three brothers</li><li>Two of them play hockey professionally</li><li>Baker is a member of Harvard University</li><li>Nick, Drew and Quentin all attended the University of Denver.</li></ul><h5>Career Highlights</h5><ul><li>2010 IIHF World U18 Championship, gold</li><li>2009 World U-17 Hockey Challenge, bronze</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362525/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Shore/shore_nick_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Shore"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        }
+      ]
+    },
+    {
+      "first_name": "Howard",
+      "last_name": "Shu",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1990-11-28T00:00:00",
+        "hometown": {
+          "city": "Orange County",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.74557,
+          "longitude": -117.86783
+        },
+        "education": "University of California--Los Angeles",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Singles - Men)</li><li>Pan American Games, Lima, 2019 (Singles - Men)</li><li>Pan American Games, Toronto, 2015 (Singles - Men)</li><li>World Junior Championships, Incheon, 2006 (Singles - Men)</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 27th (Singles - Men)</li><li>Olympic Games Rio de Janeiro 2016, 27th (Singles - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 17th (Singles - Men)</li><li>Years of participation: Singles - Men 2013, 2014, 2015, 2021, 2022, 2023; Doubles - Mixed 2015</li><li>Top finish: 17th – 2023 (Singles - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Badminton",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1722263388/TeamUSA%20Assets/Migration/Athlete%20Profiles/Howard%20Shu/Shu_H_hero_839595.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361135/TeamUSA%20Assets/Migration/Athlete%20Profiles/Howard%20Shu/Shu_Howard_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Howard Shu"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Badminton"
+        }
+      ]
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Shuey",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1994-02-02T00:00:00",
+        "hometown": {
+          "city": "Johnsonburg, Pa. ",
+          "state": "PA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Pennsylvania State University, University Park ‘16, Community, Environment and Development",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bill and Donna Shuey</li><li>Has two brothers, Matthew and William</li><li>Pennsylvania State University record holder in javelin</li><li>Two-time NCAA Big Ten champion in javelin</li><li>Two-time NCAA Big Ten first team</li><li>Hobbies include fishing, hunting, kayaking, hiking and hanging out with friends.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014 North American, Central American and Caribbean Under-23 Championships, 1st (javelin)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020,  (Javelin Throw - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 18th (Javelin Throw - Men)</li><li>Years of participation: Javelin Throw - Men 2019</li><li>Top finish: 18th – 2019 (Javelin Throw - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662093/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Shuey_m_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662244/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Shuey_m_hero_.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687361107/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michael%20Shuey/shuey_michael_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michael Shuey"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Shuster",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1982-11-03T00:00:00",
+        "hometown": {
+          "city": "Superior",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 46.7208,
+          "longitude": -92.0972
+        },
+        "education": "University of Minnesota Duluth",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"font-size: 12pt;\"><strong>Position:</strong></span><span>&nbsp;Skip</span></li><li><span style=\"font-size: 12pt;\"><strong>Specialty:&nbsp;</strong></span><span>Men’s Curling, Mixed Doubles</span></li><li>The only U.S. curler to compete at 5 Olympic Games</li><li>Only American curler with multiple Olympic medals (1 gold, 1 silver)</li><li>Ten-time national champion in men's curling...skip for seven of the ten championship teams</li><li>Wife, Sara, is his coach in mixed doubles</li><li>Nicknamed \"Shoostie\"</li><li>World University Games Champion, 2007 in men's curling</li><li>Co-owner of Duluth FC, a semi-professional soccer team, which competes in the National Premier Soccer League</li></ul><h5>Biographical Information</h5><p>John Shuster grew up in Chisholm, Minnesota, and picked up curling at age 12, after hanging around his father Tom's Thursday night league games. Six years later, Shuster would make his international debut representing Team USA at the world championships. Three years later, still as the lead for Pete Fenson's team, Shuster would make his Olympic debut at the Winter Olympic Games Turin 2006, where the U.S. men's curling team won a bronze medal, the first Olympic medal in the sport for Team USA.<span style=\"font-size: 11pt;\"></span></p><p><span style=\"font-size: 11pt;\">John Shuster would qualify for the next two Winter Olympics, this time as the skip of the U.S. men's team, but never finished better than ninth place in round-robin play. After the Winter Olympic Games in Sochi 2014, Shuster was cut from U.S. Curling's high-performance program, which helped fund and train top American athletes. In response, he formed his own team, nicknamed \"The Rejects,\" with other American curlers not selected for the high-performance program. \"The Rejects\" would become national champions in 2015, win a bronze medal at the world championships in 2016, and also qualify to represent Team USA at Winter Olympic Games Pyeongchang 2018.&nbsp;</span></p><p>At the Pyeongchang Games, Shuster's clutch double take-out in the eighth end led to the U.S. scoring a decisive five points vs. Sweden and their historic first-ever Olympic gold in curling.&nbsp;</p><p>Shuster was named the opening flagbearer for Team USA at the Winter Olympic Games Beijing 2022, where he once again was the skip of the U.S. men's curling team, leading them back to the medal round, finishing fourth. &nbsp;Shuster hopes to compete in curling through the next home Winter Olympics (Salt Lake City 2034), where he could potentially compete with his two sons on the same team, as both of whom are currently competitive junior curlers.&nbsp;</p><p><span style=\"font-size: 11pt;\"></span></p><h5>Olympic Experience</h5><ul><li>5-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Beijing 2022, 4th (Team - Men)</li><li>Olympic Games Pyeongchang 2018, gold (Team - Men)</li><li>Olympic Games Sochi 2014, 9th (Team - Men)</li><li>Olympic Games Vancouver 2010, 10th (Team - Men)</li><li>Olympic Games Turin 2006, bronze (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2003, 2005, 2006, 2009, 2015, 2016, 2017, 2019, 2021, 2023, 2024; Doubles - Mixed 2019</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2019 (Doubles - Mixed);  2016 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761262933/TeamUSA%20Assets/Athlete%20Profiles/John%20Shuster%20810650/shusuter_j_bio_810650..png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006, 2010, 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761262939/TeamUSA%20Assets/Athlete%20Profiles/John%20Shuster%20810650/shusuter_j_hero_810650.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761262933/TeamUSA%20Assets/Athlete%20Profiles/John%20Shuster%20810650/shusuter_j_bio_810650..png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Shuster 810650"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Gavin",
+      "last_name": "Sibayan",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1981-01-03T00:00:00",
+        "hometown": {
+          "city": "Westminster",
+          "state": "CO",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Westminster High School (Westminster, Colo.) ’99 Red Rocks Community College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Sibayan started competing with the U.S. Paralympic Soccer Team in 2010. He joined the U.S. Army in 2005, and worked as a military policeman and toured in Iraq. He medically retired as a staff sergeant in 2011. Sibayan, a Colorado native, has always been involved in sports. In high school, he competed in swimming, soccer, baseball, cross country and wrestling</li><li>Son of Gerald and Maxine Sibayan</li><li>Married to Stephanie Sibayan</li><li>Hobbies include fishing, hunting, camping and having fun with his family.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 7th (Team - Men)</li><li>Paralympic Games London 2012, 8th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 7th (Team - Men)</li><li>Years of participation: Team - Men 2015</li><li>Top finish: 7th – 2015 (Team - Men)</li></ul><h5>More</h5><p>U.S. Soccer</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697702/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gavin%20Sibayan%20868259/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "FT7",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697704/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gavin%20Sibayan%20868259/Sibayan_Gavin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gavin Sibayan 868259"
+        }
+      ]
+    },
+    {
+      "first_name": "Jenny",
+      "last_name": "Sichel",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1988-03-09T00:00:00",
+        "hometown": {
+          "city": "Clifton",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.8584,
+          "longitude": -74.1632
+        },
+        "education": "Clifton High School (Clifton, N.J.) ‘06 Bryn Mawr College ’10, Mathematics ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Sichel began rowing her freshman year of college because the school did not have a softball team. She was the 2010 Mid-Atlantic Regional Conference Rower and the 2010 Bryn Mawr College Most Valuable Rower. She received the 2010 Bryn Mawr College Founder’s Award. She was named the 2007 Mid-Atlantic All-Region Novice Rower. She was a rower before a herniated disc caused her to switch to coxing. The most influential people in her athletic career are her college rowing coach Carol Bower, who taught her the sport and encouraged her national team aspirations</li><li>Has one brother, Billy</li><li>Her hobbies include baking, running, pole vaulting, baton twirling and playing softball</li><li>In high school, she was a drum majorette for the band and earned the Clifton High School Drum Majorette Award for Excellence in Performance</li><li>Her pre-race ritual is her “race day hair,” the braids she has worn for every race in her career</li><li>Most memorable sporting achievement is making the 2010 U.S. National Team</li><li>After rowing, she plans to study veterinary medicine.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (Legs, Trunk & Arms Coxed Four - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – silver (PR3 Coxed Four - Mixed)</li><li>Years of participation: PR3 Coxed Four - Mixed 2017, 2018; Legs, Trunk & Arms Coxed Four - Mixed 2010, 2013, 2014, 2015</li><li>Medals: 4 (4 silver)</li><ul><li>Silver – 2018 (PR3 Coxed Four - Mixed);  2017 (PR3 Coxed Four - Mixed);  2015 (Legs, Trunk & Arms Coxed Four - Mixed);  2014 (Legs, Trunk & Arms Coxed Four - Mixed)</li></ul></ul><h5>More</h5><p>USRowing</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697679/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jenny%20Sichel%201228251/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Legs, Trunk and Arms Four with Coxswain",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697681/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jenny%20Sichel%201228251/Sichel_Jennifer150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jenny Sichel 1228251"
+        }
+      ]
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Sides",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1982-10-07T00:00:00",
+        "hometown": {
+          "city": "Silverthorne",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6264,
+          "longitude": -106.0714
+        },
+        "education": "Gainesville High School (Gainesville, Texas) '01 Colorado Mountain College '20, Geology/Hydrology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>In July 2012, Staff Sergeant Sides was serving as an explosive ordinance disposal technician with the United States Marine Corps in Afghanistan. He was attempting to manually disarm an improvised explosive device when it exploded. His injuries resulted in the loss of vision in his left eye and the amputation of his lower right arm</li><li>Has two siblings, Matthew and Melissa</li><li>Married to Amy Sides</li><li>Has one daughter, Avery</li><li>Hobbies include snowboarding, mountain biking, skating, surfing, off-roading, camping, climbing and hiking.</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018, 14th (Banked Slalom - Upper Limb Impaired - Men), 15th (Snowboard Cross - Upper Limb Impaired - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 6th (Snowboard Cross - Upper Limb Impaired - Men), 8th (Banked Slalom - Upper Limb Impaired - Men)</li><li>Years of participation: Banked Slalom - Upper Limb Impaired - Men 2015; Snowboard Cross - Upper Limb Impaired - Men 2015</li><li>Top finish: 6th – 2015 (Snowboard Cross - Upper Limb Impaired - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697714/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jimmy%20Sides%20867739/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "SB-UL",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697716/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jimmy%20Sides%20867739/Sides_Jimmy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jimmy Sides 867739"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Siemann",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1989-10-07T00:00:00",
+        "hometown": {
+          "city": "Champaign",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 40.1164,
+          "longitude": -88.2434
+        },
+        "education": "University of Illinois-Urbana Champaign ’15, Special Education M.S.",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of John and Teresa Siemann. Has an older brother, John, and is a quadruplet with three sisters Amanda, Maria, and Jessica</li><li><span>Has two dogs, Gambit and Ace</span></li><li>Paralyzed from the waist down at birth after a hospital accident</li><li><span>Introduced to track and field his freshman year by high school coach Joe McLaughlin</span></li><li><span>Was donated his first racing chair by McLaughlin who teamed up with other high school staff members and Project Freedom to raise funds</span></li><li><span>Works as a Learning Disabilities/ADHD Specialist at the University of Illinois at Urbana-Champaign</span></li><li>Hobbies include reading comic books, scuba diving, and cooking</li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 2-time Paralympic medalist (2 bronze)</li><ul><li>Paralympic Games Paris 2024, bronze (400m T53 - Men, 800m T53 - Men), 4th (100m T53 - Men), 9th (5000m T54 - Men), 11th (Marathon T54 - Men)</li><li>Paralympic Games Tokyo 2020, 4th (400m T53 - Men), 8th (800m T53 - Men), 9th (100m T53 - Men), 12th (5000m T54 - Men), 15th (Marathon T54 - Men), 16th (1500m T54 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 4th (800m T53 - Men), 5th (400m T53 - Men), 7th (100m T53 - Men)</li><li>Paralympic Games London 2012,  (400m T53 - Men), 6th (100m T53 - Men), 8th (800m T53 - Men), 10th (200m T53 - Men), 25th (Marathon T54 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (400m T53 - Men, 800m T53 - Men), 4th (100m T53 - Men)</li><li>Years of participation: 100m T53 - Men 2011, 2013, 2017, 2019, 2023; 400m T53 - Men 2011, 2013, 2015, 2017, 2019, 2023; 800m T53 - Men 2013, 2015, 2017, 2019, 2023; Marathon T54 - Men 2019; 1500m T54 - Men 2015, 2017; 200m T53 - Men 2011, 2013, 2017; 5000m T54 - Men 2015, 2017; 4 x 400m Relay T53-54 - Men 2011, 2013</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2023 (400m T53 - Men, 800m T53 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662085/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/siemann_b_bio_875883.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T53",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662755/TeamUSA%20Assets/Athlete%20Profiles/Brian%20Siemann%20875883/siemann_b_hero_875883.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013301/TeamUSA%20Assets/Athlete%20Profiles/Brian%20Siemann%20875883/Siemann_Brian250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Siemann 875883"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Jasmine",
+      "last_name": "Sievers",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2000-08-16T00:00:00",
+        "hometown": {
+          "city": "Laguna Niguel",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.5903,
+          "longitude": -117.707
+        },
+        "education": "Capistrano Valley Oregon - 2022",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>First time Team USA member</li><li>Parents are Jillian and Jay Sievers</li><li>Favorite hobbies include hanging out with friends and her baby brother, shopping</li><li>Favorite movie is Best of Me</li><li>Three words to describe her are energetic, hardworking and fun</li><li>On what it means to play for USA Softball: It means everything to me and I am so honored because I have been dreaming of this ever since I was a little girl</li><li>On what she enjoys most about playing softball: The friendships that are built because of the sport</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 USA Softball International Cup Bronze Medalist; Hit .286 (8-for-28) with 4 RBI and 5 runs scored</li>\r\n                            <li>Competed in the 2018 Orange County Softball Coaches All-Star Classic</li>\r\n                            <li>Oregon&#39;s highest ranked recruit for the class of 2018 at No. 10 on FloSoftball&#39;s hot 100 rankings</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2019 WBSC U-19 Women's Softball World Cup Gold Medalist; Hit .429 (12-for-28) with 1 HR, 7 RBI and 11 runs scored</li></ul><h5>More</h5><p><strong>COLLEGIATE&nbsp;HONORS</strong></p>\n<p><strong>2019:&nbsp;</strong>First Team All-Pac-12...Pac-12 All-Defensive Team...Pac-12 All-Freshman Team</p>\n<p>Click here to see Jasmine Siever's collegiate bio</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697746/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jasmine%20Sievers%201173314/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697747/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jasmine%20Sievers%201173314/Jasmine-Sievers.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jasmine Sievers 1173314"
+        }
+      ]
+    },
+    {
+      "first_name": "Brita",
+      "last_name": "Sigourney",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1990-01-17T00:00:00",
+        "hometown": {
+          "city": "Carmel",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.555,
+          "longitude": -121.9233
+        },
+        "education": " University of California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Julie and Thaddeus Sigourney</li><li>Has three siblings, Brendan, Bryce and Elsbeth</li><li>Began skiing at the age of 2 and joined a ski team at the age of 8</li><li>Played water polo while attending college at University of California, Davis</li><li>Hobbies include hiking, camping and swimming.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Beijing 2022, 10th (Halfpipe - Women)</li><li>Olympic Games Pyeongchang 2018, bronze (Halfpipe - Women)</li><li>Olympic Games Sochi 2014, 6th (Halfpipe - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 7th (Halfpipe - Women)</li><li>Years of participation: Halfpipe - Women 2011, 2017, 2019, 2021, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2019 (Halfpipe - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nU.S. Ski and Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697152698/TeamUSA%20Assets/Athlete%20Profiles/Brita%20Sigourney%20878047/sigourney_b_bio_833890.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697152812/TeamUSA%20Assets/Athlete%20Profiles/Brita%20Sigourney%20878047/sigourney_b_hero_833890.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004874/TeamUSA%20Assets/Athlete%20Profiles/Brita%20Sigourney%20878047/sigourney_brita_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brita Sigourney 878047"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        }
+      ]
+    },
+    {
+      "first_name": "Jacob",
+      "last_name": "Siler",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1999-03-12T00:00:00",
+        "hometown": {
+          "city": "Knoxville",
+          "state": "TN",
+          "country": "United States",
+          "latitude": 35.9606,
+          "longitude": -83.9207
+        },
+        "education": " The Ohio State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Cheri and Stanley</li><li>He has five siblings</li><li>Jacob's interests and hobbies include disc golf, rock climbing and glass blowing</li><li>He trains 4 hours a day, six days a week</li><li>He is studying Speech and Hearing Science</li><li>Jacob began diving at age nine and also played basketball, basketball, soccer, track, cross country and wrestling during his childhood</li><li>He overcame tearing two ligaments in his left ankle</li><li>He was named a 2018 CSCAA Scholar All-American</li><li>His first junior nationals was in 2009 and his first senior nationals was in 2015</li><li>Jacob would describe his training techniques as unusual because of his love for ninja warrior and always wanting to climb on everything. He has used some strongman implements and techniques in his training to develop his strength and athleticism</li><li>It is a lifelong dream of his to win American Ninja Warrior</li><li>Generally between dives, Jacob sits in one spot and hangs out with friends, teammates and competitors. He also tries to keep himself warm</li><li>His favorite dive is a 303 in all positions</li><li>His goal for 2019 is to learn big dives and to do them well</li><li>Jacob considers dealing with the frustration that comes along with trying to learn new dives the hardest part of his training</li><li>A typical pre-competition meal for Jacob is a lot of fruit, protein bars and pepperoni pizza</li><li>Outside of competition, Jacob's favorite meal is pepperoni pizza</li><li>If he could do any other profession, he would be a firefighter as he believes helping people is never a dull day on the job</li><li>His favorite diver is Patrick Hausding</li><li>Jacob describes himself as wild, funny and helpful</li><li>His favorite TV show is Prison Break</li><li>His favorite movie is Gladiator</li><li>His favorite book series is Ergaon</li><li>If Jacob could meet anyone it would be Dwayne \"The Rock\" Johnson</li><li>Something people would be surprised to learn about Jacob is that he pierced both of his ears</li></ul><p></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697721/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jacob%20Siler%201144760/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697723/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jacob%20Siler%201144760/Siler-Jacob-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jacob Siler 1144760"
+        }
+      ]
+    },
+    {
+      "first_name": "Charles",
+      "last_name": "Silmon",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1991-07-04T00:00:00",
+        "hometown": {
+          "city": "Waco",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 31.5493,
+          "longitude": -97.1467
+        },
+        "education": "Waco High School (Waco, Texas) ‘09 Texas Christian University ’13, Social Work",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<br>\n\n<div>\n<p><h5>Career Highlights</h5><ul><li>World Junior Championships, Moncton, 2010 (4 x 100m Relay - Men, 100m - Men)</li></ul><h5>Quick Facts</h5><ul><li>First broke the 10-second barrier in the 100-meter at the 2013 USATF Outdoor Championships</li><li>Aspired to play in the NFL, but switched to track and field after tearing his ACL in high school.</li></ul><br>\n<br>\n<h5>More</h5>USA Track and Field\n\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327985/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charles%20Silmon/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Charles Silmon"
+        }
+      ]
+    },
+    {
+      "first_name": "Juliana",
+      "last_name": "Silva",
+      "bio": {
+        "height": "5'3",
+        "birthday": "2002-11-09T00:00:00",
+        "hometown": {
+          "city": "Tampa",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9642,
+          "longitude": -82.4584
+        },
+        "education": "Wiregrass Ranch High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She is from Venezuela</li><li>Started doing Synchronized Swimming without knowing how to speak English</li><li>She played the violin</li><li>Juliana has been swimming since she was 4</li><li>She lived in Colombia for a few months and moved to Tampa at age 9 in 2011</li><li>Her dad was in the top-5 best players in Venezuela for tennis</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 U.S. junior national team member</li>\r\n                            <li>2020 U.S. junior national team member</li>\r\n                            <li>2019 U.S. junior national team member</li>\r\n                            <li>2019 Regional Swimmer of the Year</li>\r\n                            <li>2018 Regional Swimmer of the Year</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012677/TeamUSA%20Assets/Athlete%20Profiles/Juliana%20Silva%201204055/Juliana-Silva.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Juliana Silva 1204055"
+        }
+      ]
+    },
+    {
+      "first_name": "Brenda",
+      "last_name": "Silva",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1962-01-01T00:00:00",
+        "hometown": {
+          "city": "Snowflake",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 34.5167,
+          "longitude": -110.0833
+        },
+        "education": "Fountain Valley High School (Fountain Valley, Calif.) Chapman University '99, Criminal Justice",
+        "fun_fact": null,
+        "biography": "<strong></strong><p></p><div><div></div><div><p></p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2008, 37th (10m Air Pistol - Women)</li></ul></ul><h5>Quick Facts</h5><ul><li>Daughter of William and Linda Martin</li><li>Married to Antone Silva</li><li>Has one son, Kenneth</li><li>Learned to shoot in the Orange County Sheriff's Police Explorer Program in 1979</li><li>Won the 1980 National Police Explorer Pistol Match and was invited to train at the U.S. Olympic Training Center</li><li>Works full time as a lieutenant with the Riverside County Sheriff's Department.</li></ul><h5>More</h5>USA Shooting</div></div><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 62th (25m Pistol - Women)</li><li>Years of participation: 25m Pistol - Women 2010, 2018; 10m Air Pistol - Women 2010</li><li>Top finish: 60th – 2010 (10m Air Pistol - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327965/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brenda%20Silva/Shooting_Silva_Brenda.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brenda Silva"
+        }
+      ]
+    },
+    {
+      "first_name": "Caitlin",
+      "last_name": "Simmers",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "2005-10-26T00:00:00",
+        "hometown": {
+          "city": "Oceanside",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.1959,
+          "longitude": -117.3795
+        },
+        "education": "Coastal Academy High School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has directed, edited and starred in her own film, Toasted</li><li>Rejected joining the Championship Tour in 2021 but qualified again in 2022</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 <span>– 4th</span></li><li>Years of participation: 2023</li><li>Top finish: 4th – 2023</li></ul><h5>Career Highlights</h5><ul><li>ISA World Junior Championships, Huntington Beach, 2019 (Shortboard - Women)</li><li>WSL World Junior Championships, T'ai-tung, 2019 (Shortboard - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (Shortboard - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694058818/TeamUSA%20Assets/Athlete%20Profiles/Caitlin%20Simmers%201127746/simmers_c_bio_1127746.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Surfing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694058768/TeamUSA%20Assets/Athlete%20Profiles/Caitlin%20Simmers%201127746/simmers_c_hero_1127746.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694058768/TeamUSA%20Assets/Athlete%20Profiles/Caitlin%20Simmers%201127746/simmers_c_hero_1127746.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694058768/TeamUSA%20Assets/Athlete%20Profiles/Caitlin%20Simmers%201127746/simmers_c_hero_1127746.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Caitlin Simmers"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Surfing"
+        }
+      ]
+    },
+    {
+      "first_name": "Kerry",
+      "last_name": "Simmonds",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1989-04-03T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Torrey Pines High School (San Diego, Calif.) ‘07  University of Washington ‘11, Physiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Steve and Karyn Simmonds and Katherine Liveri</li><li>Has two brothers, Brian and Eric, and three younger sisters, Maddison, Marissa and Kyra</li><li>Hobbies include playing basketball, making and editing home videos, and listening to music.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Eight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (Eight - Women)</li><li>Years of participation: Eight - Women 2013, 2015; Pair - Women 2014</li><li>Medals: 3 (2 gold, 1 silver)</li><ul><li>Gold – 2015 (Eight - Women);  2013 (Eight - Women)</li><li>Silver – 2014 (Pair - Women)</li></ul></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697687/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kerry%20Simmonds%20873043/Kalmoe_Eisser_Kohler_Simmonds_052716_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697688/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kerry%20Simmonds%20873043/Simmonds_Kerry_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kerry Simmonds 873043"
+        }
+      ]
+    },
+    {
+      "first_name": "Cale",
+      "last_name": "Simmons",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1991-02-05T00:00:00",
+        "hometown": {
+          "city": "Rocklin",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.7946,
+          "longitude": -121.2305
+        },
+        "education": "Rocklin High School (Rocklin, Calif.) ‘09 Air Force Academy ‘13, Basic Sciences",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Craig and Carol Simmons</li><li>Has a twin brother, Rob, and three sisters, Rachel, Olivia and Isabel</li><li>Aspires to become a fighter pilot</li><li>Member of the &quot;500 Club&quot; for recording a perfect score on the U.S. Air Force physical fitness test</li><li>Nicknames include &quot;Cale-Rob,&quot; &quot;Twin,”  &quot;Thundercat,” &quot;Blazer,” &quot;Turbo,” &quot;Twig,” &quot;Skeletor,” and &quot;King Cale”</li><li>Hobbies include skiing, rock climbing, skydiving, scuba diving, hiking, cliff diving, camping, longboarding and playing frisbee.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 USA Indoor Championships, bronze</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 28th (Pole Vault - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697727/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cale%20Simmons%201031239/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697729/TeamUSA%20Assets/Migration/Athlete%20Profiles/Cale%20Simmons%201031239/8681690.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cale Simmons 1031239"
+        }
+      ]
+    },
+    {
+      "first_name": "Macy",
+      "last_name": "Simmons",
+      "bio": {
+        "height": "6'",
+        "birthday": "2000-10-26T00:00:00",
+        "hometown": {
+          "city": "Chandler",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.3062,
+          "longitude": -111.8413
+        },
+        "education": "Hamilton ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Mike and Ally Simmons</li><li>Dream job is to be a child&#39;s psychiatrist or a dermatologist</li><li>Favorite TV show is Parks and Rec or The Office</li><li>Person she admires the most: Mike Trout, because he is a phenomenal athlete and is always looking to improve by asking for feedback and direction from his coaches</li><li>Three words to describe her are: driven, compassionate, and fun</li><li>On what it means to play for USA Softball: It is an incredible honor and privilege. It has always been a dream of mine to represent our country playing the sport I, and so many others, love</li><li>On what she enjoys most about playing softball: I enjoy the strategy of the game and the competitiveness between teams</li></ul><h5>Career Highlights</h5><ul><li>U-19 World Cup, Irvine, 2019 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2019 WBSC U-19 Women's Softball World Cup Gold Medalist; Hit .750 (6-for-8) with 3 RBI and 1 run scored</li></ul><h5>More</h5><p><strong>Career Honors</strong></p>\n<p><strong>2019:&nbsp;</strong>USA Today All-USA Preseason Team...MaxPreps Preseason All-American&nbsp;</p>\n<p><strong>2018:&nbsp;</strong>MaxPreps&nbsp;First Team All-American</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697740/TeamUSA%20Assets/Migration/Athlete%20Profiles/Macy%20Simmons%201173320/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697741/TeamUSA%20Assets/Migration/Athlete%20Profiles/Macy%20Simmons%201173320/Macy-Simmons.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Macy Simmons 1173320"
+        }
+      ]
+    },
+    {
+      "first_name": "Kirsten",
+      "last_name": "Simms",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2004-08-31T00:00:00",
+        "hometown": {
+          "city": "Plymouth",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.3703,
+          "longitude": -83.4702
+        },
+        "education": "University of Wisconsin",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong></strong><span><strong>Position:</strong> Forward</span></li><li><span>Daughter of Bill and Karen Simms</span></li></ul><h5>Biographical Information</h5><p><span>Kirsten Simms grew up in Plymouth, Michigan, playing youth hockey with the boys until the eight grade, when she started playing girls hockey for the Little Caesars AAA Hockey Club.</span></p><p><span>Simms attends the University of Wisconsin, where she helped secure the 2025 national title for the Badgers by scoring two key goals in the title game. Simms first&nbsp;</span><span>tied&nbsp; the game with a penalty shot at 18.9 seconds left on the clock, then netted the game-winner in overtime for the 4-3 victory over Ohio State University.&nbsp;</span></p><p><span>Simms made her debut with the U.S. women's hockey team the previous season, appearing on the roster for the Rivlary Series and the 2024 IIHF Women’s World Championships.</span></p><p><span>Simms made the U.S. women’s hockey team for the Olympic Winter Games Milano Cortina 2026 along with four of her current Wisconsin teammates (Laila Edwards, Caroline Harvey and Ava McNaughton).</span></p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2024, 2025</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2025 (Team - Women)</li><li>Silver – 2024 (Team - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770331325/Simms-K_bio_1175737.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770246587/Simms_K_main_1175737.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770164052/Simms_K_thumbnail_1175737.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Kirsten Simms"
+        }
+      ]
+    }
+  ]
+}

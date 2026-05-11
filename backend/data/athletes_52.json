@@ -1,0 +1,1408 @@
+{
+  "entries": [
+    {
+      "first_name": "Anna",
+      "last_name": "Gay",
+      "bio": {
+        "height": "5.3\"",
+        "birthday": "1999-12-23T00:00:00",
+        "hometown": {
+          "city": "Winter Garden",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.5608,
+          "longitude": -81.5706
+        },
+        "education": "University of Alabama",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began skiing at age 2</li><li>Began competing at age 6</li><li>Sponsored by Masterline USA, Quantum Skis, Eagle Wetsuits, Nautique, GOODE, TOYOU Snacks</li><li>Began skiing because of her parents Russell and Jane Gay who also coach her</li><li>Enjoys triathlon</li><li>Favorite cross training activities include running, swimming and biking</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Overall - Women, Tricks - Women, Jumping - Women, Slalom - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – gold (Team - Mixed), silver (Tricks - Women), 6th (Overall - Women), 14th (Slalom - Women), 21th (Jumping - Women)</li><li>Years of participation: Jumping - Women 2017, 2019, 2021, 2023; Overall - Women 2017, 2019, 2021, 2023; Slalom - Women 2017, 2019, 2021, 2023; Team - Mixed 2017, 2019, 2021, 2023; Tricks - Women 2015, 2017, 2019, 2021, 2023</li><li>Medals: 8 (5 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2023 (Team - Mixed);  2021 (Tricks - Women);  2019 (Tricks - Women);  2017 (Team - Mixed);  2015 (Tricks - Women)</li><li>Silver – 2023 (Tricks - Women);  2019 (Team - Mixed)</li><li>Bronze – 2021 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Waterski/Wakeboard",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011029/TeamUSA%20Assets/Athlete%20Profiles/Anna%20Gay%201005124/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anna Gay 1005124"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyson",
+      "last_name": "Gay",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1982-08-09T00:00:00",
+        "hometown": {
+          "city": "Lexington",
+          "state": "KY",
+          "country": "United States",
+          "latitude": 38.0406,
+          "longitude": -84.5037
+        },
+        "education": "Lafayette High School (Lexington, Ky.) ‘01 University of Arkansas ‘05, Marketing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Daisy Gay and Greg Mitchell</li><li>Has one older sister, Tiffany, who inspired his love for running, and two half-siblings, Seth and Haleigh</li><li>Has one daughter, Trinity</li><li>Ranks among the top-five fastest all time in both the 100- and 200-meter events</li><li>Had a breakout season in 2010, in which he posted the 200-meter world record (19.41) for a straightaway, equaled the world-leading time in the 100 (9.78) and won the inaugural IAAF Diamond League championship 100 title</li><li>During the 2005 World Outdoor Championships, Gay finished fourth in the men&#39;s 200m final joining Justin Gatlin (1st), Wallace Spearmon (2nd) and John Capel (3rd) as the U.S. became the first country in IAAF World Outdoor Championships history to sweep the top four spots in a single event</li><li>2004 NCAA 100-meter champion.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 7th (4 x 100m Relay - Men)</li><li>Olympic Games London 2012, 0th (100m - Men, 4 x 100m Relay - Men)</li><li>Olympic Games Beijing 2008,  (4 x 100m Relay - Men), 9th (100m - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 6th (100m - Men), 7th (4 x 100m Relay - Men)</li><li>Years of participation: 100m - Men 2007, 2009, 2015; 4 x 100m Relay - Men 2005, 2007, 2015; 200m - Men 2005, 2007, 2009</li><li>Medals: 4 (3 gold, 1 silver)</li><ul><li>Gold – 2007 (100m - Men, 200m - Men, 4 x 100m Relay - Men)</li><li>Silver – 2009 (100m - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720184/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tyson%20Gay%20916714/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720185/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tyson%20Gay%20916714/Gay_Tyson_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyson Gay 916714"
+        }
+      ]
+    },
+    {
+      "first_name": "William",
+      "last_name": "Gebauer",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1998-10-20T00:00:00",
+        "hometown": {
+          "city": "Whitefish Bay",
+          "state": "WI",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": " University of Wisconsin Milwaukee",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><p>Outside of speed skating, William’s hobbies include photography/videography and volunteering at the USANA Foundation by packing lunches for school kids.</p><h5>World Championship Highlights</h5><ul><li>2023 Four Continent's Championships <span>- 500m 13th; 1500m 13th; 1000m 13th</span></li><li><p>2022 Four Continents Championships - 1500m 8th</p></li><li><span>2018 World Junior Championships - 500m 24th; 1000m 27th; 1500m 30th</span></li><li><span>2017 World Junior Championships - 1000m 44th; 1500m 45th</span></li></ul><h5>National Team </h5><p>A member of the Long Track National Team from 2020-23</p><h5> World Championship Experience</h5><ul><li>2022 Four Continents Championships - 1500m 8th</li><li>2018 Long Track Junior World Championships</li><li>2017 Junior World Championships</li></ul><h5>Career Highlights</h5><ul><li>Junior World Cup, 2018 (1000m - Men)</li><li>World Junior Championships, Salt Lake City, 2018 (Team Sprint - Men, 500m - Men, 1000m - Men, 1500m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686342504/NGB%20Speedskating/Galleries/Screen_Shot_2023-06-09_at_2.27.35_PM.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685549770/NGB%20Speedskating/Athlete%20Profiles/2023-24/Long%20Track/C59T4001.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685549770/NGB%20Speedskating/Athlete%20Profiles/2023-24/Long%20Track/C59T4001.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "William Gebauer 905170"
+        }
+      ]
+    },
+    {
+      "first_name": "Ellen",
+      "last_name": "Geddes",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1988-07-04T00:00:00",
+        "hometown": {
+          "city": "Aiken",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 33.5604,
+          "longitude": -81.7208
+        },
+        "education": "Presbyterian College ’10, Religion and Psychology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Lists winning double top eights in Kyoto in 2018 as her favorite fencing memory</li><li>A former competitive equestrian, Geddes broke her back in a car accident in 2011 and suffered a complete spinal cord injury at T10</li><li>While rehabbing at the Shepherd Center in Atlanta, Geddes met National Team member Dennis Aspy who inspired her to join Para fencing</li><li>Won her first medal on the World Cup circuit in Montreal in 2014</li><li>Within a year, Geddes had qualified for her first Wheelchair World Championship Team and in 2014 she won her first medal on the World Cup circuit in Montreal</li><li>Her uncle is a role model because he was paralyzed at 17 and uses a wheelchair</li><li>Owns about 30 horses and runs a breeding program with her business partner</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 6th (Team Foil - Women), 10th (Individual Epee B - Women, Individual Foil B - Women), 11th (Team Epee - Women)</li><li>Paralympic Games Tokyo 2020, 7th (Team Epee - Women), 8th (Team Foil - Women), 10th (Individual Foil B - Women), 11th (Individual Epee B - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 8th (Team Foil - Women), 14th (Team Sabre - Women), 17th (Individual Foil B - Women), 21th (Individual Sabre B - Women)</li><li>Years of participation: Individual Foil B - Women 2013, 2015, 2017, 2019, 2023, 2025; Individual Sabre B - Women 2025; Team Foil - Women 2019, 2023, 2025; Team Sabre - Women 2025; Individual Epee B - Women 2013, 2015, 2017, 2019, 2023; Team Epee - Women 2013, 2019</li><li>Top finish: 8th – 2025 (Team Foil - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661978/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Geddes_e_bio_1005814.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Fencing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "B",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1724868146/TeamUSA%20Assets/Athlete%20Profiles/Ellen%20Geddes%201005814/geddes_e_hero_1005814.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1724868146/TeamUSA%20Assets/Athlete%20Profiles/Ellen%20Geddes%201005814/geddes_e_hero_1005814.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003806/TeamUSA%20Assets/Athlete%20Profiles/Ellen%20Geddes%201005814/geddes_ellen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ellen Geddes 1005814"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Fencing"
+        }
+      ]
+    },
+    {
+      "first_name": "McKenna",
+      "last_name": "Geer",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1996-05-01T00:00:00",
+        "hometown": {
+          "city": "Arlington",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 48.1709,
+          "longitude": -122.1287
+        },
+        "education": "DeVry University ’18, Business and Technology Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>When Geer was 5 years old, she started attending Camp Access, a camp for kids with disabilities that introduced kids to the outdoors</li><li>At 12, she had the opportunity to shoot at a camp activity where the director, Ernie Butler, took notice and invited her to shoot an NRA sectional match later that spring</li><li>Her parents and grandparents were extremely supportive, and she competed in her first NRA national competition shortly after</li><li>She moved to the U.S. Olympic and Paralympic Training Center in Colorado Springs, Colo., only a week after graduating from Lakewood High School with two years of college credit under her belt</li><li>McKenna continues to train at the OPTC and works as an athlete on the guest experience team at the Olympic and Paralympic Museum in downtown Colorado Springs</li><li>She’s completed her Bachelors of Business and Master of Business Administration through DeVry University</li><li>Tokyo 2020 will be McKenna’s second Paralympic appearance</li><li>Born with amyoplasia arthrogryposis in her left hand and both feet, causing her muscles not to form properly</li><li>McKenna hopes to become a mentor that the next generation of kids can look up to and show them all that life has to offer.</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 6th (R9 - 50m Rifle Prone SH2 - Open), 9th (R5 - 10m Air Rifle Prone SH2 - Open), 25th (R4 - 10m Air Rifle Standing SH2 - Open)</li><li>Years of participation: R4 - 10m Air Rifle Standing SH2 - Open 2014, 2018, 2019; R5 - 10m Air Rifle Prone SH2 - Open 2014, 2018, 2019; R9 - 50m Rifle Prone SH2 - Open 2018, 2019</li><li>Top finish: 6th – 2019 (R9 - 50m Rifle Prone SH2 - Open)</li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, 13th (R9 - 50m Rifle Prone SH2 - Open), 23th (R4 - 10m Air Rifle Standing SH2 - Open), 33th (R5 - 10m Air Rifle Prone SH2 - Open)</li><li>Paralympic Games Tokyo 2020, 17th (R9 - 50m Rifle Prone SH2 - Open), 21th (R4 - 10m Air Rifle Standing SH2 - Open), 34th (R5 - 10m Air Rifle Prone SH2 - Open)</li><li>Paralympic Games Rio de Janeiro 2016, bronze (R5 - 10m Air Rifle Prone SH2 - Open), 24th (R4 - 10m Air Rifle Standing SH2 - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661985/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Geer_m_bio_800560.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Shooting",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "SH2",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662666/TeamUSA%20Assets/Athlete%20Profiles/McKenna%20Geer%20800560/Geer_m_hero_800560.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013250/TeamUSA%20Assets/Athlete%20Profiles/McKenna%20Geer%20800560/Dahl_McKenna_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "McKenna Geer 800560"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Shooting"
+        }
+      ]
+    },
+    {
+      "first_name": "Margo",
+      "last_name": "Geer",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1992-03-17T00:00:00",
+        "hometown": {
+          "city": "Milford Center",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.1489,
+          "longitude": -83.4205
+        },
+        "education": "Fairbanks High School (Milford Center, Ohio) ‘10 University of Arizona ‘14, Business Management",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mark and Linda Geer</li><li>Competed at the University of Arizona</li><li>Began swimming at age 4</li><li>Played volleyball and basketball before swimming</li><li>Brother Marcus is a collegiate swimmer as well and she lists him as the most influential person to her</li><li>Has a dog, a boxer</li><li>Enjoys playing guitar, hanging out with friends and watching movies.</li></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2015 – gold (4 x 100m Freestyle Relay - Mixed), silver (4 x 100m Medley Relay - Mixed), bronze (4 x 100m Freestyle Relay - Women), 4th (4 x 100m Medley Relay - Women)</li><li>Years of participation: 4 x 100m Freestyle Relay - Mixed 2015; 4 x 100m Freestyle Relay - Women 2015; 4 x 100m Medley Relay - Mixed 2015; 4 x 100m Medley Relay - Women 2015</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2015 (4 x 100m Freestyle Relay - Mixed)</li><li>Silver – 2015 (4 x 100m Medley Relay - Mixed)</li><li>Bronze – 2015 (4 x 100m Freestyle Relay - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (100m Freestyle - Women, 4 x 100m Freestyle Relay - Mixed, 4 x 100m Freestyle Relay - Women, 4 x 100m Medley Relay - Women, 50m Freestyle - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012172/TeamUSA%20Assets/Athlete%20Profiles/Margo%20Geer%20806684/Geer_Margo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Margo Geer 806684"
+        }
+      ]
+    },
+    {
+      "first_name": "Kim",
+      "last_name": "Geist",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1987-04-29T00:00:00",
+        "hometown": {
+          "city": "Emmaus",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.5365,
+          "longitude": -75.4927
+        },
+        "education": "Emmaus High School (Emmaus, Pa.) ‘05 DeSales University ’09, B.S. of Sport and Exercise Science; Northeastern University ’10, M.S. of Applied Nutrition",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Cynthia Geist</li><li>Learned to ride her bike without training wheels</li><li>Became involved with track cycling through a free development program in Trexlertown, Pennsylvania</li><li>Owns her own coaching business</li><li>Enjoys reading, traveling, bunnies, eating baked goods and swinging on swing sets.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 7th (Team Pursuit (4km) - Women)</li><li>Years of participation: Team Pursuit (4km) - Women 2017, 2018, 2019; Madison - Women 2017, 2018; Points Race - Women 2015, 2016; Scratch - Women 2015, 2016; Individual time trial - Women 2005; Road race - Women 2005</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2018 (Team Pursuit (4km) - Women);  2017 (Team Pursuit (4km) - Women)</li><li>Bronze – 2015 (Points Race - Women)</li></ul></ul><h5>More</h5><p>USA Cycling</p>\n<p>Personal Website</p><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Madison - Women, Team Pursuit (4km) - Women)</li><li>World Cup, 2010 (3km Individual Pursuit - Women)</li><li>World Cup, 2009 (3km Individual Pursuit - Women)</li><li>Pan American Games, Rio de Janeiro, 2007 (Individual time trial - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921347/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kim%20Geist/geist_kim.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kim Geist"
+        }
+      ]
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Geist",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1998-07-21T00:00:00",
+        "hometown": {
+          "city": "Butler, Pa.",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.87,
+          "longitude": -79.89
+        },
+        "education": "Knoch High School (Saxonburg, Pa.) ‘17 University of Arizona ‘22, Business Management",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of James and Judy Geist</li><li>Has one brother, Jared</li><li>Loves Star Wars and whales</li><li>Enjoys playing video games.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Shot Put - Men)</li><li>Pan American Games, Lima, 2019 (Shot Put - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012161/TeamUSA%20Assets/Athlete%20Profiles/Jordan%20Geist%201139665/Geist_J.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jordan Geist 1139665"
+        }
+      ]
+    },
+    {
+      "first_name": "David",
+      "last_name": "Gelfand",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1998-10-30T00:00:00",
+        "hometown": {
+          "city": "Weston",
+          "state": "CT",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Tufts University, Mechanical Engineering",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with proximal femoral focal deficiency, a condition in which he was born with no hip socket and a very small bone comprising his left leg</li><li>Swims for Tufts University</li><li>Three-time USA Swimming Scholastic All-American</li><li>Son of Jonathan and Linda</li><li>Has one sister, Rachel</li><li>Enjoys swimming, hiking, biking, skiing, rock climbing and playing board games with friends</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (200m Individual Medley SM9 - Men, 100m Butterfly S9 - Men, 100m Breaststroke SB8 - Men)</li><li>ParaPan American Games, Lima, 2019 (100m Breaststroke SB8 - Men, 100m Butterfly S9 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661987/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/gelfand_d_bio_1006304.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S9, SB8, SM9",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662700/TeamUSA%20Assets/Athlete%20Profiles/David%20Gelfand%201006304/gelfand_d_hero_1006304.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012165/TeamUSA%20Assets/Athlete%20Profiles/David%20Gelfand%201006304/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "David Gelfand 1006304"
+        }
+      ]
+    },
+    {
+      "first_name": "Joshua",
+      "last_name": "George",
+      "bio": {
+        "height": "4'10\"",
+        "birthday": "1984-03-18T00:00:00",
+        "hometown": {
+          "city": "Herndon",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.9696,
+          "longitude": -77.3869
+        },
+        "education": "Herndon High School (Herndon, Va.) ’02 University of Illinois ’07, News Editorial Journalism",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>George first started racing at age seven before getting serious in the sport during his junior and senior years at Herndon High School in Virginia</li><li>He’s been paralyzed from the mid-chest down since falling out of his 12th-story bedroom window when he was four years old in Washington D.C. George quickly took to sports, participating in basketball, track &amp; field, archery, table tennis and swimming with a wheelchair sports organization for children in Baltimore, Maryland</li><li>At the University of Illinois, George focused on wheelchair racing after winning two bronze medals at the Athens 2004 Paralympic Game</li><li>Since then, George has been a double threat on the track and the roads, winning some of the world’s most celebrated marathons</li><li>Son of Scott and Marjorie George, he has one younger brother, Jeremy, and one younger sister, Jennifer</li><li>Currently lives and trains in Champaign, Illinois while working for start-up company IntelliWheels Inc</li><li>Hobbies include writing, reading, ping pong, watching movies from Mel Brooks or the Coen brothers and rooting for most Washington D.C. teams, including the Redskins, Capitals and Wizards</li><li>Admires other elite athletes Tim Duncan, Roger Federer and U.S. Paralympian Krige Schabort</li><li>Has blogged for the New York Times</li><li>Enjoys literature by Ronald Dahl, David Foster Wallace and Richard Powers.</li></ul><h5>Paralympic Experience </h5><ul><li>5-time Paralympian; 5-time Paralympic medalist (1 gold, 1 silver, 3 bronze)</li><ul><li>Paralympic Games Tokyo 2020, 9th (400m T53 - Men), 11th (800m T53 - Men)</li><li>Paralympic Games Rio de Janeiro 2016,  (Marathon T54 - Men), 5th (5000m T54 - Men, 800m T53 - Men), 7th (400m T53 - Men), 13th (1500m T54 - Men)</li><li>Paralympic Games London 2012, bronze (800m T53 - Men), 5th (400m T53 - Men), 6th (4 x 400m Relay T53-54 - Men), 9th (200m T53 - Men), 15th (1500m T54 - Men), 20th (Marathon T54 - Men)</li><li>Paralympic Games Beijing 2008, gold (100m T53 - Men), silver (800m T53 - Men), 4th (200m T53 - Men), 5th (4 x 400m Relay T53-54 - Men), 12th (400m T53 - Men), 17th (Marathon T54 - Men), 20th (1500m T54 - Men)</li><li>Paralympic Games Athens 2004,  (4 x 100m Relay T53-54 - Men, 800m T53 - Men, Marathon T54 - Men), bronze (100m T53 - Men, 400m T53 - Men), 5th (200m T53 - Men), 7th (4 x 400m Relay T53-54 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 7th (800m T53 - Men), 19th (1500m T54 - Men, 5000m T54 - Men), 23th (Marathon T54 - Men)</li><li>Years of participation: 1500m T54 - Men 2013, 2019; 5000m T54 - Men 2013, 2019; 800m T53 - Men 2006, 2013, 2019; Marathon T54 - Men 2006, 2013, 2019; Marathon T53/54 - Men 2015; 400m T53 - Men 2006, 2013; 100m T53 - Men 2006; 200m T53 - Men 2006; 4 x 100m Relay T53-54 - Men 2006; 4 x 400m Relay T53-54 - Men 2006; Team - Men 2006</li><li>Medals: 8 (6 gold, 2 silver)</li><ul><li>Gold – 2015 (Marathon T53/54 - Men);  2013 (800m T53 - Men);  2006 (100m T53 - Men, 200m T53 - Men, 400m T53 - Men, 800m T53 - Men)</li><li>Silver – 2006 (4 x 100m Relay T53-54 - Men, Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T53",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921380/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joshua%20George/George_Joshua250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joshua George"
+        }
+      ]
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "George",
+      "bio": {
+        "height": "6'9\"",
+        "birthday": "1990-05-02T00:00:00",
+        "hometown": {
+          "city": "Palmdale",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.5794,
+          "longitude": -118.1162
+        },
+        "education": "Knight High School (Palmdale, Calif.), ‘08 Fresno State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Paul and Paulette George</li><li>Has two older sisters, Teiosha and Portala</li><li>Suffered a right leg, open tibia-fibula fracture with 9:33 remaining in the 4th quarter of the 2014 USA Basketball Showcase, and has since made a complete recovery.</li></ul><h5>Career Highlights</h5><ul><li>2016 NBA Eastern Conference All-Star Team</li><li>2014 NBA Eastern Conference All-Star Team</li><li>2014 NBA All-Defensive First Team</li><li>2013 NBA Eastern Conference All-Star Team</li><li>2012-13 NBA Most Improved Player</li><li>Drafted No. 10 by the Indiana Pacers in the 2011 NBA Draft</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Team - Men)</li></ul></ul><h5>More</h5>Personal website<br>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682707588/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paul%20George%20864231/george_paul_081416_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682707589/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paul%20George%20864231/George_Paul_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paul George 864231"
+        }
+      ]
+    },
+    {
+      "first_name": "Red",
+      "last_name": "Gerard",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "2000-06-29T00:00:00",
+        "hometown": {
+          "city": "Silverthorne",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6264,
+          "longitude": -106.0714
+        },
+        "education": "Penn Foster High School",
+        "fun_fact": "Started his own a non-profit organization, Red’s Backyard, that enables kids to take part in outdoor sports at no cost",
+        "biography": "<h5><strong>Quick Facts</strong></h5><ul><li><span><strong>Specialty</strong></span><span><strong>:</strong> Slopestyle and Big Air</span></li><li><span><wbr><wbr>Son of Conrad and Jen Gerard</span></li><li><span>Has five brothers, Brendan, Creighton, Malachi, Trevor and Oslo, and two sisters, Asher and Tieghan</span></li><li><span>His sister, Tieghan, runs the popular food blog “Half Baked Harvest”</span></li><li><span>Began snowboarding at age two</span></li><li><span>Enjoys skateboarding and golf</span></li><li>Started his own <span>a non-profit organization,&nbsp;</span><span>Red’s Backyard,&nbsp;</span><span>that enables kids to take part in outdoor sports at no cost</span></li></ul><h5><strong>Biographical Information</strong></h5><p><span>Redmond \"Red\" Gerard is an American snowboarder renowned for his slopestyle and big air performances. Inspired by his other siblings, Gerard began snowboarding at the age of two. In 2007, his family relocated to Silverthorne, Colorado, where they constructed a snowboarding park in their backyard, complete with a rope tow, to support Gerard's passion.&nbsp;</span></p><p><span>Gerard made history at the Olympic Winter Games PyeongChang 2018 by winning the gold medal in slopestyle at only 17 years old; he was the youngest American snowboarder to achieve this feat. He also competed in big air, finishing fifth. Gerard narrowly missed the podium at the Olympic Winter Games Beijing 2022, placing fourth in slopestyle and fifth in big air.&nbsp;</span></p><p><span>Beyond the Olympics, Gerard has secured multiple top finishes in prestigious competitions, including winning back-to-back wins in slopestyle at the 2024 and 2025 X Games. <wbr></span></p><p><span>Gerard is an advocate for young athletes and makes a difference in his hometown with Red’s Backyard, a non-profit organization and free park that enables kids to take part in outdoor sports at no cost. Gerard hopes to become more involved in organizations that give children the opportunity to try snowboarding, like The Chill Foundation.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, 6th (Slopestyle - Men), 20th (Big Air - Men)</li><li>Olympic Games Beijing 2022, 4th (Slopestyle - Men), 5th (Big Air - Men)</li><li>Olympic Games Pyeongchang 2018, gold (Slopestyle - Men), 5th (Big Air - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 5th (Slopestyle - Men)</li><li>Years of participation: Slopestyle - Men 2019, 2021, 2025; Big Air - Men 2021</li><li>Top finish: 4th – 2021 (Slopestyle - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684898849/TeamUSA%20Assets/Migration/Gerard_Red_020722_1440x810_Updated.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026 ",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747698427/TeamUSA%20Assets/Migration/Athlete%20Profiles/Red%20Gerard/gerard_r_hero_1041426_01.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1749578700/TeamUSA%20Assets/Qualification%20Cards/Qualified_USSS-DEP_Gerard.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747368151/TeamUSA%20Assets/Athlete%20Profiles/Red%20Gerard%201041426/gerard_red_1041426_bio2.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Red Gerard"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Snowboarding"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Logan",
+      "last_name": "Gerick",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1995-09-08T00:00:00",
+        "hometown": {
+          "city": "Keller",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.9401,
+          "longitude": -97.2347
+        },
+        "education": "Texas A&M",
+        "fun_fact": "",
+        "biography": "<p><strong>Year of Graduation: </strong>2014<br /><strong>Dojang: </strong>NTA Coppell</p><p><strong>WTF WORLD RANKINGS </strong><em>(as of 10/1/15): </em>18th (World -54kg);&nbsp;36th (Olympic -58kg)<br /><br /></p><p><strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>Favorite Foods: </strong>chicken alfredo, pizza, BBQ and peanut butter</p><p><strong>Pre-Competition Meal: </strong>chicken alfredo the night before and pancakes the morning of competition</p><p><strong>Favorite Athletes: </strong>Chris Brandt and Chad Reed</p><p><strong>Favorite Movie: </strong>\"<em>Tommy Boy</em><em>\"</em></p><p><strong>Favorite Music: </strong>rock and some rap</p><p><strong>Favorite Country Visited for Competition: </strong>Korea<strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>Did You Know?: </strong>Logan trained under Master Jae Kwon Kim at World Martial Arts (WMAC) for eight years in Yorba Linda, Calif., and received his 3rd Dan.</p><p><strong>Awards:</strong><strong ><br bold=\"[object Object]\"/></strong>2013 Chris Canning Award of Excellence finalist<br />2012<strong> </strong>Junior Male Athlete of the Year</p><p><strong>MAJOR COMPETITION RESULTS:</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2016 &nbsp;U.S. Senior National Team Member (Fly)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2016 &nbsp;</strong>U.S. Senior National Team Trials (Fly): 1st<br /><strong>2016 &nbsp;</strong>Pan American Championships (-58kg): BRONZE<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -def. Luis Oblitas (PER), 7-5, in Round of 16<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -def. Gao Richard (CAN), 9-2, in quarterfinals<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -lost to Carlos Navarro (MEX), 15-3, in semifinals</p><p><strong>2015 &nbsp;WTF World Grand Prix Series 3 (-58kg): Round of 32</strong><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -lost to Jesus Tortosa Cabrera (ESP), 19-8, in Round of 32<br /><strong>2015&nbsp; Pan American Games (-58kg):&nbsp;Quarterfinals</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Danilo Castillo (NCA), 4-3, in Round of 16<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Venilton Torres (BRA), 12-8, in quarterfinals<br /><strong>2015&nbsp; WTF World Taekwondo Championships (-54kg): Round of&nbsp;64</strong><strong ><br bold=\"[object Object]\"/></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Aleksandr Kuvarzin (TKM),&nbsp;14-8, in Round of 64<br /><strong>2015 Pan American Games Team Member (-58kg)</strong><strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>2014&nbsp; USA Taekwondo National Team Trials (men’s fin): FIRST</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2014&nbsp; USAT National Team member (fin)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2014&nbsp; </strong>German Open (fin): GOLD<br /><strong>2014</strong>&nbsp; Cali, Colombia Open (fin): 1st Round<br /><br /><strong>2013&nbsp; U.S. National Team Member (Fin)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2013&nbsp; </strong>U.S. National Team Trials (Fin): 2nd<br /><strong>2013&nbsp; WTF World Taekwondo Championships (Fin): Round of 32</strong><strong ><br bold=\"[object Object]\"/></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Chon-In Chan (MAC), 14-5,&nbsp;in Round of 64<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Harold Avella&nbsp;(COL),&nbsp;13-7, in Round of 32<br /><strong>2013</strong>&nbsp; Spanish Open (Fin): BRONZE<br /><strong>2013 </strong>U.S. Open (Fin): BRONZE<br /><strong ><br bold=\"[object Object]\"/></strong><strong>2012&nbsp; </strong>USAT Senior National Championships: BRONZE<br /><strong>2012</strong>&nbsp; USAT Junior Olympics: GOLD<br /><strong>2012&nbsp; </strong>World Junior Championships (Jr. Bantam -51kg): Quarterfinals<br /><strong>2012&nbsp; Junior World Championships Team Member (Jr. Bantam)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2012&nbsp; </strong>Junior World Championships Open Team Trials (Jr. Bantam): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>Jr. Pan Am Championships (Jr. Fly): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; USAT Junior National Team Member (Jr. Fly)</strong><strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT Junior National Team Trials (Jr. Fly): GOLD<strong ><br bold=\"[object Object]\"/></strong><strong>2011&nbsp; </strong>USAT&nbsp;Junior Olympics&nbsp;(Jr. Fly): GOLD<br /><strong>2011&nbsp; </strong>Texas State Championships: GOLD<br /><strong>2011&nbsp; </strong>USAT National Qualifier: GOLD<br /><br /><strong>2010&nbsp; </strong>AAU Team Trials (Jr. Fin)<br /><strong>2010&nbsp; </strong>USAT Junior Olympics (Jr. Fin): Quarterfinals<br /><strong>2010&nbsp; </strong>Texas State Championships: SILVER<br /><strong>2010&nbsp; </strong>Oklahoma State Championships: GOLD<br /><br /><strong>2009&nbsp; </strong>USAT Junior Olympics (Jr. Super Fin): GOLD<br /><br /><strong>2008&nbsp; </strong>USAT Junior Olympics (World Class): GOLD<br /><strong>2008&nbsp; </strong>USAT Junior Olympics (Elite Open): GOLD<br /><strong>2008&nbsp; </strong>U.S. Open: GOLD<br /><br /><strong>2006&nbsp; </strong>USAT Junior Olympics: BRONZE<strong ><br bold=\"[object Object]\"/></strong><em ><br italic=\"[object Object]\"/></em><em>last updated 6/13/16</em></p><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 33th (Finweight -54kg - Men)</li><li>Years of participation: Finweight -54kg - Men 2013, 2015</li><li>Top finish: 17th – 2013 (Finweight -54kg - Men)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Flyweight -58kg - Men)</li><li>World Junior Championships, Sharm El Sheikh, 2012 (Bantamweight 48-51kg - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714361/TeamUSA%20Assets/Migration/Athlete%20Profiles/Logan%20Gerick%20820426/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714362/TeamUSA%20Assets/Migration/Athlete%20Profiles/Logan%20Gerick%20820426/taekwondo_gerick_logan_19101713443_o_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Logan Gerick 820426"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Maxime",
+      "last_name": "Germain",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "2001-08-21T00:00:00",
+        "hometown": {
+          "city": "Juneau",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 58.3019,
+          "longitude": -134.4197
+        },
+        "education": "West Anchorage High School '19 ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Carole and Jean Louis Germain</li><li>Max spent most of his youth growing up in Chamonix, France and picked up biathlon at age 13 in France</li><li>Dual citizen between U.S. and France</li></ul><h5>Biographical Information</h5><p>Maxime German was born in Juneau, Alaska, but spent most of youth growing up in Chamonix, France. He first tried biathlon in France at age 13 and moved back to Alaska, this time to Anchorage, at age 16 to finish high school.&nbsp;</p><p>Germain made his IBU World Cup debut for the United States in January 2022 at age 20 and finished off his junior career by winning the 10-kilometer sprint at the 2023 IBU Junior World Championships.</p><p>Germain had three top 30 results in individual events at the 2025 IBU World Championships and followed up with a strong beginning to the 2025-26 IBU World Cup season, securing his spot on his first Olympic team in biathlon for the Olympic Winter Games Milano Cortina 2026.&nbsp;</p><p>Germain is a member of the Vermont National Guard as an aviation specialist. He is part of the Vermont Army National Guard alongside teammates Sean Doherty and Deedra Irwin.&nbsp;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 9th (4 x 7.5km Relay - Men), 12th (10km Sprint - Men), 19th (4 x 6km Relay - Mixed), 21th (12.5km Pursuit - Men), 28th (15km Mass Start - Men), 62th (20km Individual - Men)</li><li>Years of participation: 10km Sprint - Men 2023, 2024, 2025; 12.5km Pursuit - Men 2025; 15km Mass Start - Men 2025; 20km Individual - Men 2023, 2025; 4 x 6km Relay - Mixed 2025; 4 x 7.5km Relay - Men 2023, 2025</li><li>Top finish: 9th – 2025 (4 x 7.5km Relay - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Milan 2026, 5th (4 x 7.5km Relay - Men), 14th (4 x 6km Relay - Mixed), 66th (10km Sprint - Men), 67th (20km Individual - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769555614/TeamUSA%20Assets/Athlete%20Profiles/Maxime%20Germain%201211738/germain_m_bio_1211738.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769555599/TeamUSA%20Assets/Athlete%20Profiles/Maxime%20Germain%201211738/germain_m_hero_1211738.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1769555599/TeamUSA%20Assets/Athlete%20Profiles/Maxime%20Germain%201211738/germain_m_hero_1211738.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maxime Germain 1211738"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Biathlon"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Garrett",
+      "last_name": "Geros",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1999-09-03T00:00:00",
+        "hometown": {
+          "city": "Cartersville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.1668,
+          "longitude": -84.7938
+        },
+        "education": "Cartersville High School (Cartersville, Georgia) ‘18 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Garrett first took to the slopes on skis but quickly switched to snowboarding and fell in love with the sport.</li><li>At 16-years-old, Garrett was involved in a life-threatening car accident which resulted in serious injuries to both his legs</li><li>In order to save his life, his left leg was amputated at the scene, whilst his right leg is supported with pins and a titanium rod</li><li>Eager to keep sport in his life after his accident, Garrett researched the Paralympics and decided to pursue snowboarding</li><li>He started - and continues to train - with Adaptive Action Sports with Daniel Gale and Amy Purdy</li><li>He has now been racing for three years and considers it to be one of the best decisions of his life</li><li>Garrett's family is made up of Dave (father), Jordan (stepmom), Jennifer (mother), Gavin (brother) and Savanah Payne (sister)</li><li>His sporting hero is his father</li><li>His hobbies include competitive freestyle wakeboarder, skateboarding, mountain biking, dirt bike riding, wake surfing and tumbling</li><li>Garrett has Tourette Syndrome and his nicknames are BeeBop and The Grenade</li><li>In three words Garrett would describe himself as motivated, caring and hyper</li><li>His favorite thing about his sport is the feeling of freedom he gets when on the snowboard and his most memorable sporting moment was his first ever World Cup podium finish, where he felt overwhelmed with excitement.</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Beijing 2022, silver (Snowboard Cross - Lower Limb 2 Impaired - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 9th (Snowboard Cross - Lower Limb 2 Impaired - Men), 12th (Banked Slalom - Lower Limb 2 Impaired - Men)</li><li>Years of participation: Banked Slalom - Lower Limb 2 Impaired - Men 2019, 2022; Snowboard Cross - Lower Limb 2 Impaired - Men 2019, 2022; Snowboard Cross Team Event - Men 2019</li><li>Top finish: 7th – 2019 (Snowboard Cross - Lower Limb 2 Impaired - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661978/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Geros_g_bio_1164370.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "SB-LL2",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662152/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/geros_g_hero_1164370.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009884/TeamUSA%20Assets/Athlete%20Profiles/Garrett%20Geros%201164370/GarrettGeros_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Garrett Geros 1164370"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Snowboarding"
+        }
+      ]
+    },
+    {
+      "first_name": "Andrea",
+      "last_name": "Geubelle",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1991-06-26T00:00:00",
+        "hometown": {
+          "city": "University Place",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.2009,
+          "longitude": -122.5601
+        },
+        "education": "Curtis Senior High School (University Place, Wash.) ‘09 University of Kansas ’13, Community Health/Pre-Nursing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Dawn DeCius and Jeff Geubelle</li><li>Three-time NCAA champion</li><li>Finished the 2013 season ranked as the top female American triple jumper</li><li>Plans to attend nursing school in the future.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 USA Indoor Championships, bronze (long jump)</li>\r\n                            <li>2014 USA Indoor Championships, silver (triple jump)</li>\r\n                            <li>2014 USA Indoor Championships, bronze (long jump)</li>\r\n                            <li>2013 USA Indoor Championships, gold (triple jump)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 21th (Triple Jump - Women)</li></ul></ul><h5>More</h5>USA Track &amp; Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709228/TeamUSA%20Assets/Migration/Athlete%20Profiles/Andrea%20Geubelle%20862143/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709230/TeamUSA%20Assets/Migration/Athlete%20Profiles/Andrea%20Geubelle%20862143/guebelle_andera_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Andrea Geubelle 862143"
+        }
+      ]
+    },
+    {
+      "first_name": "Aileen",
+      "last_name": "Geving",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1987-02-13T00:00:00",
+        "hometown": {
+          "city": "Duluth",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 46.7867,
+          "longitude": -92.1005
+        },
+        "education": " University of Minnesota Duluth ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong>Position:&nbsp;</strong></span><span>Skip</span></li><li><span><strong>Specialty:&nbsp;</strong></span><span>Women's Curling</span></li></ul><h5>Biographical Information</h5><p><span>Aileen Geving (formerly Aileen Sormunen) is a curler from Duluth, Minnesota. She began curling at age 10, influenced by her parents, and joined the Duluth Curling Club's junior program. Aileen played for the University of Minnesota Duluth before advancing to national and international competition. She also balances her curling career with work in the insurance industry in Duluth.</span><span></span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Milan 2026, 4th (Team - Women)</li><li>Olympic Games Beijing 2022, 6th (Team - Women)</li><li>Olympic Games Pyeongchang 2018, 8th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2015, 2017, 2021</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765822626/TeamUSA%20Assets/Athlete%20Profiles/Aileen%20Geving%20809049/geving_a_bio_809049.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1765822595/TeamUSA%20Assets/Athlete%20Profiles/Aileen%20Geving%20809049/geving_a_hero_809049.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011020/TeamUSA%20Assets/Athlete%20Profiles/Aileen%20Geving%20809049/geving_aileen_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aileen Geving 809049"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Giaccio",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2000-08-15T00:00:00",
+        "hometown": {
+          "city": "Redding",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.2854,
+          "longitude": -73.3946
+        },
+        "education": "Columbia University '24",
+        "fun_fact": "Last name means “ice” in Italian",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality:</strong> Moguls and Dual Moguls</li><li>Daughter of Frank and Erin Giaccio</li><li>Olivia was the first woman ever to complete a cork 1080 in moguls World Cup competition</li><li>She has skied at 68 resorts (and counting)</li><li>When she’s home in Park City, Utah, she volunteers at the local food bank and animal adoption center</li><li><span>Last name means “ice” in Italian</span></li></ul><h5>Biographical Information</h5><p>Olivia <span>Giaccio first learned to ski at age two. Growing up in Redding, Connecticut, her parents sent her and her brother to ski school in </span>Killington<span>, Vermont. Giaccio won her first FIS World Cup event in December 2021, which ended defending Olympic champion and reigning world champion Perrine Laffont's almost three-year winning streak in women's moguls. In 2022, Giaccio became the first woman to land a cork 1080 in competition in a season where she qualified for her first Olympic team and finished sixth at the </span>Olympic Winter Games Beijing 2022.</p><p><span>Since the Beijing Games, Giaccio has been one of the most consistent for U.S. women's moguls team on the world cup circuit, finishing with 15 top-three finishes since the start of the 2023-24 season in moguls and dual moguls (event will make its Olympic debut at the Olympic Winter Games Milano Cortina 2026) before a broken collarbone in February prematurely ended her season before the 2025 FIS World Championships.&nbsp;</span></p><p><span>Off the snow, Giaccio finished her undergraduate studies at Columbia University with a degree in psychology in December 2024, taking her final exam just a few days before winning her third career world cup moguls race.</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Milan 2026, 6th (Dual Moguls - Women), 9th (Moguls - Women)</li><li>Olympic Games Beijing 2022, 6th (Moguls - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (Dual Moguls - Women), 12th (Moguls - Women)</li><li>Years of participation: Dual Moguls - Women 2017, 2019, 2023; Moguls - Women 2017, 2019, 2023</li><li>Top finish: 9th – 2023 (Dual Moguls - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747370207/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Giaccio%20861876/giaccio_o_861876_bio1.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747370211/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Giaccio%20861876/giaccio_o_861876_hero1.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771023180/Giaccio_Olivia_MiCo.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005775/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Giaccio%20861876/giaccio_olivia_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olivia Giaccio 861876"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Freestyle Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Alyssa",
+      "last_name": "Gialamas",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1995-05-12T00:00:00",
+        "hometown": {
+          "city": "Naperville",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.75,
+          "longitude": -88.15
+        },
+        "education": "Waubonsie Valley High School (Aurora, Ill.) ‘14 Loyola University Maryland ’18, Communications",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Gialamas was encouraged to try swimming by coach Glen O&#39;Sullivan. Once she started, she found that she felt free in the water because she did not have to wear braces and was not sitting in a chair. She was born with arthrogryposis, which affects the use of joints and muscles. She began Para swimming in 2008 at the Great Lakes Adaptive Sports Association in Naperville, Illinois, and represented the U.S. four years later at the Paralympic Games London 2012</li><li>Daughter of John and Lisa Gialamas</li><li>Has a twin brother, Matthew, and one sister, Tori</li><li>Interests include catching up with friends over coffee, cooking, listening to music and traveling to different places and seeing the world.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 6th (50m Backstroke S5 - Women), 7th (200m Freestyle S5 - Women), 10th (100m Freestyle S5 - Women), 12th (50m Freestyle S5 - Women)</li><li>Paralympic Games London 2012, 5th (200m Freestyle S5 - Women), 9th (100m Freestyle S5 - Women, 50m Freestyle S5 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 4th (50m Backstroke S5 - Women), 5th (100m Freestyle S5 - Women, 200m Freestyle S5 - Women), 6th (4 x 50m Freestyle Relay 20 Points - Mixed, 50m Freestyle S5 - Women)</li><li>Years of participation: 100m Freestyle S5 - Women 2013, 2015; 200m Freestyle S5 - Women 2013, 2015; 4 x 50m Freestyle Relay 20 Points - Mixed 2015; 50m Backstroke S5 - Women 2013, 2015; 50m Freestyle S5 - Women 2013, 2015; 4 x 50m Freestyle Relay 20 Points - Women 2013; 4 x 50m Medley Relay 20 Points - Women 2013</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2013 (4 x 50m Medley Relay 20 Points - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S5, SB4, SM5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005800/TeamUSA%20Assets/Athlete%20Profiles/Alyssa%20Gialamas%20816785/Gialamas_Alyssa_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alyssa Gialamas 816785"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Giancola",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1990-08-15T00:00:00",
+        "hometown": {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.8803,
+          "longitude": -78.8786
+        },
+        "education": " Northeastern University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><br /></td><td><br /></td></tr></tbody></table><div><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Quadruple Sculls - Women, Lightweight Double Sculls - Women)</li><li>World Championships Under 23, Trakai, 2012 (Lightweight Quadruple Sculls - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Tammy and Vince Giancola</li><li>Began rowing in 2004 with the Westside Rowing Club in Buffalo, N.Y</li><li>Coaches at the GMS Rowing Center and is currently studying for her personal training certificate</li><li>Hobbies include running and hiking</li><li>Aspires to own her own café and travel the world after her rowing career.</li></ul>Education:&nbsp;Park School of Buffalo (Buffalo, N.Y.) ‘08 Northeastern University ’13, International Affairs and Cultural Anthropology<br /><p>&nbsp;</p><h5>More</h5><p>USRowing</p>&nbsp;</div><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 7th (Lightweight Quadruple Sculls - Women)</li><li>Years of participation: Lightweight Quadruple Sculls - Women 2014</li><li>Top finish: 7th – 2014 (Lightweight Quadruple Sculls - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927492/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Giancola/Rowing_Giancola_Sarah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Giancola"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Vanna",
+      "last_name": "Giang",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1999-11-27T00:00:00",
+        "hometown": {
+          "city": "Westminster",
+          "state": "CA",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "La Quinta High School (Westminster, California) ‘17 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\" ></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div></div>\n<div><br>\n\n<p><h5>Career Highlights</h5></p>\n<ul>\n    <li>2016 SouthWest Pacific Regional Championships, 1st</li>\n    <li>2015 Golden West Championships, 1st</li>\n    <li>2015 Pacific Coast Sectional Championships, 4th</li>\n    <li>2015 Southern California Inter-Club Championships, 1st</li>\n    <li>2014 Pasadena Open, 1st</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Hao and Jenny Giang</li><li>Has two siblings, Jackie and Victoria</li><li>Began skating at age 6</li><li>Favorite food is ice cream</li><li>Hobbies include reading and watching movies</li><li>Attends Chinese and Vietnamese school on the weekends.</li></ul><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716278/TeamUSA%20Assets/Migration/Athlete%20Profiles/Vanna%20Giang%20911382/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Figure Skating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716281/TeamUSA%20Assets/Migration/Athlete%20Profiles/Vanna%20Giang%20911382/FigureSkating_Giang_Vanna_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Vanna Giang 911382"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Gibb",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1976-02-06T00:00:00",
+        "hometown": {
+          "city": "Bountiful",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.8902,
+          "longitude": -111.8805
+        },
+        "education": "University of Utah '02, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married his wife, Jane, in 2000 and they have one son, Crosby, and one daughter, Cora Jane</li><li>Has a twin brother, Coleman, and they are the youngest of 11 children (six boys, five girls)</li><li>All the boys have the middle name Spiker, their mother's maiden name</li><li>Did not play volleyball in college</li><li>Started playing volleyball when he was 21 and his first partner was his brother Coleman</li><li>In 2010, Gibb found out he had testicular cancer from a USADA drug test</li><li>The cancer was removed via surgery and no further treatment was necessary</li><li>A two-time cancer survivor as he has a scar on his shoulder from a bout with skin cancer in 2004</li><li>Enjoys playing golf.</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 9th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, 19th (Team - Men)</li><li>Olympic Games London 2012, 5th (Team - Men)</li><li>Olympic Games Beijing 2008, 5th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – 17th (Team - Men)</li><li>Years of participation: Team - Men 2007, 2009, 2011, 2013, 2015, 2017</li><li>Top finish: 5th – 2007 (Team - Men), 2015 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661986/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/gibb_j_bio_1069971.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927476/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jake%20Gibb/Jake-Gibb-headshot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jake Gibb"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Gibb",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1982-09-16T00:00:00",
+        "hometown": {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 40.015,
+          "longitude": -105.2705
+        },
+        "education": "Fairview High School (Boulder, Colo.) '01 Western State Colorado University (Gunnison, Colo.) '07",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Steve and Linda Gibb</li><li>Has one brother, Jason</li><li>Hobbies include fly fishing, white water rafting, and anything that involves the great outdoors.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 9th (C5 - 1000m Time Trial - Men), 13th (C5 - 4km Pursuit - Men), 20th (C4-5 - Scratch Race - Men)</li><li>Years of participation: C4-5 - Scratch Race - Men 2018; C5 - 1000m Time Trial - Men 2018; C5 - 4km Pursuit - Men 2018</li><li>Top finish: 9th – 2018 (C5 - 1000m Time Trial - Men)</li></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716245/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Gibb%20817098/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "MC5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716248/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nick%20Gibb%20817098/Nick-Gibb.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nick Gibb 817098"
+        }
+      ]
+    },
+    {
+      "first_name": "Lauren",
+      "last_name": "Gibbemeyer",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1988-09-08T00:00:00",
+        "hometown": {
+          "city": "St. Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "Cretin Derham Hall High School (Minnesota) University of Minnesota, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2018</li><li>Top finish: 5th – 2018 (Team - Women)</li></ul><h5>More</h5><p><strong>Most Notable</strong></p>\n<ul>\n    <li>Started seven of 14 matches during FIVB World Grand Prix, averaging 2.48 points and 0.68 blocks per set while converting 45.6 percent of attacks</li>\n    <li>Started all 14 matches for the U.S. in 2013 FIVB World Grand Prix, averaging 2.35 points per set while converting 45.7 percent of attacks into points</li>\n    <li>Two-time AVCA All-American at University of Minnesota (1st team as junior in 2009, 3rd team as sophomore in 2008)</li>\n</ul>\n<p><strong>MAJOR INTERNATIONAL COMPETITION:</strong><br>\n<strong>2019 - </strong>FIVB Volleyball Nations League (Weeks 3-5)\n<strong>2018 - </strong>FIVB Volleyball Nations League (Gold)...FIVB World Championship (5th Place)<br>\n<strong>2017 - </strong>FIVB World Grand Prix (5th Place); USA Volleyball Cup vs. Brazil; FIVB World Grand Champions Cup (Bronze)<br>\n<strong>2015 - </strong>USA Volleyball Cup vs China...FIVB World Grand Prix (Gold)...FIVB World Cup (Bronze)...NORCECA Championship (Gold)<br>\n<strong>2014 - </strong>USA Volleyball Cup vs. Brazil...FIVB World Grand Prix (5th Preliminary Round)<br>\n<strong>2013 - </strong>Pan American Cup (Gold)...USA Volleyball Cup...FIVB World Grand Prix (6th)...NORCECA Championship (Gold)...FIVB Grand Champions Cup (Silver).<br>\n<strong>2012 - </strong>Pan American Cup (Gold).<br>\n<strong>2011 &ndash; </strong>Pan American Games (Bronze).</p>\n<p><strong>Did You Know</strong></p>\n<ul>\n    <li>Nicknames are Gibby, Gibblet, Gibbs, etc</li>\n    <li>In her international debut, started all five sets of the Pan American Games in 2011 and helped Team USA earn the bronze medal</li>\n    <li>Averaged scoring 2.48 points per set while starting 29 matches in 2013, her first year in a primary starting role at middle blocker</li>\n    <li>Has held starting role in consecutive Pan American Cups (2012 and 2013) leading to gold medals for the U.S.</li>\n    <li>Competed on U.S. Women's Junior National Team in 2006 and 2007, which resulted in gold medal at NORCECA Women's U-20 Continental Championship (2006) and fourth-place finish at FIVB Volleyball Women's U-20 World Championship (2007).</li>\n    <li>Concluded collegiate career at University of Minnesota as school's all-time leader in total blocks with 593 and ninth in kills with 1,421</li>\n    <li>Started playing volleyball as freshman in high school</li>\n    <li>Wanted to be a veterinarian growing up</li>\n    <li>Inspired by her younger sister to want to help kids struggling with weight and obesity and would like to work on finding a prevention to childhood obesity</li>\n    <li>Played for Northern Lights Volleyball Club program, leading the team to an undefeated season against her age division (52-0 versus 17s, only two losses against 18s teams) and winning the 2006 USA Volleyball Girls' Junior National Championships in the 17s Open Division while earning individual All-Tournament honors...Finished third nationally in the 18s Open Division of the USA Volleyball Girls' Junior National championships in 2007 where she was named to the All-Tournament team</li>\n</ul>\n<p><strong>Path to the Podium</strong></p>\n<ul>\n    <li>Started playing indoor club volleyball with Northern Heat in 2004 as a freshman in high school and finished competing with Northern Lights</li>\n    <li>Helped Northern Nights win USA Volleyball Girls&rsquo; Junior National Championships in 2006 with a 52-0 record</li>\n    <li>Member of the U.S. Women&rsquo;s Junior National Team that played in the 2006 NORCECA U20 Continental Championship (gold) and the 2007 FIVB Women&rsquo;s U20 World Championship (4th Place)</li>\n    <li>Two-time AVCA All-American at University of Minnesota, earning first-team in 2009 and third team in 2008</li>\n    <li>Selected to the U.S. Women&rsquo;s National A2 Team (now known as U.S. Collegiate National Team) in 2010</li>\n    <li>Made U.S. Women&rsquo;s National Team debut at 2011 Pan American Games</li>\n</ul>\n<p><strong>The Big Blurb</strong></p>\n<p>On advice she would give to young athletes: \"I just think they need to be resilient. If it is something they really want and they get cut from the team or they don't make the team they want, just to keep pushing. You can learn a lot from bouncing back from hard situations.\"</p>\n<p>On advice she was given: \"In college is when I really found that I could do really great things and I could be a really great player after playing under (Minnesota) coach Mike Hebert. He had a meeting with me and was like you can do one of two things - you can be great player and have a successful college career, or you can be something special. It is a lot of sacrifice and hard work. He kind of helped me choose that second route.\"</p>\n<p><strong>Related Links</strong></p>\n<ul>\n    <li>Lauren Gibbemeyer Blog</li>\n    <li>USA Volleyball Video Interview: Get to Know Lauren Gibbemeyer (Aug. 1, 2013)</li>\n    <li>Fan Video: Best of Lauren Gibbemeyer</li>\n    <li>St. Paul Pioneer Press Article: Body Shots Lauren Gibbemeyer</li>\n</ul>\n<p><strong>Social Media</strong></p>\n<ul>\n    <li>Twitter</li>\n    <li>Facebook</li>\n    <li>Instagram</li>\n    <li>Pinterest</li>\n</ul>\n<p><strong>Last Updated</strong>&nbsp;October 2018</p><h5>Career Highlights</h5><ul><li>World Cup, 2015 (Team - Women)</li><li>Pan American Games, Guadalajara, 2011 (Team - Women)</li><li>Junior World Championships, 2007 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927447/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lauren%20Gibbemeyer/web-Lauren-Gibbemeyer.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lauren Gibbemeyer"
+        }
+      ]
+    },
+    {
+      "first_name": "Riley",
+      "last_name": "Gibbs",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1996-11-03T00:00:00",
+        "hometown": {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7701,
+          "longitude": -118.1937
+        },
+        "education": "Woodrow Wilson High School (Long Beach, Calif.) ‘13  Orange Coast College, Maritime Environment/Marine Biology",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Stacey Gibbs</li><li>Hobbies include kiting, surfing and paragliding</li><li>Won a gold medal at the 2019 Pan American Games in Lima, Peru with Anna Weis.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 9th (Nacra 17 - Mixed)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – 18th (Nacra 17 - Mixed)</li><li>Years of participation: Nacra 17 - Mixed 2017, 2018, 2019, 2020, 2022; Formula Kite - Men 2017; 29er - Open 2014, 2016</li><li>Top finish: 4th – 2017 (Formula Kite - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005803/TeamUSA%20Assets/Athlete%20Profiles/Riley%20Gibbs%201051926/Gibbs_Riley.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Riley Gibbs 1051926"
+        }
+      ]
+    }
+  ]
+}

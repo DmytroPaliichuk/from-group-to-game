@@ -1,0 +1,1192 @@
+{
+  "entries": [
+    {
+      "first_name": "Sean",
+      "last_name": "Farrell",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "2001-11-02T00:00:00",
+        "hometown": {
+          "city": "Hopkinton",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.2245,
+          "longitude": -71.5245
+        },
+        "education": "St. Marks High School (Southborough, Mass.) ‘20 Harvard University ‘25",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Bill and Erica Farrell</li><li>Brother to Brooke</li><li>Favorite NHL player is Brad Marchand</li><li>Most memorable moment/achievement: Winning the league championship with the Minuteman Flames for the last time because they played together for eight years.</li></ul><h5>Career Highlights</h5><ul><li>2019 IIHF Under-18 Men's World Championship, bronze</li><li>2019 World Junior A Challenge, 3rd</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (Team - Men)</li><li>Years of participation: Team - Men 2022, 2023</li><li>Top finish: 4th – 2022 (Team - Men), 2023 (Team - Men)</li></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362502/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sean%20Farrell/farrell_sean_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sean Farrell"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Kent",
+      "last_name": "Farrington",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1980-12-28T00:00:00",
+        "hometown": {
+          "city": "Wellington",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.6567,
+          "longitude": -80.2667
+        },
+        "education": "Latin School of Chicago (Chicago, Ill.) ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Kip and Lynda Farrington</li><li>Has one sibling, Kim</li><li>Began riding at age 8 after his saw a picture of his mother on a horse and wanted to try riding</li><li>Says his idol is Jay-Z</li><li>Grew up skateboarding</li><li>Interests include architecture and interior design.</li></ul><h5>Career Highlights</h5><ul><li>2015 Pan American Games, bronze (team); 36th (individual) – with Gazelle</li><li>2011 Pan American Games, gold (team); 27th (individual) – with Uceko</li></ul><h5>World Championships Experience</h5><p>Most recent: 2014 – bronze (team); 32nd (individual)</p><p>Years of Participation: 2014 (Voyeur)</p><p>Medals: 1 (bronze)</p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, 31th (Individual - Open)</li><li>Olympic Games Rio de Janeiro 2016, silver (Team - Open), 5th (Individual - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661986/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/farrington_k_bio_857241.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Equestrian",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012712/TeamUSA%20Assets/Athlete%20Profiles/Kent%20Farrington%20857241/farrington_kent.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kent Farrington 857241"
+        },
+        {
+          "title": "Equestrian"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Kaitlyn",
+      "last_name": "Farrington",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1989-12-18T00:00:00",
+        "hometown": {
+          "city": "Sun Valley",
+          "state": "ID",
+          "country": "United States",
+          "latitude": 43.6808,
+          "longitude": -114.315
+        },
+        "education": " Westminster College",
+        "fun_fact": null,
+        "biography": "<span style=\"font-size: 18px;\">Farrington </span><span style=\"font-size: 18px;\">4</span>&rdquo;<p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Sochi 2014, gold (Halfpipe - Women)</li></ul></ul><h5>Career Highlights</h5> \n<ul>\n    <li>2013 World Championships, 4th place</li>\n    <li>2013 World Cup Sochi, 5th place</li>\n    <li>2013 World Cup Park City, bronze medalist</li>\n    <li>2013 World Cup Copper Mountain, 5th place</li>\n    <li>2012 U.S. Grand Prix overall champion</li>\n    <li>2012 Dew Tour Breckenridge, gold medalist</li>\n    <li>2011 X Games Aspen, silver medalist</li>\n    <li>2011 Dew Tour, silver medalist<br>\n    </li>\n    <li>2010<span style=\"font-size: 18px;\">&nbsp;</span>X Games Tignes, gold medalist</li>\n    <li>2010&nbsp;<span style=\"font-size: 18px;\">Dew Tour, overall champion</span></li>\n    <li>2008 Junior World Championships, silver medalist&nbsp;</li>\n</ul>\n<p><strong>Fun Facts: </strong><span style=\"font-size: 18px;\">Became the first women's rider to <span style=\"font-size: 18px;\">perform a backside 900 ... Loves running and music ... Learned to snowboard <span style=\"font-size: 18px;\">in fifth grade ... Collects refrigerator magnets from her travel stops ... Has had five wrist surgeries ... Grew up on a cattle ranch in Idaho</span></span><br>\n</span></p>\n<p><strong>Learn more:</strong>&nbsp;<br>\nU.S. Ski and Snowboard&nbsp;Association</p>\n<p>&nbsp;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – 4th (Halfpipe - Women)</li><li>Years of participation: Halfpipe - Women 2013</li><li>Top finish: 4th – 2013 (Halfpipe - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004193/TeamUSA%20Assets/Athlete%20Profiles/Kaitlyn%20Farrington%20846643/Snowboarding_Farrington_Kaitlyn_site_2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kaitlyn Farrington 846643"
+        }
+      ]
+    },
+    {
+      "first_name": "Kendrick",
+      "last_name": "Farris",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1986-07-02T00:00:00",
+        "hometown": {
+          "city": "Shreveport",
+          "state": "LA",
+          "country": "United States",
+          "latitude": 32.5252,
+          "longitude": -93.7502
+        },
+        "education": " Louisiana State University Shreveport",
+        "fun_fact": null,
+        "biography": "<p><strong>Most people don't know that...</strong> I have a sense of humor <br>\n<strong>Most&nbsp;Influential person(s) in your sporting career:</strong> Yahawah, Yahawahsha, Christ, Monica Lockett (mother), Kyle Pierce (coach/pops), Katrina Farris (wife) <strong>Hobbies/Interests outside of weightlifting:</strong> Xbox one, I'd challenge anyone to game of Madden or NBA2k <br>\n<strong>Favorite Books:</strong> The Bible <br>\n<strong>Favorite TV Show</strong>: Seinfeld <br>\n<strong>Favorite Music Genre:</strong> Conscious<br>\n<strong>Favorite Food:</strong> garden fresh pizza<br>\n<strong>Favorite Competition Lift:</strong> Clean &amp; Jerk <br>\n<strong>Favorite Training Lift:</strong> Back squats<br>\n</p>\n<p> </p>\n<p><h5>Quick Facts</h5> Farris began lifting when he was 12-years-old after his uncle, Kevin Burns, read an article in the newspaper about a weightlifting development center for young athletes.&nbsp; Less than 10 years after his introduction to the sport, Farris won back-to-back National titles in 2006 and 2007 en route to qualifying for his first Olympic Team.&nbsp; Farris set two American Records at the Olympic Games in ,Beijing where he placed eighth.&nbsp; He attributes faith in The Father and hard work to his success and has his sights set on climbing onto the World and Olympic podiums.&nbsp;&nbsp; The 29-year-old juggles being a husband, father (of two), athlete, and business man.\n</p><p><br>\n</p><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 11th (94kg - Men)</li><li>Olympic Games London 2012, 7th (85kg - Men)</li><li>Olympic Games Beijing 2008, 6th (85kg - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 11th (94kg - Men), 13th (94kg - Clean & Jerk - Men, 94kg - Snatch - Men)</li><li>Years of participation: 94kg - Clean & Jerk - Men 2015; 94kg - Men 2015; 94kg - Snatch - Men 2015; 85kg - Clean & Jerk - Men 2006, 2007, 2009, 2010, 2011; 85kg - Men 2006, 2007, 2009, 2010, 2011; 85kg - Snatch - Men 2006, 2007, 2009, 2010, 2011</li><li>Top finish:  – 2007 (85kg - Clean & Jerk - Men), 2007 (85kg - Men), 2010 (85kg - Clean & Jerk - Men), 2010 (85kg - Men), 2010 (85kg - Snatch - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697860/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kendrick%20Farris%20811140/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Weightlifting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697863/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kendrick%20Farris%20811140/Farris_K120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendrick Farris 811140"
+        }
+      ]
+    },
+    {
+      "first_name": "Luca",
+      "last_name": "Fassi",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2005-04-17T00:00:00",
+        "hometown": {
+          "city": "Altadena",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1894,
+          "longitude": -118.1337
+        },
+        "education": "Marshall Fundamental ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Lorenzo and Antonella</li><li>He has one brother, Teo, who also dives</li><li>He trains two and a half hours a day, six days a week</li><li>Between dives, he likes to talk to friends to calm his nerves, but he also likes to plug his ears so he doesn't hear any scores</li><li>His favorite dive is 305C on 3-meter, and his favorite diver is Steele Johnson</li><li>Luca is interested in art</li><li>If Luca could meet anyone, it would be his grandfather, Carlo Fassi</li><li>His grandfather was an Italian Olympic figure skater. He was inducted into the U.S. Olympic Hall of Fame in 2008. His grandmother, Christa Fassi, was a figure skating coach with Carlo, and they had four Olympic champions (Peggy Fleming, Dorothy Hamill, Robin Cousins and John Curry)</li><li>Italian was the first language Luca learned</li><li>Luca's favorite meal is his dad's lasagne alla bolognese</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Montreal, 2022 (10m Platform - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011917/TeamUSA%20Assets/Athlete%20Profiles/Luca%20Fassi%201265522/Luca-Fassi-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Luca Fassi 1265522"
+        }
+      ]
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Fattal",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1993-12-10T00:00:00",
+        "hometown": {
+          "city": "Seal Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7417,
+          "longitude": -118.075
+        },
+        "education": "University of California, Los Angeles",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Maria and Ron Fattal</li><li>Has one brother, Ryan</li><li>Hobbies include reading, watching movies and going on adventures</li><li>Favorite food is chocolate cake</li><li>A swimmer and volleyball player in high school, she eventually transitioned to water polo full time in college</li><li>Named 2015 FINA World Championship MVP by leading Team USA to the gold medal with 18 goals.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games Toronto 2015, gold</li></ul><h5>World Championship</h5><ul><li>Most recent: 2019 – gold</li><li>Years of Participation: 2015, 2017, 2019</li><li>Medals: 3 (3 golds)</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (2 gold)</li><ul><li>Olympic Games Paris 2024, 4th (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2013, 2015, 2017, 2019, 2022, 2023</li><li>Medals: 4 (4 gold)</li><ul><li>Gold – 2022 (Team - Women);  2019 (Team - Women);  2017 (Team - Women);  2015 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661987/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/fattal_r_bio_838615.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662580/TeamUSA%20Assets/Athlete%20Profiles/Rachel%20Fattal%20838615/Fattal_r_hero_838615.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012789/TeamUSA%20Assets/Athlete%20Profiles/Rachel%20Fattal%20838615/Fattal_Rachel_150x250_tokyo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rachel Fattal 838615"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Water Polo"
+        }
+      ]
+    },
+    {
+      "first_name": "Juliann",
+      "last_name": "Faucette",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1989-11-25T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Westview High School (San Diego, Calif.) '07 Texas '11, Corporate Communications",
+        "fun_fact": null,
+        "biography": "<h5>More</h5><p><strong>MAJOR INTERNATIONAL COMPETITION: 2013 - </strong>USA Volleyball Cup...FIVB World Grand Prix Preliminary Round. <strong>2008 &ndash; </strong>Tour of China...Pan American Cup (Fifth Place). <strong>2006 &ndash; </strong>TV Azteca Cup.</p>\n<p><strong>INTERNATIONAL HIGHLIGHTS: 2013 &ndash; </strong>Played in three sets versus Japan on July 10 in opening match of USA Volleyball Cup in hometown of San Diego&hellip;Scored four kills on 12 errorless attacks in the match&hellip;Played in eight sets during second weekend of FIVB World Grand Prix, registering eight kills on 23 attacks and four digs. <strong>2008 &ndash; </strong>Credited with 53 points during a three-week, eight-match tour of China&hellip;Converted 41 percent attacks into kills in China&hellip;Tallied 49 kills during the event&hellip;Played in five sets during the Pan American Cup with two kills. <strong>2006 &ndash; </strong>Tallied 22 points during the TV Azteca Cup with one match start against Mexico on Sept. 29...Played in 14 sets at the TV Azteca Cup with five set starts&hellip;Started match versus Mexico on Sept. 29 at the TV Azteca Cup and tallied six points on five kills and a block&hellip;Recorded eight points versus Peru on Sept. 28...Came off the bench in two sets versus Cuba on Sept. 27 to compile two blocks and two kills.</p>\n<p><strong>COLLEGE HIGHLIGHTS: 2010 &ndash; </strong>Name AVCA All-America First Team, Big 12 Player of the Year and NCAA All-Tournament Team as Texas reached NCAA semifinals&hellip;Selected as finalist for Honda Award&hellip;Led Longhorns with 536.5 points (4.55 per set) and 465 kills (3.94 per set). <strong>2009 &ndash; </strong>AVCA All-America Third Team selection and All-Big 12&hellip;Totaled 3.17 kills and 3.64 points per set. <strong>2008 &ndash; </strong>AVCA All-America honorable mention after ranking second on team with 2.94 kills per set. <strong>2007 &ndash; </strong>Selected as American Volleyball Coaches Association (AVCA) National Freshman of the Year and AVCA All-America First-Team&hellip;Selected All-Big 12 First Team and Big 12 Freshman of the Year&hellip;Started 30 of Texas&rsquo; 31 matches and appeared in 99 total games&hellip;Ranked first on the team in total kills (445) and second in kills per game (4.49)&hellip;Tallied double-figure kill totals in 25 of her 30 matches.</p>\n<p><strong>OTHER USA VOLLEYBALL EXPERIENCE:</strong> Selected most valuable player of Women&rsquo;s Open Division of 2010 USA Volleyball Open National Championships while participating with the U.S. Women&rsquo;s National Volleyball A2 Program&hellip;Trained with the U.S. Women&rsquo;s National Volleyball Team during the spring of 2008 in an attempt to make the 2008 Olympic Games roster&hellip;Member of U.S. Women&rsquo;s Junior National Team in 2006&hellip;Helped Team USA to the gold medal at the 2006 NORCECA Continental Women&rsquo;s Junior Championship in Mexico&hellip;Second highest scorer for Team USA at 2006 NORCECA Continental Championship.</p>\n<p><strong>CLUB/PREP CAREER:</strong> Played for EPIC Volleyball Club (San Diego, Calif.) and coached by Ozhan Barambagui&hellip;Ranked second in the 2007 recruiting class by PrepVolleyball.com&hellip;Led Epic to third place finish at 2006 USA Volleyball Girls&rsquo; Junior National Championships and earned spot on the 18 Open All-Tournament Team...Attended Westview High School (San Diego, Calif.) from 2003-2007&hellip;Started playing indoor volleyball in 2004 with Coast Volleyball Club.</p>\n<p><strong>PERSONAL:</strong> Born Juliann Christine Faucette on Nov. 25, 1989, in San Diego, Calif&hellip;Parents are Chuck Faucette and Carolyn Ryba with sisters Jenna (1987), Tomilyn (1995), Javoni (1995) and Jade (1997)&hellip;Father played for the San Diego Chargers of the National Football League in 1989&hellip;Hobbies include singing, dancing and acting&hellip;Favorite food is sushi and favorite book is The Shack&hellip;Favorite Musical Type is R&amp;B...Favorite musicians are Alicia Keys and Justin Bieber&hellip;Favorite athlete is Michael Jordan&hellip;Favorite actress is Julia Roberts and favorite actor is Jim Carrey...Was a gymnast for eight years before becoming a cheerleader and dancer in her teens&hellip;Most admired people are her mom and dad because &ldquo;they both have influenced me in different ways and are very strong, successful people.&rdquo;</p>\n<p><strong>What are the top songs in your iPod</strong>: Miguel &ldquo;Adorn&rdquo;, Alicia Keys &ldquo;Girl on Fire&rdquo; and Robin S. &ldquo;Show Me Love&rdquo;</p>\n<p><strong>Name three things that most people do not know about you.</strong> I&rsquo;ve been in plays and musicals, I was in Choir for seven years, and I used to be a dancer</p>\n<p><strong>What do you like to do in your spare time?</strong> Read and sing/listen to music</p>\n<p><strong>What do you envision doing as a career after competing for the national team?</strong> Playing overseas, or becoming an American Idol star! Or becoming a news caster</p>\n<p><strong>Other than family, who would you like to invite to complete a dinner foursome (individuals can be dead or alive)?</strong> God, Oprah, Michael Jordan and Justin Beiber</p>\n<p><strong>Who was your club coach prior to going to college?</strong> Ozhan Barambagui</p>\n<p><strong>Where would you like to spend a week&rsquo;s vacation?</strong> Fiji</p>\n<p><strong>If you could live anywhere in the world, where would it be?</strong> The Caribbean Islands</p>\n<p><strong>What is your favorite room in your house and why?</strong> My room because it&rsquo;s great for relaxing and reading</p>\n<p><strong>What is the one luxury item that you could not do without?</strong> My ipod</p>\n<p><strong>What luxury item do you wish you could invent?</strong> A time machine or instant travel</p>\n<p><strong>Rank the following types of television programs in order you like best:</strong> Reality TV, crime dramas, game shows, sit-coms, music television, cable news, sports. Sports, Reality, Music Television, sit-coms</p>\n<p><strong>What is your favorite television program?</strong> Gossip Girl</p>\n<p><strong>What is your favorite movie?</strong> The Avengers</p>\n<p><strong>What is your favorite book?</strong> Angels &amp; Demons</p>\n<p><strong>What is your pre-match ritual?</strong> Listen to my music and get loose</p>\n<p><strong>On an airplane, would you rather, sleep, read, work on a computer or talk with the person sitting next to you?</strong> Read</p>\n<p><strong>What is the best thing about competing on the USA Women&rsquo;s National Team?</strong> You can learn something new and grow into a better player and person every single day</p>\n<p><strong>What is your favorite volleyball drill?</strong> Tennis</p>\n<p><strong>What sport would you be competing in if not for volleyball?</strong> Track or Football</p>\n<p><strong>Who is your favorite athlete?</strong> Michael Jordan</p>\n<p><strong>What is your favorite food?</strong> Sushi</p>\n<p><strong>What is your hometown best known for?</strong> Sunny San Diego</p>\n<p><strong>How many different languages can you converse in?</strong> Two</p>\n<p><strong>What was your favorite subject in school?</strong> History</p>\n<p><strong>If you could see any musical act or performer (dead or alive) in concert, who would it be?</strong> Michael Jackson</p>\n<p><strong>If you won the lottery, what is the first thing that you would buy or pay for?</strong> A house</p>\n<p><strong>If you would live as one other person (celebrity or not) for one day, who would it be?</strong> Beyonce</p>\n<p><strong>If you could have one super power, what would it be?</strong> To Fly</p>\n<p><strong>If a movie was made about your life, which actor or actress would you want to play you?</strong> Angelina Jolie</p>\n<p><strong>If you were stranded on a desert island, what three things would you take with you?</strong> My ipod, a good book, and some water</p>\n<p><strong>If you could live in another time period for a week, which one would you choose?</strong> The 60s</p>\n<p><strong>If you could be on the cover of one magazine, which one would you choose?</strong> Vogue</p>\n<p><strong>What is the most &ldquo;embarrassing&rdquo; song on your iPod?</strong> Cotton Eyed Joe</p>\n<p><strong>What is your favorite holiday?</strong> Thanksgiving</p>\n<p><strong>What is your favorite season &ndash; winter, spring, summer or fall?</strong> Summer</p>\n<p><strong>What is one off-the-court talent that you have?</strong> Singing</p>\n<p><strong>What was the most defining moment in your life?</strong> When I accepted Jesus Christ into my life</p>\n<p><strong>What are your most prized possessions?</strong> My family and friends</p>\n<p><strong>What is your motto?</strong> The harder you work, the harder it is to surrender</p>\n<p><strong>What reality show (American Idol, the Apprentice, the Real World, Survivor, Big Brother, etc.) would you be best on?</strong> American Idol</p>\n<p><strong>What is your pet peeve?</strong> Wasted talent, bad attitudes and lying</p>\n<p><strong>What communication tool do you use most often &ndash; text messaging, talking on the cell phone or e-mail?</strong> Text Messaging</p>\n<p><strong>LAST UPDATED:</strong> Sept. 5, 2013</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328069/TeamUSA%20Assets/Migration/Athlete%20Profiles/Juliann%20Faucette/USAVJuliannFaucette.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Juliann Faucette"
+        }
+      ]
+    },
+    {
+      "first_name": "Nicole",
+      "last_name": "Fawcett",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1986-12-16T00:00:00",
+        "hometown": {
+          "city": "Zanesfield",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.3806,
+          "longitude": -83.7027
+        },
+        "education": " Penn State",
+        "fun_fact": "",
+        "biography": "<h5>World Championship Experience</h5><ul><li>Most recent: 2014 – gold (Team - Women)</li><li>Years of participation: Team - Women 2010, 2014</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2014 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>Most Notable</strong></p><ul><li>Selected most valuable player and best opposite of 2016 NORCECA Olympic Qualification Tournaments</li><li>Selected most valuable player of the 2015 NORCECA Championship</li><li>Selected Best Opposite in the 2015 Pan American Games after averaging 4.45 points and 1.59 digs per set as Team USA won its first Pan Am Games title since 1967</li><li>Named most valuable player and best server at 2013 Pan American Cup, leading the U.S. to its second consecutive event title</li><li>Helped U.S. win its first-ever FIVB World Championship in 2014, with two starts while primarily serving as the opposite in the double-switch in other matches</li><li>Selected as Honda Award winner for overall best NCAA Division I volleyball player</li></ul><p><strong>MAJOR INTERNATIONAL COMPETITION:</strong><br><strong>2016 - </strong>NORCECA Olympic Qualification Tournament (Gold)...FIVB World Grand Prix Prelims<br><strong>2015</strong> - NORCECA Olympic Qualification Tournament (Gold-MVP)<br><strong>2015</strong> - USA Volleyball Cup vs. China ... FIVB World Grand Prix preliminary rounds ... Pan American Games (Gold)...FIVB World Cup (Bronze)...NORCECA Championship (Gold-MVP).<br><strong>2014</strong> - USA Volleyball Cup vs. Brazil...FIVB World Championship (Gold)<br><strong>2013</strong> - Pan American Cup (Gold-MVP)...USA Volleyball Cup...FIVB World Grand Prix (6th)...NORCECA Championship (Gold)...FIVB Grand Champions Cup (Silver)<br><strong>2012</strong> - Pan American Cup (Gold)<br><strong>2011</strong> – Montreux Volley Masters (Fourth)<br><strong>2010</strong> – Montreux Volley Masters (Silver)...FIVB World Grand Prix (Gold)<br><strong>2009</strong> – FIVB World Grand Prix (9th)...Final Four Intercontinental Cup (Silver)...NORCECA Continental Championship (4th)</p><p><strong>Did You Know</strong></p><ul><li>While playing international club volleyball, set the world record for highest individual points scored in a single match with 55 points while playing for Korea Expressway in the Korea V-League on Feb. 14, 2013. The record has since been eclipsed.</li><li>Named MVP of the Korea V-League twice (2012-13, 2014-15). She helped Korea Expressway win the 2014-15 regular season, but came up short in the playoff final round</li><li>In 2008 was named AVCA Division I National Player of the Year and AVCA All-America First-Team for the third straight year and fourth overall AVCA All-American award</li><li>Led Penn State to an undefeated record (38-0) in 2008 and its second straight NCAA title and sixth consecutive Big Ten crown</li><li>Selected as AVCA NCAA Division I National Freshman of the Year in 2005 and AVCA All-America Second-Team All-America</li><li>Member of U.S. Women’s Junior National Team in 2004 (gold at NORCECA Women's Junior Continental Championship) and 2005 (participated in FIVB Women's Junior World Championship) - that competed at the 2005</li><li>Member of U.S. Girls’ Youth Team which participated in the FIVB Girls’ Youth World Championship in Poland</li><li>Selected 2004 Ohio State High School Gatorade Player of the Year</li><li>In high school was a Regional track high jump finalist in 2004 and 2005</li><li>Mother Kim played volleyball at Wright State University</li><li>Maternal grandfather was a pitcher for the Baltimore Orioles in 1945</li><li>Nicknames are Nic, Nicholas, Nix, White Lightening, Puppy, Dairy Queen, Babe, Niccy, Little Niccy, Nicole F, Nasty Nickle</li><li>Owns a 1968 red convertible GTO.</li><li><p>Benjamin Logan High School (Bellefontaine, Ohio) Penn State, Human Development and Family Studies</p></li></ul><p><strong>Related Links</strong></p><ul><li>FIVB Article on Nicole Fawcett Record-Breaking Match</li><li>Video Highlights of 55-point Match on Feb. 14, 2013</li><li>Nicole Fawcett on the Mental Side of the Game</li></ul><p><strong>Last Updated:</strong> July 10, 2016</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Women)</li><li>World Cup, 2015 (Team - Women)</li><li>Youth World Championship, Pila, 2003 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328061/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nicole%20Fawcett/2017Fawcett.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicole Fawcett"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Tobi",
+      "last_name": "Fawehinmi",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1995-08-14T00:00:00",
+        "hometown": {
+          "city": "Arlington",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7357,
+          "longitude": -97.1081
+        },
+        "education": "University of Texas at Arlington",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Fawehinmi, the son of a single mother from Nigeria, never imagined he would be the youngest member of the 2012 U.S. Paralympic Team in London</li><li>In 2011, a track meet official whose daughter competed at the 2004 Paralympic Games extended his business card and encouraged him to look into the Paralympic</li><li>An accomplished high school jumper who was born with shoulder dystocia, Fawehinmi threw out the card and brushed it off until his coach suggested the same opportunity</li><li>After doing research, he entered his first Paralympic track and field events at the Desert Challenge Games and months later, qualified for his first Paralympic Games where he finished fifth in triple jump and 10th in long jump in London</li><li>Fawehinmi earned an NCAA Division I track an d field scholarship to the University of Texas at Arlington where he studied Kinesiology</li><li>Son of Queen Fawehinmi</li><li>Has one older sister, Vera</li><li>Born with an underdeveloped left arm due to shoulder dystocia, an obstetrical complication that occurs during childbirth</li><li>Hobbies include music, playing sports and going to church</li><li>Was the youngest male to make the 2012 U.S. Paralympic Team in London</li><li>Played cornerback and receiver for his middle school football team</li><li>Won a bronze medal in triple jump at the 2013 UIL 4A Texas Track &amp; Field State Meet</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – bronze (Long Jump T47 - Men)</li><li>Years of participation: Long Jump T47 - Men 2017, 2019; Triple Jump T47 - Men 2017; Long Jump T46 - Men 2013</li><li>Medals: 4 (1 gold, 1 silver, 2 bronze)</li><ul><li>Gold – 2017 (Triple Jump T47 - Men)</li><li>Silver – 2013 (Long Jump T46 - Men)</li><li>Bronze – 2019 (Long Jump T47 - Men);  2017 (Long Jump T47 - Men)</li></ul></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 6th (Long Jump T47 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 5th (Long Jump T47 - Men)</li><li>Paralympic Games London 2012, 5th (Triple Jump T46 - Men), 10th (Long Jump T46 - Men), 15th (200m T46 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661980/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/fawehinmi_t_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T47",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662483/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/fawehinmi_t_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335738/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tobi%20%20Fawehinmi/Fawhinmi_Claudius250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tobi Fawehinmi"
+        }
+      ]
+    },
+    {
+      "first_name": "Joanne",
+      "last_name": "Fa’avesi",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-02-04T00:00:00",
+        "hometown": {
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.5816,
+          "longitude": -121.4944
+        },
+        "education": "Luther Burbank High School (Sacramento, Calif.) ‘10",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Setaleki Fa’avesi and Feofaaki Lautaimi</li><li>Is the youngest of eight children.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, silver</li>\r\n                            <li>2015 NACRA Sevens Championship, 1st </li>\r\n                            <li>2015-16 Canada World Rugby Women’s Sevens Series, 5th</li>\r\n                            <li>2015-16 Sao Paolo World Rugby Women’s Sevens Series, 6th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>Olympian (2016)</li><li>Rio 2016 Olympic Games, 5th</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328065/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joanne%20Fa%E2%80%99avesi/faavesi_joanne_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joanne Fa’avesi"
+        }
+      ]
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Federowicz",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1987-08-05T00:00:00",
+        "hometown": {
+          "city": "Chapel Hill",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.9132,
+          "longitude": -79.0558
+        },
+        "education": "Apex High School (Apex, N.C.) University of North Carolina",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>At UNC, was a first team Freshman All-American in 2006</li><li>Was selected by the Boston Red Sox in the 7th round of the 2008 MLB draft</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2012 PCL Post-Season All-Star</li>\r\n                            <li>2012 PCL Mid-Season All-Star</li>\r\n                            <li>2009 SAL Mid-Season All-Star</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Men)</li></ul></ul><h5>More</h5>NGB Bio",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012858/TeamUSA%20Assets/Athlete%20Profiles/Tim%20Federowicz%201219472/Federowicz_Tim_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tim Federowicz 1219472"
+        }
+      ]
+    },
+    {
+      "first_name": "Stefanie",
+      "last_name": "Fee",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1990-03-11T00:00:00",
+        "hometown": {
+          "city": "Virginia Beach",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 36.8529,
+          "longitude": -75.978
+        },
+        "education": "Frank W. Cox High School '08 Duke University '12",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Harry Fee and Charlotte Martz</li><li>Has a brother Scott</li><li>Nickname is Fee</li><li>Began playing field hockey in 2002</li><li>Spend 100+ hours volunteering in local Durham Public Schools</li><li>Game day mantra: Psalm 62:2- &quot;God alone is my rock and my salvation, my fortress where I will never be shaken.&quot;</li><li>Favorite Sports Quote: 1 Corinthians 9:24 - &quot;Do you know that in a race all runners run but only one gets the prize? Run in such a way as to get that prize.&quot;</li><li>Best Words of Advice:&#160;&quot;Passion for the game fuels you to become the great player you are meant to be.&quot;</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018: Retired from the U.S. Women&#39;s National Team with 114 international caps</li>\r\n                            <li>2018: Series against The Netherlands (Palo Alto, Calif.), Series against Canada (Chula Vista, Calif.), Series against Chile (Lancaster, Pa.), Series against Argentina (Tucuman, Argentina)</li>\r\n                            <li>2016: Series against Canada (Chula Vista, Calif.), Series against Chile (Lancaster, Pa.), Series against Holland (Hilversum, The Netherlands), Citi Rio Send-Off Series (Lancaster, Pa.)</li>\r\n                            <li>2015: Series against Argentina (Lancaster, Pa.), 8 Nations Tournament (5th, Hawke&#39;s Bay, New Zealand), Series against Ireland (Lancaster, Pa.), Series against Great Britain (Marlow, England), Series against Japan (Lancaster, Pa.)</li>\r\n                            <li>2013: Four Nations (Auckland, New Zealand)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Gold - 2015 Pan American Games (Toronto, Canada)</li><li>Gold - 2014 Champions Challenge (Glasgow, Scotland)</li><li>Gold - 2013 World League Round 2 (Rio de Janeiro, Brazil)</li><li>Silver - 2012 Champions Challenge I (Dublin, Ireland)</li><li>Bronze - 2016 Champions Trophy (London, England)</li><li>4th - 2014 Rabobank Hockey World Cup (The Hague, Netherlands)</li><li>5th - 2015 World League Round 3 (Valencia, Spain)</li><li>14th - 2018 Vitality Hockey Women's World Cup (London, England)</li></ul><h5>More</h5>No matter where in the world she travels, to Fee, both the ocean and field hockey pitch create a sense of home. Attending a Virginia state championship field hockey powerhouse, Frank W. Cox High School, certainly helped on her journey to the National Team. As a standout at Duke University, Fee was an intimidating defensive presence for the Blue Devils. Fee has been an instrumental part of Team USA's defensive lineup since being named to the squad in 2012.<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714512/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stefanie%20Fee%20803800/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714514/TeamUSA%20Assets/Migration/Athlete%20Profiles/Stefanie%20Fee%20803800/Fee_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Stefanie Fee 803800"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Feeley",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1991-10-12T00:00:00",
+        "hometown": {
+          "city": "Rye",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.9862,
+          "longitude": -73.6826
+        },
+        "education": "University of Michigan",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&amp;w=50&amp;la=en&amp;hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\"><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div></div>\n<div><br>\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2013 World University Games, 6th (1,500m freestyle), 7th (800m freestyle)</li>\n    <li>2012 U.S. Olympic Team Trials, 5th (400m freestyle), 6th (1,500m freestyle)</li>\n    <li>2011 Pan Amercan Games, silve (1,500m freestyle)</li>\n    <li>2011 World University Games, 5th (1,500m freestyle), 14th (open water 10-kilometer)</li>\n    <li>2011 ConocoPhillips National Championships, 5th (1,500m freestyle)</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Robert Feeley and Tammy Payne</li><li>Has three siblings, Patrick, Caroline and Daniel</li><li>Competed in swimming at the University of Michigan</li><li>Involved with Swim Across America, a charity designed to raise money for cancer research.</li></ul><br>\n</p>\n<p><h5>More</h5>USA Swimming</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929570/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Feeley/Swimming_Feeley_Ryan.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Feeley"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Jimmy",
+      "last_name": "Feigen",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1989-09-26T00:00:00",
+        "hometown": {
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.4241,
+          "longitude": -98.4936
+        },
+        "education": "Churchill High School (San Antonio, Texas) ‘08 University of Texas ‘13, Kinesiology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Michael Feigen and Beth Wichman</li><li>Has two siblings, Lynn and Annie</li><li>Has future aspirations to become an orthopedic surgeon</li><li>Hobbies including playing video games and paintball.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Freestyle Relay - Men)</li><li>Olympic Games London 2012, silver (4 x 100m Freestyle Relay - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 11th (4 x 100m Freestyle Relay - Men), 20th (100m Freestyle - Men)</li><li>Years of participation: 100m Freestyle - Men 2013, 2015; 4 x 100m Freestyle Relay - Men 2013, 2015; 100m Freestyle (SC) - Men 2012, 2014; 4 x 100m Freestyle Relay (SC) - Men 2012, 2014; 4 x 100m Medley Relay (SC) - Men 2014; 4 x 50m Freestyle Relay (SC) - Men 2014; 50m Freestyle (SC) - Men 2014; 4 x 100m Medley Relay - Men 2013</li><li>Medals: 6 (1 gold, 4 silver, 1 bronze)</li><ul><li>Gold – 2012 (4 x 100m Freestyle Relay (SC) - Men)</li><li>Silver – 2014 (4 x 100m Medley Relay (SC) - Men, 4 x 50m Freestyle Relay (SC) - Men);  2013 (100m Freestyle - Men, 4 x 100m Freestyle Relay - Men)</li><li>Bronze – 2014 (4 x 100m Freestyle Relay (SC) - Men)</li></ul></ul><h5>More</h5>USA Swimming",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921645/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jimmy%20Feigen/feigen_jimmy_073113_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921647/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jimmy%20Feigen/Feigen_Jimmy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jimmy Feigen"
+        }
+      ]
+    },
+    {
+      "first_name": "Allyson",
+      "last_name": "Felix",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1985-11-18T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "University of Southern California ‘07, Elementary Education",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong>Specialty:</strong></span><span> 100-meter, 200-meter and 400-meter sprints</span></li></ul><ul><li>Daughter to Paul and Marlean Felix</li><li>Sister to Wes Felix, a former USC sprinter</li><li>Felix is the most decorated track and field athlete – male or female – in Olympic and World Athletics Championships history</li><li>Inducted into the USOPC Hall of Fame, Class of 2025</li></ul><h5>Biographical Information<span style=\"font-size: 12pt;\"></span><span style=\"font-size: 12pt;\"></span><span style=\"font-size: 12pt;\"></span></h5><p><span></span>Allyson Felix is the most decorated athlete in the history of track and field, amassing 31 medals across the Olympic Games and world championships. Over the course of five consecutive Olympic Games appearances, she earned 11 Olympic medals—including seven golds—making her the most decorated female track and field athlete in Olympic history.</p><p>At the Olympic Games London 2012, Felix captured three gold medals, including anchoring a world-record-setting 4x100-meter relay. She is also a 14-time world champion and holds the record for the most career medals at the World Athletics Championships, with 20 in total.</p><p>Beyond the track, Felix has become a powerful advocate. She’s been a leading voice for maternity health and gender equity, working to create better pathways for women to succeed in sport, business and family life. In 2024, she was elected to the International Olympic Committee’s Athletes’ Commission and appointed to the USOPC Board of Directors—continuing her legacy of leadership and impact within the Olympic and Paralympic Movement.</p><h5>Olympic Experience</h5><ul><li>5-time Olympian; 11-time Olympic medalist (7 gold, 3 silver, 1 bronze)</li><ul><li>Olympic Games Tokyo 2020, gold (4 x 400m Relay - Women), bronze (400m - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Relay - Women, 4 x 400m Relay - Women), silver (400m - Women)</li><li>Olympic Games London 2012, gold (200m - Women, 4 x 100m Relay - Women, 4 x 400m Relay - Women), 5th (100m - Women)</li><li>Olympic Games Beijing 2008, gold (4 x 400m Relay - Women), silver (200m - Women)</li><li>Olympic Games Athens 2004, silver (200m - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – gold (4 x 100m Relay - Women, 4 x 400m Relay - Women), bronze (400m - Women)</li><li>Years of participation: 4 x 100m Relay - Women 2007, 2015, 2017; 4 x 400m Relay - Women 2007, 2009, 2015, 2017; 400m - Women 2015, 2017; 4 x 400m Relay (Indoor) - Women 2010; 200m - Women 2003, 2005, 2007, 2009</li><li>Medals: 13 (10 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2017 (4 x 100m Relay - Women, 4 x 400m Relay - Women);  2015 (400m - Women);  2010 (4 x 400m Relay (Indoor) - Women);  2009 (200m - Women, 4 x 400m Relay - Women);  2007 (200m - Women, 4 x 100m Relay - Women, 4 x 400m Relay - Women);  2005 (200m - Women)</li><li>Silver – 2015 (4 x 100m Relay - Women, 4 x 400m Relay - Women)</li><li>Bronze – 2017 (400m - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1745341559/TeamUSA%20Assets/Athlete%20Profiles/Allyson%20Felix%20807126/felix_a_bio_807126.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 7,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684928705/TeamUSA%20Assets/Migration/Pages/Felix_Allyson_080721_1440x810_03.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746460381/TeamUSA%20Assets/Hall%20of%20Fame%20Headshots/2025%20Hall%20of%20Fame%20Assets/HOF-Inductee-DEP-Card-AllysonFelix.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003962/TeamUSA%20Assets/Athlete%20Profiles/Allyson%20Felix%20807126/felix_allyson_150x250_2021.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allyson Felix 807126"
+        },
+        {
+          "title": "Hall of Fame, Class of 2025"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        }
+      ]
+    },
+    {
+      "first_name": "Lauren",
+      "last_name": "Fendrick",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1982-03-20T00:00:00",
+        "hometown": {
+          "city": "Carlsbad",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.1581,
+          "longitude": -117.3506
+        },
+        "education": "UCLA '03, communication studies; USC law degree '10",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married to beach volleyball player and Stanford beach volleyball head coach Andrew Fuller since 2013</li><li>Graduated magna cum laude from UCLA in 2003 with a degree in communication studies</li><li>Received her law degree from USC and has passed the bar exam</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>MOST NOTABLE</li>\r\n                            <li>Tied for 19th with Brooke Sweat at the 2016 Olympics</li>\r\n                            <li>Earned silver at the 2017 FIVB Beach World Championships with April Ross</li>\r\n                            <li>Was a dual sport athlete at UCLA her freshman year, playing softball and volleyball</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW?</li>\r\n                            <li>Competed in nine 2018 FIVB beach events with various partners. Best finish was fifth with Nicole Branagh at Qinzhou, China three-star event</li>\r\n                            <li>Earned her first FIVB medal, silver, at the 2017 FIVB Beach World Championships with April Ross; on the domestic AVP Tour, earned three bronze and one gold</li>\r\n                            <li>Finished the 2016 season winning the AVP Championships</li>\r\n                            <li>Fendrick and Sweat went 0-3 in pool play at the 2016 Olympics, tying them for 19th place. Duo was seeded in Pool A with No. 1 Brazil</li>\r\n                            <li>In 2016 on the FIVB World Tour: had four fifth place finishes and two ninths with Brooke Sweat</li>\r\n                            <li>In 2015, won silver at the 2015 NORCECA Continental Tour Finals with Sweat and finished fifth with April Ross at the inaugural FIVB World Tour Finals; best finishes on FIVB Tour were five fifth-places with Sweat</li>\r\n                            <li>Won one AVP tournament in 2016 and 2015, in Chicago with Sweat and Huntington Beach with April Ross</li>\r\n                            <li>Between 2013-14, had best of five fifth place finishes on the FIVB World Tour</li>\r\n                            <li>In the final 2012 FIVB event of the season, competed with Nicole Branagh and finished fourth at the Bangsaen Thailand Open, her most recent top-4 finish</li>\r\n                            <li>Finished the 2012 season in third place among U.S. teams trying to qualify for the Olympic Games, with Brooke Niles</li>\r\n                            <li>Between 2008-2011, had three fourth-place finishes among three partners</li>\r\n                            <li>In 2004, Lauren partnered with four different athletes through 10 AVP events, including future Olympian Nicole Branagh, whom she finished ninth with at Hermosa Beach.</li>\r\n                            <li>Has played on the domestic AVP Tour since 2003, with five first-place finishes. Was named Best Blocker in 2016 and 2014</li>\r\n                            <li>Played professional indoor volleyball in Puerto Rico and Turkey following college</li>\r\n                            <li>In the summer of 1998, Fendrick was the kill leader while playing on the U.S. Girls’ Youth National Team</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 19th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – silver (Team - Women)</li><li>Years of participation: Team - Women 2009, 2011, 2013, 2015, 2017</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2017 (Team - Women)</li></ul></ul><h5>More</h5>View Lauren Fendrick's full careers results at bvbinfo.com",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921684/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lauren%20Fendrick/Lauren-Fendrick-headshot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lauren Fendrick"
+        }
+      ]
+    },
+    {
+      "first_name": "Yijun",
+      "last_name": "Feng",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-02-12T00:00:00",
+        "hometown": {
+          "city": "Alpharetta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.0753,
+          "longitude": -84.2978
+        },
+        "education": " Will start University of Georgia after Rio",
+        "fun_fact": null,
+        "biography": "<p><strong>2020 US Men's Team Captain</strong></p>\n<p>Home Club: ITTA</p>\n<p>Recent Results:</p>\n<ul>\n    <li><span>2020 US Olympic Team - Alternate</span></li>\n    <li><span>2019 World Team Cup - 5th place</span></li>\n    <li>2019 US Men's Doubles Champions with Kanak Jha</li>\n    <li>2016 US Mixed Doubles Champion</li>\n    <li>2016 North American Cup Singles Champion</li>\n    <li>2016 US Olympic Team</li>\n    <li>2016 U.S. National &amp; World Team Member</li>\n    <li>2015 U.S. Men's Singles, Doubles and Mixed Doubles Champion</li>\n    <li>2015 U.S. Youth Singles Champion</li>\n    <li>2015 North American Team Champion</li>\n</ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 9th (Team - Men), 49th (Singles - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 33th (Team - Men)</li><li>Years of participation: Team - Men 2016, 2018</li><li>Top finish: 33th – 2018 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004303/TeamUSA%20Assets/Athlete%20Profiles/Yijun%20Feng%201000380/Desktop-Image-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Table Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004306/TeamUSA%20Assets/Athlete%20Profiles/Yijun%20Feng%201000380/YijunFeng150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Yijun Feng 1000380"
+        }
+      ]
+    },
+    {
+      "first_name": "Jazmine",
+      "last_name": "Fenlator",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1985-08-29T00:00:00",
+        "hometown": {
+          "city": "Wayne",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.9228,
+          "longitude": -74.2689
+        },
+        "education": " Rider University",
+        "fun_fact": "",
+        "biography": "<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>HEIGHT 5'9\"<span class=\"Apple-tab-span\" style=\"white-space: pre;\">\t</span>WEIGHT 170 lbs</strong>&nbsp;</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Jazmine Fenlator became involved in the sport of bobsled in September of 2007. She ran track at Rider University, where her coach encouraged her to try a bobsled camp after graduation. Her favorite sliding memory was competing in her first World Championships on home ice in Lake Placid, N.Y., where Fenlator's mother and sister attended the race. Just months earlier, the Fenlator family nearly lost their home in hurricane Irene. Learn more here.&nbsp;</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">\"The amount of excitement and happy emotions that flooded my heart and mind that weekend almost gave me this sense of calm,\" Fenlator said. \"No matter what struggles and losses I went through over the past year and a half, I made it. I persevered, I was resilient and I can only be thankful everyday when I wake up for the opportunities I have before me. I know I have support and love behind me every step of the way.\"</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">Fenlator graduated from Rider University, with a bachelor's degree in multimedia communications and advertising. She completed her master's degree at the California University of PA, with a concentration on exercise and sciences, and is now pursuing her MBA at DeVry University with a concentration on marketing.</span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>FUN FACTS</strong></span></p>\n<p><span style=\"font-family: 'times new roman'; font-size: 18px;\">- Auditioned for the movie Crooklyn (directed by Spike Lee)<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Auditioned for the Lion King on broadway at age 10<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- National Medalist in Solo Tap Dance routine at age 9<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Tap Dancer<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Amateur Photo Journalist<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Team USA Media Correspondant at the 2014 Espys<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Right to Play Athlete Ambassador<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Kids Play International Athlete Ambassador<br style=\"margin: 0px; padding: 0px; box-sizing: border-box; color: #333333; letter-spacing: 0.129999995231628px; line-height: 16.2000007629395px; background-color: #f5f5f5;\">\n- Sesquicentennial Award of Excellence recipient for Rider University<br>\n</span></p>\n<p><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">CAREER HIGHLIGHTS</span></strong></p>\n<ul>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2015 World Championships in women's </strong>- 6th (2/15)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>3rd overall in 2014-2015 World Cup </strong>- SILVER in Lake Placid (12/14); 4th in Calgary (12/14); 9th in Altenberg (1/15); 4th in Koenigssee (1/15); 8th in St. Moritz (1/15); 4th in La Plagne (1/15); 4th in Igls (2/15); 5th in Sochi (2/15)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2014-2015 North American Cup</strong>&nbsp;- 4th in Park City #1 (11/14)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2013-2014 World Cup </strong>- 15th&nbsp;in Calgary (11/13), 4th in Park City #1 (12/13), SILVER in Park City #2 (12/13), 4th in Lake Placid (12/13), 9th in Winterberg (1/14), 17th in St. Moritz (1/14), 7th in Igls (1/14), 8th&nbsp;in Koenigssee (1/14)<br>\n    </span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2012-2013 World Cup&nbsp;</strong>-SILVER in Lake Placid (11/12), 5th in Park City (11/12), 9th in Whistler (11/12), 13th in Winterberg (12/12), 5th&nbsp;Team Event in Winterberg (12/12), 8th in La Plagne (12/12), 10th in Koenigssee (1/13), BRONZE&nbsp;in Igls (1/13), 8th at World Championships in St. Moritz (1/13),&nbsp;8th Team Event at World Championships in St. Moritz, 13th in Sochi (2/13)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2011-2012 World Cup&nbsp;</strong>-11th in Igls (12/11), 13th in La Plagne (12/11), 13th in Winterberg (12/11), 12th in Koenigssee (1/12), 8th in St. Moritz (1/12), 10th at World Championships in Lake Placid (2/12)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2011-2012 Europa Cup&nbsp;</strong>-5th in Igls #1 (11/11), 4th in Igls #2 (11/11), 5th in Koenigssee #1, 6th in Koenigssee #2 (11/11), 10th in St. Moritz (1/12)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2010-2011 World Cup&nbsp;</strong>-11th in Park City make-up (12/10)&nbsp;</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2010-2011 America's Cup&nbsp;</strong>- 6th in Park City #1 (11/10), 5th in Park City #2 (11/10), 4th in Calgary (11/10), GOLD in Lake Placid #1 (1/11), GOLD in Lake Placid #2 (1/11), 6th in Calgary #1 (1/11), 5th in Calgary #2 (1/11)</span></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>7th overall at 2009-2010 America's Cup&nbsp;</strong>- 5th in Park City #1 (12/09), 6th in Park City #2 (12/09), 7th in Park City #3&nbsp;(12/09),</span></li>\n    <li><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">7th at 2009 U.S. National Bobsled Push Championship<br>\n    </span></strong></li>\n    <li><span style=\"font-family: 'times new roman'; font-size: 18px;\"><strong>2008-2009 America's Cup&nbsp;</strong>- SILVER in Lake Placid #1 (11/08), SILVER in Lake Placid &nbsp;#2 (11/08), 6th in Lake Placid&nbsp;#3 (4/09)</span></li>\n</ul>\n<p><strong><span style=\"font-family: 'times new roman'; font-size: 18px;\">VIDEO HIGHLIGHTS</span></strong></p>\n<span style=\"font-family: 'times new roman'; font-size: 18px;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wbFVWhoSeyA\" frameborder=\"0\"></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DZIbvwaKZyA\" frameborder=\"0\"></iframe></span><h5>Olympic Experience</h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Beijing 2022, 19th (Monobob - Women)</li><li>Olympic Games Pyeongchang 2018, 18th (2-Man Competition - Women)</li><li>Olympic Games Sochi 2014, 11th (2-Man Competition - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 6th (2-Man Competition - Women)</li><li>Years of participation: 2-Man Competition - Women 2012, 2013, 2015; Team Competition - Mixed 2012, 2013</li><li>Top finish: 4th – 2012 (Team Competition - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003971/TeamUSA%20Assets/Athlete%20Profiles/Jazmine%20Fenlator%20817186/Fenlator.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jazmine Fenlator 817186"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Fenner",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1994-12-16T00:00:00",
+        "hometown": {
+          "city": "Bemidji",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 47.4722,
+          "longitude": -94.8808
+        },
+        "education": "Bemidji State University ",
+        "fun_fact": "",
+        "biography": "<h5><span style=\"font-size: 11pt;\"><strong>Quick Facts</strong></span></h5><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\"></span><span style=\"font-size: 11pt;\"><strong></strong></span><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Position: Lead</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Hobbies: Softball, darts, hunting, and fishing</span></p><p>&nbsp;</p><h5><span style=\"font-size: 11pt;\"><strong>Biographical Information</strong></span></h5><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Born and raised in Bemidji, Minnesota,&nbsp; the self-proclaimed “curling capital of the United States\".&nbsp; At age 17, he formed a curling team with childhood best friend,&nbsp;</span><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Alex Fenson</span><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">, son of 2006 Olympic bronze medalist&nbsp;</span><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Pete Fenson</span><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">.&nbsp;</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Fenner has been a two-time national champion (2021, 2025) and represented the U.S twice at curling world championships including a fourth place finish in 2022. Fenner had a successful junior career where he represented Team USA twice at the junior world championships including winning a silver medal in 2016.</span></p><p><span style=\"color: rgb(72, 70, 69);font-size: 11pt;\">Outside of curling, Mark Fenner is a bartender and plays second base for the Twin Cities Ducks in TCMABL (a men’s adult baseball league). He also enjoys playing softball and darts, working out, and hunting and fishing.</span></p><h5>&nbsp;</h5><h5>World Championship Experience</h5><ul><li>Most recent: 2025 – 11th (Team - Men)</li><li>Years of participation: Team - Men 2022, 2025</li><li>Top finish: 4th – 2022 (Team - Men)</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Jönköping, 2019 (Team - Men)</li><li>World Junior Championship, Tårnby, 2016 (Team - Men)</li><li>World Junior Championship, Sochi, 2013 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761265008/TeamUSA%20Assets/Athlete%20Profiles/Mark%20Fenner%20862035/fenner_m_bio_862035.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761265013/TeamUSA%20Assets/Athlete%20Profiles/Mark%20Fenner%20862035/fenner_m_hero_862035.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1761265008/TeamUSA%20Assets/Athlete%20Profiles/Mark%20Fenner%20862035/fenner_m_bio_862035.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mark Fenner 862035"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Pete",
+      "last_name": "Fenson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1968-02-29T00:00:00",
+        "hometown": {
+          "city": "Bemidji",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 47.4722,
+          "longitude": -94.8808
+        },
+        "education": "Bemidji High School Bemidji State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Owner of Dave&#39;s Pizza in Bemidji</li><li>Curling commentator with NBC Olympics and NBCSN</li><li>Other sports/hobbies: Golf, cycling/mountain biking, pinball, family time</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2006 Olympic bronze medalist</li>\r\n                            <li>8-time U.S. men&#39;s national champion</li>\r\n                            <li>Three-time USA Curling Male Athlete of the Year (2011, 2005, 2003)</li>\r\n                            <li>2006 USA Curling Team of the Year</li>\r\n                            <li>2006 U.S. Olympic Committee Team of the Year</li>\r\n                            <li>Competed in Continental Cup four times</li>\r\n                            <li>Bronze medalist at 1993 World Men&#39;s Championship as vice skip</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Turin 2006, bronze (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 10th (Team - Men)</li><li>Years of participation: Team - Men 1993, 1994, 2003, 2005, 2006, 2010, 2011, 2014</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 1993 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714486/TeamUSA%20Assets/Migration/Athlete%20Profiles/Pete%20Fenson%20810080/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2006",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682714488/TeamUSA%20Assets/Migration/Athlete%20Profiles/Pete%20Fenson%20810080/PeteFenson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Pete Fenson 810080"
+        }
+      ]
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Ferguson",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-01-21T00:00:00",
+        "hometown": {
+          "city": "Bend",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 44.0582,
+          "longitude": -121.3153
+        },
+        "education": "Mountain View High School (Bend, Ore.) '12",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Branden and Jennifer Ferguson</li><li>Has two younger brothers, Zach and Gabe</li><li>Younger brother, Gabe, is also on the U.S. Snowboarding team</li><li>Began snowboarding at age 6</li><li>Hobbies include fly fishing, mountain biking, skateboarding, surfing, painting and drawing.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 FIS World Cup Standings, 8th (halfpipe)</li>\r\n                            <li>2016 X Games Aspen, silver (superpipe)</li>\r\n                            <li>2015 FIS World Cup Standings, 8th (halfpipe)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 4th (Halfpipe - Men)</li></ul></ul><h5>More</h5><p>U.S. Ski and Snowboard Association</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921624/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Ferguson/ferguson_ben_120917_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921625/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Ferguson/ferguson_ben_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Ferguson"
+        }
+      ]
+    },
+    {
+      "first_name": "Mason",
+      "last_name": "Ferlic",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1993-08-05T00:00:00",
+        "hometown": {
+          "city": "St. Paul",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9537,
+          "longitude": -93.09
+        },
+        "education": "University of Michigan",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Michael and Charlotte Ferlic</li><li>Is a volunteer assistant coach at his Alma Mater, University of Michigan</li><li>Joined 1984 bronze medalist and U-M TF Hall of Famer Brian Diemer as the program's first two steeplechase title-winners.</li></ul><h5>Career Highlights</h5><ul><li>NCAA Champion (2016, outdoor 3,000-meter steeplechase) with the No. 2 performance in U-M history</li><li>Joined 1984 bronze medalist and U-M TF Hall of Famer Brian Diemer as the program's only steeplechase title-winners</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 21th (3000m Steeplechase - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 11th (Team Cross Country Long Distance - Men), 75th (Individual Cross Country Long Distance - Men)</li><li>Years of participation: Individual Cross Country Long Distance - Men 2019; Team Cross Country Long Distance - Men 2019</li><li>Top finish: 11th – 2019 (Team Cross Country Long Distance - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662748/TeamUSA%20Assets/Athlete%20Profiles/Mason%20Ferlic%20908522/Ferlic_M_Bio_908522.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662351/TeamUSA%20Assets/Athlete%20Profiles/Mason%20Ferlic%20908522/Ferlic_M_Hero_908522.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003952/TeamUSA%20Assets/Athlete%20Profiles/Mason%20Ferlic%20908522/ferlic_mason_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mason Ferlic 908522"
+        }
+      ]
+    }
+  ]
+}

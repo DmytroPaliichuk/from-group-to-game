@@ -1,0 +1,627 @@
+{
+  "entries": [
+    {
+      "first_name": "Valentina",
+      "last_name": "Terry",
+      "bio": {
+        "height": "5'6",
+        "birthday": "2002-10-11T00:00:00",
+        "hometown": {
+          "city": "Pembroke Pines",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.00703,
+          "longitude": -80.34283
+        },
+        "education": "Pembroke Pines Charter High School ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>I started synchro when I was 10</li><li>My favorite color is blue</li><li>I love bubble tea</li><li>I speak Spanish</li><li>My favorite TV shows are: Money Heist, Stranger Things, Limitless and Umbrella Academy</li><li>Some of my favorite musicians are: The Neighbourhood, Jon Bellion, Empire of the Sun, Tame Impala and BTS</li><li>Artistic Swimming Role Model: Anna Voloshyna</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019: UANA Pan American Artistic Swimming Championships</li>\r\n                            <li>2018: 2 Silver Medals - Junior Olympic Championship</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697198/TeamUSA%20Assets/Migration/Athlete%20Profiles/Valentina%20Terry%201204052/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697200/TeamUSA%20Assets/Migration/Athlete%20Profiles/Valentina%20Terry%201204052/Valentina.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Valentina Terry 1204052"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Gabriella",
+      "last_name": "Terry",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2004-01-15T00:00:00",
+        "hometown": {
+          "city": "Pembroke Pines",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 26.00703,
+          "longitude": -80.34283
+        },
+        "education": "Pembroke Pines Charter ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I am a vegetarian</li><li>I am half Colombian</li><li>My sister is also on the Junior National Team</li><li>I like to paint</li><li>I love to travel and see new places</li><li>Artistic Swimming Role Model: Kate Hooven</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2020: Junior National Team</li>\r\n                            <li>2019: U.S. Nationals - 12th (Figures), 6th (Junior Team)</li>\r\n                            <li>2019: South Zone Championships - 1st (Solo &amp; Figures)</li>\r\n                            <li>2018: 13-15 National Team</li>\r\n                            <li>2018: UANA Pan American Championships - 2nd (Team)</li>\r\n                            <li>2018: Comen Cup - 7th (Team)</li>\r\n                            <li>2018: U.S. Nationals - 5th (Figures)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697178/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gabriella%20Terry%201204053/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697180/TeamUSA%20Assets/Migration/Athlete%20Profiles/Gabriella%20Terry%201204053/Gabby-2.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Gabriella Terry 1204053"
+        }
+      ]
+    },
+    {
+      "first_name": "Troy",
+      "last_name": "Terry",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1997-09-10T00:00:00",
+        "hometown": {
+          "city": "Highlands Ranch",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.5594,
+          "longitude": -104.9694
+        },
+        "education": "USA Hockey National Team Development Program (Ann Arbor, Mich.) Denver University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Chuck and Susan Terry</li><li>Has one brother, Trent</li><li>Drafted by the Anaheim Ducks in the fifth round (147th overall) of the 2015 NFL Draft</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 IIHF World Junior Championship, gold</li>\r\n                            <li>Won the 2016-17 NCAA Division I title with Denver University</li>\r\n                            <li>2015 IIHF Men&#39;s Under-18 World Championship, gold</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697192/TeamUSA%20Assets/Migration/Athlete%20Profiles/Troy%20Terry%201086745/terry_troy_123116_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697193/TeamUSA%20Assets/Migration/Athlete%20Profiles/Troy%20Terry%201086745/terry_troy_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Troy Terry 1086745"
+        }
+      ]
+    },
+    {
+      "first_name": "Zack",
+      "last_name": "Test",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1989-10-13T00:00:00",
+        "hometown": {
+          "city": "Redwood City",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4852,
+          "longitude": -122.2363
+        },
+        "education": "Woodside High School (Woodside, Calif.) ‘07 University of Oregon; Loughborough University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Eric Test and Odelia Braun</li><li>Has three sisters, Adina, Elissa and Sophia</li><li>Began playing rugby in high school</li><li>Played wide receiver at the University of Oregon, but redshirted his freshman year to transfer to a school in England, where he focused on rugby</li><li>Hobbies include playing golf.</li></ul><h5>Career Highlights</h5><ul><li>2015 Pan American Games, bronze</li><li>2011 Pan American Games, bronze</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 9th (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2013 – 13th (Team - Men)</li><li>Years of participation: Team - Men 2013</li><li>Top finish: 13th – 2013 (Team - Men)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686325454/TeamUSA%20Assets/Migration/Athlete%20Profiles/Zack%20Test/Test_Zachary_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Zack Test"
+        }
+      ]
+    },
+    {
+      "first_name": "Joshua",
+      "last_name": "Thai",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2004-03-22T00:00:00",
+        "hometown": {
+          "city": "Alhambra",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0953,
+          "longitude": -118.1278
+        },
+        "education": "University of California",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ramp and Lynn</li><li>He has three older siblings: Jennifer, Briana and Megan</li><li>Joshua enjoys flipping, basketball and football</li><li>His sister Briana dives at at UC Berkeley. His sister Megan also dives and attends Whittier College</li><li>He trains three to four hours a day, six days a week</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367545/TeamUSA%20Assets/Migration/Athlete%20Profiles/Joshua%20Thai/2019-Thai-Joshua-Headshot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Joshua Thai"
+        }
+      ]
+    },
+    {
+      "first_name": "Faye",
+      "last_name": "Thelen",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1992-03-24T00:00:00",
+        "hometown": {
+          "city": "Cottonwood Heights",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.608,
+          "longitude": -111.8288
+        },
+        "education": "Westminster College ‘21, Accounting",
+        "fun_fact": "Made her Olympic debut at 17 years old, becoming the youngest snowboard cross athlete at the Olympic Winter Games Vancouver 2010",
+        "biography": "<h5><span style=\"font-size: 11pt;\">Quick Facts</span></h5><ul><li><span style=\"font-size: 11pt;\"><strong>Specialty:&nbsp;</strong></span><span style=\"font-size: 11pt;\">Women's Snowboard Cross</span></li><li><span style=\"font-size: 11pt;\">Gulini's older siblings Erin, Zachary and Nate introduced her to snowboarding when she was 8 years old at Snowbird resort in Utah</span></li><li><span style=\"font-size: 11pt;\">Made her Olympic debut at 17 years old, becoming the youngest snowboard cross athlete at the Olympic Winter Games Vancouver 2010</span></li><li><span style=\"font-size: 11pt;\">Enjoys rock climbing, skateboarding, camping, wakeboarding, swimming and pickleball</span></li><li><span style=\"font-size: 11pt;\">After taking time away from competition to focus on family, returned to racing for the 2025-26 season with her children Theo and Scarlett</span></li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Faye Gulini Thelen was introduced to snowboarding at age 8 by her three older siblings at Snowbird resort. Initially reluctant about the sport, she persevered through the early challenges of learning and quickly developed a passion for riding. Despite being terrified, she won her first race and immediately knew competitive snowboarding would be a significant part of her life. At 14, she made the pivotal decision to pursue her Olympic dream, leaving her family and childhood home to move from Salt Lake City to Vail, Colorado, attending the Vail Ski and Snowboard Academy.</span></p><p><span style=\"font-size: 11pt;\">Thelen competitive career began with her FIS debut in halfpipe at age 14 in Breckenridge, Colorado. She won her first FIS event in slopestyle in January 2008 at Park City, Utah. Her talent quickly translated to the world cup circuit, and by 2010, she had earned the results needed for Olympic qualification. At just 17 years old, she became the youngest snowboard cross athlete at the Olympic Winter Games Vancouver 2010, finishing 12th in her debut. Following the Olympic Games, she captured second place at the FIS Junior World Championships in New Zealand. Her progress was interrupted in 2011 when she tore her ACL and meniscus, sidelining her for nine months.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">After recovering, Thelen steadily climbed the world cup standings and secured her spot on the team for the Olympic Winter Games Sochi 2014. In Russia, she achieved her career-best Olympic finish, placing fourth in a dramatic final. Though she narrowly missed the podium, the performance solidified her status among the world's elite. Following Sochi 2014, she was invited to Washington, D.C., for the U.S. Olympic Committee's Best of U.S. Awards Show, where she met President Barack Obama and First Lady Michelle Obama at the White House. She continued competing at the highest level, earning her first world cup podium at Montafon in December 2017 and going on to collect multiple career world cup podiums, including second-place finishes at Cervinia in 2021 and Veysonnaz in 2022.</span></p><p><span style=\"font-size: 11pt;\">Following the Olympic Winter Games Beijing 2022, Thelen took time away from competition to focus on starting a family. During her hiatus, Gulini remained connected to winter sports and discovered a new passion for pickleball. For the 2025-26 season, Thelen made her return to competitive snowboard cross, bringing her children Theo and Scarlett along for the journey.</span></p><h5>Olympic Experience</h5><ul><li>5-time Olympian</li><ul><li>Olympic Games Milan 2026, 7th (Snowboardcross - Women), 15th (Snowboard Cross Team - Mixed)</li><li>Olympic Games Beijing 2022, 9th (Snowboard Cross Team - Mixed), 13th (Snowboardcross - Women)</li><li>Olympic Games Pyeongchang 2018, 21th (Snowboardcross - Women)</li><li>Olympic Games Sochi 2014, 4th (Snowboardcross - Women)</li><li>Olympic Games Vancouver 2010, 12th (Snowboardcross - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 7th (Snowboard Cross Team - Mixed), 9th (Snowboardcross - Women)</li><li>Years of participation: Snowboard Cross Team - Mixed 2021, 2023; Snowboardcross - Women 2011, 2013, 2015, 2017, 2021, 2023; Snowboard Cross Team - Women 2017; Slopestyle - Women 2011</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (Snowboard Cross Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661989/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Guilini_f_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770250877/Thelen-F_main_844418.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684891804/TeamUSA%20Assets/Migration/Gulini_Faye_112621_1440x810_Updated.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004569/TeamUSA%20Assets/Athlete%20Profiles/Faye%20Gulini%20844418/gulini_faye_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Faye Gulini 844418"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Snowboarding"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Cory",
+      "last_name": "Thiesse",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1994-12-12T00:00:00",
+        "hometown": {
+          "city": "Duluth",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 46.7867,
+          "longitude": -92.1005
+        },
+        "education": "University of Minnesota Duluth",
+        "fun_fact": " She works as a lab technician outside of curling",
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong>Specialty</strong></span><span>: Women’s Curling, Mixed Doubles</span></li><li>Daughter to Linda Christensen, who also competed for Team USA</li><li>She works as a lab technician outside of curling</li><li><p>Won the 2025 U.S. Olympic Team Trails - Mixed Doubles with partner Korey Dropkin to help qualify to the Olympic Winter Games Milano Cortina 2026</p></li></ul><h5>Biographical Information</h5><p><span>Cory Thiesse (née Christensen), born in Duluth, Minnesota, began her curling career at the St. Paul Curling Club, where she gained recognition for her talent and strategic insight.</span></p><p><span>Her dedication to the sport led her to represent Team USA in various national and international competitions. Thiesse is committed to growing curling at the grassroots level and fostering the next generation of curlers. Outside of her career, she enjoys spending time with family and volunteering at her local curling club.</span><span></span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Milan 2026, silver (Doubles - Mixed), 4th (Team - Women)</li><li>Olympic Games Pyeongchang 2018, 8th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 5th (Doubles - Mixed), 12th (Team - Women)</li><li>Years of participation: Doubles - Mixed 2019, 2023, 2025; Team - Women 2017, 2022, 2023, 2024, 2025</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2023 (Doubles - Mixed)</li><li>Bronze – 2019 (Doubles - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747247602/TeamUSA%20Assets/Athlete%20Profiles/Cory%20Christensen%20840321/thiesse_c_bio_840321.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747247583/TeamUSA%20Assets/Athlete%20Profiles/Cory%20Christensen%20840321/thiesse_c_hero_840321.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1762972898/TeamUSA%20Assets/Qualification%20Cards/Cory_Thiesse_QualificationCard.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005201/TeamUSA%20Assets/Athlete%20Profiles/Cory%20Christensen%20840321/christensen_cory_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cory Christensen 840321"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Curling"
+        },
+        {
+          "title": "2026 U.S. Olympic Curling Team"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Thoennes",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1995-09-20T00:00:00",
+        "hometown": {
+          "city": "Highlands Ranch",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.5594,
+          "longitude": -104.9694
+        },
+        "education": " University of Washington ‘18",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Chris and Sue; two sisters are Olivia and Camille</li><li>Walked on to the University of Washington women's rowing team</li><li>Considers having the first sweep in NCAA history as one of her favorite sporting accomplishments</li><li>Loves learning, reading, gardening, hiking in the mountains and drinking coffee</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 4th (Pair - Women)</li><li>Olympic Games Tokyo 2020, 4th (Eight - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Eight - Women)</li><li>Years of participation: Eight - Women 2022, 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Eight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713376246/TeamUSA%20Assets/News/Thoennes_Czajkowski_trials_2024.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1727975253/TeamUSA%20Assets/Athlete%20Profiles/Jessica%20Thoennes%201087831/thoennes_j_hero_1087831.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1727975253/TeamUSA%20Assets/Athlete%20Profiles/Jessica%20Thoennes%201087831/thoennes_j_hero_1087831.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009534/TeamUSA%20Assets/Athlete%20Profiles/Jessica%20Thoennes%201087831/Thoennes_Jessica_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Thoennes 1087831"
+        }
+      ]
+    },
+    {
+      "first_name": "Lorenzo",
+      "last_name": "Thomas",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1997-01-22T00:00:00",
+        "hometown": {
+          "city": "Tulsa, Okla. ",
+          "state": "OK",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Tulsa Union High School (Tulsa, Okla.) Lindenwood University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Amanda Courchesne</li><li>Began playing rugby at age 17</li><li>Christmas is his favorite holiday</li><li>Favorite movies include Saving Private Ryan, Avatar and Remember the Titans.</li></ul><h5>More</h5>USA Rugby<h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Team - Men)</li><li>Pan American Games, Lima, 2019 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362084/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lorenzo%20Thomas/Thomas_Lorenzo.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lorenzo Thomas"
+        }
+      ]
+    },
+    {
+      "first_name": "Kristen",
+      "last_name": "Thomas",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1993-07-01T00:00:00",
+        "hometown": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.95258,
+          "longitude": -75.16522
+        },
+        "education": "John W. Hallahan Girls High School (Philadelphia, Pa.) University of Central Florida ’15, Theater Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Kimberli Jenkins and Larry Thomas</li><li>Began playing rugby as a freshman in college</li><li>Volunteers with HandsOn San Diego at Kitchens for Good and with the Boys and Girls Club</li><li>Hobbies include carpentry, baking, volunteering, cooking, roller skating, video games and sewing.</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2018, 2022</li><li>Top finish: 4th – 2018 (Team - Women), 2022 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721753088/TeamUSA%20Assets/Athlete%20Profiles/Kristen%20Thomas%20876197/Thomas_K_bio_876197.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721753090/TeamUSA%20Assets/Athlete%20Profiles/Kristen%20Thomas%20876197/Thomas_K_thumbnail_876197.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721753090/TeamUSA%20Assets/Athlete%20Profiles/Kristen%20Thomas%20876197/Thomas_K_thumbnail_876197.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kristen Thomas 876197"
+        },
+        {
+          "title": "Rugby"
+        }
+      ]
+    },
+    {
+      "first_name": "Leah",
+      "last_name": "Thomas",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1989-05-30T00:00:00",
+        "hometown": {
+          "city": "Boulder Creek",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.1147,
+          "longitude": -122.1197
+        },
+        "education": " Northwestern University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>After competing as a stagier in the 2015 World Championship Team Time Trial, Leah raced for her first professional team in 2016</li><li>Began riding as a way to momentarily escape the stresses of being a first-year teacher</li><li>Likes to spend time with family and friends on spontaneous outdoor adventures</li><li>Enjoys time to herself curled up with a book, experimenting in the kitchen, and traveling to new places</li><li>Passionate about social justice</li><li>Grew up as a competitive gymnast</li><li>Attended Northwestern University outside Chicago where she began to dabble in long distance running, completing her first marathon that year</li><li>Developed severe plantar fasciitis and was forced to quit running – to fill the running’s absence, she picked up a bicycle and quickly became hooked.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 29th (Road race - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 5th (Individual time trial - Women), 38th (Road race - Women)</li><li>Years of participation: Individual time trial - Women 2018, 2019, 2021, 2022; Road race - Women 2018, 2019, 2021, 2022; Mixed Team Relay - Mixed 2021; Team time trial - Women 2015, 2016</li><li>Top finish:  – 2018 (Road race - Women)</li></ul><h5>More</h5>USA Cycling",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662087/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/thomas_l_bio_816654.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": null,
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662666/TeamUSA%20Assets/Athlete%20Profiles/Leah%20Thomas%20816654/thomas_l_hero_816654.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009525/TeamUSA%20Assets/Athlete%20Profiles/Leah%20Thomas%20816654/Thomas_Leah_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Leah Thomas 816654"
+        }
+      ]
+    }
+  ]
+}

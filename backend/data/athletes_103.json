@@ -1,0 +1,957 @@
+{
+  "entries": [
+    {
+      "first_name": "Ben",
+      "last_name": "Meyers",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1998-11-15T00:00:00",
+        "hometown": {
+          "city": "Delano",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.0408,
+          "longitude": -93.7919
+        },
+        "education": "Delano High School (Delano, Minn.) ‘17 University of Minnesota ‘23",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Steve and Traci Meyers</li><li>Has one brother, Nate</li><li>Father played hockey at UW-River Falls</li><li>Brother played baseball at Minnesota State</li><li>The first player in Gopher Hockey history to wear No. 39.</li></ul><h5>Career Highlights</h5><ul><li>2021 Big Ten Men’s Ice Hockey Tournament Champion</li><li>2018 USHL Clark Cup Champion</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Men)</li><li>Years of participation: Team - Men 2022</li><li>Top finish: 4th – 2022 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687362522/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ben%20Meyers/meyers_ben_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ben Meyers"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Becca",
+      "last_name": "Meyers",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1994-11-20T00:00:00",
+        "hometown": {
+          "city": "Baltimore",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.2904,
+          "longitude": -76.6122
+        },
+        "education": "Notre Dame Preparatory (Towson, Md.) ‘13 Franklin and Marshall ’21, History",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Meyers began to swim in 2000 at age six in Baltimore, Maryland. She has Usher syndrome and has been deaf since she was born. Since she was young she has used a cochlear implant, an electronic device that allows her to hear. At the 2012 Paralympic Games in London, she was the only deaf athlete on the U.S. Paralympic swim team</li><li>Daughter of Wade Mark Meyers and Maria Dachille Meyers</li><li>Has a brother, Timothy, and one sister, Elizabeth</li><li>Has a seeing eye dog named Birdie</li><li>Hobbies include reading, traveling, baking cupcakes, listening to music and hanging out with friends</li><li>Won the 2015 Best Female Athlete with a Disability ESPY Award</li><li>List South African swimmer Terence Parkin as her idol/hero.</li></ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 6-time Paralympic medalist (3 gold, 2 silver, 1 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, gold (100m Butterfly S13 - Women, 200m Individual Medley SM13 - Women, 400m Freestyle S13 - Women), silver (100m Freestyle S13 - Women), 6th (50m Freestyle S13 - Women)</li><li>Paralympic Games London 2012, silver (200m Individual Medley SM13 - Women), bronze (100m Freestyle S13 - Women), 5th (50m Freestyle S13 - Women), 9th (100m Breaststroke SB13 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (400m Freestyle S13 - Women), silver (200m Individual Medley SM13 - Women), bronze (100m Butterfly S13 - Women, 100m Freestyle S12 - Women), 5th (100m Breaststroke SB12 - Women), 6th (50m Freestyle S12 - Women)</li><li>Years of participation: 100m Breaststroke SB12 - Women 2019; 100m Butterfly S13 - Women 2013, 2015, 2017, 2019; 100m Freestyle S12 - Women 2019; 200m Individual Medley SM13 - Women 2013, 2015, 2019; 400m Freestyle S13 - Women 2013, 2015, 2017, 2019; 50m Freestyle S12 - Women 2019; 100m Breaststroke SB13 - Women 2015, 2017; 100m Freestyle S13 - Women 2013, 2015, 2017; 50m Freestyle S13 - Women 2013, 2015, 2017</li><li>Medals: 15 (6 gold, 6 silver, 3 bronze)</li><ul><li>Gold – 2019 (400m Freestyle S13 - Women);  2017 (400m Freestyle S13 - Women);  2015 (200m Individual Medley SM13 - Women, 400m Freestyle S13 - Women);  2013 (200m Individual Medley SM13 - Women, 400m Freestyle S13 - Women)</li><li>Silver – 2019 (200m Individual Medley SM13 - Women);  2017 (100m Butterfly S13 - Women, 100m Freestyle S13 - Women);  2015 (100m Butterfly S13 - Women);  2013 (100m Butterfly S13 - Women, 100m Freestyle S13 - Women)</li><li>Bronze – 2019 (100m Butterfly S13 - Women, 100m Freestyle S12 - Women);  2017 (100m Breaststroke SB13 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S12, SB12, SM12",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006776/TeamUSA%20Assets/Athlete%20Profiles/Becca%20Meyers%20852799/Meyers_Rebecca_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Becca Meyers 852799"
+        }
+      ]
+    },
+    {
+      "first_name": "Elana",
+      "last_name": "Meyers Taylor",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1984-10-10T00:00:00",
+        "hometown": {
+          "city": "Douglasville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.7501,
+          "longitude": -84.7477
+        },
+        "education": "George Washington University",
+        "fun_fact": "Her five medals are the most by any Black athlete in Winter Olympics history",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality: </strong>Monobob, 2-woman bobsled</li><li>Daughter of Jan and Eddie Myers<ul><li>Father played football at the United States Naval Academy</li></ul></li><li>Married, Nic Taylor, a two-time Olympic alternate for the U.S. bobsled team</li><li>Has two boys, Nico and Noah</li><li>Her five medals are the most by any Black athlete in Winter Olympics history</li><li>Played for the USA Rugby Women's Sevens team in 2014</li></ul><h5>Biographical Information</h5><p>Growing up near Atlanta, Elana Meyers Taylor's earliest memory of the Olympics was 1996 when she got to hold the torch as an 11-year-old girl. Meyers Talyor would excel in multiple sports in high school and attend George Washington University on a softball scholarship, playing shortstop and pitcher. After college, Elana began her bobsled career in 2007 making the national team in her rookie season and starting her transformation into one of the all-time greats in the sport where she currently has more Olympic medals than any other woman in bobsled.</p><p>Meyers Taylor made her Olympic debut at the Olympic Winter Games Vancouver 2010 as a push athlete for Eric Pac where they would win the bronze medal. The following year, she transitioned to be a bobsled pilot and would win a silver medal at the Olympic Winter Games Sochi 2014  driving the sled. At the Olympic Winter Games Beijing 2022, Meyers Taylor became the most decorated Black athlete in Winter Olympic history by winning two medals a silver in women's monobob and a bronze in 2-woman bobsled.</p><p>Meyers Taylor is a mother to two children, Nico and Noah, both who are deaf. She is learning American Sign Language (ASL) to communicate better with her two sons. Meyers Taylor has been an advocate for children with disabilities and has worked with various Down Syndrome organizations since her son, Nico, has the genetic condition.</p><h5>Olympic Experience</h5><ul><li>5-time Olympian; 6-time Olympic medalist (1 gold, 3 silver, 2 bronze)</li><ul><li>Olympic Games Milan 2026, gold (Monobob - Women), 7th (2-Man Competition - Women)</li><li>Olympic Games Beijing 2022, silver (Monobob - Women), bronze (2-Man Competition - Women)</li><li>Olympic Games Pyeongchang 2018, silver (2-Man Competition - Women)</li><li>Olympic Games Sochi 2014, silver (2-Man Competition - Women)</li><li>Olympic Games Vancouver 2010, bronze (2-Man Competition - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – bronze (Monobob - Women), 6th (2-Man Competition - Women)</li><li>Years of participation: 2-Man Competition - Women 2008, 2009, 2011, 2012, 2013, 2015, 2016, 2017, 2019, 2021, 2024, 2025; Monobob - Women 2021, 2024, 2025; Team Competition - Mixed 2011, 2012, 2013, 2015, 2016, 2017</li><li>Medals: 10 (4 gold, 3 silver, 3 bronze)</li><ul><li>Gold – 2017 (2-Man Competition - Women);  2015 (2-Man Competition - Women);  2013 (Team Competition - Mixed);  2012 (Team Competition - Mixed)</li><li>Silver – 2024 (Monobob - Women);  2013 (2-Man Competition - Women);  2009 (2-Man Competition - Women)</li><li>Bronze – 2025 (Monobob - Women);  2016 (2-Man Competition - Women);  2012 (2-Man Competition - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1747365228/TeamUSA%20Assets/Athlete%20Profiles/Elena%20Meyers%20Taylor%20806867/taylor_elena-meyers_806867_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684929529/TeamUSA%20Assets/Migration/Pages/MeyersTaylor_Elana_091021_1440x810_UpdatedWIB.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1771278280/MeyersTaylor_featured_806867.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1683131522/NGB%20Bobsled%20and%20Skeleton/Migration/Athlete%20Profiles/Elana%20Meyers%20Taylor/ElanaMeyersTaylor.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elana Meyers Taylor"
+        },
+        {
+          "title": "Bobsled"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Tyler",
+      "last_name": "Micheli",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1983-10-20T00:00:00",
+        "hometown": {
+          "city": "Pueblo",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.2545,
+          "longitude": -104.6091
+        },
+        "education": "Colorado School of Mines",
+        "fun_fact": null,
+        "biography": "<div>Results:</div><div><ul><li><strong>2010-2011 America's Cup</strong><strong><br bold=\"[object Object]\"/></strong>-11th in Lake Placid #1 (1/11), 10th in Lake Placid #2 (1/11), 9th in Calgary #1 (1/11), 13th in Calgary #2 (1/11)&nbsp;</li><li><strong>2011 National Championships - 9th</strong></li></ul></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Skeleton",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1746651656/TeamUSA%20Assets/Athlete%20Profiles/Tyler%20Micheli/micheli-tyler.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tyler Micheli"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Michener",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1987-05-24T00:00:00",
+        "hometown": {
+          "city": "Gresham",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5001,
+          "longitude": -122.4334
+        },
+        "education": "University of Idaho",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began bobsledding in 2014</li><li>He can wiggle his ears</li><li>He loves to play video games</li><li>He loves to watch movies.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017-2018 Four-Man World Cup for pilot Nick Cunningham- T-12th in Park City #1 (11/17); 16th in Park City #2 (11/17); 20th in Winterberg (12/17); 23rd in Igls (12/17)</li>\r\n                            <li>2017-2018 Four-Man North American Cup for pilot Nick Cunningham - SILVER in Park City #1 (11/17); GOLD in Park City #2 (11/17); GOLD in Lake Placid #1 (1/18);</li>\r\n                            <li>2017-2018 Four-Man North American Cup for pilot Hunter Church - GOLD in Lake Placid #2 (1/18)</li>\r\n                            <li>2016-2017 Four-Man World Cup for pilot Justin Olsen - 21st in Igls (2/17); 15th in Pyeongchang (3/17)</li>\r\n                            <li>2016-2017 Four-Man World Cup for pilot Codie Bascue - 4th in Lake Placid (12/16); 15th in Altenberg (1/17); 21st in Koenigssee (1/17)</li>\r\n                            <li>2016-2017 Four-Man World Cup for pilot Steven Holcomb - 4th in Whistler (12/16); 15th in St. Moritz (1/17)</li>\r\n                            <li>2015-2016 Four-Man World Cup for pilot Nick Cunningham - 14th in Altenberg (11/15); 13th in Winterberg (12/15); 14th in Koenigssee (12/15); 9th in Lake Placid (1/16); 12th in Park City #1 (1/16); 13th in Park City #2 (1/16); 22nd in St. Moritz (2/16)</li>\r\n                            <li>2014-2015 Four-Man World Cup for pilot Steven Holcomb - 13th in St. Moritz (1/15); 8th in La Plagne (2/15); 9th in Igls (2/15); 9th in Sochi (2/15)</li>\r\n                            <li>2014-2015 Two-Man World Cup for pilot Nick Cunningham - 13th in Koenigssee (1/15)</li>\r\n                            <li>2014-2015 Four-Man World Cup for pilot Nick Cunningham - 5th in Lake Placid (12/14); 12th in Calgary (12/14); 17th in Altenberg (1/15); 13th in Koenigssee (1/15)</li>\r\n                            <li>2014-2015 Four-Man North American Cup for pilot Nick Cunningham - GOLD in Park City (11/14)</li>\r\n                            <li>2012-2013 Two-Man North American Cup for pilot Jake Peterson, Codie Bascue and Colin Coughlin - 5th in Park City #1 (11/12), GOLD in Calgary #2 (11/12), GOLD in Calgary #3 (12/12), 12th in Calgary #4 (12/12), SILVER in Calgary #5 (12/12), SILVER in Lake Placid #1 (3/13), 5th in Lake Placid #2 (3/13)</li>\r\n                            <li>2012-2013 Four-Man North American Cup for pilot Codie Bascue - GOLD in Park City #1 (11/12), GOLD in Park City #2 (11/12), GOLD in Calgary #1 (11/12), SILVER in Calgary #2 (11/12), BRONZE in Calgary #3 (12/12), BRONZE in Calgary #4 (12/12), 5th in Calgary #5 (12/12), GOLD in Lake Placid #1 (3/13), GOLD in Lake Placid #2 (3/13)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 19th (4-Man Competition - Open)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 11th (4-Man Competition - Open)</li><li>Years of participation: 4-Man Competition - Open 2015, 2016, 2017</li><li>Top finish: 8th – 2015 (4-Man Competition - Open)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347538/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sam%20Michener/Michener.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Michener"
+        }
+      ]
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Michta-Coffey",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1986-06-23T00:00:00",
+        "hometown": {
+          "city": "Nesconset",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.8695,
+          "longitude": -73.1001
+        },
+        "education": "Sachem High School (Lake Ronkonkoma, N.Y.) ‘04 Long Island University C.W. Post ’08, Biology (undergraduate); Mount Sinai School of Medicine ‘14, Biomedical Sciences, Microbiology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Susan and Richard Michta</li><li>Married her high school sweetheart, Joe Coffey, in 2014</li><li>Has a brother, Ricky, and two sisters, Kristie and Katie</li><li>Was inspired to pursue her Olympic dream while watching U.S. gymnast Kerri Strug stick her vault landing at the 1996 Olympic Games, and while she first thought that soccer was her calling, she began to excel in race walk in high school</li><li>Graduated from Long Island University C.W. Post as the valedictorian with a degree in biology, missing her commencement to compete at the 2008 World Cup</li><li>Hobbies include reading nonfiction books about viruses, microbes, vaccines and thriller fiction novels, running and swimming</li><li>Serves as a volunteer coach for the track and field team at Sachem East High School in New York.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, 7th (20K race walk) </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 22th (20km Walk - Women)</li><li>Olympic Games London 2012, 26th (20km Walk - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2023 – 24th (35km Walk - Women)</li><li>Years of participation: 35km Walk - Women 2023; 20km Walk - Women 2015, 2016, 2017, 2018; 20km Walk Team - Women 2016, 2018</li><li>Top finish:  – 2016 (20km Walk - Women)</li></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347397/TeamUSA%20Assets/Migration/Athlete%20Profiles/Maria%20Michta-Coffey/michtacoffey_maria_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Maria Michta-Coffey"
+        }
+      ]
+    },
+    {
+      "first_name": "Erik",
+      "last_name": "Middendorf",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2000-07-11T00:00:00",
+        "hometown": {
+          "city": "Scottsdale",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4942,
+          "longitude": -111.9261
+        },
+        "education": "Pinnacle High School (Phoenix, Arizona) ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" ><br>\n            </td>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\" ></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5></p>\n<ul>\n    <li>2014-15 leading scorer in Tier 1 Elite League U14</li>\n    <li>2015 WHL Combine Top Forward</li>\n    <li>2014-15 Arizona U14 Tier 1 champion</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Son of Matthew and Christine Middendorf</li><li>Has four siblings, Connor, Lauren, Molly and Morgan</li><li>Uncle, Max Middendorf, played for Team USA at the 1986 World Junior Championships</li><li>Grandfather, Frank Middendorf, was selected by the Washington Redskins in the 1952 NFL Draft</li><li>Participated in the 2015 USA Hockey U15 Select Camp</li><li>Drafted No. 67 overall in the WHL by the Moose Jaw Warriors and was the third American player selected</li><li>Hobbies include fishing and working out.</li></ul><br>\n<br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006877/TeamUSA%20Assets/Athlete%20Profiles/Erik%20Middendorf%20906861/IceHockey_Middendorf_Erik_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Erik Middendorf 906861"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Middlestaedt",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1996-02-01T00:00:00",
+        "hometown": {
+          "city": "Saint Cloud",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.5576,
+          "longitude": -94.1633
+        },
+        "education": "Saint Cloud Technical High School ‘14 (Saint Cloud, Minn.) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started racing when he was 13</li><li>Spent his winters in high school Nordic skiing</li><li>Grew up working in a bike shop</li><li>Enjoys coaching and mechanic work in his free time</li><li>Considers himself a proud Minnesotan</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 –  (C3 - Time Trial - Men), 14th (C3 - Road Race - Men)</li><li>Years of participation: C3 - Road Race - Men 2019, 2022, 2023; C3 - Time Trial - Men 2019, 2022, 2023; C3 - 1000m Time Trial - Men 2020; C3 - 3km Pursuit - Men 2020; C3 - Omnium - Men 2020; C3 - Scratch Race - Men 2020</li><li>Top finish:  – 2023 (C3 - Time Trial - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662029/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/middlesaed_n_bio_820088.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "C3",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662687/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Middlestaedt%20820088/middlestaedt_n_hero_820088.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006850/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Middlestaedt%20820088/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Middlestaedt 820088"
+        }
+      ]
+    },
+    {
+      "first_name": "Khris",
+      "last_name": "Middleton",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1991-08-12T00:00:00",
+        "hometown": {
+          "city": "Charleston",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 32.7765,
+          "longitude": -79.9311
+        },
+        "education": "Porter-Gaud School (Charleston, S.C.) ‘09 Texas A&M University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of James and Nichelle Middleton</li><li>Has one older sister, Brittney</li><li>Cousin, Josh Powell, has played in the NBA</li><li>Another cousin, Kenny Manigault, played basketball for Wichita State University</li><li>Launched the Kevin Love Fund in 2018 to inspire people to work on their physical and mental well-being</li><li>Hosted a winter coat drive to support the local Salvation Army during each of his first five NBA seasons</li><li>Awarded the December 2012 KIA Community Assist Award</li><li>As a junior and senior in high school, he was named South Carolina Player of the Year</li><li>named 2007 Gatorade National Male Athlete of the Year</li></ul><h5>Career Highlights</h5><ul><li>Two-time NBA All-Star (2019, 2020)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2019 – 7th</li><li>Years of Participation: 2019</li><li>Top Finish: 7th – 2019</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006854/TeamUSA%20Assets/Athlete%20Profiles/Khris%20Middleton%201193008/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Khris Middleton 1193008"
+        }
+      ]
+    },
+    {
+      "first_name": "Andy",
+      "last_name": "Miele",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1988-04-15T00:00:00",
+        "hometown": {
+          "city": "Grosse Pointe Woods",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.4317,
+          "longitude": -82.9099
+        },
+        "education": " Miami University ‘11",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Miele married his wife Hilary in the Summer of 2016</li><li>The two had their first child Bonnie in 2019</li><li>Miele is a member of the Advisory Board for You Can Play, a campaign dedicated to fighting homophobia in sports.</li></ul><h5>Career Highlights</h5><ul><li>2018 SHL Champion</li><li>2011 CCHA Champion</li><li>2010 CCHA Champion</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Beijing 2022, 5th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2014 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2011, 2014</li><li>Top finish: 6th – 2014 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680009936/TeamUSA%20Assets/Athlete%20Profiles/Andy%20Miele%201086708/meile_andy_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Andy Miele 1086708"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Mikesell",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1999-09-30T00:00:00",
+        "hometown": {
+          "city": "Massillon",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.7939,
+          "longitude": -81.5378
+        },
+        "education": "Jackson High School (Massillon, Ohio) ‘18 University of Maryland ‘22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Kevin and Theresa Mikesell</li><li>Has one brother, Clarke</li><li>Makes 500 shots before games</li><li>Lists Trae Young, Lebron James and Steph Curry as her sports heroes.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Team - Women)</li><li>World Championship U-17, Zaragoza, 2016 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006869/TeamUSA%20Assets/Athlete%20Profiles/Taylor%20Mikesell%201155448/mikesell_taylor.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylor Mikesell 1155448"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Miklasevich",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1997-07-17T00:00:00",
+        "hometown": {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.44062,
+          "longitude": -79.99589
+        },
+        "education": "Central Catholic High School (Pittsburgh, Pa.) Brown University (Providence, R.I.) ‘19",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>His hobbies are swimming, playing video games, eating and going fast</li><li>He said the most influential people in his rowing career are his brother, Matthew, and his coach, Jay Hammond</li><li>His greatest rowing accomplishment was winning the SRAA Championships in the varsity eight.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 World Rowing Under 23 Championships, silver (eight)</li>\r\n                            <li>2019 World Rowing Cup III, 7th (eight)</li>\r\n                            <li>2018 World Rowing Under 23 Championships, gold (four)</li>\r\n                            <li>2014 World Rowing Junior Championships, 10th (four)</li>\r\n                            <li>2013 World Rowing Junior Championships, 8th (four)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>One-time Olympian (2020)</li><li>Olympic Games Tokyo 2020, 4th (eight)</li></ul><h5>More</h5>US Rowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347549/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Miklasevich/Miklasevich_Alex_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Miklasevich"
+        }
+      ]
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "Miklovic",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1999-05-23T00:00:00",
+        "hometown": {
+          "city": "Caro",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.4886,
+          "longitude": -83.4005
+        },
+        "education": "Unionville-Sebewaing Area Patriots",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Pete and Laurie</li><li>Has one sibling, Nathan</li><li>Dream job is to coach baseball or softball</li></ul><h5> World Championship Experience</h5><ul><li>2018 WBSC Junior Men's World Championship; Hit .125 (1-for-8) with one RBI  and one run scored</li></ul><h5>More</h5><p class=\"s10\"><strong>GETTING TO KNOW MIKLOVIC</strong></p>\n<p class=\"s10\"><strong>Favorite Movie:&nbsp;</strong>The Judge</p>\n<p class=\"s10\"><strong>Favorite Meal:</strong>&nbsp;Hamburger, mashed potatoes and steamed broccoli&nbsp;</p>\n<p class=\"s10\"><strong>Favorite TV Show:&nbsp;</strong>The Office</p>\n<p class=\"s10\"><strong>Favorite Professional Sports Team: </strong>Detroit Tigers, Minnesota Vikings, New England Patriots</p>\n<p class=\"s10\"><br>\n</p>\n<p class=\"s10\"><strong>Q&amp;A WITH MIKLOVIC</strong></p>\n<p class=\"s10\"><strong>What does it mean for you to represent the United States?</strong>&nbsp;\"It is a great honor to represent my country. It has been my dream since I began playing softball.\"</p>\n<p class=\"s10\"><strong>What was your first memory of USA Softball/Olympics? </strong>\"My first memory I have of Team USA was playing against the Junior Men's Team in Midland, Mich. and the following year I watched them compete in the WBSC Junior Men's Softball World Championship in Midland.\"</p>\n<p class=\"s10\"><strong>What do you most enjoy about softball?&nbsp;</strong>\"The fast pace of the game and the relationships between teammates make the game exciting and enjoyable.\"</p>\n<p class=\"s10\"><strong>How did you get started playing softball?</strong> \"My dad encouraged me to try the sport while I was still playing baseball. I came to love softball as much as I love baseball.\"</p>\n<p class=\"s10\"><strong></strong><strong>Who were your softball role models growing up?</strong> \"My dad, grandpa, great grandpa and Delbert Benson. Each of them has a long history playing fast pitch and has helped me become the player I am today.\"</p>\n<p class=\"s10\"><strong></strong><strong>Did you play any other sports growing up?</strong> \"Baseball and basketball\"</p>\n<p class=\"s10\"><strong></strong><strong>What non-softball sport would you like to try?</strong> \"Football\"</p>\n<p class=\"s10\"><strong>What is the best piece of advice you ever received?</strong> \"Play loose and have fun.\"</p>\n<p class=\"s10\"><strong>What's your personal motto?</strong> \"Treat others with the respect they deserve.\"</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347576/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paul%20Miklovic/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347577/TeamUSA%20Assets/Migration/Athlete%20Profiles/Paul%20Miklovic/MilklovicPaul.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paul Miklovic"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Mikulak",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-10-13T00:00:00",
+        "hometown": {
+          "city": "Newport Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6189,
+          "longitude": -117.9289
+        },
+        "education": "Corona del Mar High School (Newport Beach, Calif.) ‘10 University of Michigan ‘15, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Steve and Tina Mikulak</li><li>Has one younger sister, Alex</li><li>Won back-to-back NCAA all-around titles in leading the University of Michigan to consecutive national team titles (2013-14)</li><li>Named the 2014 Nissen-Emery award recipient</li><li>A year before the 2012 Olympic Games, he broke both of his ankles, but was able to utilize the time off his feet to better himself on pommel horse and still rings</li><li>Co-founded an herbal tea company called Mat&#233;Bros with two of his gymnastics friends</li><li>Enjoys long boarding, beatboxing, skeet shooting and playing tennis, soccer, football and golf</li><li>Began gymnastics at age 2</li><li>Favorite event is high bar.</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 5th (Team - Men), 6th (Parallel Bars - Men), 12th (Individual All-Around - Men), 15th (Floor Exercise - Men), 23th (Pommel Horse - Men), 25th (Rings - Men), 54th (Horizontal Bar - Men)</li><li>Olympic Games Rio de Janeiro 2016, 4th (Horizontal Bar - Men), 5th (Team - Men), 7th (Individual All-Around - Men), 8th (Floor Exercise - Men), 14th (Parallel Bars - Men), 24th (Rings - Men), 60th (Pommel Horse - Men)</li><li>Olympic Games London 2012, 5th (Team - Men, Vault - Men), 12th (Floor Exercise - Men), 13th (Parallel Bars - Men), 20th (Pommel Horse - Men), 43th (Horizontal Bar - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 4th (Team - Men), 5th (Horizontal Bar - Men), 7th (Individual All-Around - Men), 28th (Parallel Bars - Men), 44th (Rings - Men), 85th (Pommel Horse - Men), 189th (Floor Exercise - Men)</li><li>Years of participation: Floor Exercise - Men 2013, 2014, 2018, 2019; Horizontal Bar - Men 2013, 2014, 2017, 2018, 2019; Individual All-Around - Men 2013, 2014, 2018, 2019; Parallel Bars - Men 2013, 2014, 2018, 2019; Pommel Horse - Men 2013, 2014, 2018, 2019; Rings - Men 2013, 2014, 2018, 2019; Team - Men 2014, 2018, 2019</li><li>Medals: 2 (2 bronze)</li><ul><li>Bronze – 2018 (Horizontal Bar - Men);  2014 (Team - Men)</li></ul></ul><h5>More</h5>USA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006873/TeamUSA%20Assets/Athlete%20Profiles/Sam%20Mikulak%20914581/Mikulak_Sam.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Mikulak 914581"
+        }
+      ]
+    },
+    {
+      "first_name": "Mindy",
+      "last_name": "Miles",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1996-05-22T00:00:00",
+        "hometown": {
+          "city": "Weatherford",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7597,
+          "longitude": -97.7939
+        },
+        "education": "Weatherford High School (Weatherford, Texas) Texas Christian University ‘18 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jackson and Darla Miles</li><li>Has one sister, Caroline</li><li>Hobbies include hunting and fishing.</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 18th (10m Air Rifle - Team - Mixed), 55th (10m Air Rifle - Women)</li><li>Years of participation: 10m Air Rifle - Team - Mixed 2018; 10m Air Rifle - Women 2018</li><li>Top finish: 18th – 2018 (10m Air Rifle - Team - Mixed)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (10m Air Rifle - Team - Mixed, 10m Air Rifle - Women)</li><li>Junior World Championships, Granada, 2014 (10m Air Rifle - Team - Women, 10m Air Rifle - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006831/TeamUSA%20Assets/Athlete%20Profiles/Mindy%20Miles%20851353/Miles_Mindy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mindy Miles 851353"
+        }
+      ]
+    },
+    {
+      "first_name": "Emil",
+      "last_name": "Milev",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1968-05-02T00:00:00",
+        "hometown": {
+          "city": "Tampa",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9642,
+          "longitude": -82.4584
+        },
+        "education": "Electronic High School A.S. Popov (Sofia, Bulgaria) ‘87 Bulgaria National Sports Academy ’01, Physical Education/Coaching",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Ivan Milev and Vania Vassileva</li><li>Has one sister, Marta, and two brothers, Zlatko and Alexander</li><li>Married his wife, Anina, in 1991</li><li>Has one daughter, Alexa, and one son, Philip</li><li>His family moved to the U.S. in 2004 and he became a U.S. citizen in 2009</li><li>Speaks Russian and Bulgarian</li><li>Interests include reading and running</li><li>Teaches physical education at B.T. Washington Elementary in Tampa, Florida.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, 5th </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>6-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, 12th (25m Rapid Fire Pistol - Men)</li><li>Olympic Games London 2012, 13th (25m Rapid Fire Pistol - Men)</li><li>Olympic Games Athens 2004, 9th (25m Rapid Fire Pistol - Men)</li><li>Olympic Games Sydney 2000, 4th (25m Rapid Fire Pistol - Men)</li><li>Olympic Games Atlanta 1996, silver (25m Rapid Fire Pistol - Men)</li><li>Olympic Games Barcelona 1992, 20th (25m Rapid Fire Pistol - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 26th (25m Rapid Fire Pistol - Men), 49th (25m Standard Pistol - Men)</li><li>Years of participation: 25m Rapid Fire Pistol - Men 1994, 2002, 2006, 2010, 2014; 25m Standard Pistol - Men 2010, 2014; 25m Rapid Fire Pistol - Team - Men 2010</li><li>Medals: 2 (1 silver, 1 bronze)</li><ul><li>Silver – 1994 (25m Rapid Fire Pistol - Men)</li><li>Bronze – 2010 (25m Rapid Fire Pistol - Team - Men)</li></ul></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682718246/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emil%20Milev%20826181/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992, 1996, 2000, 2004, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [],
+      "content_tags": [
+        {
+          "title": "Emil Milev 826181"
+        }
+      ]
+    },
+    {
+      "first_name": "Nichole",
+      "last_name": "Millage",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1977-03-27T00:00:00",
+        "hometown": {
+          "city": "Champaign",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 40.1164,
+          "longitude": -88.2434
+        },
+        "education": "University of Central Oklahoma",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Philmena Schnepper and Dennis Millage. Step-Father is C. David Schnepper</li><li>Has a step-brother named Brett Schnepper (1985) and a half sister named Hanna Millage (2000)</li><li>Works as an environmental sustainability specialist for the City of Champaign</li><li>Enjoys sushi, seafood and pizza</li><li>Favorite team is the Chicago Cups and favorite athlete is Clay Stanley</li><li>Hobbies include going to the movies and beach, scrapbooking and bike riding</li></ul><h5>Career Highlights</h5><ul><li>2019: World ParaVolley World Super 6 (Gold)</li><li>2019: Parapan American Games (Gold)</li><li>2019: USA Exhibitions vs Canada at Colorado Crossroads; USA Exhibitions vs Russia at USAV Nationals</li><li>2018: USA Exhibitions vs Russia and Canada at Colorado Crossroads; USA Exhibitions vs Canada at USAV Nationals</li><li>2016: World ParaVolley Intercontinental Cup (Gold); Exhibition tournament vs. Russia; Dutch Tournament (First)</li><li>2015: ParanPan American Games (Gold)</li><li>2013: ParaVolley Pan American Sitting Volleyball Zonal Championships (Gold); Moscow Open Cup (Gold)</li><li>2012: Volleyball Masters (Gold) Shanghai Exhibition Tournament; Netherlands Exhibition Tournament</li><li>2011: Parapan American Zonal Championships (Gold); ECVD Continental Cup (Gold)</li><li>2010: Parapan American Championship (Gold); World Organization for Volleyball Disabled (WOVD) World Cup (Gold)</li><li>2009: Parapan American Zonal Championship (Gold); Eurocup (Gold)</li><li>2008: WOVD Intercontinental Cup (Bronze)</li><li>2007: Sitting Volleyball Invitational (Silver)</li><li>---</li><li>DID YOU KNOW</li><li>Member of the U.S. Women's Sitting Team named Team USA's 2016 \"Best Paralympic Team\"</li><li>At age 21, Nichole was involved in a boating accident; as a result, her left leg below the knee was amputated and she also sustained serious damage to her left hand</li><li>Nichole first learned about sitting volleyball in 2004, during an Amputee Coalition of American camp for disabled children</li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 4-time Paralympic medalist (2 gold, 2 silver)</li><ul><li>Paralympic Games Tokyo 2020, gold (Team - Women)</li><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Paralympic Games London 2012, silver (Team - Women)</li><li>Paralympic Games Beijing 2008, silver (Team - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2018 – silver (Team - Women)</li><li>Years of participation: Team - Women 2014, 2018</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2018 (Team - Women);  2014 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347515/TeamUSA%20Assets/Migration/Athlete%20Profiles/Nichole%20Millage/p150x250-Nichole-Millage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nichole Millage"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Millar",
+      "bio": {
+        "height": "6'8 (204cm)\"",
+        "birthday": "1978-01-22T00:00:00",
+        "hometown": {
+          "city": "Alpine",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.4666,
+          "longitude": -111.7702
+        },
+        "education": "BYU",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born Ryan  Madsen Millar in 1978 in San Dimas, Calif</li><li>Parents are Steven and Mardi</li><li>Married wife Suzanne when he was 19</li><li>Children are Max (2006) and  Oliver (2010)</li><li>Has two brothers: James and Jon</li><li>Graduated from BYU in 2001  with a degree in sociology</li><li>In July 2006, was named as an assistant  coach for the BYU men&#39;s volleyball team under Head Coach Tom Peterson</li><li>In 2006, was named co-interim head coach of the BYU men&#39;s volleyball  team after Peterson&#39;s sudden resignation. After one season with the BYU men&#39;s  program, Millar returned to the U.S. Men&#39;s National Team and removed his name  from consideration for the BYU head coaching position</li><li>Happiest moment in sports was winning  the gold medal at the 2008 Olympic Games</li><li>While celebrating the gold medal  victory, Ryan held up a poster of son, Max</li><li>Disneyland held a parade for Ryan  following the gold medal victory. He also got to throw out the first pitch at  an LA Dodgers game and appeared on the Oprah Winfrey and Bonnie Hunt shows</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>MAJOR  INTERNATIONAL COMPETITION  2012: – FIVB World League (Silver Medal)</li>\r\n                            <li>MAJOR  INTERNATIONAL COMPETITION  2012: NORCECA Olympic Qualifier (Gold Medal).</li>\r\n                            <li>2012: – Finished 2012 with 28 points on 22 kills and  Played in 14 pool play sets and started 10 of World League. Finished with 17  points on 14 attacks and three blocks. Scored eight points against Korea in  matches on 5-19 in Italy and 6-16 in France</li>\r\n                            <li>2012: . Played in 10 sets and started  seven of the NORCECA Olympic Qualifier. Finished with 11 points on eight kills  and three blocks. High was six points on five attacks and one block against  Costa Rica.</li>\r\n                            <li>2011: – FIVB World Cup</li>\r\n                            <li>2011: NORCECA  Men’s Continental Championship (Silver Medal)</li>\r\n                            <li>2011: FIVB World League.</li>\r\n                            <li>2011: – Finished the season as the team’s fifth-leading  scorer with 157 points on 95 attacks, 50 blocks and 12 aces in 97 sets played.  He was the team’s third-leading blocker</li>\r\n                            <li>2011: Was the team’s fifth-leading scorer at the FIVB World Cup with 48 points  on 31 kills, 14 blocks and three aces in 32 sets played. He was the team’s  third-leading blocker. The U.S. Men placed sixth</li>\r\n                            <li>2011: Played in 14 sets and started  seven at the NORCECA Men’s Continental Championship where the U.S. Men finished  second and qualified for the World Cup. Finished the tournament with 19 points  on 10 kills (71.4 kill percent), five blocks and four aces</li>\r\n                            <li>2010: FIVB  World League.</li>\r\n                            <li>2009: – Took the summer off from the U.S. Men&#39;s team, but  played for Istanbul Buyuksehir Belediye in Turkey during the winter of 2009-10.</li>\r\n                            <li>2008: – Olympic Games (Gold Medal)</li>\r\n                            <li>2008: FIVB World League  (Gold Medal)</li>\r\n                            <li>2008: NORCECA Continental Olympic Qualifying Championship (Gold  Medal).</li>\r\n                            <li>2008: – Played for Istanbul Buyuksehir Belediye in Turkey during the  winter of 2008-09</li>\r\n                            <li>2008: Finished the 2008 season as the team&#39;s third leading  scorer with 253 points in 98 sets (2.58 points per set). Was the team&#39;s leading  blocker with 67 (0.68 blocks per set). Finished with 174 kills and a htting  percentage of 0.47</li>\r\n                            <li>2008: Helped the U.S. Men to the gold medal at the 2008 Olympic  Games, starting in every match at middle blocker. Eighth among all scorers at  the Olympic with 97 points on 66 kills, 26 blocks and five aces. Ryan&#39;s 26  blocks put him fourth among all blockers with an average of 0.79 per set. Was  the United States&#39; leading scorer in the pool play match against Japan with 10  points. During the gold medal match against Brazil, had the winning set for  teammate Clay Stanley&#39;s final kill</li>\r\n                            <li>2008: Helped the U.S. Men to their first World  League gold medal. Led the U.S. and was fifth overall in blocking in the final  round with nine blocks, 18 faults and 24 rebounds on 51 attempts for an average  of 0.60 blocks per set. Third among all blockers in pool play with 25 blocks for  a 0.63 average per set. Was the United States&#39; fourth-leading scorer and ninth  overall in pool play with 37 points on 26 kills, nine blocks and two aces</li>\r\n                            <li>2008: Was  named Top Blocker at the NORCECA Olympic qualifier as the U.S. Men won the  tournament and qualified for the 2008 Olympic Games. Third among the U.S.  players in scoring with 42 points on 32 kills and 10 blocks.</li>\r\n                            <li>2007: NORCECA Continental Championship (Gold  Medal)</li>\r\n                            <li>2007: Americas&#39; Cup (Gold Medal)</li>\r\n                            <li>2007: – Named  USAV&#39;s male indoor player of the year for 2007. He played in 127 sets in 2007,  more sets than any other player besides libero Rich Lambourne. Led the U.S. Men  in blocks in 2007 with 84, averaging 0.66 blocks per set. He was the  second-leading scorer on the U.S. Men&#39;s Team (behind Reid Priddy) with 350  points. Averaged 2.75 points per set</li>\r\n                            <li>2007: Second among all blockers in the World  Cup, where Team USA placed fourth, with a total of 27 blocks in 40 sets for an  average of 0.675 blocks per set</li>\r\n                            <li>2007: Was the United States&#39; third-leading scorer,  and 19th overall, at the NORCECA Continental Championship. He finished the  tournament with 45 points on 36 kills, eight blocks and one ace over five  matches</li>\r\n                            <li>2007: Was the second-leading blocker overall, and the U.S. leader at  Americas&#39; Cup with an average of 0.60 blocks per set</li>\r\n                            <li>2007: Second among all  blockers at the end of World League pool play with 36 blocks in 89 attempts and  an average of 0.80 blocks per set.</li>\r\n                            <li>2006: – FIVB  World Championships</li>\r\n                            <li>2006: Pan American Cup (Gold Medal)</li>\r\n                            <li>2006: Argentina Tour.</li>\r\n                            <li>2006: – Served as team captain when  Tom Hoff was not on the court</li>\r\n                            <li>2006: Led the team in scoring blocks with 51</li>\r\n                            <li>2006: Fourth  on the team in points scored with 122</li>\r\n                            <li>2006: Played in six out of 12 World League  matches. The matches he missed were due to the birth of his son, Max</li>\r\n                            <li>2006: Helped  the team win the inaugural Pan American Cup in June.</li>\r\n                            <li>2005: – FIVB World Championship Qualifying Tournament  (Gold Medal)</li>\r\n                            <li>2005: NORCECA Continental Championships (Gold Medal)</li>\r\n                            <li>2005: World Grand  Champions Cup (Silver Medal).</li>\r\n                            <li>2005: – Earned  &quot;Best Blocker&quot; accolades at the season-ending FIVB World Grand  Champions Cup as the United States won the silver medal with a 4-1 record</li>\r\n                            <li>2005: Finished  the event tops in both total blocks (20) and blocks per set (1.18). Captured  &quot;Best Blocker&quot; honors as Team USA won its second-straight NORCECA  Continental Championship with a four-set victory over Cuba on Sept. 15</li>\r\n                            <li>2005: The  USA Men qualified for the FIVB World Grand Champions Cup with the gold-medal  win</li>\r\n                            <li>2005: Also earned a gold medal in August at the FIVB World Championship  Qualifying Tournament as the USA Men qualified for the 2006 World  Championships.</li>\r\n                            <li>2004: – NORCECA Olympic Qualifying  Tournament (Gold Medal)</li>\r\n                            <li>2004: Houston Series</li>\r\n                            <li>2004: USA Global Challenge (First  Place)</li>\r\n                            <li>2004: Olympic Games (Fourth Place).</li>\r\n                            <li>2004: – Made his second-straight Olympic appearance in  Athens, Greece as the USA Men finished four overall</li>\r\n                            <li>2004: Ranked fourth on the  team in scoring with 70 points on 53 kills, 16 blocks and one service ace</li>\r\n                            <li>2004: Tied for fourth overall in total blocks with 16</li>\r\n                            <li>2004: Team USA qualified for the  2004 Olympic Games in Athens, Greece, by winning the NORCECA Olympic Qualifying  Tournament.</li>\r\n                            <li>2003: – NORCECA Zone  Championships (Gold Medal)</li>\r\n                            <li>2003: World Cup (Fourth Place).</li>\r\n                            <li>2003: – Finished second among all players at the World Cup in  blocking with 27 total stuffs (an average of 0.73 per set)</li>\r\n                            <li>2003: Was also second  on the team in scoring (and 18th overall) with 116 total points on 87 kills, 27  blocks and two service aces.</li>\r\n                            <li>2002: – Florida  Tour</li>\r\n                            <li>2002: World Championships.</li>\r\n                            <li>2002: – Re-joined the team in August and  helped guide the team to a ninth-place finish at the World Championships in  Argentina.</li>\r\n                            <li>2001: – Did not play with the National Team.</li>\r\n                            <li>2001: Played  professionally with Bossini Montichiari in Italy.</li>\r\n                            <li>2000: – Americas&#39; Cup</li>\r\n                            <li>2000: Australia Tour</li>\r\n                            <li>2000: Continental Cup</li>\r\n                            <li>2000: Korea  Tour</li>\r\n                            <li>2000: – Led the team  with a .573 hitting percentage at the Americas&#39; Cup</li>\r\n                            <li>2000: Second on the squad with  64 kills and 10 blocks</li>\r\n                            <li>2000: Recorded 108 kills, 32 blocks, nine aces and a .439  hitting percentage in World League play</li>\r\n                            <li>2000: Set a career high with six blocks  against the Netherlands</li>\r\n                            <li>2000: Helped team USA qualify for the 2000 Sydney Olympics  with 25 kills, four blocks, three aces and a .462 hitting percentage at the  Continental Cup</li>\r\n                            <li>2000: Posted 47 kills, 11 blocks and three aces on the Korea Tour</li>\r\n                            <li>2000: Played professionally in Italy for Volley Forli.</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Beijing 2008, gold (Team - Men)</li><li>Olympic Games Athens 2004, 4th (Team - Men)</li><li>Olympic Games Sydney 2000, 11th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2010 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2002, 2006, 2010</li><li>Top finish: 6th – 2010 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687347561/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Millar/RyanMillar150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Millar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1352 @@
+{
+  "entries": [
+    {
+      "first_name": "Kiana",
+      "last_name": "Eide",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1998-09-25T00:00:00",
+        "hometown": {
+          "city": "St. Francis",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.3622,
+          "longitude": -93.3005
+        },
+        "education": "Glenbrook North High School (Northbrook, Ill.) '17 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Troy and Lolita Eide</li><li>Has one sister, Celine</li><li>Began gymnastics at age 4</li><li>Hobbies include cooking, ceramics, drawing and traveling</li><li>Enjoys Cirque Du Soleil</li><li>Is learning to speak Russian</li><li>Parents own a Chinese restaurant in Minnesota.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, gold (6 clubs, 2 hoops); silver (all-around, 5 ribbons)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 14th (Group Competition - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 11th (Group Competition - Ribbon - Women), 13th (Group Competition - Women), 15th (Group Competition - 3x Clubs + 2x Hoop - Women)</li><li>Years of participation: Group Competition - 3x Clubs + 2x Hoop - Women 2015; Group Competition - Ribbon - Women 2015; Group Competition - Women 2014, 2015; Group Competition - Ball + Ribbon - Women 2014; Group Competition - Clubs - Women 2014</li><li>Top finish: 11th – 2015 (Group Competition - Ribbon - Women)</li></ul><h5>More</h5>USA Gymnastics",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719863/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kiana%20Eide%20846452/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682719865/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kiana%20Eide%20846452/Eide_Kiana_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kiana Eide 846452"
+        }
+      ]
+    },
+    {
+      "first_name": "Tracy",
+      "last_name": "Eisser",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1989-11-20T00:00:00",
+        "hometown": {
+          "city": "Fair Lawn",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.93,
+          "longitude": -74.12
+        },
+        "education": "Fair Lawn High School (Fairlawn, N.J.) ‘08 Cornell University ‘12, Sociology, French",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Dudley and Marilyn</li><li>Has one brother, Christopher</li><li>Was a track and field athlete in high school, participating in the high jump, and competed at the New Jersey State Track and Field Championship in 2008</li><li>Was a Collegiate Rowing Coaches Association National Scholar Athlete from 2010-2012.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 10th (Pair - Women)</li><li>Olympic Games Rio de Janeiro 2016, 5th (Quadruple Sculls - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 4th (Pair - Women)</li><li>Years of participation: Pair - Women 2017, 2019; Eight - Women 2018; Quadruple Sculls - Women 2014, 2015</li><li>Medals: 4 (2 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2018 (Eight - Women);  2015 (Quadruple Sculls - Women)</li><li>Silver – 2017 (Pair - Women)</li><li>Bronze – 2014 (Quadruple Sculls - Women)</li></ul></ul><h5>More</h5>US Rowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012331/TeamUSA%20Assets/Athlete%20Profiles/Tracy%20Eisser%20830626/Eisser_Tracy_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tracy Eisser 830626"
+        }
+      ]
+    },
+    {
+      "first_name": "Yaseen",
+      "last_name": "El-Demerdash",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2003-09-12T00:00:00",
+        "hometown": {
+          "city": "Overland Park",
+          "state": "KS",
+          "country": "United States",
+          "latitude": 38.98223,
+          "longitude": -94.67079
+        },
+        "education": "University of Kansas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born with Poland Syndrome</li><li>Son to Dina Massoud and Aref El-Demerdash</li><li>Has three siblings <span>Maryam</span>, Yusuf and Adam</li><li>Interests include robotics, gaming, cars, fishing and camping</li><li>Has a dog named Chestnut</li><li>Qualified for the Paralympic Games Paris 2024 after winning the men's 50-meter freestyle at the 2024 U.S. Paralympic Team Trials – Swimming</li></ul><h5>Career Highlights</h5><ul><li>Won gold (50m freestyle), silver (100m butterfly) and bronze (100m freestyle) at the 2024 <span>U.S. Paralympic Team Trials – Swimming</span>, ultimately qualifying him to the team</li><li>Won four medals at the 2023 Parapan American Games<ul><li><span>Gold - 100m backstroke S10</span></li><li>Silver - 100m freestyle S10, 4x100m freestyle relay 34 points</li><li>Bronze - 50m freestyle S10</li></ul></li><li>Gold (100m backstroke S10), 2024 CITI Para Swimming World Series</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Paris 2024, 6th (4 x 100m Medley Relay 34 Points - Mixed), 9th (100m Backstroke S10 - Men, 50m Freestyle S10 - Men), 10th (100m Freestyle S10 - Men), 12th (100m Butterfly S10 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720469223/TeamUSA%20Assets/Athlete%20Profiles/Yaseen%20El-Demerdash%201199532/el-demerdash_y_bio_1199532.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S10, SB9, SM10",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720469196/TeamUSA%20Assets/Athlete%20Profiles/Yaseen%20El-Demerdash%201199532/el-demerdash_y_hero_1199532.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720469223/TeamUSA%20Assets/Athlete%20Profiles/Yaseen%20El-Demerdash%201199532/el-demerdash_y_bio_1199532.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720469196/TeamUSA%20Assets/Athlete%20Profiles/Yaseen%20El-Demerdash%201199532/el-demerdash_y_hero_1199532.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Yaseen El-Demerdash"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Emelie",
+      "last_name": "Eldracher",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1999-09-16T00:00:00",
+        "hometown": {
+          "city": "Andover",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.6584,
+          "longitude": -71.1356
+        },
+        "education": "Massachusetts Institute of Technology '22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>I<span>ntroduced to rowing through a introductory fall season during her freshman year of high school</span></li><li>W<span>as a three-time letter winner in crew and springboard diving at Phillips Academy</span></li><li>Is a TedxMIT speaker and a Tang Soo Do fourth-degree black belt (master level)</li><li>D<span>esigned wearable AI software for the world's first intelligent heated jacket</span></li><li>L<span>ists her mother, who leads her family and businesses alike, as her personal hero</span></li><li>Hobbies include fashion design (has sewn her own semiformal and formal dresses for the past two years), golf and listening to Taylor Swift</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (PR3 Coxed Four - Mixed)</li><li>Years of participation: PR3 Coxed Four - Mixed 2022, 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (PR3 Coxed Four - Mixed)</li></ul></ul><h5>Career Highlights</h5><ul><li><span>2023 Para Rowing Regatta to Paris </span><span>– gold (PR3 mixed four with coxswain)</span></li><li><span>2022 Canadian Henley </span><span>– 1st place (PR3 mixed four with coxswain)</span></li><li><span>2019 Canadian Henley </span><span>– 2nd place (U23 eight)</span></li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Paris 2024, silver (PR3 Coxed Four - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707938159/TeamUSA%20Assets/Athlete%20Profiles/Emelie%20Eldracher%201222101/Eldracher_Emelie_bio_1222101.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Rowing",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "PR3",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707938040/TeamUSA%20Assets/Athlete%20Profiles/Emelie%20Eldracher%201222101/Eldracher_Emelie_hero_1222101.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707938040/TeamUSA%20Assets/Athlete%20Profiles/Emelie%20Eldracher%201222101/Eldracher_Emelie_hero_1222101.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1707938039/TeamUSA%20Assets/Athlete%20Profiles/Emelie%20Eldracher%201222101/Eldracher_Emelie_thumbnail_1222101.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Emelie Eldracher 1222101"
+        },
+        {
+          "title": "Para-Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Siena",
+      "last_name": "Ellingson",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1996-12-12T00:00:00",
+        "hometown": {
+          "city": "Minnetonka",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9333,
+          "longitude": -93.4666
+        },
+        "education": "Homeschool",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Osrblie, 2017 (3 x 6km Relay - Women, 7.5km Sprint - Women, 10km Pursuit - Women, 12.5km Individual - Women)</li><li>World Youth/Junior Championships, Cheile Gradistei, 2016 (3 x 6km Relay - Women)</li></ul><h5> World Championship Experience</h5><ul><li>2017 Junior World Championships (Brezno-Osrblie, SVK): 17th in relay / 41st in pursuit / 18th in sprint / 50th in individual</li><li>2016 Junior World Championships (Cheile-Gradistei, ITA): 12th in relay / 50th in pursuit / 48th in sprint</li></ul><h5>More</h5><strong></strong>\n<strong>Personal:</strong>&nbsp;Siena was born in Lauderdale, Minn., and raised in Minnetonka where she grew up playing soccer. She first learned to ski in 7th grade with the local high school team, and that summer did training with Piotr Bednarski. In the spring of 2011, Siena tried biathlon for the first time at Nationals in Grand Rapids. There, she found a new challenge. Siena has now been on four Junior World Championship teams.&nbsp;\n<p id=\"yui_3_16_0_ym19_1_1494425616029_24933\">Siena trained with Vlad and Petra Cervenka in Grand Rapids full time in 2015 and 2016.&nbsp;</p>\n<p>&nbsp;</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923569/TeamUSA%20Assets/Migration/Athlete%20Profiles/Siena%20Ellingson/Siena_Ellingson_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923571/TeamUSA%20Assets/Migration/Athlete%20Profiles/Siena%20Ellingson/Siena-Ellingson-2017_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Siena Ellingson"
+        }
+      ]
+    },
+    {
+      "first_name": "Jakob",
+      "last_name": "Ellingson",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1994-11-10T00:00:00",
+        "hometown": {
+          "city": "Minnetonka",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9333,
+          "longitude": -93.4666
+        },
+        "education": "Ellingson Academy (Homeschool) '13 88M in the Minnesota National Guard",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Raubichi, 2015 (4 x 7.5km Relay - Men, 15km Individual - Men, 10km Sprint - Men)</li><li>World Youth/Junior Championships, Presque Isle, 2014 (4 x 7.5km Relay - Men, 12.5km Pursuit - Men)</li></ul><h5>More</h5>Jakob played competitive youth soccer until 17, when he started training with Piotr Bednarski, with the Loppet Nordic Ski club out of Minneapolis. Realizing that there was alot more opportunity with skiing and biathlon, he changed the focus, and has been training full time for Biathlon since 2012. He practically moved to Grand Rapids after the first couple years of training to work with the best biathlon coach in the US, Vlad Cervenka. During his time working closely with Vlad, he went to three world junior championships, won the state cross country ski championship in MN, and won a US national Biathlon rollerski race in the senior field, and raced in numerous IBU cup races.",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004085/TeamUSA%20Assets/Athlete%20Profiles/Jakob%20Ellingson%20874143/Ellingson240118cm311_1200x300_2.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004087/TeamUSA%20Assets/Athlete%20Profiles/Jakob%20Ellingson%20874143/18Dec2017JakobEllingson2_150x250---Copy.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jakob Ellingson 874143"
+        }
+      ]
+    },
+    {
+      "first_name": "Brian",
+      "last_name": "Ellington",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1990-08-04T00:00:00",
+        "hometown": {
+          "city": "Gainesville",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 29.6516,
+          "longitude": -82.3248
+        },
+        "education": "West Florida University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div></div>\n<div><p><h5>Quick Facts</h5><ul><li>Son of Donnie and Beverly Ellington</li><li>Selected by the Miami Marlins in the 16th round (497th overall) of the 2012 MLB Draft</li><li>Played baseball at West Florida University and Florida State College at Jacksonville.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929412/TeamUSA%20Assets/Migration/Athlete%20Profiles/Brian%20Ellington/Baseball_Men_Ellington_Brian.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brian Ellington"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Elliott",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1981-10-30T00:00:00",
+        "hometown": {
+          "city": "Yakima",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 46.602,
+          "longitude": -120.5059
+        },
+        "education": "A.C. Davis High School (Yakima, Wash.) '00 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Elliott first tried monoskiing in December 2011</li><li>In April 2011, Sergeant Elliott was serving with the United States Marine Corps in Afghanistan. While on a routine patrol, he stepped on an improvised explosive device. Both of his legs were amputated above the knee and he lost three fingers on his left hand</li><li>Son of Dennis and DeLynn Elliott</li><li>Has two brothers, Hunter and JOhn</li><li>Married to Samantha Elliott</li><li>Credits God for giving him a second chance at life and another way to represent the United States</li><li>Hobbies include riding motorcycles, flying drones, swimming, kayaking and playing the PlayStation 4.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018,  (Giant Slalom - Sitting - Men, Slalom - Sitting - Men, Super-G - Sitting - Men), 6th (Super Combined - Sitting - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 6th (Giant Slalom - Sitting - Men, Slalom - Sitting - Men), 10th (Super Combined - Sitting - Men), 20th (Super-G - Sitting - Men)</li><li>Years of participation: Giant Slalom - Sitting - Men 2015, 2017; Slalom - Sitting - Men 2015, 2017; Super Combined - Sitting - Men 2015, 2017; Super-G - Sitting - Men 2015, 2017; Downhill - Sitting - Men 2015</li><li>Top finish:  – 2015 (Slalom - Sitting - Men), 2015 (Super Combined - Sitting - Men), 2015 (Super-G - Sitting - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716779/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Elliott%20857756/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Alpine Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "LW12-2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716781/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Elliott%20857756/Elliott_Josh.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Elliott 857756"
+        }
+      ]
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Elliott",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1997-11-11T00:00:00",
+        "hometown": {
+          "city": "Greenwood",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.6139,
+          "longitude": -86.1069
+        },
+        "education": "Homeschool (Greenwood, Ind.) ‘15 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><p>Christian Elliott was born in Richmond, Indiana, and grew a desire for shotgun sports in Greenwood, Indiana. Beginning his shooting journey in Edinburgh, Indiana, at Atterbury shooting complex in 2009. Excelling through the Scholastic Clay Target Program, Christian fostered his talent and advanced to the National Skeet Shooting Association. Eliott would go on to claim several accolades to include Sub JR. 4-Gun High Average Leader in only his second year in NSSA.</p><p>Elliott would soon develop a curiosity in the Olympic style of clay target shooting. Joining USA Shooting in the spring of 2013, he competed at his first selection match in Fort Benning, Georgia. Over the short period of three years, Elliott would go on to earn several positions on the Junior National Team and achieve international success. In 2016, Elliott was invited to become a member of the elite competition team the U.S. Army Marksmanship Unit.</p><p>In the past few years, Elliott has excelled within the international skeet scene. At the 2019 Pan American Games he won gold in Men’s Skeet and at the 2022 International Shooting Sports Federation World Championship he earned silver. He recently topped the podium at the 2023 ISSF World Championship with teammates Vincent Hancock, and Dustan Taylor. The trio took gold in Men’s Skeet Team. Elliott is looking to make his Olympic debut in Paris.</p><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 9th (Skeet - Men)</li><li>Years of participation: Skeet - Men 2017, 2019, 2022, 2023; Skeet - Team - Men 2022; Skeet - Team - Mixed 2017, 2019</li><li>Medals: 2 (2 silver)</li><ul><li>Silver – 2022 (Skeet - Team - Men);  2019 (Skeet - Team - Mixed)</li></ul></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Skeet - Men)</li><li>World Cup Final, Al Ain, 2019 (Skeet - Team - Mixed, Skeet - Men)</li><li>Junior World Championships, Lonato del Garda, 2015 (Skeet - Men)</li><li>Junior World Championships, Granada, 2014 (Skeet - Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694041665/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christian%20Elliott%201000942/elliott_c_bio_1000942_01.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694034356/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christian%20Elliott%201000942/elliott_c_hero_1000942.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694034356/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christian%20Elliott%201000942/elliott_c_hero_1000942.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1694034356/TeamUSA%20Assets/Migration/Athlete%20Profiles/Christian%20Elliott%201000942/elliott_c_hero_1000942.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christian Elliott 1000942"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Elliott",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1997-07-12T00:00:00",
+        "hometown": {
+          "city": "St. Charles",
+          "state": "MO",
+          "country": "United States",
+          "latitude": 38.7889,
+          "longitude": -90.4957
+        },
+        "education": "DeVry University",
+        "fun_fact": "Has one daughter, Skylar",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Speciality</strong>: Banked Slalom, Snowboard Cross</li><li><span>Son of Darla Ell</span></li><li><span>Has three sisters: Amy, April and Nicole</span></li><li><span>Has one daughter, Skylar</span></li><li>Hobbies include s<span>kateboarding, snowboarding, fishing, camping, hiking, cooking, playing guitar</span></li></ul><h5>Biographical Information</h5><p>Noah Elliott grew up in St. Charles, Missouri, looking to become a professional skateboarder hoping to follow in the footsteps of Nyjah Huston, Sean Malto and Torey Pudwill. At age 15, after a skateboard event, he felt some leg pain and was eventually <span>diagnosed with cancer resulting his left leg amputated above the knee due to the osteosarcoma. Afterwards, he went to Colorado as part of trip for children with cancer and he met Brenna Huckaby&nbsp;</span>who just happened to be a fellow osteosarcoma survivor when he decided to make the switch to snowboarding.</p><p>Less than two years later, Elliott made his Paralympic debut at the Winter Paralympic Games PyeongChang 2018 and won two medals including gold in banked slalom. Elliott would become a world champion in the banked slalom and snowboard cross before the next Winter Paralympics, when he competed at the Paralympic Winter Games Beijing 2022 and did not medal in either event partly because he competed with a wound on his residual limb that didn't heal before the Games.</p><p>Elliott is a single father to his teenage daughter, Skyler,<span><strong></strong></span><span>who like her dad, enjoys the outdoors including camping and snowboarding.</span></p><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 4-time Paralympic medalist (2 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Milan 2026, gold (Banked Slalom - Lower Limb 1 Impaired - Men), silver (Snowboard Cross - Lower Limb 1 Impaired - Men)</li><li>Paralympic Games Beijing 2022, 4th (Banked Slalom - Lower Limb 1 Impaired - Men), 6th (Snowboard Cross - Lower Limb 1 Impaired - Men)</li><li>Paralympic Games Pyeongchang 2018, gold (Banked Slalom - Lower Limb 1 Impaired - Men), bronze (Snowboard Cross - Lower Limb 1 Impaired - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – silver (Snowboard Cross - Lower Limb 1 Impaired - Men), bronze (Banked Slalom - Lower Limb 1 Impaired - Men), 4th (Snowboard Cross Team Event - Mixed)</li><li>Years of participation: Banked Slalom - Lower Limb 1 Impaired - Men 2019, 2022, 2025; Snowboard Cross - Lower Limb 1 Impaired - Men 2019, 2023, 2025; Snowboard Cross Team Event - Mixed 2025; Dual Banked Slalom - Lower Limb 1 Impaired - Men 2023; Snowboard Cross Team Event - Men 2019, 2023</li><li>Medals: 9 (3 gold, 4 silver, 2 bronze)</li><ul><li>Gold – 2023 (Dual Banked Slalom - Lower Limb 1 Impaired - Men);  2022 (Banked Slalom - Lower Limb 1 Impaired - Men);  2019 (Snowboard Cross - Lower Limb 1 Impaired - Men)</li><li>Silver – 2025 (Snowboard Cross - Lower Limb 1 Impaired - Men);  2023 (Snowboard Cross - Lower Limb 1 Impaired - Men, Snowboard Cross Team Event - Men);  2019 (Banked Slalom - Lower Limb 1 Impaired - Men)</li><li>Bronze – 2025 (Banked Slalom - Lower Limb 1 Impaired - Men);  2019 (Snowboard Cross Team Event - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661962/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Elliot_n_bio_1089028.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "SB-LL1",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773409056/Elliott_N_main_1089028.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773409056/Elliott_N_featured_1089028_3.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1768237061/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Elliott%201089028/elliott_n_hero_1089028_01.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Elliott 1089028"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Snowboarding"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Kendall",
+      "last_name": "Ellis",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1996-03-08T00:00:00",
+        "hometown": {
+          "city": "North Hollywood",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.1656,
+          "longitude": -118.3587
+        },
+        "education": "University of Southern California ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Born to Wanda and Samuel Ellis</li><li>Has two siblings: Courtney and Kimberly</li><li>Her sports hero is Allyson Felix because \"she is great at everything she does\"</li><li>Her favorite color is gold, favorite musician is Childish Gambino, favorite movie is Avatar and favorite book is Diary of An Oxygen Thief</li><li>Her favorite foods are pizza and chicken wings</li><li>Someday would like to travel to Dubai</li><li>Volunteers at a local elementary school</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games Paris 2024, 9th (400m - Women)</li><li>Olympic Games Tokyo 2020, gold (4 x 400m Relay - Women), bronze (4 x 400m Relay - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2017 – gold (4 x 400m Relay - Women), 25th (400m - Women)</li><li>Years of participation: 4 x 400m Relay - Women 2017; 400m - Women 2017</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2017 (4 x 400m Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662477/TeamUSA%20Assets/Athlete%20Profiles/Kendall%20Ellis%201125651/Ellis_K_Bio_1125651.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662594/TeamUSA%20Assets/Athlete%20Profiles/Kendall%20Ellis%201125651/Ellis_K_Hero_1125651.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012832/TeamUSA%20Assets/Athlete%20Profiles/Kendall%20Ellis%201125651/ellis_kendall_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendall Ellis 1125651"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Taylor",
+      "last_name": "Ellis-Watson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1993-05-06T00:00:00",
+        "hometown": {
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 39.95258,
+          "longitude": -75.16522
+        },
+        "education": "Springside High School (Philadelphia, Pa.) ‘11 University of Arkansas ‘16, Psychology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Stephen Watson and Melanie Ellis Nelson</li><li>Has two brothers, Rylee and Darius, and two sisters, Raiana and Arianna</li><li>Nine-time NCAA All-American</li><li>Transferred to the University of Arkansas after completing her freshman year at the University of Pittsburgh</li><li>Aided the Razorbacks to the 2015 NCAA team title with two runner-up finishes in the 400-meter and 4x400.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 NCAA Indoor Championships, 2nd (400m, 4x400m)</li>\r\n                            <li>2015 NCAA Indoor Championships, 2nd (400m, 4x400m)</li>\r\n                            <li>2015 NCAA Outdoor Championships, 6th (4x400m)</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 400m Relay - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929404/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylor%20Ellis-Watson/EllisWatson_Taylor_062714_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686929407/TeamUSA%20Assets/Migration/Athlete%20Profiles/Taylor%20Ellis-Watson/elliswatson_taylor_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Taylor Ellis-Watson"
+        }
+      ]
+    },
+    {
+      "first_name": "Brady",
+      "last_name": "Ellison",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1988-10-27T00:00:00",
+        "hometown": {
+          "city": "Billings",
+          "state": "MT",
+          "country": "United States",
+          "latitude": 45.7832,
+          "longitude": -108.5007
+        },
+        "education": "GED while living at Chula Vista OTC ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>First competed internationally with a compound bow</li><li>Switched to a recurve bow when he discovered recurve was an Olympic discipline</li><li>Had Perthes disease as a child, which required him to wear leg braces for more than a year</li><li><span>Married Slovenian archer Toja Ellison in April 2016 and had son Ty Ellison in November 2020</span></li><li>Widely respected in the archery community and has helped develop several technological advancements for the sport</li><li>Loves to cook, and his specialty dish is biscuits and gravy</li></ul><h5>Olympic Experience</h5><ul><li>5-time Olympian; 5-time Olympic medalist (3 silver, 2 bronze)</li><ul><li>Olympic Games Paris 2024, silver (Individual - Men), bronze (Recurve Team - Mixed)</li><li>Olympic Games Tokyo 2020, 7th (Individual - Men, Team - Men), 9th (Recurve Team - Mixed)</li><li>Olympic Games Rio de Janeiro 2016, silver (Team - Men), bronze (Individual - Men)</li><li>Olympic Games London 2012, silver (Team - Men), 17th (Individual - Men)</li><li>Olympic Games Beijing 2008, 9th (Team - Men), 27th (Individual - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Recurve - Men), 6th (Team (Field WCh) - Men)</li><li>Years of participation: Recurve - Men 2015, 2017, 2019, 2023, 2025; Team (Field WCh) - Men 2015, 2017, 2019, 2023, 2025; Individual - Men 2007, 2009, 2011, 2015, 2017, 2019, 2021, 2023; Recurve Team - Mixed 2011, 2015, 2017, 2019, 2021, 2023; Team - Men 2007, 2009, 2011, 2015, 2017, 2019, 2021, 2023; Recurve Individual (Indoor) - Men 2009, 2012, 2014, 2016, 2018; Recurve Team (Indoor) - Men 2009, 2012, 2014, 2018</li><li>Medals: 17 (8 gold, 2 silver, 7 bronze)</li><ul><li>Gold – 2025 (Recurve - Men);  2019 (Individual - Men);  2017 (Recurve - Men, Team (Field WCh) - Men);  2015 (Recurve - Men, Team (Field WCh) - Men);  2012 (Recurve Team (Indoor) - Men);  2009 (Recurve Team (Indoor) - Men)</li><li>Silver – 2021 (Team - Men);  2019 (Team (Field WCh) - Men)</li><li>Bronze – 2023 (Team (Field WCh) - Men);  2021 (Individual - Men);  2019 (Recurve - Men);  2016 (Recurve Individual (Indoor) - Men);  2014 (Recurve Individual (Indoor) - Men);  2012 (Recurve Individual (Indoor) - Men);  2011 (Individual - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1716229448/TeamUSA%20Assets/Athlete%20Profiles/Brady%20Ellison%20838091/Ellison_b_bio_838091.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Archery",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662220/TeamUSA%20Assets/Athlete%20Profiles/Brady%20Ellison%20838091/ellison_b_hero_838091.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715375642/TeamUSA%20Assets/News/Ellison_B_CupFinals_2023.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1716229282/TeamUSA%20Assets/Athlete%20Profiles/Brady%20Ellison%20838091/Ellison_b_thumbnail_838091.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brady Ellison 838091"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Archery"
+        }
+      ]
+    },
+    {
+      "first_name": "Amanda",
+      "last_name": "Elmore",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1991-03-13T00:00:00",
+        "hometown": {
+          "city": "West Lafayette",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 40.4267,
+          "longitude": -86.9083
+        },
+        "education": "Harrison High School (West Lafayette, Ind.) ‘09 Purdue University ‘09, Biological Sciences; University of Michigan ‘18, Microbiology and Immunology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of David and Janet Elmore</li><li>Has three siblings, Andrew, Emily and Steven</li><li>Was inspired to begin rowing after her brothers competed in rowing at Purdue University.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Eight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (Quadruple Sculls - Women)</li><li>Years of participation: Quadruple Sculls - Women 2015</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2015 (Quadruple Sculls - Women)</li></ul></ul><h5>More</h5>USRowing",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716791/TeamUSA%20Assets/Migration/Athlete%20Profiles/Amanda%20Elmore%20820699/womens8_Elmore_071312_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716793/TeamUSA%20Assets/Migration/Athlete%20Profiles/Amanda%20Elmore%20820699/Elmore_Amanda_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Amanda Elmore 820699"
+        }
+      ]
+    },
+    {
+      "first_name": "Amit",
+      "last_name": "Elor",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2004-01-01T00:00:00",
+        "hometown": {
+          "city": "Walnut Creek",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.9068,
+          "longitude": -122.0657
+        },
+        "education": "Diablo Valley College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Elana and Yair Elor, who were born in Israel and moved to the U.S. in 1980 to attend college</li><li>Youngest of six children—three boys and three girls</li><li>Older sister Ronny and older brother Orry were successful wrestlers, both winning USA Wrestling Junior Nationals titles, who inspired her to join the sport</li><li>Has a dog named Saoirse</li><li>Has had chickens, ducks and a goose as pets</li><li>Enjoys cooking, baking, hiking and lifting</li><li>Participated in a variety of sports throughout her youth, including horseback riding, judo, gymnastics, rhythmic gymnastics, cheerleading, ballet, tap dancing, tennis, taekwondo and jiu-jitsu</li><li>Purple belt in jiu-jitsu</li><li>Has had the same strength coach since 10-years-old—David Miller of Forma Gym</li><li>Favorite breakfast is oatmeal or Greek yogurt</li><li>Has watched the television series Futurama through multiple times</li><li>Often likes to run while listening to sad music</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)<ul><li><span>Olympic Games Paris 2024, gold (68 kg)</span></li></ul></li></ul><h5>World Championships Experience</h5><ul><li>2023 Senior Worlds (Gold at 72 kg), 2022 Senior Worlds (Gold at 72 kg)<span></span></li></ul><h5>Career Highlights</h5><ul><li>Eight-time gold medalist at World Championship events across the U17, U20, U23 and Senior age <span>divisions—includes the freestyle and beach wrestling disciplines</span></li><li>Two-time Senior World Championships gold medalist</li><li>U23 World Championships gold medalist</li><li>Three-time U20 World Championships gold medalist</li><li>U17 World Championships gold medalist</li><li>U17 Beach World Championships gold medalist</li><li>Two-time U17 World Championships medalist</li><li>Two-time U.S. Senior World Team member</li><li>Pan American Championships gold medalist</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1696545587/NGB%20Wrestling/Athlete%20Profiles/Amit%20Elor/17314819_WFS_72kg_Amit_Elor_jpg_Richard_Immel_20230905_230019.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Wrestling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1696545588/NGB%20Wrestling/Athlete%20Profiles/Amit%20Elor/17328564_Amit_Elor-16_jpg_Richard_Immel_20230906_182017.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wrestling"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Elwing",
+      "bio": {
+        "height": "6'2",
+        "birthday": "1999-10-28T00:00:00",
+        "hometown": {
+          "city": "Brookfield",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.05,
+          "longitude": -88.1
+        },
+        "education": "Brookfield Central ",
+        "fun_fact": "",
+        "biography": "<table border=\"0\" cellpadding=\"2\" cellspacing=\"5\" height=\"104\" width=\"100%\" style=\"border-collapse: collapse;\" id=\"table3\"><tbody><tr><td style=\"width: 224px;\"><strong>Position</strong></td><td style=\"width: 156px;\">Vice skip</td></tr><tr><td><strong>Teammates</strong></td><td>Trevor Marquardt, Mitch Wilson, Coleman Thurston, Connor Hipke</td></tr><tr><td style=\"width: 224px;\"><strong>Delivers</strong></td><td style=\"width: 156px;\">Right-handed<br /></td></tr><tr><td style=\"width: 224px;\"><strong>Age</strong></td><td style=\"width: 156px;\">18</td></tr><tr><td style=\"width: 224px;\"><strong>Hometown</strong></td><td style=\"width: 156px;\">Brookfield, Wis.</td></tr><tr><td style=\"width: 224px;\"><strong>Occupation</strong></td><td style=\"width: 156px;\">Student at Brookfield Central High School</td></tr><tr><td style=\"width: 224px;\"><strong>Year started curling</strong></td><td style=\"width: 156px;\">2005</td></tr></tbody></table><strong>CURLING HIGHLIGHTS&nbsp;</strong><br /><ul><li><strong>U18 National Championships:</strong> 2017 (champion)</li><li><strong>Junior National Championships</strong>: 2018, 2017</li><li>Wisconsin U18 Playdowns: 2017 (champion)</li><li>Youth Olympic Winter Games Playdowns: 2016 (3rd)</li><li>2016 U18 Optimist International Curling Championship Sportsmanship Award</li></ul><p><strong>Curls out of</strong>: Wauwatosa Curling Club</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698399/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Elwing%20914369/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698400/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Elwing%20914369/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Elwing 914369"
+        }
+      ]
+    },
+    {
+      "first_name": "Cheta",
+      "last_name": "Emba",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1993-07-16T00:00:00",
+        "hometown": {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 37.5407,
+          "longitude": -77.436
+        },
+        "education": "Maggie L. Walker Governor's School (Richmond, Va.) Harvard University ‘15, Molecular and Cellular Biology",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Theresa Nwabufo and Chuck Emba</li><li>Third youngest of four siblings</li><li>Began playing rugby at age 20</li><li>Played soccer for four years at Harvard earning All-Academic and All-Conference honors</li><li>Picked up rugby as a new way to cross-train for her role as a goalkeeper</li><li>Volunteers and serves the community through programs such as Habitat for Humanity, Hope Sports, and Mama’s Kitchen in San Diego</li><li>Fluent in Spanish</li><li>Enjoys coffee, cooking, reading, and a good whiskey</li><li>Loves exploring the outdoors through hiking, climbing, and camping</li><li>Always looking out for good music.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Women)</li><li>Years of participation: Team - Women 2018, 2022</li><li>Top finish: 4th – 2018 (Team - Women), 2022 (Team - Women)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012470/TeamUSA%20Assets/Athlete%20Profiles/Cheta%20Emba%20806023/Emba_Cheta_headshots.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cheta Emba 806023"
+        }
+      ]
+    },
+    {
+      "first_name": "Ty",
+      "last_name": "Emberson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "2000-05-23T00:00:00",
+        "hometown": {
+          "city": "Eau Claire",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 44.8113,
+          "longitude": -91.4985
+        },
+        "education": "Memorial High School (Eau Claire, Wisconsin) ‘18",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Junior Championship, 2020 (Team - Men)</li><li>World Championship Under 18, 2018 (Team - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Mike and Missy Emberson</li><li>Has two older siblings, Andrew and Mia</li><li>Grandfather, Denny, played ice hockey and baseball for University of Minnesota</li><li>Participated in the 2015 USA Hockey U15 Select Camp and 2014 USA Hockey Central District Camp</li><li>Hobbies include wake surfing, water skiing, fishing and hiking.</li></ul><br>\n<br>\n\n</p><p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328958/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ty%20%20Emberson%20915907/IceHockey_Emberson_Ty_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ty Emberson 915907"
+        }
+      ]
+    },
+    {
+      "first_name": "Joel",
+      "last_name": "Embiid",
+      "bio": {
+        "height": "7'0\"",
+        "birthday": "1994-03-16T00:00:00",
+        "hometown": {
+          "city": "Monteverde",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.6333,
+          "longitude": -81.65
+        },
+        "education": "University of Kansas",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Born in Yaoundé, Cameroon</p></li><li><p>Grew up playing mostly volleyball and soccer before being spotted by former NBA player Luc Richard Mbah a Moute at a camp in 2011 and influenced his decision to play high school basketball in the United States</p></li><li><p>Enrolled at Montverde Academy at the age of 16 before finishing his high school career at The Rock School in Gainesville, Florida, where he led the team to a 33-4 record and its first state championship in school history</p></li><li><p>Played one season at the University of Kansas (2013-14)</p></li><li><p>Honors include Associated Press All-America Second Team, USBWA All-America Freshman Team, Big 12 Defensive Player of the Year, All-Big 12 Second Team (Big 12, AP), Big 12 All-Defensive Team, Big 12 All-Newcomer Team, among others</p></li></ul><h5>Career Highlights</h5><ul><li><p>Selected No. 3 overall in the 2014 NBA Draft by the Philadelphia 76ers</p></li><li><p>Played seven seasons (2016-23) with Philadelphia after sitting out his first two seasons in the NBA while rehabbing a broken navicular bone in his foot</p></li><li><p>Named the 2023 NBA MVP after averaging 33.1 ppg, 10.2 rpg and 4.2 apg in 34.6 mpg while shooting 54.8% from the field</p></li><li><p>Honors include All-NBA First Team (2023), All-NBA Second Team (2018-22), six-time NBA All-Star (2018-23), three-time NBA All-Defensive Second Team (2018-21), NBA All-Rookie First Team (2017), among others</p></li><li>Is the first foreign-born player to be named the NBA's scoring champion</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713893789/TeamUSA%20Assets/Athlete%20Profiles/Joel%20Embiid%201378108/Embiid_j_bio_1378108.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713893593/TeamUSA%20Assets/Athlete%20Profiles/Joel%20Embiid%201378108/Embiid_j_hero_1378108.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713893465/TeamUSA%20Assets/Athlete%20Profiles/Joel%20Embiid%201378108/Embiid_j_thumbnail_1378108.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1713893465/TeamUSA%20Assets/Athlete%20Profiles/Joel%20Embiid%201378108/Embiid_j_thumbnail_1378108.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Joel Embiid 1378108"
+        },
+        {
+          "title": "Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Emmons",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1981-04-05T00:00:00",
+        "hometown": {
+          "city": "Brown Mills",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.0,
+          "longitude": -74.6333
+        },
+        "education": "Pemberton Township High School (Pemberton, N.J.) ‘99 University of Alaska-Fairbanks '03, Accounting; University of Colorado – Colorado Springs ’06, Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Louis and Gloria Emmons</li><li>Married his wife, Katerina, on June 30, 2007</li><li>Wife is a three-time Olympic medalist in shooting</li><li>Has one son, Martin, and two daughters, Julia and Emma</li><li>Father-in-law, Petr Kurka, is a three-time Olympian in rifle shooting and coach of the Australian National Rifle Team</li><li>Began shooting competitively after FBI firearms instructor Paul Adamowski invited him to give the sport a try</li><li>Cousin, Chris Ledoux, is a country singer</li><li>Serves as a consultant for the U.S. biathlon team</li><li>Is a cancer survivor</li><li>Interests include cross-country skiing, cycling, hunting, running and playing guitar.</li></ul><h5>Olympic Experience </h5><ul><li>Four-time Olympian (2004, 2008, 2012, 2016); Three-time Olympic medalist (1 gold, 1 silver, 1 bronze)</li><li>Rio 2016 Olympic Games, 19th (50m three position)</li><li>London 2012 Olympic Games, bronze (50m three position); 35th (10m air)</li><li>Beijing 2008 Olympic Games, silver (50m prone); 4th (50m three position)</li><li>Athens 2004 Olympic Games, gold (50m prone); 8th (50m three position); 9th (10m air)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 19th (50m three position), 27th (50m prone)</li><li>Years of Participation: 2002, 2006, 2010, 2014</li><li>Medals: 2 (1 gold, 1 bronze)</li><li>Gold – 2002 (50m prone) </li><li>Bronze – 2010 (50m prone)</li></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328962/TeamUSA%20Assets/Migration/Athlete%20Profiles/Matt%20Emmons/Emmons_Matt_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matt Emmons"
+        }
+      ]
+    },
+    {
+      "first_name": "Steve",
+      "last_name": "Emt",
+      "bio": {
+        "height": "6'5\"",
+        "birthday": "1970-01-06T00:00:00",
+        "hometown": {
+          "city": "DeForest",
+          "state": "WI",
+          "country": "United States",
+          "latitude": 43.2425,
+          "longitude": -89.3401
+        },
+        "education": "Eastern Connecticut State University, B.S., University of St. Joseph (West Hartford, CT), M. Ed",
+        "fun_fact": "Played basketball at the University of Connecticut for Hall of Fame coach Jim Calhoun",
+        "biography": "<h5>Quick Facts</h5><ul><li><span><strong>Position:</strong></span><span>&nbsp;Second, Vice-Skip, Skip, Third</span></li><li><strong>Speciality</strong>: Mixed Team, Mixed Doubles</li><li>Former walk-on basketball guard for UConn</li></ul><h5>Biographical Information</h5><p><span>Steve Emt grew up a multi-sport star athlete in Hebron, Connecticut excelling in basketball, soccer and baseball. After attending West Point to play basketball, he ended finishing up his college athletic career, less than 15 miles from home at the University of&nbsp;</span>Connecticut<span>&nbsp;as a walk-on guard for Hall of Fame coach Jim Calhoun. Shortly after attending UConn at age 25, he was involved in a car accident as a result of him drinking and driving that left him paralyzed.</span></p><p><span>After going back to college to a degree in psychology he became a middle school math teacher and a high school basketball coach. Emt took up the sport of wheelchair curling in 2013 and within a couple of years competed for Team USA at the wheelchair curling world championships. Emt has represented the U.S. in eight world championships in the mixed team event with his best finish being&nbsp;</span>fourth-place finish for the Americans in 2021.&nbsp;</p><p><span>Emt made his Paralympic debut at the Paralympic Winter Games PyeongChang 2018, where Team USA finished 12th. Four years later, he competed at the&nbsp;</span><span>Paralympic Winter Games</span><span></span>&nbsp;<span>Beijing 2022</span><span>, helping the team improve to a fifth-place finish.</span></p><p><span></span><span>Emt was also the wheelchair mixed doubles national champion in 2025 with his partner Laura Dwyer represented the United States at the world championships where they finished ninth helping finalize the United States qualification for the event that will debut at the Paralympic Winter Games Milan Cortina 2026.</span><span></span></p><p><span>Off the ice, Emt t</span>ravels the country and speaks to high schools about the dangers of drinking and driving. He speaks to about 100 schools a year and is the author of the book \"You<span><em>&nbsp;D.E.C.I.D.E.”</em></span><strong></strong><span></span></p><h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Milan 2026, 4th (Doubles - Mixed)</li><li>Paralympic Games Beijing 2022, 5th (Team - Mixed)</li><li>Paralympic Games Pyeongchang 2018, 12th (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 9th (Doubles - Mixed), 11th (Team - Mixed)</li><li>Years of participation: Doubles - Mixed 2025; Team - Mixed 2015, 2016, 2017, 2019, 2021, 2023, 2024, 2025</li><li>Top finish: 4th – 2021 (Team - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662091/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/S_Emt_bio_827455.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Curling",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "Eligible",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662849/TeamUSA%20Assets/Athlete%20Profiles/Steve%20Emt%20827455/S_Emt_hero_827455.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1764089646/TeamUSA%20Assets/Qualification%20Cards/Emt_Steve_QualCard.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011092/TeamUSA%20Assets/Athlete%20Profiles/Steve%20Emt%20827455/Emt_Steve.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Steve Emt 827455"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Wheelchair Curling"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Engel",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1991-10-01T00:00:00",
+        "hometown": {
+          "city": "Truckee",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 39.3272,
+          "longitude": -120.1831
+        },
+        "education": " University of Utah ‘15",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Joan and Kurt Engel</li><li>Has a brother and sister, JJ and Lizzie</li><li>Started skiing at age 2 and had his first race at age 7</li><li>Released his own album with Sweet Salt Records and plays guitar, violin and banjo</li><li>Also enjoys fishing, hiking and skydiving.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 9th (Team - Mixed), 31th (Slalom - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 9th (Team - Mixed), 34th (Slalom - Men)</li><li>Years of participation: Slalom - Men 2017; Team - Mixed 2017</li><li>Top finish: 9th – 2017 (Team - Mixed)</li></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003272/TeamUSA%20Assets/Athlete%20Profiles/Mark%20Engel%20989383/engel_mark_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003273/TeamUSA%20Assets/Athlete%20Profiles/Mark%20Engel%20989383/Engel_Mark_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mark Engel 989383"
+        }
+      ]
+    },
+    {
+      "first_name": "Whitney",
+      "last_name": "Engen",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1987-11-28T00:00:00",
+        "hometown": {
+          "city": "Rolling Hills Estates",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.7892,
+          "longitude": -118.3534
+        },
+        "education": "Palos Verdes Peninsula High School (Rolling Hills Estates, Calif.) ‘06 University of North Carolina ‘09, Political Science ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Christopher and Kimberly Engen</li><li>Has one brother, Taylor</li><li>Plans to attend law school after her soccer career</li><li>Named to the Dean’s List five times at the University of North Carolina</li><li>Nickname is “Whit”</li><li>As a child, wanted to be a gymnast “more than anything in the world”</li><li>Played youth soccer with Christen Press, who was also selected to the 2016 U.S. Olympic Women’s Soccer Team</li><li>An avid reader, favorite genres include science fiction, thrillers and historical fiction</li><li>Loves to play all types of games – board, dice, card – anything that is competitive.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – gold (Team - Women)</li><li>Years of participation: Team - Women 2015</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2015 (Team - Women)</li></ul></ul><h5>More</h5>U.S. Soccer",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695559/TeamUSA%20Assets/Migration/Athlete%20Profiles/Whitney%20Engen%20857377/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682695562/TeamUSA%20Assets/Migration/Athlete%20Profiles/Whitney%20Engen%20857377/Engen_Whitney_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Whitney Engen 857377"
+        }
+      ]
+    },
+    {
+      "first_name": "Amber",
+      "last_name": "English",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1989-10-25T00:00:00",
+        "hometown": {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.833882,
+          "longitude": -104.821363
+        },
+        "education": "University of Colorado Colorado Springs ‘12, Allied Health Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Mike and Ana English</li><li>Her father, Mike, and uncle, Butch, were U.S. Running Target National Team members and Olympic Training center resident athletes</li><li>Her mother, Ana and aunt, Kim, were members of one of America’s top collegiate rifle programs at the University of Kentucky</li><li>As a result, both hunting and shooting are recreational activities for the entire family</li><li>In 2018, she was part of a U.S. sweep at World Championships where she earned the bronze medal</li><li>Continues to work towards a new Army officer career as a first lieutenant with the World Class Athlete Program (WCAP) attached to the Army Marksmanship Unit in Ft. Benning, Georgia</li><li>Lover of the outdoors, enjoys hiking, fishing, and hunting in the Colorado wilderness in and around the Rocky Mountains.</li></ul><h5>More</h5><p>USA Shooting</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Skeet - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – gold (Skeet - Team - Women), bronze (Skeet - Women)</li><li>Years of participation: Skeet - Team - Women 2010, 2018; Skeet - Women 2010, 2018</li><li>Medals: 3 (2 gold, 1 bronze)</li><ul><li>Gold – 2018 (Skeet - Team - Women);  2010 (Skeet - Team - Women)</li><li>Bronze – 2018 (Skeet - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661984/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/english_a_bio_865062.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662623/TeamUSA%20Assets/Athlete%20Profiles/Amber%20English%20865062/english_a_hero_865062.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012657/TeamUSA%20Assets/Athlete%20Profiles/Amber%20English%20865062/english_amber_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Amber English 865062"
+        }
+      ]
+    }
+  ]
+}

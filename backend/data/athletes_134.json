@@ -1,0 +1,1176 @@
+{
+  "entries": [
+    {
+      "first_name": "Hayley",
+      "last_name": "Scamurra",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1994-12-14T00:00:00",
+        "hometown": {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.8803,
+          "longitude": -78.8786
+        },
+        "education": " Northeastern University ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Forward</li><li>Daughter of Peter and Rebecca</li><li>Her dad, Peter, played four seasons in the NHL for the Washington Capitals</li><li>Has three siblings, Jared, Colin and Travis</li></ul><h5>Biographical Information</h5><p><span>Hayley Scamurra showed an interest in playing hockey around age 4, following her older brothers to the rink in their backyard. Her dad, Peter, who played four seasons in the NHL for the Washington Capitals, was her youth coach. At age 7, Haley declared to her youth hockey team that one day she would be an Olympian.</span></p><p><span>Scamurra played college at Northeastern University and was named the best defensive forward in her conference her senior season. She was drafted by her hometown Buffalo Beauts as the 10th overall pick in the 2016 NWHL Draft and was named the NWHL’s first-ever Rookie of the Year for the 2017-18 season.&nbsp;</span></p><p><span>Two years later, Scamurra would make her IIHF World Championship debut for U.S. women’s hockey at the 2019 IIHF World Championships. Scamurra made her Olympic debut at the Olympic Winter Games Beijing 2022, where the U.S. women’s team won silver.&nbsp;</span></p><p><span>Scamurra plays in the PWHL for the Montréal Victoire.&nbsp;</span></p><h5>Olympic Experience</h5><ul><li>2-time Olympian; 2-time Olympic medalist (1 gold, 1 silver)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li><li>Olympic Games Beijing 2022, silver (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2019, 2021, 2022, 2023, 2024, 2025</li><li>Medals: 6 (3 gold, 3 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women);  2019 (Team - Women)</li><li>Silver – 2024 (Team - Women);  2022 (Team - Women);  2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697152238/TeamUSA%20Assets/Athlete%20Profiles/Hayley%20Scamurra%201176286/scamurra_h_bio_862814.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697152355/TeamUSA%20Assets/Athlete%20Profiles/Hayley%20Scamurra%201176286/scamurra_h_hero_862814.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004791/TeamUSA%20Assets/Athlete%20Profiles/Hayley%20Scamurra%201176286/scamurra_hayley_beijing_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hayley Scamurra 1176286"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Garrett",
+      "last_name": "Scantling",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1993-05-19T00:00:00",
+        "hometown": {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 30.3322,
+          "longitude": -81.6557
+        },
+        "education": "Jacksonville Episcopal High School (Jacksonville, Fla.) ‘11 University of Georgia ‘16, Financial Planning and Services",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Went to training camps with the Atlanta Falcons as a wide receiver</li><li>Likes to decompress by playing video games.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2021 U.S. Olympic Team Trials, gold (decathlon)</li>\r\n                            <li>2016 U.S Olympic Team Trials - 4th </li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 4th (Decathlon - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 –  (Heptathlon (Indoor) - Men)</li><li>Years of participation: Heptathlon (Indoor) - Men 2022</li><li>Top finish:  – 2022 (Heptathlon (Indoor) - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335525/TeamUSA%20Assets/Migration/Athlete%20Profiles/Garrett%20Scantling/Scantling_Garrett_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Garrett Scantling"
+        }
+      ]
+    },
+    {
+      "first_name": "Susannah",
+      "last_name": "Scaroni",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-05-16T00:00:00",
+        "hometown": {
+          "city": "Tekoa",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.22,
+          "longitude": -117.06
+        },
+        "education": " University of Illinois at Urbana-Champaign",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Warren and Barbara Scaroni</li><li>Has two brothers, Jesse and Chris</li><li>Has one sister, Rose</li><li>Hobbies include cooking, swimming, being outdoors and training</li><li>Qualified for the Paralympic Games Paris 2024 via the 2023 New York City Marathon</li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 6-time Paralympic medalist (1 gold, 1 silver, 4 bronze)</li><ul><li>Paralympic Games Paris 2024, silver (5000m T54 - Women), bronze (1500m T54 - Women, 800m T54 - Women, Marathon T54 - Women)</li><li>Paralympic Games Tokyo 2020, gold (5000m T54 - Women), bronze (800m T54 - Women), 6th (Marathon T54 - Women), 9th (1500m T54 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 7th (Marathon T54 - Women), 13th (800m T54 - Women)</li><li>Paralympic Games London 2012, 8th (Marathon T54 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (5000m T54 - Women)</li><li>Years of participation: 5000m T54 - Women 2015, 2017, 2019, 2023; 1500m T54 - Women 2015, 2019; 400m T54 - Women 2019; 800m T54 - Women 2015, 2017, 2019; Marathon T54 - Women 2013, 2019; Marathon T53/54 - Women 2015</li><li>Medals: 3 (3 bronze)</li><ul><li>Bronze – 2023 (5000m T54 - Women);  2019 (5000m T54 - Women, 800m T54 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712521600/TeamUSA%20Assets/Media%20Summit%20Athletes/Susannah%20Scaroni/Scaroni_Suannah_GettyLA.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 4,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T54",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1684898376/TeamUSA%20Assets/Migration/Pages/Scaroni_Susannah_083021_1440x810_Updated.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700160397/TeamUSA%20Assets/Athlete%20Profiles/Susannah%20Scaroni%20923778/Scaroni_s_featured_923778.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013297/TeamUSA%20Assets/Athlete%20Profiles/Susannah%20Scaroni%20923778/Sacaroni_Susannah250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Susannah Scaroni 923778"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Scaturro",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1978-12-04T00:00:00",
+        "hometown": {
+          "city": "Lakewood",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.7047,
+          "longitude": -105.0814
+        },
+        "education": "Colorado State University, Sports Medicine ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Pasquale Scaturro and Jody Dertina</li><li>Has one brother, Timothy, and one sister, Sarah</li><li>Has a son, Sebastian</li><li>Hobbies include coaching youth sports, international traveling, scuba diving, paragliding, rafting, and handcycling</li><li>Was the first quadriplegic to reach the Mt. Everest Base Camp</li><li>Recently engaged to Kathleen Madigan in February 2021.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (2 silver, 1 bronze)</li><ul><li>Paralympic Games Tokyo 2020, silver (Team - Mixed)</li><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Mixed)</li><li>Paralympic Games London 2012, bronze (Team - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – silver (Team - Mixed)</li><li>Years of participation: Team - Mixed 2010, 2018, 2022</li><li>Medals: 3 (1 gold, 1 silver, 1 bronze)</li><ul><li>Gold – 2010 (Team - Mixed)</li><li>Silver – 2022 (Team - Mixed)</li><li>Bronze – 2018 (Team - Mixed)</li></ul></ul><h5>More</h5>USA Wheelchair Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "1.5",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335726/TeamUSA%20Assets/Migration/Athlete%20Profiles/Adam%20Scaturro/Scaturro_Adam_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Adam Scaturro"
+        }
+      ]
+    },
+    {
+      "first_name": "Tom",
+      "last_name": "Schaar",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1999-09-14T00:00:00",
+        "hometown": {
+          "city": "Malibu",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0259,
+          "longitude": -118.7798
+        },
+        "education": "San Dieguito High School Academy (Encinitas, Calif.) ‘18",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Reagan and Nick Schaar </li><li>Made his X-Games debut at the age of 12</li><li>Owns seven bronze, four silver and three X-Games gold medals</li><li>Signed to Birdhouse Skateboarding </li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2026 – bronze (Park - Men)</li><li>Years of participation: Park - Men 2016, 2016, 2017, 2017, 2019, 2023, 2023, 2026</li><li>Medals: 3 (3 bronze)</li><ul><li>Bronze – 2026 (Park - Men);  2017 (Park - Men, Park - Men)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (Park - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1709144756/Schaar_Tom_XGames2023Vert.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Skateboarding",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1709144444/Schaar_Tom_XGames2023.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1709144322/tom_schaar_Headshot.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1709144322/tom_schaar_Headshot.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tom Schaar"
+        },
+        {
+          "title": "Skateboarding"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Jese",
+      "last_name": "Schag",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1989-04-22T00:00:00",
+        "hometown": {
+          "city": "Edmond",
+          "state": "OK",
+          "country": "United States",
+          "latitude": 35.6528,
+          "longitude": -97.4785
+        },
+        "education": "Serena High School (Serena, Ill.) San Diego City College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>The happiest moment of his life was the birth of his daughter, Adrianna, in 2011<h5>Career Highlights</h5><ul>\r\n                            <li>2015: Parapan American Games (Silver)</li>\r\n                            <li>---</li>\r\n                            <li>MOST NOTABLE</li>\r\n                            <li>First played volleyball as a member of the Marine Corps’ Wounded Warrior Games team in 2010</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW?</li>\r\n                            <li>Was injured in a motorcycle accident in 2009 in which his right leg was amputated. </li>\r\n                            <li>Schag served in the Marines from 2008 until 2011.</li>\r\n                            <li>Won gold in sitting volleyball and wheelchair basketball and bronze in the 50-meter breaststroke at the 2010 Wounded Warrior Games </li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 8th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2014 – 10th (Team - Men)</li><li>Years of participation: Team - Men 2014</li><li>Top finish: 10th – 2014 (Team - Men)</li></ul><h5>More</h5>Sitting Volleyball Yields a Patriotic Avenue for Vets\n<p><br>\n</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328751/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jese%20Schag/JeseSchag150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jese Schag"
+        }
+      ]
+    },
+    {
+      "first_name": "Xander",
+      "last_name": "Schauffele",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1993-10-25T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Scripps Ranch High School Long Beach State University, San Diego State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Although born in La Jolla, California, he belongs to four nationalities. His mother is from Chinese Taipei (but grew up in Japan) and is father is half-French and half-German</li><li>Plays out of Bernardo Heights Country Club in San Diego</li><li>His father, Stefan, was an elite athlete in Germany before he was hit by a drunk-driver in a head-on collision which ended his dreams of being an Olympic athlete</li><li>Is part of golf's high school Class of 2011 that includes, among others, Jordan Spieth, Justin Thomas and Daniel Berger</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, 9th (Individual - Men)</li><li>Olympic Games Tokyo 2020, gold (Individual - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 16th (Individual - Men)</li><li>Years of participation: Individual - Men 2018</li><li>Top finish: 16th – 2018 (Individual - Men)</li></ul><h5>Career Highlights</h5><ul><li>2024 The Open Championship, 1st</li><li>2024 PGA Championship, 1st (first major championship title)</li><li>2023 Ryder Cup - U.S. Team Member</li><li>2019 World Golf Championships-HSBC Champions Winner</li><li>2019 Sentry Tournament of Champions Winner</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721404680/TeamUSA%20Assets/Athlete%20Profiles/Xander%20Schauffele%20907927/Schauffele_X_hero_907927.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719329121/xander_copy.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719329121/xander_copy.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719329121/xander_copy.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Xander Schauffele 907927"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Golf"
+        }
+      ]
+    },
+    {
+      "first_name": "Scottie",
+      "last_name": "Scheffler",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1996-06-21T00:00:00",
+        "hometown": {
+          "city": "Ridgewood",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.9815,
+          "longitude": -74.1135
+        },
+        "education": "University of Texas at Austin",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Golf</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Specialty</strong></span><span style=\"font-size: 11pt;\">: Individual stroke play</span></p></li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"font-size: 11pt;\">Scottie Scheffler is an American professional golfer who has established himself as one of the leading players on the PGA Tour. He has earned multiple PGA Tour victories, including two major championship wins at the Masters Tournament in 2022 and 2024.</span></p><p><span style=\"font-size: 11pt;\">Scheffler developed a passion for golf at the young age of three when he received a set of plastic clubs from his parents. As a child, he would practice with ping pong balls. He began practicing at the 9W Driving Range, where his father worked shoveling snow in the winter to support his son’s interest.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Scheffler quickly rose through the junior golf ranks, becoming one of the top amateur players in the country. He attended Highland Park High School and was later recruited to play golf at the University of Texas at Austin for the Texas Longhorns. Scheffler graduated from the McCombs School of Business in 2018 with a degree in finance.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Off the course, he is involved with several charitable initiatives and is passionate about giving back to the community. He’s an active supporter of Triumph Over Kid Cancer (TOKC), a non-profit that raises money for childhood cancer research. Scheffler has donated to the organization, volunteered, and participated in various events. In August 2023, he also became an investor in the Texas Ranchers pickleball team.</span><span style=\"font-size: 11pt;\"></span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Individual - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Individual - Men)</li><li>Years of participation: Individual - Men 2022, 2023</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (Individual - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720222307/Scheffler_Scottie_24.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Golf",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719334544/NGB%20Golf/Athlete%20Profiles/scheffler.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719334544/NGB%20Golf/Athlete%20Profiles/scheffler.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1719334544/NGB%20Golf/Athlete%20Profiles/scheffler.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Golf"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Aaron",
+      "last_name": "Scheidies",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1982-01-17T00:00:00",
+        "hometown": {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 47.6062,
+          "longitude": -122.3321
+        },
+        "education": "Michigan State University ’04, Kinesiology; University of Washington ’08, Doctor of Physical Therapy",
+        "fun_fact": null,
+        "biography": "<p></p>\n<p><h5>Career Highlights</h5>Seven-time Paratriathlon World Champion<br>\nEight-time USA Paratriathlon National Champion<br>\nTwo-time World Paratriathlon Championships silver medalist<br>\nSix-time ITU World Paratriathlon Event gold medalist<br>\n2016 U.S. Paralympian, Road Cycling\n<p><strong>Elite Triathlon Career<br>\n<br>\n2021:&nbsp;</strong>Earned two fifth-place finishes at the World Triathlon Para Series races in Yokohama, Japan, on May 15, and Leeds, England, on June 5<span>&nbsp;&bull; Earned a bronze medal at the Americas Triathlon Para Championships Pleasant Prairie on June 27</span></p>\n<p><strong>2019: </strong>Took gold at the Sarasota-Bradenton CAMTRI Paratriathlon American Championships on March 9<span>&nbsp;&bull; Won the Toyota USA Paratriathlon National Championships on July 20<span>&nbsp;&bull; Earned a silver medal at the Tokyo ITU Paratriathlon World Cup on Aug. 17<span>&nbsp;&bull; Took bronze at the World Paratriathlon Championships in Lausanne, Switzerland, on Sept. 3</span></span></span><br>\n<br>\n<strong>2018:</strong> Started his season with a win&nbsp;at the&nbsp;CAMTRI Paratriathlon American Championships Sarasota-Bradenton on March 10&nbsp;&bull; Raced to a silver medal at the&nbsp;ITU World Paratriathlon Series Edmonton on July 27&nbsp;&bull; Grabbed silver at the ITU Paratriathlon World Championships in Gold Coast, Australia, on Sept. 15</p>\n<p><strong>2017:</strong> Won the PTVI men&rsquo;s title at the Sarasota CAMTRI Paratriathlon American Championships on March 11 &bull; Took the win at the USA Paratriathlon National Championships on June 25 in the men&rsquo;s PTVI division &bull; Earned gold for PTVI men at ITU World Paratriathlon Edmonton on July 28 &bull; Claimed the silver medal in the men&rsquo;s PTVI division at the ITU Paratriathlon World Championships in Rotterdam on Sept. 14</p>\n<p><strong>2016: </strong>Had an undefeated elite paratriathlon season, which included men&rsquo;s PT5 division wins at the Sarasota CAMTRI Paratriathlon American Championships on March 13, the Rotterdam ITU Paratriathlon World Championships on July 23 and the USA Paratriathlon National Championships on Aug. 14 &bull; Competed at the Rio 2016 Paralympic Games in para-cycling, placing 11th in the road race and 12th in the road time trial</p>\n<p><strong>2015:&nbsp;</strong>Took the men&rsquo;s PT5 win at the Monterrey CAMTRI Triathlon American Championships on May 1 &bull; Won gold for PT5 men at the Detroit ITU World Paratriathlon Event on Aug. 16 &bull; Claimed the world title in the men&rsquo;s PT5 division at the ITU World Triathlon Grand Final in Chicago on Sept. 15</p>\n<p><strong>2014: </strong>Opened his season with a win in the men&rsquo;s PT5 division at the Dallas PATCO Triathlon Pan American Championships on May 31 &bull; Won the men&rsquo;s PT5 category at the Chicago (June 28) and Magog (July 19) ITU World Paratriathlon Events &bull; Won a men&rsquo;s PT5 world title at the ITU World Triathlon Grand Final in Edmonton on Aug. 29 &bull; Defended his national title at the USA Paratriathlon National Championships on Sept. 20</p>\n<p><strong>2013: </strong>Won gold medals at ITU Paratriathlon International Events in San Diego (April 20) and Edmonton (June 22) in the men&rsquo;s TRI-6b division &bull; Won the TRI-6b title at the USA Paratriathlon National Championships on May 27 &bull; Earned silver in the men&rsquo;s TRI-6b paratriathlon division at the ITU World Triathlon Grand Final in London on Sept. 11</p>\n<p><strong>2009: </strong>Earned gold in the men&rsquo;s TRI-6 paratriathlon division at the ITU World Triathlon Grand Final in Gold Coast on Sept. 9</p>\n<p><strong>2006: </strong>Claimed the gold medal in the AWAD men&rsquo;s blind division at the Lausanne ITU Triathlon World Championships on Sept. 2</p>\n<p><h5>Quick Facts</h5>Son of Michael and Mary Scheidies &bull; Has one brother, Ryan &bull; Married to Brittney Paisley &bull; Is a 2016 U.S. Paralympian and 2015 world championship competitor in road para-cycling &bull; Has completed nearly 200 triathlons, including IRONMAN Couer d&rsquo;Alene in 2005 &bull; Was nominated for an ESPY in 2011 in the Best Male Athlete with a Disability category &bull; Has been featured in such magazines as GQ, Esquire, Competitor, ESPN the Magazine and Men&rsquo;s Health &bull; Plays himself in the 2008 documentary <em>Victory Over Darkness</em>\n<p>&nbsp;</p>\n<p>&nbsp;</p><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 11th (Tandem B - Road Race - Men), 12th (Tandem B - Time Trial - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – bronze (PTVI - Men)</li><li>Years of participation: PTVI - Men 2017, 2018, 2019; PT5 - Men 2014, 2015, 2016; Tandem B - Road Race - Men 2015; Tandem B - Time Trial - Men 2015; TRI-6b - Men 2013</li><li>Medals: 7 (3 gold, 3 silver, 1 bronze)</li><ul><li>Gold – 2016 (PT5 - Men);  2015 (PT5 - Men);  2014 (PT5 - Men)</li><li>Silver – 2018 (PTVI - Men);  2017 (PTVI - Men);  2013 (TRI-6b - Men)</li><li>Bronze – 2019 (PTVI - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "Tandem",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328629/TeamUSA%20Assets/Migration/Athlete%20Profiles/Aaron%20Scheidies/120417-aaron-scheidies.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Aaron Scheidies"
+        }
+      ]
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Scherer",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1991-02-12T00:00:00",
+        "hometown": {
+          "city": "Woburn",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.4834,
+          "longitude": -71.1528
+        },
+        "education": "Homeschooled (Billerica, Mass.) ‘09 Texas Christian University ‘13, Nutrition",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ken and Susan Scherer</li><li>Brother, Stephen (deceased, 2010), represented Team USA at the 2008 Olympic Games in rifle shooting</li><li>Previously retired from competitive shooting to have two back surgeries, but returned in 2015</li><li>Aspires to become a registered dietician and get her masters as a physician’s assistant</li><li>Interests include playing soccer, basketball, softball and Frisbee</li><li>Hobbies include Latin and American ballroom dancing, clay crafts and jewelry making</li><li>Favorite sports to watch are gymnastics and figure skating.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 8th (10m Air Rifle - Women), 33th (50m Rifle 3 Positions - Women)</li><li>Olympic Games London 2012, 7th (10m Air Rifle - Women)</li></ul></ul><h5>More</h5>USA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698303/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Scherer%20867680/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698305/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sarah%20Scherer%20867680/Scherer_Sarah_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sarah Scherer 867680"
+        }
+      ]
+    },
+    {
+      "first_name": "Katiann",
+      "last_name": "Scherer",
+      "bio": {
+        "height": "5'10",
+        "birthday": "1991-11-10T00:00:00",
+        "hometown": {
+          "city": "North Canton",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 40.8795,
+          "longitude": -81.4087
+        },
+        "education": "Hoover High School Ohio State University & DeVry University (Keller Graduate School of Management)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Skip and Kitty</li><li>Sister to Katrina and Nathan</li><li>Is pursuing her Master in Business Administration, specializing in Marketing, through DeVry University’s Keller Graduate School of Management and its partnership with the U.S. Olympic &amp; Paralympic Committee</li><li>Her idol is Jack Hanna, Director Emeritus at the Columbus Zoo &amp; Aquarium, where she brought  people and animals together working as a Zookeeper and Education Interpreter!</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2019 ANOC World Beach Games - 10th (Doha, Qatar)</li>\r\n                            <li>2019 So. Cal Beach Handball Championships - 1st</li>\r\n                            <li>2019 Nor. Cal Beach Handball Championships - 1st</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 2nd Place, Most Valuable Goalkeeper</li>\r\n                            <li>2018 Pan American Beach Handball Championships - 6th (Oceanside, California)</li>\r\n                            <li>2017 Pan American Championships (Indoor) - 5th (Argentina)</li>\r\n                            <li>2015 Pan American Championships (Indoor) - 10th (Cuba)</li>\r\n                            <li>2015 ​Pan American Championships Nor.Ca Qualifier (Indoor) - 3rd</li>\r\n                            <li>2014 USA Team Handball Collegiate National Championships  (Indoor) - 1st</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2018 IHF Beach Handball World Championships - 14th (Kazan, Russia) </li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328584/TeamUSA%20Assets/Migration/Athlete%20Profiles/Katiann%20Scherer/WNT_Scherer150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Katiann Scherer"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Scherf",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1998-07-13T00:00:00",
+        "hometown": {
+          "city": "Michigan City",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 41.7139,
+          "longitude": -86.9
+        },
+        "education": "Michigan City High School (Michigan City, Ind) ‘17 Earlham College ‘21, History",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Rhonda and Peter Scherf</li><li>Has three siblings, Zach, Ethan and Lu Xi</li><li>Born with Bilateral Retinal Coloboma</li><li>Began running track his freshman year of high school</li><li>Enjoys swimming, reading, playing sports and studying history</li><li>Interested in international relations, foreign languages, geography, current events, theology and culture</li><li>Runs cross-country for Earlham College</li><li>Favorite movie is Hacksaw Ridge</li><li>Favorite book is Wolf Totem</li><li>Fan of the Indiana Colts</li><li>Favorite singer is Keith Urban</li><li>Favorite athlete is Moroccan middle-distance runner Hicham El Guerrouj.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Santiago, 2023 (5000m T13 - Men, 1500m T13 - Men)</li><li>ParaPan American Games, Lima, 2019 (5000m T13 - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 9th (5000m T13 - Men)</li><li>Years of participation: 5000m T13 - Men 2019</li><li>Top finish: 9th – 2019 (5000m T13 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698339/TeamUSA%20Assets/Migration/Athlete%20Profiles/Noah%20Scherf%201006315/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T13",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698342/TeamUSA%20Assets/Migration/Athlete%20Profiles/Noah%20Scherf%201006315/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Scherf 1006315"
+        }
+      ]
+    },
+    {
+      "first_name": "Sebastian",
+      "last_name": "Scheurer",
+      "bio": {
+        "height": "'\"",
+        "birthday": "1986-12-16T00:00:00",
+        "hometown": {
+          "city": "Greenwich",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.0266,
+          "longitude": -73.6283
+        },
+        "education": "CJD Braunschweig ",
+        "fun_fact": null,
+        "biography": "<div>\r\n<p></p>\r\n<p></p>\r\n<p>&nbsp;</p>\r\n<p></p>\r\n<p><br><br></p>\r\n<ul>\r\n<li>2008-09 USA National Squad</li>\r\n<li>2009-10 USA National Squad</li>\r\n</ul>\r\n<strong><br></strong>\r\n<div>&nbsp;</div>\r\n<p></p>\r\n<ul>\r\n<li>CJD, Braunschweig<br><br>&nbsp;</li>\r\n</ul>\r\n<p></p>\r\n<ul>\r\n<li><strong>Early Career<br></strong>Started playing field hockey at the age of 8</li>\r\n<li><strong>International Highlights- </strong>JWC Qualification in Trinidad and Tobago, and JWC in Singapore and Malaysia&nbsp;</li>\r\n</ul>\r\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Field Hockey",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003889/TeamUSA%20Assets/Athlete%20Profiles/Sebastian%20Scheurer%20877590/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sebastian Scheurer 877590"
+        }
+      ]
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Schieck",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "2001-08-06T00:00:00",
+        "hometown": {
+          "city": "Statesville",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.7829,
+          "longitude": -80.8895
+        },
+        "education": "University of North Carolina at Chapel Hill ‘23, Sports Administration and Communication Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Parents are Charles and Elizabeth Schieck. Brothers are Thomas and Alexander Schieck, and sister is Abigail Schieck</li><li>Due to complications at birth, she suffered nerve damage which affected her left shoulder/arm. As a result, her arm does not straighten, fully rotate, or go behind her back. It is called a brachial plexus injury</li><li>Began playing volleyball when she was 7 years old and started sitting volleyball in 2017</li><li>Plays standing volleyball with Precision Athletics Volleyball Club in Mooresville, N.C.</li><li>Passionate about community service</li><li>Hobbies include watching movies, TV shows, photography and psychology</li></ul><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (2 gold)</li><ul><li>Paralympic Games Paris 2024, gold (Team - Women)</li><li>Paralympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2022 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2022 (Team - Women)</li></ul></ul><h5>More</h5>USA Volleyball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662034/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/schieck_e_bio.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "VS1",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662608/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/schieck_e_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335772/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emma%20Schieck/p150x250-Emma-Schieck.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emma Schieck"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sitting Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "Schiffler",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1983-03-20T00:00:00",
+        "hometown": {
+          "city": "Lake Wales",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9,
+          "longitude": -81.5833
+        },
+        "education": "Frostproof Junior-Senior High School University of Georgia",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married Alexander Schiffler in 2011. Alexander competed for Germany in sitting volleyball at the 2000, 2004 and 2012 Paralympic Games, and they also played on the same club team in Germany</li><li>Most admired person is her mother because “she taught me to me to have an open mind, strong will, and yet to be empathetic through her example.&quot;</li><li>The happiest moments of her life were her wedding day and the birth of her daughter, Marlena, in 2015</li><li>Graduated cum laude from the University of Georgia, and also was named to the Dean’s List and Provost’s List</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016: ParaVolley Intercontinental Cup (Gold); Exhibition tournament vs. Russia; Dutch Tournament (First Place)</li>\r\n                            <li>2012: Shanghai Exhibition Tournament; Netherlands Exhibition; Volleyball Masters (Gold)</li>\r\n                            <li>2011: ECVD Continental Cup (Gold)</li>\r\n                            <li>2010: WOVD World Cup (Gold); Parapan American Championship (Gold)</li>\r\n                            <li>2009: Parapan American Zonal Championship (Gold)</li>\r\n                            <li>---</li>\r\n                            <li>MOST NOTABLE</li>\r\n                            <li>Member of the U.S. Women&#39;s Sitting Team named Team USA&#39;s 2016 &quot;Best Paralympic Team&quot;</li>\r\n                            <li>Has won eight gold medals with Team USA since 2010</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW</li>\r\n                            <li>Right arm amputee below the elbow</li>\r\n                            <li>Played in 11 sets of the 2012 Paralympics as a substitute. Finished with 14 points on 10 kills, one block and three aces.</li>\r\n                            <li>Played basketball without her prosthetic arm and volleyball with it during high school before she started in sitting volleyball.</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>2-time Paralympian; 2-time Paralympic medalist (1 gold, 1 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Paralympic Games London 2012, silver (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Women)</li><li>Years of participation: Team - Women 2014, 2022</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2014 (Team - Women)</li></ul></ul><h5>More</h5><p>U.S. Women's Sitting Team takes top spot in world rankings&nbsp;<br>\nU.S. Women's Sitting Volleyball Team named \"Best Paralympic Team\"<br>\nTwo Polk Countians help U.S. volleyball win gold at Paralympics&nbsp;&ndash; The Ledger<br>\nPolk athletes savor chance to compete on the world stage&nbsp;&ndash; The Ledger<br>\nSchiffler's road to gold takes international turn<br>\n2012 Paralympics: Gerlosky Aims to Bring Home a Gold Medal&nbsp;&ndash; The Ledger</p>\n<ul>\n</ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sitting Volleyball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328561/TeamUSA%20Assets/Migration/Athlete%20Profiles/Michelle%20%20Schiffler/Schiffler-Michelle-2016.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michelle Schiffler"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Schild",
+      "bio": {
+        "height": "4'10\"",
+        "birthday": "1998-08-19T00:00:00",
+        "hometown": {
+          "city": "Huntersville",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.4107,
+          "longitude": -80.8406
+        },
+        "education": "Performance Learning Center (Charlotte, N.C.) ‘17",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td style=\"text-align: justify;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\"></td>\n        </tr>\n    </tbody>\n</table>\n<div><p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Women, Floor Exercise - Women, Individual All-Around - Women)</li></ul><h5>Quick Facts</h5><ul><li>Daughter of Maria and David Schild</li><li>Began gymnastics in 2001</li><li>Hobbies include swimming, playing tennis and golf and spending time with friends.</li></ul><br>\n\n</p><p><h5>More</h5>Personal Website&nbsp;<br>\nUSA Gymnastics\n</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686328625/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Schild/Gymnastics_Artistic_Women_Schild_Emily.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Morgan",
+      "last_name": "Schild",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1997-08-25T00:00:00",
+        "hometown": {
+          "city": "Pittsford",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 43.09034,
+          "longitude": -77.52222
+        },
+        "education": "Pittsford Sutherland High School (Pittsford, N.Y.) Westminster College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter to Lorraine and Robert</li><li>Has two brothers, Graham and Greg</li><li>Learned to ski at age 5</li><li>Considers U.S. freestyle skier Heidi Kloser as a role model</li><li>Hobbies include hiking, biking and cooking.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 FIS World Cup Rookie of the Year</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 15th (Moguls - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 13th (Dual Moguls - Women), 19th (Moguls - Women)</li><li>Years of participation: Dual Moguls - Women 2017; Moguls - Women 2017</li><li>Top finish: 13th – 2017 (Dual Moguls - Women)</li></ul><h5>More</h5>U.S. Ski &amp; Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003422/TeamUSA%20Assets/Athlete%20Profiles/Morgan%20Schild%20815461/schild_morgan_033117_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003423/TeamUSA%20Assets/Athlete%20Profiles/Morgan%20Schild%20815461/schild_morgan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Morgan Schild 815461"
+        }
+      ]
+    },
+    {
+      "first_name": "Lauren",
+      "last_name": "Schmetterling",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1988-08-03T00:00:00",
+        "hometown": {
+          "city": "Moorestown",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 39.9667,
+          "longitude": -74.9333
+        },
+        "education": "Moorestown High School (Moorestown, N.J.) ‘06 Colgate University ‘10, Economics",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Eric and Lorie Schmetterling</li><li>Hobbies include crossword puzzles, downhill skiing and napping</li><li>Voted 2015 Fan’s Choice National Team Athlete of the Year.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Eight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 7th (Quadruple Sculls - Women)</li><li>Years of participation: Quadruple Sculls - Women 2019; Eight - Women 2013, 2014, 2015, 2017</li><li>Medals: 3 (3 gold)</li><ul><li>Gold – 2015 (Eight - Women);  2014 (Eight - Women);  2013 (Eight - Women)</li></ul></ul><h5>More</h5>USRowing<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698321/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lauren%20Schmetterling%20878423/womens8_080816_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698322/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lauren%20Schmetterling%20878423/Schmetterling_Lauren_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lauren Schmetterling 878423"
+        }
+      ]
+    },
+    {
+      "first_name": "Allison",
+      "last_name": "Schmitt",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1990-06-07T00:00:00",
+        "hometown": {
+          "city": "Canton",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.3064,
+          "longitude": -83.4866
+        },
+        "education": "University of Georgia",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Ralph and Gail Schmitt. Has three sisters, Kirsten and twins, Kari and Sarah; and one brother, Derek.</li><li><p>Nicknamed “Schmitty”</p></li><li><p>lLoves working with children, is passionate about the mental health field and is planning on pursuing a career in mental health post swimming.</p></li><li><p>Pursing a masters in social work.</p></li><li><p>Hobbies include scrapbooking, photography and playing outdoor games and board games.</p></li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 10-time Olympic medalist (4 gold, 3 silver, 3 bronze)</li><ul><li>Olympic Games Tokyo 2020, silver (4 x 200m Freestyle Relay - Women), bronze (4 x 100m Freestyle Relay - Women), 10th (200m Freestyle - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (4 x 200m Freestyle Relay - Women), silver (4 x 100m Freestyle Relay - Women)</li><li>Olympic Games London 2012, gold (200m Freestyle - Women, 4 x 100m Medley Relay - Women, 4 x 200m Freestyle Relay - Women), silver (400m Freestyle - Women), bronze (4 x 100m Freestyle Relay - Women)</li><li>Olympic Games Beijing 2008, bronze (4 x 200m Freestyle Relay - Women), 9th (200m Freestyle - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2012 – gold (200m Freestyle (SC) - Women, 4 x 100m Freestyle Relay (SC) - Women, 4 x 200m Freestyle Relay (SC) - Women), 12th (400m Freestyle (SC) - Women)</li><li>Years of participation: 200m Freestyle (SC) - Women 2012; 4 x 100m Freestyle Relay (SC) - Women 2012; 4 x 200m Freestyle Relay (SC) - Women 2012; 400m Freestyle (SC) - Women 2012; 200m Freestyle - Women 2009, 2011; 4 x 200m Freestyle Relay - Women 2009, 2011; 400m Freestyle - Women 2009</li><li>Medals: 6 (4 gold, 2 silver)</li><ul><li>Gold – 2012 (200m Freestyle (SC) - Women, 4 x 100m Freestyle Relay (SC) - Women, 4 x 200m Freestyle Relay (SC) - Women);  2011 (4 x 200m Freestyle Relay - Women)</li><li>Silver – 2009 (200m Freestyle - Women, 4 x 200m Freestyle Relay - Women)</li></ul></ul><h5>More</h5>USA Swimming<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662079/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Schmitt_A_bio_854598.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 4,
+        "silver": 3
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662611/TeamUSA%20Assets/Athlete%20Profiles/Allison%20Schmitt%20854598/Schmitt_A_hero_854598.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012347/TeamUSA%20Assets/Athlete%20Profiles/Allison%20Schmitt%20854598/schmitt_allison_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Allison Schmitt 854598"
+        }
+      ]
+    },
+    {
+      "first_name": "Natalie",
+      "last_name": "Schneider",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1983-02-11T00:00:00",
+        "hometown": {
+          "city": "Ord",
+          "state": "NE",
+          "country": "United States",
+          "latitude": 41.60334,
+          "longitude": -98.93981
+        },
+        "education": "University of Nebraska ’07",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Nancy and Dennis Nelsen</li><li>Has two sisters, Dana Stark and Chrystal Gard, and one brother, Daryl Nelsen. Daughters are Rowan, Hannah and Tori</li><li><p>Diagnosed with osteosarcoma in her distal femur in high school</p></li><li>Discovered Paralympic sports after graduating from college.</li><li>Previously worked as a statistician after graduating from the University of Nebraska with a degree in statistics</li><li>Played sitting volleyball before discovering her talent in wheelchair basketball</li><li>Made the U.S. Paralympic Team in 2008, the first year she tried out for the women’s wheelchair basketball team</li><li>Hobbies include going to the University of Nebraska football games and playing basketball.</li></ul><h5>Paralympic Experience</h5><ul><li>5-time Paralympian; 4-time Paralympic medalist (2 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, silver (Team - Women)</li><li>Paralympic Games Tokyo 2020, bronze (Team - Women)</li><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Women)</li><li>Paralympic Games London 2012, 4th (Team - Women)</li><li>Paralympic Games Beijing 2008, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2010, 2023</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2010 (Team - Women)</li><li>Bronze – 2023 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662052/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Schneider_n_bio_805784.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "4.5",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662879/TeamUSA%20Assets/Athlete%20Profiles/Natalie%20Schneider%20805784/schneider_n_hero_805784.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712068978/TeamUSA%20Assets/Athlete%20Profiles/Natalie%20Schneider%20805784/Schneider_n_feature.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013282/TeamUSA%20Assets/Athlete%20Profiles/Natalie%20Schneider%20805784/Schneider_Natalie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Natalie Schneider 805784"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Rachel",
+      "last_name": "Schneider",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-07-18T00:00:00",
+        "hometown": {
+          "city": "Sanford",
+          "state": "ME",
+          "country": "United States",
+          "latitude": 43.4376,
+          "longitude": -70.7767
+        },
+        "education": "Georgetown University ‘13, Human Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has been a mentor and Big Sister for the past three years in the Big Brothers Big Sisters organization in Flagstaff, Arizona</li><li>Has three dogs who regularly train with her</li><li>Enjoys traveling, hiking, biking, swimming, surfing, snowboarding, reading, cooking, and spending time with family and friends.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 17th (5000m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 19th (5000m - Women)</li><li>Years of participation: 5000m - Women 2019</li><li>Top finish: 19th – 2019 (5000m - Women)</li></ul><h5>More</h5>USA Track and Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662078/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Schneider_r_bio_.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662602/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/schneider_r_hero_UNKNOWN.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686331494/TeamUSA%20Assets/Migration/Athlete%20Profiles/Rachel%20Schneider/Schneider_Rachel.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Rachel Schneider"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1216 @@
+{
+  "entries": [
+    {
+      "first_name": "Kendall",
+      "last_name": "Gretsch",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1992-04-02T00:00:00",
+        "hometown": {
+          "city": "Downers Grove",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.7906,
+          "longitude": -88.0106
+        },
+        "education": "Washington University St. Louis",
+        "fun_fact": "She has won gold at both the summer and winter Paralympic Games",
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"font-size: 11pt;\">Parents, Richard and Patty</span></li><li><span style=\"font-size: 11pt;\">Two sisters, Sarah and Stephanie</span></li><li><span style=\"font-size: 11pt;\">Named the USA Triathlon Female Paratriathlete of the Year after her first world title in 2014</span></li></ul><h5>Biographical Information<span style=\"font-size: 11pt;\"></span></h5><p><span>Kendall Gretsch was born in Downers Grove, Illinois, with spina bifida. She played multiple sports as a child, including swimming, rock climbing, softball and basketball.</span></p><p><span>Gretsch became involved in triathlon after her sophomore year of college and won three consecutive world championships from 2014 to 2016. After her triathlon classification was not selected for Paralympic Games Rio 2016, Gretsch considered picking up a winter sport and settled on Para Nordic skiing.</span></p><p><span>Gretsch made her Paralympic debut as a winter-sport athlete, winning two gold medals in Nordic skiing at the Paralympic Winter Games PyeongChang 2018. Three years later, at the postponed Paralympics Tokyo 2020, she won gold in the women’s Paratriathlon, becoming just the fifth American to ever win gold at both the summer and winter Paralympic Games.</span></p><h5>Paralympic Experience</h5><ul><li>5-time Paralympian; 11-time Paralympic medalist (5 gold, 3 silver, 3 bronze)</li><ul><li>Paralympic Games Milan 2026, gold (Sprint Pursuit - Sitting - Women), silver (7.5km Sprint - Sitting - Women), bronze (10km - Sitting - Women, 12.5km Individual - Sitting - Women), 4th (20km - Sitting - Women)</li><li>Paralympic Games Paris 2024, silver (PTHC - Women)</li><li>Paralympic Games Beijing 2022, gold (10km Middle - Sitting - Women), silver (12.5km Individual - Sitting - Women), bronze (6km Individual - Sitting - Women), 4th (15km - Sitting - Women), 5th (1km Sprint - Sitting - Women), 6th (7.5km - Sitting - Women), 9th (4 x 2.5km Relay Open - Open)</li><li>Paralympic Games Tokyo 2020, gold (PTHC - Women)</li><li>Paralympic Games Pyeongchang 2018, gold (12km - Sitting - Women, 6km Individual - Sitting - Women), 4th (10km Middle - Sitting - Women), 6th (5km - Sitting - Women), 7th (1km Sprint - Sitting - Women, 4 x 2.5km Relay Mixed - Mixed), 8th (12.5km Individual - Sitting - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (12.5km Individual - Sitting - Women, 7.5km Sprint - Sitting - Women, Sprint Pursuit - Sitting - Women), silver (20km Freestyle - Sitting - Women, 4 x 2.5km Relay Mixed - Mixed, Sprint Classic Style - Sitting - Women), bronze (10km Classic Style - Sitting - Women)</li><li>Years of participation: 10km Classic Style - Sitting - Women 2025; 12.5km Individual - Sitting - Women 2019, 2022, 2023, 2025; 20km Freestyle - Sitting - Women 2025; 4 x 2.5km Relay Mixed - Mixed 2022, 2023, 2025; 7.5km Sprint - Sitting - Women 2023, 2025; Sprint Classic Style - Sitting - Women 2025; Sprint Pursuit - Sitting - Women 2025; PTHC - Women 2019, 2022, 2023, 2024; Team Relay - Open 2022, 2023, 2024; 10km Freestyle - Sitting - Women 2023; 10km Middle - Sitting - Women 2019, 2022, 2023; 20km Classic Style - Sitting - Women 2023; Sprint Freestyle - Sitting - Women 2023; 15km - Sitting - Women 2022; 1km Sprint - Sitting - Women 2019, 2022; 6km Individual - Sitting - Women 2019, 2022; 7.5km - Sitting - Women 2022; 12km - Sitting - Women 2019; 5km - Sitting - Women 2019; PT1 - Women 2014, 2015, 2016</li><li>Medals: 34 (19 gold, 13 silver, 2 bronze)</li><ul><li>Gold – 2025 (12.5km Individual - Sitting - Women, 7.5km Sprint - Sitting - Women, Sprint Pursuit - Sitting - Women);  2024 (PTHC - Women, Team Relay - Open);  2023 (10km Freestyle - Sitting - Women, 20km Classic Style - Sitting - Women, 4 x 2.5km Relay Mixed - Mixed, 10km Middle - Sitting - Women, 12.5km Individual - Sitting - Women, 7.5km Sprint - Sitting - Women, Team Relay - Open);  2022 (7.5km - Sitting - Women, 10km Middle - Sitting - Women, 12.5km Individual - Sitting - Women);  2019 (12.5km Individual - Sitting - Women);  2016 (PT1 - Women);  2015 (PT1 - Women);  2014 (PT1 - Women)</li><li>Silver – 2025 (20km Freestyle - Sitting - Women, 4 x 2.5km Relay Mixed - Mixed, Sprint Classic Style - Sitting - Women);  2023 (Sprint Freestyle - Sitting - Women, PTHC - Women);  2022 (15km - Sitting - Women, PTHC - Women, Team Relay - Open);  2019 (10km Middle - Sitting - Women, 12km - Sitting - Women, 5km - Sitting - Women, 6km Individual - Sitting - Women, PTHC - Women)</li><li>Bronze – 2025 (10km Classic Style - Sitting - Women);  2019 (1km Sprint - Sitting - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763434203/TeamUSA%20Assets/Athlete%20Profiles/Kendall%20Gretsch%201078035/gretsch_k_1078035_bio2.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 3,
+        "gold": 5,
+        "silver": 3
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Paratriathlon",
+          "type": "Paralympic",
+          "season": "Summer"
+        },
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        },
+        {
+          "title": "Para Biathlon",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018, 2020, 2022, 2024, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "PTWC",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773410123/Gretsch_K_main_1078305.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1773410119/Gretsch_K_featured_1078035_2.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1763434230/TeamUSA%20Assets/Athlete%20Profiles/Kendall%20Gretsch%201078035/gretsch_k_1078035_bio.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kendall Gretsch 1078035"
+        },
+        {
+          "title": "Paratriathlon"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Nordic Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Jamie",
+      "last_name": "Greubel Poser",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1983-11-09T00:00:00",
+        "hometown": {
+          "city": "Newtown",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.2265,
+          "longitude": -74.9357
+        },
+        "education": "Cornell University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began bobsledding in 2007 and made the switch to driving after the 2010 Winter Olympics</li><li>USABS National Team Awards: Team of the Year (2017); Women&#39;s Bobsled Athlete of the Year (2016); Women&#39;s Bobsled Athletes&#39; Choice Award (2010)</li><li>Competed in heptathlon and pentathlon at Cornell, where she still holds multiple school records</li><li>College track teammates encouraged her to try bobsled</li><li>Holds a master&#39;s degree in early education from Lesley University</li><li>Married to German bobsledder Christian Poser</li><li>Oldest of four kids</li><li>Rode horses and competed in show jumping growing up</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017-2018 Women&#39;s Bobsled World Cup - 4th in Lake Placid (11/17); GOLD in Park City (11/17); SILVER in Whistler (11/17); 6th in Winterberg (12/17); 6th in Igls (12/17); SILVER in Altenberg (1/18); 11th in St. Moritz (1/18); 7th in Koenigssee (1/18)</li>\r\n                            <li>2017-2018 Women&#39;s Bobsled North American Cup - SILVER in Park City #2 (11/17)</li>\r\n                            <li>2016-2017 Women&#39;s Bobsled World Cup - BRONZE in Whistler (12/16); GOLD in Lake Placid (12/16); 5th in Altenberg (1/17); BRONZE in Winterberg (1/17); BRONZE in St. Moritz (1/17); SILVER in Koenigssee (1/17); BRONZE in Igls (2/17); GOLD in PyeongChang (3/17)</li>\r\n                            <li>2015-2016 Women&#39;s Bobsled World Cup- BRONZE in Altenberg (11/15); GOLD in Winterberg (12/15); BRONZE in Koenigssee (12/15); GOLD in Lake Placid (1/16); BRONZE in Park City (1/16); SILVER in Whistler (1/16); 4th in St. Moritz (2/16)</li>\r\n                            <li>2014-2015 Women&#39;s Bobsled World Cup- 6th overall; BRONZE in Lake Placid (12/14); 4th in Calgary (12/14); 5th in Altenberg (1/15); DNF in Koenigssee (1/15); BRONZE in St. Moritz (1/15); SILVER in La Plagne (1/15); BRONZE in Igls (2/15); BRONZE in Sochi (2/15)</li>\r\n                            <li>2014-2015 Women&#39;s Bobsled North American Cup- GOLD in Park City #2 (11/14); SILVER in Park City #1 (11/14)</li>\r\n                            <li>2013-2014 Women&#39;s Bobsled World Cup- BRONZE in Calgary (11/13), BRONZE in Park City #1 (12/13), SILVER in Park City #2 (12/13), BRONZE in Lake Placid (12/13), 4th in Winterberg (1/14), 4th in St. Moritz (1/14), GOLD in Igls (1/14), 10th in Koenigssee (1/14)</li>\r\n                            <li>2012-2013 Women&#39;s Bobsled World Cup- 9th in Lake Placid (11/12), 4th in Park City (11/12), 11th in Whistler (11/12), 4th in Winterberg (12/12), SILVER in La Plagne (12/12), 11th in Koenigssee (1/13), 9th in Igls (1/13), 9th in Sochi (2/13)</li>\r\n                            <li>2011-2012 Women&#39;s Bobsled World Cup- 11th in Whistler (2/12)</li>\r\n                            <li>2011-2012 Women&#39;s Bobsled European Cup- 14th in Igls #1 (11/11), 15th in Igls #2 (11/11), 14th in Koenigssee #1, 13th in Koenigssee #2 (11/11)</li>\r\n                            <li>2010-2011 Women&#39;s Bobsled World Cup- 12th in Calgary (12/10), 14th in St. Moritz (1/11), 14th in Cesana (1/11)</li>\r\n                            <li>2010-2011 Women&#39;s Bobsled North American Cup Cup- 5th in Park City #1 (11/10), 8th in Park City #2 (11/10), BRONZE in Calgary (11/10), BRONZE in Lake Placid (1/11)</li>\r\n                            <li>2010-2011 Women&#39;s Bobsled European Cup- SILVER in St. Moritz (1/11), 7th in St. Moritz (1/11) </li>\r\n                            <li>2010-2011 Women&#39;s Bobsled World Cup for pilot Elana Meyers-Taylor- 6th in Lake Placid (12/10), 9th in World Championships in Koenigssee (2/11)</li>\r\n                            <li>2008-2009 Women&#39;s Bobsled North American Cup for pilot Phoebe Burns- 13th overall; 4th in Park City #1 (10/30), 5th in Park City #2 (10/31), GOLD in Lake Placid  #1 (11/20), GOLD in Lake Placid #2 (11/21), 5th in Lake Placid #3 (4/1), 5th in Lake Placid #4 (4/2)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Pyeongchang 2018, 5th (2-Man Competition - Women)</li><li>Olympic Games Sochi 2014, bronze (2-Man Competition - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (2-Man Competition - Women), 10th (Team Competition - Mixed)</li><li>Years of participation: 2-Man Competition - Women 2011, 2013, 2015, 2016, 2017; Team Competition - Mixed 2015, 2016, 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2017 (2-Man Competition - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Bobsled",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927764/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jamie%20Greubel%20Poser/Greubel-Poser.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jamie Greubel Poser"
+        }
+      ]
+    },
+    {
+      "first_name": "Matt",
+      "last_name": "Grevers",
+      "bio": {
+        "height": "6’8”",
+        "birthday": "1985-03-26T00:00:00",
+        "hometown": {
+          "city": "Lake Forest",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.2606,
+          "longitude": -87.9256
+        },
+        "education": "Lake Forest High School (Lake Forest, Ill.) Northwestern",
+        "fun_fact": null,
+        "biography": "<div>\n<table style=\"text-align: right;\" align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" height=\"50\" width=\"50\" src=\"/-/media/TeamUSA/Logo/FB-fLogo-online.jpg?h=50&amp;la=en&amp;w=50&amp;hash=814E6EFBD0070E849FF229E6AB33CE509C3EA740\">\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=50&amp;la=en&amp;w=50&amp;hash=38AADFA611A3471A36C6D50932DFFB1C3A99DDBD\" style=\"height: 50px; width: 50px;\"></td>\n            <td style=\"text-align: right;\"><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?la=en&amp;h=50&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\" style=\"height: 50px; width: 50px;\"></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div></div>\n<div></div>\n<div><strong><br>\n</strong>\n\n<div><h5>Olympic Experience</h5><ul><li>2-time Olympian; 6-time Olympic medalist (4 gold, 2 silver)</li><ul><li>Olympic Games London 2012, gold (100m Backstroke - Men, 4 x 100m Medley Relay - Men), silver (4 x 100m Freestyle Relay - Men)</li><li>Olympic Games Beijing 2008, gold (4 x 100m Freestyle Relay - Men, 4 x 100m Medley Relay - Men), silver (100m Backstroke - Men)</li></ul></ul></div>\n<div>\n<ul>\n    <li>Two-time Olympian (2008, 2012); Five-time Olympic medalist ( 4 gold, 1 silver)</li>\n    <li>London 2012 Olympic Games, gold (100-meter backstroke, 4x100-meter medley)</li>\n    <li>Beijing 2008 Olympic Games, gold (400-meter freestyle relay, 400-meter medley relay), silver (100-meter backstroke)</li>\n</ul>\n<h5>Career Highlights</h5><ul>\n    <li>2015 FINA World Championships, gold (4x100-meter medley), silver (50-meter backstroke), bronze (100-meter backstroke)</li>\n    <li>Won 5 medals at the 2014 FINA Short Course World Championships in Doha, Qatar\n    </li>\n    <li>2014 Pan Pacific Games, gold (4x100-meter medley relay), silver (100-meter backstroke)</li>\n    <li>2013 FINA World Championships, gold (100-meter backstroke), tied for silver (50-meter backstroke)\n    </li>\n    <li>2012, FINA World Short Course Championships, gold (100-meter backstroke, 4x100-meter freestyle, 4x100-meter medley), silver (50-meter backstroke)<br>\n    </li>\n    <li>2011 ConocoPhillips National Championships, 1st&nbsp;(100-meter and 200-meter backstroke), 4th (100-meter free), 7th (50-meter freestyle)</li>\n    <li>Captured three gold medals at the 2009 MOO Duel in the Pool</li>\n    <li>Earned two gold medals at the 2009 FINA World Championships as a member of the 4x100 free</li>\n</ul>\n<p><strong>Fun Facts:&nbsp;</strong>Nicknamed Nu because that is the name of his mage in Warcraft (a role-playing game) ... Favorite television show is Family Guy ...&nbsp;Older sister, Carolyn, swam for University of Kansas ... Older brother, Andy, swam for Northern Illinois<br>\n\n</p>\n<p><strong>Learn more:</strong>&nbsp;<br>\n\nUSA Swimming</p>\n<br class=\"Apple-interchange-newline\">\n\n</div>\n</div>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – gold (4 x 100m Freestyle Relay (SC) - Men, 4 x 100m Medley Relay (SC) - Men), silver (4 x 50m Medley Relay (SC) - Men), 6th (100m Backstroke (SC) - Men), 10th (50m Backstroke (SC) - Men)</li><li>Years of participation: 100m Backstroke (SC) - Men 2006, 2012, 2014, 2018; 4 x 100m Freestyle Relay (SC) - Men 2006, 2012, 2014, 2018; 4 x 100m Medley Relay (SC) - Men 2012, 2014, 2018; 4 x 50m Medley Relay (SC) - Men 2014, 2018; 50m Backstroke (SC) - Men 2006, 2012, 2014, 2018; 100m Backstroke - Men 2009, 2013, 2015, 2017; 4 x 100m Medley Relay - Men 2009, 2013, 2015, 2017; 4 x 100m Medley Relay - Mixed 2017; 50m Backstroke - Men 2009, 2013, 2015, 2017; 4 x 100m Freestyle Relay - Men 2009, 2015; 4 x 50m Freestyle Relay (SC) - Men 2014; 4 x 50m Freestyle Relay (SC) - Mixed 2014; 4 x 50m Medley Relay (SC) - Mixed 2014; 50m Butterfly (SC) - Men 2006, 2014; 50m Butterfly - Men 2009, 2013; 100m Freestyle (SC) - Men 2012; 100m Individual Medley (SC) - Men 2006</li><li>Medals: 25 (12 gold, 7 silver, 6 bronze)</li><ul><li>Gold – 2018 (4 x 100m Freestyle Relay (SC) - Men, 4 x 100m Medley Relay (SC) - Men);  2017 (4 x 100m Medley Relay - Men, 4 x 100m Medley Relay - Mixed);  2015 (4 x 100m Medley Relay - Men);  2014 (4 x 50m Freestyle Relay (SC) - Mixed);  2013 (100m Backstroke - Men);  2012 (100m Backstroke (SC) - Men, 4 x 100m Freestyle Relay (SC) - Men, 4 x 100m Medley Relay (SC) - Men);  2009 (4 x 100m Freestyle Relay - Men, 4 x 100m Medley Relay - Men)</li><li>Silver – 2018 (4 x 50m Medley Relay (SC) - Men);  2017 (100m Backstroke - Men);  2015 (50m Backstroke - Men);  2014 (4 x 100m Medley Relay (SC) - Men, 4 x 50m Freestyle Relay (SC) - Men);  2013 (50m Backstroke - Men);  2012 (50m Backstroke (SC) - Men)</li><li>Bronze – 2017 (50m Backstroke - Men);  2015 (100m Backstroke - Men);  2014 (100m Backstroke (SC) - Men, 4 x 100m Freestyle Relay (SC) - Men, 4 x 50m Medley Relay (SC) - Men);  2006 (4 x 100m Freestyle Relay (SC) - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005903/TeamUSA%20Assets/Athlete%20Profiles/Matt%20Grevers%20911792/mattgrevers_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Matt Grevers 911792"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Grewe",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1998-06-10T00:00:00",
+        "hometown": {
+          "city": "Middlebury",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 41.6689,
+          "longitude": -85.7197
+        },
+        "education": "University of Notre Dame ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Randall and Michelle Grewe.Has one older sister, Audrey.</li><li><p>Played lacrosse, basketball and football in his small community of Middlebury, Indiana.</p></li><li><p>Just before Christmas in 2011, he was diagnosed with osteosarcoma, a rare and aggressive form of bone cancer that resulted in the amputation of his right leg after spreading to his knee.</p></li><li><p>Two days before his amputation took place in 2012, the University of Notre Dame football team adopted Grewe, supporting and allowing him to be on the field for games during their undefeated regular season run to the BCS National Championships game.Nearly a year later, Grewe was cancer free.</p></li><li><p>The experience inspired him to return to athletics in which he discovered the Great Lakes Adaptive Sports Association (GLASA), a Paralympic sport club based in Lake Forest, Illinois.</p></li><li><p>In less than a year, Grewe progressed from his first Paralympic competition at the 2015 Desert Challenge Games to representing Team USA at the IPC Athletics World Championships in Doha, Qatar, where he upset the field to win the men’s high jump world title.</p></li><li><p>Hobbies include playing lacrosse, basketball and football.</p></li><li><p>Aspires to go into biomedical engineering with hopes of working to develop prosthetics.</p></li><li><p>Favorite movie is Forrest Gump. Favorite athlete is Russell Westbrook.</p></li></ul><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 2-time Paralympic medalist (1 gold, 1 silver)</li><ul><li>Paralympic Games Paris 2024, 8th (High Jump T63 - Men)</li><li>Paralympic Games Tokyo 2020, gold (High Jump T63 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, silver (High Jump T42 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – bronze (High Jump T63 - Men)</li><li>Years of participation: High Jump T63 - Men 2019, 2024; High Jump T42 - Men 2015, 2017</li><li>Medals: 4 (3 gold, 1 bronze)</li><ul><li>Gold – 2019 (High Jump T63 - Men);  2017 (High Jump T42 - Men);  2015 (High Jump T42 - Men)</li><li>Bronze – 2024 (High Jump T63 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1691088776/TeamUSA%20Assets/Athlete%20Profiles/Sam%20Grewe%20912879/Grewe_S_bio2.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T42/F42",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662902/TeamUSA%20Assets/Athlete%20Profiles/Sam%20Grewe%20912879/Grewe_S_hero_912879.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005951/TeamUSA%20Assets/Athlete%20Profiles/Sam%20Grewe%20912879/Grewe_Sam250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Grewe 912879"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Tysheem",
+      "last_name": "Griffin",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1998-11-20T00:00:00",
+        "hometown": {
+          "city": "Amityville",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.6793,
+          "longitude": -73.4165
+        },
+        "education": "Amityville Memorial High School (Amityville, N.Y.) ‘16 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Rasheem Griffin and Tonyana Evans</li><li>Born with Waardenburg syndrome, a rare group of genetic conditions that took most of his hearing by the time he was a toddler</li><li>Hopes to pursue a career in carpentry.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 U.S. Paralympic Team Trials – Track &amp; Field, silver (400m)</li>\r\n                            <li>2016 Desert Challenge Games, 1st (400m)</li>\r\n                            <li>2015 INAS Global Games, 1st (200m), 2nd (100m)</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016,  (400m T20 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716544/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tysheem%20Griffin%201041243/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T20",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716546/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tysheem%20Griffin%201041243/Griffin_Tysheem250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tysheem Griffin 1041243"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Griffin",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1986-11-07T00:00:00",
+        "hometown": {
+          "city": "Berkeley",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.8715,
+          "longitude": -122.273
+        },
+        "education": "Berkeley High School (Berkeley, Calif.) '04 University of California, Los Angeles '08, Applied Mathematics; DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Craig and Linda Griffin</li><li>Has one brother, Jeffrey</li><li>Married to Ashley Griffin</li><li>Has two children, Quinn and Connor</li><li>Began playing rugby as a freshman at the University of California, Los Angeles</li><li>One first eight women’s athletes to be contracted by USA Rugby.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, silver</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2013 – bronze (Team - Women)</li><li>Years of participation: Team - Women 2013</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2013 (Team - Women)</li></ul></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927719/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelly%20Griffin/griffin_kelly_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelly Griffin"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Griggs",
+      "bio": {
+        "height": "5'1\"",
+        "birthday": "1996-06-20T00:00:00",
+        "hometown": {
+          "city": "Wichita",
+          "state": "KS",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": " Louisiana State University",
+        "fun_fact": null,
+        "biography": "<p><span style=\"font-family: arial;\"># 8<img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\" style=\"width: 100px; height: 100px; float: right;\">&nbsp;<img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\" style=\"height: 100px; width: 100px; float: right;\"><br>\nHeight: 5'1\"<br>\nPosition: Outfield<br>\nB/T: L/R<br>\nHometown: Wichita, Kan.<br>\nSchool: LSU<br>\nGraduation: 2018</span></p>\n<div class=\"DataText\">\n<p><strong><span style=\"font-family: arial;\"><img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/JWNT-Gallery/Emily-Griggs/Griggs6.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=8FB14EAA2065ECF456F21435904295F0F273D5FD\"><br>\n</span></strong></p>\n</div>\n<br>\n<span style=\"font-family: arial;\"><strong><span style=\"font-size: 24px; color: #7f7f7f;\">EXPERIENCE</span></strong><br>\n<strong>2016 Women's Elite Team Member</strong><br>\n- World Cup of Softball participant<br>\n&nbsp;- Hit .333 (2-for-6) with three runs scored<br>\n<br>\n<strong>2015 Junior Women's National Team Member</strong><br>\n- World Cup of Softball participant<br>\n&nbsp; &nbsp;- Led the team with a .526 (10-for-19) batting average with two RBI and seven runs scored<br>\n- WBSC Junior Women's World Championship Gold Medalist<br>\n&nbsp; &nbsp;- Had a .333 (7-for-21) average with five RBI and 10 runs scored<br>\n<br>\n<span style=\"font-family: arial;\"><strong><span style=\"font-size: 24px; color: #7f7f7f;\">AT LSU</span></strong><br>\n2015 SEC All-Freshman Team<br>\nParticipated at the 2016 and 2015 NCAA Women's College World Series (WCWS)<br>\n<br>\n<span style=\"font-family: arial;\"><strong><span style=\"font-size: 24px; color: #7f7f7f;\">GETTING TO KNOW GRIGGS</span></strong><br>\n<strong>Parents: </strong>Mark and Jana Griggs<br>\n<strong>Siblings: </strong>Hannah, Meghan and Rebecca<br>\n<strong>Pets: </strong>A dog named Dakota<br>\n<strong>Dream job: </strong>To run my own chemical plant<br>\n<strong>Favorite sport besides softball: </strong>Football<br>\n<strong>What it means to represent the United States: </strong>To me, representing the United State&nbsp;in softball is a dream come true. Every little girl dreams of putting that uniform on. I am extremely excited to be able to wear Red, White, and Blue and represent our country through this great game.<br>\n<strong>What she loves about softball: </strong>I enjoy the competition that softball brings. This game has given me&nbsp;so many opportunities throughout the years. The softball field is the one place were I can have fun&nbsp;while still being competitive.<br>\n<strong>Who has been the biggest supporter of your career: </strong>My parents have been my biggest fans since tee ball. They&nbsp;have done so much for me to play this game, and they have never stopped believing in me.<br>\n<strong>Why she chose to attend LSU: </strong>I chose LSU because I fell in love with the&nbsp;school, coaches, and the team. The whole atmosphere felt like home as soon as I stepped onto&nbsp;campus.<br>\n<br>\n<span style=\"font-size: 24px; color: #7f7f7f;\"><strong>TRIPLE PLAY:</strong></span><br>\n<strong>Three people I'd love to have dinner with: </strong>Pope Francis, Jessie James Decker, and Neil Patrick Harris<br>\n<strong>Three things I hate doing: </strong>Laundry, Homework and reading<br>\n<strong>Three things I love doing: </strong>Painting my nails, seeing new movies and singing (terribly)<br>\n<strong>Three TV characters I wish were real so I could hang out with them:&nbsp;</strong>Barney Stinson, Olivia Pope and Spongebob<br>\n<strong>Three things I must have when I leave the house: </strong>Phone, wallet and keys (even if I don't drive)<br>\n<strong>Three favorite movies: </strong>Breakfast Club, Gone Girl and Bridesmaids<br>\n<strong>Three pet peeves: </strong>People smacking their food/gum, people not using their blinkers and people splitting poles<br>\n</span>\n<br>\n</span></span><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>Junior World Championship, Oklahoma City, 2015 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716459/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Griggs%20993465/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716461/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Griggs%20993465/GriggsEmily.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Griggs 993465"
+        }
+      ]
+    },
+    {
+      "first_name": "Brittney",
+      "last_name": "Griner",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1990-10-18T00:00:00",
+        "hometown": {
+          "city": "Houston",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.7604,
+          "longitude": -95.3698
+        },
+        "education": "Baylor University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Raymond and Sandra Griner</li><li>Has three older siblings, D, Shkera and Pier</li><li>Named to the 2014 FIBA World Cup All-Tournament Team</li><li>Volunteers with former Houston Rocket guard Steve Francis' Holiday Bowling and Christmas Party for underprivileged children</li><li>Married to Cherelle Watson, who she met while at Baylor.</li></ul><h5>World Championships Experience</h5><p>Most recent: 2018 – gold Years of Participation: 2014, 2018 Medals: 2 (2 golds)</p><h5>More</h5><p>Personal Website</p><p>USA Basketball</p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li><li>Olympic Games Tokyo 2020, gold (Team - Women)</li><li>Olympic Games Rio de Janeiro 2016, gold (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662019/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Griner_B_bio_907854.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662221/TeamUSA%20Assets/Athlete%20Profiles/Brittney%20Griner%20907854/griner_b_hero_907854.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005913/TeamUSA%20Assets/Athlete%20Profiles/Brittney%20Griner%20907854/Griner_Brittney.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Brittney Griner 907854"
+        },
+        {
+          "title": "Basketball"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Evita",
+      "last_name": "Griskenas",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "2000-12-03T00:00:00",
+        "hometown": {
+          "city": "Orland Park",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.60003,
+          "longitude": -87.85395
+        },
+        "education": "Columbia University (New York)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Sigitas and Olga Griskenas</li><li>Has a brother, Nathan</li><li>Speaks three languages (English, Lithuanian and Russian)</li><li>Studying psychology at Columbia University in New York</li><li>Named USA Gymnastics' Athlete of the Year in 2022 and 2023</li><li>Is the first American rhythmic gymnast to win a silver medal and an all-around medal at an FIG World Cup/World Challenge Cup competition</li><li>Hobbies include practicing calligraphy, writing, reading and dancing</li><li><span>Has two cats that love to cuddle</span></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 18th (Individual All-Around - Women)</li><li>Olympic Games Tokyo 2020, 12th (Individual All-Around - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 14th (Clubs - Women, Team All-Around - Women), 24th (Ribbon - Women), 26th (Ball - Women), 28th (Individual All-Around - Women), 29th (Hoop - Women)</li><li>Years of participation: Ball - Women 2017, 2018, 2019, 2021, 2022, 2023; Clubs - Women 2017, 2018, 2019, 2021, 2022, 2023; Hoop - Women 2017, 2018, 2019, 2021, 2022, 2023; Individual All-Around - Women 2017, 2018, 2019, 2021, 2022, 2023; Ribbon - Women 2017, 2018, 2019, 2021, 2022, 2023; Team All-Around - Women 2018, 2019, 2021, 2022, 2023</li><li>Top finish: 5th – 2022 (Team All-Around - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700153993/TeamUSA%20Assets/Athlete%20Profiles/Evita%20Griskenas%20870811/Griskenas_e_bio_870811.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700153452/TeamUSA%20Assets/Athlete%20Profiles/Evita%20Griskenas%20870811/Griskenas_e_hero_870811.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1700153859/TeamUSA%20Assets/Athlete%20Profiles/Evita%20Griskenas%20870811/Griskenas_e_featured_870811.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005923/TeamUSA%20Assets/Athlete%20Profiles/Evita%20Griskenas%20870811/Griskenas_Evita.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Evita Griskenas 870811"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rhythmic Gymnastics"
+        },
+        {
+          "title": "Gymnastics"
+        }
+      ]
+    },
+    {
+      "first_name": "Lindsay",
+      "last_name": "Grogan",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1987-12-19T00:00:00",
+        "hometown": {
+          "city": "Macon",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 32.8407,
+          "longitude": -83.6324
+        },
+        "education": "Central High School (Macon, Ga.) ‘06 University of Georgia ’10, Journalism; Master of Kinesiology ‘12",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>At age two, Grogan was diagnosed with focal scleroderma, a condition rarely found in children, which causes deposits of collagen in the skin and organs. As a result, part of her left leg was amputated at age seven. She began swimming at age seven at the Macon Waves Swim Club in Georgia. In high school, she joined the Georgia Blazers, a state team for youth with physical and visual disabilities and a branch of BlazeSports America, a Paralympic Sport Club which offers adaptive programs in various sports throughout the country</li><li>Is a “Double Dogger,” having attended the University of Georgia for both her undergraduate and graduate degree programs</li><li>Knows Braille, even though she is not visually impaired</li><li>Born in the same hospital as teammate Reilly Boyt</li><li>Favorite movie is Sleepless in Seattle.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016,  (200m Individual Medley SM9 - Women), 14th (400m Freestyle S9 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2015 – 8th (400m Freestyle S9 - Women), 10th (100m Breaststroke SB8 - Women), 16th (200m Individual Medley SM9 - Women)</li><li>Years of participation: 100m Breaststroke SB8 - Women 2015; 200m Individual Medley SM9 - Women 2015; 400m Freestyle S9 - Women 2015</li><li>Top finish: 8th – 2015 (400m Freestyle S9 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716406/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lindsay%20Grogan%20842551/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "S9, SB8, SM9",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716409/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lindsay%20Grogan%20842551/Grogan_Lindsay_2016_Headshot_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lindsay Grogan 842551"
+        }
+      ]
+    },
+    {
+      "first_name": "Natalia",
+      "last_name": "Grossman",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2001-06-22T00:00:00",
+        "hometown": {
+          "city": "Santa Cruz",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 36.9741,
+          "longitude": -122.0308
+        },
+        "education": "University of Colorado - Boulder '22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport: </strong></span><span style=\"font-size: 11pt;\">Sport climbing</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\"> Bouldering, Lead</span></p></li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"font-size: 11pt;\">Natalia Grossman is an American sport climber, known for her skill in bouldering and lead climbing. She began climbing at the Pacific Edge climbing gym at the young age of six. At 15, Grossman’s family moved to Boulder so she could train with Team ABC. She attended the Montessori school, where she became a standout in the youth climbing circuit. Grossman earned her degree at the University of Colorado Boulder and while simultaneously training at the USA Climbing’s national team base in Salt Lake City.</span></p><p><span style=\"font-size: 11pt;\">A member of Protect Our Winters, Grossman, alongside other athletes, is also an advocate for climate change and environmental sustainability, frequently advocating for preserving natural spaces. Her incredible strength, technique and fortitude have made her a standout competitor, and she stands as a key figure in the ongoing growth of USA Climbing.</span></p><h5>Olympic History&nbsp;</h5><p><span style=\"font-size: 11pt;\">In October 2023, Grossman qualified for the Paris 2024 Olympic Games by winning the boulder and lead combined competition at the Pan American Games the same year. At the Paris Olympics, she finished in 11th place in the combined event semifinals.&nbsp;</span></p><h5>World Cup Highlights</h5><p><span style=\"font-size: 11pt;\">In 2019, she won second in bouldering and combined disciplines at the IFSC Climbing World Youth Championships in Arco, Italy and finished seventh in the 2019 bouldering world cup in Vail, Colorado.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">In 2021, she won the overall bouldering title in the IFSC world cup, secured five gold medals in bouldering world cup competitions, and earned gold in bouldering at the IFSC Climbing World Championships. She also won silver in lead climbing at the IFSC Climbing World Championships. In lead climbing world cup events, Grossman finished on the podium in four of the five events, won two silver and two bronze medals, and finished second overall for the season. The next year, she won the bouldering world cup overall title for the second consecutive year and consistently placed in multiple world cup finals for lead climbing. In 2023, Grossman won multiple world cup medals in bouldering and lead climbing, including several first-place finishes and defended her title as the bouldering world cup champion.&nbsp;</span></p><h5><span>U.S. Championship Highlights</span></h5><p><span style=\"font-size: 11pt;\">In 2019, Grossman went undefeated in the USA Climbing Bouldering National Cup series. Grossman also won the USA Climbing 2020 Bouldering Open National Championship. Later, in 2021, she earned first in bouldering and second in lead at the USA climbing national team trials.</span></p><h5>Early Career&nbsp;</h5><p><span style=\"font-size: 11pt;\">Grossman's early career was marked by strong performances in national and international youth climbing competitions. She represented Team USA in various youth events, where she frequently reached the podium and gained a reputation as a climber to watch. As she transitioned to senior competitions, Grossman made an immediate impact in IFSC world cup events, consistently finishing in the top 10.</span></p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 11th (Bouldering & Lead Combined - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (Bouldering - Women), 9th (Bouldering & Lead Combined - Women), 27th (Lead - Women)</li><li>Years of participation: Bouldering - Women 2019, 2021, 2023; Bouldering & Lead Combined - Women 2023; Lead - Women 2019, 2021, 2023; Combined - Women 2019; Speed - Women 2019</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2021 (Bouldering - Women)</li><li>Silver – 2021 (Lead - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699989875/TeamUSA%20Assets/Athlete%20Profiles/Natalia%20Grossman%201179829/Grossman_n_bio_1179829.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sport Climbing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699989688/TeamUSA%20Assets/Athlete%20Profiles/Natalia%20Grossman%201179829/Grossman_n_hero_1179829_01.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1698262418/TeamUSA%20Assets/News/Grossman_Natalia_Santiago_2023.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1698262418/TeamUSA%20Assets/News/Grossman_Natalia_Santiago_2023.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Natalia Grossman 1179829"
+        },
+        {
+          "title": "Sport Climbing"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Hallie",
+      "last_name": "Grossman",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1993-04-27T00:00:00",
+        "hometown": {
+          "city": "Craftsbury",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 44.6473,
+          "longitude": -72.3409
+        },
+        "education": "Stratton Mountain School '11 Bates College '15 (Environmental Studies)",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2019 Open European Championships (Minsk-Raubichi, BLR) - 68th in individual / 22nd in single mixed relay / 54th in sprint / 51st in pursuit</li>\r\n                            <li>2018 US Biathlon National Championships (Park City, Utah) - 7th in sprint / 7th in pursuit / 5th in mass start</li>\r\n                            <li>2016/17 IBU Cup (Otepaa, EST): 15th in mixed relay / 68th in sprint / 61st in sprint / 11th in mixed relay</li>\r\n                            <li>2016/17 IBU Cup (Kontiolahti, FIN): 72nd in sprint / 59th in individual</li>\r\n                            <li>2016/17 IBU Cup (Brezno-Osrblie, SVK): 48th in sprint</li>\r\n                            <li>2016/17 Open European Championships (Duszniki Zdroj, POL): 14th in mixed relay / 70th in sprint / 52nd in individual</li>\r\n                            <li>2016/17 IBU Cup (Arber, GER): 86th in individual</li>\r\n                            <li>2016/17 IBU Cup (Martell, ITA): 63rd in sprint / 68th in sprint</li>\r\n                    </ul><h5>More</h5><p></p>\n<p><strong>Did You Know?:</strong></p>\n<p><strong>My dream vacation spot is...&nbsp;</strong>anywhere with mountains<br>\n<strong>When traveling, the thing I miss most is...&nbsp;</strong>making coffee every morning<br>\n<strong>My favorite meal is...&nbsp;</strong>pasta with pesto and Parmesan cheese and Caesar salad<br>\n<strong>I never leave my house without...&nbsp;</strong>my Dansko clogs<br>\n<strong>If I were not an athlete, I would...&nbsp;</strong>be an elementary school teacher</p>\n<p><strong>MORE ON HALLIE:</strong>&nbsp;Hallie began skiing with her family when she was 2 or 3, first on plastic skis in the living room. She rode horses competitively for most of her childhood, but started doing Bill Koch races in 5th grade. Part of the way though high school, she began attending Stratton Mountain School. She went to Bates College, where she competed at NCAAs four times. After college, she moved to Craftsbury and joined the Green Racing Project. Near the beginning of her second year in Craftsbury, she decided to focus on biathlon and also gained her first international racing experience that year.</p>\n<p><strong>SPORT DATA:</strong></p>\n<p><strong>Biathlon Since:&nbsp;</strong>2016<br>\n<strong>Skis:&nbsp;</strong>Salomon<br>\n<strong>Boots:&nbsp;</strong>Salomon<br>\n</p>\n<p><strong>WORLD CUP TOP RESULTS (INCLUDING OWG &amp; WCH)</strong></p>\n<table>\n    <tbody>\n        <tr>\n            <td rowspan=\"1\" colspan=\"1\"><strong>POS</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>COMP</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>SEASON</strong></td>\n            <td rowspan=\"1\" colspan=\"1\"><strong>EVENT</strong></td>\n        </tr>\n        <tr>\n            <td>79</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Oberhof (GER) WC</td>\n        </tr>\n        <tr>\n            <td>93</td>\n            <td>SP</td>\n            <td>2019/20</td>\n            <td>Ruhpolding (GER) WC</td>\n        </tr>\n        <tr>\n            <td>111</td>\n            <td>SP</td>\n            <td>2021/22</td>\n            <td>Ruhpolding (GER) WC</td>\n        </tr>\n    </tbody>\n</table>\n<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927783/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hallie%20Grossman/Grossman150120et17056_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927785/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hallie%20Grossman/Hallie_Grossman_2020_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Hallie Grossman"
+        }
+      ]
+    },
+    {
+      "first_name": "Howard",
+      "last_name": "Grotts",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1993-01-12T00:00:00",
+        "hometown": {
+          "city": "Durango",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 37.2753,
+          "longitude": -107.8801
+        },
+        "education": "Fort Lewis College",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Don Grotts and Deborah Williams</li><li>Has one sibling, Donnie (deceased)</li><li>Brother, Donnie, who passed away in 2016, influenced him to begin mountain biking</li><li>Graduated summa cum laude from Fort Lewis College.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014 UCI Mountain Bike World Championships U23, bronze</li>\r\n                            <li>2013 UCI Mountain Bike World Championships U23, 12th </li>\r\n                            <li>2012 UCI Mountain Bike World Championships U23, 16th </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 38th (Cross Country - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Cycling<h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 13th (Marathon - Men), 15th (Cross Country - Men)</li><li>Years of participation: Cross Country - Men 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018; Marathon - Men 2015, 2016, 2017, 2018; Cross Country Team Relay - Mixed 2011, 2017</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2014 (Cross Country - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716465/TeamUSA%20Assets/Migration/Athlete%20Profiles/Howard%20Grotts%20843060/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Cycling",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716467/TeamUSA%20Assets/Migration/Athlete%20Profiles/Howard%20Grotts%20843060/grotts_howard_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Howard Grotts 843060"
+        }
+      ]
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Groulx",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1974-03-11T00:00:00",
+        "hometown": {
+          "city": "Portland",
+          "state": "OR",
+          "country": "United States",
+          "latitude": 45.5231,
+          "longitude": -122.6765
+        },
+        "education": "Northwest High School (Clarksville, Tenn.) ‘92 University of Tennessee",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Groulx served in the United States Navy from 1995-2001 before a motorcycle accident left him paralyzed from the chest down</li><li>Seven months after the accident, Groulx discovered wheelchair rugby and was immediately interested</li><li>His Paralympic career began with wheelchair rugby, making three U.S. Paralympic Teams (2004, 2008, 2012) before switching to handcycling</li><li>Prior to his injury, he served as a nuclear-trained electrician’s mate and diver on a fast-track submarine stationed out of Norfolk, Va</li><li>Before joining the Navy, he attended the University of Tennessee on a volleyball scholarship</li><li>Son of William and Jean Groulx</li><li>Has three sisters</li><li>Married Amy Brady on Sept. 24, 2005</li><li>Father of twins Grace and William</li><li>Hobbies include sports, reading and chasing his twins around</li><li>Was nominated for an ESPY in the Best Male Athlete with a Disability category in 2009</li><li>Named the U.S. Quad Rugby Association Athlete of the Year in 2010.</li></ul><h5>Paralympic Experience </h5><ul><li>5-time Paralympian; 6-time Paralympic medalist (2 gold, 2 silver, 2 bronze)</li><ul><li>Paralympic Games Tokyo 2020,  (H1-2 - Road Race - Men), 4th (H2 - Time Trial - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (H1-2 - Road Race - Men), silver (H2 - Time Trial - Men, Team Relay - Mixed)</li><li>Paralympic Games London 2012, bronze (Team - Mixed)</li><li>Paralympic Games Beijing 2008, gold (Team - Mixed)</li><li>Paralympic Games Athens 2004, bronze (Team - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – silver (Team Relay - Open), bronze (H2 - Road Race - Men, H2 - Time Trial - Men)</li><li>Years of participation: H2 - Road Race - Men 2014, 2015, 2017, 2018, 2019; H2 - Time Trial - Men 2014, 2015, 2017, 2018, 2019; Team Relay - Open 2014, 2015, 2017, 2018, 2019; H1 - Road Race - Men 2013; H1 - Time Trial - Men 2013; Team - Mixed 2006, 2010</li><li>Medals: 19 (5 gold, 11 silver, 3 bronze)</li><ul><li>Gold – 2018 (H2 - Road Race - Men, Team Relay - Open);  2014 (H2 - Time Trial - Men);  2010 (Team - Mixed);  2006 (Team - Mixed)</li><li>Silver – 2019 (Team Relay - Open);  2018 (H2 - Time Trial - Men);  2017 (H2 - Road Race - Men, H2 - Time Trial - Men, Team Relay - Open);  2015 (H2 - Road Race - Men, H2 - Time Trial - Men, Team Relay - Open);  2014 (H2 - Road Race - Men, Team Relay - Open);  2013 (H1 - Road Race - Men)</li><li>Bronze – 2019 (H2 - Road Race - Men, H2 - Time Trial - Men);  2013 (H1 - Time Trial - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 2,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2012, 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "MH2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005931/TeamUSA%20Assets/Athlete%20Profiles/Will%20Groulx%201126238/Groulx_Will_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Will Groulx 1126238"
+        }
+      ]
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Grove",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1999-05-01T00:00:00",
+        "hometown": {
+          "city": "Frederick",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 39.4143,
+          "longitude": -77.4103
+        },
+        "education": "Towson University '22",
+        "fun_fact": "At age 15, he played for Team USA at the 2014 Amputee World Cup of Soccer",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Chris and Rachael Grove</li><li>Has a younger brother, Carson</li><li>Comes from a soccer family<ul><li>His dad, Chris, played soccer at Elizabethtown College, and younger brother, Carson, played soccer at Christopher Newport University</li></ul></li><li><span>At age 15, he played for Team USA at the 2014 Amputee World Cup of Soccer</span></li><li>In his free time he likes gaming, reading and spending time outside</li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Noah Grove was diagnosed with </span><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">osteosarcoma, a form of bone cancer, in his left leg when he was four years old and had his leg amputated right after he turned five.&nbsp;Grove played soccer, baseball and lacrosse with a </span>prosthetic<span style=\"color: rgb(18, 18, 18);font-size: 11pt;\"> leg for most of his childhood before trying adaptive sports and sled hockey at age 11. Within six years of trying the sport through the Bennett Blazers program in Baltimore, he would make the U.S. national sled hockey team.&nbsp;</span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">At age 18, Grove made his Paralympic debut at the Paralympic Winter Games PyeongChang 2018, winning a gold medal. At 2019 World Para Ice Hockey Championships, he was named the U.S. Player of the Game in their preliminary round win over Canada. Grove would win his second </span>Paralympic<span style=\"color: rgb(18, 18, 18);font-size: 11pt;\"> gold medal at the Paralympic Winter Games Beijing 2022. Because of Grove's strengths of moving the puck and creating offense for Team USA he has switched from forward to defense to better play to his strengths.</span></p><p><span style=\"color: rgb(18, 18, 18);font-size: 11pt;\">Coming from a soccer family where his father and brother both played at the Division III level, Grove still enjoys playing amputee soccer in the offseason and at the age of 15 played for Team USA at the 2014 Amputee World Cup of Soccer.</span></p><h5>Paralympic Experience</h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (3 gold)</li><ul><li>Paralympic Games Milan 2026, gold (Team - Mixed)</li><li>Paralympic Games Beijing 2022, gold (Team - Mixed)</li><li>Paralympic Games Pyeongchang 2018, gold (Team - Mixed)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Men)</li><li>Years of participation: Team - Men 2017, 2019, 2021, 2023, 2024, 2025</li><li>Medals: 6 (4 gold, 2 silver)</li><ul><li>Gold – 2025 (Team - Men);  2023 (Team - Men);  2021 (Team - Men);  2019 (Team - Men)</li><li>Silver – 2024 (Team - Men);  2017 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697140106/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Grove%201056827/grove_n_bio_1073287.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Sled Hockey",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "Eligible",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697140182/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Grove%201056827/grove_n_hero_1073287.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1772994762/Grove_N_featured_1056827.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010035/TeamUSA%20Assets/Athlete%20Profiles/Noah%20Grove%201056827/Grove_Noah_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Noah Grove 1056827"
+        },
+        {
+          "title": "Sled Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "Gruber",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1978-08-06T00:00:00",
+        "hometown": {
+          "city": "Golden",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.75554,
+          "longitude": -105.2211
+        },
+        "education": "Mullen Prep (Denver, Colo.,) '97 University of Kansas, '02 & '04",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Gruber became the first University of Kansas track and field athlete to compete at the Olympic Games since pole vaulter Scott Huffman and sprinter Pierre Lisk showcased their skills at the 1996 games in Atlanta. Gruber was the first track and field athlete under coach Doug Clark’s tutelage at Kansas to earn a spot on Team USA. By making the Team USA roster for the 2004 Olympics, Gruber joined other all-time great KU and American 1500 meter stars including Olympic silver medal winners Jim Ryun (Mexico City 1968) and Glenn Cunningham (Berlin 1936).<h5>Career Highlights</h5><ul>\r\n                            <li>2nd in 1500 meter at 2004 U.S. Olympic Team Trials </li>\r\n                            <li>Secured his spot on the 2004 U.S. Olympic Team by running a personal best 3:34.71 at the KBC Night of Athletics in Heusden-Zolder, Belgium. Gruber’s time easily surpassed the Olympic A standard of 3:36.20 and placed him 10th in a race won by world record holder Hicham El Guerrouj.</li>\r\n                            <li>2004 U.S. 4 km cross country champion</li>\r\n                            <li>2004 Prefontaine Classic 1500 meter champion</li>\r\n                            <li>5-time NCAA All-American (1999: outdoor 1500 meter, 2000: indoor mile, 2001: indoor mile, 2001: indoor DMR, 2002: outdoor 1500 meter)</li>\r\n                            <li>5-time Big 12 Conference Champion (1999: indoor 1000 meter, 1999: outdoor 1500 meter, 2000: indoor mile, outdoor 1500 meter, 2001: indoor DMR)</li>\r\n                            <li>Five-time All-American at KU, Gruber won the 1999 and 2000 Big 12 Conference Outdoor 1500 meter titles.</li>\r\n                            <li>2003: 5th at USA Outdoors (3:45.29). Ranked #6 in US at 1,500 meters. Bests of 3:39.74 and 4:01.81.</li>\r\n                            <li>2003 NCAA National Championship, 5th</li>\r\n                            <li>2002 NCAA National Championship, 8th in heats</li>\r\n                            <li>2002: 7th at Big 12 Outdoor, 7th in opening round at NCAA Outdoors, 10th in opening round at USA Outdoors. Bests of 3:41.20 and 4:06.28.</li>\r\n                            <li>2001 NCAA National Championship, 11th</li>\r\n                            <li>2001: 11th at USA Outdoors (3:46.40. Bests of 3:41.30 and 3:58.47</li>\r\n                            <li>2000 NCAA National Championship, 5th (800 meter), 10th (1500 meter)</li>\r\n                            <li>2000: 1st at Big 12 Outdoors, 7th in opening round at NCAA Outdoors, 10th in opening round at Olympic Trial. Bests of 3:41.20 and 4:01.81</li>\r\n                            <li>1999: 1st at Big 12 Outdoors, 11th at NCAA Outdoors. Best of 3:43.45</li>\r\n                    </ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Athens 2004, 28th (1500m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2004 – 19th (1500m (Indoor) - Men)</li><li>Years of participation: 1500m (Indoor) - Men 2004</li><li>Top finish: 19th – 2004 (1500m (Indoor) - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005941/TeamUSA%20Assets/Athlete%20Profiles/Charlie%20Gruber%20905499/Gruber_Charlie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Charlie Gruber 905499"
+        }
+      ]
+    },
+    {
+      "first_name": "Jonathan",
+      "last_name": "Gruden",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "2000-05-04T00:00:00",
+        "hometown": {
+          "city": "Rochester Hills",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.6603,
+          "longitude": -83.1499
+        },
+        "education": "Notre Dame Preparatory School (Pontiac, Michigan) ‘18 ",
+        "fun_fact": null,
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><img alt=\"\" style=\"float: right; width: 50px; height: 50px;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div><p><strong><br>\n</strong><h5>Career Highlights</h5><ul><li>World Championship Under 18, 2018 (Team - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of John and Polly Gruden</li><li>Has two siblings, Elizabeth and Katlin</li><li>Father, John, played ice hockey at Ferris State and played professionally with the Boston Bruins, Ottawa Senators and Washington Capitals</li><li>Committed to play ice hockey at Miami University</li><li>Hobbies include playing lacrosse</li><li>Participated in the 2015 USA Hockey U15 Select Camp</li></ul><br>\n<br>\n\n</p><p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716526/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jonathan%20Gruden%20905394/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682716528/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jonathan%20Gruden%20905394/IceHockey_Gruden_Jonathan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jonathan Gruden 905394"
+        }
+      ]
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Grund",
+      "bio": {
+        "height": "5' 1\"",
+        "birthday": "2000-01-22T00:00:00",
+        "hometown": {
+          "city": "Keller",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.9401,
+          "longitude": -97.2347
+        },
+        "education": "Keller High School University of North Carolina, Chapel Hill",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Emily is the daughter of Jay and Laura Grund</li><li>She started diving at age 5 and now trains five hours a day, six days a week</li><li>Her favorite dive is 305B</li><li>She uses the same orange towel at every competition and her lucky penguin, Pengy, is always in her dive bag</li><li>When she's not diving, Emily participates in Navigate Leadership Academy</li><li>She also loves penguins and her favorite diver is Greg Louganis</li><li>Emily describes herself as funny, kind-hearted and genuine</li><li>Emily enjoys movies and live theater</li><li>Her mother (Laura) is a five time USA National Roller Skating Champion and U.S. Olympic Festival Champion</li><li>Her father is a retired from the U.S. Secret Service</li><li>Emily hopes to be a Speech Pathologist for special needs children</li><li>Her special stuffed animal, Pengy, has been with Emily at every dive meet since her first competition when she was five years old. She also has used the same orange towel at every meet since she won her first national title in 2011</li><li>She used to participate in competitive gymnastics</li><li>Emily has overcome two concussions and patellar tendonitis</li><li>She has been named a four time NISCA High School All-American. She was also named 2018 Female Diver of the Year at Keller High School</li><li>She competed in her first junior nationals at the age of seven and in her first senior nationals at age 11</li><li>Between dives, she listens to music (particularly the soundtrack to Hamilton)</li><li>Emily loves to eat steak for dinner the night before competition</li><li>Her favorite meals outside of competition are pizza and sushi</li><li>If she could meet anyone, it would be Will Ferrell or Lin-Manuel Miranda</li><li>Her goal is to graduate with a Masters in Occupational Speech Therapy and work with special needs children</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Penza, 2014 (3m Springboard Synchro - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686927758/TeamUSA%20Assets/Migration/Athlete%20Profiles/Emily%20Grund/2019-Grund-Emily-Headshot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emily Grund"
+        }
+      ]
+    },
+    {
+      "first_name": "Jesse",
+      "last_name": "Grupper",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1997-01-06T00:00:00",
+        "hometown": {
+          "city": "Upper Montclair",
+          "state": "NJ",
+          "country": "United States",
+          "latitude": 40.8309,
+          "longitude": -74.2096
+        },
+        "education": "Tufts University (Medford, Mass., '19)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Started climbing at the age of six after his parents signed up his sister first </li><li><p>Began competing in climbing events at the age of nine</p></li><li>Graduated from Tufts University with a degree in mechanical engineering</li><li>Qualified for the Olympic Games 2024 by winning gold at the Pan American Games Santiago 2023 in boulder &amp; lead</li><li>Hobbies include playing banjo and \"collecting\" outdoor climbing adventures from across the globe, including South Africa and France</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 19th (Lead - Men), 27th (Bouldering & Lead Combined - Men), 51th (Bouldering - Men)</li><li>Years of participation: Bouldering - Men 2023; Bouldering & Lead Combined - Men 2023; Lead - Men 2023</li><li>Top finish: 19th – 2023 (Lead - Men)</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Santiago, 2023 (Bouldering & Lead Combined - Men)</li><li>World Cup, 2023 (Lead - Men, Bouldering - Men)</li><li>World Cup, 2022 (Lead - Men, Bouldering & Lead Combined - Men)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 18th (Bouldering & Lead Combined - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699985660/TeamUSA%20Assets/Athlete%20Profiles/Jesse%20Grupper%201165153/Grupper_jesse_bio_1165153.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sport Climbing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699985481/TeamUSA%20Assets/Athlete%20Profiles/Jesse%20Grupper%201165153/Grupper_Jesse_hero_1165153.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699985481/TeamUSA%20Assets/Athlete%20Profiles/Jesse%20Grupper%201165153/Grupper_Jesse_hero_1165153.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1699985307/TeamUSA%20Assets/Athlete%20Profiles/Jesse%20Grupper%201165153/Grupper_Jesse_Thumbnail_1165153.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sport Climbing"
+        },
+        {
+          "title": "Jesse Grupper 1165153"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Gruver",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1997-07-29T00:00:00",
+        "hometown": {
+          "city": "Baltimore, Md.",
+          "state": "MD",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Franklin High School (Reisterstown, Md.) ‘15 University of Washington ‘20, Early Childhood and Family Studies",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Pole Vault - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005883/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Gruver%201140236/Gruver_O.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olivia Gruver 1140236"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Guentzel",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1994-10-06T00:00:00",
+        "hometown": {
+          "city": "Woodbury",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9144,
+          "longitude": -92.9555
+        },
+        "education": "University of Nebraska-Omaha",
+        "fun_fact": "Older brothers played ice hockey in college for Notre Dame and Colorado College, respectively",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position: </strong>Forward</li><li>Son of Mike and Sally Guentzel</li><li>His father, Mike, played ice hockey and was also an assistant coach at the University of Minnesota</li><li>Older brothers, Ryan and Gabe, played ice hockey in college for Notre Dame and Colorado College, respectively</li><li>Made his international debut for Team USA at the 2025 4 Nations Face-Off Tournament</li></ul><h5>Biographical Information</h5><p>Jake Guentzel was born in Omaha, Nebraska, into a hockey family where his father, Mike, was coaching the USHL's Omaha Lancers at the time. Guentzel would grow up in Minnesota, where his dad was an assistant coach at the University of Minnesota. He followed his older brother into hockey (all of them would play in college and professionally) and was selected by the Pittsburgh Penguins in the third round of the 2013 NHL Draft. Guentzel played three seasons at Nebraska-Omaha before beginning his pro career.</p><p>In his rookie season with the Pittsburgh Penguins, Guentzel tied the playoff record for points by a rookie with 21 and contributed five game-winning goals, including in Game 1 and Game 2 of the Stanley Cup Final, as the Penguins became the first repeat champion in 19 years.&nbsp;</p><p>Guentzel made his international debut for Team USA at the 2025 4 Nations Face-Off Tournament, and he was the only one on the team being an \"international\" rookie, as the other 22 U.S. players had all represented their country at least once before, whether it was at the senior, under-20 or under-18 level.</p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770939982/Guentzel_J_bio_1231945.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770939983/Guentzel_J_main_1231945.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770939982/Guentzel_J_bio_1231945.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770939982/Guentzel_J_thumbnail_1231945.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Jake Guentzel"
+        }
+      ]
+    }
+  ]
+}

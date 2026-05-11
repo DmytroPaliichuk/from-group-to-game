@@ -1,0 +1,980 @@
+{
+  "entries": [
+    {
+      "first_name": "McKenzie",
+      "last_name": "Browne",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1995-09-11T00:00:00",
+        "hometown": {
+          "city": "Coopersburg",
+          "state": "PA",
+          "country": "United States",
+          "latitude": 40.50038,
+          "longitude": -75.39074
+        },
+        "education": " Kutztown University",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Former inline skater who transitioned to speedskating after Olympic Winter Games and several of her friends making the Winter Olympics</li><li>Hobbies include reading, snowboarding and hiking</li></ul><h5>Biographical Information&nbsp;</h5><p><span style=\"font-size: 11pt;\">McKenzie Browne began inline skating at the age of 6 and represented the United States in multiple inline world championships before relocating to Salt Lake City at age 23 to transition to speed skating. Browne made the switch: “</span><span style=\"color: rgb(55, 65, 81);font-size: 11pt;\">after watching several of my friends make the Olympic Winter Games in 2018 and 2022.”</span></p><p><span style=\"font-size: 11pt;\">Browne would secure her first two world cup wins during the 2022-23 in team sprint, an</span><span style=\"color: rgb(31, 31, 31);font-size: 11pt;\">&nbsp;event not currently on the Olympic program, and culminated that season with a silver medal at the World Championships in that event with teammates Erin Jackson and Kimi Goetz.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Off the ice, her hobbies include reading, snowboarding, and hiking.</span></p><h5>World Championships Experience</h5><ul><li>Competed at worlds in 2011, 2012, 2013, 2014, and 2015</li><li>Senior 2015- 10th place 100m drag race</li><li>Junior 2014- 7th place 200m time trial</li><li>Junior 2012- 12th place 300m time trial</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767024260/TeamUSA%20Assets/Athlete%20Profiles/McKenzie%20Browne%201236840/m_browne_1236840_bio_new.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Speedskating",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767024262/TeamUSA%20Assets/Athlete%20Profiles/McKenzie%20Browne%201236840/m_browne_1236840_hero.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767024262/TeamUSA%20Assets/Athlete%20Profiles/McKenzie%20Browne%201236840/m_browne_1236840_hero.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1767024258/TeamUSA%20Assets/Athlete%20Profiles/McKenzie%20Browne%201236840/m_browne_1236840_bio.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "McKenzie Browne"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "Speedskating"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Browne",
+      "bio": {
+        "height": "6'0",
+        "birthday": "1991-04-30T00:00:00",
+        "hometown": {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.4419,
+          "longitude": -122.143
+        },
+        "education": "Palo Alto High School University of California, Los Angeles (UCLA)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Anca and Michael</li><li>Got engaged to Missy Sponagle on Dec 15, 2019</li><li>Was named UCLA&#39;s 2013 Club Sports Athlete of the Year – Tier III</li><li>Earned 2nd place at the 2013 International Quidditch Association&#39;s World Cup</li><li>Won 1st place at the 2014 International Quidditch Association&#39;s Global Games</li><li>Finished in 3rd place at the 2015 U.S. Quidditch Cup VIII.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2020 Copa Internacional de Balonmano Playa Volc&#225;n - 1st </li>\r\n                            <li>2019 ANOC World Beach Games - 11th (Doha, Qatar)</li>\r\n                            <li>2019 So. Cal Beach Handball Championships - 1st, MVP</li>\r\n                            <li>2019 Nor. Ca Beach Handball Championships - 1st </li>\r\n                            <li>2019 PGNiG Summer Superliga Płock - 2nd (Poland)</li>\r\n                            <li>2018 So. Cal Beach Handball Championships - 1st</li>\r\n                            <li>2018 Pan American Beach Handball Championships - 3rd </li>\r\n                            <li>2017 So. Cal Beach Handball Championships - 5th </li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2018 IHF Beach Handball World Championships - 12th (Kazan, Russia)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699926/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Browne%201173246/Alex_Hero.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Team Handball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699927/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alex%20Browne%201173246/Alex_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alex Browne 1173246"
+        }
+      ]
+    },
+    {
+      "first_name": "Kayle",
+      "last_name": "Browning",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1992-07-09T00:00:00",
+        "hometown": {
+          "city": "Wooster",
+          "state": "AR",
+          "country": "United States",
+          "latitude": 35.2473,
+          "longitude": -92.3557
+        },
+        "education": "Greenbrier High School (Greenbrier, Ark.) '10 University of Central Arkansas, , Interior Design",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Tommy and Tammy Browning</li><li>Represented Team USA as an alternate at the London 2012</li><li>Began shooting at age 8, in the yard with her dad, an avid sporting clay shooter</li><li>Began her target shooting career in sporting clay shooting, making the open All-American Team at age 12</li><li>Has been on the USAS since she was only 15</li><li>Hobbies include flipping houses (she’s a relator), hunting, the beach, and working her two dogs</li><li>Fun fact, the laurel wreath translates to the meaning of her name</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 National Championship, 2nd (trap)</li>\r\n                            <li>2015 Pan American Games, silver (trap)</li>\r\n                            <li>2015 Acapulco World Cup, 4th (trap)</li>\r\n                            <li>2014 National Championship, 3rd&#160;(trap)</li>\r\n                            <li>2012 London World Cup, bronze&#160;(trap)</li>\r\n                            <li>2011 Pan American Games, bronze&#160;(trap)</li>\r\n                            <li>2011 National Championships, 1st&#160;(trap)</li>\r\n                            <li>2011 National Junior Olympic Championships, 3rd&#160;(trap)</li>\r\n                            <li>2010 Junior National Championships, 1st&#160;(trap)</li>\r\n                            <li>2009 Junior National&#160;Championships, 1st&#160;(trap)</li>\r\n                            <li>2009 World Championships, bronze (team)</li>\r\n                            <li>2008 National Junior Olympic Championships, 2nd&#160;(trap)</li>\r\n                            <li>2007 National Junior Olympic Championships, 3rd&#160;(trap)</li>\r\n                    </ul><h5>Experience </h5><ul><li>One-time Olympian (2020); one-time Olympic medalist (silver)</li><li>Olympic Games Tokyo 2020, silver (trap); 13th (trap mixed team)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 5th (Trap - Team - Women), 46th (Trap - Women)</li><li>Years of participation: Trap - Team - Women 2018, 2019, 2022; Trap - Women 2015, 2018, 2019, 2022; Trap - Team - Mixed 2018</li><li>Medals: 2 (1 gold, 1 bronze)</li><ul><li>Gold – 2019 (Trap - Team - Women)</li><li>Bronze – 2018 (Trap - Team - Women)</li></ul></ul><h5>More</h5>USA Shooting<h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Trap - Women), 13th (Trap - Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335842/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kayle%20Browning/Shooting_Browning_Kayle.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kayle Browning"
+        }
+      ]
+    },
+    {
+      "first_name": "Molly",
+      "last_name": "Bruggeman",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1992-06-19T00:00:00",
+        "hometown": {
+          "city": "Dayton",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 39.7589,
+          "longitude": -84.1916
+        },
+        "education": "University of Notre Dame ’14, Anthropology/Pre-Medicine",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><div><ul><li>Daughter of Elizabeth and Michael Bruggeman</li><li>Began rowing in 2007 with the Dayton Boat Club in Dayton, Ohio</li><li><p>States that her parents are her biggest fans, and she is theirs. Her mom and dad were the ones who encouraged her to come back to training and competing, and she is so happy that she did.</p></li><li><p>Is an assistant rowing coach at the University of Minnesota</p></li><li>Hobbies include drinking coffee, playing Sudoku, dog sitting in her free time, hiking and taking naps</li></ul></div><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 4th (Four - Women)</li><li>Years of participation: Four - Women 2016, 2017, 2018, 2019, 2023; Eight - Women 2022</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2018 (Four - Women)</li><li>Silver – 2016 (Four - Women)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 5th (Eight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712848784/TeamUSA%20Assets/Athlete%20Profiles/Molly%20Bruggeman%20856811/Bruggeman_m_bio_856811.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712848786/TeamUSA%20Assets/Athlete%20Profiles/Molly%20Bruggeman%20856811/Bruggeman_m_hero_856811.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712848786/TeamUSA%20Assets/Athlete%20Profiles/Molly%20Bruggeman%20856811/Bruggeman_m_hero_856811.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335818/TeamUSA%20Assets/Migration/Athlete%20Profiles/Molly%20Bruggeman/Rowing_Bruggeman_Molly.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Molly Bruggeman"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Josh",
+      "last_name": "Brunais",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1987-04-07T00:00:00",
+        "hometown": {
+          "city": "Stafford",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.4251,
+          "longitude": -77.4058
+        },
+        "education": "Potomac Senior High School (Dumfries, Va.) ’05 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Antonie</li><li>Has three brothers, David, Michael and Richard</li><li>Has two daughters, Emily and Sadie</li><li>Is a veteran of the U.S. Army, having achieved the rank of Staff Sergeant before retiring</li><li>Began his service in 2005 and retired in 2015 after sustaining injuries from an IED blast</li><li>Received the Soldier’s Medal for his heroic efforts in saving the lives of 14 men following a helicopter crash</li><li>Participated in the United States Olympic &amp; Paralympic Committee ACE (Athlete Career and Education) program</li><li>Was chosen to be the U.S. flag bearer for the Closing Ceremony of the Paralympic Games Rio 2016</li><li>Hobbies include playing soccer, running and spending time with his dog.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 7th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 4th (Team - Men)</li><li>Years of participation: Team - Men 2019, 2022</li><li>Top finish: 4th – 2022 (Team - Men)</li></ul><h5>More</h5><p>U.S. Soccer</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699958/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Brunais%201006284/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "FT6",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699961/TeamUSA%20Assets/Migration/Athlete%20Profiles/Josh%20Brunais%201006284/Brunais_Joshua_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Josh Brunais 1006284"
+        }
+      ]
+    },
+    {
+      "first_name": "Jennifer",
+      "last_name": "Brundage",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1973-06-27T00:00:00",
+        "hometown": {
+          "city": "Ann Arbor",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.2808,
+          "longitude": -83.743
+        },
+        "education": " UCLA",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Is the Assistant Coach at the University of Michigan</li><li>Resides in Ann Arbor with her husband, Rich Boys</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>1999 Pan American Games Gold Medalist; Hit .281 (9-for-32)  with three RBI and six runs scored</li>\r\n                            <li>1999 U.S. Olympic Cup Gold Medalist; Scored one run in eight plate appearances</li>\r\n                            <li>1999 Canada Cup Gold Medalist; Hit .400 (10-for-25) with two home runs, six RBI and six runs scored</li>\r\n                            <li>1998 South Pacific Classic Gold Medalist; Hit .250 (5-for-20) with one home run, four RBI and five runs scored</li>\r\n                            <li>1998 member of North Team at U.S. Olympic Festival; Hit .278 (5-for-18) with two home runs, four RBI and three runs scored</li>\r\n                            <li>1997 member of East Team at U.S. Olympic Festival; Hit .278 (5-for-18) with one RBI</li>\r\n                            <li>1995 member of South Team at U.S. Olympic Festival; Hit .227 (5-for-22)</li>\r\n                            <li>1994 member of South Team at U.S. Olympic Festival; Hit .133 (2-for-15)</li>\r\n                            <li>Two-time ASA Sportswoman of the Year (1990, 1994)</li>\r\n                            <li>Five-time Women&#39;s Major Fast Pitch National Champion (1993-1997)</li>\r\n                            <li>Four-time USA Softball All American</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Sydney 2000, gold (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>1995:</strong> NFCA First Team All-American...Honda Award winner for softball...NCAA WCWS National Champion</p>\n<p><strong>1994:</strong>&nbsp;NFCA First Team All-American</p>\n<p><strong>1993:</strong>&nbsp;NCAA WCWS Runner-Up</p>\n<p><strong>1992:</strong>&nbsp;NCAA WCWS National Champion</p>\n<p><strong>Click here to view Jennifer Brundage's full collegiate coaching bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699932/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jennifer%20Brundage%20912119/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699933/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jennifer%20Brundage%20912119/BrundageJennifer.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jennifer Brundage 912119"
+        }
+      ]
+    },
+    {
+      "first_name": "Elisa",
+      "last_name": "Brunel",
+      "bio": {
+        "height": "5'6",
+        "birthday": "2004-09-18T00:00:00",
+        "hometown": {
+          "city": "Austin",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 30.2672,
+          "longitude": -97.7431
+        },
+        "education": "Laurel Springs School",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>She has practiced in the same gym as Matthew McConaughey</li><li>Her friend’s uncle is Dennis Quaid (“The Parent Trap”) and he came to read to her kindergarten class</li><li>She plays the saxophone</li><li>She likes to do handstands after dinner to digest food better</li><li>She has never lived in a house with a TV</li><li>She is half Italian and loves to make crostata (Italian pie)</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 junior national team athlete</li>\r\n                            <li>2022 FINA World Series Super Final: 1st (Highlight)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Australia: 1st (Highlight)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Paris: 1st (Tech Team), 1st (Highlight)</li>\r\n                            <li>2022 FINA Artistic Swimming World Series Virtual USA/Canada: 1st (Highlight)</li>\r\n                            <li>2021 Junior Pan American Games: 2nd (Team), 2nd (Highlight)</li>\r\n                            <li>2021 U.S. senior national team member</li>\r\n                            <li>2021 U.S. junior national team member</li>\r\n                            <li>2020 South Zone Championship: 1st (Solo)</li>\r\n                            <li>2020 USA Virtual National Championship: 1st (Duet), 2nd (Solo)</li>\r\n                            <li>2019 South Zone Championship: 2nd (Team)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA World Championships: 5th (Highlight)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687367689/TeamUSA%20Assets/Migration/Athlete%20Profiles/Elisa%20Brunel/Brunel.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Elisa Brunel"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Brunelle",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "2001-03-19T00:00:00",
+        "hometown": {
+          "city": "Ruckersville",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.204,
+          "longitude": -78.3614
+        },
+        "education": "William Monroe High School (Stanardsville, Va.) ‘19 University of Notre Dame",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Katie and Rod Brunelle</li><li>Is an only child</li><li>Father played baseball at Grand Valley State University, was drafted by the Phillies, and played several years in the Minor League</li><li>Began playing basketball at age 3 because her mom was a coach</li><li>Member of the National Honor Society and is a Future Business Leaders of America officer</li><li>Enjoys shopping, movies, and hanging out with friends and teammates</li><li>Favorite player is Elena Della Donne</li><li>Favorite class is English.</li></ul><h5>Career Highlights</h5><ul><li>World Championship U-17, Minsk, 2018 (Team - Women)</li><li>World Championship U-17, Zaragoza, 2016 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686915960/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sam%20Brunelle/brunelle_sam.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sam Brunelle"
+        }
+      ]
+    },
+    {
+      "first_name": "Theo",
+      "last_name": "Brunner",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1985-03-17T00:00:00",
+        "hometown": {
+          "city": "Ridgefield",
+          "state": "CT",
+          "country": "United States",
+          "latitude": 41.2751,
+          "longitude": -73.4904
+        },
+        "education": "Ridgefield High School UC Santa Barbara ('08, philosophy) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Married Ioanna Klironomou in 2015</li><li>Graduated from UC Santa Barbara in 2008 with a BA in philosophy</li><li>Parents are Tim and Sally Brunner. Has an older brother, Max, an older sister, Emily, and a younger sister, Lydia</li></ul><h5>Career Highlights</h5><ul><li>Junior World Championships, Visakhapatnam, 2005 (Team - Men)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 17th (Team - Men)</li><li>Years of participation: Team - Men 2015, 2017</li><li>Top finish: 4th – 2015 (Team - Men)</li></ul><h5>More</h5>View Theo's full results at <strong>bvbinfo.com</strong>&nbsp;",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686915965/TeamUSA%20Assets/Migration/Athlete%20Profiles/Theo%20Brunner/2019-Theo-Brunner.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Theo Brunner"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "Brunner",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1995-08-30T00:00:00",
+        "hometown": {
+          "city": "Brownsburg",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 39.8436,
+          "longitude": -86.3986
+        },
+        "education": "Arizona State University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&la=en&w=50&hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"/></td></tr></tbody></table><div></div><div><p><strong ><br bold=\"[object Object]\"/></strong></p><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2015 All-Pac 12 Conference selection, first team</li><li>Two-time <em>Associated Press</em> High School first team selection (2012, 2013)</li></ul><p>&nbsp;</p><h5>Quick Facts</h5><ul><li>Daughter of Darcy and Thomas Brunner</li><li>Has three siblings, Heath, Gabby, and Ellen</li><li>Hobbies include hanging out with friends and family, snowboarding, and tubing.</li></ul><br /><h5>More</h5><p>USA Basketball</p><p>Education:&nbsp;</p><p>Aquin Catholic High School (Freeport, Ill.) '13 Arizona State University '17, Exploratory</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686915976/TeamUSA%20Assets/Migration/Athlete%20Profiles/Sophie%20Brunner/Basketball_Women_Brunner_Sophie.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sophie Brunner"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Bryan",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1978-04-29T00:00:00",
+        "hometown": {
+          "city": "Wesley Chapel",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.1767,
+          "longitude": -82.3583
+        },
+        "education": "Mesa High School (Oxnard, Calif.) ‘96 Stanford University '98",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Wayne and Kathy Bryan</li><li>His doubles partner and twin brother, Mike, is older by two minutes</li><li>Full name is Robert Charles Bryan</li><li>Wayne and Kathy both teach tennis and began coaching their sons at age 2</li><li>Father, Wayne, is a lawyer, musician and national team tennis coach</li><li>Mother, Kathy, played at Wimbledon four times, reaching the mixed doubles quarterfinal in 1965</li><li>Married Michelle Bryan on Dec. 13, 2010</li><li>Has three children, Micaela, Bobby, Jr. and Richard “Richie” Charles</li><li>Along with brother, Mike, was honored with the 2015 Arthur Ashe Humanitarian Award</li><li>In September 2012, selected as the first US Open Sportsmanship Award recipient from the U.S. Tennis Association</li><li>The Bryan Bros Band, with Bob on keyboards and Mike on drums and guitar, have held concerts at tournaments and charity events around the world</li><li>Performed with the Counting Crows in October 2008 and at the Arthur Ashe Kid’s Day at the 2010 US Open</li><li>Provided music for ATP Doubles Revolution TV commercial and all the original music for the Tennis Channel program, “No Strings.”</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Along with brother, Mike Bryan, is the all-time winningest doubles team in the Open Era with 112 team titles, owning an all-time team record 16 Grand Slams – with their landmark 100th title together coming at the 2014 US Open. </li>\r\n                            <li>Only doubles team in the Open Era to win each Grand Slam title at least twice, one or more major in 10 straight seasons (2005-14) and hold all four major titles at the same time.</li>\r\n                            <li>In 2014, finished as the No. 1 doubles team in the world for a record 10th time in 12 years.</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 2-time Olympic medalist (1 gold, 1 bronze)</li><ul><li>Olympic Games London 2012, gold (Doubles - Men), 9th (Doubles - Mixed)</li><li>Olympic Games Beijing 2008, bronze (Doubles - Men)</li><li>Olympic Games Athens 2004, 5th (Doubles - Men)</li></ul></ul><h5>More</h5>Personal Website<br>\nATP World Tour",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686335853/TeamUSA%20Assets/Migration/Athlete%20Profiles/Bob%20Bryan/BryanB_tennis_120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bob Bryan"
+        }
+      ]
+    },
+    {
+      "first_name": "Mike",
+      "last_name": "Bryan",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1978-04-29T00:00:00",
+        "hometown": {
+          "city": "Wesley Chapel",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 28.1767,
+          "longitude": -82.3583
+        },
+        "education": "Rio Mesa High School (Oxnard, Calif.) ‘96 Stanford University ‘98 Business Administration",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Wayne and Kathy Bryan</li><li>His doubles partner and twin brother, Bob, is younger by two minutes</li><li>Full name is Michael Carl Bryan</li><li>Parents, Wayne and Kathy, both teach tennis and began coaching their sons at age 2</li><li>Father, Wayne, is a lawyer, musician and national team tennis coach</li><li>Mother, Kathy, played at Wimbledon four times, reaching the mixed doubles quarterfinal in 1965</li><li>Married Lucille Bryan on Nov. 25, 2012</li><li>Along with brother, Bob, was honored with the 2015 Arthur Ashe Humanitarian Award</li><li>In September 2012, selected as the first US Open Sportsmanship Award recipient from the U.S. Tennis Association</li><li>The Bryan Bros Band, with Bob on keyboards and Mike on drums and guitar, have held concerts at tournaments and charity events around the world</li><li>Performed with the Counting Crows in October 2008 and at the Arthur Ashe Kid’s Day at the 2010 US Open</li><li>Provided music for ATP Doubles Revolution TV commercial and all the original music for the Tennis Channel program, “No Strings.”</li></ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 3-time Olympic medalist (1 gold, 2 bronze)</li><ul><li>Olympic Games London 2012, gold (Doubles - Men), bronze (Doubles - Mixed)</li><li>Olympic Games Beijing 2008, bronze (Doubles - Men)</li><li>Olympic Games Athens 2004, 5th (Doubles - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Along with brother, Bob Bryan, is the all-time winningest doubles team in the Open Era with 112 team titles, owning an all-time team record 16 Grand Slams – with their landmark 100th title together coming at the 2014 US Open.</li><li>Only doubles team in the Open Era to win each Grand Slam title at least twice, one or more major in 10 straight seasons (2005-14) and hold all four major titles at the same time.</li><li>In 2014, finished as the No. 1 doubles team in the world for a record 10th time in 12 years.</li></ul><h5>More</h5>Personal Website<br>\nATP World Tour",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Tennis",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2004, 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686916559/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mike%20Bryan/BryanM_tennis120x187.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mike Bryan"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelci",
+      "last_name": "Bryant",
+      "bio": {
+        "height": "5’3”",
+        "birthday": "1989-01-15T00:00:00",
+        "hometown": {
+          "city": "Chatham",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 39.6556,
+          "longitude": -89.7126
+        },
+        "education": " University of Minnesota",
+        "fun_fact": null,
+        "biography": "<div class=\"ListParagraphCxSpFirst\"><strong></strong></div>\n<strong></strong><strong><img style=\"width: 75px; height: 75px; float: right; margin: 10px 0px 10px 10px;\" src=\"http://206.17.88.24/%7E/media/BD71B13396C845D18DEADAFB2114E0FC.ashx\" alt=\"Twitter\"></strong><strong>Retired<br>\n<br>\n</strong>\n<div><strong><br>\n</strong>\n<div><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games London 2012, silver (3m Springboard Synchro - Women)</li><li>Olympic Games Beijing 2008, 4th (3m Springboard Synchro - Women)</li></ul></ul><h5>Career Highlights</h5><ul>\n    <li>Four-time world championships team member (top results 6th-2009, 7th-2011)</li>\n    <li>2007 Pan American Games, bronze (3-meter), silver (synchronized 3-meter with<br>\n    Ariel Rittenhouse)</li>\n    <li>Nine-time national champion</li>\n</ul>\n<p><strong>Fun Facts: </strong>Has two sisters, Katie Beth and Kara, and two brothers, Kevin and Steve. All four siblings were college athletes, including Katie Beth, who was a five-time national champion diver at the University of Miami...Hobbies include shopping, reading, writing and playing Scrabble.</p>\n<p></p>\n</div>\n<p></p>\n</div><h5>World Championships Experience</h5><ul><li>Most recent: 2011 – 7th (3m Springboard - Women), 9th (1m Springboard - Women)</li><li>Years of participation: 1m Springboard - Women 2005, 2011; 3m Springboard - Women 2007, 2011; 3m Springboard Synchro - Women 2007, 2009</li><li>Top finish: 6th – 2009 (3m Springboard Synchro - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699845/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelci%20Bryant%20856494/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682699847/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelci%20Bryant%20856494/Bryant-Kelci.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelci Bryant 856494"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryleigh",
+      "last_name": "Buck",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1998-01-19T00:00:00",
+        "hometown": {
+          "city": "Wellington",
+          "state": "KS",
+          "country": "United States",
+          "latitude": 37.26,
+          "longitude": -97.3889
+        },
+        "education": "Wichita State",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><br>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<div><div></div>\n<div></div>\n<div>\n<p><br>\n</p>\n<p><h5>Quick Facts</h5><ul><li>Daughter of TD and Sheila Buck</li><li>Has three siblings</li><li>Plays club softball for the Wichita Mustangs</li><li>Began playing baseball in 2015</li><li>Hobbies include playing softball and fishing.</li></ul><br>\n</p>\n<p><br>\n</p>\n</div>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686925822/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryleigh%20Buck/Baseball_Women_Buck_Ryleigh.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryleigh Buck"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Charlotte",
+      "last_name": "Buck",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1995-02-15T00:00:00",
+        "hometown": {
+          "city": " Nyack",
+          "state": "NY",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Columbia University (New York, N.Y.)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>A vegetarian since fourth grade, she loves cooking and runs a vegan food Instagram page called @vegan_testkitchen</p></li><li><p>Played tennis and basketball in high school and joined theater and debate</p></li><li><p>Started rowing with the Rockland Rowing masters team in the summer of 2014, making her mom go out on the water in a double</p></li><li><p>Her sister convinced Charlotte to join the team to find friends and an outlet for her competitive drive that had previously been channeled into high school mock trial and moot court competitions.</p></li><li>Made the Columbia rowing team as a walk-on during her freshman fall semester</li><li><p>Became Team Captain and recipient of the MVP award at Columbia University in both 2017 and 2018</p></li><li><p>Enjoys playing Kubb, or \"Viking Chess,\" and other lawn games, listening to the \"You're Wrong About\" Podcast, and crafting</p></li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 5th (Eight - Women)</li><li>Olympic Games Tokyo 2020, 4th (Eight - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – silver (Eight - Women)</li><li>Years of participation: Eight - Women 2022, 2023</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2023 (Eight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712776480/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charlotte%20Buck/Buck_c_bio_1188685.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1721666883/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charlotte%20Buck/Buck_C_hero.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686925844/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charlotte%20Buck/Buck_Charlotte_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Charlotte Buck"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "Buckingham",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1989-01-16T00:00:00",
+        "hometown": {
+          "city": "Newport Beach",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.6189,
+          "longitude": -117.9289
+        },
+        "education": "Newport Harbor High School (Newport Beach, Calif.) '07 Georgetown University '11, Government",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mary and Jim Buckingham</li><li>Has three sisters, Mary, Sarah and Biz</li><li>Hobbies include surfing and traveling</li><li>Two-time College Sailor of the Year (2009, 2011)</li><li>Four-time ICSA All-American</li><li>Was on the Newport Harbor high school surf team and surfing remains a passion of his to this day</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Pan American Games Lima 2019, Bronze (Laser)</li>\r\n                            <li>Pan American Games Toronto 2015, 4th (Laser)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 13th (Laser - Men)</li><li>Olympic Games Rio de Janeiro 2016, 11th (Laser - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2020 – 18th (Laser - Men)</li><li>Years of participation: Laser - Men 2009, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020; 420 - Open 2005</li><li>Top finish: 7th – 2014 (Laser - Men)</li></ul><h5>More</h5><a href=\"https://charliebuckingham.com/\">Personal Website<br>\n</a>\nNGB Bio<br>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005129/TeamUSA%20Assets/Athlete%20Profiles/Charlie%20Buckingham%20880669/Buckingham_Charlie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Charlie Buckingham 880669"
+        }
+      ]
+    },
+    {
+      "first_name": "Chase",
+      "last_name": "Budinger",
+      "bio": {
+        "height": "6'7\"",
+        "birthday": "1988-05-22T00:00:00",
+        "hometown": {
+          "city": "Encinitas",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.036,
+          "longitude": -117.292
+        },
+        "education": "University of Arizona",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Duncan and Mara Budinger</li><li>Former professional NBA player</li><li>Drafted in 2009: 44th overall pick</li><li>Played basketball for the Houston Rockets, Minnesota Timberwolves, Indiana Pacers and Phoenix Suns</li></ul><h5>Career Highlights</h5><ul><li>Gold - 2023 Haikou World Tour</li><li>Bronze - 2023 Chiang Mai World Tour</li><li>Silver - 2023 Saquarema World Tour</li><li>Silver - 2022 Nalaguaridhoo World Tour</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 17th (Team - Men)</li><li>Years of participation: Team - Men 2023</li><li>Top finish: 17th – 2023 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720392383/Budinger_Chase_23.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        },
+        {
+          "title": "Beach Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720392361/Budinger_Chase_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Volleyball"
+        },
+        {
+          "title": "Beach Volleyball"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Paige",
+      "last_name": "Bueckers",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-10-20T00:00:00",
+        "hometown": {
+          "city": "St. Louis Park",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9458,
+          "longitude": -93.3605
+        },
+        "education": "Hopkins High School (Minnetonka, Minn.) ‘20 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Amy Dettbarn and Bob Bueckers</li><li>Oldest of four siblings, brothers Ryan and Drew and sister Lauren</li><li>Mother competed in cross-country and track and field at the University of St. Thomas in St. Paul, Minn</li><li>First played basketball when she was 5</li><li>Favorite player is Kyrie Irving</li><li>Favorite class is criminal law</li><li>Is a member of her high school’s honor roll.</li></ul><h5>Career Highlights</h5><ul><li>World Championship U-19, Bangkok, 2019 (Team - Women)</li><li>World Championship U-17, Minsk, 2018 (Team - Women)</li></ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005145/TeamUSA%20Assets/Athlete%20Profiles/Paige%20Bueckers%201077636/buekers_paige.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Paige Bueckers 1077636"
+        }
+      ]
+    }
+  ]
+}

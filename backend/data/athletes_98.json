@@ -1,0 +1,975 @@
+{
+  "entries": [
+    {
+      "first_name": "William",
+      "last_name": "May",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1979-01-16T00:00:00",
+        "hometown": {
+          "city": "Henderson",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.0396,
+          "longitude": -114.9817
+        },
+        "education": "Santa Clara High School ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><p>Worked at Cirque Du Soleil's \"O\" in Las Vegas</p><p>Started in synchro in 1989</p><p>Favorite food is ice cream.</p><h5>Career Highlights</h5><ul><li>2004 US National Championships: Mixed Duet - 1st</li><li>2003 US National Championships: Mixed Duet - 1st</li><li>2003 Swiss Open: Mixed Duet - 1st</li><li>2002 US National Championships: Mixed Duet - 1st</li><li>2002 Swiss Open: Mixed Duet - 1st</li><li>2002 German Open: Mixed Duet - 1st</li><li>2002 Rome Open: Mixed Duet - 1st</li><li>2001 US National Championships: Mixed Duet - 1st</li><li>2001 Swiss Open: Mixed Duet - 1st</li><li>2000 US National Championships: Mixed Duet - 1st</li><li>2000 Swiss Open: Mixed Duet - 1st</li><li>2000 Rome Open: Solo - 1st</li><li>1999 US National Championships: Mixed Duet - 1st</li><li>1999 Swiss Open: Mixed Duet - 1st</li><li>1999 USA Synchro Athlete of the Year</li><li>1999 French Open: Mixed Duet - 1st</li><li>1998 US National Championships: Mixed Duet - 1st</li><li>1998 Goodwill Games: Mixed Duet - 2nd</li><li>1998 USA Synchro Athlete of the Year</li><li>1997 Swiss Open: Mixed Duet - 1st</li></ul><h5>World Championships Experience</h5><ul><li>2017 FINA World Championships: Mixed Duet Tech - 3rd, Mixed Duet Free - 3rd</li><li>2015 FINA World Championships: Mixed Duet Tech - 1st, Mixed Duet Free - 2nd</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1685222944/NGB%20Artistic%20Swimming/Athlete%20Profiles/SNT%2023/23_Bill_May.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011471/TeamUSA%20Assets/Athlete%20Profiles/William%20May%20920654/Bill-May.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "William May 920654"
+        }
+      ]
+    },
+    {
+      "first_name": "Misty",
+      "last_name": "May-Treanor",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1977-07-30T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": "Newport Harbor High School Long Beach State, Concordia University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bob “Butch” May and Barbara May</li><li>Father, Butch, was a member of the 1968 U.S. Men’s National Volleyball Team and mother, Barbara, was a former nationally ranked tennis player</li><li>Has two brothers, Brack and Scott</li><li>Married to former MLB player Matt Treanor</li><li>Has three children, Malia Barbara and fraternal twins, Mele Elizarin and Mia Kanoelani</li><li>Published autobiography, “Misty, Digging Deep in Volleyball and Life” in 2010</li><li>Has tattoos honoring her deceased mother and grandmother</li><li>After retiring from competition following the Olympic Games London 2012, coached at the junior and collegiate levels</li><li>At the time of her induction into the USOPC Hall of Fame, served as the director of volleyball operations for Long Beach City College and as a co-chair to the President’s Council on Sports, Fitness and Nutrition.</li></ul><h5>Olympic Experience</h5><ul><li>4-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games London 2012, gold (Team - Women)</li><li>Olympic Games Beijing 2008, gold (Team - Women)</li><li>Olympic Games Athens 2004, gold (Team - Women)</li><li>Olympic Games Sydney 2000, 5th (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2011 – silver (Team - Women)</li><li>Years of participation: Team - Women 2001, 2007, 2011</li><li>Medals: 2 (1 gold, 1 silver)</li><ul><li>Gold – 2007 (Team - Women)</li><li>Silver – 2011 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240426/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Hero%20May-Treanor/May-Treanor_coverphoto.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Beach Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2000, 2004, 2008, 2012",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686240428/TeamUSA%20Assets/Migration/Athlete%20Profiles/Hall%20of%20Fame/Headshot%20May-Treanor/May-Treanor_Headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Misty May-Treanor"
+        },
+        {
+          "title": "Hall Of Fame Member"
+        },
+        {
+          "title": "Class Of 2019"
+        },
+        {
+          "title": "Olympian"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Mayer",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1982-06-11T00:00:00",
+        "hometown": {
+          "city": "Culver City",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.017,
+          "longitude": -118.3965
+        },
+        "education": "Pierce Junior College/Pepperdine '05",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Retired after the 2018 beach season to coach beach volleyball at Loyola Marymount University</li><li>Married to dermatologist Dr. Paola Rodriguez. The couple has a daughter</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Beach Volleyball Head Coach at Loyola Marymount University in California since 2015</li>\r\n                            <li>Top international finishes are two silvers on the NORCECA Continental Tour</li>\r\n                            <li>Made his professional debut in 2003 at a domestic AVP event</li>\r\n                            <li>---</li>\r\n                            <li>DID YOU KNOW?</li>\r\n                            <li>Played in five 2018 FIVB World Tour events with Trevor Crabb, winning Lucerne 3-star and JinJiang 2-star</li>\r\n                            <li>In 2017, tied for 17th in his lone FIVB World Tour event, earned silver on the NORCECA Continental Tour; On the domestic AVP Tour, placed third three times</li>\r\n                            <li>Played on the FIVB World Tour with Ryan Doherty 2015-16, duo had a best finish of fourth and fifth in 13 tournaments in that time frame</li>\r\n                            <li>Made his international debut in 2009 on the FIVB World Tour</li>\r\n                            <li>Played on the NORCECA Continental Tour in 2013 and 2016, in those two seasons had one silver and bronze medal finishes</li>\r\n                            <li>From 2010-16 on the AVP Tour, has three titles, five second-place finishes and eight third-place finishes</li>\r\n                            <li>Has played on the AVP Tour since 2003, his first tournament title was in 2009, and also earned four third-place finishes that year</li>\r\n                            <li>Made his professional debut in 2003 on the AVP Tour, while still in college</li>\r\n                            <li>Transferred to Pepperdine and was a setter, libero and OH for the National Championship team in 2005</li>\r\n                            <li>Played at Los Angeles Pierce Community College, leading them to a state championship in 2002 and was the tournament MVP</li>\r\n                    </ul><h5>More</h5>View John Mayer's full career results at bvbinfo.com<h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 17th (Team - Men)</li><li>Years of participation: Team - Men 2015</li><li>Top finish: 17th – 2015 (Team - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687365257/TeamUSA%20Assets/Migration/Athlete%20Profiles/John%20Mayer/John-Mayer-2-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Mayer"
+        }
+      ]
+    },
+    {
+      "first_name": "Mikaela",
+      "last_name": "Mayer",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1990-07-04T00:00:00",
+        "hometown": {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        },
+        "education": " Northern Michigan University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5>Began boxing at 17 after passing a muai thai kickboxing gym in the valley in Los Angeles for weeks. She quickly became obsessed with it. She&#39;s the first person in her family of hippies to box. She moved to Marquette, Mich., to join the USOEC program in Marquette, Mich., and met her coach Al Mitchell there. She splits time between Marquette and Colorado Springs.<h5>Career Highlights</h5><ul>\r\n                            <li>2016 USA BOXING ELITE NATIONAL CHAMPION</li>\r\n                            <li>AMERICAS OLYMPIC QUALIFIER CHAMPION</li>\r\n                            <li>U.S. OLYMPIC TEAM TRIALS CHAMPION</li>\r\n                            <li>2015 USA BOXING NATIONAL CHAMPION</li>\r\n                            <li>2012 CONTINENTAL CHAMPION</li>\r\n                            <li>2012 USA BOXING NATIONAL CHAMPION (141 LBS)</li>\r\n                            <li>2012 OLYMPIC TRIALS SILVER MEDALIST</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Lightweight - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – 17th (Lightweight - Women)</li><li>Years of participation: Lightweight - Women 2016; Light Welterweight - Women 2012</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2012 (Light Welterweight - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720040/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mikaela%20Mayer%20876285/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Boxing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682720042/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mikaela%20Mayer%20876285/mayer_mikaela_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mikaela Mayer 876285"
+        }
+      ]
+    },
+    {
+      "first_name": "Nick",
+      "last_name": "Mayhugh",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1996-02-27T00:00:00",
+        "hometown": {
+          "city": "Manassas",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.7515,
+          "longitude": -77.4753
+        },
+        "education": "Radford University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p><span style=\"font-size: 11pt;\"><strong>Sport:</strong></span><span style=\"font-size: 11pt;\"> Para track and field, soccer</span></p></li><li><p><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\"> 100-meter, 200-meter, 400-meter and 7-a-side soccer</span></p></li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Nick Mayhugh is a distinguished para athlete known for his achievements in both soccer and track and field. A diagnosis of cerebral palsy at age 14 set him on a path to becoming one of the most versatile and accomplished para-athletes in the world.</span></p><p><span style=\"font-size: 11pt;\">Mayhugh competed on the U.S. men’s Paralympic soccer team, then transitioned to track and field and excelled at the Tokyo 2020 Paralympic Games.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Passionate about giving back to his community and supporting youth in athletics, Mayhugh delivered a commencement speech at his alma mater in addition to visiting local schools, hospitals and athletic teams.</span></p><h5>Olympic Highlights</h5><p><span style=\"font-size: 11pt;\">Mayhugh made a stunning debut at the Tokyo 2020 Paralympic Games. Competing in the T37 classification, he captured three gold medals in the 100-meter final, 200-meter final and the 4x100-meter universal relay final, setting world records in both the 100-meter (10.95 seconds) and 200-meter (21.91 seconds).&nbsp;</span></p><p><span style=\"font-size: 11pt;\">He competed in the Paris 2024 Paralympic Games in both long T38 long jump and T138 100-meter, placing 5th and 7th respectively.&nbsp;</span></p><h5>World Championship Highlights</h5><p><span style=\"font-size: 11pt;\">Mayhugh achieved success at the 2023 World Para Athletics Championships when he secured a bronze medal in the T38 100-meter event.</span></p><h5>Parapan American Games Highlights</h5><p><span style=\"font-size: 11pt;\">In 2019, as a member of the U.S. men's Paralympic soccer team, Mayhugh played a key role in leading the team to a historic bronze medal at the Parapan American Games, marking the first time the U.S. had ever medaled in this event. His outstanding performance was further recognized when he was honored as U.S. Soccer Player of the Year with a Disability.</span></p><h5>Early Career</h5><p><span style=\"font-size: 11pt;\">Diagnosed with cerebral palsy as a teenager, Mayhugh refused to let the condition limit his ambitions. Supported by his family and coaches, Mayhugh’s early years were filled with hard work and resilience, laying the foundation for his future success in both soccer and track and field.</span></p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian; 4-time Paralympic medalist (3 gold, 1 silver)</li><ul><li>Paralympic Games Paris 2024, 5th (Long Jump T38 - Men), 7th (100m T38 - Men)</li><li>Paralympic Games Tokyo 2020, gold (100m T37 - Men, 200m T37 - Men, 4 x 100m Medley - Mixed), silver (400m T37 - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – 4th (400m T38 - Men), 7th (100m T38 - Men)</li><li>Years of participation: 100m T38 - Men 2023, 2024; 400m T38 - Men 2023, 2024; Team - Men 2017, 2019</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2023 (100m T38 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662883/TeamUSA%20Assets/Athlete%20Profiles/Nicholas%20Mayhugh%201154483/N_Mayhugh_bio_1154483.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T37",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686875056/NGB%20Para%20Track%20and%20Field/Migration/Mayhugh_USOPC-3.jpg"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680006691/TeamUSA%20Assets/Athlete%20Profiles/Nicholas%20Mayhugh%201154483/Mayhugh_Nick_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nicholas Mayhugh 1154483"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Howard",
+      "last_name": "Mayo, Jr.",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1987-11-20T00:00:00",
+        "hometown": {
+          "city": "Roosevelt",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.6787,
+          "longitude": -73.5807
+        },
+        "education": "Roosevelt High School (Roosevelt, N.Y.) Long Island University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Stephanie Mayo and Howard Mayo</li><li>Coaches at the Nassau Thunderbolts boccia club in Roosevelt, N.Y</li><li>Has been a career activity aide at CP Nassau since 2011.</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Boccia",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "Assistant – BC3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686917902/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Howard Mayo, Jr."
+        }
+      ]
+    },
+    {
+      "first_name": "Chris",
+      "last_name": "Mazdzer",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1988-06-26T00:00:00",
+        "hometown": {
+          "city": "Salt Lake City",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7608,
+          "longitude": -111.891
+        },
+        "education": "National Sports Academy (Lake Placid, N.Y.) DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>2018 Olympic silver medalist at XXIII Olympic Winter Games in Pyeongchang, South Korea (a USA first in men&#39;s singles)</li>\r\n                            <li>10 Individual World Cup medals including 4 gold</li>\r\n                            <li>8-time Norton National Champion</li>\r\n                            <li>Ranked 3rd overall in the 2015-16 World Cup season (tied for US best ever)</li>\r\n                            <li>FIL Athletes` Representative/FIL Executive Board Member</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>4-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Beijing 2022, 7th (Team - Relay - Mixed), 8th (Single - Men)</li><li>Olympic Games Pyeongchang 2018, silver (Single - Men), 4th (Team - Relay - Mixed)</li><li>Olympic Games Sochi 2014, 6th (Team - Relay - Mixed), 13th (Single - Men)</li><li>Olympic Games Vancouver 2010, 13th (Single - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2021 – 4th (Team - Relay - Mixed), 10th (Single - Men), 16th (Double - Open)</li><li>Years of participation: Double - Open 2019, 2020, 2021; Single - Men 2007, 2009, 2011, 2012, 2013, 2015, 2016, 2017, 2020, 2021; Team - Relay - Mixed 2012, 2013, 2015, 2016, 2019, 2020, 2021; Sprint - Double - Open 2019, 2020; Sprint - Single - Men 2016</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2020 (Team - Relay - Mixed)</li></ul></ul><h5>More</h5><p><strong>FUN FACTS</strong></p>\n<ul>\n    <li>2018 Dancing With The Stars contestant with pro dancer Witney Carson; Advanced to third of four rounds in the season</li>\n    <li>Named as an Athlete Mentor for Classroom Champions,&nbsp;a non-profit organization partnering Olympic and Paralympic athletes with students and teachers in underserved communities</li>\n    <li>Chris is the athlete representative to the executive board of the International Luge Federation and the IOC</li>\n    <li>Chris&rsquo; favorite show on television is Vice News</li>\n    <li>Chris is an outdoor enthusiast who enjoys rock climbing, mountain biking, hiking, skiing and exploring the world</li>\n    <li>His website is: <strong><a href=\"http://chris-mazdzer-fizm.squarespace.com/\" target=\"_blank\">www.chrismazdzer.com<br>\n    <br>\n    </a></strong></li>\n</ul>\n<p><strong>BEST EVER RESULTS<br>\n</strong><br>\n<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018 Olympic silver medalist at XXIII Olympic Winter Games in Pyeongchang, South Korea (a USA first in men's singles)</strong></p>\n<ul>\n    <li>Bronze medal in Koenigssee, Germany World Cup Team Relay (with Jayson Terdiman, Summer Britcher, Tucker West)</li>\n    <li>Silver medal in Lake Placid, NY World Cup sprint race</li>\n    <li>Silver medal in Calgary, Canada World Cup team relay (with Jayson Terdiman, Summer Britcher, Tucker West)</li>\n    <li><strong>Ranked 3rd in the 2015-16 overall World Cup standings (tied for USA Luge best ever)</strong></li>\n    <li>2015 World Cup gold medal in Lake Placid in singles and relay</li>\n    <li>2015 World Cup gold medal in Park City (singles)</li>\n    <li>2014 sprint World Cup gold medal in Calgary</li>\n    <li>Ranked 5th in the 2013-14 and 2014-15 overall World Cup standings</li>\n    <li>Finished 4th in the singles and sprint competitions at the 2016 World Championships</li>\n    <li>Bronze medal in 2020 Sochi, Russia World Championship team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>Silver medal in Koenigssee, Germany World Cup team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>Silver medal in Beijing, China team relay (with Ashley Farquharson, Tucker West, Jayson Terdiman)</li>\n</ul>\n<p><strong><br>\n2021-2022 (Racing singles as well as doubles with Jayson Terdiman. Chris is the only competitor competing in both disciplines)</strong></p>\n<p><strong>Racing this season with new sleds in singles and doubles<br>\n</strong></p>\n<ul>\n    <li>Broke his right foot in Sept 2021 training camp on the ice in Sochi, Russia</li>\n    <li>DNQ for Beijing, China World Cup singles race</li>\n    <li>DNQ for Beijing, China World Cup doubles race </li>\n    <li>Silver medal in Beijing, China team relay (with Ashley Farquharson, Tucker West, Jayson Terdiman)</li>\n    <li>20th place in Sochi, Russia (1) World Cup singles race</li>\n    <li>11th place in Sochi, Russia (1) World Cup doubles race</li>\n    <li>8th place in Sochi, Russia (1) World Cup team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>20th place in Sochi, Russia (2) World Cup singles race</li>\n    <li>13th place in Sochi, Russia (2) World Cup doubles race</li>\n    <li>5th place in Sochi, Russia (2) World Cup sprint doubles race</li>\n    <li>17th place in Altenberg, Germany World Cup singles race</li>\n    <li>13th place in Altenberg, Germany World Cup doubles race</li>\n    <li>4th place in Altenberg, Germany World Cup team relay (with Emily Sweeney, Jonny Gustafson, Jayson Terdiman)</li>\n    <li>20th place in Igls, Austria World Cup singles race</li>\n    <li>15th place in Igls, Austria World Cup doubles race</li>\n    <li>DNQ for Igls, Austria World Cup sprint singles race</li>\n    <li>12th place in Igls, Austria World Cup sprint doubles race</li>\n    <li>20th place in Winterberg, Germany World Cup singles race</li>\n    <li>16th place in Winterberg, Germany World Cup doubles race</li>\n    <li>Bronze medal in Winterberg, Germany World Cup team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>25th place in Sigulda, Latvia World Cup singles race</li>\n    <li>DNQ for Sigulda, Latvia World Cup doubles race</li>\n    <li>21st place in Oberhof, Germany World Cup singles race</li>\n    <li>18th place in St. Moritz, Switzerland World Cup singles race</li>\n    <li><strong>8th place in Beijing Olympic singles race</strong></li>\n    <li><strong>7th place in Beijing Olympic team relay (with Ashley Farquharson, Zack DiGregorio, Sean Hollander)<br>\n    </strong></li>\n</ul>\n<p><strong><br>\n2020-2021 (team only competed second half of season)</strong></p>\n<ul>\n    <li>Although exempt from qualifying, Chris captured the fall singles races and the COVID Cup</li>\n    <li>With doubles teammate Jayson Terdiman, Chris won 1 of 2 fall series doubles races</li>\n    <li>13th place in Koenigssee, Germany World Cup doubles race (with Jayson Terdiman)</li>\n    <li>15th place in Koenigssee, Germany World Cup singles race</li>\n    <li>6th place in Koenigssee, Germany team relay (with Summer Britcher, Jonny Gustafson, Jayson Terdiman)</li>\n    <li>13th place in Sigulda, Latvia World Cup singles race</li>\n    <li>10th place in Sigulda, Latvia World Cup doubles race (with Jayson Terdiman)</li>\n    <li>20th place in Oberhof, Germany World Cup singles race</li>\n    <li>15th place in Oberhof, Germany World Cup doubles race (with Jayson Terdiman)</li>\n    <li>24th place in Igls, Austria World Cup 2 doubles race (with Jayson Terdiman)</li>\n    <li>19th place in Igls, Austria World Cup 2 singles race</li>\n    <li>DNQ in Igls, Austria World Cup 2 singles and doubles sprint races</li>\n    <li>10th place in Koenigssee, Germany World Championship singles race</li>\n    <li>DNQ for Koenigssee, Germany World Championship sprint and doubles races</li>\n    <li>16th place in Koenigssee, Germany World Championship doubles race (with Jayson Terdiman) </li>\n    <li>4th place in Koenigssee, Germany World Championship team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>14th place in St. Moritz, Switzerland World Cup singles race</li>\n    <li>9th place in St. Moritz, Switzerland World Cup doubles race (with Jayson Terdiman)</li>\n    <li>St. Moritz, Switzerland team relay snowed out</li>\n</ul>\n<p><strong>&nbsp;</strong></p>\n<p><strong>2019-20 SEASON (Racing singles as well as doubles with Jayson Terdiman; Shoulder and elbow surgeries in March 2020)<br>\n</strong></p>\n<ul>\n    <li>10th place in Igls, Austria World Cup singles race</li>\n    <li>17th place in Igls, Austria World Cup doubles race</li>\n    <li>7th place in Lake Placid World Cup singles race</li>\n    <li>4th place in Lake Placid World Cup sprint race</li>\n    <li>DNF Lake Placid World Cup doubles race</li>\n    <li>13th place in Whistler, Canada World Cup singles race</li>\n    <li>9th place in Whistler, Canada World Cup (singles) sprint race</li>\n    <li>11th place in Whistler, Canada World Cup doubles race</li>\n    <li>10th place in Whistler, Canada World Cup (doubles) sprint race</li>\n    <li>13th place in Altenberg, Germany World Cup singles race</li>\n    <li>17th place in Altenberg, Germany World Cup doubles race</li>\n    <li>DNS in Lillehammer, Norway World Cup singles race (neck)</li>\n    <li>DNS in Lillehammer, Norway World Cup doubles race (neck)</li>\n    <li>DNS in Sigulda, Latvia World Cup singles and doubles (neck)</li>\n    <li>12th place in Oberhof, Germany World Cup doubles race</li>\n    <li>Silver medal in Oberhof, Germany World Cup team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>19th place in Sochi, Russia World Championship singles race</li>\n    <li>9th place in Sochi, Russia World Championship sprint doubles</li>\n    <li>DSQ in Sochi, Russia World Championship doubles race (steel runners too warm)</li>\n    <li>Bronze medal in Sochi, Russia World Championship team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n    <li>DNR in Winterberg, Germany World Cup</li>\n    <li>17th place in Koenigssee, Germany World Cup singles race</li>\n    <li>7th place in Koenigssee, Germany World Cup doubles race (season's best result)</li>\n    <li>Silver medal in Koenigssee, Germany World Cup team relay (with Summer Britcher, Tucker West, Jayson Terdiman)</li>\n</ul>\n<p><strong>&nbsp;</strong></p>\n<p><strong>2018-19 SEASON (Raced singles as well as doubles with Jayson Terdiman; Finished 7th overall in doubles in abbreviated season)</strong></p>\n<p><strong>Season ended prematurely due to shoulder and neck issues. Underwent shoulder surgery Feb. 20, second such procedure since spring 2016<br>\n</strong></p>\n<ul>\n    <li>DNR in Sochi, Russia World Cup finals</li>\n    <li>6th place in Oberhof, Germany team relay with Jayson Terdiman, Summer Britcher, Tucker West</li>\n    <li>10th place in Oberhof, Germany World Cup doubles race</li>\n    <li>9th place in Altenberg, Germany World Cup doubles race</li>\n    <li>DNR Altenberg, Germany World Cup singles race due to neck injury</li>\n    <li>6th place in Winterberg, Germany World Championship team relay (with Jayson Terdiman, Emily Sweeney, Jonny Gustafson)</li>\n    <li>11th place in Winterberg, Germany World Championship doubles race</li>\n    <li>5th place in Winterberg, Germany World Championship doubles sprint race</li>\n    <li>DNR in men's sprint and men's singles due to neck injury</li>\n    <li>13th place in Sigulda, Latvia World Cup singles race</li>\n    <li>11th place in Sigulda, Latvia World Cup doubles race</li>\n    <li>4th place in Sigulda, Latvia World Cup team relay (with Jayson Terdiman, Summer Britcher, Tucker West)</li>\n    <li>Bronze medal in Koenigssee, Germany World Cup Team Relay (with Jayson Terdiman, Summer Britcher, Tucker West)</li>\n    <li>9th place in Koenigssee, Germany World Cup doubles race</li>\n    <li>9th place in Koenigssee, Germany World Cup singles race</li>\n    <li>Silver medal in Lake Placid, NY World Cup sprint doubles race</li>\n    <li>6th place in Lake Placid, NY World Cup doubles race</li>\n    <li>6th place in Lake Placid, NY World Cup sprint race</li>\n    <li>4th place in Lake Placid, NY World Cup singles race</li>\n    <li>Silver medal in Calgary, Canada World Cup team relay (with Jayson Terdiman, Summer Britcher, Tucker West)</li>\n    <li>5th place in Calgary, Canada World Cup doubles race</li>\n    <li>24th place in Calgary, Canada World Cup singles race</li>\n    <li>6th place in Whistler, Canada World Cup team relay</li>\n    <li>7th place in Whistler, Canada World Cup doubles race</li>\n    <li>9th place in Igls, Austria World Cup doubles sprint</li>\n    <li>17th place in Igls, Austria World Cup singles</li>\n    <li>10th place in Igls, Austria World Cup doubles</li>\n    <li>Gold medal in pre-season Lillehammer Cup</li>\n    <li>Captured 8th Norton National Championship in Lake Placid</li>\n</ul>\n<p><strong>&nbsp;</strong></p>\n<p><strong>2017-18 SEASON</strong></p>\n<ul>\n    <li><strong><strong>2018 Olympic silver medalist at XXIII Olympic Winter Games in Pyeongchang, South Korea <strong>(a USA first in men's singles)</strong><br>\n    </strong></strong></li>\n    <li>10th place in Sigulda, Latvia World Cup sprint race</li>\n    <li>6th place in Sigulda, Latvia World Cup singles race</li>\n    <li>21st place in Lillehammer, Norway World Cup singles race</li>\n    <li>17th place in Oberhof, Germany World Cup singles race</li>\n    <li>Tied 16th place in Koenigssee, Germany World Cup singles race</li>\n    <li>8th place in Lake Placid World Cup singles race</li>\n    <li>15th in Lake Placid World Cup sprint race</li>\n    <li>14th place in Calgary, Canada World Cup singles race</li>\n    <li>4th place in Calgary, Canada World Cup team relay (with Summer Britcher, Matt Mortensen/Jayson Terdiman)</li>\n    <li>19th place in Altenberg, Germany World Cup singles&nbsp; race</li>\n    <li>21st in Winterberg, Germany World Cup singles race</li>\n    <li>20th in Igls, Austria World Cup singles race</li>\n</ul>\n<strong><br>\n</strong>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Luge",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2010, 2014, 2018, 2022",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010581/TeamUSA%20Assets/Athlete%20Profiles/Chris%20Mazdzer%20879572/ChrisWeb.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chris Mazdzer 879572"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Luge"
+        }
+      ]
+    },
+    {
+      "first_name": "Sophie",
+      "last_name": "McAfee",
+      "bio": {
+        "height": "5' 8\"",
+        "birthday": "2002-12-27T00:00:00",
+        "hometown": {
+          "city": "San Marino",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.12,
+          "longitude": -118.117
+        },
+        "education": "Polytechnic School (2021) Purdue University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Sophie is the daughter of Kristin and Preston McAfee</li><li>She has an older sister, Ellie</li><li>Sophie started diving at age 7 and trains 2 1/2-5 hours a day six days a week</li><li>She qualified for her first junior nationals at age 8 and competed in her first senior nationals at age 12</li><li>Her favorite dive is 305C on both 3-meter and 10-meter</li><li>She likes to dance, bake and travel</li><li>She has 63 Spotify playlists that can always match her moods, and she has a food Instagram to showcase her love for baking</li><li>She listens to Imagine Dragons between most dives as their songs have a lot of motivational themes</li><li>Her favorite food is chocolate chip pancakes</li><li>Her favorite book is Born a Crime by Trevor Noah</li></ul><h5>Career Highlights</h5><ul><li>World Junior Championships, Kyiv, 2018 (10m Platform Synchro - Women, 3m Springboard - Women, 10m Platform - Women, 1m Springboard - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Diving",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680011159/TeamUSA%20Assets/Athlete%20Profiles/Sophie%20McAfee%201103908/UPDATED-2019-McAfee-Sophia-headshot-150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sophie McAfee 1103908"
+        }
+      ]
+    },
+    {
+      "first_name": "Charlie",
+      "last_name": "McAvoy",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1997-12-21T00:00:00",
+        "hometown": {
+          "city": "Long Beach",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.5876,
+          "longitude": -73.6615
+        },
+        "education": "Boston University",
+        "fun_fact": "Drafted by the Boston Bruins with the No. 14 overall pick in 2016",
+        "biography": "<h6>Quick Facts</h6><ul><li><strong>Position:</strong> Defenseman</li><li>Married his wife Kiley in 2023</li><li>Father to his son named Rhys</li></ul><h6>Biographical Information</h6><p>McAvoy is a defenseman for the Boston Bruins, drafted 14th overall in 2016. Developed through the USA Hockey National Team Development Program and Boston University, he quickly emerged as one of the NHL’s top two-way defensemen. Internationally, he’s won gold at the World Juniors and bronze at the World Championships. McAvoy married Kiley Sullivan in 2023 and became a father in 2025.</p><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – bronze (Team - Men)</li><li>Years of participation: Team - Men 2017, 2018</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Milan 2026, gold (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1756518050/TeamUSA%20Assets/Athlete%20Profiles/Charlie%20McAvoy%20875016/mcavoy_c_bio_875016.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1757105986/TeamUSA%20Assets/Athlete%20Profiles/Charlie%20McAvoy%20875016/mcavoy_c_hero_875016_2.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1757018621/TeamUSA%20Assets/Qualification%20Cards/McAvoy_Charlie_QualCard_2025.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1756518050/TeamUSA%20Assets/Athlete%20Profiles/Charlie%20McAvoy%20875016/mcavoy_c_bio_875016.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Charlie McAvoy 875016"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Seth",
+      "last_name": "McBride",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1983-02-26T00:00:00",
+        "hometown": {
+          "city": "Juneau",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 58.3019,
+          "longitude": -134.4197
+        },
+        "education": "Juneau-Douglas High School (Juneau, Alaska) ‘01 University of Oregon '06, International Studies and Political Science; Portland State University '12, MFA: Non-Fiction Writing",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>In 2001, the same year he graduated high school, McBride got into a skiing accident which left him paralyzed and with two broken vertebrates in his neck</li><li>Son of Ken and Mary McBride</li><li>Has one sister, Jessica</li><li>Rode his handcycle to the tip of South America</li><li>Enjoys mountain biking, camping, playing the harmonica, traveling</li><li>Spent three months living in El Salvador teaching English to local residents.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (1 gold, 1 silver, 1 bronze)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Mixed)</li><li>Paralympic Games London 2012, bronze (Team - Mixed)</li><li>Paralympic Games Beijing 2008, gold (Team - Mixed)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2010 – gold (Team - Mixed)</li><li>Years of participation: Team - Mixed 2006, 2010</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2010 (Team - Mixed);  2006 (Team - Mixed)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696517/TeamUSA%20Assets/Migration/Athlete%20Profiles/Seth%20McBride%20908603/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 1,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Rugby",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "2.0",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696520/TeamUSA%20Assets/Migration/Athlete%20Profiles/Seth%20McBride%20908603/McBride_Seth_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Seth McBride 908603"
+        }
+      ]
+    },
+    {
+      "first_name": "Omar",
+      "last_name": "McBride",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "2001-04-16T00:00:00",
+        "hometown": {
+          "city": "Apex",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.7315,
+          "longitude": -78.85
+        },
+        "education": "Apex High School ‘19 ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5>Started summer track when he was 10 years old and began high jumping at the end of that first season.<h5>Career Highlights</h5><ul>\r\n                            <li>2018 USATF Hershey National Junior Olympics, 1st (17-18 division)</li>\r\n                            <li>2018 New Balance Outdoor Nationals, 1st</li>\r\n                            <li>2018 North Carolina 4A outdoor state championships, 3rd</li>\r\n                            <li>2018 North Carolina 4A indoor state championships, 2nd (high jump), 4th (triple jump)</li>\r\n                    </ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696633/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charles%20%22Omar%22%20McBride%201116328/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682696639/TeamUSA%20Assets/Migration/Athlete%20Profiles/Charles%20%22Omar%22%20McBride%201116328/mcbride_omar_charles.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Charles \"Omar\" McBride 1116328"
+        }
+      ]
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "McCaffery",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "2000-03-20T00:00:00",
+        "hometown": {
+          "city": "North Liberty",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 41.7397,
+          "longitude": -91.606
+        },
+        "education": "Iowa City West High School (Iowa City, Iowa) ‘19 University of Iowa ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Margaret and Fran McCaffrey</li><li>Father is men’s basketball head coach at University of Iowa</li><li>Mother played basketball at Notre Dame, father played basketball at University of Pennsylvania</li><li>Has three siblings, brothers Connor and Jonathan and sister Marit</li><li>Brother Connor plays basketball at University of Iowa</li><li>Favorite player is Lebron James</li><li>Was diagnosed with thyroid cancer in 2014 at the age of 13.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2018 USA Basketball Men’s 3x3 U18 National Championship, 1st and MVP</li>\r\n                            <li>2018 USA Basketball Men’s Junior National Select Team</li>\r\n                    </ul><h5>More</h5>USA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686322409/TeamUSA%20Assets/Migration/Athlete%20Profiles/Pat%20McCaffery/mccaffrey_pat.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Pat McCaffery"
+        }
+      ]
+    },
+    {
+      "first_name": "Grace",
+      "last_name": "McCallum",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "2002-10-30T00:00:00",
+        "hometown": {
+          "city": "Isanti",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 45.5297,
+          "longitude": -93.338
+        },
+        "education": "Minnesota Connections Academy ‘21 University of Utah '25",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Sandra and Edward McCallum</li><li>Second of six siblings</li><li>Has two dogs, a German Shepherd named Bella and German Shepherd/Husky mix names Hazel</li><li>Supports three foundations: the Special Olympics, TB1F and the ALS Foundation</li><li>Hobbies include swimming and tubing at the lake with family and friends, snowmobiling, watching movies and traveling</li><li>Likes to paint, hang out with her family, make TikToks and read.</li></ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Tokyo 2020, silver (Team - Women), 16th (Floor Exercise - Women), 22th (Uneven Bars - Women), 28th (Individual All-Around - Women), 32th (Beam - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – gold (Team - Women), 10th (Floor Exercise - Women, Uneven Bars - Women), 25th (Beam - Women, Individual All-Around - Women)</li><li>Years of participation: Beam - Women 2019; Floor Exercise - Women 2018, 2019; Individual All-Around - Women 2019; Team - Women 2018, 2019; Uneven Bars - Women 2018, 2019; Vault - Women 2018</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2019 (Team - Women);  2018 (Team - Women)</li></ul></ul><h5>More</h5><p>USA Gymnastics</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012297/TeamUSA%20Assets/Athlete%20Profiles/Grace%20McCallum%201117556/McCallum_Grace.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Grace McCallum 1117556"
+        }
+      ]
+    },
+    {
+      "first_name": "Keaton",
+      "last_name": "McCargo",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1995-07-10T00:00:00",
+        "hometown": {
+          "city": "Telluride",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 37.9375,
+          "longitude": -107.8125
+        },
+        "education": "Telluride Mountain School (Telluride, Colo.) '13 DeVry University, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Grant McCargo and Jennifer Page</li><li>Has two sisters, Page and Sydney</li><li>Hobbies include mountain biking and hiking with family.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2017 FIS World Cup Standings, 6th (moguls)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 8th (Moguls - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 8th (Dual Moguls - Women), 10th (Moguls - Women)</li><li>Years of participation: Dual Moguls - Women 2015, 2017; Moguls - Women 2015, 2017</li><li>Top finish: 8th – 2017 (Dual Moguls - Women)</li></ul><h5>More</h5>U.S. Ski and Snowboard",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920173/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keaton%20McCargo/mccargo_keaton_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Freestyle Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686920174/TeamUSA%20Assets/Migration/Athlete%20Profiles/Keaton%20McCargo/mccargo_keaton_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Keaton McCargo"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "McCarthy",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1986-08-09T00:00:00",
+        "hometown": {
+          "city": "Boston",
+          "state": "MA",
+          "country": "United States",
+          "latitude": 42.3601,
+          "longitude": -71.0589
+        },
+        "education": "St. John’s Prep School (Danvers, Mass.) Boston University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Frank and Joan McCarthy</li><li>Selected by the San Jose Sharks in the seventh round of the 2006 NHL Draft.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>Co-Captained Boston University to an NCAA Champion in the 2008-09 season </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 7th (Team - Men)</li></ul></ul><h5>More</h5>USA Hockey",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686322477/TeamUSA%20Assets/Migration/Athlete%20Profiles/John%20McCarthy/McCarthy_John_092713_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686322478/TeamUSA%20Assets/Migration/Athlete%20Profiles/John%20McCarthy/McCarthy_John_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John McCarthy"
+        }
+      ]
+    },
+    {
+      "first_name": "Remontay",
+      "last_name": "McClain",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1992-09-21T00:00:00",
+        "hometown": {
+          "city": "Victorville",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.5361,
+          "longitude": -117.2917
+        },
+        "education": "Azusa Pacific University",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<br>\n\n<div>\n<p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (4 x 100m Relay - Men, 100m - Men)</li></ul><h5>Quick Facts</h5><ul><li>Son of Roberta McClain</li><li>Won the 100- meter and 200- at the state championships during his junior and senior years at Covina High School</li><li>Was a two-sport athlete in high school and also competed in football.</li></ul><br>\n\n<p><br>\n</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686324035/TeamUSA%20Assets/Migration/Athlete%20Profiles/Remontay%20McClain/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Remontay McClain"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Konnor",
+      "last_name": "McClain",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "2005-02-01T00:00:00",
+        "hometown": {
+          "city": "Las Vegas",
+          "state": "NV",
+          "country": "United States",
+          "latitude": 36.1716,
+          "longitude": -115.1391
+        },
+        "education": "LSU",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Marc and Lorinda McClain</li><li>Has three siblings, Cole, Olivia and Deuce</li><li>Began walking on a balance beam and completing backbend kickovers when she was just two years old</li><li>Moved to West Virginia when she was three years old</li><li>Used to compete for her local swim team before choosing to focus on gymnastics</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 10th (Beam - Women)</li><li>Years of participation: Beam - Women 2021</li><li>Top finish: 10th – 2021 (Beam - Women)</li></ul><h5>Career Highlights</h5><ul><li>Made her elite debut at the 2017 U.S. Classic</li><li>Made her senior elite debut at the 2021 Winter Cup, winning the bronze medal in vault. She also placed fourth in beam.</li><li>2022 U.S. Nationals all-around champion</li><li><p>2022 U.S. Nationals balance beam champion</p></li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662023/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_McClain_bio_unknown.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Gymnastics",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662462/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/K_McClain_hero_unknown.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1688752355/TeamUSA%20Assets/Athlete%20Voices/Black%20Excellence%20All-Around/Konnor%20McClain/Konnor-20.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Konnor McClain 1125683"
+        }
+      ]
+    },
+    {
+      "first_name": "Chelsea",
+      "last_name": "McClammer",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1994-03-01T00:00:00",
+        "hometown": {
+          "city": "Richland",
+          "state": "WA",
+          "country": "United States",
+          "latitude": 46.2859,
+          "longitude": -119.285
+        },
+        "education": " University of Illinois-Urbana-Champaign ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Rebecca Bowie and Charles McClammer</li><li>Grew up playing basketball, tennis and track</li><li>Incurred a spinal injury after a car accident at the age of six</li><li>At 14 years old she went on to become the youngest member of the Paralympic U.S. Track and Field team at Beijing 2008 after joining the national team two years prior</li><li>Her dream is to move back to Seattle and work at the hospital she went through rehab at after her accident, Seattle Children’s Hospital, to be a children’s rehab counselor.</li></ul><h5>Paralympic Experience </h5><ul><li>3-time Paralympian; 3-time Paralympic medalist (2 silver, 1 bronze)</li><ul><li>Paralympic Games Tokyo 2020, 6th (800m T53 - Women), 7th (400m T53 - Women)</li><li>Paralympic Games Rio de Janeiro 2016,  (4 x 400m Relay T53-54 - Women, Marathon T54 - Women), silver (400m T53 - Women, 5000m T54 - Women), bronze (1500m T54 - Women), 5th (800m T53 - Women)</li><li>Paralympic Games Beijing 2008, 8th (800m T54 - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2019 – 5th (400m T53 - Women), 6th (800m T53 - Women), 8th (1500m T54 - Women, 5000m T54 - Women)</li><li>Years of participation: 1500m T54 - Women 2015, 2017, 2019; 400m T53 - Women 2013, 2015, 2017, 2019; 5000m T54 - Women 2015, 2017, 2019; 800m T53 - Women 2013, 2015, 2017, 2019; Marathon T53/54 - Women 2015; 100m T53 - Women 2013; 200m T53 - Women 2011, 2013</li><li>Medals: 5 (1 silver, 4 bronze)</li><ul><li>Silver – 2017 (400m T53 - Women)</li><li>Bronze – 2017 (5000m T54 - Women, 800m T53 - Women);  2015 (5000m T54 - Women);  2013 (200m T53 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662026/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/mcclammer_c_bio_856510.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2008, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T53",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662596/TeamUSA%20Assets/Athlete%20Profiles/Chelsea%20McClammer%20856510/mcclammer_c_hero_856510.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013147/TeamUSA%20Assets/Athlete%20Profiles/Chelsea%20McClammer%20856510/McClammer_Chelsea250x150.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chelsea McClammer 856510"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "entries": [
+    {
+      "first_name": "Jessica",
+      "last_name": "Javelet",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1985-06-25T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "Torrey Pines High School (San Diego, Calif.) ‘03  University of Louisville ’07, Marketing; DeVry University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jeffrey and Madeline Javelet</li><li>Has two sisters, Jennifer and Kelsey</li><li>Played professional field hockey in Germany for six months and coached field hockey at St. Joseph’s University.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015-16 HSBC Women’s Sevens World Series, 6th </li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 5th (Team - Women)</li></ul></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698419/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessica%20Javelet%20834304/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682698421/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jessica%20Javelet%20834304/javelet_jessica_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Javelet 834304"
+        }
+      ]
+    },
+    {
+      "first_name": "John",
+      "last_name": "Jayne",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1997-03-04T00:00:00",
+        "hometown": {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        },
+        "education": "University of Chicago",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><span>A citizen of the United States as well as Great Britain and Bulgaria, Jayne won cadet national titles in both Great Britain and Bulgaria in 2013, but ultimately chose to represent the United States on the international stage</span></li><li><p>A wrestler for the University of Chicago, Jayne competed internationally in judo while pursuing a degree in mathematics</p></li><li><p>After graduating from the University of Chicago, Jayne moved down from 100 kg to 90 kg in 2019 and qualified for his first Senior World Championship in 2021 after the COVID-19 shutdown in 2020</p></li><li><p>A bronze medalist at his first Senior Pan American Championships in 2022, Jayne is currently the highest ranked U.S. man in the world rankings, holding the No. 30 position at 90 kg</p></li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (90kg - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2021 – 33th (90kg - Men)</li><li>Years of participation: 90kg - Men 2021</li><li>Top finish: 33th – 2021 (90kg - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Judo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366278/TeamUSA%20Assets/Migration/Athlete%20Profiles/John%20Jayne/John-Jayne-300xx500-resize.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "John Jayne"
+        },
+        {
+          "title": "Judo"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Trumaine",
+      "last_name": "Jefferson",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1995-04-21T00:00:00",
+        "hometown": {
+          "city": "Houston, Texas ",
+          "state": "TX",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Oak Ridge High School (Conroe, Texas) ‘14 University of Houston ‘19 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Tiffany Thomason</li><li>Five-time NCAA First-Team All-American.</li></ul><h5>Career Highlights</h5><ul><li>Pan American Games, Lima, 2019 (Long Jump - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – 21th (Long Jump - Men)</li><li>Years of participation: Long Jump - Men 2019</li><li>Top finish: 21th – 2019 (Long Jump - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003714/TeamUSA%20Assets/Athlete%20Profiles/Trumaine%20Jefferson%201174913/T_Jeffereson.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Trumaine Jefferson 1174913"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyra",
+      "last_name": "Jefferson",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1994-09-23T00:00:00",
+        "hometown": {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 42.3314,
+          "longitude": -83.0458
+        },
+        "education": "University of Florida",
+        "fun_fact": "",
+        "biography": "<span></span><div><div><p><span><br /><strong>Personal: </strong>Daughter of Thomas Jefferson and Michele Watkins…Nickname is “KJ.”<br />Education:</span></p><p><span></span>Cass Technical High School (Detroit, Mich.) ‘13 University of Florida ’17, Event Management and Mass Communication<span><br /></span></p></div></div><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (4 x 400m Relay - Women, 200m - Women)</li><li>World Youth Championships, Lille, 2011 (200m - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921100/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kyra%20Jefferson/Athletics_Jefferson_Kyra.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kyra Jefferson"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Moriah",
+      "last_name": "Jefferson",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1994-03-08T00:00:00",
+        "hometown": {
+          "city": "Glenn Heights",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.53,
+          "longitude": -96.8
+        },
+        "education": "University of Connecticut",
+        "fun_fact": "",
+        "biography": "<strong>\n</strong>\n<table align=\"right\">\n    <tbody>\n        <tr>\n            <td><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&amp;w=100&amp;la=en&amp;hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"><br>\n            </td>\n            <td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/Instagram_Icon_Large_100x100.jpg?h=50&amp;la=en&amp;w=50&amp;hash=E4FFB1930F1B5CD01FA87AEF9A158A2A680EC76B\"></td>\n        </tr>\n    </tbody>\n</table>\n<div></div>\n<div></div>\n<div><br>\n\n<p><h5>Career Highlights</h5> </p>\n<ul>\n    <li>2013 FIBA U19 World Championship, gold</li>\n    <li>2012 FIBA Americas U18 Championship, gold</li>\n    <li>2011-12 McDonald's All-American</li>\n    <li>2011-12 <em>USA Today</em>&nbsp;All-American</li>\n    <li>2011-12 MaxPreps All-American</li>\n</ul>\n<p><h5>Quick Facts</h5><ul><li>Daughter of Robin and Lorenza Jefferson</li><li>Competed with the Texas Home Educators Sports Association as a homeschooled student-athlete.</li></ul><br>\n<br>\n<h5>More</h5>USA Basketball</p>\n</div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921123/TeamUSA%20Assets/Migration/Athlete%20Profiles/Moriah%20Jefferson/Basketball_Women_Jefferson_Moriah.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Moriah Jefferson"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Madeline",
+      "last_name": "Jelenicki",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1995-10-05T00:00:00",
+        "hometown": {
+          "city": "Santa Clarita",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 34.3917,
+          "longitude": -118.547
+        },
+        "education": "UCLA",
+        "fun_fact": "",
+        "biography": "<span><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Twitter_Icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=BD859F7D691A7BD861ABC5E8CC7954866F265960\"><img alt=\"\" src=\"/-/media/USA_Softball/Images/Stock/Social-Media/Instagram_icon.jpg?la=en&amp;h=100&amp;w=100&amp;hash=C9A1D833D045C46F6C1EA1C0CB013D9D0C0E42C9\"># 42<br>\nHeight: 5'9\"<br>\nPosition: Catcher<br>\nB/T: R/R<br>\nHometown: Santa Clarita, Calif.<br>\nSchool: UCLA<br>\nGraduation: 2018<br>\n<br>\n<img alt=\"\" height=\"313\" width=\"501\" src=\"/-/media/USA_Softball/Images/Mobile-App/Athlete-Bios/WNT-Gallery/Madeline-Jelenicki/Jelenicki3.jpg?h=313&amp;&amp;w=501&amp;la=en&amp;hash=E197D77ACEC125EDA98BA8EE758EEFAAD0C56C96\" ><br>\n<br>\n<strong><span>EXPERIENCE</span></strong><br>\n<strong>\n2016 Women's Elite Team Member</strong><br>\n- World Cup of Softball participant<br>\n&nbsp; - Led the Elite Team with three home runs, collecting a .364 (4-for-11) batting average with five RBI and three runs scored<br>\n<br>\n<strong><span>AT UCLA</span></strong><br>\n2016 All-Pac-12 Second Team<br>\n2015 All-Pac-12 Freshman Team<br>\n<br>\n<strong><span>GETTING TO KNOW JELENICKI</span></strong><br>\n<strong>\nParents:</strong>&nbsp;Cris and Dan Jelenicki<br>\n<strong>Dream job:</strong>To be an ESPN broadcaster<br>\n<strong>On what it means to represent the United States in softball:</strong>&nbsp;It is truly an honor to be able to wear USA across my chest and get to play with some of the most talented athletes in the game.<br>\n<strong>\nWhat she enjoys most about softball:</strong>&nbsp;I love that the game is always challenging you and testing your mental toughness.  You can strikeout one at bat and come up with the game on the line the next at bat and get a hit. There is always a chance to get better and learn from your mistakes.<br>\n</span>\n<p><span><strong><span>FUN FACTS</span></strong><br>\n<strong>Favorite activities:</strong>Yoga, working out, hanging with friends, the beach<br>\n<strong>\nFavorite snack/meal:</strong>Pita Chips and Hummus<br>\n<strong>\nBest vacation she's ever had:&nbsp;</strong>Oklahoma City my freshman year to play in the WCWS!<br>\n<strong>\nMy cellphone wallpaper is:</strong>A picture of my Mom and I<br>\n<strong>\nBest advice I've ever received:</strong>\"Work hard!\"<br>\n</span></p>\n<p><span><strong><span>ONE LAST THING</span></strong><br>\n<strong>\nLast gift I bought:&nbsp;</strong>Bought myself some Lululemon<br>\n<strong>\nLast time I was embarrassed: </strong>When my backpack broke in the middle of campus and my papers were flying&nbsp;everywhere<br>\n<strong>\nLast home cooked meal: </strong>Salmon, rice and veggies<br>\n<strong>\nLast guilty pleasure: </strong>Chocolate covered almonds<br>\n<strong>\nLast thing I misplaced: </strong>My wallet<br>\n</span></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921157/TeamUSA%20Assets/Migration/Athlete%20Profiles/Madeline%20Jelenicki/JelenickiMadeline1.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Madeline Jelenicki"
+        },
+        {
+          "title": "2025-2026 National Team"
+        }
+      ]
+    },
+    {
+      "first_name": "Jeff",
+      "last_name": "Jendryk",
+      "bio": {
+        "height": "6'10\"",
+        "birthday": "1995-09-15T00:00:00",
+        "hometown": {
+          "city": "Wheaton",
+          "state": "IL",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "St. Francis Loyola of Chicago (2018)",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Has two older sisters, Jessica and Jenna, who both played college volleyball</li><li>Parents are Jeff and Jennifer</li><li>Enjoys video games, including Call of Duty</li><li>Majored in finance</li></ul><h5>Career Highlights</h5><ul><li>World Cup, 2019 (Team - Men)</li><li>Junior World Championships, 2015 (Team - Men)</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2018, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2018 (Team - Men)</li></ul></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Paris 2024, bronze (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1715370440/Jendryk_Jeff_VB.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686923997/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jeff%20Jendryk/2017-Jeff-Jendryk.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jeff Jendryk"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Volleyball"
+        }
+      ]
+    },
+    {
+      "first_name": "Trevon",
+      "last_name": "Jenifer",
+      "bio": {
+        "height": "3'0\"",
+        "birthday": "1988-09-07T00:00:00",
+        "hometown": {
+          "city": "Huntingtown",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.6015,
+          "longitude": -76.5705
+        },
+        "education": "University of Pennsylvania",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Son of Constance Bullock and Eric Brown. Has three brothers - Paul, Marcus and Jamar, and a sister, LaTarsha. His partner is Laura Klass. Has a daughter named Saraeya.</p></li><li>Born with congenital amputation</li><li><p>Was a successful track athlete in his early years and a top wrestler in high school</p></li><li><p>Attended Huntingtown High School and joined the wrestling team, competing against able-bodied athletes and finishing third in his weight class at the Maryland state tournament his senior year</p></li><li><p>Started playing wheelchair basketball in 1992 with team Air Capital in Washington D.C</p></li><li><p>Was a three-year captain and two-time All-American for the Edinboro men’s wheelchair basketball team and played professional basketball for two years overseas in France</p></li><li><p>Penned an inspirational autobiography, “From the Ground Up”, at 17 years old</p></li><li><p>Favorite sports teams are the Washington Wizards and Washington Commanders</p></li><li><p>Aspires to work for the federal government and ultimately become a lawyer</p></li><li><p>Hobbies include hunting, fishing, shooting, camping and spending time with family and friends</p></li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 4-time Paralympic medalist (3 gold, 1 bronze)</li><ul><li>Paralympic Games Paris 2024, gold (Team - Men)</li><li>Paralympic Games Tokyo 2020, gold (Team - Men)</li><li>Paralympic Games Rio de Janeiro 2016, gold (Team - Men)</li><li>Paralympic Games London 2012, bronze (Team - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – gold (Team - Men)</li><li>Years of participation: Team - Men 2014, 2018, 2023</li><li>Medals: 3 (1 gold, 2 silver)</li><ul><li>Gold – 2023 (Team - Men)</li><li>Silver – 2018 (Team - Men);  2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662005/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Jenifer_t_bio_821638.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Basketball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "2.5",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690227872/TeamUSA%20Assets/Athlete%20Profiles/jennifer_t_hero_821638.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1690227872/TeamUSA%20Assets/Athlete%20Profiles/jennifer_t_hero_821638.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003756/TeamUSA%20Assets/Athlete%20Profiles/Trevon%20Jenifer%20821638/Jenifer_Trevon_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Trevon Jenifer 821638"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Wheelchair Basketball"
+        }
+      ]
+    },
+    {
+      "first_name": "Mikaela",
+      "last_name": "Jenkins",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "2003-03-11T00:00:00",
+        "hometown": {
+          "city": "Evansville",
+          "state": "IN",
+          "country": "United States",
+          "latitude": 37.9748,
+          "longitude": -87.5558
+        },
+        "education": "F.J. Reitz High School (Evansville, Indiana) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Jennifer and Joseph Jenkins</li><li>Has one younger brother, Nathan</li><li>Born with left Proximal Femoral Focal Deficiency and underwent a left Symes Amputation when she was eight months old</li><li>Was fitted with her first prosthesis as a one-year-old and walked independently at 17 months</li><li>Learned to swim at age four and began competitive swimming when she was eight</li><li>Has two dogs, Indy and Lucy, and two cats, Moon and Ninja</li><li>Loves to travel and learn about different cultures</li><li>Considers herself a big TV and movie buff</li></ul><p></p><h5>Career Highlights</h5><ul><li>Parapan American Games Santiago 2023, silver (100-meter butterfly), bronze (400-meter freestyle)</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian; 2-time Paralympic medalist (2 gold)</li><ul><li>Paralympic Games Tokyo 2020, gold (100m Butterfly S10 - Women, 4 x 100m Medley Relay 34 Points - Women), 7th (200m Individual Medley SM10 - Women), 8th (100m Breaststroke SB9 - Women), 9th (100m Backstroke S10 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 –  (100m Breaststroke SB9 - Women), bronze (100m Butterfly S10 - Women), 4th (200m Individual Medley SM10 - Women)</li><li>Years of participation: 100m Breaststroke SB9 - Women 2019, 2022; 100m Butterfly S10 - Women 2019, 2022; 200m Individual Medley SM10 - Women 2019, 2022; 100m Backstroke S10 - Women 2019; 4 x 100m Freestyle Relay 34 Points - Women 2019; 4 x 100m Medley Relay 34 Points - Women 2019; 400m Freestyle S10 - Women 2019</li><li>Medals: 4 (1 gold, 2 silver, 1 bronze)</li><ul><li>Gold – 2019 (100m Butterfly S10 - Women)</li><li>Silver – 2019 (4 x 100m Freestyle Relay 34 Points - Women, 4 x 100m Medley Relay 34 Points - Women)</li><li>Bronze – 2022 (100m Butterfly S10 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662018/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/jenkins_m_bio_1127279.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S10, SB9, SM10",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662503/TeamUSA%20Assets/Athlete%20Profiles/Mikaela%20Jenkins%201127279/jenkins_m_hero_1127279.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010605/TeamUSA%20Assets/Athlete%20Profiles/Mikaela%20Jenkins%201127279/JENKINS-Mikaela-Kusumoto210620-047.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mikaela Jenkins 1127279"
+        }
+      ]
+    },
+    {
+      "first_name": "Andrew",
+      "last_name": "Jenks",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1990-09-21T00:00:00",
+        "hometown": {
+          "city": "Wilmington",
+          "state": "DE",
+          "country": "United States",
+          "latitude": 39.7459,
+          "longitude": -75.5466
+        },
+        "education": "Brandywine High School (Wilmington, Del.) West Chester University ’13, B.A. Political Science, University of Delaware ’15, M.A. Political Science & International Relations, PhD ’18, Political Science & International Relations",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Gordon and Elaine Jenks</li><li>Born with incomplete achromatopsia, a non-progressive and hereditary congential retinal condition characterized by decreased vision, light sensitivity and partial color blindness</li><li>Introduced to goalball in 2000 at a sports day sponsored by Delaware Association of Blind Athletes (DABA) at the Bob Carpenter Center at the University of Delaware</li><li>Met John Mulhern, a member of the U.S. Men’s Goalball Team that had just returned from the 2000 Paralympic Games in Sydney, and Greg Gontaryk – two coaches he credits with teaching him the ‘in’s and out’s’ at a young age</li><li>Hobbies include reading, exploring major metropolitan areas, going on brewery tours and tasting pretty much anything out there</li><li>Plays the saxophone and loves listening to and playing funk/jam music</li><li>Lives by the motto: “The world is your oyster so shuck it, put some hot sauce on it, and shoot it.”</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Parapan American Games, silver</li>\r\n                    </ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian; 1-time Paralympic medalist (1 silver)</li><ul><li>Paralympic Games Rio de Janeiro 2016, silver (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2022 – 9th (Team - Men)</li><li>Years of participation: Team - Men 2014, 2022</li><li>Medals: 1 (1 bronze)</li><ul><li>Bronze – 2014 (Team - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Goalball",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "B3",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003748/TeamUSA%20Assets/Athlete%20Profiles/Andrew%20Jenks%20803827/Jenks_Andrew_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Andrew Jenks 803827"
+        }
+      ]
+    },
+    {
+      "first_name": "Terrence",
+      "last_name": "Jennings",
+      "bio": {
+        "height": "5'9\"",
+        "birthday": "1986-07-28T00:00:00",
+        "hometown": {
+          "city": "Alexandria",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.8048,
+          "longitude": -77.0469
+        },
+        "education": "T.C. Williams H.S. (Alexandria, Va.) Northern Virginia Community College",
+        "fun_fact": "",
+        "biography": "<p><strong style=\"font-family: verdana; font-size: small;\">World Ranking as of 12/1/15: </strong>9th&nbsp;(World -68kg)<br><strong><br bold=\"[object Object]\"></strong><strong style=\"font-family: verdana; font-size: small;\">Awards:</strong><strong><br bold=\"[object Object]\"></strong>-2012 USAT Male Athlete of the Year<br>-2011 USAT Male Athlete of the Year</p><p><br>Competed in track for two years in high school...enjoys watching Taekwondo movies...favorite foods are chicken and pasta...prior to competition eats pasta, fruit and water...favorite athlete is Michael Jordan...favorite movie is <em>Bad Boys 2</em>...favorite country visited for competition is Brazil &nbsp;</p><p><strong>Competition Record:</strong><strong><br bold=\"[object Object]\"></strong><strong style=\"font-weight: bold;\">2016 &nbsp;</strong>Olympic Trials (-80kg): 2nd<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -def. Jaysen Ishida, 4-2<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -lost to Jaysen Ishida, 1-0 (OT)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -def. Jaysen Ishida, 5-2<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -lost to Steven Lopez, 1-0 (OT)<br><br><strong>2015 &nbsp;World Cup Team Championships Team Member</strong><br><strong>2015 &nbsp;WTF World Grand Prix Series 3 - Manchester (-68kg): Round of 16</strong><br>-def. Thomas Auger (AUS), by RSC, in Round of 32<br>&nbsp; &nbsp; &nbsp; &nbsp; -lost to Dae-Hoon Lee (KOR), 17-5, in Round of 16<br><strong>2015&nbsp;&nbsp;Pan American&nbsp;Games (-68kg): 5th</strong><br>-def. Edgar Contreras (VEN), 12-11, in quarterfinals<br>-lost to Maxime Potvin (CAN), 13-11, in semifinals<br>-lost to Miguel Angel Trejos (COL), 16-6, in bronze medal contest<br><strong>2015&nbsp; WTF World Taekwondo Championships (-68kg):&nbsp;Quarterfinalist</strong><strong><br bold=\"[object Object]\"></strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -</strong>def.&nbsp;Moloise Ogoudjobi (BEN), 12-0, in round of 64<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def.&nbsp;Jean Segura (CHI), 10-8, in round of 32<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Vladislav Arventii (MDA), 7-4, in round of 16<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Servet Tazegul (TUR), 13-11, in quarterfinals<br><strong>2015&nbsp; Pan Am Games Team Member (-68kg)</strong><strong><br bold=\"[object Object]\"></strong><strong>2015 &nbsp;</strong>Pan Am GamesTeam Trials (-68kg): 1st<br><br><strong>2014&nbsp; USA Taekwondo National Team Trials (men’s feather): FIRST</strong><strong><br bold=\"[object Object]\"></strong><strong>2014&nbsp; U.S. National Team member (Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong><br bold=\"[object Object]\"></strong><strong>2013&nbsp; U.S. National Team Member (Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2013 &nbsp;</strong>U.S. National Team Trials (Feather): 1st<br><strong>2013&nbsp; WTF World Taekwondo Championships (Feather): Round of 16</strong><strong><br bold=\"[object Object]\"></strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</strong>def. Thomas Afonczenko&nbsp;(AUS), 10-3, in&nbsp;Round of 64<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Marios Fyllakoudias (CYP), 8-3, in Round of 32<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to&nbsp;Luis Colon&nbsp;(PUR),&nbsp;18-8, in&nbsp;Round of 16<br><strong>2013</strong>&nbsp; Pan American Open: GOLD<br><strong>2013&nbsp; WTF Grand Prix Final (men’s -68kg): First Round</strong><strong><br bold=\"[object Object]\"></strong><br><strong>2012&nbsp; Olympic Games (-68kg): BRONZE</strong><strong><br bold=\"[object Object]\"></strong>-lost to Servet Tazegul (TUR), 8-6, in Round of 16<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Hryhorii Husarov (UKR), 3-2, in Repechage<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Diogo Silva (BRA), 8-5, in Bronze Medal Match<br><strong>2012&nbsp; Olympic Team Member (-68kg)</strong><strong><br bold=\"[object Object]\"></strong><strong>2012</strong>&nbsp; Olympic Trials Finals (-68kg): 1st<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-lost to Mark Lopez, 2-1, in overtime<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-def. Mark Lopez, 1-0</p><p><strong>2011&nbsp; Pan Am Olympic Qualifier (-68kg): BRONZE (qualifies division for&nbsp;2012 Games)</strong><strong><br bold=\"[object Object]\"></strong>-def. Victor Zepeda (HON), 10-5, in Round of 16<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Sergio Dario Garcia Moreira (ECU), 9-3, in Quarterfinals<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -lost to Peter Lopez (PER), 5-4, in Semifinals<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Jhohanny Bartermi (DOM), 7-3, in Bronze Medal Match<strong><br bold=\"[object Object]\"></strong><strong>2011&nbsp; Pan Am Games (Feather -68kg): BRONZE</strong><strong><br bold=\"[object Object]\"></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Danny Miranda (VEN), 13-11 in Round of 16<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Diogo Andre Da Silva (BRA), 6-4, in Quarterfinals<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -lost to Jhohanny Jean Bartermi (DOM), 9-7, in Semifinals<strong><br bold=\"[object Object]\"></strong><strong>2011&nbsp; World Taekwondo Championships (Feather): Round of 64</strong><strong><br bold=\"[object Object]\"></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -lost to Claudio Treviso (ITA), 6-3, in Round of 64<strong><br bold=\"[object Object]\"></strong><strong>2011&nbsp; Pan Am Games Team Member (Bantam/Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2011&nbsp; </strong>Pan Am Games Qualifier (Bantam/Feather): Qualified<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Yosvel Perez (CUB) by DQ<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -def. Franco Rosval (BOL) 4-2<strong><br bold=\"[object Object]\"></strong><strong>2011&nbsp; U.S. National Team Member (Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2011&nbsp; </strong>U.S. National Team Trials (Feather): 1st<strong><br bold=\"[object Object]\"></strong><strong><br bold=\"[object Object]\"></strong><strong>2010&nbsp; </strong>2012 Olympic Team Trials 1 (Bantam/Feather): 1st<strong><br bold=\"[object Object]\"></strong><strong>2010&nbsp; </strong>Pan Am Games Team Trials (Bantam/Feather): 1st<strong><br bold=\"[object Object]\"></strong><strong>2010&nbsp; </strong>Spanish Open (Feather): GOLD<br><strong>2010&nbsp; U.S. National Team Member (Feather)</strong></p><p><strong>2009&nbsp; U-24 National Team Member (Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2009&nbsp; </strong>U-24 National Team Trials (Feather): 1st<br><strong>2009&nbsp; </strong>World University Games (Feather): BRONZE<br><strong>2009&nbsp; World University Games Team Member (Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2009&nbsp; </strong>World University Games Trials (Feather): 1st<br><strong>2009&nbsp; </strong>Pan Am University Championships (Feather): GOLD<strong><br bold=\"[object Object]\"></strong><strong>2009&nbsp; </strong>National Collegiate Championships (Feather): GOLD<br><strong>2009&nbsp; </strong>U.S. Open (Light): BRONZE<strong></strong></p><p><strong>2007&nbsp; </strong>Sr. National Team Trials (Feather): 2nd<br><strong>2007&nbsp; Pan Am Games Team Member (Bantam/Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2007&nbsp; </strong>Pan Am Games Trials (Bantam/Feather): 1st<br><br><strong>2006&nbsp; </strong>U.S. Senior Nationals (Feather): BRONZE<br><strong>2006&nbsp; </strong>National Collegiate Team Trials (Feather): GOLD<br><strong>2006 &nbsp;</strong>National Collegiate Championships&nbsp;(Feather): GOLD<br><strong>2006&nbsp; </strong>Sr. National Team Trials (Feather): 2nd</p><p><strong>2005&nbsp; </strong>U.S. Senior Nationals (Feather): GOLD<br><strong>2005&nbsp; World University Games Team Member (Feather)</strong><strong><br bold=\"[object Object]\"></strong><strong>2005&nbsp; </strong>World University Games Trials (Feather): GOLD<br><strong>2005&nbsp; </strong>National Collegiate Championships (Feather): GOLD<br><strong>2005&nbsp; </strong>National Collegiate Male Athlete of the Year</p><p><strong>2004&nbsp; </strong>Pan Am Championships: SILVER</p><p><strong>2003&nbsp; </strong>Pan Am Jr. Championships: SILVER<br><strong>2003&nbsp; </strong>Senior Nationals (Bantam): GOLD<br><strong>2003&nbsp; </strong>Junior Nationals (Welter): GOLD<br><strong>2003&nbsp; </strong>Belgium Open (Bantam): GOLD<br><strong>2003&nbsp; </strong>Korean Open (Bantam): GOLD<br><strong>2003&nbsp; </strong>German Open (Bantam): GOLD</p><p><em>last updated 2/4/16</em></p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games London 2012, bronze (Featherweight 58-68kg - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 5th (Featherweight 63-68kg - Men)</li><li>Years of participation: Featherweight 63-68kg - Men 2011, 2013, 2015; Team - Men 2010, 2012</li><li>Top finish: 5th – 2010 (Team - Men), 2012 (Team - Men), 2015 (Featherweight 63-68kg - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709778/TeamUSA%20Assets/Migration/Athlete%20Profiles/Terrence%20Jennings%20825813/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Taekwondo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709780/TeamUSA%20Assets/Migration/Athlete%20Profiles/Terrence%20Jennings%20825813/taekwondo_jennings_terrence_19534570738_o_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Terrence Jennings 825813"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessika",
+      "last_name": "Jenson",
+      "bio": {
+        "height": "5'5\"",
+        "birthday": "1991-08-07T00:00:00",
+        "hometown": {
+          "city": "Rigby",
+          "state": "ID",
+          "country": "United States",
+          "latitude": 43.6977,
+          "longitude": -111.9208
+        },
+        "education": "Rigby High School (Rigby, Idaho) Utah State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Began snowboarding at age 10</li><li>Makes neck warmers in her spare time</li><li>Hobbies include dirt biking, wakeboarding and mountain biking.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FIS World Cup Standings, 4th (slopestyle), 6th (overall)</li>\r\n                            <li>2015 FIS World Cup Standings, 6th (slopestyle)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Pyeongchang 2018, 5th (Slopestyle - Women), 11th (Big Air - Women)</li><li>Olympic Games Sochi 2014, 13th (Slopestyle - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 5th (Big Air - Women), 6th (Slopestyle - Women)</li><li>Years of participation: Big Air - Women 2015, 2017; Slopestyle - Women 2013, 2015, 2017</li><li>Top finish: 5th – 2017 (Big Air - Women)</li></ul><h5>More</h5><p>Personal Website<br>\nU.S. Ski and Snowboard Association</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003719/TeamUSA%20Assets/Athlete%20Profiles/Jessika%20Jenson%20861599/jenson_jessika_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Snowboarding",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014, 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003721/TeamUSA%20Assets/Athlete%20Profiles/Jessika%20Jenson%20861599/jenson_jessika_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessika Jenson 861599"
+        }
+      ]
+    },
+    {
+      "first_name": "Ayden",
+      "last_name": "Jent",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1993-04-13T00:00:00",
+        "hometown": {
+          "city": "Indianapolis, Ind. ",
+          "state": "IN",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Herron High School (Indianapolis, Indiana) '11  Indiana State University '15, Political Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Chris Jent and Sena Jessen</li><li>Has an older brother, Ryan</li><li>Nicknamed Ayden “the Jet” Jent after winning a national title in the 100m at his first competition in 2015</li><li>Born three months prematurely and diagnosed with Cerebral Palsy</li><li>Served as the team manager for the Indiana State University track and field and cross country teams for four years, helping the teams to win 11 conference championships</li><li>Served as a reporter and photographer for the ISU newspaper, the Indiana Statesman</li><li>Graduated with a degree in Political Science and a minor in Civic Leadership</li><li>His step-father, Jacques Jessen, helped him to discover his passion for running in 2007</li><li>Discovered Paralympics after watching a video of an athlete with the same impairment, inspiring him to contact the U.S. Paralympics Track and Field high performance director</li><li>Dreams of becoming a political campaign manager at the local level and working his way up to running for office</li><li>Sport idols include NASCAR driver Dale Earnhardt Jr, NFL player Adam Vinatieri, MLB player Jackie Robinson and U.S. Olympic sprinter Jesse Owens</li><li>Hobbies include running reading, photography, kayaking, dancing and watching movies.</li></ul><h5>Paralympic Experience </h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Rio de Janeiro 2016, 5th (100m T35 - Men, 200m T35 - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 5th (200m T35 - Men), 7th (100m T35 - Men)</li><li>Years of participation: 100m T35 - Men 2015, 2017; 200m T35 - Men 2015, 2017</li><li>Top finish: 5th – 2017 (200m T35 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709727/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ayden%20Jent%20849311/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T35",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682709729/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ayden%20Jent%20849311/Jent_Ayden.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ayden Jent 849311"
+        }
+      ]
+    },
+    {
+      "first_name": "Lindsey",
+      "last_name": "Jerdonek",
+      "bio": {
+        "height": "5'7\"",
+        "birthday": "1984-08-22T00:00:00",
+        "hometown": {
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "United States",
+          "latitude": 41.4993,
+          "longitude": -81.6944
+        },
+        "education": "Magnificat High School",
+        "fun_fact": null,
+        "biography": "<p><h5>Career Highlights</h5>\n2017 Yucatan ITU Triathlon World Cup silver medalist<br>\n2017 Bridgetown CAMTRI Sprint Triathlon American Cup champion<br>\n2014 Geneva ETU Triathlon European Cup champion<br>\n<strong><br>\nElite Triathlon Career</strong>\n</p><p><strong>2017: </strong>Placed eighth at the Huelva ITU Triathlon World Cup on Sept. 23&nbsp;&bull;&nbsp;Earned her first career World Cup medal with a silver in Merida, Mexico (Yucatan), on Aug. 12 &bull; Placed 15th at ITU World Triathlon Montreal on Aug. 5 &bull; Started her season strong with a win at the Bridgetown CAMTRI Sprint Triathlon American Cup on April 23</p>\n<p><strong>2016:</strong>&nbsp;Took 14th at ITU World Triathlon Edmonton on Sept. 3 &bull; Placed fifth at the Montreal ITU Triathlon World Cup on Aug. 7 &bull; Recorded a 32nd-place finish at ITU World Triathlon Hamburg on July 16 &bull; Took 14th at the Tiszaujvaros ITU Triathlon World Cup on July 9 &bull; Placed 29th at ITU World Triathlon Yokohama on May 14 &bull; Logged a 16th-place finish at ITU World Triathlon Cape Town on April 23 &bull; Finished 23rd at ITU World Triathlon Gold Coast on April 9 &bull; Opened her season with a 27th place finish at ITU World Triathlon Abu Dhabi<br>\n<br>\n<strong>2015: </strong>Finished her 2015 ITU season with a seventh place finish at the Cozumel ITU World Cup &bull; Posted 33rd place finishes at ITU World Triathlon Edmonton and the ITU World Triathlon Series Grand Final in Chicago &bull; 26th place at the Rio de Janeiro ITU World Olympic Qualification Event, which served as the test event for the Rio 2016 Olympic Games &bull; 18th at ITU World Triathlon Cape Town &bull; Broke the top 10 at two ITU World Triathlon Series events in the early part of the 2015 season, finishing 8th at ITU World Triathlon Gold Coast and 6th in her season opener at ITU World Triathlon Abu Dhabi<br>\n<br>\n<strong>2014:</strong> Placed 13th at the Cozumel ITU World Cup in October &bull; Posted a career-best fifth-place finish at ITU World Triathlon Stockholm on Aug. 23 &bull; Finished fifth at the Tiszaujvaros ITU World Cup on Aug. 9 &bull; Won the Geneva ETU Triathlon European Cup on July 20, besting the field by more than 2 minutes &bull; Finished 14th at ITU World Triathlon Hamburg &bull; Earned third at the USA Triathlon Elite National Championships as the third American at ITU World Triathlon Chicago, finishing 21st overall &bull; Cracked the top 10 with an eighth-place finish at the PATCO Triathlon Pan American Championships in Dallas, Texas, on May 31 &bull; 33rd at ITU World Triathlon Yokohama and 38th at ITU World Triathlon Cape Town<br>\n<br>\n<h5>Quick Facts</h5>\nParents are Ruth and Joe &bull; Swam for the University of Maryland &bull; Was an IRONMAN 70.3 World Champion as an age-group triathlete in 2008 &bull; Completed a few triathlons as a child, but did her first sprint triathlon as an adult in 2006 &bull; Favorite triathlon is Escape from Alcatraz &bull; Proudest moment in triathlon was her 14th place at WTS Hamburg in 2014 because it was a breakthrough moment that showed her she could compete at the highest level in ITU &bull; Favorite workout is doing long runs &bull; One of her hobbies is scouring Yelp photos for good restaurants &bull; Favorite movie is Elizabeth &bull; Favorite band is They Might be Giants &bull; Enjoys making eggs and veggies in a tortilla but says a cheeseburger is her favorite post-race meal &bull; Favorite all-time Olympic moment is the sprint for gold in the women&rsquo;s triathlon in 2012 &bull; Her biggest role model is her dad<h5>World Championships Experience</h5><ul><li>Most recent: 2012 –  (Team Relay - Mixed)</li><li>Years of participation: Team Relay - Mixed 2012</li><li>Top finish:  – 2012 (Team Relay - Mixed)</li></ul></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Triathlon",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686921153/TeamUSA%20Assets/Migration/Athlete%20Profiles/Lindsey%20Jerdonek/Lindsey_Jerdonek_2015.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Lindsey Jerdonek"
+        }
+      ]
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Jerome",
+      "bio": {
+        "height": "5’5”",
+        "birthday": "1987-02-08T00:00:00",
+        "hometown": {
+          "city": "Park City",
+          "state": "UT",
+          "country": "United States",
+          "latitude": 40.6461,
+          "longitude": -111.4979
+        },
+        "education": " Westminster College",
+        "fun_fact": null,
+        "biography": "<p><p style=\"font-weight: bold;\"><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Sochi 2014, 10th (Individual - Normal Hill - Women)</li></ul></ul><h5>Career Highlights</h5> \n<ul>\n    <li>21-time Continental Cup medalist (<span style=\"font-size: 18px;\">one g<span style=\"font-size: 18px;\">old, five silver, 15 bronze)</span></span></li>\n    <li>Four-time U.S. <span style=\"font-size: 18px;\">normal hill champion</span></li>\n    <li>2013, World Championships sixth place </li>\n    <li>2012, World Cup at Hinterzarten, G<span style=\"font-size: 18px;\">e<span style=\"font-size: 18px;\">rmany<span style=\"font-size: 18px;\"> large hill bronze medalist</span></span></span></li>\n    <li>2012, U.S. large hill champion</li>\n    <li><span style=\"font-size: 18px;\">2009, World Championships normal hill sixth place</span><br>\n    </li>\n    <li><span style=\"font-size: 18px;\">20<span style=\"font-size: 18px;\">08, U.S. large hill champion</span></span><br>\n    </li>\n</ul>\n<p><strong>Fun Facts: </strong>Hobbies include running, reading and biking<span style=\"font-size: 18px;\"> ... Likes traveling to sandy beaches ... <span style=\"font-size: 18px;\">Is</span> a <span style=\"font-size: 18px;\">Junio<span style=\"font-size: 18px;\">r Olympic champion</span></span><br>\n</span></p>\n<p><strong>Learn more:</strong>&nbsp;<br>\nU.S. Ski and Snowboard Association\n</p>\n<p>&nbsp;</p><h5>World Championships Experience</h5><ul><li>Most recent: 2015 – 9th (Individual - Normal Hill - Women)</li><li>Years of participation: Individual - Normal Hill - Women 2009, 2011, 2013, 2015; Team - Normal Hill - Mixed 2013</li><li>Top finish: 6th – 2009 (Individual - Normal Hill - Women), 2013 (Individual - Normal Hill - Women), 2013 (Team - Normal Hill - Mixed)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ski Jumping",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680003743/TeamUSA%20Assets/Athlete%20Profiles/Jessica%20Jerome%20876618/JessicaJerome_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jessica Jerome 876618"
+        }
+      ]
+    }
+  ]
+}

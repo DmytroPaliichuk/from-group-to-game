@@ -1,0 +1,955 @@
+{
+  "entries": [
+    {
+      "first_name": "Chris",
+      "last_name": "Barlow",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1961-12-12T00:00:00",
+        "hometown": {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 32.7157,
+          "longitude": -117.1611
+        },
+        "education": "University of London (GBR)",
+        "fun_fact": null,
+        "biography": "<div style=\"color: #222222;\"></div>\n<div style=\"color: #222222;\"></div>\n<div style=\"color: #222222;\"></div>\n<div style=\"color: #222222;\"><strong>Birth City: </strong>Bicester, England</div>\n<p><br>\n</p>\n<p><strong>Olympic Result - </strong>9th place in K4 Final A at 1992 Olympic Games</p>\n<p><br>\n</p>\n<p><strong>About:</strong></p>\n<p>Grew up in the UK but emigrated to USA in 1986. Got a job training Killer Whales at the San Diego Sea World where he worked for 8 years. Sea World sponsored athlete in 1991 and 1992.&nbsp; Made the National Team in 1989, 1990, 2 Silver at 1991 Pan American Games in Cuba, led the USA K4 to a 9th place in the 1992 Barcelona Olympics, 2 Silver at 1995 Pan American Games in Argentina.&nbsp;Currently&nbsp;coaches San Diego Canoe Kayak Team and was Head Coach of 2014 and 2015 Junior World Championship Team. Named 2010, 2013 USA Canoe/Kayak&nbsp;Coach of the Year. Main job is a Captain/Paramedic for the San Diego Fire Rescue Department. Both his son, Sean and Daughter, Samantha named to USA Junior National Teams.</p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Barcelona 1992, 9th (K4 1000m - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 1991 – 6th (K4 10000m - Men), 7th (K4 1000m - Men), 8th (K4 500m - Men)</li><li>Years of participation: K4 10000m - Men 1991; K4 1000m - Men 1991; K4 500m - Men 1991</li><li>Top finish: 6th – 1991 (K4 10000m - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697424/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chris%20Barlow%20847642/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Canoe/Kayak",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 1992",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697426/TeamUSA%20Assets/Migration/Athlete%20Profiles/Chris%20Barlow%20847642/Chris-Barlow.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Chris Barlow 847642"
+        }
+      ]
+    },
+    {
+      "first_name": "Nikole",
+      "last_name": "Barnes",
+      "bio": {
+        "height": "5'3\"",
+        "birthday": "1993-09-20T00:00:00",
+        "hometown": {
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 25.7617,
+          "longitude": -80.1918
+        },
+        "education": "Antilles School ‘12 United States Coast Guard Academy ’17, Bachelor of Science, Management",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Dean Barnes and Carol Bareuther</li><li>Has one older brother, Rian</li><li>Active duty U.S. Coast Guard Officer stationed at Sector Miami</li><li>Began sailing at age 6</li><li>Quantum Women Sailor of the Year (2016)</li><li>Robert H. Hobbs Sportsmanship Award (2017)</li><li>First active duty Coast Guard Officer to compete at the Olympics (2021)</li></ul><h5>Career Highlights</h5><ul><li>Won the Quantum Women College Sailor of the Year Award 2016</li><li>3x All American for Coed and Women’s College Sailing</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 12th (470 - Women)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2024 – 44th (470 - Mixed)</li><li>Years of participation: 470 - Mixed 2024; 470 - Women 2018, 2019, 2021; 420 - Women 2011; 420 - Open 2009</li><li>Top finish: 6th – 2011 (420 - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680012690/TeamUSA%20Assets/Athlete%20Profiles/Nikole%20Barnes%201193524/Barnes_Nikki.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Nikole Barnes 1193524"
+        }
+      ]
+    },
+    {
+      "first_name": "Harrison",
+      "last_name": "Barnes",
+      "bio": {
+        "height": "6'8\"",
+        "birthday": "1992-05-30T00:00:00",
+        "hometown": {
+          "city": "Ames",
+          "state": "IA",
+          "country": "United States",
+          "latitude": 42.0347,
+          "longitude": -93.6199
+        },
+        "education": "Ames High School (Ames, Iowa) ‘10 University of North Carolina",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Shirley Barnes</li><li>Has one sister, Jourdan-Ashle</li><li>Named Iowa’s Mr. Basketball</li><li>Played saxophone and sang in the school choir in high school</li><li>Nicknamed “The Senator” for his professional demeanor and style</li><li>Has served as a board member for Boys &amp; Girls Club of Oakland since 2014.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 NBA champion</li>\r\n                            <li>2012-13 NBA All-Rookie First Team</li>\r\n                            <li>Drafted No. 7 by the Golden State Warriors in the 2012 NBA Draft</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (Team - Men)</li></ul></ul><h5>More</h5>Personal website<br>\nUSA Basketball",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697366/TeamUSA%20Assets/Migration/Athlete%20Profiles/Harrison%20Barnes%20997461/barnes_harrison_071216_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697369/TeamUSA%20Assets/Migration/Athlete%20Profiles/Harrison%20Barnes%20997461/Barnes_Harrison_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Harrison Barnes 997461"
+        }
+      ]
+    },
+    {
+      "first_name": "Cayla",
+      "last_name": "Barnes",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1999-01-07T00:00:00",
+        "hometown": {
+          "city": "Eastvale",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.9317,
+          "longitude": -117.5695
+        },
+        "education": "Ohio State University ",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li><strong>Position:</strong> Defender</li><li>Daughter of Michelle Church and Scott Barnes</li><li>Has four brothers, Matthew, Aaron, Nicholas and Ryan</li><li>2024 NCAA champion with Ohio State</li><li>Became the first player to win three gold medals with the U.S. U18 national team (2015, 2016, 2017)&nbsp;</li></ul><h5>Biographical Information</h5><p><span style=\"font-size: 11pt;\">Cayla Barnes started playing hockey at age 3. Growing up in California, Barnes played youth hockey with the Anaheim Ducks and LA Kings select teams, and after watching the Olympic Winter Games Vancouver 2010 at age 11, she hoped to one day play on the U.S. national team.</span></p><p><span style=\"font-size: 11pt;\">As a teenager, she relocated to the East Coast to pursue her hockey dreams, attending prep school at New Hampton School in New Hampshire, and then Boston College, where she played four seasons of college hockey.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">At age 19, she was the youngest member of the U.S. women’s hockey team when they won gold at the Olympic Winter Games PyeongChang 2018.&nbsp; Since the PyeongChang Games, Barnes has been on six IIHF World Championship teams and two more Olympic teams, including her selection for the Olympic Winter Games Milano Cortina 2026.&nbsp; She finished off her college career at Ohio State University, winning the 2024 NCAA title in women’s hockey.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Professionally, Barnes plays in the PWHL for&nbsp;the Seattle Torrent alongside Team USA teammates Hilary Knight and Alex Carpenter, who also joined the Torrent for their inaugural season.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Off the ice, Barnes enjoys hiking, paddleboarding, swimming and tubing.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (2 gold, 1 silver)</li><ul><li>Olympic Games Milan 2026, gold (Team - Women)</li><li>Olympic Games Beijing 2022, silver (Team - Women)</li><li>Olympic Games Pyeongchang 2018, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – gold (Team - Women)</li><li>Years of participation: Team - Women 2019, 2021, 2022, 2023, 2024, 2025</li><li>Medals: 6 (3 gold, 3 silver)</li><ul><li>Gold – 2025 (Team - Women);  2023 (Team - Women);  2019 (Team - Women)</li><li>Silver – 2024 (Team - Women);  2022 (Team - Women);  2021 (Team - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697129716/barnes_c_bio_816374.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Ice Hockey",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1697129653/barnes_c_hero_816374.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680004720/TeamUSA%20Assets/Athlete%20Profiles/Cayla%20Barnes%20823261/barnes_cayla_beijing_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Cayla Barnes 823261"
+        },
+        {
+          "title": "Ice Hockey"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Kelly",
+      "last_name": "Barnhill",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1997-03-31T00:00:00",
+        "hometown": {
+          "city": "Marietta",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 33.9526,
+          "longitude": -84.5499
+        },
+        "education": "Pope High School Florida - 2019",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Wears No. 11</li><li>Parents are Jeter and Susie Barnhill</li><li>Personal motto: “Why fit in when you were born to stand out?”- Dr. Seuss</li><li>Dream job is to work for a transnational corporation after playing professional softball in the USA and overseas in Japan and Europe</li><li>Three words to describe her: quirky, driven and loyal</li><li>On what it means to play for USA Softball: &quot;It&#39;s a dream come true. It&#39;s been my dream since I was a little girl to have the honor of representing my country while playing the sport I love.&quot;</li><li>What non-softball sport she&#39;d like to try: Beach volleyball</li></ul><h5>Career Highlights</h5><ul><li>World Cup, Oklahoma City, 2017 (Team - Women)</li><li>World Cup, Oklahoma City, 2016 (Team - Women)</li><li>Junior World Championship, Oklahoma City, 2015 (Team - Women)</li><li>World Cup, Irvine, 2015 (Team - Women)</li></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – gold (Team - Women)</li><li>Years of participation: Team - Women 2016, 2018</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2018 (Team - Women);  2016 (Team - Women)</li></ul></ul><h5>More</h5><p><strong>COLLEGIATE HONORS</strong></p>\n<p><strong>2018:</strong>&nbsp; Google Cloud Academic All-America&reg; Division I Softball team... Academic All-American&reg; of the Year for Division I softball...Player of the Year Top-4 Finalist...&nbsp;Honda Sports Award finalist...SEC Pitcher of the Year...NFCA First Team All-American...All-SEC&nbsp;First Team... NFCA All-Southeast Region First Team...USA Softball Player of the Week (February 27)...Louisville Slugger/NFCA Pitcher of the Week (February 27).</p>\n<p><strong>2017:</strong>&nbsp;USA Softball Player of the Year...SEC Pitcher of the Year... NFCA First Team All-American...All-SEC First Team...NFCA All-Southeast Region First Team...SEC Pitcher of the Week (Feb. 20, April 11, April 18, April 25, May 2) ...USA Softball Co-Player of the Week (April 18) ...Louisville Slugger/NFCA Pitcher of the Week (April 18) ...espnW Player of the Week (April 18) ...CoSIDA All-American First Team.</p>\n<p><strong>2016:</strong>&nbsp;NFCA Freshman of the Year Top Three Finalist ...Third Team All-Southeast Region ...SEC All-Freshman Team ...SEC Freshman of the Week (March 21, May 9) ...SEC First Year Academic Honor Roll.</p>\n<p><strong>Click here to view Kelly Barnhill's full collegiate bio</strong></p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697360/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelly%20Barnhill%20993472/BackgroundHeader.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Softball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697361/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kelly%20Barnhill%20993472/BarnhillKelly.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kelly Barnhill 993472"
+        }
+      ]
+    },
+    {
+      "first_name": "Shelby",
+      "last_name": "Baron",
+      "bio": {
+        "height": "5'0\"",
+        "birthday": "1994-08-12T00:00:00",
+        "hometown": {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "United States",
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        },
+        "education": "University of Alabama ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Baron was born with spina bifida, a birth defect that has resulted in weakness in her legs</li><li>Until the third grade, Shelby walked around school with crutches and sat out of most PE activities</li><li>When she was nine years old, Lolly Romano, an adaptive PE specialist with the Department of Education, introduced her to a wheelchair</li><li>This allowed her to participate in most sports along with her classmates</li><li>She began playing wheelchair basketball with Coach Jeff Sampaga as a way to get exercise, and was referred to a Tuesday night wheelchair tennis class</li><li>Tennis was frustrating at first, but she felt so good each time she hit a ball back over the net</li><li>After a couple of years, she joined a U.S. Tennis Association (USTA) junior team with able-bodied players</li><li>She is a four-time Collegiate National Champion</li><li>Daughter of Benjamin and Rhoda Baron</li><li>Has one brother, Casey.</li></ul><h5>Career Highlights</h5><ul><li>World Cup team member (2011, 2012, 2013, 2014, 2015, 2016)</li><li>2019 Janco Steel Wheelchair Tennis Classic, gold (singles)</li><li>2019 Windsor Classic, gold (singles)</li><li>2019 Indian Wells Tennis Garden Wheelchair Championships, gold (singles)</li><li>2016 Arizona Open, gold (doubles)</li><li>2016 Midwest Championships, gold (doubles)</li></ul><h5>More</h5><p>International Tennis Federation</p><p></p><h5>Paralympic Experience</h5><ul><li>2-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 9th (Doubles - Women), 17th (Singles - Women)</li><li>Paralympic Games Rio de Janeiro 2016, 5th (Doubles - Women), 9th (Singles - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "Women's Open",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013210/TeamUSA%20Assets/Athlete%20Profiles/Shelby%20Baron%20910287/Baron_Shelby_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Shelby Baron 910287"
+        }
+      ]
+    },
+    {
+      "first_name": "McQuin",
+      "last_name": "Baron",
+      "bio": {
+        "height": "6'9\"",
+        "birthday": "1995-10-27T00:00:00",
+        "hometown": {
+          "city": "North Tustin",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 33.77,
+          "longitude": -117.82
+        },
+        "education": "Mater Dei High School (Santa Ana, Calif.) '14 University of Southern California '18, Business",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Mike Baron and Mindy Curtis</li><li>Has three brothers, John-Garrett, Scott and Thomas</li><li>If he had a special power, he would choose the ability to transport anywhere</li><li>Enjoys anything related to sports</li><li>Hopes to travel to Dubai.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2016 FINA World League Super Final, silver</li>\r\n                            <li>2015 Pan American Games, gold</li>\r\n                            <li>2015 FINA World League Super Final, 4th</li>\r\n                            <li>2014 FINA World League Super Final, 5th</li>\r\n                            <li>2014 FINA World Cup, 4th</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 10th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – 13th (Team - Men)</li><li>Years of participation: Team - Men 2015, 2017</li><li>Top finish: 7th – 2015 (Team - Men)</li></ul><h5>More</h5>USA Water Polo",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697431/TeamUSA%20Assets/Migration/Athlete%20Profiles/McQuin%20Baron%20809858/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Water Polo",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697432/TeamUSA%20Assets/Migration/Athlete%20Profiles/McQuin%20Baron%20809858/Baron_McQuin_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "McQuin Baron 809858"
+        }
+      ]
+    },
+    {
+      "first_name": "Mark",
+      "last_name": "Barr",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1986-08-24T00:00:00",
+        "hometown": {
+          "city": "Davis",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 38.5449,
+          "longitude": -121.7405
+        },
+        "education": "Davis Senior High School California Polytechnic State University, Nutrition Science",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Mark Barr lost his right leg as a teenager due to bone cancer. </li><li>Barr competed in swimming at the Athens 2004 and Beijing 2008 Paralympic Games.</li><li>During this time, he was also an NCAA Division I swimmer for California Polytechnic State University from 2004-08. </li><li>After college, he still had an interest in swimming, but wanted to try something new so he decided to transition to triathlon. </li><li>Some of his more recent accomplishments include being awarded the 2019 ESPY for Best Male Athlete with a Disability and being named the 2018 USA Triathlon Male Paratriathlete of the Year. </li><li>Barr currently works as a registered nurse in the trauma surgical ICU, working multiple 12-hour shifts a week. </li><li>He uses his days off to fit in training sessions for all three disciplines. His favorite professional sports teams are the San Francisco Giants and the 49ers.</li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – gold (PTS2 - Men)</li><li>Years of participation: PTS2 - Men 2017, 2018; PT2 - Men 2014, 2015, 2016; TRI-2 - Men 2012, 2013; 100m Butterfly S9 - Men 2006; 100m Freestyle S9 - Men 2006; 4 x 100m Medley Relay 34 Points - Men 2006; 400m Freestyle S9 - Men 2006; 50m Freestyle S9 - Men 2006</li><li>Medals: 6 (1 gold, 3 silver, 2 bronze)</li><ul><li>Gold – 2018 (PTS2 - Men)</li><li>Silver – 2017 (PTS2 - Men);  2016 (PT2 - Men);  2006 (100m Butterfly S9 - Men)</li><li>Bronze – 2013 (TRI-2 - Men);  2006 (4 x 100m Medley Relay 34 Points - Men)</li></ul></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 1-time Paralympic medalist (1 bronze)</li><ul><li>Paralympic Games Paris 2024, bronze (PTS2 - Men)</li><li>Paralympic Games Rio de Janeiro 2016, 4th (PT2 - Men)</li><li>Paralympic Games Beijing 2008, 6th (4 x 100m Freestyle Relay 34 Points - Men), 7th (4 x 100m Medley Relay 34 Points - Men), 8th (100m Butterfly S9 - Men), 9th (400m Freestyle S9 - Men), 17th (100m Freestyle S9 - Men), 18th (50m Freestyle S9 - Men)</li><li>Paralympic Games Athens 2004, 4th (100m Butterfly S9 - Men, 400m Freestyle S9 - Men), 5th (4 x 100m Freestyle Relay 34 Points - Men), 7th (4 x 100m Medley Relay 34 Points - Men), 9th (100m Freestyle S9 - Men), 11th (100m Backstroke S9 - Men), 12th (50m Freestyle S9 - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697259/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mark%20Barr%20804819/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Paratriathlon",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2004, 2008, 2016, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "PT2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697261/TeamUSA%20Assets/Migration/Athlete%20Profiles/Mark%20Barr%20804819/Barr_Mark_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Mark Barr 804819"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Paratriathlon"
+        }
+      ]
+    },
+    {
+      "first_name": "Jake",
+      "last_name": "Barrett",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1991-07-22T00:00:00",
+        "hometown": {
+          "city": "Mesa",
+          "state": "AZ",
+          "country": "United States",
+          "latitude": 33.4152,
+          "longitude": -111.8315
+        },
+        "education": "Arizona State University",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" style=\"float: right;width: 50px;height: 50px;text-align: right;\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\" width=\"50\" height=\"50\"/><br /></td><td style=\"text-align: justify;\"><br /></td></tr></tbody></table><div><div></div><div></div><div><p><strong><br bold=\"[object Object]\"/></strong></p><p>&nbsp;</p><h5>Career Highlights</h5><ul><li>Pan American Games, Toronto, 2015 (Team - Men)</li><li>World Junior Championship, Edmonton, 2008 (Team - Men)</li></ul><h5>Quick Facts</h5><ul><li><ul><li>Son of Shawna Barrett</li><li>Has two siblings, Dylan and Colton</li><li>Selected by the Arizona Diamondbacks in the third round (120th overall) of the 2012 MLB Draft</li><li>Played baseball at Arizona State University</li><li>Selected by the Toronto Blue Jays in the third round of the 2009 MLB Draft, but did not sign</li><li>Began playing baseball at age 10</li><li>Favorite player is Manny Ramirez.</li></ul><br />Desert Ridge High School (Mesa, Ariz.) '09 Arizona State University</li></ul><p>&nbsp;</p><p><br /></p></div></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327301/TeamUSA%20Assets/Migration/Athlete%20Profiles/Jake%20Barrett/Baseball_Men_Barrett_Jake.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Jake Barrett"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Danny",
+      "last_name": "Barrett",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1990-03-23T00:00:00",
+        "hometown": {
+          "city": "Pacifica",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.61382,
+          "longitude": -122.48636
+        },
+        "education": "Sacred Heart Cathedral Preparatory (San Francisco, Calif.) ‘08 University of California, Berkley ‘13, American Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Timothy and Keri Barrett</li><li>Has two older brothers, Jim and Neill, who also played rugby at the University of California, Berkeley</li><li>Is an Artillery Officer in the U.S. Army currently stationed in Fort Lewis, WA with 1-37 Field Artillery Battalion</li><li>Hobbies include hiking, going to the beach, fishing, cross country skiing, kayaking, snowboarding and traveling.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 6th (Team - Men)</li><li>Olympic Games Rio de Janeiro 2016, 9th (Team - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 6th (Team - Men)</li><li>Years of participation: Team - Men 2018</li><li>Top finish: 6th – 2018 (Team - Men)</li></ul><h5>More</h5>USA Rugby",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rugby",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686330124/TeamUSA%20Assets/Migration/Athlete%20Profiles/Danny%20Barrett/barrett_danny_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Danny Barrett"
+        }
+      ]
+    },
+    {
+      "first_name": "Dylan",
+      "last_name": "Barrett",
+      "bio": {
+        "height": "5'11",
+        "birthday": "1997-11-06T00:00:00",
+        "hometown": {
+          "city": "Woodbury",
+          "state": "MN",
+          "country": "United States",
+          "latitude": 44.9144,
+          "longitude": -92.9555
+        },
+        "education": "University of St. Thomas",
+        "fun_fact": null,
+        "biography": "<h5>Career Highlights</h5><ul>\r\n                            <li>Junior National Championships: 2018</li>\r\n                    </ul><h5>More</h5><p>Teammates: Jack Clasen, Sam Clasen, Josh Proehl</p>\n<p>Curls out of: St. Paul CC</p>\n<p>Works as a resident advisor</p>\n<p>Began curling in 2008</p>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Curling",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327267/TeamUSA%20Assets/Migration/Athlete%20Profiles/Dylan%20Barrett/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dylan Barrett"
+        }
+      ]
+    },
+    {
+      "first_name": "Thomas",
+      "last_name": "Barrows III",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1987-11-02T00:00:00",
+        "hometown": {
+          "city": "St. Thomas",
+          "state": "VI",
+          "country": "United States",
+          "latitude": 18.3417,
+          "longitude": -64.9333
+        },
+        "education": "Antilles School (St. Thomas, Virgin Islands) ‘06 Yale University ‘10, Sociology and Chinese Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Jean and Thomas Barrows</li><li>Has one brother, Ian</li><li>Began sailing at age 5 and racing at age 8</li><li>Grew up sailing in Marblehead, Massachusetts</li><li>Represented his native U.S. Virgin Islands at the 2008 Olympic Games</li><li>Was a two-time captain at Yale University, where he was a four-time All-American and along with teammate Thomas Barrows, won the 2009 Fowle Trophy, awarded annually to the top collegiate sailing team</li><li>Recipient of the College Sailor of the Year Award (2009-10) and Yale’s Neely Mallory Award, given annually to “the senior man who, on the field of play and in his life at Yale, best represents the highest ideals of American sportsmanship and Yale tradition.”</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Rio de Janeiro 2016, 19th (49er - Men)</li><li>Olympic Games Beijing 2008, 21th (Laser - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – 23th (49er - Men)</li><li>Years of participation: 49er - Men 2013, 2014, 2015, 2016; 49er - Open 2012; Laser - Men 2007, 2008, 2009, 2010</li><li>Top finish: 23th – 2016 (49er - Men)</li></ul><h5>More</h5>Personal Website",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Sailing",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686327289/TeamUSA%20Assets/Migration/Athlete%20Profiles/Thomas%20Barrows%20III/Barrows_Thomas_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Thomas Barrows III"
+        }
+      ]
+    },
+    {
+      "first_name": "Ayla",
+      "last_name": "Barry",
+      "bio": {
+        "height": "5'4",
+        "birthday": "2007-02-07T00:00:00",
+        "hometown": {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.3382,
+          "longitude": -121.8863
+        },
+        "education": "Arizona State University Prep Digital",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Her aunt was a high school All-American speed swimmer and was coached by Olympic coach Mark Schubert</li><li>Her favorite word is squirrel in German</li><li>She&#39;s flown a plane for about two minutes</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2022 Primorje Synchro Cup: 1st (Solo), 1st (Figures)</li>\r\n                            <li>2022 U.S. National Championships: 1st (Solo), 1st (Duet), 1st (Team), 1st (Figures)</li>\r\n                            <li>2022 13-15 national team athlete</li>\r\n                            <li>2021 UANA International Open: 1st (Solo - 74.1667), 1st (Figures), 1st (Team)</li>\r\n                            <li>2021 13-15 national team athlete</li>\r\n                            <li>2021 U.S. National Championships: 1st (Figures), 2nd (Solo), 2nd (Duet)</li>\r\n                            <li>2019 U.S. Junior Olympic Championship: 3rd (Figures)</li>\r\n                    </ul><h5> World Championship Experience</h5><ul><li>2022 FINA Youth World Championships: 3rd (Team), 4th (Duet), 10th (Figures), 5th (Solo)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Artistic Swimming",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687366031/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ayla%20Barry/Ayla-Barry.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ayla Barry"
+        }
+      ]
+    },
+    {
+      "first_name": "Sydney",
+      "last_name": "Barta",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "2004-02-16T00:00:00",
+        "hometown": {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "United States",
+          "latitude": 38.881,
+          "longitude": -77.094
+        },
+        "education": "Stanford University; National Cathedral School (Washington, D.C) ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Lost her leg when she was six years old after a metal scaffolding fell on her leg after a race</li><li>Her left foot was shattered and she developed compartment syndrome soon afterwards, causing her to go septic with a fever of 105 degrees</li><li>After 21 surgeries, Barta was ready to get her first prosthetic and began walking</li><li>Since then, she has been very active in sports, playing varsity volleyball, basketball and track in high school</li><li>Additionally, she has been playing AAU basketball since she was 11 years old and loves playing in tournaments around the nation</li><li>When she is not training or doing homework, she loves water skiing and playing the guitar</li><li>Daughter of Laura and as a twin brother Blair</li><li>Two-time U.S. Paralympics Track &amp; Field High School All-American</li><li>Earned 2019 U.S. Paralympics Track &amp; Field High School Female Field Athlete of the Year honors.</li></ul><h5>Career Highlights</h5><ul><li><span>Parapan American Games Santiago 2023, gold (200-meter), silver (100-meter)</span></li><li>2019 World Para Athletics Junior Championships, gold (100-mter, 200-meter)</li><li>2019 Arizona Grand Prix, gold (100-meter, 200-meter, discus throw, javelin throw, shot put throw), silver (long jump)</li><li>2019 IWAS Junior World Championships, gold (100-meter, 200-meter, long jump)<br><br>Most Recent: 2019 – 4th (200-meter, discus throw, shot put throw), heats (100-meter) Years of Participation: 2019 Top Finish: 4th – 2019 (200-meter, discus throw, shot put throw)</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 4th (200m T64 - Women), 10th (100m T64 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2024 – silver (200m T64 - Women), 7th (100m T64 - Women)</li><li>Years of participation: 100m T64 - Women 2019, 2024; 200m T64 - Women 2019, 2024; Discus Throw F64 - Women 2019; Shot Put F64 - Women 2019</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2024 (200m T64 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661952/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Barta_s_bio_1153738.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "T64/F64",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662191/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Barta_s_hero_1153738.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013157/TeamUSA%20Assets/Athlete%20Profiles/Sydney%20Barta%201153738/Barta_Sydney_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Sydney Barta 1153738"
+        }
+      ]
+    },
+    {
+      "first_name": "Bryan",
+      "last_name": "Barten",
+      "bio": {
+        "height": "6'0\"",
+        "birthday": "1973-10-08T00:00:00",
+        "hometown": {
+          "city": "Hart",
+          "state": "MI",
+          "country": "United States",
+          "latitude": 43.6867,
+          "longitude": -86.3778
+        },
+        "education": "University of Arizona ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Barten doesn’t remember holding a racket before being injured in an April 1995 car crash</li><li>He was a passenger in a vehicle that crashed, injuring his spinal cord</li><li>After his rehabilitation, he tried a few adaptive sports, including tennis</li><li>With this newfound love, Barten decided to change his path and focus on collegiate-level tennis, transferring to the University of Arizona</li><li>After narrowly missing the Beijing 2008 Paralympic Games, he briefly retired, but returned to training and ultimately made the London 2012 Paralympic Team</li><li>Son of Raymond and Hilde Barten</li><li>Has one sister, Petra and one brother Pete</li><li>Married to Jessica van der Lede (July 7, 2011)</li><li>Earned bachelors and masters degrees from the University of Arizona</li><li>Coaches wheelchair tennis and wheelchair rugby at the University of Arizona</li><li>Hobbies include traveling, spending time with wife, family and friends, motor sports, football, basketball, camping, off-road vehicles, road trips, and snorkeling.</li></ul><h5>Career Highlights</h5><ul><li>World Team Cup member (2001, 2004, 2009, 2010*, 2011*, 2012, 2013*, 2015*, 2016, 2017, 2018, 2019) - * World Champion</li><li>2021 Loughborough Indoor Wheelchair Tennis Tournament, gold (singles)</li><li>Three-time US Open GS Quad Singles - semi finalist</li><li>Three-time US Open GS Quad Doubles - finalist</li><li>2020 Cougar Open Wheelchair Tennis Tournament, gold (singles)</li><li>2016 British Open, gold (doubles)</li><li>2011 French Open, gold (doubles)</li></ul><h5>More</h5><p>International Tennis Federation</p><p></p><h5>Paralympic Experience</h5><ul><li>3-time Paralympian</li><ul><li>Paralympic Games Tokyo 2020, 5th (Quad Doubles - Open, Quad Singles - Open)</li><li>Paralympic Games Rio de Janeiro 2016, 9th (Quad Singles - Open)</li><li>Paralympic Games London 2012, 5th (Quad Singles - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Wheelchair Tennis",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "Mixed Quads",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013215/TeamUSA%20Assets/Athlete%20Profiles/Bryan%20Barten%20874929/Barten_Bryan_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Bryan Barten 874929"
+        }
+      ]
+    },
+    {
+      "first_name": "Tianna",
+      "last_name": "Bartoletta",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1985-08-30T00:00:00",
+        "hometown": {
+          "city": "Tampa",
+          "state": "FL",
+          "country": "United States",
+          "latitude": 27.9642,
+          "longitude": -82.4584
+        },
+        "education": "Elyria High School (Elyria, Ohio) ‘03 University of Tennessee ‘07, Social Work",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Two-time NCAA long jump champion (2005)</li><li>Founded Club 360, a personal development program for young girls</li><li>Speaks Spanish</li><li>Interests include reading, traveling, baking, watching movies.</li></ul><h5>Olympic Experience </h5><ul><li>2-time Olympian; 3-time Olympic medalist (3 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 100m Relay - Women, Long Jump - Women), 9th (100m - Women)</li><li>Olympic Games London 2012, gold (4 x 100m Relay - Women), 4th (100m - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (Long Jump - Women)</li><li>Years of participation: Long Jump - Women 2005, 2006, 2007, 2015, 2017; 60m (Indoor) - Women 2012</li><li>Medals: 5 (3 gold, 2 bronze)</li><ul><li>Gold – 2015 (Long Jump - Women);  2006 (Long Jump - Women);  2005 (Long Jump - Women)</li><li>Bronze – 2017 (Long Jump - Women);  2012 (60m (Indoor) - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Track &amp; Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697267/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tianna%20Bartoletta%20912435/Bartoletta_Tianna_081816_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 3,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697268/TeamUSA%20Assets/Migration/Athlete%20Profiles/Tianna%20Bartoletta%20912435/Bartoletta_Tianna_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tianna Bartoletta 912435"
+        }
+      ]
+    },
+    {
+      "first_name": "Michelle",
+      "last_name": "Bartsch-Hackley",
+      "bio": {
+        "height": "6'3\"",
+        "birthday": "1990-02-12T00:00:00",
+        "hometown": {
+          "city": "Champaign",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 40.1164,
+          "longitude": -88.2434
+        },
+        "education": "University of Illinois ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Mother, Julie, played volleyball at the University of Kansas, while father, Michael, played soccer at Blackburn College</li><li>Brother, Andrew, competed in throws in track and field at UC Davis and University of Wisconsin</li><li>Married to Corbin Hackley</li><li>Served as a student assistant coach at the University of Illinois while getting her undergraduate degree in sport management</li><li>Hobbies include cooking, eating, home decorating, playing with her dog, and any outdoor or water activity</li><li>Aspires to start a small business in her town</li><li>Remodelling and designing houses is her favourite thing to do with her husband.</li></ul><p></p><h5><span>World Championships </span>participation</h5><p>Years: <span>2020, </span>2018 <span>– 5th</span>. </p><p>Top Finish: 2020 <span>– 1st</span>. </p><p><span>Most recent: 2020.</span></p><h5>More</h5><p></p><p>USA Volleyball</p><p></p><p></p><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Tokyo 2020, gold (Team - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – 5th (Team - Women)</li><li>Years of participation: Team - Women 2018</li><li>Top finish: 5th – 2018 (Team - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661953/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bartsch-Hackley_m_bio_848256.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Volleyball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662043/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Bartsch-Hackley_m_hero_848256.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680013075/TeamUSA%20Assets/Athlete%20Profiles/Michelle%20Bartsch-Hackley%20848256/pMichelleBartschHackley20.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Michelle Bartsch-Hackley 848256"
+        }
+      ]
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "Bascio",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1969-09-16T00:00:00",
+        "hometown": {
+          "city": "Evergreen",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.6375,
+          "longitude": -105.3144
+        },
+        "education": "Ridgewood HS (Ridgewood, N.J.) ‘87 San Jose State ‘98, Occupational Therapy",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Bascio is a lifelong athlete who has excelled in both cycling and Nordic skiing.</li><li>Bascio became a paraplegic in 1992 as the result of a skiing accident.</li><li>She made her Paralympic debut in cycling at the 2006 Torino Games. Since then, she has gone on to compete in Nordic skiing in Vancouver and cycling in London, where she earned two silver medals.&#160;</li><li>Bascio was named the United States Olympic Committee’s Paralympic SportsWoman of the year in 2013 in her final season before retiring from cycling</li><li>Bascio also works as an occupational therapist specializing in geriatrics.</li><li>She is married to Ian Lawless, who serves as the high performance director for U.S. Paralympics cycling.</li><li>The couple has a 7-year-old son, Henry, who frequently travels with his parents to races and is already on his second passport.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2014: Nordic Skiing - Paralympic Winter Games, 7th 12km</li>\r\n                            <li>2014: Nordic Skiing - 18th 1km sprint</li>\r\n                            <li>2014: Nordic Skiing - U.S. Paralympics Nordic Skiing National Championships, 2nd 5km, 2nd 10km, 3rd 1km</li>\r\n                            <li>2013: Nordic Skiing - World Cup Canmore, 9th 10km, 10th 5km and 1km</li>\r\n                            <li>2010: Nordic Skiing - Vancouver 2010 Paralympic Winter Games, 9th 10km, 10th 5km</li>\r\n                            <li>2010: Nordic Skiing - U.S. Paralympics Nordic Skiing National Championships, 1st 5km</li>\r\n                            <li>2009: Nordic Skiing - Whistler Paralympic test event, 2nd 5km</li>\r\n                            <li>2009: Nordic Skiing - IPC World Cup of Skiing, 2nd</li>\r\n                            <li>2007: Nordic Skiing - U.S. Paralympics Nordic Skiing National Championships, 1st 15km</li>\r\n                            <li>2006: Nordic Skiing - Torino 2006 Paralympic Winter Games, 9th 10km, 7th 5km</li>\r\n                            <li>2005: Nordic Skiing - IPC Nordic Skiing World Championships, 5th 10km</li>\r\n                            <li>2013: Cycling - International Paralympic Committee World Handcycle Championships, 1st road race and time trial</li>\r\n                            <li>2013: Cycling - UCI World Cup, 1st overall</li>\r\n                            <li>2012: Cycling - London 2012 Paralympic Games, 2nd road race and time trial</li>\r\n                            <li>2011: Cycling - UCI Para-cycling Road World Cup, 1st overall</li>\r\n                            <li>2011: Cycling - World Cup Segovia, two 1st-place finishes</li>\r\n                            <li>2011: Cycling - World Cup Baie Comeau, two 1st-place finishes</li>\r\n                            <li>2011: Cycling - IPC World Handcycle Championships, 1st road race and time trial</li>\r\n                            <li>2011: Cycling - Parapan American Games, Guadalajara, Mexico, 1st road race</li>\r\n                            <li>2002: Cycling - IPC World Handcycle Championships, 1st time trial</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2014: Paralympic Winter Games, 7th 12km</li>\r\n                            <li>Career Highlights - Nordic Skiing: 18th 1km sprint</li>\r\n                            <li>Career Highlights - Nordic Skiing: U.S. Paralympics Nordic Skiing National Championships, 2nd 5km, 2nd 10km, 3rd 1km</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2013: World Cup Canmore, 9th 10km, 10th 5km and 1km</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2010: Vancouver 2010 Paralympic Winter Games, 9th 10km, 10th 5km</li>\r\n                            <li>Career Highlights - Nordic Skiing: U.S. Paralympics Nordic Skiing National Championships, 1st 5km</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2009: Whistler Paralympic test event, 2nd 5km</li>\r\n                            <li>Career Highlights - Nordic Skiing: IPC World Cup of Skiing, 2nd</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2007: U.S. Paralympics Nordic Skiing National Championships, 1st 15km</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2006: Torino 2006 Paralympic Winter Games, 9th 10km, 7th 5km</li>\r\n                            <li>Career Highlights - Nordic Skiing: 2005: IPC Nordic Skiing World Championships, 5th 10km</li>\r\n                            <li>Career Highlights – Cycling: 2013: International Paralympic Committee World Handcycle Championships, 1st road race and time trial</li>\r\n                            <li>Career Highlights – Cycling: UCI World Cup, 1st overall</li>\r\n                            <li>Career Highlights – Cycling: 2012: London 2012 Paralympic Games, 2nd road race and time trial</li>\r\n                            <li>Career Highlights – Cycling: 2011: UCI Para-cycling Road World Cup, 1st overall</li>\r\n                            <li>Career Highlights – Cycling: World Cup Segovia, two 1st-place finishes</li>\r\n                            <li>Career Highlights – Cycling: World Cup Baie Comeau, two 1st-place finishes</li>\r\n                            <li>Career Highlights – Cycling: IPC World Handcycle Championships, 1st road race and time trial</li>\r\n                            <li>Career Highlights – Cycling: Parapan American Games, Guadalajara, Mexico, 1st road race</li>\r\n                            <li>Career Highlights – Cycling: 2002: IPC World Handcycle Championships, 1st time trial</li>\r\n                    </ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 2-time Paralympic medalist (2 silver)</li><ul><li>Paralympic Games Sochi 2014, 7th (12km - Sitting - Women), 16th (5km - Sitting - Women), 18th (1km Sprint - Sitting - Women)</li><li>Paralympic Games London 2012, silver (H1-3 - Road Race - Women, H3 - Time Trial - Women)</li><li>Paralympic Games Vancouver 2010, 8th (1km Sprint - Sitting - Women), 9th (10km - Sitting - Women), 10th (5km - Sitting - Women)</li><li>Paralympic Games Turin 2006, 5th (10km - Sitting - Women, 10km Individual - Sitting - Women), 6th (7.5km Sprint - Sitting - Women), 7th (3 x 2.5km Relay Open - Women, 5km - Sitting - Women), 9th (2.5km - Sitting - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2013 – gold (H3 - Road Race - Women, H3 - Time Trial - Women)</li><li>Years of participation: H3 - Road Race - Women 2011, 2013; H3 - Time Trial - Women 2011, 2013; 10km - Sitting LW10-12 - Women 2009; 1km Sprint - LW10-12 - Women 2009; 5km - Sitting LW10-12 - Women 2009; HCB-HCC - Road Race - Women 2006; HCB/HCC - Time Trial - Women 2006; 10km - Sitting - Women 2005; 10km Individual - Sitting - Women 2005; 2.5km - Sitting - Women 2005; 3 x 2.5km Relay Open - Women 2005; 5km - Sitting - Women 2005; 7.5km Sprint - Sitting - Women 2005</li><li>Medals: 4 (4 gold)</li><ul><li>Gold – 2013 (H3 - Road Race - Women, H3 - Time Trial - Women);  2011 (H3 - Road Race - Women, H3 - Time Trial - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697280/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monica%20Bascio%20817179/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para-Cycling",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2006, 2010, 2012, 2014",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682697281/TeamUSA%20Assets/Migration/Athlete%20Profiles/Monica%20Bascio%20817179/Bascio_Monica_London_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Monica Bascio 817179"
+        }
+      ]
+    }
+  ]
+}

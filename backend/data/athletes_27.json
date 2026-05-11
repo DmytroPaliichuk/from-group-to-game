@@ -1,0 +1,1031 @@
+{
+  "entries": [
+    {
+      "first_name": "Kerron",
+      "last_name": "Clement",
+      "bio": {
+        "height": "6'2\"",
+        "birthday": "1985-10-31T00:00:00",
+        "hometown": {
+          "city": "LaPorte",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 29.6644,
+          "longitude": -95.0355
+        },
+        "education": "LaPorte High School (LaPorte, Texas) ‘03 University of Florida ‘07",
+        "fun_fact": "",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Gordian and Claudette</li><li>Has two sisters, Kizzy and Krystle</li><li>Hobbies include photography and singing</li><li>Is a model and actor, and appeared in a music video for Beyonce</li><li>In 2009, joined National Track &amp; Field Hall of Famer Edwin Moses (1983, 1987) and Felix Sanchez of the Dominican Republic (2001, 2003) as the only men ever to win the 400-meter hurdles world title twice, with all three accomplishing the feat in consecutive meets</li><li>Shocked the world when he ran 44.57 seconds to win the 2005 NCAA indoor 400-meter title, breaking Michael Johnson’s world record of 44.63 (1995)</li><li>In 2007, at just 22 years of age, ranked No. 1 in the world by Track &amp; Field News.</li></ul><h5>Olympic Experience</h5><ul><li>3-time Olympian; 3-time Olympic medalist (2 gold, 1 silver)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (400m Hurdles - Men)</li><li>Olympic Games London 2012, 8th (400m Hurdles - Men)</li><li>Olympic Games Beijing 2008, gold (4 x 400m Relay - Men), silver (400m Hurdles - Men)</li></ul></ul><h5>World Championship Experience</h5><ul><li>Most recent: 2017 – bronze (400m Hurdles - Men)</li><li>Years of participation: 400m Hurdles - Men 2005, 2007, 2009, 2015, 2017; 4 x 400m Relay (Indoor) - Men 2010; 4 x 400m Relay - Men 2007, 2009</li><li>Medals: 6 (5 gold, 1 bronze)</li><ul><li>Gold – 2010 (4 x 400m Relay (Indoor) - Men);  2009 (4 x 400m Relay - Men, 400m Hurdles - Men);  2007 (4 x 400m Relay - Men, 400m Hurdles - Men)</li><li>Bronze – 2017 (400m Hurdles - Men)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715788/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kerron%20Clement%20817618/Clement_Kerron_081816_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 2,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715789/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kerron%20Clement%20817618/clement_kerron_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kerron Clement 817618"
+        }
+      ]
+    },
+    {
+      "first_name": "Christian",
+      "last_name": "Clemmons",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1995-02-28T00:00:00",
+        "hometown": {
+          "city": "Waukegan",
+          "state": "IL",
+          "country": "United States",
+          "latitude": 42.3639,
+          "longitude": -87.8447
+        },
+        "education": " University of Illinois at Urbana Champaign ‘20, Kinesiology ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Lydia</li><li>Has three siblings, Nehemiah, Zec and Zoe</li><li>Born with spina bifida</li><li>Began competing with Great Lakes Adaptive Sports Association around the age of 13 in basketball and later in track events.</li></ul><h5>Career Highlights</h5><ul><li>ParaPan American Games, Lima, 2019 (800m T54 - Men, 1500m T54 - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1679693702/TeamUSA%20Assets/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Para Track and Field",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "T54",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005467/TeamUSA%20Assets/Athlete%20Profiles/Christian%20Clemmons%201008197/AthleteProfileDefaultImage.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christian Clemmons 1008197"
+        }
+      ]
+    },
+    {
+      "first_name": "Kyle",
+      "last_name": "Clemons",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1990-12-27T00:00:00",
+        "hometown": {
+          "city": "Rowlett",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.9015,
+          "longitude": -96.5772
+        },
+        "education": "Rowlett High School (Rowlett, Texas) '09 University of Kansas '13, African American Studies",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Tim Clemons and Valarie Hilson</li><li>Competing in his first professional season in 2014, was part of the U.S. team that set a world indoor record in the 4x400-meter, along with David Verburg, Kind Butler III and Calvin Smith.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2015 Pan American Games, bronze (400m)</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Rio de Janeiro 2016, gold (4 x 400m Relay - Men)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2016 – gold (4 x 400m Relay (Indoor) - Men), 9th (400m (Indoor) - Men)</li><li>Years of participation: 4 x 400m Relay (Indoor) - Men 2016; 400m (Indoor) - Men 2016; 4 x 400m Relay - Men 2015</li><li>Medals: 2 (2 gold)</li><ul><li>Gold – 2016 (4 x 400m Relay (Indoor) - Men);  2015 (4 x 400m Relay - Men)</li></ul></ul><h5>More</h5>USA Track &amp; Field",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715816/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kyle%20Clemons%20810892/clemons_kyle_082915_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715817/TeamUSA%20Assets/Migration/Athlete%20Profiles/Kyle%20Clemons%20810892/clemons_kyle_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Kyle Clemons 810892"
+        }
+      ]
+    },
+    {
+      "first_name": "Christina",
+      "last_name": "Clemons",
+      "bio": {
+        "height": "5'4\"",
+        "birthday": "1990-05-29T00:00:00",
+        "hometown": {
+          "city": "Landover",
+          "state": "MD",
+          "country": "United States",
+          "latitude": 38.9459,
+          "longitude": -76.8747
+        },
+        "education": "Ohio State University ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Eleven-time All-American and ten-time Big Ten Champion at Ohio State University</li><li>Named the 2012 Ohio State Athlete of the Year and was inducted into Ohio State’s Athletics Hall of Fame in 2017</li><li>Married to Kyle Clemons, a star American track and field sprinter who won gold in the 4x400 relay at the Rio Games</li><li>Overcame a potentially career-ending rupture of her right Achilles.</li></ul><h5>More</h5><p>USA Track and Field</p><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Tokyo 2020, 14th (100m Hurdles - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2018 – silver (60m Hurdles (Indoor) - Women)</li><li>Years of participation: 60m Hurdles (Indoor) - Women 2018; 100m Hurdles - Women 2017</li><li>Medals: 1 (1 silver)</li><ul><li>Silver – 2018 (60m Hurdles (Indoor) - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662764/TeamUSA%20Assets/Athlete%20Profiles/Christina%20Clemons%201098299/Clemons_C_Bio_1098299.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662422/TeamUSA%20Assets/Athlete%20Profiles/Christina%20Clemons%201098299/Clemons_C_Hero_1098299.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005493/TeamUSA%20Assets/Athlete%20Profiles/Christina%20Clemons%201098299/Clemons_Christina_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Christina Clemons 1098299"
+        }
+      ]
+    },
+    {
+      "first_name": "Malcolm",
+      "last_name": "Clemons",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "2002-03-08T00:00:00",
+        "hometown": {
+          "city": "Oakland",
+          "state": "CA",
+          "country": "United States",
+          "latitude": 37.8044,
+          "longitude": -122.2712
+        },
+        "education": "St. Mary’s College High School ‘20 ",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Fluent in French</li><li>Volunteers at the Alameda County Food Bank</li><li>Enjoys playing American football for his school and formerly played soccer</li><li>Member of National Scholastic Athletics Foundation’s Project Triple Jump</li><li>Also enjoys playing video games, spending time with family, traveling, and playing chess.</li></ul><h5>Career Highlights</h5><ul><li>2018 California Interscholastic Federation state champion</li><li>2016 USATF Hershey National Junior Olympics, 1st (13-14 division)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 21th (Long Jump - Men)</li></ul></ul>",
+        "image": []
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005488/TeamUSA%20Assets/Athlete%20Profiles/Malcolm%20Clemons%201116309/clemons_malcolm.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Malcolm Clemons 1116309"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Track and Field"
+        }
+      ]
+    },
+    {
+      "first_name": "Dan",
+      "last_name": "Cnossen",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1980-05-17T00:00:00",
+        "hometown": {
+          "city": "Topeka",
+          "state": "KS",
+          "country": "United States",
+          "latitude": 39.0472,
+          "longitude": -95.6783
+        },
+        "education": "Harvard University",
+        "fun_fact": "Former U.S. Navy SEAL Lieutenant Commander who served in Iraq and Afghanistan",
+        "biography": "<h5>Quick Facts</h5><ul><li><span style=\"font-size: 11pt;\"><strong>Specialty:</strong></span><span style=\"font-size: 11pt;\">&nbsp;</span><span style='font-size: 11pt;'>Para Nordic Skiing (Biathlon and Cross-Country) - Sitting Classification</span></li><li><span style=\"font-size: 11pt;\">Graduated from Shawnee Heights High School in 1998; U.S. Naval Academy in 2002; holds master's degrees in public administration and theological studies from Harvard University</span></li><li><span style=\"font-size: 11pt;\">Former U.S. Navy SEAL Lieutenant Commander who served in Iraq and Afghanistan</span></li><li><span style=\"font-size: 11pt;\">Decorated with Purple Heart and Bronze Star with Valor</span></li><li><span style=\"font-size: 11pt;\">Volunteer mentor with One Summit and Classroom Champions; enjoys running, reading, surfing and traveling</span></li></ul><h5><span style=\"font-size: 11pt;\">Biographical Information</span></h5><p><span style=\"font-size: 11pt;\">Dan Cnossen has established himself as a dominant force in both para biathlon and para cross-country skiing in the sitting classification since making his Paralympic debut at the Paralympic Winter Games Sochi 2014. Cnossen's athletic achievements include historic firsts and breakthrough performances that have elevated American para Nordic skiing to new heights on the world stage.</span></p><p><span style=\"font-size: 11pt;\">Cnossen's path to Paralympic excellence began with a life-altering incident during military service. In September 2009, while serving as platoon commander for SEAL Team One in Afghanistan, he stepped on an improvised explosive device during a nighttime operation in the mountains. The explosion caused him to lose both legs above the knee. Cnossen endured more than 40 surgeries during a two-year recovery period at Bethesda National Naval Medical Center and Walter Reed National Military Medical Center, where he learned to walk with prosthetics.</span></p><p><span style=\"font-size: 11pt;\">Growing up on a fifth-generation family farm in Kansas, Cnossen developed an early appreciation for the outdoors and physical activity. After graduating from Shawnee Heights High School in 1998, he attended the U.S. Naval Academy, where he competed on the triathlon team. He graduated in 2002 with a bachelor's degree in English and was one of only 16 members of his class selected for Basic Underwater Demolition/SEAL training as an officer. Cnossen successfully completed the grueling BUD/S training in fall 2003 and served multiple combat deployments to the Philippines, Iraq, and Afghanistan, rising to the rank of lieutenant commander and becoming officer-in-charge of an 18-man SEAL platoon.</span></p><p><span style=\"font-size: 11pt;\">During rehabilitation in 2010, a U.S. Paralympics representative at Walter Reed introduced Cnossen to adaptive sports. He attended a cross-country skiing training camp in West Yellowstone, Montana, in late 2010 and immediately connected with the sport's emphasis on nature and endurance. Cross-country skiing offered Cnossen a way to return to the outdoors and cover ground in the woods, activities he had loved before his injury. He began training for Paralympic competition in 2011 and steadily progressed through the ranks of international para Nordic skiing. Cnossen returned to academia in 2015, earning a master's degree in public administration from Harvard Kennedy School and a master's degree in theological studies from Harvard Divinity School.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">At the Paralympic Winter Games PyeongChang 2018, Cnossen delivered a once-in-a-lifetime performance that earned him recognition as the Best Male Athlete of the Games. He captured one gold medal, four silver medals, and one bronze medal over eight days of competition. His victory in the 7.5-kilometer biathlon made him the first American male Nordic skier to win Paralympic gold and only the second American overall to claim gold in biathlon at either the Olympic or Paralympic Winter Games. Cnossen continued his Paralympic success at the Paralympic Winter Games Beijing 2022, winning gold in the historic first-ever mixed 4x2.5-kilometer relay alongside teammates Oksana Masters, Sydney Peterson, and Jake Adicoff with guide Sam Wood.&nbsp;</span></p><p><span style=\"font-size: 11pt;\">Cnossen has captured multiple U.S. national titles across biathlon and cross-country events in the sitting classification. His training methods have evolved to include cross-training activities such as handcycling, prone paddleboarding, running, and surfing to maintain peak fitness during the off-season months.</span></p><p><span style=\"font-size: 11pt;\">Beyond competition, Cnossen dedicates significant time to mentorship and community service. He volunteers with One Summit, a nonprofit organization that connects military veterans with children battling cancer through outdoor climbing activities. Cnossen has served as a mentor at multiple Climbs for Courage events, teaching rock climbing skills and life lessons to young cancer patients. He also volunteers with Classroom Champions, mentoring elementary school students and teaching life skills through virtual and in-person interactions. His public speaking engagements focus on resilience, leadership, and overcoming adversity, sharing lessons learned from SEAL training, combat deployments and Paralympic competition.</span></p><p><span style=\"font-size: 11pt;\">Cnossen maintains a strong connection to his Kansas roots and the values instilled during his upbringing on the family farm. He credits his foundation in hard work, focus and appreciation for the outdoors as essential elements in both his military and athletic success.</span></p><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 7-time Paralympic medalist (2 gold, 4 silver, 1 bronze)</li><ul><li>Paralympic Games Milan 2026, 11th (10km - Sitting - Men), 15th (1km Sprint - Sitting - Men), 17th (20km - Sitting - Men)</li><li>Paralympic Games Beijing 2022, gold (4 x 2.5km Relay Mixed - Mixed), 4th (6km Sprint - Sitting - Men), 6th (18km - Sitting - Men), 7th (12.5km Individual - Sitting - Men), 12th (10km Middle - Sitting - Men), 13th (1km Sprint - Sitting - Men)</li><li>Paralympic Games Pyeongchang 2018, gold (7.5km Sprint - Sitting - Men), silver (12.5km Middle - Sitting - Men, 15km - Sitting - Men, 15km Individual - Sitting - Men, 7.5km - Sitting - Men), bronze (1km Sprint - Sitting - Men)</li><li>Paralympic Games Sochi 2014, 6th (1km Sprint - Sitting - Men), 10th (10km - Sitting - Men, 15km Individual - Sitting - Men), 11th (12.5km Middle - Sitting - Men), 13th (15km - Sitting - Men), 14th (7.5km Sprint - Sitting - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – silver (4 x 2.5km Relay Mixed - Mixed), 7th (Sprint Classic Style - Sitting - Men), 10th (20km Freestyle - Sitting - Men)</li><li>Years of participation: 20km Freestyle - Sitting - Men 2025; 4 x 2.5km Relay Mixed - Mixed 2025; Sprint Classic Style - Sitting - Men 2025; 10km Freestyle - Sitting - Men 2023; 4 x 2.5km Relay Open - Open 2022, 2023; Sprint Freestyle - Sitting - Men 2023; 10km - Sitting - Men 2011, 2013, 2015, 2019, 2022; 10km Middle - Sitting - Men 2022; 12.5km Individual - Sitting - Men 2011, 2022; 1km Sprint - Sitting - Men 2011, 2013, 2015, 2019, 2022; 6km Sprint - Sitting - Men 2022; 12.5km Middle - Sitting - Men 2013, 2015, 2019; 15km - Sitting - Men 2011, 2013, 2015, 2019; 15km Individual - Sitting - Men 2013, 2015, 2019; 7.5km Sprint - Sitting - Men 2011, 2013, 2015, 2019; H5 - Road Race - Men 2014, 2015; H5 - Time Trial - Men 2014, 2015; Team Relay - Open 2014; 2.4km Pursuit - Sitting - Men 2011</li><li>Medals: 4 (4 silver)</li><ul><li>Silver – 2025 (4 x 2.5km Relay Mixed - Mixed);  2019 (10km - Sitting - Men, 1km Sprint - Sitting - Men);  2014 (Team Relay - Open)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661963/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Cnossen_D_bio_873072.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 2,
+        "silver": 4
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Nordic Skiing",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2014, 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "LW12",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662162/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/cnossen_d_hero_873072.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1772834617/Cnossen_D_featured_873072.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1772825407/Cnossen_D_thumbnail_873072.png"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Dan Cnossen"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Para Nordic Skiing"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Paralympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "McKenzie",
+      "last_name": "Coan",
+      "bio": {
+        "height": "4'3\"",
+        "birthday": "1996-06-14T00:00:00",
+        "hometown": {
+          "city": "Clarkesville",
+          "state": "GA",
+          "country": "United States",
+          "latitude": 34.6165,
+          "longitude": -83.5238
+        },
+        "education": "Loyola University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Coan’s swimming career began with aquatic therapy in 2001 having been diagnosed with osteogenesis imperfecta (brittle bone disease) as a child</li><li>She quickly joined the swim team at her local pool after seeing how much fun her brothers had being on the team and her resume continues to have new additions</li><li>Daughter of Marc and Teresa Coan</li><li>Has two brothers, Grant and Eli</li><li>Enjoys photography, travelling, spending time with friends and dogs, and reaching out to kids with similar disabilities through her organization, 'Kenzie Kares'</li><li>In 2021, published a memoir entitled “Breaking Free: Shattering Expectations and Thriving with Ambition in Pursuit of Gold.\"</li><li>Loves reading political philosophy and her favorites are the works of Aristotle and John Locke</li><li>Has three dogs, a German shepherd named Zeus, a toy poodle named Hershey and a Yorkie named Chewie</li><li>Favorite movie series is Harry Potter</li><li>Works at her alma mater, Loyola University Maryland, in issues related to Title IX and will pursue law school in the fall of 2021 while she continues her swimming career.</li></ul><p></p><h5>CAREER HIGHLIGHTS</h5><ul><li>Parapan American Games Santiago 2023, silver (100-meter backstroke), bronze (400-meter freestyle, 50-meter freestyle)</li></ul><h5>WORLD CHAMPIONSHIP<span>&nbsp;</span><span>EXPERIENCE<span>&nbsp;</span></span><br></h5><ul><li>Years of <span>World Championships <span></span></span>Participation: 2015, 2017, 2019, 2022</li><li>Medals: 16 (8 gold, 7 silver, 1 bronze)</li><li><p><span>Most recent: 2022 (GOLD, 400-meter freestyle, 100-meter freestyle, 50-meter freestyle; SILVER, mixed 4x100-meter freestyle relay 34pt.; BRONZE, 100-meter backstroke)</span></p></li></ul><h5>Paralympic Experience</h5><ul><li>4-time Paralympian; 7-time Paralympic medalist (4 gold, 3 silver)</li><ul><li>Paralympic Games Paris 2024, silver (400m Freestyle S7 - Women), 5th (100m Freestyle S7 - Women), 12th (50m Freestyle S8 - Women), 13th (50m Butterfly S7 - Women)</li><li>Paralympic Games Tokyo 2020, gold (400m Freestyle S7 - Women), silver (100m Freestyle S7 - Women), 4th (100m Backstroke S7 - Women), 7th (50m Butterfly S7 - Women), 8th (50m Freestyle S8 - Women)</li><li>Paralympic Games Rio de Janeiro 2016, gold (100m Freestyle S7 - Women, 400m Freestyle S7 - Women, 50m Freestyle S7 - Women), silver (4 x 100m Freestyle Relay 34 Points - Women), 5th (100m Backstroke S7 - Women), 6th (50m Butterfly S7 - Women)</li><li>Paralympic Games London 2012, 6th (400m Freestyle S8 - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – gold (100m Freestyle S7 - Women, 400m Freestyle S7 - Women, 50m Freestyle S7 - Women), bronze (100m Backstroke S7 - Women)</li><li>Years of participation: 100m Backstroke S7 - Women 2022; 100m Freestyle S7 - Women 2017, 2019, 2022; 400m Freestyle S7 - Women 2017, 2019, 2022; 50m Freestyle S7 - Women 2017, 2019, 2022; 4 x 100m Freestyle Relay 34 Points - Women 2015, 2017, 2019; 4 x 100m Medley Relay 34 Points - Women 2019; 50m Butterfly S7 - Women 2017, 2019; 100m Backstroke S8 - Women 2015; 100m Breaststroke SB7 - Women 2015; 100m Freestyle S8 - Women 2015; 400m Freestyle S8 - Women 2015; 50m Freestyle S8 - Women 2015</li><li>Medals: 15 (9 gold, 5 silver, 1 bronze)</li><ul><li>Gold – 2022 (100m Freestyle S7 - Women, 400m Freestyle S7 - Women, 50m Freestyle S7 - Women);  2019 (100m Freestyle S7 - Women, 400m Freestyle S7 - Women);  2017 (100m Freestyle S7 - Women, 4 x 100m Freestyle Relay 34 Points - Women, 400m Freestyle S7 - Women, 50m Freestyle S7 - Women)</li><li>Silver – 2019 (4 x 100m Freestyle Relay 34 Points - Women, 4 x 100m Medley Relay 34 Points - Women, 50m Freestyle S7 - Women);  2017 (50m Butterfly S7 - Women);  2015 (4 x 100m Freestyle Relay 34 Points - Women)</li><li>Bronze – 2022 (100m Backstroke S7 - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661976/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/Coan_M_bio_833667.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 4,
+        "silver": 3
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Swimming",
+          "type": "Paralympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2012, 2016, 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "S7, SB6, SM7",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662129/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/coan_m_hero_833667.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680010614/TeamUSA%20Assets/Athlete%20Profiles/McKenzie%20Coan%20833667/coan_mckenzie_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "McKenzie Coan 833667"
+        },
+        {
+          "title": "Paralympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Para Swimming"
+        }
+      ]
+    },
+    {
+      "first_name": "Alaina",
+      "last_name": "Coates",
+      "bio": {
+        "height": "6'4\"",
+        "birthday": "1995-04-07T00:00:00",
+        "hometown": {
+          "city": "Irmo",
+          "state": "SC",
+          "country": "United States",
+          "latitude": 34.0885,
+          "longitude": -81.1895
+        },
+        "education": "University of South Carolina",
+        "fun_fact": "",
+        "biography": "<strong></strong><table align=\"right\"><tbody><tr><td><br /></td><td><img alt=\"\" src=\"/-/media/TeamUSA/Logo/twitter-bird-white-on-blue.png?h=100&w=100&la=en&hash=C8517DA9ACC0A9013648E0E9EF0B5E66F4B12B5E\"/><br /></td><td><br /></td></tr></tbody></table><div></div><div><p><strong ><br bold=\"[object Object]\"/></strong></p><p>&nbsp;</p><h5>Career Highlights</h5><p>&nbsp;</p><ul><li>2014 NCAA Tournament All-Region Team</li><li>2013-14 SEC Freshman of the Year</li><li>2013 McDonald's All-American</li><li>Two-time South Carolina state champion (2012, 2013)</li></ul><p>Dutch Fork High School (Irmo, S.C.) '13 University of South Carolina '17</p><h5>Quick Facts</h5>Daughter of Pamela and Gary Coates.<br /><br /><h5>More</h5><p>USA Basketball</p><p>&nbsp;</p></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Basketball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926111/TeamUSA%20Assets/Migration/Athlete%20Profiles/Alaina%20Coates/Basketball_Women_Coates_Alaina.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Alaina Coates"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Tim",
+      "last_name": "Cobb",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "2001-03-11T00:00:00",
+        "hometown": {
+          "city": "Westford",
+          "state": "VT",
+          "country": "United States",
+          "latitude": null,
+          "longitude": null
+        },
+        "education": "Mount Mansfield Union High School '19 ",
+        "fun_fact": null,
+        "biography": "<h5> World Championship Experience</h5><ul><li>2020 IBU Youth/Junior World Championships (Lenzerheide, Switzerland) - 89th in youth individual;  83rd in youth sprint</li></ul><h5>More</h5>Son of Max Cobb and Rosemary Shea-Cobb. Grew up in Vermont on skis, started biathlon in 2014. Training in Norway this year with Sirdal vgs sports school, and planning to attend Montana State University for fall of 2020.<h5>Career Highlights</h5><ul><li>World Youth/Junior Championships, Lenzerheide, 2020 (7.5km Sprint - Men, 12.5km Individual - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005364/TeamUSA%20Assets/Athlete%20Profiles/Tim%20Cobb%20851317/Cobb_83812830_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Biathlon",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005367/TeamUSA%20Assets/Athlete%20Profiles/Tim%20Cobb%20851317/Timothy-Cobb-2020_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Tim Cobb 851317"
+        }
+      ]
+    },
+    {
+      "first_name": "Samantha",
+      "last_name": "Cobb",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1991-02-24T00:00:00",
+        "hometown": {
+          "city": "Garland",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.9126,
+          "longitude": -96.6419
+        },
+        "education": "University of Tulsa",
+        "fun_fact": "",
+        "biography": "<h5>Career Highlights</h5><div><div><p></p><ul><li>2014 IBAF Women's Baseball World Cup, 2nd</li><li>2012 IBAF Women's Baseball World Cup, 2nd</li><li>2012 Conference USA Tournament, 1st</li></ul><p></p><h5>Quick Facts</h5><ul><li>Daughter of Stephen and Sherrie Cobb</li><li>Is a four-year letterwinner in softball at the University of Tulsa, where she started all 228 games at shortstop and finished her career ranked first in RBIs (195)</li><li>Earned the No. 7 Top Play on ESPN's SportsCenter with a diving catch against Oklahoma in the NCAA Regional.</li></ul><br><p></p><p><br></p></div></div>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686320778/TeamUSA%20Assets/Migration/Athlete%20Profiles/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Team USA",
+      "sport": [
+        {
+          "title": "Baseball",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926237/TeamUSA%20Assets/Migration/Athlete%20Profiles/Samantha%20Cobb/Baseball_Women_Cobb_Samantha.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Samantha Cobb"
+        },
+        {
+          "title": "Alumni Class of 2025"
+        }
+      ]
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Coburn",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1990-10-19T00:00:00",
+        "hometown": {
+          "city": "Crested Butte",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 38.8694,
+          "longitude": -106.987
+        },
+        "education": "University of Colorado",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Bill and Annie Coburn</li><li>Has two brothers, Joe and Willy, and one sister, Gracie</li><li>Married to Joe Bosshard</li><li>2011 NCAA outdoor champion</li><li>At age 21, was the youngest U.S. runner to compete at the 2012 Olympic Games</li><li>Volunteered with Living Journeys Cancer Foundation and the Mountain Adventure Kid’s Camp.</li></ul><p></p><p>Years of <span>World Championships </span>participation: Outdoor – 2011, 2015, 2017, 2019.</p><p><span>Most recent: 2019 – silver (3,000-meter steeplechase).</span> Medals: 2 (1 gold, 1 silver)</p><h5>More</h5><p>Personal Website</p><p>USA Track and Field</p><p></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 1-time Olympic medalist (1 bronze)</li><ul><li>Olympic Games Tokyo 2020, 15th (3000m Steeplechase - Women)</li><li>Olympic Games Rio de Janeiro 2016, bronze (3000m Steeplechase - Women)</li><li>Olympic Games London 2012, 8th (3000m Steeplechase - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 28th (3000m Steeplechase - Women)</li><li>Years of participation: 3000m Steeplechase - Women 2015, 2017, 2023</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2017 (3000m Steeplechase - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687661971/TeamUSA%20Assets/Athlete%20Profiles/batch%20images/coburn_e_bio_829744.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 1,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2012, 2016, 2020",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005417/TeamUSA%20Assets/Athlete%20Profiles/Emma%20Coburn%20829744/Coburn_Emma.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Emma Coburn 829744"
+        }
+      ]
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Cochran-Siegle",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1992-03-27T00:00:00",
+        "hometown": {
+          "city": "Starksboro",
+          "state": "VT",
+          "country": "United States",
+          "latitude": 44.2256,
+          "longitude": -73.0076
+        },
+        "education": "University of Vermont",
+        "fun_fact": "Works at his family’s maple syrup shop, Cochran’s Slopeside Syrup",
+        "biography": "<h5>Quick Facts</h5><ul><li>Son of Drew and Barbara Ann Cochran</li><li>Mother Barbara Ann won gold in slalom at the Olympic Winter Games Sapporo 1972</li><li>Has two sisters, Cate and Melanie</li><li>Started skiing at age two</li><li>Works at his family’s maple syrup shop, Cochran’s Slopeside Syrup</li><li>Enjoys being outdoors, reading and photography</li></ul><h5>Biographical Information</h5><p>Ryan Cochran-Siegle started skiing at age two and is one of six alpine skiing Olympians in the Cochran family, including his mother, Barbara Ann, Olympic giant slalom gold medalist at the Olympic Winter Games Sapporo 1972. <span>Cochran-Siegle made the U.S. national alpine team for the 2011 season, joining his cousin, two-time Olympian Jimmy Cochran, on the team. The following year, Ryan became a two-time world junior champion</span>.</p><p>Cochran-Siegle would tear his ACL and lateral meniscus at his first FIS Alpine Ski World Championships appearance in 2013. Five years later, he made his Olympic debut at the Olympic Winter Games PyeongChang 2018 with his best finish being 14th in the super-G. Cochran-Siegle won his first FIS World Cup race in December 2020 before missing the 2021 FIS Alpine Ski World Championships with a fractured neck. Cochran-Siegle would comeback to earn silver in the super-G at Olympic Winter Games Beijing 2022 and was the only U.S. alpine skiing medalist at the Beijing Games.</p><p>Off the slopes, Cochran-Siegle enjoys being outdoors in his home state of Vermont. He is a board member on the <span>family non-profit mountain in Vermont that strives to provide all children with access to skiing, started by his grandparents in 1961. He is also active with his family's sugar shack, where they produce Cochran's Slopeside Syrup.</span></p><h5>Olympic Experience</h5><ul><li>3-time Olympian; 2-time Olympic medalist (2 silver)</li><ul><li>Olympic Games Milan 2026, silver (Super G - Men), 18th (Downhill - Men)</li><li>Olympic Games Beijing 2022,  (Giant Slalom - Men), silver (Super G - Men), 14th (Downhill - Men)</li><li>Olympic Games Pyeongchang 2018,  (Super Combined - Men), 11th (Giant Slalom - Men), 14th (Super G - Men), 23th (Downhill - Men)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2025 – 4th (Team Alpine Combined - Men), 7th (Super G - Men), 13th (Downhill - Men)</li><li>Years of participation: Downhill - Men 2019, 2023, 2025; Super G - Men 2013, 2017, 2019, 2023, 2025; Team Alpine Combined - Men 2025; Super Combined - Men 2013, 2017, 2019, 2023; Giant Slalom - Men 2017, 2019</li><li>Top finish:  – 2013 (Super Combined - Men)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1701107972/TeamUSA%20Assets/News/CochranSiegle_Ryan_Aspen_2023.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 2
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Alpine Skiing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2018, 2022, 2026",
+      "olympian_paralympian_qualified": "Milano Cortina 2026",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1742496854/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Cochran-Siegle/cochran-siegle_r_hero_804806.png"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1770829408/Cochran-Siegle_R_featured_804806.png"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926227/TeamUSA%20Assets/Migration/Athlete%20Profiles/Ryan%20Cochran-Siegle/cochran_siegle_ryan_Headshot_2022_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Ryan Cochran-Siegle"
+        },
+        {
+          "title": "Beijing 2022"
+        },
+        {
+          "title": "Alpine Skiing"
+        },
+        {
+          "title": "2024-2025 National Team Tag"
+        },
+        {
+          "title": "2025-2026 National Team"
+        },
+        {
+          "title": "Olympic Winter Games Milano Cortina 2026, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Cockrell",
+      "bio": {
+        "height": "5'11\"",
+        "birthday": "1997-08-28T00:00:00",
+        "hometown": {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "United States",
+          "latitude": 35.2271,
+          "longitude": -80.8431
+        },
+        "education": "University of Southern California ‘19, Communications",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Kieth and Serena Cockrell</li><li>Has two siblings, Ciera and Ross</li><li>Also speaks Spanish</li><li>Extremely interested in politics and volunteered with two campaigns during the 2018 midterm elections</li><li>Loves going to live music events and is a massive Beyoncé fan</li><li>Hobbies include reading, singing, playing piano and baking</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian; 1-time Olympic medalist (1 silver)</li><ul><li>Olympic Games Paris 2024, silver (400m Hurdles - Women)</li><li>Olympic Games Tokyo 2020, 8th (400m Hurdles - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2023 – 5th (400m Hurdles - Women)</li><li>Years of participation: 400m Hurdles - Women 2023</li><li>Top finish: 5th – 2023 (400m Hurdles - Women)</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662490/TeamUSA%20Assets/Athlete%20Profiles/Anna%20Cockrell%201138722/Cockrell_A_Bio_1138722.png"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 1
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Track and Field",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1687662596/TeamUSA%20Assets/Athlete%20Profiles/Anna%20Cockrell%201138722/Cockrell_A_Hero_1138722.png"
+        }
+      ],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005382/TeamUSA%20Assets/Athlete%20Profiles/Anna%20Cockrell%201138722/Cockrell_Anna_150x250_2021.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Anna Cockrell 1138722"
+        },
+        {
+          "title": "Track and Field"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        }
+      ]
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Coffey",
+      "bio": {
+        "height": "6'1\"",
+        "birthday": "1989-01-29T00:00:00",
+        "hometown": {
+          "city": "Watkins Glen",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 42.3397,
+          "longitude": -76.8728
+        },
+        "education": "Harvard University ‘11",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li><p>Has three older sisters.</p></li><li>Grew up playing basketball and hockey, but rowing was in her DNA</li><li>Her dad Calvin was an Olympic silver medalist in the Olympic Games Montreal 1976 in the men’s rowing pair</li><li>Hobbies include eating at new restaurants and finding new coffee places</li></ul><h5>Olympic Experience</h5><ul><li>2-time Olympian</li><ul><li>Olympic Games Paris 2024, 5th (Eight - Women)</li><li>Olympic Games Tokyo 2020, 4th (Eight - Women)</li></ul></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2019 – bronze (Eight - Women)</li><li>Years of participation: Eight - Women 2018, 2019; Quadruple Sculls - Women 2014, 2015; Four - Women 2013</li><li>Medals: 5 (3 gold, 2 bronze)</li><ul><li>Gold – 2018 (Eight - Women);  2015 (Quadruple Sculls - Women);  2013 (Four - Women)</li><li>Bronze – 2019 (Eight - Women);  2014 (Quadruple Sculls - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712851771/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Coffey%20806281/Coffey_o_bio_806281.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2020, 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712852269/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Coffey%20806281/Coffey_o_hero_806281_01.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1712852269/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Coffey%20806281/Coffey_o_hero_806281_01.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1680005302/TeamUSA%20Assets/Athlete%20Profiles/Olivia%20Coffey%20806281/Coffey_Olivia_headshot.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olivia Coffey 806281"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "Coffey",
+      "bio": {
+        "height": "5'6\"",
+        "birthday": "1998-12-31T00:00:00",
+        "hometown": {
+          "city": "New York City",
+          "state": "NY",
+          "country": "United States",
+          "latitude": 40.7128,
+          "longitude": -74.006
+        },
+        "education": "Pennsylvania State University",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daugher of sportswriter Wayne Coffey and Denise Willi</li><li>Has one sister, Alex, who is also a sportswriter</li><li>Played collegiate soccer for Boston College and Penn State</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian; 1-time Olympic medalist (1 gold)</li><ul><li>Olympic Games Paris 2024, gold (Team - Women)</li></ul></ul><h5>Career Highlights</h5><ul><li>Drafted 12th overall by the Portland Thorns FC</li></ul><ul><li>2022 NWSL Rookie of the Month - June</li><li>2022 NWSL Best XI of the Month - June, Sept./Oct</li><li>2023, 2022 NWSL Best XI</li></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720110010/Coffey_Sam_2023.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 1,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Soccer",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "Paris 2024 ",
+      "para_classification": "",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1720109992/Coffey_Sam_Headshot23.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Soccer"
+        },
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Sam Coffey"
+        }
+      ]
+    },
+    {
+      "first_name": "Corey",
+      "last_name": "Cogdell-Unrein",
+      "bio": {
+        "height": "5'8\"",
+        "birthday": "1986-09-02T00:00:00",
+        "hometown": {
+          "city": "Eagle River",
+          "state": "AK",
+          "country": "United States",
+          "latitude": 61.5908,
+          "longitude": -149.5708
+        },
+        "education": " I.D.E.A. Home School Association (Eagle River, Alaska) ‘06",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Daughter of Richard and Wendy Cogdell</li><li>Has one sister, Tanis</li><li>Married to professional football player Mitch Unrein</li><li>Interests include hunting, fishing, cooking, working out, golfing and shopping</li><li>Started shooting at age 3</li><li>Member of the Whitetail Deer Education Foundation, Wild Sheep Foundation, Safari Club International and Team for Tomorrow.</li></ul><h5>Career Highlights</h5><ul>\r\n                            <li>2011 World Clay Target Championships, 6th</li>\r\n                            <li>2010 Championship of the Americas, 1st</li>\r\n                            <li>2010 World Championships, 8th</li>\r\n                            <li>2010 National Championships, 3rd</li>\r\n                            <li>2009 national champion</li>\r\n                            <li>2008 U.S. Olympic Trials, 1st</li>\r\n                            <li>2007 Pan American Games, bronze</li>\r\n                            <li>2007 National Championships, 3rd</li>\r\n                    </ul><h5>Olympic Experience </h5><ul><li>3-time Olympian; 2-time Olympic medalist (2 bronze)</li><ul><li>Olympic Games Rio de Janeiro 2016, bronze (Trap - Women)</li><li>Olympic Games London 2012, 11th (Trap - Women)</li><li>Olympic Games Beijing 2008, bronze (Trap - Women)</li></ul></ul><h5> World Championship Experience</h5><ul><li>Most recent: 2018 – 47th (Trap - Team - Mixed)</li><li>Years of participation: Trap - Team - Mixed 2018; Trap - Team - Women 2017; Trap - Women 2007, 2009, 2010, 2011, 2013, 2015, 2017</li><li>Medals: 1 (1 gold)</li><ul><li>Gold – 2017 (Trap - Team - Women)</li></ul></ul><h5>More</h5>Personal Website<br>\nUSA Shooting",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926218/TeamUSA%20Assets/Migration/Athlete%20Profiles/Corey%20Cogdell-Unrein/Cogdell_corey_081108_1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 2,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Shooting",
+          "type": "Olympic",
+          "season": "Summer"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2008, 2012, 2016",
+      "olympian_paralympian_qualified": null,
+      "para_classification": null,
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1686926221/TeamUSA%20Assets/Migration/Athlete%20Profiles/Corey%20Cogdell-Unrein/CogdellUnrein_Corey_150x250.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Corey Cogdell-Unrein"
+        }
+      ]
+    },
+    {
+      "first_name": "Arlene",
+      "last_name": "Cohen",
+      "bio": {
+        "height": "5'2\"",
+        "birthday": "1969-06-04T00:00:00",
+        "hometown": {
+          "city": "Breckenridge",
+          "state": "CO",
+          "country": "United States",
+          "latitude": 39.4817,
+          "longitude": -106.0384
+        },
+        "education": " Broward College '98, Paramedic-Firefighter",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>Cohen took up para-snowboarding in 2010. In 2006, she fractured her tibia in a snowboarding accident. Three years later, she was diagnosed with a bone infection in her ankle joint and had to have her leg amputated below the knee after numerous operations</li><li>Works as a paramedic and firefighter</li><li>Daughter of Verena Cohen</li><li>Has two siblings, Lorraine and Elio</li><li>Married to Jorge Moral</li><li>Has one daughter, Taylor</li><li>Hobbies include biking, hiking and paddle boarding</li><li>Fluent in Spanish</li><li>Enjoys cooking and baking but doesn&#39;t not like sweets</li><li>Volunteer at the Breckenridge Outdoor Education Center in her free time.</li></ul><h5>Paralympic Experience</h5><ul><li>1-time Paralympian</li><ul><li>Paralympic Games Pyeongchang 2018, 7th (Banked Slalom - Lower Limb 2 Impaired - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715661/TeamUSA%20Assets/Migration/Athlete%20Profiles/Arlene%20Cohen%201099136/AthleteHeroDefault-1200x300.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Paralympian",
+      "sport": [
+        {
+          "title": "Para Snowboarding",
+          "type": "Paralympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Paralympian 2018",
+      "olympian_paralympian_qualified": null,
+      "para_classification": "SB-LL2",
+      "hero_image": [],
+      "featured_image_list": [],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1682715663/TeamUSA%20Assets/Migration/Athlete%20Profiles/Arlene%20Cohen%201099136/Arlene_HdSt.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Arlene Cohen 1099136"
+        }
+      ]
+    },
+    {
+      "first_name": "Teal",
+      "last_name": "Cohen",
+      "bio": {
+        "height": "5'10\"",
+        "birthday": "1999-05-07T00:00:00",
+        "hometown": {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "United States",
+          "latitude": 32.7767,
+          "longitude": -96.797
+        },
+        "education": "University of Washington '22",
+        "fun_fact": null,
+        "biography": "<h5>Quick Facts</h5><ul><li>D<span>aughter of Kim Elting and Stewart Cohen</span></li><li>S<span>tarted rowing in 2013 at The Hockaday School under Tim McAllister</span></li><li>L<span>ists her mom, Kim Elting, as one of her personal heroes for constantly supporting and inspiring her, and her grandfather, James Elting, for the legacy he left in the sport</span></li><li>Hobbies include r<span>eading, cooking, spending time outside and traveling</span></li></ul><h5>World Championships Experience</h5><ul><li>Most recent: 2022 – 12th (Four - Women)</li><li>Years of participation: Four - Women 2022</li><li>Top finish: 12th – 2022 (Four - Women)</li></ul><h5>Career Highlights</h5><ul><li>World Championships Under 23, Racice, 2021 (Eight - Women, Four - Women)</li><li>World Championships Under 23, Sarasota, 2019 (Four - Women)</li><li>World Junior Championships, Trakai, 2017 (Eight - Women)</li></ul><h5>Olympic Experience</h5><ul><li>1-time Olympian</li><ul><li>Olympic Games Paris 2024, 9th (Quadruple Sculls - Women)</li></ul></ul>",
+        "image": [
+          {
+            "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717432855/TeamUSA%20Assets/Athlete%20Profiles/Teal%20Cohen%201187814/Cohen_T_bio_1187814.jpg"
+          }
+        ]
+      },
+      "medals": {
+        "bronze": 0,
+        "gold": 0,
+        "silver": 0
+      },
+      "olympic_paralympic": "Olympian",
+      "sport": [
+        {
+          "title": "Rowing",
+          "type": "Olympic",
+          "season": "Winter"
+        }
+      ],
+      "olympian_paralympian_years": "Olympian 2024",
+      "olympian_paralympian_qualified": "",
+      "para_classification": "",
+      "hero_image": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717432857/TeamUSA%20Assets/Athlete%20Profiles/Teal%20Cohen%201187814/Cohen_T_hero_1187814.jpg"
+        }
+      ],
+      "featured_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717432852/TeamUSA%20Assets/Athlete%20Profiles/Teal%20Cohen%201187814/Cohen_T_thumbnail_1187814.jpg"
+        }
+      ],
+      "thumbnail_image_list": [
+        {
+          "secure_url": "https://res.cloudinary.com/usopc-prod/image/upload/v1717432852/TeamUSA%20Assets/Athlete%20Profiles/Teal%20Cohen%201187814/Cohen_T_thumbnail_1187814.jpg"
+        }
+      ],
+      "content_tags": [
+        {
+          "title": "Olympic Games Paris 2024, Qualified"
+        },
+        {
+          "title": "Teal Cohen 1187814"
+        },
+        {
+          "title": "Rowing"
+        }
+      ]
+    }
+  ]
+}
