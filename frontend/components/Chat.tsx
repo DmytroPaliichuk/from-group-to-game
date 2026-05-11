@@ -201,6 +201,11 @@ export default function Chat({
     if (e.key === 'Enter' && !isLoading) send()
   }
 
+  const lastAssistantIdx = messages.reduce(
+    (last, msg, i) => (msg.role === 'assistant' && !msg.typing ? i : last),
+    -1,
+  )
+
   return (
     <aside className="flex flex-col w-full h-full rounded-lg overflow-hidden bg-[#0f172a]">
       <div className="px-4 flex items-center justify-between h-[52px] border-b border-[#1A1A1A] flex-shrink-0">
@@ -256,7 +261,7 @@ export default function Chat({
                 )}
               </div>
 
-              {!msg.typing && (msg.followups && msg.followups.length > 0) && (
+              {!msg.typing && i === lastAssistantIdx && (msg.followups && msg.followups.length > 0) && (
                 <div className="flex flex-col gap-2 w-full max-w-[75%]">
                   {msg.followups?.map(q => (
                     <button
