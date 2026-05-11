@@ -1,5 +1,7 @@
 import ResizableLayout from '@/components/ResizableLayout'
 
+export const dynamic = 'force-dynamic'
+
 export default async function Home() {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   let cities: any[] = []
