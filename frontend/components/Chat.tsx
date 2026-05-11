@@ -7,18 +7,13 @@ interface Message {
   role: 'user' | 'assistant' | 'system'
   text: string
   typing?: boolean
+  followups?: string[]
 }
 
 const LS_USER_ID    = 'fg2g_user_id'
 const LS_SESSION_ID = 'fg2g_session_id'
 const LS_MESSAGES   = 'fg2g_chat_messages'
 const API_BASE      = process.env.NEXT_PUBLIC_API_URL ?? ''
-
-const FOLLOWUP_QUESTIONS = [
-  'Who won gold in LA 1984?',
-  'Which sport had the most CA athletes?',
-  'Show me Paralympic winners from California',
-]
 
 // Module-level so the init useEffect has no stale-closure dependency on it.
 async function callCreateSession(uid: string): Promise<string | null> {
@@ -38,7 +33,11 @@ async function callCreateSession(uid: string): Promise<string | null> {
   }
 }
 
-export default function Chat({ onApplyPreset }: { onApplyPreset?: () => void }) {
+export default function Chat({
+  onApplyFilters,
+}: {
+  onApplyFilters?: (filters: Record<string, string[]>) => void
+}) {
   const userId        = useRef<string>('')
   // Skip the first persistence run so init's setMessages(restored) doesn't
   // race with the effect and briefly overwrite localStorage with [].
@@ -61,7 +60,15 @@ export default function Chat({ onApplyPreset }: { onApplyPreset?: () => void }) 
       isFirstRender.current = false
       return
     }
-    localStorage.setItem(LS_MESSAGES, JSON.stringify(messages.filter(m => !m.typing)))
+    localStorage.setItem(
+      LS_MESSAGES,
+      JSON.stringify(
+        messages
+          .filter(m => !m.typing)
+          // eslint-disable-next-line @typescript-eslint/no-unused-vars
+          .map(({ followups: _f, ...rest }) => rest),
+      ),
+    )
   }, [messages])
 
   // On mount: resolve user_id, restore messages, resolve or create session_id.
@@ -128,10 +135,17 @@ export default function Chat({ onApplyPreset }: { onApplyPreset?: () => void }) 
       })
 
       if (res.ok) {
-        const data: { reply: string } = await res.json()
+        const data: {
+          reply: string
+          filters?: Record<string, string[]>
+          followups?: string[]
+        } = await res.json()
+        if (data.filters && Object.keys(data.filters).length > 0) {
+          onApplyFilters?.(data.filters)
+        }
         setMessages(prev => [
           ...prev.filter(m => !m.typing),
-          { role: 'assistant', text: data.reply },
+          { role: 'assistant', text: data.reply, followups: data.followups ?? [] },
         ])
       } else if (res.status >= 400 && res.status < 500) {
         // 4xx → stale session; silently recover with a new one.
@@ -186,6 +200,11 @@ export default function Chat({ onApplyPreset }: { onApplyPreset?: () => void }) 
   function handleKeyDown(e: React.KeyboardEvent<HTMLInputElement>) {
     if (e.key === 'Enter' && !isLoading) send()
   }
+
+  const lastAssistantIdx = messages.reduce(
+    (last, msg, i) => (msg.role === 'assistant' && !msg.typing ? i : last),
+    -1,
+  )
 
   return (
     <aside className="flex flex-col w-full h-full rounded-lg overflow-hidden bg-[#0f172a]">
@@ -242,19 +261,14 @@ export default function Chat({ onApplyPreset }: { onApplyPreset?: () => void }) 
                 )}
               </div>
 
-              {!msg.typing && onApplyPreset && (
+              {!msg.typing && i === lastAssistantIdx && (msg.followups && msg.followups.length > 0) && (
                 <div className="flex flex-col gap-2 w-full max-w-[75%]">
-                  <button
-                    onClick={onApplyPreset}
-                    className="flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#0B9FEA] hover:bg-[#0a8fd4] text-white text-sm font-medium transition-colors w-fit"
-                  >
-                    ▶ Press to play
-                  </button>
-                  {FOLLOWUP_QUESTIONS.map(q => (
+                  {msg.followups?.map(q => (
                     <button
                       key={q}
-                      onClick={() => sendText(q)}
-                      className="text-left text-sm text-[#94A3B8] px-3 py-1.5 rounded-lg bg-[#1e293b] border-l-2 border-[#0B9FEA] hover:text-[#e2e8f0] hover:bg-[#253347] transition-colors"
+                      onClick={() => !isLoading && sendText(q)}
+                      disabled={isLoading}
+                      className="text-left text-sm text-[#94A3B8] px-3 py-1.5 rounded-lg bg-[#1e293b] border-l-2 border-[#0B9FEA] hover:text-[#e2e8f0] hover:bg-[#253347] transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                     >
                       {q}
                     </button>

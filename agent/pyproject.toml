@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "google-adk>=1.32.0",
+    "chromadb>=0.6.0",
+    "google-cloud-aiplatform>=1.60.0",
 ]

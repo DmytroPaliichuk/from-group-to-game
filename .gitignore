@@ -35,3 +35,6 @@ scripts/temp_jsons/*
 
 # Processed JSONs
 scripts/process_jsons/*
+
+# US Olympics Agent — ChromaDB vector index (built locally by build_index.py)
+agent/us_olympics_agent/chroma_db/

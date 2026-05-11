@@ -74,6 +74,8 @@ class ChatRequest(BaseModel):
 
 class ChatResponse(BaseModel):
     reply: str
+    filters: dict[str, list[str]] = {}
+    followups: list[str] = []
 
 
 @app.get("/athletes/hometowns")
@@ -123,6 +125,15 @@ def chat(req: ChatRequest) -> ChatResponse:
             for part in event.get("content", {}).get("parts", []):
                 if text := part.get("text"):
                     parts.append(text)
-        return ChatResponse(reply="".join(parts))
+        raw = "".join(parts)
+        try:
+            parsed = json.loads(raw)
+            return ChatResponse(
+                reply=parsed["text"],
+                filters=parsed.get("filters", {}),
+                followups=parsed.get("followups", []),
+            )
+        except (json.JSONDecodeError, KeyError):
+            return ChatResponse(reply=raw)
     except Exception as exc:
         raise HTTPException(status_code=502, detail=str(exc))

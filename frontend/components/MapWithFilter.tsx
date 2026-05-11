@@ -101,6 +101,7 @@ export default function MapWithFilter({
   selectedAthleteIds,
   onAthleteSelect,
   onAthleteRemove,
+  selectedAthleteNames,
   selectedCityKeys,
   onCitySelect,
   onCityRemove,
@@ -123,6 +124,7 @@ export default function MapWithFilter({
   selectedAthleteIds: Set<number>
   onAthleteSelect: (id: number) => void
   onAthleteRemove: (id: number) => void
+  selectedAthleteNames?: Set<string>
   selectedCityKeys: Set<string>
   onCitySelect: (key: string) => void
   onCityRemove: (key: string) => void
@@ -170,16 +172,26 @@ export default function MapWithFilter({
     return entries
   }, [cities])
 
-  // null means no athlete restriction; Set means restrict to these composite keys
+  // null means no athlete restriction; Set means restrict to these composite keys.
+  // Both ID-based (UI search) and name-based (agent filter) selections contribute via OR.
   const selectedAthleteKeys = useMemo<Set<string> | null>(() => {
-    if (selectedAthleteIds.size === 0) return null
+    const hasIds = selectedAthleteIds.size > 0
+    const hasNames = selectedAthleteNames && selectedAthleteNames.size > 0
+    if (!hasIds && !hasNames) return null
     const keys = new Set<string>()
     for (const id of selectedAthleteIds) {
       const e = allAthletes[id]
       keys.add(`${e.firstName}|${e.lastName}|${e.city}|${e.state}`)
     }
+    if (hasNames) {
+      for (const e of allAthletes) {
+        if (selectedAthleteNames!.has(e.fullName)) {
+          keys.add(`${e.firstName}|${e.lastName}|${e.city}|${e.state}`)
+        }
+      }
+    }
     return keys
-  }, [selectedAthleteIds, allAthletes])
+  }, [selectedAthleteIds, selectedAthleteNames, allAthletes])
 
   function toggleGame(type: string) {
     const next = new Set(gameFilter)
